@@ -12,7 +12,6 @@
 > Compilado a partir dos 8 grãos de era em `conceitos/`. Referência interna com wikilinks.
 
 ---
-dg-publish: true
 
 ## ÍNDICE
 
