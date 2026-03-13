@@ -11,10 +11,12 @@ A história é escrita pelos vencedores. Neste Império, o vencedor nunca mudou.
 
 ## Eras
 
-- **Idade Esquecida** — Antes dos registros, antes dos deuses conhecidos
-- **Primeira Era** — O despertar das raças e os primeiros reinos
-- **Segunda Era** — Ascensão e guerras, formação do continente político
-- **Terceira Era** — O Império de Arothistar, a era presente
+- [[_referencias/idade_esquecida\|Idade Esquecida]] — Antes dos registros, antes dos deuses conhecidos
+- [[_referencias/primeira_era\|Primeira Era]] — O despertar das raças e os primeiros reinos
+- [[_referencias/segunda_era\|Segunda Era]] — Ascensão e guerras, formação do continente político
+- [[_referencias/terceira_era\|Terceira Era]] — O Império de Arothistar, a era presente
+
+Referências expandidas: [[_referencias/cronologia_referencia\|Cronologia e História — Referência de Eras]] · [[_referencias/cronologia_de_arothistar\|Cronologia de Arothistar]] · [[_referencias/guerras_reinkardicas_a_sombra_desce\|Guerras Reinkárdicas: A Sombra Desce]] · [[_referencias/guerras_reinkardicas_a_ultima_muralha\|Guerras Reinkárdicas: A Última Muralha]] · [[_referencias/guerras_reinkardicas_a_queda_aroth\|Guerras Reinkárdicas: A Queda]]
 
 ## Eventos Fundadores
 
