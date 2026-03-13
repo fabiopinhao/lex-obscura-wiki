@@ -1,0 +1,28 @@
+---
+{"dg-publish":true,"permalink":"/escolas/hydro/"}
+---
+
+
+## Sistema
+
+### o_que_faz
+Manipula água existente. Cria correntes, jatos cortantes, marés. Extrai umidade do ar, solo ou corpos. Pode afogar alvos. Requer proximidade de água.
+
+### palavras_chave
+água, corrente, maré, afogar, dilúvio, tsunami, umidade, pressão, jato
+
+### exemplos_representativos
+Manipulação (mover água, criar correntes); Respiração (criar bolsas de ar na água); Projeção (jatos cortantes); Corrente (criar marés, redemoinhos); Extração (puxar umidade de corpos); Tsunami (onda colossal devastadora)
+
+### nao_confundir_com
+[[escolas/cryo\|Cryo]] (água líquida vs. gelo); [[escolas/aero\|Aero]] (fluidos distintos — água vs. ar)
+
+## Lore
+
+Hydro é a escola híbrida de azul e verde que manipula água existente com precisão superior a qualquer escola que afete matéria em geral, exigindo proximidade de corpo d’água ou umidade mas compensando com versatilidade que vai do utilitário ao geológico. Sua mecânica escala do controle à catástrofe: Fluxo move água existente, redireciona correntes, puxa poças, desvia chuva, separa volumes, a forma mais básica de controle, diferente de Atração ([[escolas/cosmo\|Cosmo]]) que puxa qualquer matéria por gravidade com menos precisão; Bruma dispersa água em névoa que cobre área, visibilidade caindo, sons se abafando, contornos sumindo, não ilusão ([[escolas/spectro\|Spectro]]) mas água real suspensa no ar, diferente de Penumbra ([[escolas/umbra\|Umbra]]) que oculta por escuridão e de Negrume ([[escolas/umbra\|Umbra]]) que engole luz enquanto Bruma pode ser congelada por [[escolas/cryo\|Cryo]] ou dissipada por vento forte; Filtro separa água de impurezas, limpa veneno, remove sal, purifica lama, o lado utilitário que mantém exércitos em marcha, diferente de Depuração ([[escolas/salvo\|Salvo]]) que purifica o corpo de dentro; Açoite projeta jatos, chicotes e lâminas de água pressurizada que cortam carne, racham madeira e riscam pedra, diferente de Talho ([[escolas/aero\|Aero]]) que corta com ar comprimido invisível enquanto Açoite é visível e rastreável mas corta mais fundo; Correnteza cria redemoinhos, marés artificiais e correntes que arrastam, a água não precisando ser profunda porque um palmo basta para derrubar quem pisa, diferente de Vendaval ([[escolas/aero\|Aero]]) que empurra por vento; Bolha aprisiona alvo em esfera de água suspensa, o preso flutuando dentro, imóvel, visível mas intocável, sufocando até a concentração cessar, diferente de Suspensão ([[escolas/cosmo\|Cosmo]]) que remove gravidade em ar seco; Dessecação extrai água de matéria viva ou do ambiente, plantas enegrecendo, solo gretando, pele enrugando como pergaminho, boca secando, olhos ardendo, músculos recusando contrair, diferente de Sifão ([[escolas/necro\|Necro]]) que drena força vital, essência arcana, enquanto Dessecação drena água, substância física; Icor controla fluidos dentro de corpo vivo, sangue desacelerando, articulações travando, músculos contraindo contra a vontade do dono, o corpo traído pela própria biologia, diferente de Clausura ([[escolas/nomos\|Nomos]]) que imobiliza por lei arcana e de Cruor ([[escolas/belli\|Belli]]) que usa sangue próprio como combustível enquanto Icor domina fluidos alheios; Dilúvio desencadeia inundação em área, ondas arrastando, correnteza arrancando, nível subindo e não descendo, terreno plano virando lago em segundos; e Maremoto, sua escala máxima, faz a água obedecer em escala geológica, rios invertendo curso, lagos transbordando, o mar recuando e retornando com fúria que reescreve a costa, diferente de Cataclismo ([[escolas/geo\|Geo]]) que redesenha o terreno enquanto Maremoto o afoga, o que o Dilúvio alaga o Maremoto apaga.
+
+O custo temático é desidratação severa, boca e pele secas, durando de cinco minutos a quatro horas, e Dilúvio cobra desidratação paradoxal onde o corpo cede água enquanto a conjura a multiplica. O custo ontológico é fluidez emocional: no Estágio I, emoções flutuam mais que o normal; no II, estabilidade afetiva torna-se difícil de manter; no III, sentimentos mudam como marés e nada permanece; no IV, identidade emocional inexiste, o praticante assume a forma do recipiente emocional mais próximo, e o descarte vem por Transferência silenciosa quando muda de lado sem perceber, desaparecendo durante mudança emocional sem que ninguém note, lealdade inverificável quando emoções são fluidas. O [[organizacoes/imperio_sombrio\|Império]] recruta praticantes apenas para funções de curto prazo e missões sem lealdade crítica.
+
+A combinação com [[escolas/cryo\|Cryo]]/Relento produz emboscada perfeita — Bruma saturando o ar de umidade enquanto Relento transforma essa umidade em gelo fino sobre toda superfície, visibilidade zero e chão traiçoeiro ao mesmo tempo; com [[escolas/pyro\|Pyro]]/Ardência, calor que seca — Ardência elevando temperatura ambiente sem chama visível enquanto Dessecação puxa água dos tecidos expostos, travessia de deserto comprimida em minutos; com [[escolas/geo\|Geo]], lama, areia movediça e erosão dirigida — Hydro saturando o solo que [[escolas/geo\|Geo]] controla.
+
+Par antagônico: [[escolas/pyro\|Pyro]], onde água extingue e adapta o que fogo devora e consome, fluir contra consumir, Hydro apagando Crisol, Maremoto afogando Inferno, a defesa natural de um sendo o domínio do outro.

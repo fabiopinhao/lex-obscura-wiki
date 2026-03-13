@@ -1,0 +1,45 @@
+---
+{"dg-publish":true,"permalink":"/eventos/queda-de-myrgarde-e-fim-das-guerras-reinkardicas/"}
+---
+
+
+## Sistema
+
+### locais
+
+- [[locais/myrgarde\|Myrgarde]]
+- [[locais/mor_severith\|Mor'Severith]]
+- [[locais/ghol_drokh\|Ghol'Drokh]]
+
+### personagens
+
+- [[personagens/arothistar\|Arothistar]]
+- [[personagens/grimald\|Grimald (Sir Grimald, Lâmina Dourada)]]
+- [[personagens/corvina\|Madre Corvina]]
+- [[personagens/auren\|Auren]]
+- [[personagens/iluvrae\|Ilúvrae]]
+- [[personagens/pip\|Pip]]
+- [[personagens/coveiro-mor\|Coveiro-mor]]
+
+### notas
+
+- Última cidade a cair; portões cedem após cerco de três anos (E-0039).
+- Última aparição pessoal de [[personagens/arothistar\|Arothistar]] no campo de batalha.
+- [[personagens/grimald\|Grimald]] executado (detalhes no Prólogo do Livro II).
+- [[personagens/auren\|Auren]] capturado ANTES da queda, transferido para [[locais/mor_severith\|Mor'Severith]] com [[personagens/iluvrae\|Ilúvrae]] por design.
+- [[personagens/pip\|Pip]] escravizado nas forjas.
+- [[personagens/nyx_ara\|Corvina]] poupada — maior erro de cálculo de [[personagens/arothistar\|Arothistar]].
+- [[personagens/coveiro-mor\|Coveiro-mor]] aprisionado em [[locais/ghol_drokh\|Ghol'Drokh]] (necromancia para impedir esquecimento).
+- [[organizacoes/imperio_sombrio\|Império]] atingiu extensão máxima.
+- [[personagens/arothistar\|Arothistar]] recolheu-se definitivamente; [[conceitos/protocolo_iconografico_da_coroa\|Protocolo Iconográfico da Coroa]] iniciado.
+- ~30 anos atrás.
+
+## Lore
+
+Quando os portões finalmente cederam, [[personagens/arothistar\|Arothistar]] apareceu pessoalmente. Foi a última vez que o monarca desceu ao campo de batalha antes de seu isolamento permanente em [[locais/mor_severith\|Mor'Severith]] (E-0036). O coração do antigo [[organizacoes/imperio_sombrio\|Império]] Central, a sede da igreja que um dia perseguira os primeiros [[racas/shadar\|Shadar]], curvou-se sob a sombra. A conquista marcou o fim definitivo das Guerras Reinkárdicas e a consolidação absoluta do [[organizacoes/imperio_sombrio\|domínio sombrio]] sobre [[locais/reinkard\|Reinkard]].
+
+O destino dos defensores de [[locais/myrgarde\|Myrgarde]] selou-se na queda. [[personagens/grimald\|Sir Grimald]], o [[racas/alvarar\|álvarar]] conhecido como Lâmina Dourada, foi executado; os detalhes de sua morte são narrados no Prólogo do Livro II. [[personagens/auren\|Auren]], paladino alado e amigo de infância de [[personagens/arothistar\|Dravmir]], já se encontrava prisioneiro do [[organizacoes/imperio_sombrio\|império]] havia anos, capturado antes do cerco. Com a queda da cidade, foi transferido para [[locais/mor_severith\|Mor'Severith]] junto com [[personagens/iluvrae\|Ilúvrae]], curadora elarina tomada em [[locais/elenir\|Elenir]] (E-0038). [[personagens/auren\|Auren]], mantido vivo por meios arcanos que desafiavam a longevidade natural de sua raça, dividia cativeiro com a elarina por design, não por acaso.
+
+Gnomos que haviam prosperado sob a proteção das muralhas foram escravizados nas forjas profundas. [[personagens/nyx_ara\|Madre Corvina]], clériga que observara [[personagens/arothistar\|Dravmir]] jogar [[conceitos/korball\|Korball]] nos pátios de [[locais/myrgarde\|Myrgarde]] décadas antes, foi a única poupada por [[personagens/arothistar\|Arothistar]], que não reconheceu, na velha curvada pelo peso de décadas, qualquer ameaça digna de atenção. Foi o maior erro de cálculo do monarca. Humanos que resistiram ou que sabiam demais foram aprisionados em [[locais/ghol_drokh\|Ghol'Drokh]], alguns sustentados por necromancia para que o esquecimento não os libertasse.
+
+A resistência do continente reduziu-se a bolsões isolados. [[locais/thal_serin\|Thal'Serin]] permanecia como último refúgio significativo. Com [[locais/myrgarde\|Myrgarde]] conquistada, [[personagens/arothistar\|Arothistar]] atingiu a extensão máxima do [[organizacoes/imperio_sombrio\|domínio sombrio]] sobre [[locais/reinkard\|Reinkard]]. Não havia mais muralhas a derrubar, nem exércitos a derrotar. O monarca recolheu-se definitivamente a [[locais/mor_severith\|Mor'Severith]] e nunca mais desceu da torre. Iniciou-se o [[conceitos/protocolo_iconografico_da_coroa\|Protocolo Iconográfico da Coroa]]: efígies de [[personagens/arothistar\|Arothistar]] passaram a sair da torre de tempos em tempos e a ser colocadas em pontos relevantes de [[locais/morvgrad\|Morvgrad]], substituindo a presença física do soberano por uma onipresença simbólica.

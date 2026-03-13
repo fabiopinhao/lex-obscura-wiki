@@ -1,0 +1,28 @@
+---
+{"dg-publish":true,"permalink":"/escolas/pyro/"}
+---
+
+
+## Sistema
+
+### o_que_faz
+Cria e manipula fogo. Acende chamas, projeta jatos/bolas de fogo, cria barreiras ígneas. Pode ferver sangue e derreter órgãos. Fogo consome matéria e precisa de combustível.
+
+### palavras_chave
+fogo, chama, queimar, combustão, incendiar, brasa, cinza, inferno, calor
+
+### exemplos_representativos
+Ignição (acender chamas); Infusão (armas envoltas em chamas); Projeção (jatos/bolas de fogo); Barreira ígnea (muros de fogo); Combustão interna (ferver sangue); Inferno (tempestade de fogo)
+
+### nao_confundir_com
+[[escolas/plasma\|Plasma]] (combustão química vs. energia extrema/matéria fundida); [[escolas/rupto\|Rupto]] (queimar vs. quebrar)
+
+## Lore
+
+Pyro é a escola pura de vermelho que cria e manipula fogo como combustão química real, chamas que precisam de material para queimar e consomem o que tocam, distinção fundamental em relação a [[escolas/plasma\|Plasma]], onde energia extrema funde matéria sem combustível. Sua mecânica escala da faísca à conflagração: Ignição acende chamas em materiais inflamáveis, cria faíscas e aviva brasas, o gesto mais elementar da escola, diferente de Cintila ([[escolas/plasma\|Plasma]]) que funde por energia; Ardência impõe calor opressivo sem chama visível, ar que sufoca, suor que escorre, pele que resseca, febre provocada e exaustão térmica onde nada brilha e nada queima mas o corpo cede, diferente de Incandescência ([[escolas/plasma\|Plasma]]) que aquece matéria sólida por energia; Cautério queima para selar, fechando feridas com calor, marcando carne com ferro, soldando metal, o lado utilitário e brutal do fogo, diferente de Sutura ([[escolas/salvo\|Salvo]]) que fecha tecido por cura; Infusão envolve armas e objetos em chamas que ardem sem consumir o material base, o fio da lâmina queimando ao cortar e o projétil incendiando ao cravar, diferente de Candência ([[escolas/helio\|Helio]]) que imbui com radiância e de Gládio ([[escolas/plasma\|Plasma]]) que cria a arma inteira de energia; Deflagração lança jatos, esferas ou cones de fogo concentrado, a forma ofensiva padrão da escola, combustão projetada que queima e carboniza, deixa cinzas e fumaça; Pira ergue muros, círculos e gaiolas de fogo onde quem cruza queima e quem fica dentro sufoca, diferente de Barreira ([[escolas/aegis\|Aegis]]) que bloqueia por força: Pira bloqueia por ameaça, o fogo é real e consome quem desafia a passagem; Consumo seleciona material e ignora o resto, fogo inteligente que devora só madeira, só carne, só metal, diferente de Voragem que persegue alvos como predador e de Cisão ([[escolas/rupto\|Rupto]]) que separa por ruptura; Voragem desencadeia chamas sencientes que perseguem alvos, contornam obstáculos, alimentam-se do que consomem, não apagam com água e só cessam quando não há mais nada para devorar, diferente de Bólido ([[escolas/plasma\|Plasma]]) que é projétil único; Crisol envolve o próprio corpo em chamas, aura ofensiva de toque letal e rastro de fogo onde quem se aproxima arde, diferente de Corona ([[escolas/plasma\|Plasma]]) que é energia ionizada autocontida e de Sudário ([[escolas/necro\|Necro]]) que é revestimento necrótico, a defesa contra Crisol sendo água enquanto contra Corona é frio extremo e contra Sudário é radiância; e Inferno, sua escala máxima, é conflagração devastadora que consome tudo num raio, tempestade de fogo onde o ar vira combustível, o conjurador no centro sendo o último a arder mas ardendo, diferente de Erupção ([[escolas/plasma\|Plasma]]) que funde matéria em magma enquanto Inferno carboniza por combustão, deixando cinzas e ruínas enegrecidas, não vidro.
+
+O custo temático é queimadura interna e febre alta temporária, durando de um minuto a duas horas. O custo ontológico é temperamento incendiário: no Estágio I, irritabilidade aumentada e paciência encurtando; no II, raiva surgindo rápido e dissipando devagar, rancores acumulando; no III, calma exigindo esforço consciente, estado default sendo tensão permanente; no IV, serenidade tornando-se impossível, existência apenas em graus de fúria, e o praticante é descartado quando ataca aliados ou superiores, enviado em Missão de Honra como arma incendiária contra fortalezas inimigas, “glória em chamas” da qual não se espera retorno. O [[organizacoes/imperio_sombrio\|Império]] recruta praticantes como [[organizacoes/templarios\|Templários]] até o Estágio III e como armas de cerco.
+
+A combinação com [[escolas/belli\|Belli]]/Imolação produz soldado em chamas que avança sem parar queimando tudo ao redor enquanto se consome, protocolo imperial proibido mas cercos desesperados produzem voluntários; com [[escolas/aero\|Aero]], vento que alimenta fogo — Vendaval amplificando chamas e controlando propagação, ciclone de fogo onde [[escolas/aero\|Aero]] fornece rotação e Pyro fornece combustão; com [[escolas/vita\|Vita]] via Cautério, cauterização de campo onde [[escolas/abjuro\|Abjuro]] identifica hemorragia e Pyro sela, mais bruto que [[escolas/helio\|Helio]]+[[escolas/vita\|Vita]], ferro quente, carne chiando, cicatriz permanente, recurso de curandeiros militares sem acesso a heliomantes.
+
+Par antagônico: [[escolas/hydro\|Hydro]], onde fogo devora e água extingue e adapta, consumir contra fluir, Ardência sufocando o que Bruma refresca, Inferno carbonizando o que Maremoto afoga.

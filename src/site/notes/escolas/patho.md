@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/escolas/patho/"}
+---
+
+
+## Sistema
+
+### o_que_faz
+Causa decomposição, doença, putrefação. Apodrece matéria orgânica, induz febre, infecta ferimentos, transforma alvos em vetores de contágio. Entropia biológica.
+
+### palavras_chave
+doença, apodrecer, infecção, febre, putrefação, contágio, necrose, parasita, peste
+
+### exemplos_representativos
+Náusea (mal-estar pútrido); Infecção (contaminar ferimento); Febre (febre alta e delírios); Contágio (alvo vira vetor); Necrose (apodrecer tecido vivo); Pestilência (deterioração massiva que se propaga por terreno)
+
+### nao_confundir_com
+[[escolas/toxo\|Toxo]] (doença interna vs. substância externa); [[escolas/necro\|Necro]] (decomposição vs. morte/reanimação); [[escolas/chrono\|Chrono]]/Envelhecer (degradação biológica vs. aceleração temporal)
+
+## Lore
+
+Patho é a escola híbrida de preto e verde que causa decomposição, doença e putrefação como entropia biológica acelerada, degradação interna onde o corpo se decompõe sem agente externo visível, distinção fundamental em relação a [[escolas/toxo\|Toxo]], onde substância aplicada corrói por via química. Sua mecânica escala da náusea à pestilência ambiental: Náusea emana emanação pútrida que induz mal-estar, tontura e vômito, o alvo não adoecendo mas sentindo o corpo rejeitar a si mesmo, diferente de Desconforto ([[escolas/anatho\|Anatho]]) que irrita sem incapacitar enquanto Náusea derruba; Infecção contamina ferimento existente impedindo cicatrização natural, a carne inflamando, supurando e resistindo à cura, diferente de Sangria ([[escolas/toxo\|Toxo]]) que impede coagulação por veneno químico enquanto Infecção é biológica e a ferida apodrece por dentro; Atrofia degrada músculo, tendão ou articulação específica, membro enfraquecendo, aperto frouxando, passo vacilando, diferente de Enfraquecimento ([[escolas/anatho\|Anatho]]) que drena capacidade geral por maldição enquanto Atrofia é orgânica e localizada, o tecido murchando como se envelhecesse meses em minutos; Febre induz temperatura alta, delírios, sudorese e tremores, o corpo lutando contra doença que não existe, consumindo reservas em defesa de ameaça fantasma, diferente de Exaustão ([[escolas/hypno\|Hypno]]) que drena por fadiga neurológica enquanto Febre drena por resposta imunológica forçada; Putrefação apodrece matéria orgânica não-viva, madeira amolecendo, couro se desfazendo, alimento enegrecendo, diferente de Deterioração ([[escolas/anatho\|Anatho]]) que age à distância como maldição sobre qualquer material e de Corrosão ([[escolas/toxo\|Toxo]]) que é química enquanto Putrefação é decomposição biológica acelerada; Contágio transforma alvo infectado em vetor, quem o toca, quem respira perto, quem bebe da mesma água adoecendo com os mesmos sintomas, cada novo infectado tornando-se fonte; Necrose apodrece tecido vivo, gangrena acelerada que devora carne em corpo consciente, diferente de [[escolas/necro\|Necro]] que drena vida ou reanima mortos enquanto Necrose destrói tecido por processo biológico reversível por [[escolas/salvo\|Salvo]] ou amputação; Infestação invoca pragas naturais, insetos, parasitas e vermes que se alimentam do alvo ou do ambiente, diferente de Raízes ([[escolas/vita\|Vita]]) que comanda plantas com controle direto enquanto Infestação é caos biológico sem refinamento; Decrepitude degrada estrutura biológica interna, ossos, pele e músculos deteriorando, diferente de Senescência ([[escolas/chrono\|Chrono]]) que acelera fluxo temporal fazendo o alvo envelhecer visivelmente enquanto Decrepitude não altera aparência ou idade real, apenas destrói integridade; e Pestilência, sua escala máxima, desencadeia deterioração massiva que se propaga por terreno, cada corpo infectado contaminando o solo, cada solo contaminado infectando quem pisa, diferente de Ceifar ([[escolas/necro\|Necro]]) que mata instantaneamente por onda necrótica e deixa área estéril mas limpa enquanto Pestilência fica e se espalha.
+
+O custo temático é náusea, febre leve e mal-estar físico, durando de cinco minutos a quatro horas. O custo ontológico é consciência da entropia onde tudo parece em decomposição e beleza entristece: no Estágio I, nota sinais de decadência que outros ignoram; no II, beleza provoca melancolia antecipada pelo fim; no III, tudo parece em decomposição ativa e otimismo torna-se impossível; no IV, entropia é única verdade e construir qualquer coisa parece absurdo, e o praticante é descartado por Consagração Final quando recusa missões por niilismo, frequentemente aceitando a própria execução como confirmação da tese. A distinção com [[escolas/cryo\|Cryo]] é fundamental: Patho sente demais, melancolia ativa e depressão, enquanto [[escolas/cryo\|Cryo]] sente de menos, anestesia emocional. O [[organizacoes/imperio_sombrio\|Império]] recruta praticantes como necromantes de apoio e avaliadores de deterioração.
+
+A combinação com [[escolas/necro\|Necro]] produz zona de exclusão total, Ceifar matando o que vive e Contágio impedindo que algo novo cresça, necromantes com treinamento em Patho sendo os agentes de terra arrasada mais eficientes do [[organizacoes/imperio_sombrio\|Império]]; com [[escolas/toxo\|Toxo]], Infecção combinada com Sangria transforma ferimentos menores em sentenças de morte, veneno impedindo coagulação e infecção impedindo cicatrização, a ferida não fechando, não coagulando, não sarando, recurso de [[organizacoes/ophideias\|Ophideias]] para assassinatos que parecem morte natural; com [[escolas/rupto\|Rupto]], muralhas apodrecidas por Patho cedendo com Fissura mínima, degradação estrutural como doutrina de cerco prolongado.
+
+Par antagônico: [[escolas/salvo\|Salvo]], que restaura integridade onde Patho a degrada, Infecção impedindo o que Soldadura tenta e Contágio espalhando o que Catarse deveria conter, a corrida entre curandeiro e praga definindo quem vive e quem apodrece num campo de batalha.
+

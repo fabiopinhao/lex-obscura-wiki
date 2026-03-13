@@ -1,0 +1,42 @@
+---
+{"dg-publish":true,"permalink":"/eventos/campanha-ocidental-de-dravhok/"}
+---
+
+
+## Sistema
+
+### locais
+
+- Cordilheira Ocidental
+- [[locais/thandruk_varn\|Thandruk Varn]]
+
+### personagens
+
+- [[personagens/arothistar\|Dravhok]]
+- [[personagens/xarn\|Xarn]]
+
+### notas
+
+- Primeira grande campanha de [[personagens/arothistar\|Dravhok]].
+- Tática coordenada [[racas/shadar\|shadar]] (superfície) + [[racas/drul\|drul]] (subterrâneo).
+- Varreu cordilheira de norte a sul.
+- Culminou em [[locais/thandruk_varn\|Thandruk Varn]] (E-0028).
+- Após retorno: título de líder estrategista, Conselheiro, bênção pessoal de [[personagens/xarn\|Xarn]].
+- Primeiro conselheiro a exercer simultaneamente papel de general em campo.
+- ~60-57 anos atrás.
+
+## Lore
+
+A diferença de [[personagens/arothistar\|Dravhok]] começava pela composição das tropas. A maioria dos generais [[racas/shadar\|shadar]] mantinha proporções conservadoras entre seus soldados, um [[racas/shadar\|shadar]] ou [[racas/drul\|drul]] para cada [[racas/orc\|orc]], por receio de perder o controle sobre as legiões. Alguns, mais ousados, arriscavam dois ou três [[racas/orc\|orcs]] por oficial. [[personagens/arothistar\|Dravhok]] operava com proporções que seus pares consideravam suicidas. Seus pelotões tinham número de [[racas/orc\|orcs]] muito superior ao que a doutrina prescrevia, e, aos olhos dos tradicionalistas, delegava posições de capitão a [[racas/orc\|orcs]] veteranos, função que a cultura militar [[racas/shadar\|shadar]] reservava exclusivamente à própria raça. Onde outros generais viam risco de motim, [[personagens/arothistar\|Dravhok]] via soldados que lutavam com mais ferocidade quando sentiam que a hierarquia reconhecia seu valor.
+
+A primeira grande campanha desceu pelo oeste. Em vez de atacar [[locais/myrgarde\|Myrgarde]] diretamente, como tantos generais haviam tentado sem sucesso, contornou o [[organizacoes/imperio_sombrio\|Império]] Central pelas montanhas ocidentais. O alvo eram as fortalezas anânicas que pontilhavam a cordilheira na borda do continente, as mesmas cujas forjas haviam armado os exércitos de [[locais/myrgarde\|Myrgarde]] durante toda a primeira metade da guerra.
+
+A tática exigia confiança entre raças que raramente a tinham. [[personagens/arothistar\|Dravhok]] avançava pela superfície com suas legiões, destruindo os portões de pedra das fortalezas, as entradas principais que os anões haviam construído para resistir a séculos de cerco. Enquanto isso, contingentes [[racas/drul\|druls]] comandados por matriarcas subiam pelo subterrâneo, infiltrando-se por passagens que os próprios anões haviam criado sem querer: em algumas montanhas, as minas escavadas profundo demais haviam rompido os limites de [[locais/vor-ghol\|Vor-Ghol]], abrindo conexões com o mundo subterrâneo que os [[racas/drul\|druls]] conheciam como a palma das mãos. Fortaleza após fortaleza, o padrão se repetia: a atenção dos anões se concentrava nos portões que ruíam sob os aríetes de [[personagens/arothistar\|Dravhok]] enquanto a morte subia silenciosa pelas galerias inferiores.
+
+A campanha varreu a cordilheira de norte a sul. As fortalezas caíram uma após a outra, e com elas caiu o suprimento de armas e armaduras que alimentava a resistência das planícies. Cada montanha tomada era uma forja perdida para [[locais/myrgarde\|Myrgarde]] e ganha para [[locais/morvgrad\|Morvgrad]]. A campanha culminou em [[locais/thandruk_varn\|Thandruk Varn]] (E-0028), a maior forja do continente.
+
+[[personagens/arothistar\|Dravhok]] voltou ao planalto como lenda. O [[organizacoes/conselho_sombrio\|Conselho Sombrio]] reconheceu o que os soldados já sabiam: o general converso havia conquistado mais território do que qualquer outro comandante na história do Culto. Recebeu o título de líder estrategista de todos os generais, posição sem precedente na hierarquia militar de [[locais/morvgrad\|Morvgrad]]. Foi elevado a Conselheiro. [[personagens/xarn\|Xarn]], o fundador do [[organizacoes/culto_sombrio\|Culto Sombrio]], concedeu-lhe sua bênção pessoal, distinção que nenhum outro [[racas/shadar\|shadar]] vivo havia recebido. A admiração de [[locais/morvgrad\|Morvgrad]] não era acidental. Os [[racas/shadar\|Shadar]] carregavam memória longa. Lembravam da humilhação, da expulsão das regiões centrais de [[locais/reinkard\|Reinkard]], do exílio forçado no planalto gelado do norte, entre montanhas e dragões. [[personagens/arothistar\|Dravhok]] era o general que finalmente cobrava a dívida. Cada cidade conquistada era vingança. Cada reino subjugado, reparação histórica. Os [[racas/shadar\|Shadar]] não apenas toleravam sua ambição: celebravam-na.
+
+O prestígio foi extraordinário, e com ele veio o nome. Os [[racas/shadar\|Shadar]] passaram a chamá-lo simplesmente de Aroth, título que mais tarde se transformaria em algo maior. Nos registros militares e políticos, [[personagens/arothistar\|Dravhok]] e Aroth referem-se ao mesmo indivíduo; o segundo nome tornou-se predominante após suas campanhas orientais (E-0030).
+
+[[personagens/arothistar\|Dravhok]] foi o primeiro conselheiro na história do [[organizacoes/culto_sombrio\|Culto Sombrio]] a exercer simultaneamente o papel de general em campo. Os demais conselheiros governavam de [[locais/morvgrad\|Morvgrad]], administrando fé, comércio, logística, produção, tributações e disputas internas. [[personagens/arothistar\|Dravhok]] governava das planícies, com aço na mão e [[racas/orc\|orcs]] nas costas. A distinção não era simbólica: o povo [[racas/shadar\|shadar]] depositava nele as esperanças de derrubar os [[racas/alvarar\|álvarars]] e tomar [[locais/myrgarde\|Myrgarde]], a capital do [[organizacoes/imperio_sombrio\|império]] rival.

@@ -1,0 +1,28 @@
+---
+{"dg-publish":true,"permalink":"/escolas/geo/"}
+---
+
+
+## Sistema
+
+### o_que_faz
+Manipula terra, pedra, solo. Cria tremores, ergue muralhas, abre fendas, lança rochas, reveste corpo com pedra. Requer solo — inútil sobre água ou no ar.
+
+### palavras_chave
+terra, pedra, rocha, solo, muralha, terremoto, esmagar, fosso, sísmico
+
+### exemplos_representativos
+Tremor (vibração localizada); Moldar terra (manipular terra solta); Projeção (lançar rochas/estacas); Muralha (barreira de terra/pedra); Armadura pétrea (revestir corpo com rocha); Cataclismo (destruição tectônica massiva)
+
+### nao_confundir_com
+[[escolas/cosmo\|Cosmo]] (terra/pedra vs. gravidade/espaço); [[escolas/cryo\|Cryo]] (pedra vs. gelo); [[escolas/aegis\|Aegis]]/Muralha (barreira de terra vs. barreira de força)
+
+## Lore
+
+Geo é a escola pura de verde que manipula terra, pedra e solo como matéria real com peso e permanência, requerendo contato com o chão e tornando-se inútil sobre água ou no ar. Sua mecânica escala da vibração ao redesenho geográfico: Tremor libera vibração localizada no solo que desequilibra, derruba e interrompe concentração, diferente de Pulso ([[escolas/cosmo\|Cosmo]]) que empurra por gravidade enquanto Tremor usa a terra como meio e afeta apenas quem toca o chão; Molde manipula terra solta, argila, areia ou lama, escavando, deslocando e esculpindo formas simples, controle sobre onde a terra está e não o que ela é, diferente de Coágulo ([[escolas/umbra\|Umbra]]) que solidifica sombra; Sedimento altera coesão de superfície, solo frouxo compactando em rocha e inversamente rocha sólida tornando-se friável, diferente de Fissura ([[escolas/rupto\|Rupto]]) que causa dano estrutural enquanto Sedimento altera propriedade do material; Estaca arranca pedra do solo e lança como espigões, lascas afiadas e colunas que irrompem para empalar, diferente de Estilhaço ([[escolas/rupto\|Rupto]]) que quebra o existente enquanto Estaca cria projétil do próprio terreno; Muralha ergue barreira de terra ou pedra do chão — parede, trincheira ou barricada improvisada — pedra real com peso e massa que permanece após o conjurador parar, diferente de Barreira ([[escolas/aegis\|Aegis]]) que é força arcana temporária e impenetrável enquanto sustentada mas que desaparece quando a [[cosmologia/magi\|magi]] cessa; Sumidouro faz o chão ceder sob os pés do alvo, fendas se abrindo, solo virando lama, areia sugando, aprisionando pela terra real cujas paredes se fecham sobre quem cai, não destruição mas reorganização do terreno, reversível pelo geomante; Esmagamento fecha paredes de pedra sobre o alvo, comprime entre superfícies rochosas e colapsa teto de caverna, diferente de Gravame ([[escolas/cosmo\|Cosmo]]) que aumenta peso por gravidade enquanto Esmagamento move matéria real contra o corpo, pressão lenta e inexorável onde os ossos cedem antes do grito; Imersão funde o geomante à rocha e permite viagem dentro dela, pedra sólida tornando-se meio líquido onde o corpo afunda, desliza e emerge em outro ponto sem rastro, nenhuma parede de pedra sendo barreira e nenhuma fortificação segura, diferente de Limiar ([[escolas/umbra\|Umbra]]) que transita por sombra e de Portal ([[escolas/cosmo\|Cosmo]]) que dobra o espaço, Imersão sendo lenta, contínua e tátil onde o geomante sente a rocha ao redor; Terremoto desencadeia abalo sísmico em área ampla, solo ondulando, fissuras se abrindo em padrão radial, estruturas colapsando quando seus alicerces se movem em direções opostas, indiscriminado onde a terra decide onde o dano é pior, diferente de Demolição ([[escolas/rupto\|Rupto]]) que destrói por análise estrutural de ponto crítico; e Cataclismo, sua escala máxima, faz a crosta terrestre obedecer, montanhas irrompendo onde havia planície, vales se abrindo onde havia estrada, rios mudando de curso, diferente de Devastação ([[escolas/rupto\|Rupto]]) que destrói por ruptura enquanto Cataclismo redesenha a geografia, estruturas engolidas inteiras e exércitos desaparecendo em fissuras que se fecham.
+
+O custo temático é peso aumentado e músculos enrijecidos como pedra, durando de um minuto a duas horas. O custo ontológico é imobilismo psicológico onde mudança se torna aversiva e rotinas calcificam: no Estágio I, preferência por rotinas e mudanças incomodando; no II, novidade provocando resistência ativa; no III, qualquer alteração parecendo ameaça à estabilidade; no IV, movimento é violência e só imobilidade é segura, e o praticante é recolhido, raramente descartado, mantido em posições defensivas permanentes onde a recusa de realocação não é defeito mas função. O [[organizacoes/imperio_sombrio\|Império]] recruta praticantes como [[organizacoes/templarios\|Templários]], guardas de posição fixa e defensores de fortificações, funções onde o Estágio IV é desejável: guarda que nunca se move.
+
+A combinação com [[escolas/hydro\|Hydro]] produz lama, areia movediça e erosão dirigida — [[escolas/hydro\|Hydro]] saturando o solo que Geo controla; com [[escolas/rupto\|Rupto]], demolição assistida onde Geo identifica estrutura e [[escolas/rupto\|Rupto]] a quebra, Geo derrubando por volume via Terremoto e [[escolas/rupto\|Rupto]] por ponto crítico via Demolição; com [[escolas/gnosi\|Gnosi]], sentido sísmico onde vibrações revelam posição, número e peso de criaturas em contato com o solo; com [[escolas/plasma\|Plasma]]/Liquefação, fortificação fundida onde Muralha ergue pedra e [[escolas/plasma\|Plasma]] funde a superfície em crosta vitrificada impermeável.
+
+Par antagônico: [[escolas/aero\|Aero]], onde permanência se opõe a movimento, terra ancorando o que vento desloca, Terremoto destruindo por baixo o que Ciclone destrói por cima, pedra contra ar, peso contra leveza, raiz contra passagem.

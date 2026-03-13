@@ -1,0 +1,25 @@
+---
+{"dg-publish":true,"permalink":"/eventos/fragmentacoes-dos-luminares/"}
+---
+
+
+## Sistema
+
+### locais
+[[locais/vor-ghol\|Vor-Ghol]]; [[locais/dorsal\|Cordilheiras do Norte]]; [[locais/neranthis\|Costa Leste]]
+
+### personagens
+[[racas/luminares\|Luminares]]
+
+### notas
+Facções romperam com os [[racas/luminares\|Luminares]] em eras distintas. Proto-druls desceram ao [[locais/vor-ghol\|Vor-Ghol]] (pactos diabólicos). Outra facção migrou para montanhas geladas (vínculos demoníacos) → [[racas/orc\|orcs]]. Terceira facção partiu para o leste → [[racas/undine\|undines]]. Evento anterior à [[eventos/queda_dos_luminares\|Queda dos Luminares]] (E-0005).
+
+## Lore
+
+Os [[racas/luminares\|Luminares]] não eram uma raça homogênea. Ao longo de eras incontáveis, facções internas divergiram em crenças, ambições e alinhamentos. A maioria permanecia fiel à luz e aos ciclos da superfície, mas minorias romperam com essa tradição, e cada cisma produziu uma linhagem que jamais retornaria.
+
+Os primeiros a se separar foram os que desceram ao [[locais/vor-ghol\|Vor-Ghol]], repelidos pela maioria e atraídos pelas profundezas. Levaram consigo fragmentos da língua e da cultura [[linguas/luminar\|luminar]], que corromperam nas cavernas até forjar algo inteiramente novo. No subsolo, estabeleceram domínio sobre raças mais antigas, escravizando-as e expandindo sua influência pelas galerias subterrâneas. Esses renegados tornaram-se os proto-druls, e foi com eles, não com os humanos, que os [[cosmologia/diabos\|diabos]] estabeleceram os primeiros canais de comunicação. Em [[locais/vor-ghol\|Vor-Ghol]], houve também atritos entre facções: [[racas/luminares\|Luminares]] pactuados com [[cosmologia/diabos\|diabos]], que permaneceram nas profundezas e deram origem definitiva aos [[racas/drul\|druls]], e [[racas/luminares\|Luminares]] vinculados a [[cosmologia/demonios\|demônios]], cuja natureza caótica e destrutiva os tornava incompatíveis com a disciplina subterrânea. Estes últimos abandonaram [[locais/vor-ghol\|Vor-Ghol]] e migraram para as tundras, geleiras e montanhas da superfície, onde o isolamento e a brutalidade do ambiente moldaram seus corpos e sua cultura ao longo de milênios. Deram origem aos [[racas/orc\|orcs]].
+
+Uma terceira facção seguiu caminho oposto. Parte dos [[racas/luminares\|Luminares]] migrou para as regiões do leste e passou a habitar as costas e as terras alagadiças, isolando-se das regiões mais povoadas do continente. Esse grupo dava pouca importância à vida material e buscava a transcendência. Meditavam, contemplavam os ciclos celestes e buscavam comunhão com os deuses [[cosmologia/siderais\|siderais]]. Com o tempo, suas vidas tornaram-se mais efêmeras, menos vinculadas à terra. Dominaram os mares e as regiões costeiras, atraindo os [[cosmologia/siderais\|deuses azuis]], que os guiaram para uma existência cada vez mais etérea. Deram origem aos [[racas/undine\|undines]].
+
+A importância das fragmentações transcende a genealogia racial. Cada cisma estabeleceu os canais divinos que definiriam o equilíbrio de poder de [[locais/reinkard\|Reinkard]] por eras: os [[racas/drul\|druls]] ligaram-se aos [[cosmologia/diabos\|deuses negros]], os [[racas/orc\|orcs]] aos [[cosmologia/demonios\|demônios]] vermelhos, os [[racas/undine\|undines]] aos [[cosmologia/siderais\|siderais]] azuis. Os [[racas/luminares\|Luminares]] da superfície permaneceram divididos entre a influência dos [[cosmologia/titas\|titãs]] verdes e dos [[cosmologia/anjos\|anjos]] brancos. Essa distribuição não foi acidental: cada facção gravou no sangue e na fé o alinhamento que a separou das demais. Quando os [[racas/luminares\|Luminares]] unificados finalmente caíram (E-0005), as linhagens renegadas já estavam consolidadas havia milênios, e nenhuma sentiu a perda da raça-mãe como tragédia própria.

@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"permalink":"/eventos/reinkard-na-idade-esquecida/"}
+---
+
+
+## Sistema
+
+### locais
+[[locais/reinkard\|Reinkard]]
+
+### personagens
+[[racas/luminares\|Luminares]]
+
+### notas
+Contexto cosmológico da era pré-fragmentação. Descreve a natureza da civilização [[linguas/luminar\|luminar]], a abundância de [[cosmologia/magi\|magi]] no plano material e o declínio interplanar que se seguiu à extinção dos [[racas/luminares\|Luminares]]. Não é evento pontual; é o palco dos eventos E-0001 a E-0004.
+
+## Lore
+
+Antes da contagem das eras, [[locais/reinkard\|Reinkard]] era o domínio dos [[racas/luminares\|Luminares]]. Elfos da luz, detentores da magia mais antiga do continente, viviam em harmonia com os ciclos da terra e com as raças que respeitavam suas fronteiras. Não eram conquistadores nem governantes no sentido imperial; sua supremacia era arcana e cultural, não territorial. Suas cidades encantadas erguiam-se como monumentos à eternidade, e por eras nada perturbou o equilíbrio que mantinham.
+
+Os [[racas/luminares\|Luminares]] não se limitavam a um único tipo de terreno. Adaptavam regiões favoritas ao seu gosto, fossem lagoas, morros, terrenos planos ou bosques, e o terreno ficava impregnado de [[cosmologia/magi\|magi]]. Cidadelas [[racas/luminares\|luminares]] podiam erguer-se à beira de um lago glacial ou no coração de uma clareira, e a terra ao redor absorvia séculos de presença arcana. Por isso, nos dias atuais, algumas ruínas [[racas/luminares\|luminares]] ainda conservam presença [[cosmologia/magi\|magi]] forte o suficiente para que os [[racas/shadar\|shadars]] construam nexus [[cosmologia/magi\|magi]] artificiais sobre seus alicerces.
+
+Na [[_referencias/idade_esquecida\|Idade Esquecida]], as entidades brancas, verdes e azuis exerciam influência mágica no plano material com intensidade muito maior do que nos tempos atuais. O [[cosmologia/magi\|magi]] era abundante, a terra respondia às preces e aos rituais com generosidade, e os [[cosmologia/titas\|titãs]] caminhavam entre as florestas com frequência que hoje pareceria inconcebível. Essa abundância começou a declinar após a extinção dos [[racas/luminares\|Luminares]], diminuindo lenta e continuamente a cada era. Nos dias atuais, quem sobreviveu ao passar de eras, como dragões anciãos, percebe a diferença: o [[cosmologia/magi\|magi]] é mais ralo, a resposta divina mais distante. Em compensação, [[cosmologia/diabos\|diabos]] e [[cosmologia/demonios\|demônios]], cujas influências são mais diretas e direcionadas do que as dos deuses da luz, encontram cada vez menos resistência para exercer seus poderes no plano material.

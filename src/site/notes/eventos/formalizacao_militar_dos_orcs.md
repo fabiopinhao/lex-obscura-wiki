@@ -1,0 +1,38 @@
+---
+{"dg-publish":true,"permalink":"/eventos/formalizacao-militar-dos-orcs/"}
+---
+
+
+## Sistema
+
+### locais
+
+- [[locais/dhar-morveth\|Planalto Shadar (Dhar-Morveth)]]
+- [[locais/ventrista\|Ventrista]]
+
+### personagens
+
+—
+
+### notas
+
+- [[racas/kobold\|Kobolds]] fracassaram como intendentes ([[racas/orc\|orcs]] os matavam por aversão instintiva a répteis/dragões).
+- [[racas/goblin\|Goblins]] resolveram o problema logístico.
+- Reprodução dos goblinoides dependia dos tributos da [[locais/ventrista\|Ventrista]] (E-0021).
+- Ciclo fechado: tributos → goblinoides → exércitos → conquistas → mais tributos.
+- Na segunda metade da guerra, [[racas/orc\|orcs]] viraram ponta de lança; [[racas/shadar\|shadars]] e [[racas/drul\|druls]] recuaram para comando.
+- Ponto de inflexão que virou a guerra a favor de [[locais/morvgrad\|Morvgrad]].
+
+## Lore
+
+A formalização militar dos [[racas/orc\|orcs]] foi o ponto de inflexão da guerra. Na [[_referencias/segunda_era\|Segunda Era]], os [[racas/orc\|orcs]] já serviam ao Culto como barreira defensiva e como força bruta ocasional, saqueando as planícies sob a conivência [[racas/shadar\|shadar]]. Mas saque não é guerra, e bandos desorganizados não vencem campanhas. Os [[racas/shadar\|Shadar]] precisavam transformar a fúria tribal em disciplina de campo, e o processo começou pelas fortalezas do perímetro.
+
+A primeira tentativa usou [[racas/kobold\|kobolds]]. A ideia era razoável no papel: criaturas pequenas e obedientes para lidar com as tarefas logísticas e administrativas que os [[racas/orc\|orcs]] não conseguiam ou não queriam executar. Na prática, os [[racas/kobold\|kobolds]] duravam dias. Os [[racas/orc\|orcs]] os matavam por diversão ou os usavam como alvos de arremesso. Não era crueldade calculada; era aversão instintiva. Os [[racas/orc\|orcs]] carregavam na memória racial o terror de [[personagens/varna\|Varna]] e dos dragões que por milênios os haviam caçado nas cordilheiras, e qualquer criatura de aparência reptiliana provocava uma hostilidade que nenhuma ordem de cima conseguia suprimir.
+
+Os [[racas/goblin\|goblins]] resolveram o problema. Domesticados pelos [[racas/shadar\|Shadar]] ainda na [[_referencias/segunda_era\|Segunda Era]], os goblinoides revelaram-se a peça que faltava na engrenagem. [[racas/goblin\|Goblins]] faziam o que [[racas/kobold\|kobolds]] não podiam fazer na presença de [[racas/orc\|orcs]]: a administração fina, a logística de suprimentos, a manutenção das fortalezas, a organização dos turnos de guarda, o registro de provisões. Tarefas que os [[racas/orc\|orcs]] desprezavam e que os [[racas/shadar\|shadars]] se recusavam a executar pessoalmente, porque lidar com [[racas/orc\|orcs]] diretamente era trabalho que nenhum lorde sombrio considerava digno de seu tempo. A intendência das fortalezas periféricas passou a ser executada quase exclusivamente por [[racas/goblin\|goblins]], e com ela veio a estrutura que permitiu aos [[racas/orc\|orcs]] deixar de ser bandos e tornar-se regimentos.
+
+A domesticação e reprodução ampliada dos goblinoides dependia de um recurso específico: alimentos. Os goblinoides multiplicavam-se em proporção direta ao que comiam, e o que comiam vinha da [[locais/ventrista\|Ventrista]] (E-0021). A lógica fechava-se em ciclo: os tributos da primeira região conquistada alimentavam as criaturas que organizavam os exércitos que conquistariam as regiões seguintes.
+
+Com os fortes periféricos organizados e os [[racas/goblin\|goblins]] gerindo a retaguarda, os [[racas/shadar\|Shadar]] redesenharam a cadeia de comando. Os [[racas/orc\|orcs]] passaram a ser liderados por oficiais [[racas/shadar\|shadars]] e [[racas/drul\|druls]], integrados a uma hierarquia que respeitava a cultura tribal — os mais fortes comandavam os pelotões — mas subordinava os chefes tribais ao comando estratégico do Culto. Fortes órquicos multiplicaram-se ao redor do planalto, e o que antes eram postos avançados de vigilância tornou-se uma rede de quartéis-generais de onde as incursões partiam com objetivos definidos, rotas planejadas e retaguarda abastecida.
+
+A transformação alterou a natureza da guerra. Na segunda metade do conflito, os [[racas/orc\|orcs]] tornaram-se a ponta de lança da devastação das planícies. [[racas/shadar\|Shadars]] e [[racas/drul\|druls]] recuaram para posições de comando e retaguarda. As perdas passaram a ser primordialmente orcas, e o Culto absorvia essas perdas com uma frieza que horrorizava os generais de [[locais/myrgarde\|Myrgarde]]: os [[racas/orc\|orcs]] se reproduziam em velocidade que nenhuma raça humana igualava, e os [[racas/goblin\|goblins]] garantiam que cada novo regimento estivesse equipado e alimentado antes mesmo de entrar em marcha. A máquina de guerra não parava.

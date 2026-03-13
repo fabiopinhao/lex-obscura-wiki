@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/feiticos/diluvio/"}
+---
+
+
+## Lore
+**Escola:** [[escolas/hydro\|Hydro]]
+**Escala:** Maior
+
+Inundação em área: ondas que arrastam, correnteza que arranca, nível que sobe e não desce. Terreno plano vira lago em segundos. Diferente de Nevasca ([[escolas/cryo\|Cryo]]), que sepulta em gelo: Dilúvio afoga em água. Diferente de Terremoto ([[escolas/geo\|Geo]]), que destrói solo: Dilúvio o submerge. Custo: desidratação paradoxal, o corpo cede água enquanto a conjura a multiplica
