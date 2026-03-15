@@ -1,0 +1,58 @@
+---
+{"dg-publish":true,"permalink":"/wiki/luminares/"}
+---
+
+
+### Fisiologia
+
+Dados fisiológicos diretos não sobreviveram à extinção da raça. O que se pode inferir vem dos descendentes mais próximos: [[_wiki/elarino\|elarinos]] preservam traços delicados, pele clara com luminescência sutil, olhos em tons de prata, âmbar ou azul-celeste, orelhas alongadas e proporções esbeltas. É provável que os Luminares compartilhassem essas características em grau mais pronunciado, com afinidade arcana inata superior à de qualquer raça mortal conhecida.
+
+A longevidade dos Luminares é indefinida. Os textos da [[_referencias/idade_esquecida\|Idade Esquecida]] descrevem uma civilização que perdurou por eras incontáveis, mas não distinguem entre longevidade individual e continuidade geracional. Os descendentes mais longevos ([[_wiki/elarino\|elarinos]], [[_wiki/drul\|druls]], [[_wiki/sylvano\|sylvanos]]) vivem aproximadamente 120 anos, o que pode representar uma degeneração acentuada ou simplesmente o limite natural de linhagens fragmentadas e enfraquecidas.
+
+### Civilização e Domínio
+
+Antes da contagem das eras, [[_wiki/reinkard\|Reinkard]] era domínio dos Luminares. Sua supremacia era arcana e cultural, não territorial no sentido imperial. Cidadelas encantadas erguiam-se como monumentos à eternidade. Não se limitavam a um único tipo de terreno: adaptavam regiões favoritas ao seu gosto, fossem lagoas, morros, terrenos planos ou bosques, e o terreno ficava impregnado de [[_wiki/magi\|magi]]. Uma cidadela luminar podia erguer-se à beira de um lago glacial ou no coração de uma clareira, e a terra ao redor absorvia séculos de presença arcana.
+
+Os Luminares conviviam com os ciclos da superfície e com as raças que respeitavam suas fronteiras. Não eram conquistadores nem governantes. Gnomos eram tolerados sem importância atribuída. Anões eram ignorados com desprezo recíproco: os elfos da luz os consideravam uma raça sem afinidade arcana, e os anões os consideravam presunçosos cuja magia servia apenas para decorar o que a pedra já sustentava sozinha. Os humanos, tribos dispersas de vida breve e ambição inquieta nas planícies centrais, eram vistos como espécie rude, impaciente e perigosamente volúvel. A xenofobia era recíproca, embora assimétrica: os humanos admiravam a magia élfica com a mesma intensidade com que a temiam.
+
+### Alinhamento Espiritual
+
+Os Luminares não possuíam cor arcana definida no sentido moderno. Precediam o sistema cromático que hoje organiza raças e deuses. Na [[_referencias/idade_esquecida\|Idade Esquecida]], entidades brancas, verdes e azuis exerciam influência mágica com intensidade muito maior que nos tempos atuais, e os Luminares transitavam entre essas influências sem a rigidez das linhagens posteriores.
+
+A cisão fundamental era entre [[_wiki/anjos\|anjos]] e [[_wiki/titas\|titãs]]. Os que se inclinavam para os [[_wiki/titas\|titãs]] valorizavam harmonia e adaptação; os que se inclinavam para os [[_wiki/anjos\|anjos]] valorizavam pureza e julgamento. Essa tensão espiritual antecedia a fragmentação racial e acabaria por determiná-la: a divisão dos Luminares em [[_wiki/sylvano\|sylvanos]] (verdes) e [[_wiki/elarino\|elarinos]] (brancos) não foi acidental. Refletia uma cisão que já existia antes da queda.
+
+### Cismas e Fragmentação
+
+Os Luminares não eram raça homogênea. Ao longo de eras incontáveis, facções internas divergiram em crenças, ambições e alinhamentos. A maioria permanecia fiel à luz e aos ciclos da superfície, mas minorias romperam com essa tradição, e cada cisma produziu uma linhagem que jamais retornaria.
+
+**Proto-druls.** Os primeiros a se separar desceram ao [[_wiki/vor-ghol\|Vor-Ghol]], repelidos pela maioria e atraídos pelas profundezas. Levaram fragmentos da língua e da cultura Luminar, que corromperam nas cavernas até forjar algo inteiramente novo. Estabeleceram domínio sobre raças mais antigas, escravizando-as. Tornaram-se os proto-druls, e foi com eles, não com os humanos, que os [[_wiki/diabos\|diabos]] estabeleceram os primeiros canais de comunicação.
+
+**Proto-orcs.** Em [[_wiki/vor-ghol\|Vor-Ghol]], houve atritos entre facções: Luminares pactuados com [[_wiki/diabos\|diabos]] permaneceram nas profundezas e deram origem definitiva aos [[_wiki/drul\|druls]]. Luminares vinculados a [[_wiki/demonios\|demônios]], cuja natureza caótica era incompatível com a disciplina subterrânea, abandonaram [[_wiki/vor-ghol\|Vor-Ghol]] e migraram para tundras, geleiras e montanhas da superfície. O isolamento e a brutalidade do ambiente moldaram seus corpos e sua cultura ao longo de milênios. Deram origem aos [[_wiki/orc\|orcs]].
+
+**Proto-undines.** Outra facção migrou para as regiões do leste, habitando costas e terras alagadiças. Davam pouca importância à vida material e buscavam transcendência. Meditavam, contemplavam ciclos celestes e buscavam comunhão com deuses [[_wiki/siderais\|siderais]]. Com o tempo, suas vidas tornaram-se mais efêmeras, menos vinculadas à terra. Atraíram os [[_wiki/siderais\|deuses azuis]], que os guiaram para uma existência cada vez mais etérea. Deram origem aos [[_wiki/undine\|undines]].
+
+**Fragmentação final.** A queda definitiva veio pela guerra contra os humanos. Alimentados pela fé Sancta e liderados por [[_wiki/alvarar\|Álvarars]], os exércitos humanos impuseram um cerco continental. Os Luminares resistiram com magia devastadora, mas cada cidadela perdida era irrecuperável, enquanto os humanos podiam absorver derrotas e continuar reproduzindo soldados. A guerra terminou por desgaste. Uma parte buscou refúgio nas florestas profundas, onde os [[_wiki/titas\|titãs]] ainda ofereciam proteção. Adaptaram-se ao verde, abandonaram as tradições da luz pura. Deram origem aos [[_wiki/sylvano\|sylvanos]]. Outra parte instalou-se em cidadelas mágicas escondidas, protegidas por encantamentos antigos. Preservaram o que puderam da tradição original. Deram origem aos [[_wiki/elarino\|elarinos]]. O mais famoso de seus refúgios viria a ser [[_wiki/elenir\|Elenir]].
+
+### Língua e Magia
+
+O [[_wiki/luminar\|Luminar]] era simultaneamente língua civil e veículo mágico. Os elfos da luz não distinguiam entre discurso cotidiano e invocação arcana; toda fala carregava potencial de poder, e a diferença entre uma conversa e um feitiço residia na intenção, não na gramática. Essa indistinção explica por que fragmentos de Luminar preservados em textos antigos ocasionalmente produzem efeitos residuais quando lidos em voz alta por eruditos desavisados: as palavras retêm carga, mesmo decapitadas de seu contexto original.
+
+O Luminar completo existe apenas em manuscritos trancados na torre arcana de [[_wiki/khargoth\|Khargoth]] em [[_wiki/morvgrad\|Morvgrad]], onde estudiosos os analisam sem conseguir reconstruir a gramática total. O [[_wiki/aelarian\|Aelarian]] dos [[_wiki/elarino\|elarinos]] é a língua mais próxima do original, preservando raízes reconhecíveis embora com gramática mais restritiva. O [[_wiki/gholvyss\|Gholvyss]] dos [[_wiki/drul\|druls]] representa a corrupção subterrânea dos mesmos fragmentos.
+
+A abundância de [[_wiki/magi\|magi]] que sustentava a civilização luminar começou a declinar após sua extinção, diminuindo lenta e continuamente a cada era. Nos dias atuais, dragões anciãos percebem a diferença: o [[_wiki/magi\|magi]] é mais ralo, a resposta divina mais distante.
+
+### Legado
+
+Os Luminares deixaram três heranças duradouras em [[_wiki/reinkard\|Reinkard]].
+
+**Artefatos de guerra.** Para combater dragões e [[_wiki/draconideo\|draconídeos]], forjaram armas imbuídas de [[_wiki/magi\|magi]] antiga. Os artífices deliberadamente construíram os artefatos mais poderosos para rejeitar mãos corrompidas por pactos diabólicos ou vínculos demoníacos. A [[_wiki/fendris\|Fendris]], adaga encantada capaz de ferir qualquer criatura dracônica, só responde a mãos não-pactuadas.
+
+**Barreiras arcanas.** Selaram as cordilheiras que circundavam o planalto e as planícies centrais, impregnando a própria rocha com [[_wiki/magi\|magi]] de tal intensidade que dragões não conseguiam transpor as montanhas. Mesmo após a fragmentação dos Luminares, as barreiras permaneceram intactas por eras.
+
+**Ruínas impregnadas.** Algumas ruínas luminares ainda conservam presença [[_wiki/magi\|magi]] forte o suficiente para que os [[_wiki/shadar\|shadars]] construam nexus [[_wiki/magi\|magi]] artificiais sobre seus alicerces. O terreno ao redor de cidadelas antigas absorveu séculos de presença arcana que nenhuma era conseguiu dissipar completamente.
+
+### Filosofia
+
+*"Na luz, todos os caminhos são visíveis. A escuridão é a recusa de escolher."*
+
+Atribuída aos Luminares por tradição elarinas. Autenticidade impossível de confirmar.

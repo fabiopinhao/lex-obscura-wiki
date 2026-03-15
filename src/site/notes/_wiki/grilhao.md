@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/wiki/grilhao/"}
+---
+
+
+**Escola:** [[_wiki/nomos\|Nomos]]
+**Escala:** Média
+
+Proibição específica inscrita no alvo: não cruzar esta linha, não erguer arma, não pronunciar este nome. A primeira violação produz dor aguda; a segunda derruba; a terceira causa dano real. Diferente de Malefício ([[_wiki/anatho\|Anatho]]), que corrompe por maldição contínua: Grilhão pune ação específica, não contamina existência. Custo ontológico germina aqui: ambiguidade se torna desconfortável, exceções parecem erros
