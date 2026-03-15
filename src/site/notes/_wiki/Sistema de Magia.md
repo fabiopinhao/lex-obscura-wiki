@@ -13,12 +13,12 @@ Toda magia exige pagamento. O corpo do conjurador é a moeda.
 
 As vias pelas quais mortais canalizam poder arcano:
 
-- [[magia/teru\|Teru]] — Acesso inato, combustão do próprio corpo
-- [[magia/pactum_diaboli\|Pactum Diaboli]] — Pacto demoníaco
-- [[magia/vinculum_daemonis\|Vinculum Daemonis]] — Vínculo com entidade demoníaca
-- [[magia/devotio_sancta\|Devotio Sancta]] — Devoção divina
-- [[magia/symbiosis_naturae\|Symbiosis Naturae]] — Simbiose com a natureza
-- [[magia/meditatio_aetheris\|Meditatio Aetheris]] — Meditação etérea
+- [[_wiki/magia/teru\|Teru]] — Acesso inato, combustão do próprio corpo
+- [[_wiki/magia/pactum_diaboli\|Pactum Diaboli]] — Pacto demoníaco
+- [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]] — Vínculo com entidade demoníaca
+- [[_wiki/magia/devotio_sancta\|Devotio Sancta]] — Devoção divina
+- [[_wiki/magia/symbiosis_naturae\|Symbiosis Naturae]] — Simbiose com a natureza
+- [[_wiki/magia/meditatio_aetheris\|Meditatio Aetheris]] — Meditação etérea
 
 ## Escolas de Magia
 
@@ -28,141 +28,141 @@ Trinta escolas, divididas pelas cinco cores do espectro arcano. Cada escola poss
 
 ### Preto
 
-**[[escolas/necro\|Necro]]** — Morte e não-morte
-[[feiticos/ceifar\|Ceifar]] · [[feiticos/legiao\|Legião]] · [[feiticos/letargia\|Letargia]] · [[feiticos/relicario\|Relicário]] · [[feiticos/revenant\|Revenant]] · [[feiticos/rigor\|Rigor]] · [[feiticos/servo\|Servo]] · [[feiticos/sifao\|Sifão]] · [[feiticos/sudario\|Sudário]] · [[feiticos/sussurro\|Sussurro]]
+**[[_wiki/escolas/necro\|Necro]]** — Morte e não-morte
+[[_wiki/feiticos/ceifar\|Ceifar]] · [[_wiki/feiticos/legiao\|Legião]] · [[_wiki/feiticos/letargia\|Letargia]] · [[_wiki/feiticos/relicario\|Relicário]] · [[_wiki/feiticos/revenant\|Revenant]] · [[_wiki/feiticos/rigor\|Rigor]] · [[_wiki/feiticos/servo\|Servo]] · [[_wiki/feiticos/sifao\|Sifão]] · [[_wiki/feiticos/sudario\|Sudário]] · [[_wiki/feiticos/sussurro\|Sussurro]]
 
-**[[escolas/umbra\|Umbra]]** — Sombra e escuridão
-[[feiticos/carcova\|Cárcova]] · [[feiticos/cegueira\|Cegueira]] · [[feiticos/coagulo\|Coágulo]] · [[feiticos/eclipse\|Eclipse]] · [[feiticos/eidolon\|Eidolon]] · [[feiticos/limiar\|Limiar]] · [[feiticos/mortalha\|Mortalha]] · [[feiticos/negrume\|Negrume]] · [[feiticos/penumbra\|Penumbra]] · [[feiticos/vulto\|Vulto]]
+**[[_wiki/escolas/umbra\|Umbra]]** — Sombra e escuridão
+[[_wiki/feiticos/carcova\|Cárcova]] · [[_wiki/feiticos/cegueira\|Cegueira]] · [[_wiki/feiticos/coagulo\|Coágulo]] · [[_wiki/feiticos/eclipse\|Eclipse]] · [[_wiki/feiticos/eidolon\|Eidolon]] · [[_wiki/feiticos/limiar\|Limiar]] · [[_wiki/feiticos/mortalha\|Mortalha]] · [[_wiki/feiticos/negrume\|Negrume]] · [[_wiki/feiticos/penumbra\|Penumbra]] · [[_wiki/feiticos/vulto\|Vulto]]
 
-**[[escolas/toxo\|Toxo]]** — Veneno e corrosão
-[[feiticos/bilis\|Bílis]] · [[feiticos/corrosao\|Corrosão]] · [[feiticos/exalacao\|Exalação]] · [[feiticos/intoxicacao\|Intoxicação]] · [[feiticos/miasma\|Miasma]] · [[feiticos/necrotoxina\|Necrotoxina]] · [[feiticos/peconha\|Peçonha]] · [[feiticos/resina\|Resina]] · [[feiticos/sangria\|Sangria]] · [[feiticos/teia\|Teia]]
+**[[_wiki/escolas/toxo\|Toxo]]** — Veneno e corrosão
+[[_wiki/feiticos/bilis\|Bílis]] · [[_wiki/feiticos/corrosao\|Corrosão]] · [[_wiki/feiticos/exalacao\|Exalação]] · [[_wiki/feiticos/intoxicacao\|Intoxicação]] · [[_wiki/feiticos/miasma\|Miasma]] · [[_wiki/feiticos/necrotoxina\|Necrotoxina]] · [[_wiki/feiticos/peconha\|Peçonha]] · [[_wiki/feiticos/resina\|Resina]] · [[_wiki/feiticos/sangria\|Sangria]] · [[_wiki/feiticos/teia\|Teia]]
 
-**[[escolas/phobos\|Phobos]]** — Medo e terror
-[[feiticos/apreensao\|Apreensão]] · [[feiticos/assombro\|Assombro]] · [[feiticos/fobia\|Fobia]] · [[feiticos/inquietacao\|Inquietação]] · [[feiticos/panico\|Pânico]] · [[feiticos/paranoia\|Paranoia]] · [[feiticos/pavor\|Pavor]] · [[feiticos/perdicao\|Perdição]] · [[feiticos/sobressalto\|Sobressalto]] · [[feiticos/terror\|Terror]]
+**[[_wiki/escolas/phobos\|Phobos]]** — Medo e terror
+[[_wiki/feiticos/apreensao\|Apreensão]] · [[_wiki/feiticos/assombro\|Assombro]] · [[_wiki/feiticos/fobia\|Fobia]] · [[_wiki/feiticos/inquietacao\|Inquietação]] · [[_wiki/feiticos/panico\|Pânico]] · [[_wiki/feiticos/paranoia\|Paranoia]] · [[_wiki/feiticos/pavor\|Pavor]] · [[_wiki/feiticos/perdicao\|Perdição]] · [[_wiki/feiticos/sobressalto\|Sobressalto]] · [[_wiki/feiticos/terror\|Terror]]
 
-**[[escolas/hypno\|Hypno]]** — Sono e mente
-[[feiticos/acalanto\|Acalanto]] · [[feiticos/coma\|Coma]] · [[feiticos/comunhao\|Comunhão]] · [[feiticos/exaustao\|Exaustão]] · [[feiticos/hibernacao\|Hibernação]] · [[feiticos/insonia\|Insônia]] · [[feiticos/langor\|Langor]] · [[feiticos/pesadelo\|Pesadelo]] · [[feiticos/sonho\|Sonho]] · [[feiticos/transe\|Transe]]
+**[[_wiki/escolas/hypno\|Hypno]]** — Sono e mente
+[[_wiki/feiticos/acalanto\|Acalanto]] · [[_wiki/feiticos/coma\|Coma]] · [[_wiki/feiticos/comunhao\|Comunhão]] · [[_wiki/feiticos/exaustao\|Exaustão]] · [[_wiki/feiticos/hibernacao\|Hibernação]] · [[_wiki/feiticos/insonia\|Insônia]] · [[_wiki/feiticos/langor\|Langor]] · [[_wiki/feiticos/pesadelo\|Pesadelo]] · [[_wiki/feiticos/sonho\|Sonho]] · [[_wiki/feiticos/transe\|Transe]]
 
-**[[escolas/patho\|Patho]]** — Doença e praga
-[[feiticos/atrofia\|Atrofia]] · [[feiticos/contagio\|Contágio]] · [[feiticos/decrepitude\|Decrepitude]] · [[feiticos/febre\|Febre]] · [[feiticos/infeccao\|Infecção]] · [[feiticos/infestacao\|Infestação]] · [[feiticos/nausea\|Náusea]] · [[feiticos/necrose\|Necrose]] · [[feiticos/pestilencia\|Pestilência]] · [[feiticos/putrefacao\|Putrefação]]
+**[[_wiki/escolas/patho\|Patho]]** — Doença e praga
+[[_wiki/feiticos/atrofia\|Atrofia]] · [[_wiki/feiticos/contagio\|Contágio]] · [[_wiki/feiticos/decrepitude\|Decrepitude]] · [[_wiki/feiticos/febre\|Febre]] · [[_wiki/feiticos/infeccao\|Infecção]] · [[_wiki/feiticos/infestacao\|Infestação]] · [[_wiki/feiticos/nausea\|Náusea]] · [[_wiki/feiticos/necrose\|Necrose]] · [[_wiki/feiticos/pestilencia\|Pestilência]] · [[_wiki/feiticos/putrefacao\|Putrefação]]
 
 ---
 
 ### Vermelho
 
-**[[escolas/pyro\|Pyro]]** — Fogo e combustão
-[[feiticos/ardencia\|Ardência]] · [[feiticos/cauterio\|Cautério]] · [[feiticos/consumo\|Consumo]] · [[feiticos/crisol\|Crisol]] · [[feiticos/deflagracao\|Deflagração]] · [[feiticos/ignicao\|Ignição]] · [[feiticos/inferno\|Inferno]] · [[feiticos/infusao\|Infusão]] · [[feiticos/pira\|Pira]] · [[feiticos/voragem\|Voragem]]
+**[[_wiki/escolas/pyro\|Pyro]]** — Fogo e combustão
+[[_wiki/feiticos/ardencia\|Ardência]] · [[_wiki/feiticos/cauterio\|Cautério]] · [[_wiki/feiticos/consumo\|Consumo]] · [[_wiki/feiticos/crisol\|Crisol]] · [[_wiki/feiticos/deflagracao\|Deflagração]] · [[_wiki/feiticos/ignicao\|Ignição]] · [[_wiki/feiticos/inferno\|Inferno]] · [[_wiki/feiticos/infusao\|Infusão]] · [[_wiki/feiticos/pira\|Pira]] · [[_wiki/feiticos/voragem\|Voragem]]
 
-**[[escolas/belli\|Belli]]** — Guerra e fúria
-[[feiticos/clamor\|Clamor]] · [[feiticos/cruor\|Cruor]] · [[feiticos/estandarte\|Estandarte]] · [[feiticos/furia\|Fúria]] · [[feiticos/hecatombe\|Hecatombe]] · [[feiticos/imolacao\|Imolação]] · [[feiticos/instinto\|Instinto]] · [[feiticos/massacre\|Massacre]] · [[feiticos/presa\|Presa]] · [[feiticos/provocacao\|Provocação]]
+**[[_wiki/escolas/belli\|Belli]]** — Guerra e fúria
+[[_wiki/feiticos/clamor\|Clamor]] · [[_wiki/feiticos/cruor\|Cruor]] · [[_wiki/feiticos/estandarte\|Estandarte]] · [[_wiki/feiticos/furia\|Fúria]] · [[_wiki/feiticos/hecatombe\|Hecatombe]] · [[_wiki/feiticos/imolacao\|Imolação]] · [[_wiki/feiticos/instinto\|Instinto]] · [[_wiki/feiticos/massacre\|Massacre]] · [[_wiki/feiticos/presa\|Presa]] · [[_wiki/feiticos/provocacao\|Provocação]]
 
-**[[escolas/rupto\|Rupto]]** — Destruição e ruptura
-[[feiticos/abrogacao\|Abrogação]] · [[feiticos/cisao\|Cisão]] · [[feiticos/demolicao\|Demolição]] · [[feiticos/devastacao\|Devastação]] · [[feiticos/detonacao\|Detonação]] · [[feiticos/estilhaco\|Estilhaço]] · [[feiticos/fissura\|Fissura]] · [[feiticos/fragmentar\|Fragmentar]] · [[feiticos/obliteracao\|Obliteração]] · [[feiticos/romper\|Romper]]
+**[[_wiki/escolas/rupto\|Rupto]]** — Destruição e ruptura
+[[_wiki/feiticos/abrogacao\|Abrogação]] · [[_wiki/feiticos/cisao\|Cisão]] · [[_wiki/feiticos/demolicao\|Demolição]] · [[_wiki/feiticos/devastacao\|Devastação]] · [[_wiki/feiticos/detonacao\|Detonação]] · [[_wiki/feiticos/estilhaco\|Estilhaço]] · [[_wiki/feiticos/fissura\|Fissura]] · [[_wiki/feiticos/fragmentar\|Fragmentar]] · [[_wiki/feiticos/obliteracao\|Obliteração]] · [[_wiki/feiticos/romper\|Romper]]
 
-**[[escolas/plasma\|Plasma]]** — Energia ionizada
-[[feiticos/bolido\|Bólido]] · [[feiticos/cintila\|Cintila]] · [[feiticos/corona\|Corona]] · [[feiticos/desintegracao\|Desintegração]] · [[feiticos/erupcao\|Erupção]] · [[feiticos/fulgurita\|Fulgurita]] · [[feiticos/gladio\|Gládio]] · [[feiticos/incandescencia\|Incandescência]] · [[feiticos/ionizacao\|Ionização]] · [[feiticos/liquefacao\|Liquefação]]
+**[[_wiki/escolas/plasma\|Plasma]]** — Energia ionizada
+[[_wiki/feiticos/bolido\|Bólido]] · [[_wiki/feiticos/cintila\|Cintila]] · [[_wiki/feiticos/corona\|Corona]] · [[_wiki/feiticos/desintegracao\|Desintegração]] · [[_wiki/feiticos/erupcao\|Erupção]] · [[_wiki/feiticos/fulgurita\|Fulgurita]] · [[_wiki/feiticos/gladio\|Gládio]] · [[_wiki/feiticos/incandescencia\|Incandescência]] · [[_wiki/feiticos/ionizacao\|Ionização]] · [[_wiki/feiticos/liquefacao\|Liquefação]]
 
-**[[escolas/electro\|Electro]]** — Eletricidade e magnetismo
-[[feiticos/convulsao\|Convulsão]] · [[feiticos/estatica\|Estática]] · [[feiticos/faisca\|Faísca]] · [[feiticos/fulmineo\|Fulmíneo]] · [[feiticos/imantacao\|Imantação]] · [[feiticos/inducao\|Indução]] · [[feiticos/magnetarca\|Magnetarca]] · [[feiticos/magnetizar\|Magnetizar]] · [[feiticos/raio_voltaico\|Raio Voltaico]] · [[feiticos/relampago\|Relâmpago]]
+**[[_wiki/escolas/electro\|Electro]]** — Eletricidade e magnetismo
+[[_wiki/feiticos/convulsao\|Convulsão]] · [[_wiki/feiticos/estatica\|Estática]] · [[_wiki/feiticos/faisca\|Faísca]] · [[_wiki/feiticos/fulmineo\|Fulmíneo]] · [[_wiki/feiticos/imantacao\|Imantação]] · [[_wiki/feiticos/inducao\|Indução]] · [[_wiki/feiticos/magnetarca\|Magnetarca]] · [[_wiki/feiticos/magnetizar\|Magnetizar]] · [[_wiki/feiticos/raio_voltaico\|Raio Voltaico]] · [[_wiki/feiticos/relampago\|Relâmpago]]
 
 ---
 
 ### Verde
 
-**[[escolas/vita\|Vita]]** — Vida e crescimento
-[[feiticos/afinidade\|Afinidade]] · [[feiticos/anima\|Anima]] · [[feiticos/broto\|Broto]] · [[feiticos/cortex\|Córtex]] · [[feiticos/enxerto\|Enxerto]] · [[feiticos/espinhos\|Espinhos]] · [[feiticos/genese\|Gênese]] · [[feiticos/raizes\|Raízes]] · [[feiticos/simbiose\|Simbiose]] · [[feiticos/vigor\|Vigor]]
+**[[_wiki/escolas/vita\|Vita]]** — Vida e crescimento
+[[_wiki/feiticos/afinidade\|Afinidade]] · [[_wiki/feiticos/anima\|Anima]] · [[_wiki/feiticos/broto\|Broto]] · [[_wiki/feiticos/cortex\|Córtex]] · [[_wiki/feiticos/enxerto\|Enxerto]] · [[_wiki/feiticos/espinhos\|Espinhos]] · [[_wiki/feiticos/genese\|Gênese]] · [[_wiki/feiticos/raizes\|Raízes]] · [[_wiki/feiticos/simbiose\|Simbiose]] · [[_wiki/feiticos/vigor\|Vigor]]
 
-**[[escolas/geo\|Geo]]** — Terra e pedra
-[[feiticos/cataclismo\|Cataclismo]] · [[feiticos/esmagamento\|Esmagamento]] · [[feiticos/estaca\|Estaca]] · [[feiticos/imersao\|Imersão]] · [[feiticos/molde\|Molde]] · [[feiticos/muralha\|Muralha]] · [[feiticos/sedimento\|Sedimento]] · [[feiticos/sumidouro\|Sumidouro]] · [[feiticos/terremoto\|Terremoto]] · [[feiticos/tremor\|Tremor]]
+**[[_wiki/escolas/geo\|Geo]]** — Terra e pedra
+[[_wiki/feiticos/cataclismo\|Cataclismo]] · [[_wiki/feiticos/esmagamento\|Esmagamento]] · [[_wiki/feiticos/estaca\|Estaca]] · [[_wiki/feiticos/imersao\|Imersão]] · [[_wiki/feiticos/molde\|Molde]] · [[_wiki/feiticos/muralha\|Muralha]] · [[_wiki/feiticos/sedimento\|Sedimento]] · [[_wiki/feiticos/sumidouro\|Sumidouro]] · [[_wiki/feiticos/terremoto\|Terremoto]] · [[_wiki/feiticos/tremor\|Tremor]]
 
-**[[escolas/morpho\|Morpho]]** — Forma e transmutação
-[[feiticos/garras\|Garras]] · [[feiticos/grotesca\|Grotesca]] · [[feiticos/maleabilidade\|Maleabilidade]] · [[feiticos/mimetismo\|Mimetismo]] · [[feiticos/pele-fera\|Pele-Fera]] · [[feiticos/quimera\|Quimera]] · [[feiticos/reconstituir\|Reconstituir]] · [[feiticos/semblante\|Semblante]] · [[feiticos/transmorfose\|Transmorfose]] · [[feiticos/transmutacao\|Transmutação]]
+**[[_wiki/escolas/morpho\|Morpho]]** — Forma e transmutação
+[[_wiki/feiticos/garras\|Garras]] · [[_wiki/feiticos/grotesca\|Grotesca]] · [[_wiki/feiticos/maleabilidade\|Maleabilidade]] · [[_wiki/feiticos/mimetismo\|Mimetismo]] · [[_wiki/feiticos/pele-fera\|Pele-Fera]] · [[_wiki/feiticos/quimera\|Quimera]] · [[_wiki/feiticos/reconstituir\|Reconstituir]] · [[_wiki/feiticos/semblante\|Semblante]] · [[_wiki/feiticos/transmorfose\|Transmorfose]] · [[_wiki/feiticos/transmutacao\|Transmutação]]
 
-**[[escolas/anatho\|Anatho]]** — Maldição e ruína
-[[feiticos/azar\|Azar]] · [[feiticos/danacao\|Danação]] · [[feiticos/desconforto\|Desconforto]] · [[feiticos/deterioracao\|Deterioração]] · [[feiticos/enfraquecimento\|Enfraquecimento]] · [[feiticos/flagelo\|Flagelo]] · [[feiticos/maleficio\|Malefício]] · [[feiticos/marca\|Marca]] · [[feiticos/petrificacao\|Petrificação]] · [[feiticos/ruina\|Ruína]]
+**[[_wiki/escolas/anatho\|Anatho]]** — Maldição e ruína
+[[_wiki/feiticos/azar\|Azar]] · [[_wiki/feiticos/danacao\|Danação]] · [[_wiki/feiticos/desconforto\|Desconforto]] · [[_wiki/feiticos/deterioracao\|Deterioração]] · [[_wiki/feiticos/enfraquecimento\|Enfraquecimento]] · [[_wiki/feiticos/flagelo\|Flagelo]] · [[_wiki/feiticos/maleficio\|Malefício]] · [[_wiki/feiticos/marca\|Marca]] · [[_wiki/feiticos/petrificacao\|Petrificação]] · [[_wiki/feiticos/ruina\|Ruína]]
 
-**[[escolas/salvo\|Salvo]]** — Cura e restauração
-[[feiticos/balsamo\|Bálsamo]] · [[feiticos/catarse\|Catarse]] · [[feiticos/depuracao\|Depuração]] · [[feiticos/milagre\|Milagre]] · [[feiticos/reconstituicao\|Reconstituição]] · [[feiticos/remissao\|Remissão]] · [[feiticos/restauracao\|Restauração]] · [[feiticos/retorno\|Retorno]] · [[feiticos/soldadura\|Soldadura]] · [[feiticos/sutura\|Sutura]]
+**[[_wiki/escolas/salvo\|Salvo]]** — Cura e restauração
+[[_wiki/feiticos/balsamo\|Bálsamo]] · [[_wiki/feiticos/catarse\|Catarse]] · [[_wiki/feiticos/depuracao\|Depuração]] · [[_wiki/feiticos/milagre\|Milagre]] · [[_wiki/feiticos/reconstituicao\|Reconstituição]] · [[_wiki/feiticos/remissao\|Remissão]] · [[_wiki/feiticos/restauracao\|Restauração]] · [[_wiki/feiticos/retorno\|Retorno]] · [[_wiki/feiticos/soldadura\|Soldadura]] · [[_wiki/feiticos/sutura\|Sutura]]
 
-**[[escolas/hydro\|Hydro]]** — Água e maré
-[[feiticos/acoite\|Açoite]] · [[feiticos/bolha\|Bolha]] · [[feiticos/bruma\|Bruma]] · [[feiticos/correnteza\|Correnteza]] · [[feiticos/dessecacao\|Dessecação]] · [[feiticos/diluvio\|Dilúvio]] · [[feiticos/filtro\|Filtro]] · [[feiticos/fluxo\|Fluxo]] · [[feiticos/icor\|Ícor]] · [[feiticos/maremoto\|Maremoto]]
+**[[_wiki/escolas/hydro\|Hydro]]** — Água e maré
+[[_wiki/feiticos/acoite\|Açoite]] · [[_wiki/feiticos/bolha\|Bolha]] · [[_wiki/feiticos/bruma\|Bruma]] · [[_wiki/feiticos/correnteza\|Correnteza]] · [[_wiki/feiticos/dessecacao\|Dessecação]] · [[_wiki/feiticos/diluvio\|Dilúvio]] · [[_wiki/feiticos/filtro\|Filtro]] · [[_wiki/feiticos/fluxo\|Fluxo]] · [[_wiki/feiticos/icor\|Ícor]] · [[_wiki/feiticos/maremoto\|Maremoto]]
 
 ---
 
 ### Branco
 
-**[[escolas/helio\|Helio]]** — Luz e purificação
-[[feiticos/apogeu\|Apogeu]] · [[feiticos/baliza\|Baliza]] · [[feiticos/candencia\|Candência]] · [[feiticos/clarao\|Clarão]] · [[feiticos/desvelar\|Desvelar]] · [[feiticos/expurgo\|Expurgo]] · [[feiticos/fulgor\|Fulgor]] · [[feiticos/lampejo\|Lampejo]] · [[feiticos/prisma\|Prisma]] · [[feiticos/zenite\|Zênite]]
+**[[_wiki/escolas/helio\|Helio]]** — Luz e purificação
+[[_wiki/feiticos/apogeu\|Apogeu]] · [[_wiki/feiticos/baliza\|Baliza]] · [[_wiki/feiticos/candencia\|Candência]] · [[_wiki/feiticos/clarao\|Clarão]] · [[_wiki/feiticos/desvelar\|Desvelar]] · [[_wiki/feiticos/expurgo\|Expurgo]] · [[_wiki/feiticos/fulgor\|Fulgor]] · [[_wiki/feiticos/lampejo\|Lampejo]] · [[_wiki/feiticos/prisma\|Prisma]] · [[_wiki/feiticos/zenite\|Zênite]]
 
-**[[escolas/aegis\|Aegis]]** — Proteção e escudo
-[[feiticos/barreira\|Barreira]] · [[feiticos/couraca\|Couraça]] · [[feiticos/custodia\|Custódia]] · [[feiticos/deflexao\|Deflexão]] · [[feiticos/egide\|Égide]] · [[feiticos/escudo\|Escudo]] · [[feiticos/guardiao\|Guardião]] · [[feiticos/redoma\|Redoma]] · [[feiticos/resguardo\|Resguardo]] · [[feiticos/retributo\|Retributo]]
+**[[_wiki/escolas/aegis\|Aegis]]** — Proteção e escudo
+[[_wiki/feiticos/barreira\|Barreira]] · [[_wiki/feiticos/couraca\|Couraça]] · [[_wiki/feiticos/custodia\|Custódia]] · [[_wiki/feiticos/deflexao\|Deflexão]] · [[_wiki/feiticos/egide\|Égide]] · [[_wiki/feiticos/escudo\|Escudo]] · [[_wiki/feiticos/guardiao\|Guardião]] · [[_wiki/feiticos/redoma\|Redoma]] · [[_wiki/feiticos/resguardo\|Resguardo]] · [[_wiki/feiticos/retributo\|Retributo]]
 
-**[[escolas/sacro\|Sacro]]** — Sagrado e exorcismo
-[[feiticos/bencao\|Bênção]] · [[feiticos/consagracao\|Consagração]] · [[feiticos/coragem\|Coragem]] · [[feiticos/exorcismo\|Exorcismo]] · [[feiticos/fortuna\|Fortuna]] · [[feiticos/indulto\|Indulto]] · [[feiticos/pressentimento\|Pressentimento]] · [[feiticos/ressurreicao\|Ressurreição]] · [[feiticos/salvaguarda\|Salvaguarda]] · [[feiticos/santuario\|Santuário]]
+**[[_wiki/escolas/sacro\|Sacro]]** — Sagrado e exorcismo
+[[_wiki/feiticos/bencao\|Bênção]] · [[_wiki/feiticos/consagracao\|Consagração]] · [[_wiki/feiticos/coragem\|Coragem]] · [[_wiki/feiticos/exorcismo\|Exorcismo]] · [[_wiki/feiticos/fortuna\|Fortuna]] · [[_wiki/feiticos/indulto\|Indulto]] · [[_wiki/feiticos/pressentimento\|Pressentimento]] · [[_wiki/feiticos/ressurreicao\|Ressurreição]] · [[_wiki/feiticos/salvaguarda\|Salvaguarda]] · [[_wiki/feiticos/santuario\|Santuário]]
 
-**[[escolas/abjuro\|Abjuro]]** — Anulação e banimento
-[[feiticos/anulacao\|Anulação]] · [[feiticos/diagnose\|Diagnose]] · [[feiticos/extincao\|Extinção]] · [[feiticos/interdicao\|Interdição]] · [[feiticos/lacuna\|Lacuna]] · [[feiticos/purga\|Purga]] · [[feiticos/retribuicao\|Retribuição]] · [[feiticos/selamento\|Selamento]] · [[feiticos/supressao\|Supressão]] · [[feiticos/veu\|Véu]]
+**[[_wiki/escolas/abjuro\|Abjuro]]** — Anulação e banimento
+[[_wiki/feiticos/anulacao\|Anulação]] · [[_wiki/feiticos/diagnose\|Diagnose]] · [[_wiki/feiticos/extincao\|Extinção]] · [[_wiki/feiticos/interdicao\|Interdição]] · [[_wiki/feiticos/lacuna\|Lacuna]] · [[_wiki/feiticos/purga\|Purga]] · [[_wiki/feiticos/retribuicao\|Retribuição]] · [[_wiki/feiticos/selamento\|Selamento]] · [[_wiki/feiticos/supressao\|Supressão]] · [[_wiki/feiticos/veu\|Véu]]
 
-**[[escolas/chrono\|Chrono]]** — Tempo e duração
-[[feiticos/catacronia\|Catacronia]] · [[feiticos/celeridade\|Celeridade]] · [[feiticos/dilacao\|Dilação]] · [[feiticos/estase\|Estase]] · [[feiticos/interregno\|Interregno]] · [[feiticos/lapso\|Lapso]] · [[feiticos/pausa\|Pausa]] · [[feiticos/rastro\|Rastro]] · [[feiticos/retrocesso\|Retrocesso]] · [[feiticos/senescencia\|Senescência]]
+**[[_wiki/escolas/chrono\|Chrono]]** — Tempo e duração
+[[_wiki/feiticos/catacronia\|Catacronia]] · [[_wiki/feiticos/celeridade\|Celeridade]] · [[_wiki/feiticos/dilacao\|Dilação]] · [[_wiki/feiticos/estase\|Estase]] · [[_wiki/feiticos/interregno\|Interregno]] · [[_wiki/feiticos/lapso\|Lapso]] · [[_wiki/feiticos/pausa\|Pausa]] · [[_wiki/feiticos/rastro\|Rastro]] · [[_wiki/feiticos/retrocesso\|Retrocesso]] · [[_wiki/feiticos/senescencia\|Senescência]]
 
-**[[escolas/nomos\|Nomos]]** — Lei e restrição
-[[feiticos/clausura\|Clausura]] · [[feiticos/edito\|Edito]] · [[feiticos/franquia\|Franquia]] · [[feiticos/grilhao\|Grilhão]] · [[feiticos/injuncao\|Injunção]] · [[feiticos/juramento\|Juramento]] · [[feiticos/mordaca\|Mordaça]] · [[feiticos/oubliette\|Oubliette]] · [[feiticos/selo\|Selo]] · [[feiticos/sigilo\|Sigilo]]
+**[[_wiki/escolas/nomos\|Nomos]]** — Lei e restrição
+[[_wiki/feiticos/clausura\|Clausura]] · [[_wiki/feiticos/edito\|Edito]] · [[_wiki/feiticos/franquia\|Franquia]] · [[_wiki/feiticos/grilhao\|Grilhão]] · [[_wiki/feiticos/injuncao\|Injunção]] · [[_wiki/feiticos/juramento\|Juramento]] · [[_wiki/feiticos/mordaca\|Mordaça]] · [[_wiki/feiticos/oubliette\|Oubliette]] · [[_wiki/feiticos/selo\|Selo]] · [[_wiki/feiticos/sigilo\|Sigilo]]
 
 ---
 
 ### Azul
 
-**[[escolas/aero\|Aero]]** — Ar e vento
-[[feiticos/asfixia\|Asfixia]] · [[feiticos/borrasca\|Borrasca]] · [[feiticos/brisa\|Brisa]] · [[feiticos/ciclone\|Ciclone]] · [[feiticos/ressonancia\|Ressonância]] · [[feiticos/sopro\|Sopro]] · [[feiticos/sustentacao\|Sustentação]] · [[feiticos/talho\|Talho]] · [[feiticos/vendaval\|Vendaval]] · [[feiticos/vortice\|Vórtice]]
+**[[_wiki/escolas/aero\|Aero]]** — Ar e vento
+[[_wiki/feiticos/asfixia\|Asfixia]] · [[_wiki/feiticos/borrasca\|Borrasca]] · [[_wiki/feiticos/brisa\|Brisa]] · [[_wiki/feiticos/ciclone\|Ciclone]] · [[_wiki/feiticos/ressonancia\|Ressonância]] · [[_wiki/feiticos/sopro\|Sopro]] · [[_wiki/feiticos/sustentacao\|Sustentação]] · [[_wiki/feiticos/talho\|Talho]] · [[_wiki/feiticos/vendaval\|Vendaval]] · [[_wiki/feiticos/vortice\|Vórtice]]
 
-**[[escolas/psycho\|Psycho]]** — Mente e ilusão
-[[feiticos/espreita\|Espreita]] · [[feiticos/fabulacao\|Fabulação]] · [[feiticos/frenesi\|Frenesi]] · [[feiticos/influxo\|Influxo]] · [[feiticos/intrusao\|Intrusão]] · [[feiticos/oblivio\|Oblívio]] · [[feiticos/obtusao\|Obtusão]] · [[feiticos/possessao\|Possessão]] · [[feiticos/tormento\|Tormento]] · [[feiticos/vertigem\|Vertigem]]
+**[[_wiki/escolas/psycho\|Psycho]]** — Mente e ilusão
+[[_wiki/feiticos/espreita\|Espreita]] · [[_wiki/feiticos/fabulacao\|Fabulação]] · [[_wiki/feiticos/frenesi\|Frenesi]] · [[_wiki/feiticos/influxo\|Influxo]] · [[_wiki/feiticos/intrusao\|Intrusão]] · [[_wiki/feiticos/oblivio\|Oblívio]] · [[_wiki/feiticos/obtusao\|Obtusão]] · [[_wiki/feiticos/possessao\|Possessão]] · [[_wiki/feiticos/tormento\|Tormento]] · [[_wiki/feiticos/vertigem\|Vertigem]]
 
-**[[escolas/gnosi\|Gnosi]]** — Conhecimento e visão
-[[feiticos/clarividencia\|Clarividência]] · [[feiticos/discernimento\|Discernimento]] · [[feiticos/escrutinio\|Escrutínio]] · [[feiticos/glossa\|Glossa]] · [[feiticos/omnisciencia\|Omnisciência]] · [[feiticos/perscrutar\|Perscrutar]] · [[feiticos/pressagio\|Presságio]] · [[feiticos/profecia\|Profecia]] · [[feiticos/vigilia\|Vigília]] · [[feiticos/visao_verdadeira\|Visão Verdadeira]]
+**[[_wiki/escolas/gnosi\|Gnosi]]** — Conhecimento e visão
+[[_wiki/feiticos/clarividencia\|Clarividência]] · [[_wiki/feiticos/discernimento\|Discernimento]] · [[_wiki/feiticos/escrutinio\|Escrutínio]] · [[_wiki/feiticos/glossa\|Glossa]] · [[_wiki/feiticos/omnisciencia\|Omnisciência]] · [[_wiki/feiticos/perscrutar\|Perscrutar]] · [[_wiki/feiticos/pressagio\|Presságio]] · [[_wiki/feiticos/profecia\|Profecia]] · [[_wiki/feiticos/vigilia\|Vigília]] · [[_wiki/feiticos/visao_verdadeira\|Visão Verdadeira]]
 
-**[[escolas/cosmo\|Cosmo]]** — Gravidade e espaço
-[[feiticos/abrandamento\|Abrandamento]] · [[feiticos/atracao\|Atração]] · [[feiticos/dilaceracao\|Dilaceração]] · [[feiticos/gravame\|Gravame]] · [[feiticos/meteoro\|Meteoro]] · [[feiticos/portal\|Portal]] · [[feiticos/pulso\|Pulso]] · [[feiticos/singularidade\|Singularidade]] · [[feiticos/suspensao\|Suspensão]] · [[feiticos/telecinese\|Telecinese]]
+**[[_wiki/escolas/cosmo\|Cosmo]]** — Gravidade e espaço
+[[_wiki/feiticos/abrandamento\|Abrandamento]] · [[_wiki/feiticos/atracao\|Atração]] · [[_wiki/feiticos/dilaceracao\|Dilaceração]] · [[_wiki/feiticos/gravame\|Gravame]] · [[_wiki/feiticos/meteoro\|Meteoro]] · [[_wiki/feiticos/portal\|Portal]] · [[_wiki/feiticos/pulso\|Pulso]] · [[_wiki/feiticos/singularidade\|Singularidade]] · [[_wiki/feiticos/suspensao\|Suspensão]] · [[_wiki/feiticos/telecinese\|Telecinese]]
 
-**[[escolas/spectro\|Spectro]]** — Ilusão e invisibilidade
-[[feiticos/assombracao\|Assombração]] · [[feiticos/desfoque\|Desfoque]] · [[feiticos/disfarce\|Disfarce]] · [[feiticos/espelhos\|Espelhos]] · [[feiticos/evanescencia\|Evanescência]] · [[feiticos/intangibilidade\|Intangibilidade]] · [[feiticos/limbo\|Limbo]] · [[feiticos/miragem\|Miragem]] · [[feiticos/murmurio\|Murmúrio]] · [[feiticos/simulacro\|Simulacro]]
+**[[_wiki/escolas/spectro\|Spectro]]** — Ilusão e invisibilidade
+[[_wiki/feiticos/assombracao\|Assombração]] · [[_wiki/feiticos/desfoque\|Desfoque]] · [[_wiki/feiticos/disfarce\|Disfarce]] · [[_wiki/feiticos/espelhos\|Espelhos]] · [[_wiki/feiticos/evanescencia\|Evanescência]] · [[_wiki/feiticos/intangibilidade\|Intangibilidade]] · [[_wiki/feiticos/limbo\|Limbo]] · [[_wiki/feiticos/miragem\|Miragem]] · [[_wiki/feiticos/murmurio\|Murmúrio]] · [[_wiki/feiticos/simulacro\|Simulacro]]
 
-**[[escolas/urano\|Urano]]** — Céu e ascensão
-[[feiticos/absolvicao\|Absolvição]] · [[feiticos/alento\|Alento]] · [[feiticos/armisticio\|Armistício]] · [[feiticos/ascensao\|Ascensão]] · [[feiticos/elevacao\|Elevação]] · [[feiticos/liberdade\|Liberdade]] · [[feiticos/pluma\|Pluma]] · [[feiticos/quietude\|Quietude]] · [[feiticos/serenidade\|Serenidade]] · [[feiticos/voo\|Voo]]
+**[[_wiki/escolas/urano\|Urano]]** — Céu e ascensão
+[[_wiki/feiticos/absolvicao\|Absolvição]] · [[_wiki/feiticos/alento\|Alento]] · [[_wiki/feiticos/armisticio\|Armistício]] · [[_wiki/feiticos/ascensao\|Ascensão]] · [[_wiki/feiticos/elevacao\|Elevação]] · [[_wiki/feiticos/liberdade\|Liberdade]] · [[_wiki/feiticos/pluma\|Pluma]] · [[_wiki/feiticos/quietude\|Quietude]] · [[_wiki/feiticos/serenidade\|Serenidade]] · [[_wiki/feiticos/voo\|Voo]]
 
-**[[escolas/cryo\|Cryo]]** — Gelo e frio
-[[feiticos/carapaca\|Carapaça]] · [[feiticos/cristal\|Cristal]] · [[feiticos/entorpecimento\|Entorpecimento]] · [[feiticos/espicula\|Espícula]] · [[feiticos/frialdade\|Frialdade]] · [[feiticos/glaciacao\|Glaciação]] · [[feiticos/mordente\|Mordente]] · [[feiticos/nevasca\|Nevasca]] · [[feiticos/quebradico\|Quebradiço]] · [[feiticos/relento\|Relento]]
+**[[_wiki/escolas/cryo\|Cryo]]** — Gelo e frio
+[[_wiki/feiticos/carapaca\|Carapaça]] · [[_wiki/feiticos/cristal\|Cristal]] · [[_wiki/feiticos/entorpecimento\|Entorpecimento]] · [[_wiki/feiticos/espicula\|Espícula]] · [[_wiki/feiticos/frialdade\|Frialdade]] · [[_wiki/feiticos/glaciacao\|Glaciação]] · [[_wiki/feiticos/mordente\|Mordente]] · [[_wiki/feiticos/nevasca\|Nevasca]] · [[_wiki/feiticos/quebradico\|Quebradiço]] · [[_wiki/feiticos/relento\|Relento]]
 
 ---
 
 ## Mecânicas e Conceitos
 
-- [[magia/sistema_de_combustivel_magico\|Sistema de Combustível Mágico]] — Como o corpo paga
-- [[magia/hierarquia_de_poder_magico\|Hierarquia de Poder Mágico]] — Níveis de conjurador
-- [[magia/progressao_ontologica\|Progressão Ontológica]] — Custos que escalam geometricamente
-- [[magia/principios_canonicos\|Princípios Canônicos]] — Leis fundamentais da magia
-- [[magia/principio_final\|Princípio Final]] — O custo último
-- [[magia/pares_antagonicos\|Pares Antagônicos]] — Escolas que se opõem
-- [[magia/estrutura_padrao_de_magias\|Estrutura Padrão de Magias]] — Anatomia de um feitiço
-- [[magia/flux_aetheria\|Flux Aetheria]] — Fluxo de energia arcana
-- [[magia/glossario_de_termos_magicos\|Glossário de Termos Mágicos]] — Terminologia
+- [[_wiki/magia/sistema_de_combustivel_magico\|Sistema de Combustível Mágico]] — Como o corpo paga
+- [[_wiki/magia/hierarquia_de_poder_magico\|Hierarquia de Poder Mágico]] — Níveis de conjurador
+- [[_wiki/magia/progressao_ontologica\|Progressão Ontológica]] — Custos que escalam geometricamente
+- [[_wiki/magia/principios_canonicos\|Princípios Canônicos]] — Leis fundamentais da magia
+- [[_wiki/magia/principio_final\|Princípio Final]] — O custo último
+- [[_wiki/magia/pares_antagonicos\|Pares Antagônicos]] — Escolas que se opõem
+- [[_wiki/magia/estrutura_padrao_de_magias\|Estrutura Padrão de Magias]] — Anatomia de um feitiço
+- [[_wiki/magia/flux_aetheria\|Flux Aetheria]] — Fluxo de energia arcana
+- [[_wiki/magia/glossario_de_termos_magicos\|Glossário de Termos Mágicos]] — Terminologia
 
 ## Práticas e Rituais
 
-- [[magia/rito_de_ossarium\|Rito de Ossarium]] — Ritual proibido
-- [[magia/circulo_de_sutura\|Círculo de Sutura]] — Ritual de cura arcana
-- [[magia/deteccao_de_alinhamento\|Detecção de Alinhamento]] — Identificação de cor mágica
-- [[magia/maledictus_fidejussor\|Maledictus Fidejussor]] — Maldição contratual
-- [[magia/macula-sombria\|Mácula Sombria]] — Corrupção arcana
+- [[_wiki/magia/rito_de_ossarium\|Rito de Ossarium]] — Ritual proibido
+- [[_wiki/magia/circulo_de_sutura\|Círculo de Sutura]] — Ritual de cura arcana
+- [[_wiki/magia/deteccao_de_alinhamento\|Detecção de Alinhamento]] — Identificação de cor mágica
+- [[_wiki/magia/maledictus_fidejussor\|Maledictus Fidejussor]] — Maldição contratual
+- [[_wiki/magia/macula-sombria\|Mácula Sombria]] — Corrupção arcana
 
 ## Custos e Consequências
 
-- [[magia/consequencias_do_descarte\|Consequências do Descarte]] — O que acontece quando se abusa
-- [[magia/metodos_de_descarte\|Métodos de Descarte]] — Como conjuradores lidam com resíduos
-- [[magia/politica_imperial_de_descarte\|Política Imperial de Descarte]] — Regulamentação estatal
-- [[magia/aplicacao_narrativa\|Aplicação Narrativa]] — Como a magia serve a história
+- [[_wiki/magia/consequencias_do_descarte\|Consequências do Descarte]] — O que acontece quando se abusa
+- [[_wiki/magia/metodos_de_descarte\|Métodos de Descarte]] — Como conjuradores lidam com resíduos
+- [[_wiki/magia/politica_imperial_de_descarte\|Política Imperial de Descarte]] — Regulamentação estatal
+- [[_wiki/magia/aplicacao_narrativa\|Aplicação Narrativa]] — Como a magia serve a história
 
 ---
 
-*Classificação conforme o [[artefatos/codex_somniorum\|Codex Somniorum]], Volume III — [[conceitos/tabula_umbrae\|Tabula Umbrae]].*
+*Classificação conforme o [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]], Volume III — [[_wiki/conceitos/tabula_umbrae\|Tabula Umbrae]].*
