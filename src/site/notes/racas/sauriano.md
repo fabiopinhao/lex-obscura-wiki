@@ -12,33 +12,30 @@ Família de humanoides híbridos répteis. Sub-raças: [[racas/draconideo\|Draco
 —
 
 ### notas
-—
+Cor arcana vermelha. [[racas/draconideo\|Draconídeos]] são naturais (linhagem dracônica, [[locais/varnak\|Varnak]]/[[locais/veinkard\|Veinkard]]). [[racas/kobold\|Kobolds]] são artificiais (manipulação [[racas/shadar\|shadar]] sobre ovos corrompidos, exclusivos de [[locais/reinkard\|Reinkard]]).
 
 ## Lore
-### Fisiologia
 
-Híbridos répteis da cor arcana vermelha. Abrangem espectro amplo de subtipos: [[racas/kobold\|kobolds]] (pequenos, ágeis, servis), [[racas/draconideo\|draconídeos]] (grandes, escamados, portadores de sopro elemental) e saurianos comuns (escamas variadas, porte intermediário). Escamas variam conforme linhagem: vermelho-escuro, marrom-terroso, verde-musgo ou negro-vulcânico nos [[racas/draconideo\|draconídeos]] maiores. Expectativa de vida entre 50 e 65 anos, reduzida significativamente pela violência endêmica entre clãs.
+### Origem Cosmogônica
 
-### Organização Social
+Os saurianos, como todos os humanoides híbridos, remontam às [[eventos/guerras_raciais\|Guerras Raciais]], quando entidades demoníacas intervieram no plano material cruzando humanos e répteis para produzir soldados alinhados à cor vermelha. A linhagem reptiliana é genuína: sangue [[linguas/draconico\|dracônico]] corre nas veias saurianas. Mas o processo que transformou esse sangue em raça foi interferência divina, e a interferência deixou marca. Saurianos carregam o vermelho dos [[cosmologia/demonios\|demônios]], e o vermelho carrega custo.
 
-Estrutura clânica centrada em linhagem dracônica. Cada clã reivindica descendência de um dragão ancestral ou patrono demoníaco. O [[organizacoes/cla_myr_vethan\|Clã Myr'vethan]], liderado por [[personagens/yzmareth\|Yzmareth]], opera a partir de [[locais/veinkard\|Veinkard]]/[[locais/varnak\|Varnak]] e busca unificar os clãs drakhonins sob uma só bandeira.
+Diferente dos [[racas/vulfano\|vulfanos]] (preto, caninos) ou dos [[racas/lynxiano\|lynxianos]] (verde, felinos), os saurianos mantiveram conexão com seus ancestrais animais: dragões ainda existem, ainda são venerados, e a relação entre criador e criatura permanece ativa. A maioria dos híbridos foi abandonada pelos deuses que os geraram. Os saurianos não: [[panteao/kaelgrym\|Kaelgrym]] ainda aceita pactos, e os dragões de [[locais/varnak\|Varnak]] ainda projetam sombra sobre seus descendentes menores.
 
-- **Liderança:** Baseada em força e linhagem. [[racas/draconideo\|Draconídeos]] governam; saurianos comuns servem nas funções inferiores.
-- **Pactos universais:** Ritual [[racas/draconideo\|drakhonin]] vincula cada indivíduo ao deus-dragão desde o ovo. Não é escolha, mas condição de nascimento.
-- **Hierarquia interna:** [[racas/draconideo\|Draconídeos]] no topo, saurianos comuns como guerreiros e artesãos. [[racas/kobold\|Kobolds]] não integram esta hierarquia: são raça exclusiva do planalto de [[locais/reinkard\|Reinkard]], vinculados aos [[racas/shadar\|Shadar]], sem presença nos clãs de [[locais/varnak\|Varnak]] ou [[locais/veinkard\|Veinkard]].
+### Natureza Familiar
 
-### Filosofia e Valores
+Os saurianos dividem-se em duas sub-raças de origens radicalmente distintas.
 
-Pragmatismo predatório. A palavra dracônica tem peso variável: "Palavra nenhuma vale mais que sobrevivência. Quem morre por promessa é tolo. Quem vive, governa." Honra existe, mas subordinada à continuidade do clã.
+[[racas/draconideo\|Draconídeos]] (porte humanoide) são o produto natural das [[eventos/guerras_raciais\|Guerras Raciais]]. Escamas grossas, sopro elemental, caudas preênseis. Organizados em clãs drakhonins que reivindicam descendência direta de dragões ancestrais. Habitam [[locais/varnak\|Varnak]] e [[locais/veinkard\|Veinkard]], fora do domínio imperial. Consideram-se herdeiros legítimos da linhagem dracônica.
 
-Os drakhonins consideram-se herdeiros legítimos dos dragões e guardiões de seu legado. O [[artefatos/tratado_de_wijmarv\|tratado de Wijmarv]], ao revelar que a [[artefatos/fendris\|Fendris]] (arma [[linguas/luminar\|Luminar]]) mata [[racas/draconideo\|draconídeos]] tanto quanto dragões, deslegitima o mito fundador [[linguas/draconico\|dracônico]] e representa ameaça existencial à identidade sauriana.
+[[racas/kobold\|Kobolds]] (porte gnômico) são produto de manipulação [[racas/shadar\|shadar]]. Não descendem das linhagens dracônicas de [[locais/varnak\|Varnak]]: foram fabricados a partir de ovos de dragão corrompidos pela presença sombria no planalto de [[locais/reinkard\|Reinkard]], moldados por seleção deliberada ao longo de gerações até atingirem forma estável. São exclusivos de [[locais/reinkard\|Reinkard]] e não existem em [[locais/veinkard\|Veinkard]]. Para [[racas/draconideo\|draconídeos]], [[racas/kobold\|kobolds]] são paródia ofensiva da linhagem.
 
-### Relação com o [[organizacoes/imperio_sombrio\|Império Sombrio]]
+### A Ruptura Originária
 
-Aliança pragmática, nunca submissão. [[personagens/yzmareth\|Yzmareth]] mantém acordo secreto com [[personagens/arothistar\|Arothistar]]: carregamentos de armas para as montanhas em troca de apoio para unificar [[locais/varnak\|Varnak]]. A aliança só será oficial se os drakhonins vencerem. Toleram os [[racas/shadar\|shadars]] como parceiros comerciais e militares, mas consideram-nos inferiores em linhagem.
+A relação entre [[racas/draconideo\|draconídeos]] e [[racas/kobold\|kobolds]] nunca foi de coexistência. As duas sub-raças surgiram em continentes diferentes, por processos diferentes, para propósitos diferentes. [[racas/draconideo\|Draconídeos]] nasceram das [[eventos/guerras_raciais\|Guerras Raciais]] em [[locais/veinkard\|Veinkard]]; [[racas/kobold\|kobolds]] foram fabricados por [[racas/shadar\|shadars]] em [[locais/reinkard\|Reinkard]] eras depois. A "família" sauriana é classificação externa, imposta por eruditos imperiais que agruparam tudo que tem escamas sob o mesmo nome. [[racas/draconideo\|Draconídeos]] rejeitam a associação. [[racas/kobold\|Kobolds]] não sabem que ela existe.
 
-### Fraquezas
+O contato entre as sub-raças na [[_referencias/terceira_era\|Terceira Era]] é raro e violento. [[personagens/thrax\|Thrax]] decepou a cauda de [[personagens/fing\|Fing]] em [[locais/mor_severith\|Mor'Severith]] ao primeiro encontro. Para um [[racas/draconideo\|draconídeo]], ver um [[racas/kobold\|kobold]] é ver o que [[racas/shadar\|shadars]] fizeram com ovos que deveriam ter eclodido em dragões.
 
-- **Fragmentação clânica:** Rivalidades internas impedem unificação há gerações
-- **Vulnerabilidade identitária:** A [[_wiki/Cosmologia\|cosmologia]] sauriana depende de mitos fundadores que podem ser desmentidos
-- **Dependência do sopro:** Focinheiras metálicas (como a imposta a [[personagens/thrax\|Thrax]]) neutralizam seu maior trunfo
+### Desbestialização do Plano Material
+
+Os saurianos fazem parte do fenômeno de desbestialização que atinge todas as raças híbridas. O declínio sauriano opera por duas vias distintas: nos [[racas/draconideo\|draconídeos]], a fragmentação clânica e a violência endêmica reduzem a população a cada geração; nos [[racas/kobold\|kobolds]], a manipulação artificial eliminou a capacidade de existir fora da servidão. Ambas as sub-raças encolhem, cada uma por razão própria. Os dragões que lhes deram sangue migraram ou se isolaram. O que resta é escama sem fogo.

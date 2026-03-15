@@ -63,6 +63,7 @@ O Império não reconhece igualdade entre as raças. Reconhece utilidade.
 - [[racas/dridar\|Dridares]] — Meio-drow, meio-aranha
 - [[racas/hidna_ressonante\|Hidnas Ressonantes]] — Parasitas arcanos
 - [[racas/gnoll\|Gnolls]] — Hienas bípedes
+- [[racas/ogro\|Ogros]] — Humanoides brutais de grande porte
 - [[racas/salamandra\|Salamandras]] — Elementais de fogo
 - [[racas/diabrete\|Diabretes]] — Demônios menores
 - [[racas/ranidano\|Ranidanos]] — Anfíbios sapientes

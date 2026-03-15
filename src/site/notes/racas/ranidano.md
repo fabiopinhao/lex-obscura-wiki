@@ -6,7 +6,7 @@
 ## Sistema
 
 ### descricao_curta
-Família de humanoides híbridos anfíbios. Sub-raças: [[racas/saag\|Saag]] (humanoide), Chelik (gnômico).
+Família de humanoides híbridos anfíbios. Sub-raças: [[racas/saag\|Saag]] (humanoide), Boglin (gnômico).
 
 ### exemplos_personagens
 —

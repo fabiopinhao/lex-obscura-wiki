@@ -13,7 +13,7 @@ Barreira geográfica natural entre [[locais/reinkard\|Reinkard]] e [[locais/vein
 
 ### aparicoes_principais
 
-Mencionada em contexto geopolítico ao longo de toda a trilogia. Referências diretas: Cap6 ([[locais/thandruk_varn\|Thandruk Varn]] na fronteira), Cap13 ([[locais/pico_de_nethys\|Pico de Nethys]], noctiluz). Cronologia expandida: E-0002 (barreira [[linguas/luminar\|luminar]]), E-0013 (quebra da barreira), E-0014 (migração de [[personagens/varna\|Varna]]).
+Mencionada em contexto geopolítico ao longo de toda a trilogia. Referências diretas: Cap6 ([[locais/thandruk_varn\|Thandruk Varn]] na fronteira), Cap13 ([[locais/pico_de_nethys\|Pico de Nethys]], [[cosmologia/noctiluz\|noctiluz]]). Cronologia expandida: E-0002 (barreira [[linguas/luminar\|luminar]]), E-0013 (quebra da barreira), E-0014 (migração de [[personagens/varna\|Varna]]).
 
 ### notas
 

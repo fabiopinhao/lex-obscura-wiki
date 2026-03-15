@@ -14,12 +14,12 @@ Histórico, Doutrina_Alma, Base_Teru, Mestre_Errante
 ### aparicoes_principais
 
 ### notas
-Mestre errante [[racas/gerut\|gerut]] do fim da [[_referencias/segunda_era\|Segunda Era]]; fundador da [[cosmologia/doutrina_da_alma\|Doutrina da Alma]]; base filosófica do sistema [[magia/teru\|Teru]]; [[personagens/milorsevogh_velshard\|Milorsevogh Velshard]] domina [[magia/teru\|Teru]] como herdeiro prático; discípulos em círculos secretos
+Mestre errante [[racas/gerut\|gerut]] do fim da [[_referencias/segunda_era\|Segunda Era]]; fundador da [[cosmologia/doutrina_da_alma\|Doutrina da Alma]]; base filosófica do sistema [[magia/teru\|Teru]]; [[personagens/milorsevogh_velshard\|Milorsevogh Velshard]] domina [[magia/teru\|Teru]] como herdeiro prático; discípulos entre párias e rebeldes, organizados em círculos secretos
 
 ## Lore
 ### Perfil
 
-[[racas/gerut\|Gerut]] (raça). Mestre errante. Praticante da magia [[magia/teru\|Teru]]. Fundador da [[cosmologia/doutrina_da_alma\|Doutrina da Alma]]. Viveu no fim da [[_referencias/segunda_era\|Segunda Era]], anterior às Guerras Reinkárdicas. Status: morto (histórico).
+[[racas/gerut\|Gerut]] (raça). Mestre errante, sem cátedra nem sobrenome. Praticante da magia [[magia/teru\|Teru]]. Fundador da [[cosmologia/doutrina_da_alma\|Doutrina da Alma]]. Viveu no fim da [[_referencias/segunda_era\|Segunda Era]], anterior às Guerras Reinkárdicas. Status: morto (histórico).
 
 ### Papel Narrativo
 

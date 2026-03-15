@@ -26,6 +26,7 @@ O universo não foi criado para ser compreendido. Foi criado para ser suportado.
 - [[cosmologia/monogamia_divina\|Monogamia Divina]] — Regra que rege os deuses
 - [[cosmologia/doutrina_da_alma\|Doutrina da Alma]] — O que habita os corpos mortais
 - [[cosmologia/marca_das_luas_gemeas\|Marca das Luas Gêmeas]] — Fenômeno cosmológico
+- [[cosmologia/noctiluz\|Noctiluz]] — Luz de rupturas no véu celeste
 
 ## Teoria Arcana
 

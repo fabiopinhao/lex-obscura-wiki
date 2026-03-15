@@ -7,7 +7,7 @@
 
 ### caracteristicas_unicas
 
-Continente central de [[locais/thamakard\|Thamakard]], flanqueado pela [[locais/dorsal\|Dorsal]] (fronteira com [[locais/veinkard\|Veinkard]]) a oeste e por pântanos (fronteira com [[locais/neranthis\|Neranthis]]) a leste. [[locais/thamakard\|Thamakard]] não é esférico. Geografia interna dividida em zonas estratégicas: Planalto [[racas/shadar\|Shadar]] ([[locais/dhar-morveth\|Dhar-Morveth]]) ao norte, planícies centrais ([[locais/ventrista\|Ventrista]], [[locais/myrgarde\|Myrgarde]]), florestas sagradas ([[locais/thal_serin\|Thal'Serin]]), [[locais/neranthis\|costa leste]] ([[locais/elenir\|Elenir]]). [[locais/vor-ghol\|Vor-Ghol]] se estende por todo o subterrâneo. Noctiluz rasga o céu durante eventos significativos.
+Continente central de [[locais/thamakard\|Thamakard]], flanqueado pela [[locais/dorsal\|Dorsal]] (fronteira com [[locais/veinkard\|Veinkard]]) a oeste e por pântanos (fronteira com [[locais/neranthis\|Neranthis]]) a leste. [[locais/thamakard\|Thamakard]] não é esférico. Geografia interna dividida em zonas estratégicas: Planalto [[racas/shadar\|Shadar]] ([[locais/dhar-morveth\|Dhar-Morveth]]) ao norte, planícies centrais ([[locais/ventrista\|Ventrista]], [[locais/myrgarde\|Myrgarde]]), florestas sagradas ([[locais/thal_serin\|Thal'Serin]]), [[locais/neranthis\|costa leste]] ([[locais/elenir\|Elenir]]). [[locais/vor-ghol\|Vor-Ghol]] se estende por todo o subterrâneo. [[cosmologia/noctiluz\|Noctiluz]] rasga o céu durante eventos significativos.
 
 ### aparicoes_principais
 

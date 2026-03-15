@@ -12,10 +12,10 @@
 Preâmbulo, Prólogo, Cap2, Cap4, Cap5, Cap9, Cap13, Cap14, Coda
 
 ### notas
-Fundada por [[personagens/xarn\|Xarn]] na [[_referencias/segunda_era\|Segunda Era]]; noctiluz rasga céu durante eventos significativos
+Fundada por [[personagens/xarn\|Xarn]] na [[_referencias/segunda_era\|Segunda Era]]; [[cosmologia/noctiluz\|noctiluz]] rasga céu durante eventos significativos
 
 ## Lore
-Capital do [[organizacoes/imperio_sombrio\|Império Sombrio]] erguida no planalto [[racas/shadar\|Shadar]] ([[locais/dhar-morveth\|Dhar-Morveth]]). Fundada por [[personagens/xarn\|Xarn]] na [[_referencias/segunda_era\|Segunda Era]] com a unificação dos templos diabólicos. Centro político, religioso e militar do domínio [[racas/shadar\|shadar]]. Arquitetura de obsidiana e basalto. Fenômenos de noctiluz rasgam o céu durante eventos significativos. Conectada a [[locais/vor-ghol\|Vor-Ghol]] por elevador vertical de mil braças.
+Capital do [[organizacoes/imperio_sombrio\|Império Sombrio]] erguida no planalto [[racas/shadar\|Shadar]] ([[locais/dhar-morveth\|Dhar-Morveth]]). Fundada por [[personagens/xarn\|Xarn]] na [[_referencias/segunda_era\|Segunda Era]] com a unificação dos templos diabólicos. Centro político, religioso e militar do domínio [[racas/shadar\|shadar]]. Arquitetura de obsidiana e basalto. Fenômenos de [[cosmologia/noctiluz\|noctiluz]] rasgam o céu durante eventos significativos. Conectada a [[locais/vor-ghol\|Vor-Ghol]] por elevador vertical de mil braças.
 
 Morvgrad — literalmente "Cidade do Túmulo" na antiga língua [[racas/shadar\|shadar]] — ocupa três níveis distintos do planalto negro. Vista de longe, parece uma coroa de obsidiana cravada no crânio do mundo.
 

@@ -6,7 +6,7 @@
 ## Sistema
 
 ### caracteristicas_unicas
-Planalto negro onde [[locais/morvgrad\|Morvgrad]] foi erguida; nome élfico; conectado a [[locais/vor-ghol\|Vor-Ghol]] por elevador vertical de mil braças; noctiluz rasga o céu durante eventos significativos
+Planalto negro onde [[locais/morvgrad\|Morvgrad]] foi erguida; nome élfico; conectado a [[locais/vor-ghol\|Vor-Ghol]] por elevador vertical de mil braças; [[cosmologia/noctiluz\|noctiluz]] rasga o céu durante eventos significativos
 
 ### aparicoes_principais
 Referenciado ao longo de toda a trilogia. Prólogo (0.2): "planalto [[racas/shadar\|Shadar]]" observado de [[locais/niedellin\|Niedellin]]. Cap4, Cap13.
@@ -21,4 +21,4 @@ Geograficamente, o Dhar-Morveth domina o norte do continente, elevando-se acima 
 
 Na [[_referencias/primeira_era\|Primeira Era]], [[racas/shadar\|shadars]] perseguidos nas planícies centrais migraram para o planalto, onde subjugaram comunidades pagãs e estabeleceram os primeiros templos diabólicos. O encontro com os [[racas/drul\|druls]] no subterrâneo abaixo levou à colaboração que culminaria na [[eventos/alianca_subterranea\|Aliança Subterrânea]]. A presença sombria [[racas/shadar\|shadar]] corrompeu a fauna e a flora das vertentes da [[locais/dorsal\|Dorsal]]: dragões abandonaram ninhos, e ovos corrompidos deram origem aos [[racas/kobold\|kobolds]].
 
-Fenômenos de noctiluz rasgam o céu sobre o planalto durante eventos significativos, visíveis a centenas de léguas de distância. A cicatriz cerúlea observada no Prólogo sobre [[locais/niedellin\|Niedellin]] e a fenda sobre o [[locais/pico_de_nethys\|Pico de Nethys]] no Cap. 13 são manifestações desse fenômeno.
+Fenômenos de [[cosmologia/noctiluz\|noctiluz]] rasgam o céu sobre o planalto durante eventos significativos, visíveis a centenas de léguas de distância. A cicatriz cerúlea observada no Prólogo sobre [[locais/niedellin\|Niedellin]] e a fenda sobre o [[locais/pico_de_nethys\|Pico de Nethys]] no Cap. 13 são manifestações desse fenômeno.

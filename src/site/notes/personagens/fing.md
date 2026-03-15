@@ -23,7 +23,7 @@ Prepara banhos, busca livros, antecipa pedidos; cauda decepada por [[personagens
 
 ### Papel Narrativo
 
-Devoto absoluto do "mestre" — encontra conforto e propósito na servidão. Prepara banhos, busca livros, antecipa pedidos. Recebe raros elogios de [[personagens/arothistar\|Arothistar]] ("Fing, você é uma coisa"). Sofre trauma de identidade após mutilação: o elogio que o sustentava agora ressoa como verdade cruel — coisas quebram, sangram, são descartadas. Observa as conversas do mestre com os "papais" ([[cosmologia/diabos\|diabos]]) sem compreender. Interpreta noctiluz como manifestação divina: rosa = bronca, azul cerúleo = choro divino, rasgo em forma de olho = deuses olhando para alguém.
+Devoto absoluto do "mestre" — encontra conforto e propósito na servidão. Prepara banhos, busca livros, antecipa pedidos. Recebe raros elogios de [[personagens/arothistar\|Arothistar]] ("Fing, você é uma coisa"). Sofre trauma de identidade após mutilação: o elogio que o sustentava agora ressoa como verdade cruel — coisas quebram, sangram, são descartadas. Observa as conversas do mestre com os "papais" ([[cosmologia/diabos\|diabos]]) sem compreender. Interpreta [[cosmologia/noctiluz\|noctiluz]] como manifestação divina: rosa = bronca, azul cerúleo = choro divino, rasgo em forma de olho = deuses olhando para alguém.
 
 ### Padrões de Voz
 

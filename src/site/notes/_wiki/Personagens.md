@@ -77,6 +77,9 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[personagens/maraxus\|Maraxus]] — Guerreiro humano
 - [[personagens/grimald\|Sir Grimald]] — Álvarar
 - [[personagens/ghur\|Ghur]] — Orc
+- [[personagens/gorvash_tres-cicatrizes\|Gorvash Três-Cicatrizes]] — Orc da Terceira Legião
+- [[personagens/hugur_comedor-de-ferro\|Hugur Comedor-de-Ferro]] — Orc da Terceira Legião
+- [[personagens/grasnak\|Grasnak]] — Orc, morto
 - [[personagens/mur\|Mur]] — Orc
 - [[personagens/ulgorth\|Ulgorth]] — Orc
 - [[personagens/odran\|Odran]] — Minotauro
