@@ -6,7 +6,7 @@
 ## Lore
 Com a queda de [[_wiki/myrgarde\|Myrgarde]], [[_wiki/arothistar\|Arothistar]] atingiu a extensão máxima do [[_wiki/imperio_sombrio\|domínio sombrio]] sobre [[_wiki/reinkard\|Reinkard]]. Não havia mais muralhas a derrubar, nem exércitos a derrotar. O monarca recolheu-se definitivamente a [[_wiki/mor_severith\|Mor'Severith]] e nunca mais desceu da torre. Iniciou-se o [[_wiki/protocolo_iconografico_da_coroa\|Protocolo Iconográfico da Coroa]]: efígies de [[_wiki/arothistar\|Arothistar]] passaram a sair da torre de tempos em tempos e a ser colocadas em pontos relevantes de [[_wiki/morvgrad\|Morvgrad]], substituindo a presença física do soberano por uma onipresença simbólica.
 
-[[_wiki/arothistar\|Arothistar]] abandonou o [[_wiki/salao_do_conselho\|Salão do Conselho]]. Governava por intermediários e pelo Oculus, e praticamente ninguém ousava desafiá-lo, nem mesmo de forma velada. O [[_wiki/conselho_sombrio\|Conselho Sombrio]] operava como instrumento da vontade do monarca, não como parceiro de governo. A filosofia era simples: a força conquista, mas apenas a ordem mantém.
+[[_wiki/arothistar\|Arothistar]] abandonou o [[_wiki/salao_do_conselho\|Salão do Conselho]]. Governava por intermediários e pelo [[_wiki/oculus_morvgradi\|Oculus]], e praticamente ninguém ousava desafiá-lo, nem mesmo de forma velada. O [[_wiki/conselho_sombrio\|Conselho Sombrio]] operava como instrumento da vontade do monarca, não como parceiro de governo. A filosofia era simples: a força conquista, mas apenas a ordem mantém.
 
 ### Territórios e Províncias
 
@@ -24,7 +24,7 @@ Outras regiões foram transformadas em fortes órquicos provinciais, guarniçõe
 
 [[_wiki/morvgrad\|Morvgrad]] não avançava sobre o continente oriental. [[_wiki/neranthis\|Neranthis]] permanecia fora do alcance direto do [[_wiki/imperio_sombrio\|império]], não por fraqueza militar, mas por praticidade: o clima úmido e a geografia hostil de pântanos, lagos e rios tornavam a ocupação inviável para tropas [[racas/shadar\|shadars]]. Os [[racas/frenim\|frenims]], humanos [[_wiki/siderais\|siderais]] de [[_wiki/neranthis\|Neranthis]], escolhiam manter distância. As sombras avançavam no continente vizinho, e os [[racas/frenim\|frenims]] recuavam cada vez mais, evitando qualquer confronto.
 
-A oeste, [[_wiki/dorsal\|a Dorsal]] separava [[_wiki/reinkard\|Reinkard]] de [[_wiki/veinkard\|Veinkard]], e [[_wiki/varna\|Varna]] era a razão pela qual [[_wiki/arothistar\|Arothistar]] não cruzava a cordilheira. O monarca poderia facilmente dominar os vales de [[_wiki/varnak\|Varnak]], mas os [[racas/draconideo\|draconídeos]] aliados de [[_wiki/varna\|Varna]] e a própria dragoa anciã não deixariam uma hipotética província de [[_wiki/varnak\|Varnak]] em paz. E [[_wiki/morvgrad\|Morvgrad]] temia, acima de quase tudo, perder batalhas.
+A oeste, [[_wiki/dorsal\|a Dorsal]] separava [[_wiki/reinkard\|Reinkard]] de [[_wiki/veinkard\|Veinkard]], e [[_wiki/varna\|Varna]] era a razão pela qual [[_wiki/arothistar\|Arothistar]] não cruzava a cordilheira. O monarca poderia facilmente dominar os vales de [[locais/varnak\|Varnak]], mas os [[racas/draconideo\|draconídeos]] aliados de [[_wiki/varna\|Varna]] e a própria dragoa anciã não deixariam uma hipotética província de [[locais/varnak\|Varnak]] em paz. E [[_wiki/morvgrad\|Morvgrad]] temia, acima de quase tudo, perder batalhas.
 
 ### [[_wiki/tensoes_e_ameacas_da_terceira_era\|Tensões Internas]]
 
@@ -56,7 +56,7 @@ No presente narrativo, crises se acumulavam. Em [[_wiki/elenir\|Elenir]], os nex
 
 [[_wiki/arothistar\|Arothistar]] habita [[_wiki/mor_severith\|Mor'Severith]] no ápice de seu poder, sustentando três pactos divinos antagônicos. A maldição de [[_wiki/vozrador\|Vozrador]] ainda queima, mas o deus está selado e o segredo permanece enterrado.
 
-[[_wiki/milorsevogh_velshard\|Milorsevogh Velshard]] acaba de ser ungido Justiciar no [[_wiki/templo_de_azkaroth\|Templo de Azkaroth]]. Recebeu [[_wiki/spina_lexis\|Spina Lexis]], [[_wiki/codex_somniorum\|Codex Somniorum]] e Oculus. Parte para [[_wiki/niedellin\|Niedellin]] em sua primeira missão oficial.
+[[_wiki/milorsevogh_velshard\|Milorsevogh Velshard]] acaba de ser ungido Justiciar no [[_wiki/templo_de_azkaroth\|Templo de Azkaroth]]. Recebeu [[_wiki/spina_lexis\|Spina Lexis]], [[_wiki/codex_somniorum\|Codex Somniorum]] e [[_wiki/oculus_morvgradi\|Oculus]]. Parte para [[_wiki/niedellin\|Niedellin]] em sua primeira missão oficial.
 
 [[_wiki/orum-rahru\|Orum-Rahru]], aos noventa e nove anos, é o Decano dos [[_wiki/justiciars\|Justiciars]]. Serviu quarenta e quatro anos sem saber a verdade sobre seu deus.
 

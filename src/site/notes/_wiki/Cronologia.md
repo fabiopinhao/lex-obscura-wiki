@@ -27,7 +27,7 @@ Referências expandidas: [[_referencias/cronologia_referencia\|Cronologia e Hist
 
 ## Ascensão de Arothistar
 
-- [[_wiki/fundacao_de_morvgrad\|Fundação de Morvgrad]] — A capital é erguida
+- [[eventos/fundacao_de_morvgrad\|Fundação de Morvgrad]] — A capital é erguida
 - [[_wiki/purga_do_conselho_e_autodeclaracao_como_arothistar\|Purga do Conselho]] — Dravmir torna-se Arothistar
 - [[_wiki/instituicao_do_verbum_arkhon\|Instituição do Verbum Arkhon]] — A lei viva é proclamada
 - [[_wiki/rito_de_ossarium_de_dravmir\|Rito de Ossarium de Dravmir]] — O ritual proibido que selou seu poder
@@ -81,7 +81,7 @@ Referências expandidas: [[_referencias/cronologia_referencia\|Cronologia e Hist
 
 - [[_wiki/traicao_de_vozrador\|Traição de Vozrador]] — O titã que virou as costas
 - [[_wiki/pacto_com_kaelgrym\|Pacto com Kaelgrym]] — Aliança com o deus sombrio
-- [[_wiki/desaparecimento_de_draven-thol\|Desaparecimento de Draven-Thol]] — Mistério não resolvido
+- [[eventos/desaparecimento_de_draven-thol\|Desaparecimento de Draven-Thol]] — Mistério não resolvido
 - [[_wiki/queda_de_arothistar\|Queda de Arothistar]] — O fim do Imperador
 - [[_wiki/cadeia_da_fendris\|Cadeia da Fendris]] — Consequências da arma lendária
 - [[_wiki/ataque_fracassado_a_thalserin\|Ataque Fracassado a Thal Serin]] — Derrota imperial
@@ -89,7 +89,7 @@ Referências expandidas: [[_referencias/cronologia_referencia\|Cronologia e Hist
 - [[_wiki/cruzadas_contra_os_luminares\|Cruzadas contra os Luminares]] — Guerra santa
 - [[_wiki/destruicao_de_lendalas\|Destruição de Lendalas]] — Uma cidade cai
 - [[_wiki/expulsao_cultistas_draconicos\|Expulsão dos Cultistas Dracônicos]] — Purga religiosa
-- [[_wiki/fragmentacoes_dos_luminares\|Fragmentações dos Luminares]] — Origem de Druls, Orcs e Undines
+- [[eventos/fragmentacoes_dos_luminares\|Fragmentações dos Luminares]] — Origem de Druls, Orcs e Undines
 - [[_wiki/fundacao_de_myrgarde\|Fundação de Myrgarde]] — Cidade-estado erguida
 - [[_wiki/tensoes_e_ameacas_da_terceira_era\|Tensões da Terceira Era]] — O presente instável
 

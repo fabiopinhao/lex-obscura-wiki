@@ -13,7 +13,7 @@ Raça azul de [[_wiki/neranthis\|Neranthis]], coexistindo com [[_wiki/frenim\|fr
 
 ### Habilidades Especiais
 
-A capacidade mais notável documentada pertence a [[_wiki/babua\|Babua]], ranidano servo de [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]]: pode esconder-se no véu etéreo (Aetherium) indefinidamente enquanto sua pele tocar água no plano material. Seu encantamento é capaz de romper vínculos mágicos, incluindo conexões do Oculus. [[_wiki/arothistar\|Arothistar]] testou essa magia pessoalmente e ficou satisfeito: "A magia é inquebrável. Nenhum sinal passará." [[_wiki/babua\|Babua]] foi posicionado como vigia nas remotas montanhas ocidentais do planalto.
+A capacidade mais notável documentada pertence a [[_wiki/babua\|Babua]], ranidano servo de [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]]: pode esconder-se no véu etéreo (Aetherium) indefinidamente enquanto sua pele tocar água no plano material. Seu encantamento é capaz de romper vínculos mágicos, incluindo conexões do [[_wiki/oculus_morvgradi\|Oculus]]. [[_wiki/arothistar\|Arothistar]] testou essa magia pessoalmente e ficou satisfeito: "A magia é inquebrável. Nenhum sinal passará." [[_wiki/babua\|Babua]] foi posicionado como vigia nas remotas montanhas ocidentais do planalto.
 
 Não está claro se essa habilidade etérea é racial (compartilhada por todos os ranidanos) ou individual. O fato de [[_wiki/arothistar\|Arothistar]] considerar [[_wiki/babua\|Babua]] valioso o suficiente para uma missão estratégica sugere que, no mínimo, a capacidade é rara.
 

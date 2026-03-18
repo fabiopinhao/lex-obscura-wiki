@@ -17,7 +17,7 @@ Décadas de domínio [[_wiki/shadar\|shadar]], alimentadas por pactos diabólico
 
 ### Manifestação Visível
 
-A [[_wiki/macula-sombria\|Mácula-Sombria]] nas florestas é a manifestação visível deste processo: raízes corrompidas com veios negros, terra enegrecida, flora definhando. A praga precede os [[_wiki/shadar\|shadars]], mas acelerou dramaticamente sob [[_wiki/arothistar\|Arothistar]]. [[_wiki/gaelwyn\|Gaelwyn]], meio-elfo criado entre [[_wiki/shadar\|shadars]], carrega em si a marca deste conflito: um fragmento de [[_wiki/vazio\|vazio]] dentro de alguém cuja natureza deveria ser verde.
+A [[magia/macula-sombria\|Mácula-Sombria]] nas florestas é a manifestação visível deste processo: raízes corrompidas com veios negros, terra enegrecida, flora definhando. A praga precede os [[_wiki/shadar\|shadars]], mas acelerou dramaticamente sob [[_wiki/arothistar\|Arothistar]]. [[_wiki/gaelwyn\|Gaelwyn]], meio-elfo criado entre [[_wiki/shadar\|shadars]], carrega em si a marca deste conflito: um fragmento de [[_wiki/vazio\|vazio]] dentro de alguém cuja natureza deveria ser verde.
 
 ### Distinção do Declínio Global
 

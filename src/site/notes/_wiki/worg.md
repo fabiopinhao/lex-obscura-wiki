@@ -17,7 +17,7 @@ Nem homem, nem besta. Habitam o limiar entre civilização e selvageria. Conscie
 
 **As três teorias não são mutuamente excludentes — diferentes linhagens de worgs podem ter origens distintas, convergindo para forma similar por pressão de sobrevivência.**
 
-📝 *As três teorias podem ser interpretações posteriores de um evento mais antigo e mais simples: a interferência divina direta das [[_wiki/guerras_raciais\|Guerras Raciais]], quando entidades diabólicas cruzaram humanos e caninos selvagens. As teorias estão incompletas, cada uma capturando um fragmento da verdade. Ver [[_wiki/vulfano\|vulfano]] para enquadramento cosmogônico.*
+📝 *As três teorias podem ser interpretações posteriores de um evento mais antigo e mais simples: a interferência divina direta das [[eventos/guerras_raciais\|Guerras Raciais]], quando entidades diabólicas cruzaram humanos e caninos selvagens. As teorias estão incompletas, cada uma capturando um fragmento da verdade. Ver [[_wiki/vulfano\|vulfano]] para enquadramento cosmogônico.*
 
 ### Fisiologia
 
@@ -60,7 +60,7 @@ Nem homem, nem besta. Habitam o limiar entre civilização e selvageria. Conscie
 
 Nas eras primordiais, os worgs organizavam-se em alcateias tribais de 5 a 15 indivíduos. A estrutura era instintiva: um *Fangkyn* (líder) mantinha o grupo alimentado e invisível. A posição se conquistava por competência prática, ao contrário dos [[_wiki/orc\|orcs]] (onde força bruta determina hierarquia): quem mantém o grupo vivo lidera.
 
-Nessas alcateias, worgs e [[_wiki/varglin\|varglins]] coexistiam em simbiose, os [[_wiki/varglin\|varglins]] atuando como batedores e sentinelas. Os worgs se reproduziam com facilidade. Cultuavam seus patronos diabólicos com uivos rituais noturnos, eco das [[_wiki/guerras_raciais\|Guerras Raciais]] quando o uivo era invocação de combate. As alcateias prosperavam nas margens, nunca no centro.
+Nessas alcateias, worgs e [[_wiki/varglin\|varglins]] coexistiam em simbiose, os [[_wiki/varglin\|varglins]] atuando como batedores e sentinelas. Os worgs se reproduziam com facilidade. Cultuavam seus patronos diabólicos com uivos rituais noturnos, eco das [[eventos/guerras_raciais\|Guerras Raciais]] quando o uivo era invocação de combate. As alcateias prosperavam nas margens, nunca no centro.
 
 📝 *Para a ruptura worg-varglin e o destino dos [[_wiki/varglin\|varglins]], ver [[_wiki/vulfano\|vulfano]].*
 

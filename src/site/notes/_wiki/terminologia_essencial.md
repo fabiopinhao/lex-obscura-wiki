@@ -35,4 +35,4 @@ Citações de natureza doutrinária, filosófica ou política. Fórmulas de invo
 | *"O sangue do culpado clama, mas apenas o juiz ouve."* | [[_wiki/tabula_umbrae\|Tabula Umbrae]], Ritual VII |
 | *"Na luz, todos são iguais. Na escuridão, apenas os superiores sobrevivem."* | Filosofia [[_wiki/drul\|drul]] |
 
-> ⚠️ **Pendência:** As fórmulas "[[_wiki/spina_lexis\|Spina Lexis]]. Canalem voluntatis..." (vinculação do cetro) e "Ut oculus videat..." (ativação do [[oculus\|Oculus]]) não constam no 3.15 Grimório. Migrar para lá quando houver atualização do arquivo.
+> ⚠️ **Pendência:** As fórmulas "[[_wiki/spina_lexis\|Spina Lexis]]. Canalem voluntatis..." (vinculação do cetro) e "Ut [[_wiki/oculus_morvgradi\|oculus]] videat..." (ativação do [[_wiki/oculus_morvgradi\|Oculus]]) não constam no 3.15 Grimório. Migrar para lá quando houver atualização do arquivo.

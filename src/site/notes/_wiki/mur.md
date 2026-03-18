@@ -11,7 +11,7 @@ Possui impulso obsessivo em relação a elfos, especialmente [[_wiki/sylvano\|sy
 
 ### Arco do Livro I
 
-Ficou obcecado com o Oculus durante investigação: "Pedra bonita... viva! Ela respira!" — [[_wiki/grothar\|Grothar]] precisou contê-lo. Levado por [[_wiki/grothar\|Grothar]] para mostrar coleção de pedras a [[_wiki/levi\|Levi]] e [[_wiki/berenice\|Berenice]] (saída tática para tirá-lo de cena sensível).
+Ficou obcecado com o [[_wiki/oculus_morvgradi\|Oculus]] durante investigação: "Pedra bonita... viva! Ela respira!" — [[_wiki/grothar\|Grothar]] precisou contê-lo. Levado por [[_wiki/grothar\|Grothar]] para mostrar coleção de pedras a [[_wiki/levi\|Levi]] e [[_wiki/berenice\|Berenice]] (saída tática para tirá-lo de cena sensível).
 
 ### Padrões de Voz
 

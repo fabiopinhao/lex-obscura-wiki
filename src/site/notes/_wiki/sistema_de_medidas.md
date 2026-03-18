@@ -34,7 +34,7 @@ Cada vigília tem caráter próprio:
 
 A [[_wiki/lunia\|Lúnia]] (28 dias) equivale ao mês e divide-se em quatro fáscias de sete dias, cada uma coincidindo com uma fase lunar: Nova, Crescente, Plena e Minguante. Contratos e prazos legais contam-se em lúnias. Vencimentos militares são pagos por fáscia. A fáscia de lua nova é chamada "fáscia de sangue", período preferido para operações das [[_wiki/ophideias\|Ophideias]].
 
-O [[_wiki/varnum\|Varnum]] (365 dias) equivale ao ano, composto por treze Lúnias (364 dias) mais o [[_wiki/nullis\|Nullis]]. A raiz *varn-* conecta-se a sol e calor (cf. [[_wiki/varna\|Varna]], a dragão anciã; [[_wiki/varnak\|Varnak]], as cordilheiras vulcânicas; [[_wiki/thandruk_varn\|Thandruk Varn]], a fortaleza de forjas). O [[_wiki/varnum\|Varnum]] é, literalmente, o "ciclo completo do sol". "Quantos varnums você carrega?" é a forma comum de perguntar a idade de alguém. A contagem imperial dos varnums começa na coroação de [[_wiki/arothistar\|Arothistar]].
+O [[_wiki/varnum\|Varnum]] (365 dias) equivale ao ano, composto por treze Lúnias (364 dias) mais o [[_wiki/nullis\|Nullis]]. A raiz *varn-* conecta-se a sol e calor (cf. [[_wiki/varna\|Varna]], a dragão anciã; [[locais/varnak\|Varnak]], as cordilheiras vulcânicas; [[_wiki/thandruk_varn\|Thandruk Varn]], a fortaleza de forjas). O [[_wiki/varnum\|Varnum]] é, literalmente, o "ciclo completo do sol". "Quantos varnums você carrega?" é a forma comum de perguntar a idade de alguém. A contagem imperial dos varnums começa na coroação de [[_wiki/arothistar\|Arothistar]].
 
 O [[_wiki/varnum\|Varnum]] possui quatro estações. Os nomes formais (Germa, Zênite, Quédia, Brûma) são de uso erudito e cerimonial; no cotidiano, prevalece primavera, verão, outono e inverno.
 

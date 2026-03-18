@@ -21,11 +21,11 @@ A limitação, revelada pelo xamã [[_wiki/varnakiano\|varnakiano]] [[_wiki/wijm
 
 **Histórico de Posse:**
 
-Localização anterior conhecida: museu particular do Conselheiro [[_wiki/dessian_broel\|Dessian Broel]]. Passou para a [[_wiki/serpente_purpura\|Serpente Púrpura]] (organização criminosa de [[_wiki/morvgrad\|Morvgrad]]). Confiscada por [[_wiki/nidzina_avaroth\|Nidzina Avaroth]] após confronto (Cap6, Cap10). Objetivo central do [[_wiki/cla_myr_vethan\|Clã Myr'vethan]] — [[_wiki/yzmareth\|Yzmareth]] busca a adaga para eliminar [[_wiki/varna\|Varna]] e unificar [[_wiki/varnak\|Varnak]].
+Localização anterior conhecida: museu particular do Conselheiro [[_wiki/dessian_broel\|Dessian Broel]]. Passou para a [[_wiki/serpente_purpura\|Serpente Púrpura]] (organização criminosa de [[_wiki/morvgrad\|Morvgrad]]). Confiscada por [[_wiki/nidzina_avaroth\|Nidzina Avaroth]] após confronto (Cap6, Cap10). Objetivo central do [[_wiki/cla_myr_vethan\|Clã Myr'vethan]] — [[_wiki/yzmareth\|Yzmareth]] busca a adaga para eliminar [[_wiki/varna\|Varna]] e unificar [[locais/varnak\|Varnak]].
 
 **Importância Estratégica:**
 
-Quem detém a Fendris detém o poder de eliminar [[_wiki/varna\|Varna]], a dragão anciã que mantém o equilíbrio de poder em [[_wiki/varnak\|Varnak]] através de ameaça individual apocalíptica. A adaga é peça-chave na geopolítica da região montanhosa e no acordo secreto entre [[_wiki/arothistar\|Arothistar]] e [[_wiki/yzmareth\|Yzmareth]].
+Quem detém a Fendris detém o poder de eliminar [[_wiki/varna\|Varna]], a dragão anciã que mantém o equilíbrio de poder em [[locais/varnak\|Varnak]] através de ameaça individual apocalíptica. A adaga é peça-chave na geopolítica da região montanhosa e no acordo secreto entre [[_wiki/arothistar\|Arothistar]] e [[_wiki/yzmareth\|Yzmareth]].
 
 📌 **Aparições:** Cap6, Cap10, Cap12, Cap13 (discussão sobre o tratado).
-📋 **Ver também:** `3.6_locais_LORE.md` ([[_wiki/veinkard\|Veinkard]]) para contexto geopolítico de [[_wiki/varnak\|Varnak]]/[[_wiki/varna\|Varna]].
+📋 **Ver também:** `3.6_locais_LORE.md` ([[_wiki/veinkard\|Veinkard]]) para contexto geopolítico de [[locais/varnak\|Varnak]]/[[_wiki/varna\|Varna]].

@@ -19,7 +19,7 @@ A relação com [[_wiki/justiciars\|Justiciars]] é de hostilidade institucional
 
 Sistema de governança territorial que antecede a monarquia de [[_wiki/arothistar\|Arothistar]]. Territórios conquistados eram alocados a lordes [[_wiki/shadar\|shadar]] responsáveis pela administração local: coleta de tributos, manutenção da ordem, aplicação da [[_wiki/lex_obscura\|Lex Obscura]] em escala regional. Províncias bem consolidadas recebiam status formal.
 
-A qualidade da governança varia drasticamente conforme o lorde. [[_wiki/merari_d_khunvel\|Merari d'Khunvel]] em [[_wiki/niedellin\|Niedellin]] é exemplo de degeneração institucional: fraco e manipulável, perdeu o controle efetivo para seu chefe da guarda ([[_wiki/maraxus\|Maraxus]]), teve o [[oculus\|Oculus]] roubado e as comunicações com [[_wiki/morvgrad\|Morvgrad]] interceptadas. Sua administração desintegrou-se ao ponto de necessitar intervenção de Justiciar.
+A qualidade da governança varia drasticamente conforme o lorde. [[_wiki/merari_d_khunvel\|Merari d'Khunvel]] em [[_wiki/niedellin\|Niedellin]] é exemplo de degeneração institucional: fraco e manipulável, perdeu o controle efetivo para seu chefe da guarda ([[_wiki/maraxus\|Maraxus]]), teve o [[_wiki/oculus_morvgradi\|Oculus]] roubado e as comunicações com [[_wiki/morvgrad\|Morvgrad]] interceptadas. Sua administração desintegrou-se ao ponto de necessitar intervenção de Justiciar.
 
 Lordes provinciais possuem poder político médio-alto mas autonomia limitada. O [[_wiki/conselho_sombrio\|Conselho Sombrio]] os supervisiona, [[_wiki/justiciars\|Justiciars]] os investigam, Arcontes os julgam. A posição é cobiçada por garantir riqueza e influência local, mas perigosa por expor o ocupante à fiscalização de três instâncias superiores simultâneas.
 

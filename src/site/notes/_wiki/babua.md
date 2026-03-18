@@ -9,7 +9,7 @@
 
 ### Papel Narrativo
 
-Pode se esconder no véu etéreo (Aetherium) indefinidamente enquanto sua pele toca água no plano material. Encantamento capaz de romper vínculos mágicos, incluindo conexões do Oculus. Posicionado como vigia. Responsável pela segunda perda da toca de [[_wiki/fandegarron\|Fandegarrón]] — [[_wiki/fandegarron\|Garrón]] o chama de "demônio vestido de sapo que empurrou o mundo."
+Pode se esconder no véu etéreo (Aetherium) indefinidamente enquanto sua pele toca água no plano material. Encantamento capaz de romper vínculos mágicos, incluindo conexões do [[_wiki/oculus_morvgradi\|Oculus]]. Posicionado como vigia. Responsável pela segunda perda da toca de [[_wiki/fandegarron\|Fandegarrón]] — [[_wiki/fandegarron\|Garrón]] o chama de "demônio vestido de sapo que empurrou o mundo."
 
 ### Padrões de Voz
 

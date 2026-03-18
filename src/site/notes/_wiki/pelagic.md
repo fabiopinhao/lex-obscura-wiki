@@ -15,4 +15,4 @@ Inspiração sonora: nenhuma língua mortal serve como referência adequada. O m
 
 **Gramática:** Resiste a qualquer análise convencional. Estudiosos que tentaram categorizá-lo concluíram que o Pelagic não distingue sujeito de objeto, nem presente de passado. Tudo é fluxo: o falante, o ouvinte, o momento e a mensagem existem simultaneamente. Isso é consistente com a natureza dos [[_wiki/siderais\|siderais]], que transitam pelo [[_wiki/plano_etereo\|Plano Etéreo]] sem noção de linearidade temporal.
 
-**Uso no Livro I:** Mínimo. [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]] aparece via Oculus em acordo com [[_wiki/arothistar\|Arothistar]]; a língua Pelagic em si não surge diretamente em cena. Expansão prevista para livros posteriores.
+**Uso no Livro I:** Mínimo. [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]] aparece via [[_wiki/oculus_morvgradi\|Oculus]] em acordo com [[_wiki/arothistar\|Arothistar]]; a língua Pelagic em si não surge diretamente em cena. Expansão prevista para livros posteriores.

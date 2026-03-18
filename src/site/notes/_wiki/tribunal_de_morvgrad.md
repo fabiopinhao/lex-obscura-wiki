@@ -47,7 +47,7 @@ Ala de copistas e exegetas do Culto onde se reproduzem e glosam os códices do [
 | **[[_wiki/tabua_reversa\|Tábua Reversa]]** | Ardósia negra para registros judiciais. Notas em giz arcano que só se revelam sob condições específicas. |
 | **[[_wiki/veredictum_exkarthon\|Veredictum Exkarthon]]** | Direito do acusado de exigir apresentação de provas antes da sentença final. Uma das poucas proteções processuais. |
 | **Sigilo de [[_wiki/abbhal\|Abbhal]]** | Sentença máxima: aprisionamento eterno em dimensão de tormento. Reservado para traidores do mais alto escalão. |
-| **[[marca_do_condenado\|Marca do Condenado]]** | Encantamentos contratuais para vincular magicamente raças subjugadas a contratos de serviços sensíveis. |
+| **[[_wiki/sigilo_de_abbhal\|Marca do Condenado]]** | Encantamentos contratuais para vincular magicamente raças subjugadas a contratos de serviços sensíveis. |
 | **Cadeia de custódia** | Protocolo que exige registro contínuo de posse e manuseio de evidências arcanas e documentos processuais. Qualquer quebra na cadeia invalida a prova perante o Círculo Interior, conforme precedente firmado na [[_wiki/codex_somniorum\|Lex Obscura]]. |
 
 ### Relação com [[_wiki/justiciars\|Justiciars]]

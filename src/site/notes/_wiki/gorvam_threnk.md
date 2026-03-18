@@ -11,13 +11,13 @@ Supervisiona a produção dos arsenais imperiais, o que lhe confere jurisdição
 
 ### No [[_wiki/conselho_sombrio\|Conselho Sombrio]] (Seção 2.1)
 
-Quando [[_wiki/draven-thol\|Draven-Thol]] relata via Oculus a sabotagem entre forjas anãs e queda de produção por três ciclos, [[_wiki/vyrensen\|Malachar Vyrensen]] propõe extirpar líderes [[_wiki/karashim\|karashins]]. Gorvam contrapõe com o argumento que sustenta sua posição inteira: "Rebeldes, mas insubstituíveis. Sem eles, nossos arsenais silenciariam. A precisão das forjas de [[_wiki/thandruk_varn\|Thandruk Varn]] é a espinha [[_wiki/dorsal\|dorsal]] das guerras do monarca." O pragmatismo não é piedade — é cálculo de recursos. Anões mortos não forjam espadas.
+Quando [[_wiki/draven-thol\|Draven-Thol]] relata via [[_wiki/oculus_morvgradi\|Oculus]] a sabotagem entre forjas anãs e queda de produção por três ciclos, [[_wiki/vyrensen\|Malachar Vyrensen]] propõe extirpar líderes [[_wiki/karashim\|karashins]]. Gorvam contrapõe com o argumento que sustenta sua posição inteira: "Rebeldes, mas insubstituíveis. Sem eles, nossos arsenais silenciariam. A precisão das forjas de [[_wiki/thandruk_varn\|Thandruk Varn]] é a espinha [[_wiki/dorsal\|dorsal]] das guerras do monarca." O pragmatismo não é piedade — é cálculo de recursos. Anões mortos não forjam espadas.
 
 No debate sobre os pilares do [[_wiki/imperio_sombrio\|império]], quando [[_wiki/suriev_molkhiir\|Suriev Molkhiir]] defende fé como fundamento, Gorvam martela dedos manchados de fuligem na mesa e retruca: "Fé não ferve vidro nem molda metal. Precisamos de ambas. Pactos e [[_wiki/magi\|magi]]." A posição é conciliatória na superfície, mas revela o homem: Gorvam mede o [[_wiki/imperio_sombrio\|império]] pela linha de produção, não pelo altar.
 
-### Com [[_wiki/nidzina_avaroth\|Nidzina]] via Oculus (Seção 10.1)
+### Com [[_wiki/nidzina_avaroth\|Nidzina]] via [[_wiki/oculus_morvgradi\|Oculus]] (Seção 10.1)
 
-A segunda aparição revela camadas que o Conselho não mostra. Quando [[_wiki/nidzina_avaroth\|Nidzina]] o contacta via Oculus das Montanhas do Oeste, Gorvam examina armas apreendidas e identifica o que sua jurisdição deveria ter impedido: trabalho de mestre, refinado demais para oficinas comuns, mas que não nasceu em [[_wiki/thandruk_varn\|Thandruk Varn]]. "Nunca vi. E vejo tudo o que nasce em [[_wiki/thandruk_varn\|Thandruk Varn]]. Ou deveria ver." A admissão é rara para um conselheiro — reconhecer falha na própria supervisão.
+A segunda aparição revela camadas que o Conselho não mostra. Quando [[_wiki/nidzina_avaroth\|Nidzina]] o contacta via [[_wiki/oculus_morvgradi\|Oculus]] das Montanhas do Oeste, Gorvam examina armas apreendidas e identifica o que sua jurisdição deveria ter impedido: trabalho de mestre, refinado demais para oficinas comuns, mas que não nasceu em [[_wiki/thandruk_varn\|Thandruk Varn]]. "Nunca vi. E vejo tudo o que nasce em [[_wiki/thandruk_varn\|Thandruk Varn]]. Ou deveria ver." A admissão é rara para um conselheiro — reconhecer falha na própria supervisão.
 
 A menção das minas transforma-lhe o rosto. Gorvam baixa a voz: "As forjas de [[_wiki/thandruk_varn\|Thandruk Varn]] estão à beira do silêncio. Isso, para mim, tem sido prioridade absoluta. Sem aço, não há [[_wiki/imperio_sombrio\|império]]." A frase condensa sua função narrativa: o homem que mede o colapso imperial pela temperatura das forjas.
 
@@ -35,7 +35,7 @@ A incapacidade de Gorvam de reconhecer armas que não vieram de suas forjas (10.
 
 **[[_wiki/vyrensen\|Malachar Vyrensen]] (antagonista funcional):** [[_wiki/vyrensen\|Vyrensen]] propõe medidas extremas contra os anões; Gorvam as bloqueia com pragmatismo produtivo. A tensão não é ideológica — é de método. Ambos servem o [[_wiki/imperio_sombrio\|império]]; discordam sobre o custo aceitável de mantê-lo armado.
 
-**[[_wiki/nidzina_avaroth\|Nidzina Avaroth]] (contato operacional):** A conversa via Oculus (10.1) é transação política disfarçada de consulta técnica. Gorvam oferece validação institucional em troca de crédito; [[_wiki/nidzina_avaroth\|Nidzina]] oferece informação de campo em troca de peso no Conselho. Ambos calculam antes de falar.
+**[[_wiki/nidzina_avaroth\|Nidzina Avaroth]] (contato operacional):** A conversa via [[_wiki/oculus_morvgradi\|Oculus]] (10.1) é transação política disfarçada de consulta técnica. Gorvam oferece validação institucional em troca de crédito; [[_wiki/nidzina_avaroth\|Nidzina]] oferece informação de campo em troca de peso no Conselho. Ambos calculam antes de falar.
 
 **[[_wiki/thandruk_varn\|Thandruk Varn]] / [[_wiki/karashim\|karashim]] (recurso supervisionado):** A relação de Gorvam com os anões é de gerência, não de aliança. Defende a sobrevivência deles porque a alternativa é arsenais vazios. A "indispensabilidade" que invoca é corrente que protege e aprisiona ao mesmo tempo.
 

@@ -21,7 +21,7 @@ Estrutura social baseada em rangers, druidas e anciãos. [[_wiki/peredur\|Peredu
 
 ### Crise Atual
 
-A **[[_wiki/macula-sombria\|Mácula-sombria]]** apodrece raízes e dificulta até encantamentos básicos. Veios negros visíveis em raízes infectadas precedem ataques [[_wiki/shadar\|shadars]] e aceleram com [[_wiki/arothistar\|Arothistar]]. A magia verde está morrendo. [[_wiki/peredur\|Peredur]] revelou que os [[_wiki/titas\|deuses verdes]], diferente dos alvos (extintos por pureza), escolheram sobreviver através de compromissos com o mal.
+A **[[magia/macula-sombria\|Mácula-sombria]]** apodrece raízes e dificulta até encantamentos básicos. Veios negros visíveis em raízes infectadas precedem ataques [[_wiki/shadar\|shadars]] e aceleram com [[_wiki/arothistar\|Arothistar]]. A magia verde está morrendo. [[_wiki/peredur\|Peredur]] revelou que os [[_wiki/titas\|deuses verdes]], diferente dos alvos (extintos por pureza), escolheram sobreviver através de compromissos com o mal.
 
 [[_wiki/troll\|Trolls]] apresentam comportamento organizado com marcas que parecem linguagem (mapeadas por [[_wiki/calel\|Calel]]). Corvos observadores carregam objetos metálicos (espiões?). [[_wiki/gaelwyn\|Gaelwyn]] carrega marca-sombria plantada por [[_wiki/milorsevogh_velshard\|Milor]], fazendo as árvores sussurrarem e raízes recuarem de sua presença.
 
@@ -31,7 +31,7 @@ Melancólico. Referências constantes à natureza (raízes, vento, decomposiçã
 
 ### Fraquezas
 
-- **[[_wiki/macula-sombria\|Mácula-sombria]]:** Corrupção progressiva enfraquecendo a magia verde
+- **[[magia/macula-sombria\|Mácula-sombria]]:** Corrupção progressiva enfraquecendo a magia verde
 - **Dependência do pacto com [[_wiki/vozrador\|Vozrador]]:** Proteção de [[_wiki/thal_serin\|Thal'Serin]] vinculada a acordo com diabo
 - **Fragmentação:** Bolsões isolados de resistência sem coordenação
 

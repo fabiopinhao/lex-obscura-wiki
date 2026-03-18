@@ -64,7 +64,7 @@ Conduzida no [[_wiki/templo_de_azkaroth\|Templo de Azkaroth]]. O candidato ajoel
 
 - **[[_wiki/spina_lexis\|Spina Lexis]]:** Cetro da sentença
 - **[[_wiki/codex_somniorum\|Codex Somniorum]]:** Grimório tripartite
-- **Oculus:** Esfera de comunicação pessoal
+- **[[_wiki/oculus_morvgradi\|Oculus]]:** Esfera de comunicação pessoal
 
 **Fórmula Ritual:** *"[[_wiki/arothistar\|Arothistar]] est lex. [[_wiki/abbhal\|Abbhal]] est vox. Tu est martelo."*
 

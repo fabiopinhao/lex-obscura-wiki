@@ -13,7 +13,7 @@ Exemplos canônicos: *Ghâsh krampürz* (fúria berserker invocada por [[_wiki/g
 
 **Registro:** Quase indistinto entre cotidiano e mágico. A mesma língua serve para gritar ordens e para canalizar [[_wiki/demonios\|demônios]]; a diferença está na cadência e na intenção, não na gramática. No registro berserker, a gramática se desintegra conforme a fúria escala: frases completas se decompõem em monossílabos explosivos, como se a língua acompanhasse o falante de volta ao instinto.
 
-**Escrita:** Rudimentar. [[_wiki/orc\|Orcs]] usam marcas talhadas em madeira, osso ou pedra para registros práticos (contagem, marcação territorial, advertências). Não existe tradição literária em Orcânico: os Cantos de Grasnak e demais épicos orais são transmitidos exclusivamente por voz. Escrever uma canção [[_wiki/orc\|orc]] seria, para um [[_wiki/orc\|orc]], tão absurdo quanto engarrafar o vento.
+**Escrita:** Rudimentar. [[_wiki/orc\|Orcs]] usam marcas talhadas em madeira, osso ou pedra para registros práticos (contagem, marcação territorial, advertências). Não existe tradição literária em Orcânico: os [[_wiki/grasnak\|Cantos de Grasnak]] e demais épicos orais são transmitidos exclusivamente por voz. Escrever uma canção [[_wiki/orc\|orc]] seria, para um [[_wiki/orc\|orc]], tão absurdo quanto engarrafar o vento.
 
 **Gramática:** Imperativa por padrão. Sujeito frequentemente omitido (quem fala é quem age). Artigos e preposições suprimidos por economia. Tempo verbal reduzido a dois: "agora" e "não-agora". A exposição prolongada ao registro berserker, segundo xamãs, corrói a estabilidade mental do falante — o custo não é da língua em si, mas da fúria que a língua canaliza.
 

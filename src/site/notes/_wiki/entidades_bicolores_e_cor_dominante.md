@@ -37,7 +37,7 @@ Metade das entidades são bicolores (representam duas cores), mas cada uma tem c
 ### Compatibilidade Racial
 
 - **[[_wiki/shadar\|Shadars]] (B)** → [[_wiki/pactum_diaboli\|Pactum Diaboli]] ou [[_wiki/teru\|Teru]]
-- **[[_wiki/varnak\|Varnak]] (R)** → [[_wiki/vinculum_daemonis\|Vinculum Daemonis]] ou [[_wiki/teru\|Teru]]
+- **[[locais/varnak\|Varnak]] (R)** → [[_wiki/vinculum_daemonis\|Vinculum Daemonis]] ou [[_wiki/teru\|Teru]]
 - **[[_wiki/sylvano\|Sylvanos]] (G)** → [[_wiki/symbiosis_naturae\|Symbiosis Naturae]] ou [[_wiki/teru\|Teru]]
 - **Elarins (W)** → [[_wiki/devotio_sancta\|Devotio Sancta]] ou [[_wiki/teru\|Teru]]
 - **[[_wiki/frenim\|Frenim]] (U)** → [[_wiki/meditatio_aetheris\|Meditatio Aetheris]] ou [[_wiki/teru\|Teru]]

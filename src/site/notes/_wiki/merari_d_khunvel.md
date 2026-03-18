@@ -13,7 +13,7 @@ Manteve [[_wiki/niedellin\|Niedellin]] em prosperidade anômala sob [[_wiki/impe
 
 ### Arco do Livro I
 
-Ausente quando comitiva de [[_wiki/milorsevogh_velshard\|Milor]] chegou. Oculus roubado, cartas para [[_wiki/morvgrad\|Morvgrad]] interceptadas. Confessa ter pacto com [[_wiki/vozrador\|Vozrador]]: "Fiz meu pacto com [[_wiki/vozrador\|Vozrador]]", "sempre fui o vaso." Não pode pisar solo consagrado. Invoca [[_wiki/veredictum_exkarthon\|Veredictum Exkarthon]] para forçar [[_wiki/milorsevogh_velshard\|Milor]] a investigar floresta. Cerca chapel com 24 [[_wiki/orc\|orcs]]. Amarrado durante batalha final. Aprisionado e enviado a [[_wiki/ghol_drokh\|Ghol'Drokh]].
+Ausente quando comitiva de [[_wiki/milorsevogh_velshard\|Milor]] chegou. [[_wiki/oculus_morvgradi\|Oculus]] roubado, cartas para [[_wiki/morvgrad\|Morvgrad]] interceptadas. Confessa ter pacto com [[_wiki/vozrador\|Vozrador]]: "Fiz meu pacto com [[_wiki/vozrador\|Vozrador]]", "sempre fui o vaso." Não pode pisar solo consagrado. Invoca [[_wiki/veredictum_exkarthon\|Veredictum Exkarthon]] para forçar [[_wiki/milorsevogh_velshard\|Milor]] a investigar floresta. Cerca chapel com 24 [[_wiki/orc\|orcs]]. Amarrado durante batalha final. Aprisionado e enviado a [[_wiki/ghol_drokh\|Ghol'Drokh]].
 
 ### Padrões de Voz
 

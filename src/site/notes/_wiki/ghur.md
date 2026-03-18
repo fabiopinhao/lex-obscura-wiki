@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[_wiki/orc\|Orc]]. Irmão de [[_wiki/grothar\|Grothar]]. Morto em [[_wiki/lendalas\|Lendalas]] junto com outros [[_wiki/orc\|orcs]], torturado e engolido pelas raízes druídicas de [[_wiki/sylvano\|sylvanos]]. Não possui falas ou aparições diretas — sua existência é inteiramente mediada pela memória de [[_wiki/grothar\|Grothar]]. Recitava os Cantos de Grasnak nas fogueiras antes de [[_wiki/lendalas\|Lendalas]].
+[[_wiki/orc\|Orc]]. Irmão de [[_wiki/grothar\|Grothar]]. Morto em [[_wiki/lendalas\|Lendalas]] junto com outros [[_wiki/orc\|orcs]], torturado e engolido pelas raízes druídicas de [[_wiki/sylvano\|sylvanos]]. Não possui falas ou aparições diretas — sua existência é inteiramente mediada pela memória de [[_wiki/grothar\|Grothar]]. Recitava os [[_wiki/grasnak\|Cantos de Grasnak]] nas fogueiras antes de [[_wiki/lendalas\|Lendalas]].
 
 ### Circunstâncias da Morte
 
@@ -15,7 +15,7 @@ Antes do incêndio de [[_wiki/lendalas\|Lendalas]], Ghur e diversos [[_wiki/orc\
 
 Ghur funciona como ausência que define presença. Sua morte informa o desprezo de [[_wiki/grothar\|Grothar]] por elfos — não o ódio obsessivo e sexualizado de [[_wiki/mur\|Mur]], mas um rancor pessoal e contido, cicatriz de perda real. [[_wiki/grothar\|Grothar]] trava a língua ao pronunciar o nome do irmão (seção 1.1), tosse para disfarçar a emoção (seção 12.9), e só consegue articular a história completa sob pressão dramática. O trauma é tão fisicamente impresso que a proximidade de florestas élficas como [[_wiki/thal_serin\|Thal'Serin]] coloca [[_wiki/grothar\|Grothar]] em estado de alerta visceral.
 
-Ghur era mais que soldado: recitava os Cantos de Grasnak nas fogueiras, revelando erudição que precedeu e inspirou a do irmão sobrevivente. Quando [[_wiki/grothar\|Grothar]] confessa a [[_wiki/syndrith_morghast\|Syndrith]] que sabe ler runas antigas e conhece os Cantos, é Ghur quem ecoa — foi ele quem primeiro mostrou a [[_wiki/grothar\|Grothar]] que um [[_wiki/orc\|orc]] podia guardar mais que raiva.
+Ghur era mais que soldado: recitava os [[_wiki/grasnak\|Cantos de Grasnak]] nas fogueiras, revelando erudição que precedeu e inspirou a do irmão sobrevivente. Quando [[_wiki/grothar\|Grothar]] confessa a [[_wiki/syndrith_morghast\|Syndrith]] que sabe ler runas antigas e conhece os Cantos, é Ghur quem ecoa — foi ele quem primeiro mostrou a [[_wiki/grothar\|Grothar]] que um [[_wiki/orc\|orc]] podia guardar mais que raiva.
 
 ### Relações-Chave
 

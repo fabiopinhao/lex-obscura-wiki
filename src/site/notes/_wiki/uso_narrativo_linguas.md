@@ -41,7 +41,7 @@ Sotaques são ferramenta de caracterização. O [[_wiki/reinkardico\|Reinkárdic
 
 **[[_wiki/sauriano\|Saurianos]]** em [[_wiki/reinkardico\|Reinkárdico]]: sibilantes arrastadas, dificuldade com oclusivas labiais (*p*, *b*, *m*), tendência a omitir vogais curtas. Frases soam "comprimidas", como se a língua tivesse menos espaço na boca do que deveria.
 
-**[[_wiki/varnakiano\|Varnakianos]]** em [[_wiki/reinkardico\|Reinkárdico]]: fluentes (os vales de [[_wiki/varnak\|Varnak]] mantêm contato comercial com o [[_wiki/imperio_sombrio\|Império]] há gerações). Sotaque perceptível mas discreto: retroflexas do [[_wiki/draconico\|Dracônico]] que escapam em consoantes finais.
+**[[_wiki/varnakiano\|Varnakianos]]** em [[_wiki/reinkardico\|Reinkárdico]]: fluentes (os vales de [[locais/varnak\|Varnak]] mantêm contato comercial com o [[_wiki/imperio_sombrio\|Império]] há gerações). Sotaque perceptível mas discreto: retroflexas do [[_wiki/draconico\|Dracônico]] que escapam em consoantes finais.
 
 ### Língua e Poder em Cena
 

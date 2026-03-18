@@ -13,7 +13,7 @@ Na hierarquia de punições do [[_wiki/tribunal_de_morvgrad\|Tribunal de Morvgra
 
 O Sigilo opera na interseção entre magia institucional e invocação divina direta. A inscrição ritual na carne do condenado funciona como gatilho para a manifestação de [[_wiki/abbhal\|Abbhal]], que sela a sentença com autoridade divina. O executor prepara o veículo arcano; o diabo executa o aprisionamento.
 
-A escola [[_wiki/nomos\|Nomos]] possui feitiços com efeitos parcialmente análogos (Sigilo, Oubliette, Clausura), mas nenhuma fonte canônica confirma que o Sigilo de [[_wiki/abbhal\|Abbhal]] derive mecanicamente dessas escalas. A participação direta do diabo sugere que o processo transcende a magia convencional de [[_wiki/nomos\|Nomos]]. [LORE?]
+A escola [[_wiki/nomos\|Nomos]] possui feitiços com efeitos parcialmente análogos (Sigilo, Oubliette, Clausura), mas nenhuma fonte canônica confirma que o Sigilo de [[_wiki/abbhal\|Abbhal]] derive mecanicamente dessas escalas. A participação direta do diabo sugere que o processo transcende a magia convencional de [[_wiki/nomos\|Nomos]].
 
 ### Procedimento Ritual
 

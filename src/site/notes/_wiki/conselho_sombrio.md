@@ -36,7 +36,7 @@ O número de conselheiros varia ao longo da trilogia — não há composição f
 | [[_wiki/vekraal\|Vekraal]] | General, "Punho de [[_wiki/arothistar\|Arothistar]]" | Representa os generais. Terceira Legião Oriental. Facção expansionista. |
 | [[_wiki/orum-rahru\|Orum-Rahru]] | Justiciar veterano | Representa os [[_wiki/justiciars\|Justiciars]]. Ocupa cadeira de granito (distinta das cadeiras de obsidiana dos conselheiros). |
 
-**Participantes remotos (via Oculus, conforme necessidade):**
+**Participantes remotos (via [[_wiki/oculus_morvgradi\|Oculus]], conforme necessidade):**
 
 | Nome | Função | Nota |
 |---|---|---|
@@ -61,7 +61,7 @@ O [[_wiki/salao_do_conselho\|Salão do Conselho]] ocupa o Círculo Obsidiano em 
 
 A mesa é circular, sobre poço de piche encantado. Doze efígies de [[_wiki/diabos\|deuses negros]] ([[_wiki/diabos\|diabos]]) esculpidas no teto abobadado — incluindo [[_wiki/vozrador\|Vozrador]], cujo desgaste contrasta com as demais. A [[_wiki/efigie_de_arothistar\|efígie de Arothistar]] foi posicionada um palmo acima dos doze deuses, declaração visual de hierarquia. Cadeiras de obsidiana para conselheiros; cadeira de granito reservada ao representante dos [[_wiki/justiciars\|Justiciars]].
 
-Conselheiros comunicam-se com agentes remotos via Oculi de ônix (esferas de comunicação pessoal). Arquivos selados do Conselho são acessíveis apenas com selos púrpura ou autorização direta do cadeira maior.
+Conselheiros comunicam-se com agentes remotos via [[_wiki/oculus_morvgradi\|Oculi]] de ônix (esferas de comunicação pessoal). Arquivos selados do Conselho são acessíveis apenas com selos púrpura ou autorização direta do cadeira maior.
 
 ### Dinâmica Política Pós-Arothistar
 

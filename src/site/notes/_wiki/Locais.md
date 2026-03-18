@@ -12,7 +12,7 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 ## Capitais e Cidades
 
 - [[_wiki/morvgrad\|Morvgrad]] — Capital imperial, sede do poder de Arothistar
-- [[_wiki/varnak\|Varnak]] — Cidade-fortaleza dos varnakianos
+- [[locais/varnak\|Varnak]] — Cidade-fortaleza dos varnakianos
 - [[_wiki/khargoth\|Khargoth]] — Metrópole militar
 - [[_wiki/ezrath\|Ezrath]] — Cidade fronteiriça
 - [[_wiki/veinkard\|Veinkard]] — Porto comercial

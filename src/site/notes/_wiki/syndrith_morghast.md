@@ -25,7 +25,7 @@ Polidez falsa e ameaçadora — o sarcasmo como cortesia invertida. Raramente in
 
 **Amostra 1** (ao encontrar [[_wiki/grothar\|Grothar]] em vigília): *"Vaz! Eu vi você vindo"* — [[_wiki/grothar\|Grothar]] finge; Syndrith não corrige. Ela usa o erro alheio como moeda.
 
-**Amostra 2** (sobre os Cantos de Grasnak): *"Um [[_wiki/orc\|orc]] erudito. Raro como piedade em [[_wiki/vor-ghol\|Vor-Ghol]]."* — fascínio genuíno disfarçado de espanto irónico.
+**Amostra 2** (sobre os [[_wiki/grasnak\|Cantos de Grasnak]]): *"Um [[_wiki/orc\|orc]] erudito. Raro como piedade em [[_wiki/vor-ghol\|Vor-Ghol]]."* — fascínio genuíno disfarçado de espanto irónico.
 
 **Amostra 3** (a [[_wiki/milorsevogh_velshard\|Milor]], sobre jurisdição): *"Eres o oficial superior nesta missão."* — deferência que soa como aviso.
 

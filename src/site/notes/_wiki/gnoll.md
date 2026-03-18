@@ -15,7 +15,7 @@ Cultura de arena: o Abatedouro de Drakmur e a Lança de Três Crânios represent
 
 ### Status Legal
 
-Classificados como "fauna doméstica de segundo grau" pelo Édito de Servidão Bestial. Proibidos em cidades sem marca, coleira ou jaula. [[_wiki/fandegarron\|Fandegarrón]] opera em [[_wiki/morvgrad\|Morvgrad]] disfarçado sob manto de ogro (pertenceu a Brumgak, antigo guarda-costas morto por dívida de jogo), servindo como guarda-costas da [[_wiki/guilda_dos_gnomos\|Guilda dos Gnomos]]. [[_wiki/nidzina_avaroth\|Nidzina]] ignora a ilegalidade por necessidade investigativa.
+Classificados como "fauna doméstica de segundo grau" pelo Édito de Servidão Bestial. Proibidos em cidades sem marca, coleira ou jaula. [[_wiki/fandegarron\|Fandegarrón]] opera em [[_wiki/morvgrad\|Morvgrad]] disfarçado sob manto de [[_wiki/ogro\|ogro]] (pertenceu a Brumgak, antigo guarda-costas morto por dívida de jogo), servindo como guarda-costas da [[_wiki/guilda_dos_gnomos\|Guilda dos Gnomos]]. [[_wiki/nidzina_avaroth\|Nidzina]] ignora a ilegalidade por necessidade investigativa.
 
 ### Relações
 

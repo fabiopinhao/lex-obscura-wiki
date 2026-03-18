@@ -37,7 +37,7 @@ O Vazio não é apenas narrativa cosmogônica. Possui manifestações concretas 
 
 O [[_wiki/manto_das_sombras\|Manto das Sombras]] é o fenômeno regional gerado por décadas de domínio [[_wiki/shadar\|shadar]] alimentado por pactos diabólicos em escala institucional. Os druidas chamam [[_wiki/reinkard\|Reinkard]] de "continente de sombras" — metáfora que carrega verdade literal. A presença massiva de energia sombria enfraquece a influência de [[_wiki/anjos\|deuses brancos]] e verdes, enquanto [[_wiki/demonios\|demônios]] e [[_wiki/siderais\|siderais]] são menos afetados.
 
-A [[_wiki/macula-sombria\|Mácula-Sombria]] é sua manifestação visível nas florestas: raízes corrompidas com veios negros, terra enegrecida, flora definhando. A praga precede os [[_wiki/shadar\|shadars]], mas acelerou dramaticamente sob [[_wiki/arothistar\|Arothistar]].
+A [[magia/macula-sombria\|Mácula-Sombria]] é sua manifestação visível nas florestas: raízes corrompidas com veios negros, terra enegrecida, flora definhando. A praga precede os [[_wiki/shadar\|shadars]], mas acelerou dramaticamente sob [[_wiki/arothistar\|Arothistar]].
 
 [[_wiki/gaelwyn\|Gaelwyn]], meio-elfo criado entre [[_wiki/shadar\|shadars]], carrega em si a marca deste conflito: um fragmento de vazio dentro de alguém cuja natureza deveria ser verde. A floresta o rejeita parcialmente — árvores sussurram quando passa, raízes recuam de sua presença.
 

@@ -19,7 +19,7 @@ O vínculo com Titãs opera por [[_wiki/symbiosis_naturae\|Symbiosis Naturae]]: 
 
 ### Relação com o [[_wiki/imperio_sombrio\|Império]]
 
-[[_wiki/arothistar\|Arothistar]] não invadia florestas titânicas diretamente, pois pactos antigos com os Titãs as protegiam. A estratégia imperial era a [[_wiki/macula-sombria\|mácula-sombria]]: corrupção lenta das raízes, esperando que os Titãs eventualmente abandonassem os santuários. [[_wiki/titania\|Titânia]] e [[_wiki/morlgrund\|Morlgrund]] firmaram acordo com [[_wiki/vozrador\|Vozrador]] para proteger [[_wiki/thal_serin\|Thal'Serin]] — um titã negociando com um diabo, exemplificando a filosofia verde de sobrevivência por adaptação.
+[[_wiki/arothistar\|Arothistar]] não invadia florestas titânicas diretamente, pois pactos antigos com os Titãs as protegiam. A estratégia imperial era a [[magia/macula-sombria\|mácula-sombria]]: corrupção lenta das raízes, esperando que os Titãs eventualmente abandonassem os santuários. [[_wiki/titania\|Titânia]] e [[_wiki/morlgrund\|Morlgrund]] firmaram acordo com [[_wiki/vozrador\|Vozrador]] para proteger [[_wiki/thal_serin\|Thal'Serin]] — um titã negociando com um diabo, exemplificando a filosofia verde de sobrevivência por adaptação.
 
 ### Titãs Nomeados
 

@@ -5,7 +5,7 @@
 
 ### Perfil
 
-Gnomo. Ex-comerciante. Dono de "[[pip_s_conveniencias\|Pip's Conveniências]]" em [[_wiki/myrgarde\|Myrgarde]] antes da queda. Amigo de infância de [[_wiki/arothistar\|Dravmir]]. Afiliação: [[_wiki/culto_sombrio\|Culto Sombrio]] (forçado). Localização: [[_wiki/vor-ghol\|Vor-Ghol]] / [[_wiki/thandruk_varn\|Thandruk Varn]]. Status: escravo.
+Gnomo. Ex-comerciante. Dono de "Pip's Conveniências" em [[_wiki/myrgarde\|Myrgarde]] antes da queda. Amigo de infância de [[_wiki/arothistar\|Dravmir]]. Afiliação: [[_wiki/culto_sombrio\|Culto Sombrio]] (forçado). Localização: [[_wiki/vor-ghol\|Vor-Ghol]] / [[_wiki/thandruk_varn\|Thandruk Varn]]. Status: escravo.
 
 ### Papel Narrativo
 
