@@ -24,7 +24,7 @@ Os antigos [[_wiki/templarios\|templários]] mantinham lealdades divididas e per
 #### A Solução: Justiciars sem Pactos
 
 [[_wiki/arothistar\|Arothistar]] precisava de juízes-executores que:
-- **Respondessem apenas ao [[_wiki/verbum_arkhon\|Verbum Arkhon]]** (não a [[_wiki/diabos\|diabos]] ou matriarcas)
+- **Respondessem apenas ao [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]]** (não a [[_wiki/diabos\|diabos]] ou matriarcas)
 - **Operassem com [[_wiki/teru\|Teru]]** (magia independente de pactos divinos)
 - **Fossem exclusivamente [[_wiki/shadar\|shadars]]** de linhagem pura e lealdade comprovada
 - **Tivessem autoridade acima dos [[_wiki/templarios\|templários]]** para investigá-los

@@ -7,4 +7,4 @@ Domínio [[_wiki/shadar\|shadar]] consolidado após as Guerras Reinkárdicas. An
 
 Fronteiras naturais definem a geopolítica: [[_wiki/dorsal\|a Dorsal]] impede avanço sobre [[_wiki/veinkard\|Veinkard]]; pântanos e clima úmido barram conquista de [[_wiki/neranthis\|Neranthis]]; [[_wiki/thal_serin\|Thal'Serin]] resiste por proteção titânica (pacto Vozrador-Titãs). O selo púrpuro de [[_wiki/arothistar\|Arothistar]] não cruza [[_wiki/dorsal\|a Dorsal]].
 
-Após a [[_wiki/queda_de_arothistar\|queda de Arothistar]], Reinkard entra em crise institucional: [[_wiki/verbum_arkhon\|Verbum Arkhon]] perde autoridade, [[_wiki/lex_obscura\|Lex Obscura]] é contestada, [[_wiki/conselho_sombrio\|Conselho Sombrio]] se reorganiza, e a república templária tenta assumir governo.
+Após a [[_wiki/queda_de_arothistar\|queda de Arothistar]], Reinkard entra em crise institucional: [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] perde autoridade, [[_wiki/lex_obscura_decreto\|Lex Obscura]] é contestada, [[_wiki/conselho_sombrio\|Conselho Sombrio]] se reorganiza, e a república templária tenta assumir governo.

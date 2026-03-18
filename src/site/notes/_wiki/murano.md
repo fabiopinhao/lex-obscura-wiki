@@ -9,7 +9,7 @@ Humanoides ratiformes que habitam os espaços que ninguém mais quer: esgotos, f
 
 ### Origem Cosmogônica
 
-Como todos os humanoides híbridos, os muranos remontam às [[eventos/guerras_raciais\|Guerras Raciais]], quando entidades diabólicas cruzaram humanos e animais para produzir soldados alinhados às cores arcanas. Os muranos carregam cor preta, e sua gênese está ligada aos experimentos subterrâneos de [[panteao/warguleth\|Wargûleth]], o Cão Abissal, nas cavernas primordiais do que viria a ser [[_wiki/vor-ghol\|Vor-Ghol]].
+Como todos os humanoides híbridos, os muranos remontam às [[_wiki/guerras_raciais\|Guerras Raciais]], quando entidades diabólicas cruzaram humanos e animais para produzir soldados alinhados às cores arcanas. Os muranos carregam cor preta, e sua gênese está ligada aos experimentos subterrâneos de [[panteao/warguleth\|Wargûleth]], o Cão Abissal, nas cavernas primordiais do que viria a ser [[_wiki/vor-ghol\|Vor-Ghol]].
 
 Os [[_wiki/drul\|druls]] preservam uma versão particularmente humilhante. [[panteao/warguleth\|Wargûleth]], ao fundir sangue humano e canino selvagem para produzir os [[_wiki/vulfano\|vulfanos]], cometeu um erro: o material foi contaminado por roedores que infestavam as cavernas. O resultado foram criaturas menores, mais fracas, mais famintas e desprovidas de qualquer traço que justificasse preservação. Os [[_wiki/worg\|worgs]] seriam o produto intencional; os muranos, o refugo. [[panteao/warguleth\|Wargûleth]] nunca corrigiu o erro. Nem o deus que os fez por acidente se importou o suficiente para eliminá-los.
 

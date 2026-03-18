@@ -57,7 +57,7 @@ A presença massiva de energia sombria em [[_wiki/reinkard\|Reinkard]] enfraquec
 
 [[_wiki/demonios\|Deuses vermelhos]] ([[_wiki/demonios\|demônios]]) e azuis ([[_wiki/siderais\|siderais]]) são menos afetados por este fenômeno. Os [[_wiki/demonios\|demônios]] porque sua natureza caótica não depende de estabilidade planar — prosperam no conflito. Os [[_wiki/siderais\|siderais]] porque habitam o [[_wiki/plano_etereo\|Plano Etéreo]] e não o material, operando numa camada que o [[_wiki/manto_das_sombras\|manto das sombras]] não alcança diretamente.
 
-A [[magia/macula-sombria\|Mácula-Sombria]] nas florestas — raízes corrompidas com veios negros, terra enegrecida, flora definhando — é a manifestação visível deste processo. A praga precede os [[_wiki/shadar\|shadars]], mas acelerou dramaticamente sob [[_wiki/arothistar\|Arothistar]]. [[_wiki/gaelwyn\|Gaelwyn]], meio-elfo criado entre [[_wiki/shadar\|shadars]], carrega em si a marca deste conflito: um fragmento de [[_wiki/vazio\|vazio]] dentro de alguém cuja natureza deveria ser verde.
+A [[_wiki/macula-sombria\|Mácula-Sombria]] nas florestas — raízes corrompidas com veios negros, terra enegrecida, flora definhando — é a manifestação visível deste processo. A praga precede os [[_wiki/shadar\|shadars]], mas acelerou dramaticamente sob [[_wiki/arothistar\|Arothistar]]. [[_wiki/gaelwyn\|Gaelwyn]], meio-elfo criado entre [[_wiki/shadar\|shadars]], carrega em si a marca deste conflito: um fragmento de [[_wiki/vazio\|vazio]] dentro de alguém cuja natureza deveria ser verde.
 
 ### Avatares
 

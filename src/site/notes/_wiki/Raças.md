@@ -72,4 +72,4 @@ O Império não reconhece igualdade entre as raças. Reconhece utilidade.
 
 ---
 
-*Classificação conforme o [[_wiki/verbum_arkhon\|Registro Imperial de Espécies]].*
+*Classificação conforme o [[_wiki/verbum_arkhon_codex\|Registro Imperial de Espécies]].*

@@ -11,9 +11,9 @@ As palavras que o Império usa para governar não foram escolhidas ao acaso. Cad
 
 ## O Codex Somniorum
 
-- [[_wiki/verbum_arkhon\|Verbum Arkhon]] — As Palavras Vivas (Volume I)
-- [[_wiki/lex_obscura\|Lex Obscura]] — As Leis da Sombra (Volume II)
-- [[_wiki/tabula_umbrae\|Tabula Umbrae]] — Feitiços e Alquimia (Volume III)
+- [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] — As Palavras Vivas (Volume I)
+- [[_wiki/lex_obscura_decreto\|Lex Obscura]] — As Leis da Sombra (Volume II)
+- [[_wiki/tabula_umbrae_codex\|Tabula Umbrae]] — Feitiços e Alquimia (Volume III)
 
 ## Instrumentos Jurídicos e Imperiais
 

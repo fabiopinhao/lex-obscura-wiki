@@ -5,7 +5,7 @@
 
 ### Princípio Geral
 
-Línguas em [[_wiki/lex_obscura\|Lex Obscura]] servem a três funções narrativas: marcação de identidade (quem fala revela de onde vem), marcação de poder (quem determina a língua determina a relação), e marcação de custo mágico (canalizações em línguas rituais sempre têm preço).
+Línguas em [[_wiki/lex_obscura_decreto\|Lex Obscura]] servem a três funções narrativas: marcação de identidade (quem fala revela de onde vem), marcação de poder (quem determina a língua determina a relação), e marcação de custo mágico (canalizações em línguas rituais sempre têm preço).
 
 O [[_wiki/reinkardico\|Reinkárdico]] é o "português invisível" do texto: quando personagens falam entre si sem menção de idioma, estão falando [[_wiki/reinkardico\|Reinkárdico]]. A língua só se torna visível quando alguém muda para outra, quando um sotaque é notado, ou quando a compreensão falha.
 
@@ -41,7 +41,7 @@ Sotaques são ferramenta de caracterização. O [[_wiki/reinkardico\|Reinkárdic
 
 **[[_wiki/sauriano\|Saurianos]]** em [[_wiki/reinkardico\|Reinkárdico]]: sibilantes arrastadas, dificuldade com oclusivas labiais (*p*, *b*, *m*), tendência a omitir vogais curtas. Frases soam "comprimidas", como se a língua tivesse menos espaço na boca do que deveria.
 
-**[[_wiki/varnakiano\|Varnakianos]]** em [[_wiki/reinkardico\|Reinkárdico]]: fluentes (os vales de [[locais/varnak\|Varnak]] mantêm contato comercial com o [[_wiki/imperio_sombrio\|Império]] há gerações). Sotaque perceptível mas discreto: retroflexas do [[_wiki/draconico\|Dracônico]] que escapam em consoantes finais.
+**[[_wiki/varnakiano\|Varnakianos]]** em [[_wiki/reinkardico\|Reinkárdico]]: fluentes (os vales de [[_wiki/varnak\|Varnak]] mantêm contato comercial com o [[_wiki/imperio_sombrio\|Império]] há gerações). Sotaque perceptível mas discreto: retroflexas do [[_wiki/draconico\|Dracônico]] que escapam em consoantes finais.
 
 ### Língua e Poder em Cena
 

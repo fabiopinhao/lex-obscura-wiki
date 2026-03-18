@@ -9,7 +9,7 @@
 
 ### Arco do Livro I
 
-Capturado na emboscada sylvana do Cap. 3.2 (Nivar morto, Gaelwyn inconsciente). Carregou [[magia/macula-sombria\|mácula-sombria]] plantada por [[_wiki/milorsevogh_velshard\|Milor]] que o impedia de matá-lo. Curou [[_wiki/grub\|Grub]] sob coerção — "teste de fé em Titania." Libertado com mensagem aos druidas. Árvores sussurram quando Gael passa; raízes recuam de sua presença (marca [[_wiki/shadar\|shadar]] detectada por [[_wiki/mirin\|Mirin]]). Trauma do interrogatório visível na reunião dos rebeldes. Disparo élfico decisivo derrubou [[_wiki/maraxus\|Maraxus]].
+Capturado na emboscada sylvana do Cap. 3.2 (Nivar morto, Gaelwyn inconsciente). Carregou [[_wiki/macula-sombria\|mácula-sombria]] plantada por [[_wiki/milorsevogh_velshard\|Milor]] que o impedia de matá-lo. Curou [[_wiki/grub\|Grub]] sob coerção — "teste de fé em Titania." Libertado com mensagem aos druidas. Árvores sussurram quando Gael passa; raízes recuam de sua presença (marca [[_wiki/shadar\|shadar]] detectada por [[_wiki/mirin\|Mirin]]). Trauma do interrogatório visível na reunião dos rebeldes. Disparo élfico decisivo derrubou [[_wiki/maraxus\|Maraxus]].
 
 ### Padrões de Voz
 
@@ -23,6 +23,6 @@ Tom melancólico [[_wiki/sylvano\|sylvano]], referências à natureza como moldu
 
 **[[_wiki/koliah\|Koliah]] (amante):** [[_wiki/koliah\|Koliah]] aperta mão dele depois de dizer "Você honrou sua deusa. Escolheu preservar vida mesmo cercado por sombras."
 
-**[[_wiki/milorsevogh_velshard\|Milor]] (coerção / mácula):** [[_wiki/milorsevogh_velshard\|Milor]] plantou [[magia/macula-sombria\|mácula-sombria]] para controlar Gaelwyn. Libertado com mensagem ameaçadora: "Se falarem verdade, serei justo."
+**[[_wiki/milorsevogh_velshard\|Milor]] (coerção / mácula):** [[_wiki/milorsevogh_velshard\|Milor]] plantou [[_wiki/macula-sombria\|mácula-sombria]] para controlar Gaelwyn. Libertado com mensagem ameaçadora: "Se falarem verdade, serei justo."
 
 **[[_wiki/mirin\|Mirin]] e [[_wiki/calel\|Calel]] (aprendizes):** Nova geração que ele treinou. [[_wiki/mirin\|Mirin]] detectou sua marca antes que ele admitisse.

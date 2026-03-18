@@ -5,7 +5,7 @@
 
 ### Natureza
 
-Subtipo gnômico dos [[_wiki/sauriano\|saurianos]], exclusivo do planalto de [[_wiki/reinkard\|Reinkard]]. Não existem em [[locais/varnak\|Varnak]] ou [[_wiki/veinkard\|Veinkard]]. Não descendem das linhagens dracônicas dos clãs drakhonins. São produto de manipulação deliberada, a única raça de [[_wiki/reinkard\|Reinkard]] cuja existência é resultado de engenharia. Foram fabricados para servir e servem com uma devoção que parece instinto mas é cicatriz.
+Subtipo gnômico dos [[_wiki/sauriano\|saurianos]], exclusivo do planalto de [[_wiki/reinkard\|Reinkard]]. Não existem em [[_wiki/varnak\|Varnak]] ou [[_wiki/veinkard\|Veinkard]]. Não descendem das linhagens dracônicas dos clãs drakhonins. São produto de manipulação deliberada, a única raça de [[_wiki/reinkard\|Reinkard]] cuja existência é resultado de engenharia. Foram fabricados para servir e servem com uma devoção que parece instinto mas é cicatriz.
 
 ### Origem
 

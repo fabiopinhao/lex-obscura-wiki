@@ -5,9 +5,9 @@
 
 ### Origem Cosmogônica
 
-Os vulfanos, como todos os humanoides híbridos, remontam às **[[eventos/guerras_raciais\|Guerras Raciais]]**, evento da [[_referencias/idade_esquecida\|Idade Esquecida]] anterior à fragmentação dos [[_wiki/luminar\|Luminares]]. Nesse período, os deuses intervieram diretamente no plano material, cruzando humanos e animais para produzir soldados alinhados às suas cores arcanas. Os vulfanos carregam cor preta: sua criação é atribuída a entidades diabólicas que fundiram sangue humano e canino selvagem.
+Os vulfanos, como todos os humanoides híbridos, remontam às **[[_wiki/guerras_raciais\|Guerras Raciais]]**, evento da [[_referencias/idade_esquecida\|Idade Esquecida]] anterior à fragmentação dos [[_wiki/luminar\|Luminares]]. Nesse período, os deuses intervieram diretamente no plano material, cruzando humanos e animais para produzir soldados alinhados às suas cores arcanas. Os vulfanos carregam cor preta: sua criação é atribuída a entidades diabólicas que fundiram sangue humano e canino selvagem.
 
-As [[eventos/guerras_raciais\|Guerras Raciais]] não foram conflitos organizados como os de eras posteriores. As raças híbridas não construíam cidades, não reivindicavam territórios, não tinham estrutura política. Eram forças brutas no campo de disputa entre deuses, mais hábeis em luta direta que humanos puros e alinhadas instintivamente aos seus patronos divinos. Quando as Guerras se encerraram e os deuses recuaram, os híbridos ficaram. Abandonados pelos patronos, desprovidos de instrução ou território, restou-lhes apenas a forma e o instinto.
+As [[_wiki/guerras_raciais\|Guerras Raciais]] não foram conflitos organizados como os de eras posteriores. As raças híbridas não construíam cidades, não reivindicavam territórios, não tinham estrutura política. Eram forças brutas no campo de disputa entre deuses, mais hábeis em luta direta que humanos puros e alinhadas instintivamente aos seus patronos divinos. Quando as Guerras se encerraram e os deuses recuaram, os híbridos ficaram. Abandonados pelos patronos, desprovidos de instrução ou território, restou-lhes apenas a forma e o instinto.
 
 Os vulfanos jamais formaram nação, governo ou reivindicaram terra. A dispersão é a constante da família desde o princípio.
 

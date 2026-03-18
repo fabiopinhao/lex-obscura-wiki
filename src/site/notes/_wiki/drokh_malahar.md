@@ -11,10 +11,10 @@ Os Crucitórios não matam. Necromantes mantêm a consciência do condenado para
 
 ### Função Penal
 
-Drokh'Malahar é o destino prescrito pela [[_wiki/lex_obscura\|Lex Obscura]] para condenados por [[_wiki/vinculum_daemonis\|Vinculum Daemonis]], pacto demoníaco celebrado sem autorização expressa de [[_wiki/arothistar\|Arothistar]]. Não há revisão, não há apelação, não há prazo.
+Drokh'Malahar é o destino prescrito pela [[_wiki/lex_obscura_decreto\|Lex Obscura]] para condenados por [[_wiki/vinculum_daemonis\|Vinculum Daemonis]], pacto demoníaco celebrado sem autorização expressa de [[_wiki/arothistar\|Arothistar]]. Não há revisão, não há apelação, não há prazo.
 
 A hierarquia penal de [[_wiki/morvgrad\|Morvgrad]] distingue três destinos: o [[_wiki/fosso_da_purga\|Fosso da Purga]] descarta (execução sumária de [[_wiki/murano\|muranos]] e criminosos menores), [[_wiki/ghol_drokh\|Ghol'Drokh]] aprisiona (custódia de prisioneiros políticos e estratégicos), Drokh'Malahar pune sem fim.
 
 ### Uso Narrativo
 
-[[_wiki/milorsevogh_velshard\|Milorsevogh]] sentenciou [[_wiki/maraxus\|Maraxus]] aos Fossos de Drokh'Malahar após invocar o [[_wiki/verbum_arkhon\|Verbum Arkhon]] contra seu pacto clandestino com [[_wiki/hazburim\|Hazburim]]. A sentença confirmou que o [[_wiki/vinculum_daemonis\|Vinculum Daemonis]] supera até a proteção política do [[_wiki/conselho_sombrio\|Conselho Sombrio]]: nenhum conselheiro pode perdoar o que a lei do soberano condena.
+[[_wiki/milorsevogh_velshard\|Milorsevogh]] sentenciou [[_wiki/maraxus\|Maraxus]] aos Fossos de Drokh'Malahar após invocar o [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] contra seu pacto clandestino com [[_wiki/hazburim\|Hazburim]]. A sentença confirmou que o [[_wiki/vinculum_daemonis\|Vinculum Daemonis]] supera até a proteção política do [[_wiki/conselho_sombrio\|Conselho Sombrio]]: nenhum conselheiro pode perdoar o que a lei do soberano condena.

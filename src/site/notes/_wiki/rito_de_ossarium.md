@@ -27,7 +27,7 @@ A ironia é estrutural: o monarca que ascendeu ao poder através do Rito foi o m
 
 ### Implicações Ontológicas
 
-O Rito levanta questões que o universo de [[_wiki/lex_obscura\|Lex Obscura]] deixa deliberadamente sem resposta: se a identidade racial pode ser reescrita por ritual, o que define uma raça? Se um humano pode se tornar [[_wiki/shadar\|shadar]], a fronteira entre as raças é biológica, espiritual ou política? A existência do Ossárium corrói a narrativa de superioridade racial que sustenta o [[_wiki/imperio_sombrio\|Império Sombrio]] — e a proibição do Rito é, em parte, uma tentativa de silenciar essa corrosão.
+O Rito levanta questões que o universo de [[_wiki/lex_obscura_decreto\|Lex Obscura]] deixa deliberadamente sem resposta: se a identidade racial pode ser reescrita por ritual, o que define uma raça? Se um humano pode se tornar [[_wiki/shadar\|shadar]], a fronteira entre as raças é biológica, espiritual ou política? A existência do Ossárium corrói a narrativa de superioridade racial que sustenta o [[_wiki/imperio_sombrio\|Império Sombrio]] — e a proibição do Rito é, em parte, uma tentativa de silenciar essa corrosão.
 
 ### Mistérios Pendentes
 

@@ -7,7 +7,7 @@
 
 **Composição:**
 
-O núcleo é pedra lunar extraída das cavernas sagradas de [[_wiki/xarn_aroth\|Xarn'Aroth]], escolhida por ressonância com magias negras. Fragmentos ósseos — relíquias dos primeiros traidores executados pelo culto — foram incorporados à haste. Runas gravadas em espiral descendente contêm trechos do [[_wiki/verbum_arkhon\|Verbum Arkhon]] em escrita microscópica.
+O núcleo é pedra lunar extraída das cavernas sagradas de [[_wiki/xarn_aroth\|Xarn'Aroth]], escolhida por ressonância com magias negras. Fragmentos ósseos — relíquias dos primeiros traidores executados pelo culto — foram incorporados à haste. Runas gravadas em espiral descendente contêm trechos do [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] em escrita microscópica.
 
 **Ritual de Vinculação:**
 

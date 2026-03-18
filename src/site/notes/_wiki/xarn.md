@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[_wiki/shadar\|Shadar]] ancião. Fundador de [[_wiki/morvgrad\|Morvgrad]] na [[_referencias/segunda_era\|Segunda Era]]. Clérigo grão-mestre e conselheiro do Culto. Criador do primeiro documento da [[_wiki/lex_obscura\|Lex Obscura]]. Arquiteto da [[_wiki/alianca_subterranea\|Aliança Subterrânea]] entre [[_wiki/shadar\|shadars]] e [[_wiki/drul\|druls]]. Unificou templos diabólicos dispersos no [[_wiki/culto_sombrio\|Culto Sombrio]]. Possivelmente divinizado (status incerto). Status: vivo. Localização: [[_wiki/morvgrad\|Morvgrad]] (declarado herege por [[_wiki/arothistar\|Arothistar]]).
+[[_wiki/shadar\|Shadar]] ancião. Fundador de [[_wiki/morvgrad\|Morvgrad]] na [[_referencias/segunda_era\|Segunda Era]]. Clérigo grão-mestre e conselheiro do Culto. Criador do primeiro documento da [[_wiki/lex_obscura_decreto\|Lex Obscura]]. Arquiteto da [[_wiki/alianca_subterranea\|Aliança Subterrânea]] entre [[_wiki/shadar\|shadars]] e [[_wiki/drul\|druls]]. Unificou templos diabólicos dispersos no [[_wiki/culto_sombrio\|Culto Sombrio]]. Possivelmente divinizado (status incerto). Status: vivo. Localização: [[_wiki/morvgrad\|Morvgrad]] (declarado herege por [[_wiki/arothistar\|Arothistar]]).
 
 ### Papel Narrativo
 
@@ -15,7 +15,7 @@ Não se pronunciou quando [[_wiki/arothistar\|Arothistar]] tomou poder. Décadas
 
 Peso de séculos em cada enunciado. Questiona mais do que declara — mas as perguntas têm peso de veredito.
 
-**Tom característico:** Quem fundou a [[_wiki/lex_obscura\|Lex Obscura]] fala com ela, não sobre ela.
+**Tom característico:** Quem fundou a [[_wiki/lex_obscura_decreto\|Lex Obscura]] fala com ela, não sobre ela.
 
 ### Relações-Chave
 

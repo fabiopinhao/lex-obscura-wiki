@@ -7,7 +7,7 @@
 | Nível | Nome | Jurisdição | Composição |
 |-------|------|------------|------------|
 | **Primeiro** | Câmara Baixa | Crimes menores, punições mundanas | Escribas e tabeliães |
-| **Segundo** | Câmara Alta | Transgressões contra a [[_wiki/lex_obscura\|Lex Obscura]] | Lordes sombrios veteranos + membros do [[_wiki/conselho_sombrio\|Conselho Sombrio]] |
+| **Segundo** | Câmara Alta | Transgressões contra a [[lex_obscura\|Lex Obscura]] | Lordes sombrios veteranos + membros do [[_wiki/conselho_sombrio\|Conselho Sombrio]] |
 | **Terceiro** | Círculo Interior | Heresias e traições capitais | [[_wiki/arothistar\|Arothistar]] ou seus Arcontes |
 
 
@@ -17,11 +17,11 @@ O Tribunal de [[_wiki/morvgrad\|Morvgrad]] é a corte suprema do [[_wiki/culto_s
 
 ### Arcontes
 
-Lordes sombrios selecionados individualmente pelo monarca para estudar e julgar crimes contra a [[_wiki/lex_obscura\|Lex Obscura]] e contra o [[_wiki/verbum_arkhon\|Verbum Arkhon]]. Diferem dos [[_wiki/justiciars\|Justiciars]] por serem juízes de corte, não investigadores de campo.
+Lordes sombrios selecionados individualmente pelo monarca para estudar e julgar crimes contra a [[_wiki/lex_obscura_decreto\|Lex Obscura]] e contra o [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]]. Diferem dos [[_wiki/justiciars\|Justiciars]] por serem juízes de corte, não investigadores de campo.
 
 **Requisitos:**
 - Mínimo de vinte anos de serviço ao culto
-- Domínio completo da [[_wiki/lex_obscura\|Lex Obscura]] e do [[_wiki/verbum_arkhon\|Verbum Arkhon]]
+- Domínio completo da [[_wiki/lex_obscura_decreto\|Lex Obscura]] e do [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]]
 - Aprovação unânime do Círculo Interior
 
 **Função:** Presidem sessões do Círculo Interior, determinam se há mérito para julgamento formal, interpretam precedentes, redigem sentenças vinculantes e supervisionam o Scriptorium.
@@ -32,7 +32,7 @@ Lordes sombrios selecionados individualmente pelo monarca para estudar e julgar 
 
 ### [[_wiki/scriptorium_de_morvgrad\|Scriptorium de Morvgrad]]
 
-Ala de copistas e exegetas do Culto onde se reproduzem e glosam os códices do [[_wiki/codex_somniorum\|Codex Somniorum]]: [[_wiki/verbum_arkhon\|Verbum Arkhon]], [[_wiki/lex_obscura\|Lex Obscura]] e [[_wiki/tabula_umbrae\|Tabula Umbrae]].
+Ala de copistas e exegetas do Culto onde se reproduzem e glosam os códices do [[_wiki/codex_somniorum\|Codex Somniorum]]: [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]], [[_wiki/lex_obscura_decreto\|Lex Obscura]] e [[_wiki/tabula_umbrae_codex\|Tabula Umbrae]].
 
 **Acesso:** Restrito a acólitos juramentados sob tutela dos Arcontes.
 

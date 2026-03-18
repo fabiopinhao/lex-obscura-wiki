@@ -23,7 +23,7 @@ Quarenta e quatro anos atrás, [[_wiki/arothistar\|Arothistar]] fundou os [[_wik
 
 Os templários representavam ameaça em múltiplas frentes: conexão profunda com [[_wiki/drul\|druls]] via cultos do [[_wiki/vor-ghol\|Vor-Ghol]] (matriarcas podiam influenciar templários através de seus [[_wiki/diabos\|diabos]] patronos); autonomia operacional que rivalizava com o monarca; vínculos pactuais que podiam contradizer ordens imperiais; cultura de segredo que tornava impossível saber para quem realmente trabalhavam.
 
-[[_wiki/arothistar\|Arothistar]] precisava de juízes-executores que respondessem apenas ao [[_wiki/verbum_arkhon\|Verbum Arkhon]], sem pactos divinos ([[_wiki/teru\|Teru]]), sem vínculos com matriarcas, sem tradição de sigilo compartilhado. A escolha de [[_wiki/orum-rahru\|Orum-Rahru]] como primeiro Justiciar foi calculada: honrava a tradição templária enquanto a subordinava ao novo sistema.
+[[_wiki/arothistar\|Arothistar]] precisava de juízes-executores que respondessem apenas ao [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]], sem pactos divinos ([[_wiki/teru\|Teru]]), sem vínculos com matriarcas, sem tradição de sigilo compartilhado. A escolha de [[_wiki/orum-rahru\|Orum-Rahru]] como primeiro Justiciar foi calculada: honrava a tradição templária enquanto a subordinava ao novo sistema.
 
 Os templários, no sentido clássico de soldados e protetores dos templos, deixaram de existir como instituição militar. A estrutura de defesa e segurança foi centralizada sob os militares do [[_wiki/imperio_sombrio\|império]]. O termo "templário" sobreviveu para designar [[_wiki/ophideias\|ophideias]], feiticeiros e necromantes dos templos — corpo sacerdotal, não força armada.
 
@@ -33,7 +33,7 @@ Cinquenta ou mais remanescentes permaneceram ativos como clérigos subordinados,
 
 **Pós-Arothistar:** Com a execução do monarca, os templários emergiram como facção conservadora. A república templária que assume o poder após a queda não é restauração militar — é golpe institucional religioso. O [[_wiki/ordo_zathar\|Ordo Zathar]] preparou o terreno; a morte de [[_wiki/arothistar\|Arothistar]] abriu a porta.
 
-**[[_wiki/orum-rahru\|Orum-Rahru]] como ponte:** Único templário a virar Justiciar, [[_wiki/orum-rahru\|Orum]] encarna a tensão entre as duas ordens. Sua armadura templária prateada (conservada desde a era pré-imperial, raramente removida) é símbolo físico de lealdade dividida. Na Primeira Trilogia, perde fé no [[_wiki/verbum_arkhon\|Verbum Arkhon]] e alinha-se aos "templários ideológicos" ([[_wiki/jaakurs\|Jaakurs]], [[_wiki/nyx_ara\|Nyx'Ara]]) — movimento de nostalgia, não de conspiração. Traído por [[_wiki/nidzina_avaroth\|Nidzina]] (peça de [[_wiki/arothistar\|Arothistar]] contra o Ordo).
+**[[_wiki/orum-rahru\|Orum-Rahru]] como ponte:** Único templário a virar Justiciar, [[_wiki/orum-rahru\|Orum]] encarna a tensão entre as duas ordens. Sua armadura templária prateada (conservada desde a era pré-imperial, raramente removida) é símbolo físico de lealdade dividida. Na Primeira Trilogia, perde fé no [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] e alinha-se aos "templários ideológicos" ([[_wiki/jaakurs\|Jaakurs]], [[_wiki/nyx_ara\|Nyx'Ara]]) — movimento de nostalgia, não de conspiração. Traído por [[_wiki/nidzina_avaroth\|Nidzina]] (peça de [[_wiki/arothistar\|Arothistar]] contra o Ordo).
 
 ### Legado Cultural
 

@@ -3,7 +3,7 @@
 ---
 
 
-Pico mais elevado da [[_wiki/dorsal\|Dorsal]] na margem voltada para o planalto [[_wiki/shadar\|Shadar]]. Antigo ninho de dragão, abandonado na [[_referencias/primeira_era\|Primeira Era]] quando a corrupção sombria dos [[_wiki/shadar\|shadars]] tornou a região insustentável para [[_wiki/varna\|Varna]], que migrou para [[locais/varnak\|Varnak]] no continente de [[_wiki/veinkard\|Veinkard]].
+Pico mais elevado da [[_wiki/dorsal\|Dorsal]] na margem voltada para o planalto [[_wiki/shadar\|Shadar]]. Antigo ninho de dragão, abandonado na [[_referencias/primeira_era\|Primeira Era]] quando a corrupção sombria dos [[_wiki/shadar\|shadars]] tornou a região insustentável para [[_wiki/varna\|Varna]], que migrou para [[_wiki/varnak\|Varnak]] no continente de [[_wiki/veinkard\|Veinkard]].
 
 [[_wiki/mor_severith\|Mor'Severith]], a torre de [[_wiki/arothistar\|Arothistar]], está fundida à base do Pico de Nethys em [[_wiki/xarn_aroth\|Xarn'Aroth]]. Uma ponte sem corrimão conecta o [[_wiki/oculario\|Oculário]] à trilha que sobe ao pico. A relação pessoal de [[_wiki/arothistar\|Arothistar]] com o Pico não é pública, mas ele o contempla com frequência e dirige palavras a [[_wiki/velmorain\|Velmorain]] enquanto observa a cicatriz cerúlea no firmamento acima.
 

@@ -7,7 +7,7 @@
 
 O Culto Sombrio não é religião no sentido devocional — é aparato estatal que usa teologia como mecanismo de controle. Fundado por [[_wiki/xarn\|Xarn]] na [[_referencias/segunda_era\|Segunda Era]] ao unificar templos diabólicos dispersos no planalto norte, o Culto transformou práticas marginais de pacto e invocação em sistema institucional: hierarquia funcional, escolas organizadas, especializações doutrinárias, duelos ritualizados.
 
-A unificação foi pragmática. Antes de [[_wiki/xarn\|Xarn]], cada templo mantinha relação independente com seu diabo patrono — sem coordenação, sem doutrina compartilhada, sem poder político. [[_wiki/xarn\|Xarn]] forjou a [[_wiki/lex_obscura\|Lex Obscura]] como fundamento jurídico-religioso comum, subordinando cultos locais a uma estrutura central. A criação de [[_wiki/morvgrad\|Morvgrad]] selou o processo: capital política e religiosa em um só ponto.
+A unificação foi pragmática. Antes de [[_wiki/xarn\|Xarn]], cada templo mantinha relação independente com seu diabo patrono — sem coordenação, sem doutrina compartilhada, sem poder político. [[_wiki/xarn\|Xarn]] forjou a [[_wiki/lex_obscura_decreto\|Lex Obscura]] como fundamento jurídico-religioso comum, subordinando cultos locais a uma estrutura central. A criação de [[_wiki/morvgrad\|Morvgrad]] selou o processo: capital política e religiosa em um só ponto.
 
 ### Percepção Pública e Ambiguidade
 
@@ -37,13 +37,13 @@ A organização religiosa opera em três camadas:
 
 Dentro do Culto, duas facções disputam a direção filosófica do [[_wiki/imperio_sombrio\|império]] sem confronto público:
 
-A **facção ordeira** (alinhada a [[_wiki/velmorain\|Velmorain]]) defende consolidação por legalismo, burocracia e ordem rigorosa. O sistema Justiciar e a [[_wiki/lex_obscura\|Lex Obscura]] são suas ferramentas. [[_wiki/velmorain\|Velmorain]] exige de [[_wiki/arothistar\|Arothistar]]: ordem e harmonia no domínio das Sombras, rigor institucional. Esta facção prevaleceu na criação dos [[_wiki/justiciars\|Justiciars]] e na codificação da Lex.
+A **facção ordeira** (alinhada a [[_wiki/velmorain\|Velmorain]]) defende consolidação por legalismo, burocracia e ordem rigorosa. O sistema Justiciar e a [[_wiki/lex_obscura_decreto\|Lex Obscura]] são suas ferramentas. [[_wiki/velmorain\|Velmorain]] exige de [[_wiki/arothistar\|Arothistar]]: ordem e harmonia no domínio das Sombras, rigor institucional. Esta facção prevaleceu na criação dos [[_wiki/justiciars\|Justiciars]] e na codificação da Lex.
 
 A **facção expansionista** (alinhada a [[_wiki/malagoth\|Malagoth]]) acredita que conquista territorial a qualquer custo é a prioridade. Expansão militar perpétua, conversão de territórios em domínios sombrios, subjugação total. [[_wiki/malagoth\|Malagoth]] possui a visão mais ambiciosa entre os [[_wiki/diabos\|diabos]]: dominação completa do plano material através das sombras. [[_wiki/vekraal\|Vekraal]] é representante tácito desta facção.
 
 [[_wiki/kaelgrym\|Kaelgrym]], como demônio proscrito ([[_wiki/vinculum_daemonis\|Vinculum Daemonis]]), não patrona facção oficialmente. Sua influência existe de forma clandestina, alimentando impulsos de destruição e terror que ambas as facções utilizam quando conveniente.
 
-A tensão opera nos bastidores: rivalidades entre conselheiros, promoções seletivas de [[_wiki/templarios\|templários]], interpretação seletiva da [[_wiki/lex_obscura\|Lex Obscura]]. [[_wiki/arothistar\|Arothistar]], como único ser com pactos em ambas as esferas (diabólica e demoníaca), era a ponte entre as duas filosofias. Sua morte deixou o conflito sem mediador.
+A tensão opera nos bastidores: rivalidades entre conselheiros, promoções seletivas de [[_wiki/templarios\|templários]], interpretação seletiva da [[_wiki/lex_obscura_decreto\|Lex Obscura]]. [[_wiki/arothistar\|Arothistar]], como único ser com pactos em ambas as esferas (diabólica e demoníaca), era a ponte entre as duas filosofias. Sua morte deixou o conflito sem mediador.
 
 ### Proibição de Pactos Demoníacos
 
@@ -55,7 +55,7 @@ O sistema não possui mecanismo eficiente para detectar pactos clandestinos. A m
 
 O Culto existia antes de [[_wiki/arothistar\|Arothistar]] e existirá depois dele. [[_wiki/xarn\|Xarn]] o fundou; [[_wiki/arothistar\|Arothistar]] o instrumentalizou. A distinção é relevante: o monarca não era líder religioso por devoção, mas por concentração de poder. Os três pactos simultâneos ([[_wiki/malagoth\|Malagoth]], [[_wiki/velmorain\|Velmorain]], [[_wiki/kaelgrym\|Kaelgrym]]) o colocavam acima de qualquer sacerdote, templário ou conselheiro — ninguém podia contestar quem negociava diretamente com três deuses.
 
-O [[_wiki/verbum_arkhon\|Verbum Arkhon]] (Palavra do Soberano) não revogou a [[_wiki/lex_obscura\|Lex Obscura]] — alinhou-se e sobrepôs-se a ela. Foi simultaneamente revolução e continuidade. Após a execução de [[_wiki/arothistar\|Arothistar]], a questão central é: o que prevalece? O Verbum de um homem morto, ou a Lex de um fundador vivo? Esta é a fissura que o [[_wiki/ordo_zathar\|Ordo Zathar]] explora.
+O [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] (Palavra do Soberano) não revogou a [[_wiki/lex_obscura_decreto\|Lex Obscura]] — alinhou-se e sobrepôs-se a ela. Foi simultaneamente revolução e continuidade. Após a execução de [[_wiki/arothistar\|Arothistar]], a questão central é: o que prevalece? O Verbum de um homem morto, ou a Lex de um fundador vivo? Esta é a fissura que o [[_wiki/ordo_zathar\|Ordo Zathar]] explora.
 
 📋 Para [[_wiki/politica_religiosa\|política religiosa]] detalhada: `3.5_panteao_LORE.md`, seções 2.1-2.4.
 📋 Para facções internas: `3.5_panteao_LORE.md`. ⚠️ Lacuna: §5.8 do antigo Cânone não foi localizada no arquivo de destino — conteúdo sobre facções internas pode precisar ser migrado.

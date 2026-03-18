@@ -7,7 +7,7 @@
 
 O Conselho Sombrio é o órgão legislativo e administrativo do [[_wiki/imperio_sombrio\|império]]. Não governa — administra a vontade do monarca. [[_wiki/arothistar\|Arothistar]] não dissolveu o Conselho após tomar o poder; transformou-o em instrumento da sua vontade. A maioria da elite escolheu sobrevivência por meio da submissão. Os que resistiram foram eliminados em julgamentos sumários que o próprio [[_wiki/arothistar\|Arothistar]] presidia.
 
-Na prática, o Conselho opera como câmara consultiva com poder de execução: debate crises, aloca recursos, supervisiona braços do estado ([[_wiki/justiciars\|Justiciars]], generais, lordes provinciais), mas suas decisões podem ser revogadas pelo [[_wiki/verbum_arkhon\|Verbum Arkhon]] a qualquer momento. É subordinado a [[_wiki/arothistar\|Arothistar]], mas supervisiona todos os demais.
+Na prática, o Conselho opera como câmara consultiva com poder de execução: debate crises, aloca recursos, supervisiona braços do estado ([[_wiki/justiciars\|Justiciars]], generais, lordes provinciais), mas suas decisões podem ser revogadas pelo [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] a qualquer momento. É subordinado a [[_wiki/arothistar\|Arothistar]], mas supervisiona todos os demais.
 
 ### Composição e Dinâmica
 
@@ -67,7 +67,7 @@ Conselheiros comunicam-se com agentes remotos via [[_wiki/oculus_morvgradi\|Ocul
 
 A execução de [[_wiki/arothistar\|Arothistar]] criou vácuo sem precedente. O Conselho foi projetado como instrumento de um monarca — sem monarca, quem comanda? Três forças disputam o espaço:
 
-**[[_wiki/templarios\|Templários]] (via [[_wiki/ordo_zathar\|Ordo Zathar]]):** [[_wiki/ulrik_morzenn\|Ulrik]] na cadeira maior; [[_wiki/jaakurs\|Jaakurs]] como conselheiro influente. Buscam subordinar o Conselho ao clero e à [[_wiki/lex_obscura\|Lex Obscura]] de [[_wiki/xarn\|Xarn]]. Posição fortalecida pela morte de [[_wiki/eliakim\|Eliakim]].
+**[[_wiki/templarios\|Templários]] (via [[_wiki/ordo_zathar\|Ordo Zathar]]):** [[_wiki/ulrik_morzenn\|Ulrik]] na cadeira maior; [[_wiki/jaakurs\|Jaakurs]] como conselheiro influente. Buscam subordinar o Conselho ao clero e à [[_wiki/lex_obscura_decreto\|Lex Obscura]] de [[_wiki/xarn\|Xarn]]. Posição fortalecida pela morte de [[_wiki/eliakim\|Eliakim]].
 
 **Burocracia imperial (via [[_wiki/vyrensen\|Vyrensen]]):** A [[_wiki/coletoria\|Coletoria]] e sua rede de espionagem operam independentemente de facções religiosas. [[_wiki/vyrensen\|Vyrensen]] defende que "tudo muda conforme a palavra do monarca" — pragmatismo que se adapta a quem quer que ocupe o trono. No Epílogo, omite o título "Justiciar" ao dirigir-se a [[_wiki/orum-rahru\|Orum]], sinalizando que a ordem antiga perdeu peso.
 

@@ -11,7 +11,7 @@
 
 O terceiro volume do [[_wiki/codex_somniorum\|Codex Somniorum]]. Cataloga cada feitiço conhecido, organizado pelas trinta [[_wiki/Sistema de Magia\|escolas de magia]] e suas cinco cores. Contém também os registros alquímicos e as fórmulas de transmutação que o Império considera legais — e as que não considera.
 
-A [[_wiki/tabula_umbrae\|Tabula Umbrae]] é o volume mais extenso e o mais perigoso. Possui mais de duzentas entradas, cada uma descrevendo invocações cujo custo é medido no corpo do conjurador. Consultar sem autorização é crime. Replicar sem supervisão, pena de morte.
+A [[_wiki/tabula_umbrae_codex\|Tabula Umbrae]] é o volume mais extenso e o mais perigoso. Possui mais de duzentas entradas, cada uma descrevendo invocações cujo custo é medido no corpo do conjurador. Consultar sem autorização é crime. Replicar sem supervisão, pena de morte.
 
 ---
 

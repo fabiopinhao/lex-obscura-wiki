@@ -9,14 +9,14 @@ O termo "Ordo Zathar" deriva de [[_wiki/xarn_zareth\|Xarn'Zareth]], a eparquia l
 
 **Autoidentificação:** "Nós somos a mão invisível."
 
-**Propósito declarado (interno):** Restaurar controle templário sobre o [[_wiki/imperio_sombrio\|Império]], substituindo monarquia centralizada por teocracia baseada na [[_wiki/lex_obscura\|Lex Obscura]].
+**Propósito declarado (interno):** Restaurar controle templário sobre o [[_wiki/imperio_sombrio\|Império]], substituindo monarquia centralizada por teocracia baseada na [[_wiki/lex_obscura_decreto\|Lex Obscura]].
 
 ### Natureza Ideológica
 
 **CRÃTICO:** O Ordo Zathar NÃO é facção libertadora. São tão malignos quanto [[_wiki/arothistar\|Arothistar]] — buscam substituir um sistema de controle tirânico por outro igualmente opressivo. Defendem a lei contra o homem, mas não defendem liberdade — apenas outro modo de dominação institucional.
 
 **Filosofia operacional:**
-- [[_wiki/lex_obscura\|Lex Obscura]] (lei de [[_wiki/xarn\|Xarn]]) como fundamento supremo
+- [[_wiki/lex_obscura_decreto\|Lex Obscura]] (lei de [[_wiki/xarn\|Xarn]]) como fundamento supremo
 - Templos como estrutura de poder central
 - [[_wiki/conselho_sombrio\|Conselho Sombrio]] subordinado ao clero
 - [[_wiki/justiciars\|Justiciars]] preservados como braço executor (sob controle templário)
@@ -36,7 +36,7 @@ O termo "Ordo Zathar" deriva de [[_wiki/xarn_zareth\|Xarn'Zareth]], a eparquia l
 
 **Estrutura de negação plausível:**
 
-[[_wiki/xarn_zareth\|Xarn'Zareth]] é o fundador do [[_wiki/culto_sombrio\|Culto Sombrio]] e arquiteto da [[_wiki/lex_obscura\|Lex Obscura]]. O sucesso do Ordo (restauração templária, queda da monarquia) serve diretamente aos seus interesses. PORÉM:
+[[_wiki/xarn_zareth\|Xarn'Zareth]] é o fundador do [[_wiki/culto_sombrio\|Culto Sombrio]] e arquiteto da [[_wiki/lex_obscura_decreto\|Lex Obscura]]. O sucesso do Ordo (restauração templária, queda da monarquia) serve diretamente aos seus interesses. PORÉM:
 
 1. **[[_wiki/jaakurs\|Jaakurs]] e [[_wiki/nyx_ara\|Nyx'Ara]] EXCLUEM [[_wiki/xarn\|Xarn]] das operações ativas**
 2. Se conspiração for descoberta, [[_wiki/xarn\|Xarn]] permanece "limpo"
@@ -70,7 +70,7 @@ Esta camada de segurança operacional protege o fundador do Culto enquanto permi
 
 **Médio prazo:** [[_wiki/queda_de_arothistar\|Queda de Arothistar]] (preferencialmente por contradições internas do sistema)
 
-**Longo prazo:** Estabelecimento de teocracia templária com [[_wiki/lex_obscura\|Lex Obscura]] como constituição suprema; [[_wiki/conselho_sombrio\|Conselho Sombrio]] subordinado aos Arcontes do Culto; possível divinização completa de [[_wiki/xarn\|Xarn]]
+**Longo prazo:** Estabelecimento de teocracia templária com [[_wiki/lex_obscura_decreto\|Lex Obscura]] como constituição suprema; [[_wiki/conselho_sombrio\|Conselho Sombrio]] subordinado aos Arcontes do Culto; possível divinização completa de [[_wiki/xarn\|Xarn]]
 
 ### Tensões e Conflitos
 

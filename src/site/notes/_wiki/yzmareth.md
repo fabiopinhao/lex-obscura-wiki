@@ -5,11 +5,11 @@
 
 ### Perfil
 
-[[_wiki/draconideo\|Draconídeo]] ([[_wiki/sauriano\|sauriano]]) imponente. Escamas vermelhas escuras. Usuário de magia vermelha dracônica. Porta lança com rubi grande na extremidade oposta à lâmina. [[_wiki/cla_myr_vethan\|Clã Myr'vethan]] de [[_wiki/veinkard\|Veinkard]]/[[locais/varnak\|Varnak]]. Único de sua espécie permitido a sobrevoar [[_wiki/dorsal\|a Dorsal]]. Localização: [[_wiki/veinkard\|Veinkard]]/[[locais/varnak\|Varnak]]. Status: vivo.
+[[_wiki/draconideo\|Draconídeo]] ([[_wiki/sauriano\|sauriano]]) imponente. Escamas vermelhas escuras. Usuário de magia vermelha dracônica. Porta lança com rubi grande na extremidade oposta à lâmina. [[_wiki/cla_myr_vethan\|Clã Myr'vethan]] de [[_wiki/veinkard\|Veinkard]]/[[_wiki/varnak\|Varnak]]. Único de sua espécie permitido a sobrevoar [[_wiki/dorsal\|a Dorsal]]. Localização: [[_wiki/veinkard\|Veinkard]]/[[_wiki/varnak\|Varnak]]. Status: vivo.
 
 ### Papel Narrativo
 
-Veio a [[_wiki/reinkard\|Reinkard]] buscando a [[_wiki/fendris\|Fendris]] (adaga [[_wiki/luminar\|Luminar]] de [[_wiki/thandruk_varn\|Thandruk Varn]]). Tem acordo secreto com [[_wiki/arothistar\|Arothistar]]: carregamentos para as montanhas em troca de apoio para unificar [[locais/varnak\|Varnak]]. A aliança só será oficial se drakhonins vencerem. Perdeu a [[_wiki/fendris\|Fendris]] para [[_wiki/nidzina_avaroth\|Nidzina]]. [[_wiki/arothistar\|Arothistar]] o culpa pelo [[eventos/desaparecimento_de_draven-thol\|desaparecimento de Draven-Thol]]. [[_wiki/thrax\|Thrax]] capturado como garantia de seu comportamento. Precisa destruir [[_wiki/varna\|Varna]] para unificar [[locais/varnak\|Varnak]].
+Veio a [[_wiki/reinkard\|Reinkard]] buscando a [[_wiki/fendris\|Fendris]] (adaga [[_wiki/luminar\|Luminar]] de [[_wiki/thandruk_varn\|Thandruk Varn]]). Tem acordo secreto com [[_wiki/arothistar\|Arothistar]]: carregamentos para as montanhas em troca de apoio para unificar [[_wiki/varnak\|Varnak]]. A aliança só será oficial se drakhonins vencerem. Perdeu a [[_wiki/fendris\|Fendris]] para [[_wiki/nidzina_avaroth\|Nidzina]]. [[_wiki/arothistar\|Arothistar]] o culpa pelo [[_wiki/desaparecimento_de_draven-thol\|desaparecimento de Draven-Thol]]. [[_wiki/thrax\|Thrax]] capturado como garantia de seu comportamento. Precisa destruir [[_wiki/varna\|Varna]] para unificar [[_wiki/varnak\|Varnak]].
 
 ### Padrões de Voz
 

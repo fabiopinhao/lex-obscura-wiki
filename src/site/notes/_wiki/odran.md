@@ -9,7 +9,7 @@
 
 ### Papel Narrativo
 
-Cuida da biblioteca e dos "hóspedes involuntários" (prisioneiros). Décadas de experiência como "administrador civilizado." Intelectual: lê crônicas varnakianas, relatos de campanhas, diários de mercadores. Tentou romper [[_wiki/grilhoes_de_contencao_arcana\|grilhões de contenção arcana]] "por curiosidade empírica." Filosofa sobre a natureza do [[_wiki/verbum_arkhon\|Verbum Arkhon]]. Leva refeição a [[_wiki/thrax\|Thrax]] com cautela meticulosa. Explica o mecanismo arcano dos grilhões. Defende o Verbum: "O Senhor jamais recua sua palavra. É a inflexibilidade que serve de alicerce ao [[_wiki/imperio_sombrio\|Império]]." Recebeu ordem de estudar solução para incompatibilidade da bênção de [[_wiki/auren\|Auren]]. Aplica correntes de contenção em [[_wiki/thrax\|Thrax]].
+Cuida da biblioteca e dos "hóspedes involuntários" (prisioneiros). Décadas de experiência como "administrador civilizado." Intelectual: lê crônicas varnakianas, relatos de campanhas, diários de mercadores. Tentou romper [[_wiki/grilhoes_de_contencao_arcana\|grilhões de contenção arcana]] "por curiosidade empírica." Filosofa sobre a natureza do [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]]. Leva refeição a [[_wiki/thrax\|Thrax]] com cautela meticulosa. Explica o mecanismo arcano dos grilhões. Defende o Verbum: "O Senhor jamais recua sua palavra. É a inflexibilidade que serve de alicerce ao [[_wiki/imperio_sombrio\|Império]]." Recebeu ordem de estudar solução para incompatibilidade da bênção de [[_wiki/auren\|Auren]]. Aplica correntes de contenção em [[_wiki/thrax\|Thrax]].
 
 ### Padrões de Voz
 

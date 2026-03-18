@@ -15,7 +15,7 @@ Na [[_referencias/primeira_era\|Primeira Era]], foram os primeiros elfos a assim
 
 ### Relação com o [[_wiki/imperio_sombrio\|Império]]
 
-Após as Guerras Reinkárdicas, [[_wiki/elenir\|Elenir]] foi conquistada. Nexus arcanos elarinos foram parcialmente incorporados à infraestrutura imperial. Na [[_wiki/lex_obscura\|Lex Obscura]], elarinos sobrevivem em condições variáveis: alguns como prisioneiros de valor (caso de [[_wiki/iluvrae\|Ilúvrae]] em [[_wiki/mor_severith\|Mor'Severith]]), outros como exilados dispersos. Recentemente, nexus elarinos na [[_wiki/elenir\|Fortaleza de Cristal]] foram "silenciados de dentro para fora", o que [[_wiki/quaz_har\|Quaz'har]] associa a "magia azul" e "comportamento caótico de elarinos". A natureza dessa sabotagem é desconhecida, mas [[_wiki/arothistar\|Arothistar]] a considerou grave o suficiente para enviar [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]] investigar.
+Após as Guerras Reinkárdicas, [[_wiki/elenir\|Elenir]] foi conquistada. Nexus arcanos elarinos foram parcialmente incorporados à infraestrutura imperial. Na [[_wiki/lex_obscura_decreto\|Lex Obscura]], elarinos sobrevivem em condições variáveis: alguns como prisioneiros de valor (caso de [[_wiki/iluvrae\|Ilúvrae]] em [[_wiki/mor_severith\|Mor'Severith]]), outros como exilados dispersos. Recentemente, nexus elarinos na [[_wiki/elenir\|Fortaleza de Cristal]] foram "silenciados de dentro para fora", o que [[_wiki/quaz_har\|Quaz'har]] associa a "magia azul" e "comportamento caótico de elarinos". A natureza dessa sabotagem é desconhecida, mas [[_wiki/arothistar\|Arothistar]] a considerou grave o suficiente para enviar [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]] investigar.
 
 ### Personagens Notáveis
 
