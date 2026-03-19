@@ -9,10 +9,6 @@
 
 Agora trabalha para [[_wiki/vyrensen\|Vyrensen]] — carrega [[_wiki/caco_de_oculus\|caco de Oculus]] como rastreador com "maldição-garantia." Dívidas com a [[_wiki/guilda_dos_gnomos\|Guilda dos Gnomos]]. Memória da coleira falsa ainda o assombra.
 
-### Arco do Livro I
-
-Guiou [[_wiki/orum-rahru\|Orum]] até [[_wiki/qaelun\|Qaelun]]. Traiu [[_wiki/qaelun\|Qaelun]] incendiando suprimentos alquímicos. Responsável indiretamente pela morte de [[_wiki/skinitz\|Skinitz]] (via [[_wiki/korven\|Korven]] — ação que Skanivik testemunhou e nunca perdoou). Liberto ao fim. Fome constante. Na Coda, segue [[_wiki/korven\|Korven]] e testemunha [[_wiki/milorsevogh_velshard\|Milor]] entregando [[_wiki/maraxus\|Maraxus]] às masmorras.
-
 ### Padrões de Voz
 
 Filosofia pragmática de sobrevivência, com autoironia sobre a própria espécie.

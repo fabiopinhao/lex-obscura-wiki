@@ -13,10 +13,6 @@ Autor do tratado que revela função de [[_wiki/fendris\|Fendris]]: "A lâmina n
 
 Odiado por [[_wiki/thrax\|Thrax]] por duas razões: traição prática (falhou em proteger rotas após ser pago) e ameaça teórica (tratado deslegitima o mito fundador [[_wiki/draconico\|dracônico]] ao revelar que [[_wiki/fendris\|Fendris]] mata [[_wiki/draconideo\|draconídeos]] também, não só dragões).
 
-### Segredos / Agenda Oculta
-
-Fechou (tentou?) túneis oeste de [[_wiki/vor-ghol\|Vor-Ghol]]. Propósito real do tratado sobre [[_wiki/fendris\|Fendris]] não completamente revelado. Desaparecimento estratégico após receber pagamento.
-
 ### Padrões de Voz
 
 Presente via tratado e via ausência. O texto como voz — acadêmica, subversiva para os drakhonins.

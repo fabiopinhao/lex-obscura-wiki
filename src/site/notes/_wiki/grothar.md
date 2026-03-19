@@ -7,10 +7,6 @@
 
 [[_wiki/orc\|Orc]]. Capitão veterano da guarda de [[_wiki/milorsevogh_velshard\|Milor]]. Diferente dos [[_wiki/orc\|orcs]] comuns: mantém disciplina e inteligência. Conhece [[_wiki/grasnak\|Cantos de Grasnak]] e lê runas antigas. Perdeu olho em [[_wiki/ghargash\|Ghargash]]. Irmão [[_wiki/ghur\|Ghur]] morto em [[_wiki/lendalas\|Lendalas]] por raízes druídicas. Leal a [[_wiki/milorsevogh_velshard\|Milor]]. Status: vivo, retornando a [[_wiki/morvgrad\|Morvgrad]]. Localização: com [[_wiki/milorsevogh_velshard\|Milor]]. Pacto ativo: Thúrgash. Armas: armas [[_wiki/orc\|orcs]] tradicionais.
 
-### Arco do Livro I
-
-Ficou gravemente ferido em [[_wiki/niedellin\|Niedellin]], mas sobreviveu. Conteve [[_wiki/mur\|Mur]] quando este ficou obcecado com o [[_wiki/oculus_morvgradi\|Oculus]] ("Pedra bonita... viva!"). Colaborou com [[_wiki/syndrith_morghast\|Syndrith]] como informante entre [[_wiki/orc\|orcs]] locais — relutante por orgulho, mas aceitou. No frenesi berserker em batalha: "RAAAAAHHH GRUMSHT!" Endossou [[_wiki/milorsevogh_velshard\|Milor]] ao fim: "Este sabe o que diz. E faz o que sabe." Promete ajudar a caçar [[_wiki/vozrador\|Vozrador]].
-
 ### Padrões de Voz
 
 Direto e brutal, com veia irônica inesperada. Desdém calibrado — mais inteligente que parece, menos expansivo que [[_wiki/mur\|Mur]].

@@ -9,10 +9,6 @@
 
 Filosofia: "Rato bom volta vivo. Rato morto não compra." [[_wiki/gnoll\|Gnoll]] sem covil = "carcaça que esqueceu de cair."
 
-### Arco do Livro I
-
-Farejou proximidade da antiga toca durante missão em [[_wiki/vor-ghol\|Vor-Ghol]] — "cheiro de carne." Identificou [[_wiki/murano\|muranos]] possuídos: "Morta. Mas de pé." Incendiou teias com [[_wiki/murano\|muranos]] presos: "Garrón precisa de mais fogo." Avançou PEGANDO FOGO reconhecendo a magia que o expulsou da toca. Acertou crânio de [[_wiki/shadar\|shadar]]: "Garrón não quis... Mentira! Garrón quis sim!" Arrancouu virote, lambeu sangue, arremessou de volta: "GARRÓN RETRIBUI!"
-
 ### Padrões de Voz
 
 Terceira pessoa do singular para si mesmo. Entusiasmo bruto e direto. A violência é prazer declarado, não vergonha disfarçada.

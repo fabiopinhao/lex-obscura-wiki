@@ -11,14 +11,6 @@
 
 Especializada em [[_wiki/spectro\|Spectro]] (atravessar matéria). Infiltração e exploração noturna de alto nível. Recrutamento de inteligência de campo (abordou [[_wiki/grothar\|Grothar]] com sucesso). Lê o ambiente antes de agir — raramente improvisa.
 
-### Identidade Secreta
-
-Agente de campo do [[_wiki/ordo_zathar\|Ordo Zathar]]; enviada por [[_wiki/jaakurs\|Jaakurs]] para supervisionar [[_wiki/milorsevogh_velshard\|Milor]] representa dupla operação: tarefa oficial via selo púrpura E vigilância templária via Ordo. A ironia do selo púrpura (marca de [[_wiki/arothistar\|Arothistar]]) usada para missão que visa eventual queda do próprio monarca. Dupla lealdade documentada (flags: Dupla_Lealdade, Ordo_Zathar_Agente).
-
-### Arco do Livro I
-
-Aparece no Cap. 3.2 durante emboscada sylvana — [[_wiki/grothar\|Grothar]] a encontra observando. Porta selo púrpura: ordens de [[_wiki/arothistar\|Arothistar]] sobrepõem jurisdição de [[_wiki/milorsevogh_velshard\|Milor]]. Exploração noturna de [[_wiki/niedellin\|Niedellin]]. Recruta [[_wiki/grothar\|Grothar]] como informante entre [[_wiki/orc\|orcs]] locais. Infiltra residência de [[_wiki/merari_d_khunvel\|Merari]]. Lê orações de [[_wiki/abramis\|Abramis]] com sarcasmo. Episódio de [[_wiki/shaezrith\|Shaezrith]] (companheira morta). Retorna com [[_wiki/milorsevogh_velshard\|Milor]] a [[_wiki/morvgrad\|Morvgrad]].
-
 ### Padrões de Voz
 
 Polidez falsa e ameaçadora — o sarcasmo como cortesia invertida. Raramente insulta diretamente; prefere o elogio que degrada.

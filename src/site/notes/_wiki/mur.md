@@ -9,10 +9,6 @@
 
 Possui impulso obsessivo em relação a elfos, especialmente [[_wiki/sylvano\|sylvanos]]: mistura de ódio racial profundo e vontade de humilhar/violentar que se manifesta como fixação sexualizada e violenta. Este traço o distingue entre os [[_wiki/orc\|orcs]] da guarda de [[_wiki/milorsevogh_velshard\|Milor]] e representa fragilidade tática explorável — sua obsessão pode comprometer disciplina em situações envolvendo prisioneiros élficos. Comportamento tolerado mas monitorado por [[_wiki/grothar\|Grothar]].
 
-### Arco do Livro I
-
-Ficou obcecado com o [[_wiki/oculus_morvgradi\|Oculus]] durante investigação: "Pedra bonita... viva! Ela respira!" — [[_wiki/grothar\|Grothar]] precisou contê-lo. Levado por [[_wiki/grothar\|Grothar]] para mostrar coleção de pedras a [[_wiki/levi\|Levi]] e [[_wiki/berenice\|Berenice]] (saída tática para tirá-lo de cena sensível).
-
 ### Padrões de Voz
 
 Literal, entusiasmado, mais falante que [[_wiki/grub\|Grub]]. A filosofia atrapalhada emerge como comentários diretos sobre situações complexas que ele simplifica instintivamente.

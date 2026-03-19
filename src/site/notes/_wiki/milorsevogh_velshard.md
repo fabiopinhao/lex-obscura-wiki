@@ -11,14 +11,6 @@ Justiciar recém-ungido, veterano das Guerras Reinkárdicas (campanhas de [[_wik
 
 Especializado em [[_wiki/anatho\|Anatho]] (maldições). Carrega marca sombria no pulso de magias proibidas em [[_wiki/khargoth\|Khargoth]] — a marca "dorme" por enquanto. Domina sistema de magia [[_wiki/teru\|Teru]] (independente de pactos divinos), desenvolvido por [[_wiki/naiu_wula\|Naiu'Wula]]. Pactos ativos: [[_wiki/morlgrund\|Morlgrund]]; [[_wiki/vozrador\|Vozrador]] (estabelecido no Livro I após aceitação em [[_wiki/elenir\|Elenir]]).
 
-### Identidade Secreta
-
-**"Tenente Velshard"** — foi espião em [[_wiki/myrgarde\|Myrgarde]] antes da rendição ("O Caso Velshard"). Creditado por alguns como arquiteto da estratégia que viabilizou a queda de [[_wiki/myrgarde\|Myrgarde]], cuja inteligência de campo teria chegado diretamente a [[_wiki/arothistar\|Arothistar]] — embora nunca tenha recebido promoção ou reconhecimento formal por isso, o que contraria a cultura [[_wiki/shadar\|shadar]] de recompensa por mérito militar. A reputação resultante simultaneamente o incrimina e o torna útil para certas missões. O próprio Velshard nunca confirma nem nega as versões que circulam sobre ele, o que amplifica a mística. [[_wiki/arothistar\|Arothistar]] o chama de "meu prodígio" — conexão direta com o monarca revelada no Cap. 13.
-
-### Arco do Livro I
-
-Ungido no Prólogo. Pronuncia "Eu aceito o fardo" e em seguida o mantra dos [[_wiki/justiciars\|Justiciars]]: "A glória não move minha mão — a ordem exige sangue." Designado para investigar [[_wiki/niedellin\|Niedellin]]. Investigação de [[_wiki/merari_d_khunvel\|Merari]] e [[_wiki/maraxus\|Maraxus]]. Faz juramento a [[_wiki/morlgrund\|Morlgrund]] na floresta de [[_wiki/thal_serin\|Thal'Serin]] para caçar [[_wiki/vozrador\|Vozrador]] ("caçar" = encontrar e libertar). Nome completo revelado por [[_wiki/peredur\|Peredur]]. Investiga [[_wiki/templo_de_velmorain\|templo de Velmorain]] e torre de [[_wiki/khargoth\|Khargoth]], descobre verdade sobre aprisionamento de [[_wiki/vozrador\|Vozrador]]. Primeiro contato com [[_wiki/xarn\|Xarn]], que o questiona sobre sua identidade. Derrota [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]] em [[_wiki/elenir\|Elenir]]. Quase morto por [[_wiki/orc\|orcs]] de [[_wiki/vekraal\|Vekraal]]; aceita pacto com [[_wiki/vozrador\|Vozrador]] para sobreviver. Derrota [[_wiki/vekraal\|Vekraal]]. Executa [[_wiki/arothistar\|Arothistar]] em [[_wiki/mor_severith\|Mor'Severith]]. Na Coda, entrega [[_wiki/maraxus\|Maraxus]] às masmorras de [[_wiki/ghol_drokh\|Ghol'Drokh]] disfarçado como carrasco. Reconhecido pelo [[_wiki/coveiro-mor\|Coveiro-mor]], que o conheceu em [[_wiki/myrgarde\|Myrgarde]] como "Tenente Velshard."
-
 ### Padrões de Voz
 
 Tom cirúrgico, econômico, nunca ansioso. Prefere a pergunta à declaração, o silêncio ao discurso. Quando fala é para cortar.
@@ -37,14 +29,10 @@ Vocabulário: escolhe termos precisos sobre imagens. Nunca pede desculpas. Jamai
 
 **[[_wiki/orum-rahru\|Orum-Rahru]] (mentor):** Relação de respeito tenso. [[_wiki/orum-rahru\|Orum]] passou o bastão do entendimento a Milor — mas os dois divergem sobre o destino do [[_wiki/imperio_sombrio\|Império]]. Milor o reconhece como o "último dos primeiros" sem romantizar o passado que [[_wiki/orum-rahru\|Orum]] defende. No Epílogo, [[_wiki/orum-rahru\|Orum]] o reencontra disfarçado e não denuncia.
 
-**[[_wiki/vekraal\|Vekraal]] (rival):** Tensão desde as Guerras Reinkárdicas. [[_wiki/vekraal\|Vekraal]] suspeita que Milor criou laços com pindoriares — ameaça à lealdade de Milor. Milor desejava secretamente sua morte. Confronto direto em [[_wiki/elenir\|Elenir]]: Milor quase morto, aceita pacto com [[_wiki/vozrador\|Vozrador]] e derrota o general. Confronto final adiado para Livro III.
+**[[_wiki/vekraal\|Vekraal]] (rival):** Tensão desde as Guerras Reinkárdicas. [[_wiki/vekraal\|Vekraal]] suspeita que Milor criou laços com pindoriares — ameaça à lealdade de Milor. Milor desejava secretamente sua morte. Confronto direto em [[_wiki/elenir\|Elenir]]: Milor quase morto, aceita pacto com [[_wiki/vozrador\|Vozrador]] e derrota o general.
 
 **[[_wiki/grothar\|Grothar]] (aliado):** Leal irrestrito. [[_wiki/grothar\|Grothar]] endossou Milor com a palavra que importa entre [[_wiki/orc\|orcs]]: "Este sabe o que diz. E faz o que sabe." Relação de confiança conquistada, não assumida.
 
 **[[_wiki/arothistar\|Arothistar]] (autoridade / alvo):** [[_wiki/arothistar\|Arothistar]] chama Milor de "meu prodígio" — o monarca o conhece pelo nome e o designou para [[_wiki/thal_serin\|Thal'Serin]] antes do fim do Livro I. Milor executa [[_wiki/arothistar\|Arothistar]]. Conexão mais complexa do livro: o instrumento do amo que destrói o amo.
 
-**[[_wiki/vozrador\|Vozrador]] (pacto):** Pacto aceito como recurso de sobrevivência em [[_wiki/elenir\|Elenir]]. Maldição residual: queima ao tocar solo sagrado alabastrino. Na Segunda Trilogia, carrega o pacto como Decano.
-
-### Segunda Trilogia (Setup)
-
-Torna-se Decano — Justiciar mais velho. Carrega pacto com [[_wiki/vozrador\|Vozrador]] com maldição do solo alabastrino (queima ao tocar solo sagrado dos [[_wiki/anjos\|deuses brancos]]). Posição de autoridade máxima entre os [[_wiki/justiciars\|Justiciars]] herdada de [[_wiki/orum-rahru\|Orum]].
+**[[_wiki/vozrador\|Vozrador]] (pacto):** Pacto aceito como recurso de sobrevivência em [[_wiki/elenir\|Elenir]]. Maldição residual: queima ao tocar solo sagrado alabastrino.

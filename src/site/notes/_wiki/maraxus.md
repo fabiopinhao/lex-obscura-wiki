@@ -7,10 +7,6 @@
 
 [[_wiki/pindoriar\|Pindoriar]]. Chefe da guarda de [[_wiki/niedellin\|Niedellin]] (posição irregular para um [[_wiki/pindoriar\|pindoriar]]). Pele bronzeada, lâmina curva. Cúmplice de [[_wiki/merari_d_khunvel\|Merari]]. Pactuado com [[_wiki/hazburim\|Hazburim]] sem autorização de [[_wiki/arothistar\|Arothistar]]. Arquitetou massacre em [[_wiki/thal_serin\|Thal'Serin]] para acordar [[_wiki/vozrador\|Vozrador]]. Status: aprisionado em [[_wiki/ghol_drokh\|Ghol'Drokh]] (masmorras). Localização: [[_wiki/ghol_drokh\|Ghol'Drokh]].
 
-### Arco do Livro I
-
-Sabia antecipadamente da chegada de [[_wiki/milorsevogh_velshard\|Milor]] — informação não deveria ter precedido a comitiva. Controlava fluxo de informação para [[_wiki/merari_d_khunvel\|Merari]]: reteve notícia da chegada, operava com autonomia crescente. Eliminara tenente [[_wiki/shadar\|shadar]] responsável pelos [[_wiki/orc\|orcs]]. Ameaçava [[_wiki/koliah\|Koliah]] com [[_wiki/talin\|Talin]] ("[[_wiki/talin\|Talin]] paga se ela falar"). Capacete de gladiador escondia transformação demoníaca. Derrubado por flecha élfica de [[_wiki/gaelwyn\|Gaelwyn]]. Recebeu Sigilo de [[_wiki/abbhal\|Abbhal]] (aprisionamento eterno). Entregue às masmorras por [[_wiki/milorsevogh_velshard\|Milor]] disfarçado de carrasco.
-
 ### Padrões de Voz
 
 Intimidação calibrada — ameaça com olhares antes de palavras. Voz de quem está acostumado a ser obedecido sem autoridade formal.

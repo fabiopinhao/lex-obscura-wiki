@@ -7,10 +7,6 @@
 
 Humana. Filha do [[_wiki/abramis\|padre Abramis]]. Líder influente entre rebeldes de [[_wiki/niedellin\|Niedellin]]. Amante de [[_wiki/gaelwyn\|Gaelwyn]]. Sofreu trauma nas mãos de [[_wiki/maraxus\|Maraxus]] quando jovem. Estrategista astuta navegando entre mentiras e verdades parciais. Localização atual: [[_wiki/niedellin\|Niedellin]]. Status: viva. Escolheu [[_wiki/levi\|Levi]] como aprendiz.
 
-### Arco do Livro I
-
-Liderou rebeldes. Enviou [[_wiki/calel\|Calel]] com mensagem: "As trevas vestem cetro e osso." Organizou reunião de avaliação de ameaça. Intui que [[_wiki/milorsevogh_velshard\|Milor]] "não é como os demais." Dívida implícita quando [[_wiki/milorsevogh_velshard\|Milor]] intervém para tirá-la de [[_wiki/maraxus\|Maraxus]]. Capturou [[_wiki/eralmir_vess\|Eralmir]] durante batalha final. Questiona [[_wiki/milorsevogh_velshard\|Milor]] sobre sua relação com [[_wiki/vozrador\|Vozrador]]. Escolheu [[_wiki/levi\|Levi]] como aprendiz.
-
 ### Padrões de Voz
 
 Estrategista que fala para agir, não para impressionar. Direta quando necessário; evasiva quando útil.

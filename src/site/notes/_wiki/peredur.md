@@ -19,6 +19,6 @@ Descrito como portador de "grande sabedoria" — sem falas diretas documentadas 
 
 **[[_wiki/milorsevogh_velshard\|Milorsevogh]] (revelaçao do nome / ponto de contato):** Peredur revelou o nome completo de [[_wiki/milorsevogh_velshard\|Milor]]. [[_wiki/arothistar\|Arothistar]] o designa como canal de comunicação com os [[_wiki/titas\|titãs]] via [[_wiki/milorsevogh_velshard\|Milor]].
 
-**[[_wiki/iluvrae\|Ilúvrae]] (mencionada por):** [[_wiki/iluvrae\|Ilúvrae]] o citou como fonte de conhecimento sobre [[_wiki/titas\|titãs]] — conexão que [[_wiki/arothistar\|Arothistar]] vai explorar no Livro II.
+**[[_wiki/iluvrae\|Ilúvrae]] (mencionada por):** [[_wiki/iluvrae\|Ilúvrae]] o citou como fonte de conhecimento sobre [[_wiki/titas\|titãs]] — conexão que [[_wiki/arothistar\|Arothistar]] identifica como estratégica.
 
 **[[_wiki/gaelwyn\|Gaelwyn]] / Resistência (contexto):** Opera na mesma floresta. [[_wiki/gaelwyn\|Gaelwyn]] é o melhor ranger de [[_wiki/thal_serin\|Thal'Serin]]; Peredur é seu referencial de sabedoria ancestral.

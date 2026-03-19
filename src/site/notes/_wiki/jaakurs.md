@@ -11,10 +11,6 @@
 
 Líder da eparquia de [[_wiki/xarn_zareth\|Xarn'Zareth]]. Líder operacional do [[_wiki/ordo_zathar\|Ordo Zathar]] — facção secreta dentro do Culto que busca restaurar controle templário sobre o [[_wiki/imperio_sombrio\|Império]]. Opera em conjunto com [[_wiki/nyx_ara\|Nyx'Ara]] na arquitetura estratégica da conspiração. Enviou [[_wiki/syndrith_morghast\|Syndrith]] para supervisionar [[_wiki/milorsevogh_velshard\|Milor]] em [[_wiki/niedellin\|Niedellin]]. Exclui [[_wiki/xarn\|Xarn]] das operações para protegê-lo por negação plausível — [[_wiki/xarn\|Xarn]] sabe que Jaakurs conspira, mas Jaakurs não sabe que [[_wiki/xarn\|Xarn]] sabe. Apoia designação de [[_wiki/orum-rahru\|Orum]] para [[_wiki/elenir\|Elenir]] (sugere que leve "os olhos de [[_wiki/morvgrad\|Morvgrad]]"). Contratou [[_wiki/skanivik\|Skanivik]].
 
-### Segredos / Agenda Oculta
-
-Líder operacional do [[_wiki/ordo_zathar\|Ordo Zathar]]. Conspira para restaurar controle templário sobre o [[_wiki/imperio_sombrio\|Império]]. Age com [[_wiki/nyx_ara\|Nyx'Ara]] como co-arquiteta estratégica. Exclui [[_wiki/xarn\|Xarn]] por negação plausível — camada de isolamento entre o fundador e as ações do Ordo. Assimetria de conhecimento crítica: [[_wiki/xarn\|Xarn]] sabe da conspiração; Jaakurs não sabe que [[_wiki/xarn\|Xarn]] sabe.
-
 ### Padrões de Voz
 
 Tom cerimonialista — vocabulário ritual mesmo em conversas políticas. O poder manifesta-se como protocolo.

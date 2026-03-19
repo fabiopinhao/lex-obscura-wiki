@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[_wiki/alvarar\|Álvarar]] (paladino superior). Título: Lâmina Dourada. Olhos dourados. Armadura dourada. Deus patrono: [[_wiki/azazel\|Azazel]] (presumido). Afiliação: [[_wiki/ordem_de_azazel\|Ordem de Azazel]]. Localização: [[_wiki/myrgarde\|Myrgarde]]. Status: vivo (executado no Prólogo do Livro II).
+[[_wiki/alvarar\|Álvarar]] (paladino superior). Título: Lâmina Dourada. Olhos dourados. Armadura dourada. Deus patrono: [[_wiki/azazel\|Azazel]] (presumido). Afiliação: [[_wiki/ordem_de_azazel\|Ordem de Azazel]]. Localização: [[_wiki/myrgarde\|Myrgarde]]. Status: vivo.
 
 ### Papel Narrativo
 

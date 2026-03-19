@@ -25,10 +25,6 @@ A escolha de convocar [[_wiki/orum-rahru\|Orum]] e não [[_wiki/vekraal\|Vekraal
 
 A cena opera em três camadas simultâneas: julgamento formal ([[_wiki/alianca_subterranea\|Aliança Subterrânea]] reafirmada), debate filosófico (Codex escrito versus lei vivida) e avaliação predatória (Quavarra medindo [[_wiki/orum-rahru\|Orum]] como potencial aliado ou ameaça). Quando [[_wiki/orum-rahru\|Orum]] executa [[_wiki/kaedhras\|Kaedhras]] e limpa a lâmina, o sinal de respeito à matriarca reconhece as três camadas de uma vez.
 
-### Destino Futuro
-
-No Livro II, Quavarra é tida como morta no massacre das matriarcas ordenado por [[_wiki/arothistar\|Arothistar]] — mas na verdade foi levada como "hóspede" a [[_wiki/mor_severith\|Mor'Severith]]. A distinção entre prisioneira e hóspede é o tipo de eufemismo que o [[_wiki/imperio_sombrio\|império]] cultiva como doutrina. Enquanto outras matriarcas morrem ([[_wiki/belarbreza_srune\|Belarbreza Srune]], [[_wiki/nylothrae_duskryn\|Nylothrae Duskryn]], [[_wiki/zilvra_xund_ala\|Zilvra Xund'ala]], [[_wiki/sszaflyn_t_orghvyss\|Sszaflyn T'orghvyss]]) e uma sobrevive como fantoche ([[_wiki/voldriz_vrinn_dal\|Voldriz Vrinn'dal]] em [[_wiki/ghilanna\|Ghilanna]]), Quavarra é preservada — o que levanta a questão de por que [[_wiki/arothistar\|Arothistar]] a quer viva.
-
 ### Relações-Chave
 
 [[_wiki/orum-rahru\|Orum-Rahru]] (instrumento / medido): Convoca o Justiciar como executor, mas o verdadeiro objeto do julgamento é o próprio [[_wiki/orum-rahru\|Orum]]. A matriarca mede seu caráter sob o pretexto de exigir justiça.

@@ -19,7 +19,6 @@ Humano. Coveiro-mor do [[_wiki/jardim_dos_inocentes\|Jardim dos Inocentes]] em [
 
 **Significado narrativo:** Representa a memória viva da humanidade perdida de [[_wiki/arothistar\|Dravmir]], preservada em delírio perpétuo. Sua prisão eterna serve tanto como punição quanto como testemunho — guardião involuntário da verdade de que [[_wiki/arothistar\|Arothistar]], antes de ser monstro, foi criança capaz de bondade.
 
-*Conecta: Jogo de [[_wiki/korball\|Korball]] (5.1) → Delírios do Preâmbulo → Reconhecimento na Coda → Setup para Livro II*
 
 ### Padrões de Voz
 

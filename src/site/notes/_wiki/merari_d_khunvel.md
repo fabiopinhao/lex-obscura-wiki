@@ -11,10 +11,6 @@
 
 Manteve [[_wiki/niedellin\|Niedellin]] em prosperidade anômala sob [[_wiki/imperio_sombrio\|domínio sombrio]]. Tolerou a capela de [[_wiki/abramis\|Abramis]] como amortecedor social. Permitiu símbolos luminosos não destruídos. Leniência com três fatores: narrativa fabricada do Titã na floresta (por [[_wiki/maraxus\|Maraxus]] para mantê-lo dependente), filosofia de pindoriares rendendo mais sob rotina previsível, e orientação de [[_wiki/maraxus\|Maraxus]] para postura moderada — que era armadilha para acumular provas de fraqueza. Ordenou pessoalmente o assassinato de intendentes (Harik, Vossdrov, Torven) via [[_wiki/maraxus\|Maraxus]], mantendo apenas [[_wiki/eralmir_vess\|Eralmir Vess]] por utilidade. Não percebia que se tornara peça descartável — [[_wiki/maraxus\|Maraxus]] controlava o fluxo de informação e reteve a notícia da chegada de [[_wiki/milorsevogh_velshard\|Milor]].
 
-### Arco do Livro I
-
-Ausente quando comitiva de [[_wiki/milorsevogh_velshard\|Milor]] chegou. [[_wiki/oculus_morvgradi\|Oculus]] roubado, cartas para [[_wiki/morvgrad\|Morvgrad]] interceptadas. Confessa ter pacto com [[_wiki/vozrador\|Vozrador]]: "Fiz meu pacto com [[_wiki/vozrador\|Vozrador]]", "sempre fui o vaso." Não pode pisar solo consagrado. Invoca [[_wiki/veredictum_exkarthon\|Veredictum Exkarthon]] para forçar [[_wiki/milorsevogh_velshard\|Milor]] a investigar floresta. Cerca chapel com 24 [[_wiki/orc\|orcs]]. Amarrado durante batalha final. Aprisionado e enviado a [[_wiki/ghol_drokh\|Ghol'Drokh]].
-
 ### Padrões de Voz
 
 Tom burocrático disfarçado de raciocínio. Recorre a instrumentos legais quando perde controle direto.

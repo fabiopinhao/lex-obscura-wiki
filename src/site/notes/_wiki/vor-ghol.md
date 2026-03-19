@@ -5,8 +5,6 @@
 
 O Underdark. Lar ancestral dos [[_wiki/drul\|drul]], vasta rede de cavernas e cidades subterrâneas sob [[_wiki/reinkard\|Reinkard]]. Arquitetura de torres espirais de obsidiana, cogumelos gigantes, líquens bioluminescentes (limo-luz). Reino invertido onde luz é blasfêmia. Governado por Casas Matriarcais [[_wiki/drul\|drul]] em aliança com [[_wiki/shadar\|shadars]]; traição é virtude destilada no leite materno. Conectado a [[_wiki/morvgrad\|Morvgrad]] por poço vertical de mil braças. Etimologia: "vor" (muito) + "ghol" (profundezas). Berço geológico compartilhado por [[_wiki/orc\|orcs]] e [[_wiki/drul\|druls]]. Abriga [[_wiki/karashim\|karashim]], [[_wiki/murano\|muranos]], gnomos das profundezas. Instabilidade atual: [[_wiki/murano\|muranos]] fugindo de algo nas profundezas. [[_wiki/drul\|Druls]] se rebelam contra superfície durante crise do [[_wiki/imperio_sombrio\|império]]. Sujeito a marés subterrâneas que bloqueiam galerias.
 
-Final do Livro II: [[_wiki/arothistar\|Arothistar]] mata 5 das 6 matriarcas [[_wiki/drul\|druls]] durante reunião diplomática. Deixa a sexta como fantoche em [[_wiki/ghilanna\|Ghilanna]]. [[_wiki/nidzina_avaroth\|Nidzina]] testemunha.
-
 ### [[_wiki/xilaverth\|Xilaverth]]
 Cidadela [[_wiki/drul\|drul]] no oeste de Vor-Ghol, atualmente em relação hostil com [[_wiki/ghilanna\|Ghilanna]]. Alvo de operações diplomáticas secretas da [[_wiki/casa_duskryn\|Casa Duskryn]] — [[_wiki/nylothrae_duskryn\|Nylothrae]] busca comprar favores para garantir acesso a corredores estratégicos quando necessário. "[[_wiki/ghilanna\|Ghilanna]] não quer as cavernas do oeste. Rataria demais, terra ruim. Quer apenas que [[_wiki/xilaverth\|Xilaverth]] nos deva um passo quando o passo for necessário."
 

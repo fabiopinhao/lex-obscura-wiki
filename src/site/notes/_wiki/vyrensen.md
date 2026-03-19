@@ -11,10 +11,6 @@
 
 Propõe medidas extremas contra anões de [[_wiki/thandruk_varn\|Thandruk Varn]] (Cap. 2.1). Temido no mercado negro. Responsável pela [[_wiki/coletoria\|Coletoria]] e por relatórios sobre [[_wiki/elenir\|Fortaleza de Cristal]] — confirma cristais ativos mas "silenciados de dentro para fora; interferência deliberada detectada" (Cap. 13.7). Assumirá cadeira maior do Conselho no 6º [[_wiki/varnum\|Varnum]] após [[_wiki/ulrik_morzenn\|Ulrik Morzenn]] (Epílogo 14.1). Possui rede de espionagem além da jurisdição oficial da [[_wiki/coletoria\|Coletoria]]; demonstra conhecimento sobre operações de campo de [[_wiki/justiciars\|Justiciars]]. No Epílogo, confronta [[_wiki/orum-rahru\|Orum-Rahru]] defendendo mudança conforme palavra do monarca, omitindo título "Justiciar" como insulto simbólico. Insinua vazamento na Trama de comunicação. Demonstra conhecimento sobre [[_wiki/nidzina_avaroth\|Nidzina]] nas Montanhas do Oeste. Agora rastreia [[_wiki/skanivik\|Skanivik]] com [[_wiki/caco_de_oculus\|caco de Oculus]].
 
-### Segredos / Agenda Oculta
-
-Rede de espionagem que opera além da jurisdição oficial da [[_wiki/coletoria\|Coletoria]]: "[[_wiki/morvgrad\|Morvgrad]] tem muitos olhos, nem todos respondem às mesmas pálpebras." Conhecimento sobre operações que excede o que deveria saber. Papel ampliado justificou elevação de Terciário para Secundário no sistema de relevância.
-
 ### Padrões de Voz
 
 Polidez que carrega ameaça. Usa o protocolo como arma — omite título como insulto; inclui informação que não deveria ter como advertência.

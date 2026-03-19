@@ -21,10 +21,6 @@ Zilvra é a razão pela qual [[_wiki/milorsevogh_velshard\|Milor]] sobrevive pol
 
 A ophideia [[_wiki/xilvenneth\|Xilvenneth]], que estava presente no corredor provocando [[_wiki/rhazamir\|Rhazamir]] com revelações sobre a irmã dele e o [[_wiki/vor-ghol\|Vor-Ghol]], mantém conexão com Zilvra. A matriarca não precisou estar presente durante o conflito para que uma de suas agentes estivesse. Se [[_wiki/xilvenneth\|Xilvenneth]] era catalisadora deliberada ou peça que saiu do controle é ambiguidade que a narrativa preserva.
 
-### Destino Futuro
-
-No Livro II, Zilvra morre no massacre das matriarcas ordenado por [[_wiki/arothistar\|Arothistar]]. A Mão Envenenada, que operava em território [[_wiki/shadar\|shadar]] com precisão de cirurgiã política, não sobrevive ao expurgo. Seu destino é compartilhado com [[_wiki/belarbreza_srune\|Belarbreza Srune]], [[_wiki/nylothrae_duskryn\|Nylothrae Duskryn]] e [[_wiki/sszaflyn_t_orghvyss\|Sszaflyn T'orghvyss]] — eliminação sem exceção. Diferente de [[_wiki/quavarra_oblodra\|Quavarra]] (preservada como "hóspede") e [[_wiki/voldriz_vrinn_dal\|Voldriz Vrinn'dal]] (mantida como fantoche), Zilvra não recebe tratamento especial. A matriarca que reescrevia narrativas de morte não conseguiu reescrever a própria.
-
 ### Relações-Chave
 
 [[_wiki/milorsevogh_velshard\|Milorsevogh Velshard]] (protegido): Zilvra intervém após a queda de [[_wiki/rhazamir\|Rhazamir]] para blindar [[_wiki/milorsevogh_velshard\|Milor]] das consequências do uso de magia proscrita. A proteção é registrada como fato, não como favor — o que sugere que o interesse da matriarca em [[_wiki/milorsevogh_velshard\|Velshard]] antecede o incidente. Um jovem [[_wiki/shadar\|shadar]] que domina maldições de [[_wiki/malagoth\|Malagoth]] sem pacto é recurso valioso demais para deixar que um preceptor o destrua com um relatório.

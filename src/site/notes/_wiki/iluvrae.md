@@ -11,7 +11,7 @@ Possui magia de cura elarina — pode curar [[_wiki/auren\|Auren]] quando ele en
 
 ### Papel Narrativo
 
-Revelou informação crítica na seção 13.6: o diabo ausente (representado pela estátua que [[_wiki/arothistar\|Arothistar]] esculpe) não era sustentado por [[_wiki/anjos\|anjos]], mas sim por [[_wiki/titas\|titãs]]. "Um anjo que se associasse a um diabo cairia no abismo" — mas [[_wiki/titas\|titãs]] não seguem essa restrição cosmológica. Mencionou que [[_wiki/peredur\|Peredur]] de [[_wiki/thal_serin\|Thal'Serin]] possui grande sabedoria sobre "tempos de antes" e pode ter conhecimento sobre esses [[_wiki/titas\|titãs]]. Aparece mais no Livro II.
+Revelou informação crítica na seção 13.6: o diabo ausente (representado pela estátua que [[_wiki/arothistar\|Arothistar]] esculpe) não era sustentado por [[_wiki/anjos\|anjos]], mas sim por [[_wiki/titas\|titãs]]. "Um anjo que se associasse a um diabo cairia no abismo" — mas [[_wiki/titas\|titãs]] não seguem essa restrição cosmológica. Mencionou que [[_wiki/peredur\|Peredur]] de [[_wiki/thal_serin\|Thal'Serin]] possui grande sabedoria sobre "tempos de antes" e pode ter conhecimento sobre esses [[_wiki/titas\|titãs]].
 
 ### Padrões de Voz
 

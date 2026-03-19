@@ -21,10 +21,6 @@ O momento decisivo é o duelo entre [[_wiki/nidzina_avaroth\|Nidzina]] e [[_wiki
 
 Duas palavras que validam a morte de [[_wiki/zarae\|Zarae]] como ato legal, preservam a aliança entre a Casa Srune e a Casa [[_wiki/nidzina_avaroth\|Avaroth]], e condenam [[_wiki/syndrith_morghast\|Syndrith]] a décadas de ódio sem recurso. Belarbreza não arbitrou um duelo — ratificou uma hierarquia. A [[_wiki/shadar\|shadar]] da superfície provou ferro verdadeiro nas Câmaras que a matriarca governa, e isso tem mais peso do que a perda de uma aprendiz.
 
-### Destino Futuro
-
-No Livro II, Belarbreza morre no massacre das matriarcas ordenado por [[_wiki/arothistar\|Arothistar]]. Diferente de [[_wiki/quavarra_oblodra\|Quavarra Oblodra]] (preservada como "hóspede" em [[_wiki/mor_severith\|Mor'Severith]]) ou [[_wiki/voldriz_vrinn_dal\|Voldriz Vrinn'dal]] (mantida como fantoche em [[_wiki/ghilanna\|Ghilanna]]), Belarbreza é eliminada sem exceção — destino compartilhado com [[_wiki/nylothrae_duskryn\|Nylothrae Duskryn]], [[_wiki/zilvra_xund_ala\|Zilvra Xund'ala]] e [[_wiki/sszaflyn_t_orghvyss\|Sszaflyn T'orghvyss]]. A Forja-Tormentos não recebe tratamento especial do monarca. As Câmaras de Provação sobrevivem à sua criadora, mas a pergunta sobre quem as herda permanece aberta.
-
 ### Relações-Chave
 
 [[_wiki/nidzina_avaroth\|Nidzina Avaroth]] (produto da forja): Belarbreza aceitou a encomenda de [[_wiki/nyssira_avaroth\|Nyssira]] e entregou o resultado sem sentimentalismo. O "Limpo. Válido." não é aprovação pessoal — é certificação técnica. A [[_wiki/shadar\|shadar]] passou pelo fogo das Câmaras e saiu inteira; o que faz com essa têmpera não é mais assunto da matriarca.

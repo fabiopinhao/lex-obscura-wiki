@@ -9,10 +9,6 @@ Humano. Padre de [[_wiki/niedellin\|Niedellin]]. Líder espiritual dos pindoriar
 
 Guarda estatueta vazia de [[_wiki/vozrador\|Vozrador]]. Executou [[_wiki/consagracao\|Consagração]] ([[_wiki/sacro\|Sacro]]) contra âncora de [[_wiki/hazburim\|Hazburim]] no porão da capela, queimando décadas de si.
 
-### Arco do Livro I
-
-Diálogos com [[_wiki/levi\|Levi]] e [[_wiki/berenice\|Berenice]] sobre fenômeno celestial (seção 0.2): "Não é nossa guerra." Orienta vigilância sobre guarda órquica. Revelação da conexão familiar com [[_wiki/arothistar\|Arothistar]]. Aliança secreta com rebeldes. Executou [[_wiki/consagracao\|Consagração]] ([[_wiki/sacro\|Sacro]]) contra terreno profanado — custo físico severo. Figura central da resistência moral de [[_wiki/niedellin\|Niedellin]].
-
 ### Padrões de Voz
 
 Tom pastoral com peso de quem carrega segredo de décadas. Raramente confronta — interpreta, nomeia, contextualiza para que outros decidam.
