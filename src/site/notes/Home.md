@@ -5,26 +5,26 @@
 
 # Lex Obscura
 
-*As leis da sombra não pedem consentimento. Elas simplesmente se impõem.*
+*As leis da sombra se impõem. Consentimento nunca foi parte do pacto.*
 
 ---
 
-Registro oficial do universo de **[[_wiki/Lex Obscura\|Lex Obscura]]** — uma trilogia de dark fantasy ambientada num império onde a ordem se sustenta pelo medo, e a justiça carrega o peso de cada sentença nos ossos de quem a profere.
+Registro oficial do universo de **[[_wiki/Lex Obscura\|Lex Obscura]]** — uma trilogia de dark fantasy ambientada num império erguido sobre sangue e ossos, onde a lei pesa mais nos que a executam.
 
-O **Livro I — [[_wiki/Verbum Arkhon\|Verbum Arkhon]]** acompanha as palavras vivas que moldam o destino de um mundo governado por **Arothistar**, o semideus que ergueu um Império sobre cinzas e pactos esquecidos. A magia aqui exige pagamento em carne — cada invocação consome o corpo do conjurador — e o poder corrompe por mecanismo, não por alegoria.
+O **Livro I — [[_wiki/Verbum Arkhon\|Verbum Arkhon]]** acompanha as palavras vivas que moldam o destino de um mundo governado por **Arothistar**, o semideus que ergueu um Império sobre cinzas e pactos esquecidos. A magia cobra carne. Invocar um feitiço é aceitar que o corpo pague o que a vontade exigiu, e conjuradores veteranos carregam a conta nas mãos que tremem, nos olhos que já não focam.
 
-O acesso a este arquivo é concedido, não garantido. O Império reserva-se o direito de revogá-lo.
+O acesso a este arquivo é concedido enquanto o Império assim decidir. Confundir concessão com direito é o primeiro erro dos que perdem ambos.
 
 ---
 
 ## Explorar o Mundo
 
-- **[[_wiki/Raças\|Raças]]** — Shadars, Druls, Sylvanos, Elarinos, Orcs, Pindoriares e as criaturas que habitam as sombras
-- **[[_wiki/Locais\|Locais]]** — Das fortalezas imperiais às profundezas subterrâneas
-- **[[_wiki/Organizações\|Organizações]]** — O Império, seus braços armados, cultos e facções dissidentes
-- **[[_wiki/Personagens\|Personagens]]** — Justiciars, veteranos, protegidas e o próprio Arothistar
+- **[[_wiki/Raças\|Raças]]** — Quem domina, quem serve, quem resiste
+- **[[_wiki/Locais\|Locais]]** — Fortalezas, ruínas e o que prospera embaixo delas
+- **[[_wiki/Organizações\|Organizações]]** — Quem obedece ao trono, quem conspira contra ele
+- **[[_wiki/Personagens\|Personagens]]** — Os que executam a lei. Os que a sofrem. Os que a escreveram.
 - **[[_wiki/Sistema de Magia\|Sistema de Magia]]** — Cinco cores, trinta escolas e custos ontológicos
-- **[[_wiki/Artefatos\|Artefatos]]** — Relíquias, armas e instrumentos do Império
+- **[[_wiki/Artefatos\|Artefatos]]** — O que o Império forjou e o que encontrou antes de existir
 - **[[_wiki/Conceitos\|Conceitos]]** — Terminologia, instrumentos jurídicos, política e cultura
 - **[[_wiki/Línguas\|Línguas]]** — Idiomas das raças e política linguística imperial
 - **[[_wiki/Cosmologia\|Cosmologia]]** — Planos, entidades superiores e o Panteão dos deuses
