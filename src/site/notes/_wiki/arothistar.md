@@ -31,6 +31,6 @@ Nunca justifica. Nunca pede. Nunca nega — apenas redireciona.
 
 **[[_wiki/milorsevogh_velshard\|Milorsevogh]] (prodígio / executor):** Arothistar designa [[_wiki/milorsevogh_velshard\|Milor]] para [[_wiki/thal_serin\|Thal'Serin]], ciente de seu valor. É [[_wiki/milorsevogh_velshard\|Milor]] quem o executa — ironia estrutural máxima.
 
-**[[_wiki/auren\|Auren]] e [[_wiki/pip\|Pip]] (infância):** Mantidos como prisioneiros em [[_wiki/mor_severith\|Mor'Severith]]. Visitas noturnas a [[_wiki/auren\|Auren]] ("exagerando" no maltrato). A crueldade sobre os amigos de infância é a forma mais perversa do contraste Dravmir â†” Arothistar.
+**[[_wiki/auren\|Auren]] e [[_wiki/pip\|Pip]] (infância):** Mantidos como prisioneiros em [[_wiki/mor_severith\|Mor'Severith]]. Visitas noturnas a [[_wiki/auren\|Auren]] ("exagerando" no maltrato). A crueldade sobre os amigos de infância é a forma mais perversa do contraste Dravmir ↔ Arothistar.
 
 **[[_wiki/malagoth\|Malagoth]] / [[_wiki/velmorain\|Velmorain]] / [[_wiki/kaelgrym\|Kaelgrym]] (pactos):** Três [[_wiki/diabos\|diabos]] com exigências antagônicas.

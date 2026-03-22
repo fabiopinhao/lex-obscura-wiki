@@ -3,7 +3,7 @@
 ---
 
 
-[[_wiki/arothistar\|Arothistar]] percebia que parte da elite de lordes sombrios ainda resistia às mudanças impostas pelo [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] (E-0033). Quarenta e quatro anos atrás, fundou a instituição dos [[_wiki/justiciars\|Justiciars]], braço judiciário com poder de vida e morte, garantindo a execução tanto da velha quanto da nova lei. O movimento redesenhou a estrutura judiciária de [[_wiki/morvgrad\|Morvgrad]].
+[[_wiki/arothistar\|Arothistar]] percebia que parte da elite de lordes sombrios ainda resistia às mudanças impostas pelo [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] (E-0034). Quarenta e quatro anos atrás, fundou a instituição dos [[_wiki/justiciars\|Justiciars]], braço judiciário com poder de vida e morte, garantindo a execução tanto da velha quanto da nova lei. O movimento redesenhou a estrutura judiciária de [[_wiki/morvgrad\|Morvgrad]].
 
 [[_wiki/orum-rahru\|Orum-Rahru]], ex-templário de [[_wiki/vozrador\|Vozrador]], foi o primeiro Justiciar nomeado, e serviria quarenta e quatro anos sem jamais descobrir que [[_wiki/arothistar\|Arothistar]] traíra o deus a quem ele dedicara a vida. A ironia era profunda e deliberada: o homem que velava pela lei do [[_wiki/imperio_sombrio\|império]] carregava no peito a fé num deus aprisionado pelo próprio monarca que o investira de poder.
 

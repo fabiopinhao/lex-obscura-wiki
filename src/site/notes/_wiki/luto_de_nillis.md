@@ -9,5 +9,3 @@ Substância antimagia de aspecto opalescente. Destilada da flor Nillis. Suprime 
 
 📌 **Aparições:** Cap11 ([[_wiki/qaelun\|Qaelun]] vs. [[_wiki/orum-rahru\|Orum]] no [[_wiki/templo_de_vozrador\|Templo de Vozrador]]).
 
----
-

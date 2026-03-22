@@ -15,4 +15,4 @@ Transporte aéreo, reconhecimento e combate em altitude. A capacidade de sobrevo
 
 Detalhes sobre criação, treinamento, disponibilidade e aparições narrativas específicas no Livro I não estão documentados. Nenhuma cena do Livro I mostra grifo em uso direto, embora a existência de montarias aéreas imperiais seja referenciada como parte do aparato militar.
 
-📊 Dados: 2.1_racas_REF.tsv; 📋 Referência: 3.3_racas_bestiario_LORE.md (§Grifo)
+📋 Referência: 3.3_racas_bestiario_LORE.md (§Grifo)

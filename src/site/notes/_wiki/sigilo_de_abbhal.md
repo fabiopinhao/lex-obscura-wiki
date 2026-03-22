@@ -41,4 +41,4 @@ O condenado mantém consciência? Sente o que acontece ao corpo? O selamento pod
 
 O Sigilo dramatiza o tema central do Livro I: justiça divina espelhando justiça humana. [[_wiki/milorsevogh_velshard\|Milor]], o Justiciar terreno, invoca [[_wiki/abbhal\|Abbhal]], o Juiz divino, e ambos executam a mesma função em planos diferentes. A sentença é mais cruel que qualquer punição convencional, expondo a filosofia do [[_wiki/imperio_sombrio\|império]]: a ordem não pune para corrigir, pune para demonstrar que a transgressão custa mais do que a obediência.
 
-📊 Dados: 2.2_panteao_REF.tsv ([[_wiki/abbhal\|Abbhal]]); 📋 Referência: 3.11_organizacoes_LORE.md (§[[_wiki/tribunal_de_morvgrad\|Tribunal de Morvgrad]] — Instrumentos Processuais); 3.7_sistemas_magicos_LORE.md (§[[_wiki/nomos\|Nomos]]); 3.5_panteao_LORE.md (§[[_wiki/abbhal\|Abbhal]])
+📋 Referência: 3.11_organizacoes_LORE.md (§[[_wiki/tribunal_de_morvgrad\|Tribunal de Morvgrad]] — Instrumentos Processuais); 3.7_sistemas_magicos_LORE.md (§[[_wiki/nomos\|Nomos]]); 3.5_panteao_LORE.md (§[[_wiki/abbhal\|Abbhal]])

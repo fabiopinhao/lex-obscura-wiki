@@ -13,7 +13,7 @@ O termo "Ordo Zathar" deriva de [[_wiki/xarn_zareth\|Xarn'Zareth]], a eparquia l
 
 ### Natureza Ideológica
 
-**CRÃTICO:** O Ordo Zathar NÃO é facção libertadora. São tão malignos quanto [[_wiki/arothistar\|Arothistar]] — buscam substituir um sistema de controle tirânico por outro igualmente opressivo. Defendem a lei contra o homem, mas não defendem liberdade — apenas outro modo de dominação institucional.
+**CRÍTICO:** O Ordo Zathar NÃO é facção libertadora. São tão malignos quanto [[_wiki/arothistar\|Arothistar]] — buscam substituir um sistema de controle tirânico por outro igualmente opressivo. Defendem a lei contra o homem, mas não defendem liberdade — apenas outro modo de dominação institucional.
 
 **Filosofia operacional:**
 - [[_wiki/lex_obscura_decreto\|Lex Obscura]] (lei de [[_wiki/xarn\|Xarn]]) como fundamento supremo

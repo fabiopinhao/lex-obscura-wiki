@@ -538,7 +538,7 @@ A oposição do eixo restaurativo. [[_wiki/patho\|Patho]] degrada o que já exis
 | Fortalecida em alvos ignorantes, supersticiosos | Fortalecida em locais de saber (bibliotecas, templos) |
 | Enfraquecida em alvos racionais e eruditos | Enfraquecida em locais de caos e ignorância |
 | Escala terminal: Perdição (terror que mata) | Escala terminal: Omnisciência (saber que paralisa) |
-| Preto-Vermelho: sombra + impulso | Azul-Azul: intelecto puro |
+| Vermelho-Preto: impulso + sombra | Azul-Azul: intelecto puro |
 
 **Nota — Pavor ([[_wiki/phobos\|Phobos]]) vs. Provocação ([[_wiki/belli\|Belli]]):**
 
@@ -904,7 +904,7 @@ Mordaça é censura cirúrgica — cala quem precisa calar. Ressonância inverti
 | Gravidade como ferramenta e arma | Transcendência como libertação |
 | Prende, comprime, desloca | Solta, eleva, dissolve vínculos |
 | Custo ontológico: dissociação espacial (corpo não parece "aqui") | Custo ontológico: desprezo pelo mundano (mundo não parece importar) |
-| Azul-Preto: intelecto + sombra | Branco-Azul: pureza + intelecto |
+| Azul-Preto: intelecto + sombra | Azul-Branco: intelecto + pureza |
 
 **Sinergia [[_wiki/cosmo\|Cosmo]]/Gravame + [[_wiki/nomos\|Nomos]]/Grilhão:** Aprisionamento absoluto. Gravame multiplica o peso do alvo; Grilhão vincula o corpo à posição. O resultado é prisioneiro que não pode mover-se (Grilhão) e cuja tentativa de resistir é punida com peso esmagador (Gravame). [[_wiki/justiciars\|Justiciars]] em apreensões de alto risco — quando a fuga é inaceitável e a resistência deve ser não apenas impedida, mas punida.
 
@@ -996,7 +996,7 @@ Armistício cria zona de trégua; Consagração cria zona de pureza. A sobreposi
 | Acelera, impulsiona, energiza | Retarda, congela, reverte |
 | Instantaneidade: o raio cai agora | Persistência: o efeito dura no tempo |
 | Custo ontológico: inquietação crônica, repouso impossível | Custo ontológico: dessincronização, presente deslocado |
-| Preto-Branco: sombra + ordem | Vermelho-Azul: impulso + intelecto |
+| Preto-Branco: sombra + ordem | Azul-Vermelho: intelecto + impulso |
 | Fortalecida em tempestades e metal | Fortalecida em locais antigos e silenciosos |
 | Escala terminal: Fulmíneo (devastação elétrica) | Escala terminal: Catacronia (colapso temporal) |
 
@@ -1053,7 +1053,7 @@ A oposição é rítmica: [[_wiki/electro\|Electro]] existe no instante (descarg
 | Retarda, congela, reverte | Acelera, impulsiona, energiza |
 | Tempo como substância manipulável | Eletricidade como força bruta |
 | Custo ontológico: dessincronização (presente deslocado) | Custo ontológico: inquietação crônica (repouso impossível) |
-| Vermelho-Azul: impulso + intelecto | Preto-Branco: sombra + ordem |
+| Azul-Vermelho: intelecto + impulso | Preto-Branco: sombra + ordem |
 
 **Sinergia [[_wiki/chrono\|Chrono]]/Dilação + [[_wiki/belli\|Belli]]/Cruor:** Massacre em câmara lenta. Dilação desacelera o alvo; Cruor amplifica cada golpe do atacante conforme sangra. O resultado é combatente que vê cada abertura magnificada pelo tempo esticado do oponente, e cujos golpes ficam mais devastadores a cada ferimento. [[_wiki/templarios\|Templários]] em duelos judiciais onde a vitória precisa ser espetacular.
 

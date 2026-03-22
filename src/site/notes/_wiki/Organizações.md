@@ -12,46 +12,46 @@ O Império funciona porque cada engrenagem acredita ser indispensável. Nenhuma 
 ## Estrutura Imperial
 
 - [[_wiki/imperio_sombrio\|Império Sombrio]] — O Estado soberano de Arothistar
+- [[_wiki/conselho_sombrio\|Conselho Sombrio]] — Órgão legislativo e administrativo do Império
 - [[_wiki/hierarquia_imperial_niveis_complementares\|Hierarquia Imperial]] — Generais, lordes, oficiais e a base tripartite
-- [[_wiki/coletoria\|Coletoria]] — Braço fiscal e de confisco
-- [[_wiki/administracao_de_niedellin\|Administração de Niedellin]] — Governo provincial
+- [[_wiki/coletoria\|Coletoria]] — Braço fiscal, cobrança de tributos e rede de espionagem paralela
+- [[_wiki/alianca_subterranea\|Aliança Subterrânea]] — Pacto político entre shadars e druls, arquitetado por Xarn
+- [[_wiki/administracao_de_niedellin\|Administração de Niedellin]] — Governo local dissolvido
 
 ## Justiça e Ordem
 
-- [[_wiki/justiciars\|Justiciars]] — Executores da lei imperial, juízes-carrascos
-- [[_wiki/tribunal_de_morvgrad\|Tribunal de Morvgrad]] — Corte suprema
+- [[_wiki/justiciars\|Justiciars]] — Braço judiciário, juízes com poder de vida e morte
+- [[_wiki/tribunal_de_morvgrad\|Tribunal de Morvgrad]] — Corte suprema do Culto, três níveis
 
-## Forças Militares e Religiosas
+## Ordens Militares e Sacerdotais
 
-- [[_wiki/templarios\|Templários]] — Cavaleiros sagrados do Império
-- [[_wiki/ordem_de_azazel\|Ordem de Azazel]] — Cavaleiros do deus caído
-- [[_wiki/khelg_dur\|Khelg Dur]] — Fortaleza militar anã
+- [[_wiki/templarios\|Templários]] — Antiga ordem militar-religiosa, enfraquecida pelos Justiciars
+- [[_wiki/ophideias\|Ophideias]] — Sacerdotisas espiãs-assassinas drul
 
 ## Cultos e Facções Religiosas
 
-- [[_wiki/culto_sombrio\|Culto Sombrio]] — Adoradores das trevas
-- [[_wiki/culto_de_hazburim\|Culto de Hazburim]] — Devotos do deus da fome
-- [[_wiki/igreja_de_sao_lucian\|Igreja de São Lucian]] — Fé organizada dos humanos
-- [[_wiki/ophideias\|Ophideias]] — Sacerdotisas serpentinas
+- [[_wiki/culto_sombrio\|Culto Sombrio]] — Religião oficial do estado, adoração aos deuses negros
+- [[_wiki/culto_de_hazburim\|Culto de Hazburim]] — Culto demoníaco clandestino, proscrito pelo Culto Sombrio
+- [[_wiki/ordem_de_azazel\|Ordem de Azazel]] — Ordem religiosa luminosa do anjo Azazel
+- [[_wiki/igreja_de_sao_lucian\|Igreja de São Lucian]] — Fé luminosa sobrevivente, quase extinta
 
 ## Casas Nobres e Clãs
 
-- [[_wiki/casa_duskryn\|Casa Duskryn]] — Casa nobre drul
-- [[_wiki/casa_morghast\|Casa Morghast]] — Casa nobre sombria
-- [[_wiki/cla_myr_vethan\|Clã Myr'Vethan]] — Clã élfico
+- [[_wiki/casa_duskryn\|Casa Duskryn]] — Casa Matriarcal drul, governança de Ghilanna
+- [[_wiki/casa_morghast\|Casa Morghast]] — Casa Matriarcal menor, guarda dos Portões de Ghilanna
+- [[_wiki/cla_myr_vethan\|Clã Myr'Vethan]] — Clã draconídeo de Varnak, busca a Fendris
 
 ## Sociedades Secretas e Resistência
 
-- [[_wiki/conselho_sombrio\|Conselho Sombrio]] — Conspiradores nas sombras do poder
-- [[_wiki/alianca_subterranea\|Aliança Subterrânea]] — Rede clandestina
-- [[_wiki/resistencia_de_thal_serin\|Resistência de Thal Serin]] — Rebelião élfica
-- [[_wiki/serpente_purpura\|Serpente Púrpura]] — Organização criminosa
+- [[_wiki/resistencia_de_thal_serin\|Resistência de Thal'Serin]] — Sylvanos livres e humanos refugiados
+- [[_wiki/serpente_purpura\|Serpente Púrpura]] — Crime organizado, tráfico de artefatos e contrabando
+- [[_wiki/ordo_zathar\|Ordo Zathar]] — Conspiração templária para derrubar a monarquia e instaurar teocracia
 
 ## Guildas e Círculos
 
-- [[_wiki/circulos_de_khargoth\|Círculos de Khargoth]] — Cabais arcanos
-- [[_wiki/guilda_dos_gnomos\|Guilda dos Gnomos]] — Artesãos e engenheiros
-- [[_wiki/ordo_zathar\|Ordo Zathar]] — Ordem oculta
+- [[_wiki/circulos_de_khargoth\|Círculos de Khargoth]] — Academia arcana, sistema hierárquico de conhecimento
+- [[_wiki/guilda_dos_gnomos\|Guilda dos Gnomos]] — Crime organizado, mercado negro e falsificação
+- [[_wiki/khelg_dur\|Khelg'Dur]] — Casa comercial karashim, caravanas de isópodes em Vor-Ghol
 
 ---
 

@@ -5,7 +5,7 @@
 
 ### Perfil
 
-Humano. Intendente e escriba de [[_wiki/niedellin\|Niedellin]]. Afiliação: Ex-Intendente de [[_wiki/niedellin\|Niedellin]]. Localização: aguardando julgamento ([[_wiki/morvgrad\|Morvgrad]]). Status: prisioneiro.
+[[_wiki/shadar\|Shadar]]. Intendente e escriba de [[_wiki/niedellin\|Niedellin]]. Afiliação: Ex-Intendente de [[_wiki/niedellin\|Niedellin]]. Localização: aguardando julgamento ([[_wiki/morvgrad\|Morvgrad]]). Status: prisioneiro.
 
 ### Papel Narrativo
 

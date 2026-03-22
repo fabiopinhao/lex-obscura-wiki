@@ -11,6 +11,3 @@ Guardado na biblioteca de [[_wiki/mor_severith\|Mor'Severith]]. [[_wiki/odran\|O
 
 📌 **Aparições:** Cap13 (discussão no [[_wiki/oculario\|Oculário]]; [[_wiki/odran\|Odran]] menciona).
 
----
-
-<a name="culturais"></a>

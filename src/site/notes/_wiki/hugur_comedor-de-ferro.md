@@ -19,4 +19,4 @@ A diferença potencial entre os dois reside nos epítetos: "Três-Cicatrizes" ap
 
 **[[_wiki/gorvash_tres-cicatrizes\|Gorvash Três-Cicatrizes]] (par):** Posicionados e apresentados juntos. Sem hierarquia documentada entre os dois.
 
-📊 Dados: 2.9_personagens_REF.tsv; 📋 Referência: 3.13_personagens_secundarios_LORE.md (§Hugur Comedor-de-Ferro)
+📋 Referência: 3.13_personagens_secundarios_LORE.md (§Hugur Comedor-de-Ferro)

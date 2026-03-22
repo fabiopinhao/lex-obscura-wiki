@@ -29,4 +29,3 @@ A morte de Rhazamir é a pedra que acerta a superfície e gera ondas que determi
 
 **Arconte Dorthea (irmã / consequência póstuma):** Parentesco que eleva a queda de um tenente incompetente a incidente político.
 
-📊 Dados: (sem entrada em 2.9_personagens_REF.tsv — personagem a ser cadastrado)

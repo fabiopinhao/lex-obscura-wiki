@@ -27,4 +27,3 @@ Após a queda de [[_wiki/rhazamir\|Rhazamir]] pela janela, Valhedras estanca o s
 
 **[[_wiki/vekraal\|Vekraal]] (aversão contida):** A raiva contra [[_wiki/vekraal\|Vekraal]] no pátio (polegar recolhido no punho) revela princípio hierárquico: a autoridade de um major não justifica desrespeito à autoridade de um Justiciar. Valhedras mede poder pela legitimidade, não pela força.
 
-📊 Dados: (sem entrada em 2.9_personagens_REF.tsv — personagem a ser cadastrado)

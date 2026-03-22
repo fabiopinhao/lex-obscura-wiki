@@ -31,4 +31,4 @@ Xilvenneth solta o ar que guardava na garganta, o peito cedendo como quem volta 
 
 **[[_wiki/milorsevogh_velshard\|Milorsevogh Velshard]] (observado / catalogado):** Xilvenneth lê os tomos proibidos de [[_wiki/milorsevogh_velshard\|Milor]] sem tocar — dedos sobre runas, leitura à distância. A pergunta ("como nos neutralizar ou como nos superar?") é profissional, não casual — uma ophideia catalogando as capacidades de um [[_wiki/shadar\|shadar]] que estuda contramedidas [[_wiki/drul\|drul]]. A resposta dele é recebida sem réplica. [[_wiki/milorsevogh_velshard\|Milor]] é peça que Xilvenneth reconhece como valiosa demais para provocar sem motivo.
 
-📊 Dados: (sem entrada em 2.9_personagens_REF.tsv — personagem a ser cadastrada); 📋 Referência: 3.12_personagens_principais_LORE.md (§[[_wiki/milorsevogh_velshard\|Milorsevogh Velshard]])
+📋 Referência: 3.12_personagens_principais_LORE.md (§[[_wiki/milorsevogh_velshard\|Milorsevogh Velshard]])

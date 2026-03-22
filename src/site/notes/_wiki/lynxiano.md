@@ -3,19 +3,26 @@
 ---
 
 
-### Fisiologia
+### Origem Cosmogônica
 
-Humanoides híbridos felinos, abrangendo linhagens diversas: leões, tigres, panteras, leopardos. Constituição musculosa e ágil, pelagem variável conforme sublinhagem, garras retráteis, pupilas verticais, audição e visão noturna apuradas. Longevidade de 50-65 anos (modificador 60-80%). Cor arcana verde. Afinidade com [[_wiki/titas\|titãs]] primordiais, compartilhando o alinhamento cromático com [[_wiki/sylvano\|sylvanos]] e [[_wiki/gerut\|geruts]].
+Os lynxianos, como todos os humanoides híbridos, remontam às [[_wiki/guerras_raciais\|Guerras Raciais]]. Entidades verdes ([[_wiki/titas\|titãs]]) cruzaram humanos e felinos selvagens para produzir predadores alinhados à cor arcana do mundo natural. A interferência titânica opera por lógica diferente da demoníaca ou diabólica: onde [[_wiki/demonios\|demônios]] forjaram soldados e [[_wiki/diabos\|diabos]] moldaram agentes, os [[_wiki/titas\|titãs]] simplesmente abriram espaço. Não houve ritual de fusão, não houve seleção deliberada. O verde absorveu o que havia de felino no plano material e devolveu algo que caminhava em duas pernas.
 
-### Cultura e Sociedade
+A consequência é uma raça sem mito fundador. [[_wiki/draconideo\|Draconídeos]] reivindicam dragões ancestrais; [[_wiki/worg\|worgs]] carregam teorias sobre sua gênese; [[_wiki/orc\|orcs]] conhecem o fogo que os reescreveu. Os lynxianos não possuem narrativa de origem porque os [[_wiki/titas\|titãs]] não narram. Não houve pacto, não houve promessa, não houve propósito declarado. Houve floresta, houve felinos, houve sangue humano, e depois houve lynxianos. O verde não explica o que faz. Nenhum [[_wiki/titas\|titã]] reivindica os lynxianos como devotos, servos ou protegidos — a relação é ecológica, não teológica. O [[_wiki/titas\|titã]] que habita a floresta onde um [[_wiki/rajhar\|rajhar]] caça não sabe o nome do [[_wiki/rajhar\|rajhar]], e o [[_wiki/rajhar\|rajhar]] não sabe o nome do [[_wiki/titas\|titã]]. Ambos continuam existindo.
 
-Sem personagens nomeados ou eventos narrativos documentados no Livro I. A classificação no sistema racial os posiciona como o componente híbrido do eixo verde ([[_wiki/titanico\|titânico]]), ao lado dos [[_wiki/sylvano\|sylvanos]] (elfos) e [[_wiki/gerut\|geruts]] (humanos). Sua organização social, território e relação com o [[_wiki/imperio_sombrio\|Império]] permanecem indefinidos no cânone atual.
+### Natureza Familiar
 
-A diversidade de sublinhagens (leões, tigres, panteras, leopardos) sugere fragmentação tribal ou clânica baseada em linhagem felina específica, mas essa estrutura não foi confirmada.
+Os lynxianos dividem-se em duas sub-raças que compartilham cor arcana, traços felinos e quase nada além disso.
 
-### Fraquezas
+[[_wiki/rajhar\|Rajhars]] (porte humanoide) são predadores nômades. Pelagem variável conforme sublinhagem (tigre, lince, pantera), garras retráteis, capacidade parcial de locomoção quadrúpede. Transitam entre florestas profundas e as margens do [[_wiki/imperio_sombrio\|Império]] como mercenários raros e contrabandistas de mercadorias exóticas. Solitários por natureza, formam pares ou tríades temporárias para caça cooperativa e se dispersam quando o objetivo se cumpre. Não reivindicam território permanente, não formam clãs, não prestam devoção.
 
-- **Ausência de representação política:** Nenhum lynxiano ocupa posição de poder documentada
-- **Fragmentação provável:** Diversidade de sublinhagens pode impedir unidade
+[[_wiki/margau\|Margáus]] (porte gnômico) são felinos compactos, arborícolas, simbióticos com flora e fauna menor. Menos selvagens, menos independentes. Onde os [[_wiki/rajhar\|rajhars]] se recusam a pertencer, os [[_wiki/margau\|margáus]] encontraram nicho dentro do mundo verde organizado: vivem nas periferias de comunidades [[_wiki/sylvano\|sylvanas]] e [[_wiki/elarino\|elarinas]], integrados o suficiente para não serem intrusos, distantes o suficiente para não serem membros. Carnívoros como os [[_wiki/rajhar\|rajhars]], mas sem a fome pelo trânsito.
 
-**Fontes:** TSV 2.1. ⚠️ Dados narrativos inexistentes no Livro I. Seção baseada exclusivamente em dados estruturais do TSV.
+### A Não-Ruptura
+
+A relação entre [[_wiki/rajhar\|rajhars]] e [[_wiki/margau\|margáus]] é a ausência de relação. Não houve coexistência primordial para se romper, não houve simbiose para degenerar, não houve hierarquia para se inverter. Os [[_wiki/vulfano\|vulfanos]] tiveram alcateias onde [[_wiki/worg\|worgs]] e [[_wiki/varglin\|varglins]] conviviam antes da predação; os [[_wiki/sauriano\|saurianos]] têm a rejeição ativa dos [[_wiki/draconideo\|draconídeos]] pelos [[_wiki/kobold\|kobolds]]. Os lynxianos não têm sequer a energia do conflito. [[_wiki/rajhar\|Rajhars]] e [[_wiki/margau\|margáus]] se cruzam em florestas e seguem adiante. Não se reconhecem como família, não se rejeitam como intrusos. A classificação "lynxiana" é imposição de naturalistas imperiais que agruparam tudo que tem pelagem e pupilas verticais sob o mesmo verbete. Um [[_wiki/rajhar\|rajhar]], ao ser informado de que possui "parentes gnômicos", reagiria com o mesmo interesse que um lince demonstra por um gato-do-mato: nenhum.
+
+### Desbestialização do Plano Material
+
+Os lynxianos fazem parte do fenômeno de desbestialização que atinge todas as raças híbridas, mas o declínio opera de forma menos visível. Não há fragmentação clânica para documentar, não há populações urbanas para censar, não há servidão para quantificar. Lynxianos simplesmente aparecem menos. As florestas encolhem sob a [[_wiki/macula-sombria\|Mácula-Sombria]], as rotas de caça se estreitam, os territórios de trânsito diminuem. Um [[_wiki/rajhar\|rajhar]] que percorria cem léguas de floresta contínua há duas gerações agora encontra clareiras imperiais a cada vinte. Os [[_wiki/margau\|margáus]], mais dependentes de ecossistemas estáveis, recuam conforme as comunidades [[_wiki/sylvano\|sylvanas]] recuam.
+
+O resultado é invisibilidade crescente. O [[_wiki/imperio_sombrio\|Império]] não persegue lynxianos com a mesma determinação que emprega contra [[_wiki/sylvano\|sylvanos]] rebeldes, porque perseguir exigiria primeiro encontrar, e encontrar exigiria que os lynxianos ficassem parados. O que não acontece. O declínio é silencioso: menos filhotes, menos encontros, menos rastros. A floresta fica vazia, e ninguém percebe até que o último [[_wiki/rajhar\|rajhar]] tenha seguido adiante para um lugar que talvez já não exista.

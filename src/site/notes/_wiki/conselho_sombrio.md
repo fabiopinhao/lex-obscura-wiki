@@ -73,7 +73,7 @@ A execução de [[_wiki/arothistar\|Arothistar]] criou vácuo sem precedente. O 
 
 **[[_wiki/justiciars\|Justiciars]] (via [[_wiki/orum-rahru\|Orum]]):** Braço judiciário sem líder formal, sem facção política, sem patrono divino. [[_wiki/orum-rahru\|Orum]] representa a lei como princípio, não como instrumento — posição que o isola de ambos os lados. Sua reclusão de [[_wiki/morvgrad\|Morvgrad]] e eventual alinhamento com "[[_wiki/templarios\|templários]] ideológicos" ([[_wiki/jaakurs\|Jaakurs]], [[_wiki/nyx_ara\|Nyx'Ara]]) é movimento de desespero, não de convicção.
 
-**[[_wiki/nidzina_avaroth\|Nidzina]] no trono:** Colocada pelos [[_wiki/templarios\|templários]] como fachada legitimadora. Não governa — é governada. Sua deterioração mental progressiva ("Dead Queen") transforma o trono em símbolo de vacância permanente.
+**[[_wiki/nidzina_avaroth\|Nidzina]] no trono:** Colocada pelo [[_wiki/ordo_zathar\|Ordo Zathar]] (facção templária) como fachada legitimadora. Não governa — é governada. Sua deterioração mental progressiva ("Dead Queen") transforma o trono em símbolo de vacância permanente.
 
 📋 Para lista completa de conselheiros: `2.9_personagens_REF.tsv`.
 📋 Para cena do Conselho: Outline 6.1, seção 2.1.

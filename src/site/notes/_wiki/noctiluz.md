@@ -33,4 +33,4 @@ Registrado desde a Queda dos [[_wiki/luminar\|Luminares]], quando as primeiras f
 
 Causa das fissuras. Natureza da luz emitida (celestial, planar, diabólica, ou outra). Relação com [[_wiki/velmorain\|Velmorain]]. Razão pela qual o fenômeno se concentra sobre o planalto shadar. Se a noctiluz é bênção, maldição, efeito colateral de algo maior, ou as três coisas. Por que a frequência aumentou na Terceira Era.
 
-📊 Dados: 2.7_locais_REF.tsv (Morvgrad, Reinkard, Dorsal/Pico de Nethys); 📋 Referência: 3.2_conceitos_gerais_LORE.md (§Noctiluz); 4.2_mapa_misterios_PLAN.tsv (PRO-02-C, PRO-10-A, 7.3-02-C, 13.3-05-C); 6.1_outline_livro1_PROSE.md (seções 0.2, 6.2, 7.4, 13.3, Coda)
+📋 Referência: 3.2_conceitos_gerais_LORE.md (§Noctiluz); 4.2_mapa_misterios_PLAN.tsv (PRO-02-C, PRO-10-A, 7.3-02-C, 13.3-05-C); 6.1_outline_livro1_PROSE.md (seções 0.2, 6.2, 7.4, 13.3, Coda)

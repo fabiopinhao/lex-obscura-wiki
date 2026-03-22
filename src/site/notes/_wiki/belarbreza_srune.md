@@ -31,4 +31,4 @@ Duas palavras que validam a morte de [[_wiki/zarae\|Zarae]] como ato legal, pres
 
 [[_wiki/nyssira_avaroth\|Nyssira Avaroth]] (negociadora / cliente): A aliança entre Casa Srune e Casa [[_wiki/nidzina_avaroth\|Avaroth]] foi selada na negociação do treinamento de [[_wiki/nidzina_avaroth\|Nidzina]]. [[_wiki/nyssira_avaroth\|Nyssira]] trouxe a proposta; [[_wiki/orum-rahru\|Orum-Rahru]] trouxe o argumento ("[[_wiki/vor-ghol\|Vor-Ghol]] forja ou quebra"); Belarbreza forneceu a forja.
 
-📊 Dados: 2.9_personagens_REF.tsv (Belarbreza Srune); 📋 Referência: 3.13_personagens_secundarios_LORE.md (§[[_wiki/zarae\|Zarae]], §[[_wiki/nyssira_avaroth\|Nyssira Avaroth]]); 3.11_organizacoes_LORE.md (§Casas Matriarcais)
+📋 Referência: 3.13_personagens_secundarios_LORE.md (§[[_wiki/zarae\|Zarae]], §[[_wiki/nyssira_avaroth\|Nyssira Avaroth]]); 3.11_organizacoes_LORE.md (§Casas Matriarcais)

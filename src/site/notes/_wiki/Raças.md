@@ -11,64 +11,64 @@ O Império não reconhece igualdade entre as raças. Reconhece utilidade.
 
 ## Raças Civilizadas
 
-- [[_wiki/shadar\|Shadars]] — Humanos sombrios, a raça dominante do Império
-- [[_wiki/pindoriar\|Pindoriares]] — Humanos comuns, populações subjugadas
-- [[_wiki/drul\|Druls]] — Drows subterrâneos, matriarcais e letais
-- [[_wiki/elarino\|Elarinos]] — Elfos ancestrais, longevos e raros
-- [[_wiki/sylvano\|Sylvanos]] — Elfos silvanos, ligados às florestas
-- [[_wiki/orc\|Orcs]] — Guerreiros formalizados no exército imperial
-- [[_wiki/frenim\|Frenins]] — Halflings pragmáticos
-- [[_wiki/gerut\|Geruts]] — Gigantes das montanhas
-- [[_wiki/murano\|Muranos]] — Povo anfíbio dos pântanos
-- [[_wiki/undine\|Undines]] — Seres aquáticos
-- [[_wiki/varnakiano\|Varnakianos]] — Nativos de Varnak
-- [[_wiki/sauriano\|Saurianos]] — Reptilianos das terras quentes
-- [[_wiki/minotauro\|Minotauros]] — Guardiões de labirintos antigos
-- [[_wiki/luminares\|Luminares]] — Raça extinta de seres de luz
-- [[_wiki/karashim\|Karashins]] — Nômades do deserto
-- [[_wiki/derro\|Derros]] — Anões degenerados do subsolo
-
-## Pequenos Povos
-
-- [[racas/svirfin\|Svirfins]] — Gnomos profundos
-- [[_wiki/kobold\|Kobolds]] — Servos escavadores
-- [[_wiki/goblin\|Goblins]] — Oportunistas ubíquos
-- [[racas/boglin\|Boglins]] — Goblins pantaneiros
-- [[racas/fringal\|Fringals]] — Pequenos artesãos
-- [[racas/spriggin\|Spriggins]] — Fadas degeneradas
-- [[racas/hallirin\|Hallirins]] — Pequeno povo feérico
+- [[_wiki/shadar\|Shadars]] — Humanos diabólicos, raça dominante do Império
+- [[_wiki/pindoriar\|Pindoriares]] — Humanos e elfos subjugados, cidadãos de segunda classe
+- [[_wiki/alvarar\|Álvarars]] — Humanos angelicais, paladinos do panteão luminoso
+- [[_wiki/varnakiano\|Varnakianos]] — Humanos demoníacos, sangue infernal
+- [[_wiki/frenim\|Frenims]] — Humanos siderais de Neranthis, magos azuis
+- [[_wiki/gerut\|Geruts]] — Humanos titânicos, caçadores e druidas
+- [[_wiki/drul\|Druls]] — Elfos diabólicos de Vor-Ghol, casas matriarcais
+- [[_wiki/elarino\|Elarinos]] — Elfos angelicais de Elenir, os mais próximos dos Luminares
+- [[_wiki/sylvano\|Sylvanos]] — Elfos titânicos das florestas, devotos de Titânia
+- [[_wiki/orc\|Orcs]] — Elfos demoníacos, soldados do exército imperial
+- [[_wiki/undine\|Undines]] — Elfos siderais, alinhados aos oceanos e lagos
+- [[_wiki/karashim\|Karashins]] — Anões, mineradores e ferreiros, escravizados em Thandruk Varn
+- [[_wiki/luminares\|Luminares]] — Elfos da luz originais, raça ancestral de todas as linhagens élficas (extintos)
+- [[_wiki/murano\|Muranos]] — Humanoides ratiformes, consciência coletiva via ultrassom
+- [[_wiki/minotauro\|Minotauros]] — Raça quase extinta, considerados lendas
 
 ## Raças Bestiais
 
-- [[_wiki/vulfano\|Vulfanos]] — Lobisomens civilizados
-- [[_wiki/lynxiano\|Lynxianos]] — Felinos bípedes
-- [[_wiki/aviano\|Avianos]] — Povo alado
-- [[racas/rajhar\|Rajhars]] — Felinos das planícies
-- [[racas/aquilar\|Aquilares]] — Águias sapientes
-- [[racas/saag\|Saags]] — Predadores do subsolo
-- [[_wiki/varglin\|Varglins]] — Canídeos tribais
-- [[_wiki/alvarar\|Alvarares]] — Cervídeos das florestas antigas
-- [[racas/margau\|Margaus]] — Felinos sombrios
-- [[_wiki/isopode\|Isópodes]] — Crustáceos sapientes
+- [[_wiki/vulfano\|Vulfanos]] — Família de humanoides híbridos caninos
+- [[_wiki/worg\|Worgs]] — Vulfanos de porte grande, dualidade homem e besta
+- [[_wiki/varglin\|Varglins]] — Vulfanos de porte menor, caninos furtivos
+- [[_wiki/sauriano\|Saurianos]] — Família de humanoides híbridos répteis
+- [[_wiki/draconideo\|Draconídeos]] — Saurianos de elite, escamas grossas, sopro elemental
+- [[_wiki/lynxiano\|Lynxianos]] — Família de humanoides híbridos felinos
+- [[_wiki/rajhar\|Rajhars]] — Lynxianos de porte grande, predadores territoriais
+- [[_wiki/margau\|Margáus]] — Lynxianos de porte menor, felinos arborícolas e furtivos
+- [[_wiki/aviano\|Avianos]] — Família de humanoides híbridos de aves
+- [[_wiki/aquilar\|Aquilares]] — Avianos de porte grande, híbridos de águia e falcão
+- [[_wiki/ranidano\|Ranidanos]] — Família de humanoides híbridos anfíbios
+- [[_wiki/saag\|Saags]] — Ranidanos de porte grande, sapos humanoides massivos
+- [[_wiki/isopode\|Isópodes]] — Artrópodes gigantes de Vor-Ghol, animais de carga
+
+## Pequenos Povos
+
+- [[_wiki/derro\|Derros]] — Gnomos das profundezas, mercado negro e intermediários
+- [[_wiki/goblin\|Goblins]] — Gnomos demoníacos
+- [[_wiki/spriggin\|Spriggins]] — Gnomos titânicos, guardiões de florestas e ruínas
+- [[_wiki/hallirin\|Hallirins]] — Gnomos angelicais, sagrados diminutos
+- [[_wiki/svirfin\|Svirfins]] — Gnomos siderais, arcanos diminutos
+- [[_wiki/kobold\|Kobolds]] — Saurianos de porte menor, origem artificial shadar
+- [[_wiki/fringal\|Fringals]] — Avianos de porte menor, inspirados em carriças
+- [[_wiki/boglin\|Boglins]] — Ranidanos de porte menor, tartarugas humanoides
 
 ## Criaturas
 
-- [[_wiki/draconideo\|Draconídeos]] — Descendentes corrompidos dos dragões
 - [[_wiki/basilisco\|Basiliscos]] — Répteis petrificantes
 - [[_wiki/grifo\|Grifos]] — Montarias nobres
-- [[_wiki/worg\|Worgs]] — Lobos gigantes
 - [[_wiki/troll\|Trolls]] — Regeneradores implacáveis
-- [[_wiki/pantera_sombria\|Panteras Sombrias]] — Predadoras do Manto
+- [[_wiki/pantera_sombria\|Panteras Sombrias]] — Felinos de grande porte, montarias das ophideias
 - [[_wiki/servo_hediondo\|Servos Hediondos]] — Mortos-vivos de baixa patente
-- [[_wiki/dridar\|Dridares]] — Meio-drow, meio-aranha
-- [[_wiki/hidna_ressonante\|Hidnas Ressonantes]] — Parasitas arcanos
-- [[_wiki/gnoll\|Gnolls]] — Hienas bípedes
+- [[_wiki/dridar\|Dridares]] — Aracnídeos gigantes de Vor-Ghol
+- [[_wiki/hidna_ressonante\|Hidnas Ressonantes]] — Criaturas sensíveis a vibração de Vor-Ghol
+- [[_wiki/gnoll\|Gnolls]] — Híbridos hiena-humanoide
 - [[_wiki/ogro\|Ogros]] — Humanoides brutais de grande porte
-- [[_wiki/salamandra\|Salamandras]] — Elementais de fogo
-- [[_wiki/diabrete\|Diabretes]] — Demônios menores
-- [[_wiki/ranidano\|Ranidanos]] — Anfíbios sapientes
-- [[_wiki/urtor_de_calcita\|Urtores de Calcita]] — Criaturas minerais
-- [[_wiki/vitraxil\|Vitraxils]] — Seres cristalinos
+- [[_wiki/salamandra\|Salamandras]] — Criaturas elementais de fogo
+- [[_wiki/diabrete\|Diabretes]] — Criaturas menores de origem diabólica
+- [[_wiki/urtor_de_calcita\|Urtores de Calcita]] — Criaturas predadoras de Vor-Ghol
+- [[_wiki/vitraxil\|Vitraxils]] — Criaturas frágeis de Vor-Ghol
 
 ---
 

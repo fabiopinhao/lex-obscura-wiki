@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[racas/saag\|Saag]] ([[_wiki/ranidano\|ranidano]]). Servo de [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]]. Localização: montanhas ocidentais remotas. Status: vivo.
+[[_wiki/saag\|Saag]] ([[_wiki/ranidano\|ranidano]]). Servo de [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]]. Localização: montanhas ocidentais remotas. Status: vivo.
 
 ### Papel Narrativo
 

@@ -18,5 +18,3 @@ Sem falas documentadas. Presente via influência e símbolo (o anel).
 ### Relações-Chave
 
 **[[_wiki/dribbel_olgund\|Dribbel]] (serviço prestado / anel dado):** Anel como pagamento por guia — relação transacional com peso político maior do que [[_wiki/dribbel_olgund\|Dribbel]] compreende.
-
----

@@ -3,11 +3,11 @@
 ---
 
 
-📌 **Nota sobre nomenclatura:** "Gnomo" é o termo genérico da família. Sub-raças seguem as cinco cores arcanas: [[_wiki/derro\|derros]] (preto), [[_wiki/goblin\|goblins]] (vermelho), [[racas/spriggin\|spriggins]] (verde), [[racas/hallirin\|hallirins]] (branco), [[racas/svirfin\|svirfins]] (azul). "Derro" designa especificamente os gnomos das profundezas, termo cunhado por [[_wiki/shadar\|shadars]] e popularizado em todo o [[_wiki/imperio_sombrio\|Império]]. Gnomos de superfície são a linha de base gnômica, equivalentes aos [[_wiki/pindoriar\|pindoriares]] entre humanos: existem narrativamente mas não constituem raça evoluída distinta.
+📌 **Nota sobre nomenclatura:** "Gnomo" é o termo genérico da família. Sub-raças seguem as cinco cores arcanas: [[_wiki/derro\|derros]] (preto), [[_wiki/goblin\|goblins]] (vermelho), [[_wiki/spriggin\|spriggins]] (verde), [[_wiki/hallirin\|hallirins]] (branco), [[_wiki/svirfin\|svirfins]] (azul). "Derro" designa especificamente os gnomos das profundezas, termo cunhado por [[_wiki/shadar\|shadars]] e popularizado em todo o [[_wiki/imperio_sombrio\|Império]]. Gnomos de superfície são a linha de base gnômica, equivalentes aos [[_wiki/pindoriar\|pindoriares]] entre humanos: existem narrativamente mas não constituem raça evoluída distinta.
 
 ### Natureza
 
-Gnomos das profundezas. Onde os [[racas/hallirin\|hallirins]] de superfície mantêm a estatura pequena, a vivacidade e a inclinação artesanal dos gnomos originais, os derros são o que séculos de [[_wiki/vor-ghol\|Vor-Ghol]] fazem com uma raça: adaptam, deformam e afinam. Menores que [[racas/hallirin\|hallirins]], mais pálidos, mais ágeis com os dedos e infinitamente mais desconfiados. Tudo no derro é feito para operar na penumbra, e a penumbra devolveu o favor moldando-os à sua imagem.
+Gnomos das profundezas. Onde os [[_wiki/hallirin\|hallirins]] de superfície mantêm a estatura pequena, a vivacidade e a inclinação artesanal dos gnomos originais, os derros são o que séculos de [[_wiki/vor-ghol\|Vor-Ghol]] fazem com uma raça: adaptam, deformam e afinam. Menores que [[_wiki/hallirin\|hallirins]], mais pálidos, mais ágeis com os dedos e infinitamente mais desconfiados. Tudo no derro é feito para operar na penumbra, e a penumbra devolveu o favor moldando-os à sua imagem.
 
 ### Degeneração
 
@@ -17,7 +17,7 @@ O termo "degenerado" é [[_wiki/shadar\|shadar]] e carrega juízo moral que os d
 
 **Exposição arcana passiva.** [[_wiki/vor-ghol\|Vor-Ghol]] é saturado de resíduo mágico, sobretudo nas camadas onde musgo brilha com radiação de cor preta. Derros absorvem essa contaminação desde o útero. O efeito não é poder: é erosão. Sentidos aguçados, nervos em alerta permanente, paranoia fisiológica. O corpo funciona como se estivesse sob ameaça constante, porque na maior parte do tempo está.
 
-[[racas/hallirin\|Hallirins]] que descem para [[_wiki/vor-ghol\|Vor-Ghol]] e permanecem por gerações produzem descendentes com traços derro. A degeneração não é hereditária no sentido estrito: é ambiental, cumulativa e lenta. Mas depois de três ou quatro gerações no subterrâneo, a reversão é improvável.
+[[_wiki/hallirin\|Hallirins]] que descem para [[_wiki/vor-ghol\|Vor-Ghol]] e permanecem por gerações produzem descendentes com traços derro. A degeneração não é hereditária no sentido estrito: é ambiental, cumulativa e lenta. Mas depois de três ou quatro gerações no subterrâneo, a reversão é improvável.
 
 ### Fisiologia
 
@@ -35,7 +35,7 @@ O traço definidor é **avareza como arquitetura mental**. Derros acumulam. Info
 
 **Teatralidade calculada.** Derros exageram emoções como tática. [[_wiki/dribbel_olgund\|Dribbel]] é medroso, tagarela, servil e dramaticamente incompetente quando lhe convém. A fachada protege competência real. Subestimar um derro é o erro mais lucrativo que um derro pode provocar num cliente.
 
-**Desprezo pelos [[racas/hallirin\|hallirins]].** Derros veem gnomos de superfície como primos fracos que trocaram sagacidade por conforto. [[racas/hallirin\|Hallirins]] vivem em lojas iluminadas, fazem artesanato bonito e confiam nos vizinhos. Derros consideram isso patético. A relação inverte o juízo [[_wiki/shadar\|shadar]]: para derros, os "degenerados" são os que ficaram na luz e amoleceram.
+**Desprezo pelos [[_wiki/hallirin\|hallirins]].** Derros veem gnomos de superfície como primos fracos que trocaram sagacidade por conforto. [[_wiki/hallirin\|Hallirins]] vivem em lojas iluminadas, fazem artesanato bonito e confiam nos vizinhos. Derros consideram isso patético. A relação inverte o juízo [[_wiki/shadar\|shadar]]: para derros, os "degenerados" são os que ficaram na luz e amoleceram.
 
 ### Estrutura Social
 
@@ -100,4 +100,4 @@ Derros falam muito e cada palavra é transação. Verborrágicos como [[_wiki/mu
 
 Nascem individualmente ou em pares. Infância curta: derros trabalham na toca aos 8, operam sozinhos aos 15, adultos aos 20. Vivem até 100 anos em teoria; violência, veneno e traição reduzem a média para 60. Casamentos são contratos com cláusulas de dissolução. Filhos herdam a toca, as dívidas e os inimigos. Funerais são inventários: o corpo é cremado e os pertences divididos conforme o testamento (sempre contestado).
 
-📊 Dados: 2.1_racas_REF.tsv (Derro); 2.8_organizacoes_REF.tsv ([[_wiki/guilda_dos_gnomos\|Guilda dos Gnomos]]); 2.9_personagens_REF.tsv ([[_wiki/dribbel_olgund\|Dribbel Olgund]], [[_wiki/khreek_fio-fino\|Khreek Fio-Fino]]); 📋 Referência: 3.11_organizacoes_LORE.md (§[[_wiki/guilda_dos_gnomos\|Guilda dos Gnomos]]); 3.12_personagens_principais_LORE.md (§[[_wiki/dribbel_olgund\|Dribbel]])
+📋 Referência: 3.11_organizacoes_LORE.md (§[[_wiki/guilda_dos_gnomos\|Guilda dos Gnomos]]); 3.12_personagens_principais_LORE.md (§[[_wiki/dribbel_olgund\|Dribbel]])

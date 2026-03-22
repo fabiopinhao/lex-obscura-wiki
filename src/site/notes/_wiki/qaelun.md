@@ -5,7 +5,7 @@
 
 ### Perfil
 
-Humano. Necromante. Operava no [[_wiki/templo_de_vozrador\|Templo de Vozrador]] em [[_wiki/morvgrad\|Morvgrad]]. Localização: morto. Status: morto (eliminado por [[_wiki/orum-rahru\|Orum-Rahru]]).
+[[_wiki/shadar\|Shadar]]. Necromante. Operava no [[_wiki/templo_de_vozrador\|Templo de Vozrador]] em [[_wiki/morvgrad\|Morvgrad]]. Localização: morto. Status: morto (eliminado por [[_wiki/orum-rahru\|Orum-Rahru]]).
 
 ### Papel Narrativo
 

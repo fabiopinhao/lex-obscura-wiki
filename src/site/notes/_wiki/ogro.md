@@ -21,4 +21,4 @@ Brumgak, ogro guarda-costas da [[_wiki/guilda_dos_gnomos\|Guilda dos Gnomos]] de
 
 Cor arcana, longevidade, reprodução, origem cosmogônica e detalhes fisiológicos precisos não estão documentados. A relação com outras raças de grande porte ([[_wiki/troll\|trolls]], [[_wiki/gerut\|geruts]]) não foi estabelecida. Nenhuma cena do Livro I coloca um ogro vivo em tela diretamente.
 
-📊 Dados: 2.1_racas_REF.tsv; 📋 Referência: 3.3_racas_bestiario_LORE.md (§Ogro)
+📋 Referência: 3.3_racas_bestiario_LORE.md (§Ogro)

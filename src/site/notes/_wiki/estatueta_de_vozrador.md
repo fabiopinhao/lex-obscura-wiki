@@ -21,6 +21,3 @@ A relação Vozrador-Morlgrund opera em simbiose: "a natureza sobrevive nas somb
 
 📌 **Aparições:** Cap5, Cap9, Cap11 (flashback de [[_wiki/arothistar\|Dravmir]]), Cap12 ([[_wiki/abramis\|Abramis]] revela que a guarda).
 
----
-
-<a name="mor-severith"></a>

@@ -82,4 +82,4 @@ A instabilidade do [[_wiki/vinculum_daemonis\|Vinculum Daemonis]] corrói de den
 
 O [[_wiki/sopro_do_eclipse\|Sopro do Eclipse]], a peste continental da [[_referencias/segunda_era\|Segunda Era]], deixou cicatriz coletiva. Varnakianos acolheram refugiados humanos que fugiam do planalto [[_wiki/shadar\|shadar]], e a contaminação dizimou tribos inteiras. As campanhas de vingança contra os [[_wiki/shadar\|shadars]] falharam. A memória da peste persiste como ressentimento surdo contra [[_wiki/reinkard\|Reinkard]], temperado pela consciência pragmática de que atravessar a [[_wiki/dorsal\|Dorsal]] para vingar-se seria suicídio.
 
-📊 Dados: 2.1_racas_REF.tsv (Varnakiano); 2.4_sistemas_acesso_magia_REF.tsv ([[_wiki/vinculum_daemonis\|Vinculum Daemonis]]); 2.12_eventos_historicos_REF.tsv (E-0009, E-0013, E-0015, E-0025, E-0032); 📋 Referência: 3.6_locais_LORE.md (§[[_wiki/veinkard\|Veinkard]], §[[_wiki/varnak\|Varnak]]); 3.11_organizacoes_LORE.md (§[[_wiki/cla_myr_vethan\|Clã Myr'vethan]])
+📋 Referência: 3.6_locais_LORE.md (§[[_wiki/veinkard\|Veinkard]], §[[_wiki/varnak\|Varnak]]); 3.11_organizacoes_LORE.md (§[[_wiki/cla_myr_vethan\|Clã Myr'vethan]])

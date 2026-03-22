@@ -92,4 +92,4 @@ Draconídeos falam com peso e calor. Frases declarativas, afirmativas, raramente
 
 Ovíparos. Fêmeas põem 1 a 3 ovos por ninhada. Incubação de 90 dias em calor constante (fornalhas de clã ou solo vulcânico). Ritual de pacto aplicado ao ovo, não ao indivíduo. Filhotes nascem com escamas macias que endurecem ao longo do primeiro ano. Adultos aos 12. Longevidade de 50-65 anos; violência reduz a média para 40.
 
-📊 Dados: 2.1_racas_REF.tsv (Draconídeo, [[_wiki/sauriano\|Sauriano]]); 2.2_panteao_REF.tsv ([[_wiki/kaelgrym\|Kaelgrym]]); 2.9_personagens_REF.tsv ([[_wiki/yzmareth\|Yzmareth]], [[_wiki/thrax\|Thrax]], [[_wiki/wijmarv\|Wijmarv]]); 2.12_eventos_historicos_REF.tsv (E-0012, E-0015, E-0025, E-0032); 📋 Referência: 3.5_panteao_LORE.md (§[[_wiki/kaelgrym\|Kaelgrym]])
+📋 Referência: 3.5_panteao_LORE.md (§[[_wiki/kaelgrym\|Kaelgrym]])

@@ -48,7 +48,7 @@ As 30 escolas de magia organizam-se em **15 pares antagônicos** distribuídos e
 
 | Escola A | Código | Domínio | ↔ | Escola B | Código | Domínio |
 |----------|--------|---------|---|----------|--------|---------|
-| **[[_wiki/anatho\|Anatho]]** | BR | Maldição e Corrupção | ↔ | **[[_wiki/sacro\|Sacro]]** | WW | Bênção e Purificação |
+| **[[_wiki/anatho\|Anatho]]** | BR | Maldição e Corrupção | ↔ | **[[_wiki/sacro\|Sacro]]** | WW | Graça e Santidade |
 | **[[_wiki/rupto\|Rupto]]** | RR | Destruição e Ruptura | ↔ | **[[_wiki/nomos\|Nomos]]** | WB | Vínculo e Restrição |
 | **[[_wiki/belli\|Belli]]** | RG | Guerra e Combate | ↔ | **[[_wiki/aegis\|Aegis]]** | WU | Proteção e Barreira |
 
@@ -73,7 +73,7 @@ As 30 escolas de magia organizam-se em **15 pares antagônicos** distribuídos e
 | Escola A | Código | Domínio | ↔ | Escola B | Código | Domínio |
 |----------|--------|---------|---|----------|--------|---------|
 | **[[_wiki/spectro\|Spectro]]** | BU | Fantasma e Ilusão | ↔ | **[[_wiki/morpho\|Morpho]]** | GR | Metamorfose e Transformação |
-| **[[_wiki/toxo\|Toxo]]** | GB | Veneno e Ácido | ↔ | **[[_wiki/abjuro\|Abjuro]]** | GW | Anulação e Dissipação |
+| **[[_wiki/toxo\|Toxo]]** | GB | Veneno e Ácido | ↔ | **[[_wiki/abjuro\|Abjuro]]** | GW | Negação e Dissipação |
 
 **Eixos de oposição:**
 - *[[_wiki/spectro\|Spectro]] ↔ [[_wiki/morpho\|Morpho]]:* Parecer vs. Tornar-se — ilusão engana, metamorfose altera.

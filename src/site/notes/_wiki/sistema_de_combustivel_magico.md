@@ -31,7 +31,7 @@ Todo uso de magia possui duplo custo:
 
 ### Custos Temáticos por Escola
 
-📋 **Consulte `Custos Temáticos por Escolas.tsv` para tabela completa.**
+📋 **Consulte `2.6_custos_tematicos_escolas_REF.tsv` para tabela completa.**
 
 **Princípios dos Custos:**
 

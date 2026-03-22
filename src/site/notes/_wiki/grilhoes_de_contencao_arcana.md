@@ -9,6 +9,3 @@ Correntes infundidas com cristais [[_wiki/magi\|magi]] e runas de reforço. Bril
 
 📌 **Aparições:** Cap13 ([[_wiki/thrax\|Thrax]] acorrentado).
 
----
-
-<a name="menores"></a>

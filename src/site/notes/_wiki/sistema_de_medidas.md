@@ -3,8 +3,6 @@
 ---
 
 
-📊 **Consulte `2.11_metricas_tempo_distancia_REF.tsv` para conversões completas, velocidades, modificadores de terreno, pesos, volumes, moedas e apelidos das Eras.**
-
 ### Lema Imperial
 
 "Medir é dominar."

@@ -23,8 +23,8 @@ O acesso a este arquivo é concedido, não garantido. O Império reserva-se o di
 - **[[_wiki/Locais\|Locais]]** — Das fortalezas imperiais às profundezas subterrâneas
 - **[[_wiki/Organizações\|Organizações]]** — O Império, seus braços armados, cultos e facções dissidentes
 - **[[_wiki/Personagens\|Personagens]]** — Justiciars, veteranos, protegidas e o próprio Arothistar
-- **[[_wiki/Sistema de Magia\|Sistema de Magia]]** — Cinco cores, custos ontológicos e o Codex Somniorum
-- **[[_wiki/Artefatos\|Artefatos]]** — Relíquias que carregam vontade própria
+- **[[_wiki/Sistema de Magia\|Sistema de Magia]]** — Cinco cores, trinta escolas e custos ontológicos
+- **[[_wiki/Artefatos\|Artefatos]]** — Relíquias, armas e instrumentos do Império
 - **[[_wiki/Conceitos\|Conceitos]]** — Terminologia, instrumentos jurídicos, política e cultura
 - **[[_wiki/Línguas\|Línguas]]** — Idiomas das raças e política linguística imperial
 - **[[_wiki/Cosmologia\|Cosmologia]]** — Planos, entidades superiores e o Panteão dos deuses

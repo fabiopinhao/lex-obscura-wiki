@@ -80,5 +80,3 @@ A [[_wiki/macula-sombria\|Mácula-Sombria]] agrava a contração. Raízes apodre
 Há tensão entre os que defendem permanecer nas florestas (a terra precisa deles agora mais que nunca) e os que argumentam que a sobrevivência exige movimento (buscar florestas não corrompidas, talvez além de [[_wiki/reinkard\|Reinkard]]). Os anciãos recusam-se a sair. Os poucos jovens inquietos são poucos demais para forçar a questão.
 
 Os geruts cativos, como [[_wiki/jalu_nvara\|Jalú'Nvara]], representam um problema de outra ordem: carregam memórias que o [[_wiki/imperio_sombrio\|Império]] quer e os círculos precisam proteger. [[_wiki/jalu_nvara\|Jalú'Nvara]] recusa falar por lealdade e por cálculo: as memórias que guarda, sobre o antigo [[_wiki/imperio_sombrio\|Império]] de [[_wiki/myrgarde\|Myrgarde]], são a última coisa de valor que os geruts ainda possuem. Entregá-las seria ceder o último território.
-
-📊 **Dados:** TSV 2.1 (raça); TSV 2.12 (E-0006, E-0023, E-0042); Cronologia 3.10 (§10.1-10.2, §10.5, §10.9); Personagens 3.13 (§ [[_wiki/jalu_nvara\|Jalú'Nvara]]); Mistérios 4.2 (4.1-02-C, 4.1-04-O, 9.3-01-C, 9.3-04-O); Outline 6.1 (seções 4.1, 9.3)

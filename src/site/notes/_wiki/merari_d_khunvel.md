@@ -22,5 +22,3 @@ Tom burocrático disfarçado de raciocínio. Recorre a instrumentos legais quand
 **[[_wiki/maraxus\|Maraxus]] (dependência / armadilha):** Desenvolveu dependência progressiva sem perceber que se tornara peça descartável.
 
 **[[_wiki/milorsevogh_velshard\|Milor]] (adversário / juiz):** [[_wiki/milorsevogh_velshard\|Milor]] desmonta a narrativa fabricada pelo [[_wiki/maraxus\|Maraxus]]. Merari invoca Veredictum como último recurso de poder.
-
----

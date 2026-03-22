@@ -25,4 +25,4 @@ No [[_wiki/templo_de_vozrador\|Templo de Vozrador]] (Cap11), a armadura é posta
 
 A contramedida é água — vertida do cantil templário consagrado que [[_wiki/orum-rahru\|Orum]] carrega na anca. O líquido cai primeiro no elmo e desce, afogando couro e malha, lavando ombreiras, gorjal, percorrendo ranhuras das placas e correndo pelas juntas até dissolver a pasta opalescente em fios violáceos. Os encantamentos retornam. Ciclo completo: poder perdido, sobrevivência nua, poder restaurado.
 
-📊 Dados: 2.10_artefatos_REF.tsv (Armadura Templária de [[_wiki/orum-rahru\|Orum]]); 📋 Referência: 3.11_organizacoes_LORE.md (§[[_wiki/templarios\|Templários]], §Legado Cultural); 3.12_personagens_principais_LORE.md (§[[_wiki/orum-rahru\|Orum-Rahru]])
+📋 Referência: 3.11_organizacoes_LORE.md (§[[_wiki/templarios\|Templários]], §Legado Cultural); 3.12_personagens_principais_LORE.md (§[[_wiki/orum-rahru\|Orum-Rahru]])

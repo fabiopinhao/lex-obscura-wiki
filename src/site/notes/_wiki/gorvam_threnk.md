@@ -39,4 +39,4 @@ A incapacidade de Gorvam de reconhecer armas que não vieram de suas forjas (10.
 
 **[[_wiki/thandruk_varn\|Thandruk Varn]] / [[_wiki/karashim\|karashim]] (recurso supervisionado):** A relação de Gorvam com os anões é de gerência, não de aliança. Defende a sobrevivência deles porque a alternativa é arsenais vazios. A "indispensabilidade" que invoca é corrente que protege e aprisiona ao mesmo tempo.
 
-📊 Dados: 2.9_personagens_REF.tsv (Gorvam Threnk); 📋 Referência: 3.11_organizacoes_LORE.md (§[[_wiki/conselho_sombrio\|Conselho Sombrio]]); 3.3_racas_bestiario_LORE.md (§[[_wiki/karashim\|Karashim]]); 3.6_locais_LORE.md (§[[_wiki/thandruk_varn\|Thandruk Varn]])
+📋 Referência: 3.11_organizacoes_LORE.md (§[[_wiki/conselho_sombrio\|Conselho Sombrio]]); 3.3_racas_bestiario_LORE.md (§[[_wiki/karashim\|Karashim]]); 3.6_locais_LORE.md (§[[_wiki/thandruk_varn\|Thandruk Varn]])

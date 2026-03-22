@@ -11,4 +11,4 @@ Réptil monstruoso dotado de olhar petrificante. Contato visual direto resulta e
 
 Prevalência, contramedidas, fisiologia detalhada e aparições narrativas no Livro I não estão documentados. O basilisco existe no bestiário do universo como ameaça conhecida, mas nenhuma cena do Livro I o coloca em tela.
 
-📊 Dados: 2.1_racas_REF.tsv; 📋 Referência: 3.3_racas_bestiario_LORE.md (§Basilisco)
+📋 Referência: 3.3_racas_bestiario_LORE.md (§Basilisco)

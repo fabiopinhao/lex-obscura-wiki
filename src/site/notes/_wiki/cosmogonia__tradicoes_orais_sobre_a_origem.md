@@ -56,5 +56,3 @@ Nem toda raça possui cosmogonia própria. [[_wiki/drul\|Druls]] compartilham a 
 Nenhuma tradição é confirmada ou negada pelo sistema canônico. A coexistência de versões contraditórias é intencional e reflete um princípio do universo: os deuses não explicam a si mesmos. O conhecimento sobre a origem do universo permanece inacessível, e toda tentativa de alcançá-lo diz mais sobre quem pergunta do que sobre o que é perguntado.
 
 É possível que todas estejam erradas. É possível que fragmentos de cada uma contenham verdade. O universo de [[_wiki/lex_obscura_decreto\|Lex Obscura]] não possui cosmogonia autoritativa por design.
-
----

@@ -103,4 +103,4 @@ Nascem individualmente (gêmeos são raríssimos). Infância longa: consideram-s
 
 Funerais são privados. O corpo é cremado na forja do clã, e as cinzas são misturadas ao próximo lote de metal fundido. O primeiro objeto forjado com esse metal é guardado pela família. Karashins carregam seus mortos nas ferramentas.
 
-📊 Dados: 2.1_racas_REF.tsv (Karashim); 2.7_locais_REF.tsv ([[_wiki/thandruk_varn\|Thandruk Varn]]); 2.8_organizacoes_REF.tsv ([[_wiki/khelg_dur\|Khelg'Dur]]); 2.9_personagens_REF.tsv ([[_wiki/borzrun\|Borzrun]], [[_wiki/gorvam_threnk\|Gorvam Threnk]], [[_wiki/draven-thol\|Draven-Thol]]); 2.12_eventos_historicos_REF.tsv (E-0014, E-0024, E-0028, E-0029, E-0044, E-0046); 📋 Referência: 3.10_cronologia_LORE.md (§[[_wiki/sopro_do_eclipse\|Sopro do Eclipse]], §Guerras Reinkárdicas)
+📋 Referência: 3.10_cronologia_LORE.md (§[[_wiki/sopro_do_eclipse\|Sopro do Eclipse]], §Guerras Reinkárdicas)

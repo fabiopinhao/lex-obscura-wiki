@@ -3,10 +3,12 @@
 ---
 
 
-Ravhor é um tenente [[_wiki/shadar\|shadar]] que serviu sob o Major [[_wiki/vekraal\|Vekraal]] durante as campanhas imperiais. Veterano de [[_wiki/valdris\|Valdris]], carrega no corpo e na memória as cicatrizes daquele evento — ao ouvir o nome, a mão busca a marca na pele antes que a mente consiga impedi-la.
+### Perfil
 
-Durante a cerimônia de promoção de [[_wiki/vekraal\|Vekraal]] a general no pátio da Torre de [[_wiki/khargoth\|Khargoth]], Ravhor observou com lucidez o que outros preferiam ignorar: que o sangue [[_wiki/nidzina_avaroth\|Avaroth]] de [[_wiki/nidzina_avaroth\|Nidzina]] funcionava como escudo político, que a filosofia de terror de [[_wiki/vekraal\|Vekraal]] incomodava até os mais disciplinados. Após a dispersão da formação, [[_wiki/milorsevogh_velshard\|Milor]] o abordou para revelar a marca de [[_wiki/anatho\|Anatho]] e impor uma instrução que ninguém pediria a um amigo: "Se a marca despertar, lembra-te de [[_wiki/valdris\|Valdris]]. E faz o que deve ser feito."
+Tenente [[_wiki/shadar\|shadar]] veterano, colega de [[_wiki/milorsevogh_velshard\|Milorsevogh Velshard]] durante o período em que ambos serviam na Torre de [[_wiki/khargoth\|Khargoth]]. Rosto estreito, cabelos raspados, cicatrizes riscando do pescoço até a clavícula. Dizia-se que fora salvo de enforcamento porque arrancara o próprio laço da forca com os dentes. Veterano de [[_wiki/valdris\|Valdris]], carrega no corpo e na memória as cicatrizes daquele evento — toca inconscientemente a cicatriz no pescoço quando lembra, morde o interior da bochecha quando engole palavras.
 
-Ravhor ficou sozinho com o peso da promessa. Não a escolheu, não a recusou — e agora a carrega como quem carrega uma lâmina apontada para alguém que respeita.
+### Papel Narrativo
 
-Na seção 7.2, Ravhor é convocado para a Terceira Legião de [[_wiki/vekraal\|Vekraal]], afastando-o de [[_wiki/morvgrad\|Morvgrad]] e do convívio direto com [[_wiki/milorsevogh_velshard\|Milor]].
+Na formação de [[_wiki/khargoth\|Khargoth]] (seção 2.5), posicionado à direita de [[_wiki/milorsevogh_velshard\|Milor]]. Diante do discurso de [[_wiki/vekraal\|Vekraal]], toca a cicatriz no pescoço e morde a bochecha por dentro. Retido no pátio com [[_wiki/milorsevogh_velshard\|Milor]] após a formação — proximidade entre os dois nunca declarada, nascida em combates em que se aprende mais pelo silêncio partilhado do que por palavras. [[_wiki/milorsevogh_velshard\|Milor]] revela a marca de [[_wiki/anatho\|Anatho]] e impõe uma instrução que ninguém pediria a um amigo: "Se a marca despertar, lembra-te de [[_wiki/valdris\|Valdris]]. E faz o que deve ser feito." Ravhor crispa-se — tremor involuntário, memória física de terror que o corpo não esquece.
+
+Na seção 7.2, [[_wiki/valhedras\|Valhedras]] informa a [[_wiki/milorsevogh_velshard\|Milor]] que Ravhor foi convocado para a Terceira Legião Oriental de [[_wiki/vekraal\|Vekraal]]. [[_wiki/milorsevogh_velshard\|Milor]] comenta que Ravhor sempre soube navegar a política militar e que [[_wiki/vekraal\|Vekraal]] precisa de oficiais que não questionem métodos — avaliação que é tanto elogio quanto lamento.

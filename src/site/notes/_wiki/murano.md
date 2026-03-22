@@ -117,4 +117,4 @@ Não há período de luto para filhotes mortos. Fêmeas que perderam ninhadas in
 
 Muranos acima de 25 são raros. Chegaram a uma idade que ninguém esperava, o que significa ou que são muito espertos ou que alguma coisa está errada.
 
-📊 Dados: 2.1_racas_REF.tsv (Murano); 2.9_personagens_REF.tsv ([[_wiki/skanivik\|Skanivik]], [[_wiki/skinitz\|Skinitz]]); 📋 Referência: 3.12_personagens_principais_LORE.md (§[[_wiki/skanivik\|Skanivik]])
+📋 Referência: 3.12_personagens_principais_LORE.md (§[[_wiki/skanivik\|Skanivik]])

@@ -5,7 +5,7 @@
 
 ### Perfil
 
-Humano. Alquimista e teórico da magia. Autor de *De Magia Alchemica: Fundamenta Physica*. Fundador da [[_wiki/teoria_materialista\|Teoria Materialista]] — postulou que toda magia é manipulação de [[_wiki/magi\|Magi]], força alquímica real e invisível. Definia deuses por abundância de [[_wiki/magi\|Magi]], não por status espiritual. Considerava alquimia a única forma consciente e autônoma de magia; tratava [[_wiki/teru\|Teru]] como "anomalia metabólica." Status: morto (executado pelas forças humanas de [[_wiki/myrgarde\|Myrgarde]] durante as Guerras Reinkárdicas).
+[[_wiki/shadar\|Shadar]]. Alquimista e teórico da magia. Autor de *De Magia Alchemica: Fundamenta Physica*. Fundador da [[_wiki/teoria_materialista\|Teoria Materialista]] — postulou que toda magia é manipulação de [[_wiki/magi\|Magi]], força alquímica real e invisível. Definia deuses por abundância de [[_wiki/magi\|Magi]], não por status espiritual. Considerava alquimia a única forma consciente e autônoma de magia; tratava [[_wiki/teru\|Teru]] como "anomalia metabólica." Status: morto (executado pelas forças humanas de [[_wiki/myrgarde\|Myrgarde]] durante as Guerras Reinkárdicas).
 
 ### Papel Narrativo
 

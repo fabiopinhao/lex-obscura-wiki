@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[racas/aquilar\|Aquilar]] ([[_wiki/aviano\|aviano]]). Amigo de infância de [[_wiki/arothistar\|Dravmir]] em [[_wiki/myrgarde\|Myrgarde]]. Jogavam [[_wiki/korball\|Korball]] juntos — [[_wiki/ioni\|Ioni]] teve seu momento de glória graças à compaixão de [[_wiki/arothistar\|Dravmir]] no jogo. Tornou-se soldado da Guarda do Templo, ostentando armadura alada. Usou posição para ajudar antigo amigo. Localização: [[_wiki/mor_severith\|Mor'Severith]] (prisioneiro). Status: vivo, debilitado, confinado.
+[[_wiki/aquilar\|Aquilar]] ([[_wiki/aviano\|aviano]]). Amigo de infância de [[_wiki/arothistar\|Dravmir]] em [[_wiki/myrgarde\|Myrgarde]]. Jogavam [[_wiki/korball\|Korball]] juntos — [[_wiki/ioni\|Ioni]] teve seu momento de glória graças à compaixão de [[_wiki/arothistar\|Dravmir]] no jogo. Tornou-se soldado da Guarda do Templo, ostentando armadura alada. Usou posição para ajudar antigo amigo. Localização: [[_wiki/mor_severith\|Mor'Severith]] (prisioneiro). Status: vivo, debilitado, confinado.
 
 Carrega bênção de [[_wiki/israfil\|Israfil]] (anjo branco) incompatível com maldição de [[_wiki/malagoth\|Malagoth]] (Coroa de Espinhos). A matriz elarina que sustenta a bênção não é compatível com híbridos avian-humanos, causando deterioração física acelerada. [[_wiki/odran\|Odran]] recebeu ordem de estudar solução, mas perspectiva é sombria. Possui cicatriz de servidão no pescoço — engasga violentamente ao tentar pronunciar o nome "[[_wiki/arothistar\|Dravmir]]." Mantido em quarto com painéis de madeira junto com [[_wiki/iluvrae\|Ilúvrae]]. Penas opacas, corpo curvado, respiração irregular. Aproxima-se do centenário. Odeia [[_wiki/arothistar\|Arothistar]] mas é incapaz de pronunciar qualquer coisa que o mestre considere ofensiva.
 

@@ -28,7 +28,8 @@
 **Vantagens:**
 ✅ Independência total - sem obrigações a entidades  
 ✅ Versatilidade máxima - acesso a 10 escolas diferentes  
-✅ Sem marca física ou corrupção  
+✅ Sem marca física
+✅ Custos ontológicos diluídos (tendências mistas, sem transformação completa)  
 ✅ Pode ser ensinado/institucionalizado  
 ✅ Socialmente respeitável (não estigma de pactos)
 
@@ -54,7 +55,3 @@ Exemplo usando Necromancia:
 - Custo: Anos de estudo, sem obrigações
 
 **Conclusão:** Teru permite fazer "um pouco de tudo", pactos permitem maestria em "muito de pouco".
-
----
-
-<a name="combustivel-magico"></a>

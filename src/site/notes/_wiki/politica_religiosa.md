@@ -19,7 +19,7 @@ Esta neutralidade é, paradoxalmente, o que permite a [[_wiki/milorsevogh_velsha
 
 [[_wiki/arothistar\|Arothistar]] proibiu pactos com [[_wiki/demonios\|deuses vermelhos]] ([[_wiki/demonios\|demônios]]), tipificando-os como crime de [[_wiki/vinculum_daemonis\|Vinculum Daemonis]]. A punição são os Fossos de [[_wiki/drokh_malahar\|Drokh'Malahar]]. A proibição serve dois propósitos: primeiro, eliminar fontes de caos dentro do [[_wiki/imperio_sombrio\|império]]; segundo, concentrar todo acesso demoníaco em [[_wiki/arothistar\|Arothistar]] (via [[_wiki/kaelgrym\|Kaelgrym]]), mantendo o monopólio do medo.
 
-O caso de [[_wiki/maraxus\|Maraxus]]/[[_wiki/hazburim\|Hazburin]] demonstra a falha do sistema: pactos clandestinos existem apesar da proibição, e o Culto não possui mecanismo eficiente para detectá-los. A mesma magia que poderia identificar pactos ocultos — [[_wiki/deteccao_de_alinhamento\|detecção de alinhamento]] — é politicamente perigosa porque revelaria também aliados inconvenientes.
+O caso de [[_wiki/maraxus\|Maraxus]]/[[_wiki/hazburim\|Hazburim]] demonstra a falha do sistema: pactos clandestinos existem apesar da proibição, e o Culto não possui mecanismo eficiente para detectá-los. A mesma magia que poderia identificar pactos ocultos — [[_wiki/deteccao_de_alinhamento\|detecção de alinhamento]] — é politicamente perigosa porque revelaria também aliados inconvenientes.
 
 ### Facções Internas
 

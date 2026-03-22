@@ -29,4 +29,4 @@ Elzakar (adversário contido): O preceptor representa a hierarquia arcana formal
 
 [[_wiki/xilvenneth\|Xilvenneth]] (agente / extensão): Ophideia presente no corredor durante o conflito, cuja provocação a [[_wiki/rhazamir\|Rhazamir]] detonou a cadeia de eventos. A conexão com Zilvra sugere que a presença de [[_wiki/xilvenneth\|Xilvenneth]] na torre não era casual, mesmo que a escalada tenha saído do roteiro.
 
-📊 Dados: 2.9_personagens_REF.tsv (Zilvra Xund'ala); 📋 Referência: 3.11_organizacoes_LORE.md (§Casas Matriarcais, §[[_wiki/ophideias\|Ophideias]]); 3.12_personagens_principais_LORE.md (§[[_wiki/milorsevogh_velshard\|Milorsevogh Velshard]])
+📋 Referência: 3.11_organizacoes_LORE.md (§Casas Matriarcais, §[[_wiki/ophideias\|Ophideias]]); 3.12_personagens_principais_LORE.md (§[[_wiki/milorsevogh_velshard\|Milorsevogh Velshard]])

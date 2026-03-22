@@ -84,4 +84,4 @@ Kobolds falam pouco, baixo e em terceira pessoa quando se referem a si mesmos. "
 
 Ovíparos. Ninhadas de 4 a 8 ovos. Incubação de 30 dias em chocadeiras controladas. Filhotes andam nas primeiras horas, falam (palavras funcionais) aos 6 meses, adultos aos 4 anos. Longevidade de 30-40 anos; expectativa real de 20-25. Morrem por exaustão, acidente, descarte ou violência de outras raças. Funerais inexistem: corpos são removidos como resíduo.
 
-📊 Dados: 2.1_racas_REF.tsv (Kobold); 2.9_personagens_REF.tsv ([[_wiki/fing\|Fing]], [[_wiki/thrax\|Thrax]], [[_wiki/quaz_har\|Quaz'har]]); 2.12_eventos_historicos_REF.tsv (E-0010, E-0024); 📋 Referência: 3.3_racas_bestiario_LORE.md (§[[_wiki/sauriano\|Sauriano]]/Kobold)
+📋 Referência: 3.3_racas_bestiario_LORE.md (§[[_wiki/sauriano\|Sauriano]]/Kobold)

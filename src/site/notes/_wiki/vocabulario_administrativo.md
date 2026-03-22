@@ -20,4 +20,3 @@ O [[_wiki/imperio_sombrio\|Império]] desenvolveu terminologia que oculta a natu
 
 **Funcionamento social:** Civis ignoram a realidade. Iniciantes repetem termos sem saber. Veteranos entendem tudo em silêncio. Famílias não fazem perguntas.
 
----

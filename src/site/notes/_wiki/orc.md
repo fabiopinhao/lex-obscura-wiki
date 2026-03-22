@@ -100,5 +100,3 @@ A ancestralidade [[_wiki/luminares\|luminar]] é a ferida que ninguém menciona.
 **Com elfos:** Convivência particularmente explosiva. Memórias das guerras anteriores à ascensão sombria inflamam o sangue orc. Mesmo sob ordens diretas, poucos hesitam diante da chance de esmagar um rebelde élfico. A ironia histórica é que compartilham origem nos [[_wiki/luminares\|Luminares]], mas nenhum dos lados reconhece ou aceita esse fato.
 
 **Com [[_wiki/sauriano\|saurianos]]:** Aversão instintiva a répteis e qualquer coisa com escamas. Na formalização militar das [[_wiki/guerras_reinkardicas_inicio\|Guerras Reinkárdicas]], [[_wiki/kobold\|kobolds]] foram designados como intendentes das legiões orcs, mas os orcs os matavam por reflexo. [[_wiki/goblin\|Goblins]] substituíram os [[_wiki/kobold\|kobolds]] na função.
-
-📊 **Dados:** TSV 2.1 (raça); TSV 2.12 (eventos); TSV 2.4 (sistemas de acesso mágico); LORE 3.8 (línguas)

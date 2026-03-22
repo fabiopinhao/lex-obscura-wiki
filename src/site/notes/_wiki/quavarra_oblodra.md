@@ -33,4 +33,4 @@ A cena opera em três camadas simultâneas: julgamento formal ([[_wiki/alianca_s
 
 [[_wiki/kaedhras\|Kaedhras Morvil]] (peça descartável): O tenente é instrumento duplo: evidência de corrupção militar [[_wiki/shadar\|shadar]] e isca para medir [[_wiki/orum-rahru\|Orum]]. Quavarra o entrega sabendo que a execução é inevitável.
 
-📊 Dados: 2.9_personagens_REF.tsv (Quavarra Oblodra); 📋 Referência: 3.13_personagens_secundarios_LORE.md (§[[_wiki/kaedhras\|Kaedhras]] Morvil); 3.11_organizacoes_LORE.md (§Casas Matriarcais, §[[_wiki/alianca_subterranea\|Aliança Subterrânea]])
+📋 Referência: 3.13_personagens_secundarios_LORE.md (§[[_wiki/kaedhras\|Kaedhras]] Morvil); 3.11_organizacoes_LORE.md (§Casas Matriarcais, §[[_wiki/alianca_subterranea\|Aliança Subterrânea]])

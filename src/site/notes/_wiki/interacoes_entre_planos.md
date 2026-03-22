@@ -20,5 +20,3 @@ O "[[_wiki/flux_aetheria\|Flux Aetheria]]" — tentativa de manipular diretament
 ### [[_wiki/deteccao_de_alinhamento\|Detecção de Alinhamento]]
 
 Magias especializadas podem revelar a marca espiritual de pactos e a cor emocional de Ardorados. Tais magias são politicamente perigosas: inquisidores capazes de detectar pactos podem identificar traidores, espiões ou falsos devotos. A mesma ferramenta que protege o [[_wiki/imperio_sombrio\|império]] pode desestabilizá-lo, dependendo de quem a usa e contra quem.
-
----

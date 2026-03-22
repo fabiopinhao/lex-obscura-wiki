@@ -9,7 +9,7 @@
 
 ### Liderança
 
-**[[_wiki/koliah\|Koliah]]:** Líder da resistência. Sylvana que sofreu abuso de [[_wiki/maraxus\|Maraxus]] em [[_wiki/niedellin\|Niedellin]] — trauma que moldou sua determinação. Lidera com pragmatismo, não idealismo. Recruta [[_wiki/levi\|Levi]] como aprendiz após o confronto com o altar de [[_wiki/hazburim\|Hazburim]]. Aliança secreta com [[_wiki/abramis\|Abramis]] (padre da capela de [[_wiki/niedellin\|Niedellin]]).
+**[[_wiki/koliah\|Koliah]]:** Líder da resistência. Humana, filha do padre [[_wiki/abramis\|Abramis]]. Sofreu abuso de [[_wiki/maraxus\|Maraxus]] em [[_wiki/niedellin\|Niedellin]] — trauma que moldou sua determinação. Lidera com pragmatismo, não idealismo. Recruta [[_wiki/levi\|Levi]] como aprendiz após o confronto com o altar de [[_wiki/hazburim\|Hazburim]]. Aliança secreta com [[_wiki/abramis\|Abramis]] (padre da capela de [[_wiki/niedellin\|Niedellin]]).
 
 **[[_wiki/gaelwyn\|Gaelwyn]] ([[_wiki/gaelwyn\|Gael]]):** Ranger principal, talento excepcional. [[_wiki/milorsevogh_velshard\|Milor]] plantou algo nele durante interrogatório (arcanum antigo: "Vethrak nâl, sol'thar teler") — semente mágica com efeitos progressivos: floresta rejeita [[_wiki/gaelwyn\|Gael]], queima quando [[_wiki/milorsevogh_velshard\|Milor]] se aproxima, impede matar [[_wiki/milorsevogh_velshard\|Milor]], permite rastreamento. Semente quebrada por [[_wiki/milorsevogh_velshard\|Milor]] em 12.6.
 

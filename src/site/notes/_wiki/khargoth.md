@@ -3,7 +3,7 @@
 ---
 
 
-Torre de obsidiana dedicada ao ensino das escolas arcanas sombrias. Etimologia: Khar (torre) + Goth (magia). Cerca de duzentos membros organizados em círculos hierárquicos de acesso ao conhecimento, sistema que espelha a estrutura geral do Culto: ascensão por mérito, mas mérito definido por lealdade. A torre funciona simultaneamente como universidade e tribunal arcano: ensina, vigia e pune.
+Torre de obsidiana dedicada ao ensino das escolas arcanas sombrias. Etimologia: Khar (torre) + Goth (magia). Cerca de quinhentos membros organizados em círculos hierárquicos de acesso ao conhecimento, sistema que espelha a estrutura geral do Culto: ascensão por mérito, mas mérito definido por lealdade. A torre funciona simultaneamente como universidade e tribunal arcano: ensina, vigia e pune.
 
 [[_wiki/milorsevogh_velshard\|Milor]] estudou em Khargoth antes da unção como Justiciar. No vigésimo andar, a biblioteca-corredor abriga grimórios de maldições, tratados sobre as sete escolas de [[_wiki/anatho\|Anatho]] e um laboratório de venenos no terceiro círculo. Ergot preto (fungo alucinógeno de [[_wiki/vor-ghol\|Vor-Ghol]]) circula entre estudantes. Pralinés de Khargoth são especialidade local, vendidos até em [[_wiki/ezrath\|Ezrath]].
 

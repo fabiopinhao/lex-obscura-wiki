@@ -21,4 +21,4 @@ O mistério registrado no Mapa de Mistérios ("Por que [[_wiki/vekraal\|Vekraal]
 
 **[[_wiki/orum-rahru\|Orum-Rahru]] (antagonismo indireto):** [[_wiki/orum-rahru\|Orum]] os usou como pretexto para humilhar [[_wiki/vekraal\|Vekraal]], questionando a presença de "raças inferiores" em [[_wiki/khargoth\|Khargoth]].
 
-📊 Dados: 2.9_personagens_REF.tsv; 📋 Referência: 3.13_personagens_secundarios_LORE.md (§Gorvash Três-Cicatrizes)
+📋 Referência: 3.13_personagens_secundarios_LORE.md (§Gorvash Três-Cicatrizes)

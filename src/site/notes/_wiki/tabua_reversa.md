@@ -11,6 +11,3 @@
 
 📌 **Aparições:** Cap4, Cap9, Cap11 (inventário no porão da capela), Cap12.
 
----
-
-<a name="alto-valor"></a>

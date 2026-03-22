@@ -70,4 +70,27 @@ Os contrastes mais reveladores não são entre cores opostas, mas entre cores vi
 
 Da mesma forma, [[_wiki/diabos\|diabos]] e [[_wiki/demonios\|demônios]] compartilham a ambição por poder, mas o exercem de maneiras opostas. [[_wiki/diabos\|Diabos]] constroem: impérios, hierarquias, sistemas de controle. [[_wiki/demonios\|Demônios]] destroem: estruturas, alianças, limites. Um diabo quer governar o tabuleiro; um demônio quer virá-lo. Essa incompatibilidade explica por que [[_wiki/vor-ghol\|Vor-Ghol]], na [[_referencias/idade_esquecida\|Idade Esquecida]], não conseguiu abrigar ambas as facções: os [[_wiki/luminares\|Luminares]] pactuados com [[_wiki/diabos\|diabos]] (futuros [[_wiki/drul\|druls]]) exigiam ordem e disciplina subterrânea; os [[_wiki/luminares\|Luminares]] vinculados a [[_wiki/demonios\|demônios]] (futuros [[_wiki/orc\|orcs]]) eram caóticos demais para se submeter. A expulsão dos proto-orcs para a superfície não foi capricho: foi consequência inevitável de duas essências incompatíveis ocupando o mesmo espaço.
 
----
+### Proximidade ao Plano Material
+
+A distância entre cada categoria divina e [[_wiki/thamakard\|Thamakard]] não é geográfica, mas funcional: mede-se pelo grau de interesse, presença e influência que cada grupo exerce sobre o mundo dos mortais.
+
+| Categoria | Localização | Interesse em [[_wiki/thamakard\|Thamakard]] |
+|-----------|-------------|------------------------|
+| **[[_wiki/titas\|Titãs]] (verdes)** | Periferia do plano material (os mais próximos) | Alto — sentem as dores do plano, querem equilíbrio, consideram [[_wiki/thamakard\|Thamakard]] "casa deles" |
+| **[[_wiki/siderais\|Siderais]] (azuis)** | Vagam pelo [[_wiki/plano_etereo\|Plano Etéreo]] (distância variável) | Curiosidade, estudo, interesse intelectual. Sem julgamento moral |
+| **[[_wiki/anjos\|Anjos]] (brancos)** | Planos distantes próprios | Justiça e ordem. Exercem influência por fé, não por imposição direta |
+| **[[_wiki/diabos\|Diabos]] (negros)** | Planos distantes próprios | Controle, ordem sombria, domínio de almas. Atuam por contrato |
+| **[[_wiki/demonios\|Demônios]] (vermelhos)** | Planos distantes próprios | Destruição, caos, prazer na violência. Atuam por vínculo de força |
+
+Os [[_wiki/titas\|titãs]] são os guardiões mais próximos de [[_wiki/thamakard\|Thamakard]] porque sua existência está ligada à natureza do plano material. [[_wiki/anjos\|Anjos]], [[_wiki/diabos\|diabos]] e [[_wiki/demonios\|demônios]] operam à distância, exercendo influência por meio de pactuados, sacerdotes e rituais. Para detalhes de cada categoria, consultar os grãos individuais.
+
+### Avatares
+
+Deuses não possuem forma física consensual. Nenhuma raça concorda sobre a aparência de qualquer divindade, e representações iconográficas variam entre culturas e eras. O que todas as tradições registram é o fenômeno dos **avatares**: manifestações temporárias de um deus no plano material.
+
+Um avatar não é o deus. É uma projeção de sua vontade, uma extensão limitada de seu poder que assume forma física por tempo determinado. O avatar age segundo os interesses da divindade, carrega uma fração de seu poder, e dissolve-se quando sua função é cumprida ou quando a energia que o sustenta se esgota.
+
+Nem todo deus cria avatares. Muitos jamais se manifestaram em [[_wiki/thamakard\|Thamakard]], preferindo operar exclusivamente por meio de pactuados e rituais. A manifestação de um avatar é evento raro, registrado nas crônicas como catástrofe ou milagre, dependendo da perspectiva.
+
+O caso canônico no Livro I é o **avatar de [[_wiki/morlgrund\|Morlgrund]]** em [[_wiki/thal_serin\|Thal'Serin]]: manifestou-se quando o sangue derramado pela conspiração de [[_wiki/maraxus\|Maraxus]] ameaçou o equilíbrio da floresta sagrada. Demonstra princípios centrais: exigiu gatilho extremo (sangue massivo em solo sagrado), assumiu forma coerente com a essência do deus (terra, pedra, fogo tectônico), agiu com propósito específico (julgamento e proteção), e dissipou-se quando o propósito foi cumprido.
+
