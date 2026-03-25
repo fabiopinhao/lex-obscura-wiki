@@ -19,7 +19,7 @@ Apesar da retórica de desafio, Quavarra reconhece a onipresença do monarca: su
 
 ### Papel Narrativo no Livro I
 
-Quavarra aparece na seção 2.6, quando convoca [[_wiki/orum-rahru\|Orum-Rahru]] para julgar o tenente [[_wiki/kaedhras\|Kaedhras Morvil]] — [[_wiki/shadar\|shadar]] que violou a [[_wiki/alianca_subterranea\|Aliança Subterrânea]], invadindo rotas restritas da Torre Lateral com chaves rúnicas e saqueando [[_wiki/gema-viva\|gemas-vivas]] (ovos de [[_wiki/dridar\|dridar]]) do salão das matronas. Pelas leis de [[_wiki/xarn\|Xarn]], [[_wiki/drul\|druls]] não podem punir diretamente militares [[_wiki/shadar\|shadars]]: "o martelo é seu, juiz."
+Quavarra aparece na seção 2.6, quando convoca [[_wiki/orum-rahru\|Orum-Rahru]] para julgar o tenente [[_wiki/kaedhras\|Kaedhras Morvil]] — [[_wiki/shadar\|shadar]] que violou a [[_wiki/alianca_subterranea\|Aliança Subterrânea]], invadindo rotas restritas da Torre Lateral com chaves rúnicas e saqueando [[_wiki/gema-viva\|gemas-vivas]] (ovos de [[criaturas/dridar\|dridar]]) do salão das matronas. Pelas leis de [[_wiki/xarn\|Xarn]], [[_wiki/drul\|druls]] não podem punir diretamente militares [[_wiki/shadar\|shadars]]: "o martelo é seu, juiz."
 
 A escolha de convocar [[_wiki/orum-rahru\|Orum]] e não [[_wiki/vekraal\|Vekraal]] é deliberada — teste de lealdade e medição. Quavarra entrega o prisioneiro como quem entrega uma pergunta: a resposta de [[_wiki/orum-rahru\|Orum]] revelará mais sobre o Justiciar do que sobre o acusado. Ela estala os dedos para desfazer o silêncio mágico que amordaça [[_wiki/kaedhras\|Kaedhras]], permitindo que o interrogatório corra sob termos de [[_wiki/orum-rahru\|Orum]], mas no território dela, cercado por suas guardas, sob seus vitrais.
 

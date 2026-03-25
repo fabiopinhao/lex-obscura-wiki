@@ -29,17 +29,15 @@ Mãos com cinco dedos longos e garras vestigiais curvas: eficientes para escalar
 
 **Metabolismo acelerado.** Muranos comem o equivalente a metade do próprio peso a cada dois dias. Após 36 horas sem alimentação, o corpo consome músculo. Após 72 horas, alucinações. Após cinco dias, morte. A urgência alimentar molda cada decisão, cada aliança e cada traição.
 
-### Consciência Coletiva
+### Rede Sensorial
 
-Muranos em proximidade (até vinte metros) compartilham uma percepção difusa de estado emocional, direção de movimento e nível de ameaça. A transmissão opera por dois canais: emissões ultrassônicas (inaudíveis para a maioria das raças) e feromônios voláteis liberados pela pelagem oleosa. Juntos, criam uma rede que funciona como sistema nervoso colonial.
+Muranos em proximidade (até vinte metros) captam sinais sensoriais uns dos outros por dois canais: emissões ultrassônicas (inaudíveis para a maioria das raças) e feromônios voláteis liberados pela pelagem oleosa. Juntos, criam uma rede de comunicação primitiva que transmite estados emocionais básicos — medo, fome, direção de fuga.
 
-O efeito não é telepatia. Nenhum murano "ouve" pensamentos de outro. O que cada indivíduo percebe é uma pressão direcional, algo entre instinto e intuição. Quando um murano sente medo, os próximos sentem a sombra desse medo. Quando uma colônia foge, a onda de pânico se propaga mais rápido que qualquer grito. [[_wiki/tibaut\|Tibaut]] descreveu a sensação como "uma mente fragmentada em centenas de pedaços, cada pedaço com fome."
+O efeito não é telepatia nem consciência compartilhada. Nenhum murano "ouve" pensamentos de outro. O que cada indivíduo percebe é uma pressão direcional, algo entre instinto e intuição. Quando um murano sente medo, os próximos captam a sombra desse medo pelos feromônios. Quando uma colônia foge, a onda de pânico se propaga mais rápido que qualquer grito. [[_wiki/tibaut\|Tibaut]] descreveu a sensação como "uma mente fragmentada em centenas de pedaços, cada pedaço com fome."
 
 A rede funciona melhor em espaços fechados onde os feromônios não se dissipam e o ultrassom reverbera. Muranos isolados por tempo prolongado relatam "surdez no corpo": a ausência da rede percebida como amputação sensorial. [[_wiki/skanivik\|Skanivik]] opera sozinho há tempo suficiente para ter enfraquecido a conexão, o que explica sua capacidade de agir contra o fluxo da colônia.
 
-A consciência coletiva não elimina individualidade. Muranos conectados tendem a dissolver prioridades pessoais em favor da colônia; muranos desconectados ganham autonomia ao preço de perder o sistema de alerta que mantém a maioria viva.
-
-📝 *O comportamento anômalo recente (muranos imóveis, olhos vermelhos incandescentes, guardando passagens em [[_wiki/vor-ghol\|Vor-Ghol]]) apresenta assinatura de possessão demoníaca que sequestra a rede natural. A magia vermelha identificada por [[_wiki/nidzina_avaroth\|Nidzina]] explora o canal ultrassônico como vetor: ao dominar um nó, a possessão se propaga pela rede como infecção. Causa, origem e agente permanecem mistérios ativos.*
+📝 *O comportamento anômalo recente (muranos imóveis, olhos vermelhos incandescentes, guardando passagens em [[_wiki/vor-ghol\|Vor-Ghol]]) apresenta assinatura de possessão demoníaca que sequestra a rede sensorial. A magia vermelha identificada por [[_wiki/nidzina_avaroth\|Nidzina]] explora o canal ultrassônico como vetor: ao dominar um nó, a possessão se propaga pela rede como infecção. Causa, origem e agente permanecem mistérios ativos.*
 
 ### Psicologia
 
@@ -55,7 +53,7 @@ Muranos processam o mundo em termos alimentares. Aliados são quem traz comida. 
 
 ### Estrutura Social
 
-A unidade básica é a colônia: 10 a 200 muranos ocupando um território definido por acesso a comida e rotas de fuga. Sem líder formal. O murano com mais informação sobre fontes alimentares exerce influência natural; a posição é fluida. A consciência coletiva cria coordenação sem hierarquia: decisões coletivas emergem da rede como consenso difuso. Não há votação ou ordem. Há onda.
+A unidade básica é a colônia: 10 a 200 muranos ocupando um território definido por acesso a comida e rotas de fuga. Sem líder formal. O murano com mais informação sobre fontes alimentares exerce influência natural; a posição é fluida. A rede sensorial cria coordenação sem hierarquia: reações em cadeia propagadas por ultrassom e feromônios produzem movimentos coletivos sem decisão centralizada. Não há votação ou ordem. Há onda.
 
 Colônias de superfície são menores, mais dispersas e acostumadas ao contato com outras raças. Colônias de [[_wiki/vor-ghol\|Vor-Ghol]] são maiores, mais densas e mais selvagens.
 
@@ -81,9 +79,9 @@ Espionagem de subsistência é o único papel reconhecido. Muranos vendem inform
 
 Cor arcana preta. Acesso pelo *[[_wiki/pactum_diaboli\|Pactum Diaboli]]*. Conjuradores muranos são tão raros que a maioria dos arcanistas duvida que existam. Longevidade mínima, fome constante e vida nômade impedem o treinamento arcano.
 
-A consciência coletiva opera como habilidade proto-mágica: não consome [[_wiki/magi\|magi]], não exige invocação, não produz assinatura arcana, mas a intensidade excede o que fisiologia explicaria. Resíduo provável da interferência divina original.
+A rede sensorial opera como habilidade proto-mágica: não consome [[_wiki/magi\|magi]], não exige invocação, não produz assinatura arcana, mas a intensidade excede o que fisiologia explicaria. Resíduo provável da interferência divina original.
 
-Os poucos muranos com aptidão arcana gravitaram para **magia de ocultação** (desaparecer, suprimir som, camuflar cheiro) e **magia de confusão sensorial (phobos)**, a escola de [[panteao/warguleth\|Wargûleth]]. O custo mágico se manifesta como **dissolução cognitiva**: a fronteira entre indivíduo e rede coletiva se apaga. Memórias privadas vazam para a consciência colonial. A linha entre "eu" e "nós" desaparece. O corpo permanece intacto; a mente se dissolve no enxame.
+Os poucos muranos com aptidão arcana gravitaram para **magia de ocultação** (desaparecer, suprimir som, camuflar cheiro) e **magia de confusão sensorial (phobos)**, a escola de [[panteao/warguleth\|Wargûleth]]. O custo mágico se manifesta como **dissolução cognitiva**: a fronteira entre identidade individual e a rede sensorial se apaga. Memórias privadas vazam para muranos próximos. O corpo permanece intacto; a mente se fragmenta.
 
 ### Voz Narrativa (guia de escrita)
 
@@ -103,9 +101,9 @@ Muranos falam rápido, alto e demais. Onde [[_wiki/varglin\|varglins]] economiza
 
 ### Conflitos Internos
 
-**Superfície vs Profundezas.** As duas populações mal se reconhecem. A fuga recente de [[_wiki/vor-ghol\|Vor-Ghol]] forçou contato: muranos das profundezas invadindo territórios de superfície, disputando comida, atraindo atenção imperial. A rede coletiva dos recém-chegados é mais intensa e desestabiliza muranos de superfície que já operavam com autonomia.
+**Superfície vs Profundezas.** As duas populações mal se reconhecem. A fuga recente de [[_wiki/vor-ghol\|Vor-Ghol]] forçou contato: muranos das profundezas invadindo territórios de superfície, disputando comida, atraindo atenção imperial. A rede sensorial dos recém-chegados é mais intensa e desestabiliza muranos de superfície que já operavam com autonomia.
 
-**Possuídos.** Muranos de olhos vermelhos incandescentes ainda emitem no espectro ultrassônico. Mas o sinal é distorcido: em vez de medo ou direção, transmite imobilidade e obediência. Para muranos livres, aproximar-se de um possuído é ouvir uma voz conhecida dizendo palavras que não fazem sentido. Zonas inteiras de [[_wiki/vor-ghol\|Vor-Ghol]] ficaram inacessíveis.
+**Possuídos.** Muranos de olhos vermelhos incandescentes ainda emitem no espectro ultrassônico. Mas o sinal é distorcido: em vez de medo ou direção, transmite imobilidade e obediência. Para muranos livres, aproximar-se de um possuído é captar sinais familiares carregando ordens que não fazem sentido. Zonas inteiras de [[_wiki/vor-ghol\|Vor-Ghol]] ficaram inacessíveis.
 
 **O Erro como identidade.** Se a versão [[_wiki/drul\|drul]] estiver correta, muranos são o subproduto acidental de um deus que tentava fazer outra coisa. Os que conhecem o mito reagem com o humor que lhes resta: "Se até quem nos fez errou, imagina quem tenta nos matar." A pergunta subjacente é a mesma que [[_wiki/varglin\|varglins]] fazem em silêncio: por que continuar? A resposta murana é mais simples: porque ainda tem fome. Quando a fome acabar, a resposta acaba junto.
 

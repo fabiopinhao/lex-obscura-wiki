@@ -26,7 +26,7 @@ Objetos que sobreviveram a seus criadores raramente o fizeram por acidente.
 
 - [[_wiki/armadura_templaria_de_orum\|Armadura Templária de Orum]] — Encantada com força, resistência e vigor
 - [[_wiki/capacete_de_maraxus\|Capacete de Maraxus]] — Ocultava a face demoníaca de seu portador
-- [[_wiki/bombarda_ananica\|Bombarda Anânica]] — Artilharia híbrida das forjas anãs
+- [[_wiki/bombarda_ananica\|Bombarda Anânica]] — Artilharia híbrida anã-shadar
 
 ## Artefatos de Contenção
 
@@ -35,7 +35,10 @@ Objetos que sobreviveram a seus criadores raramente o fizeram por acidente.
 
 ## Artefatos Religiosos e Arcanos
 
-- [[_wiki/estatueta_de_vozrador\|Estatueta de Vozrador]] — Ídolo de obsidiana que catalisou a ascensão de Arothistar
+- [[_wiki/estatueta_de_vozrador\|Estatueta de Vozrador]] — Ídolo de obsidiana que catalisou a transformação de Dravmir em Arothistar
+
+## Substâncias e Alquimia
+
 - [[_wiki/luto_de_nillis\|Luto de Nillis]] — Substância alquímica antimagia destilada da flor Nillis
 
 ## Documentos e Textos
@@ -50,4 +53,4 @@ Objetos que sobreviveram a seus criadores raramente o fizeram por acidente.
 
 ---
 
-*Inventário do [[_wiki/oculario\|Oculário Imperial]]. Remoção não autorizada é punível por obliteração.*
+*Inventário do [[_wiki/oculario\|Oculário]] de Mor'Severith. Remoção não autorizada é punível por obliteração.*

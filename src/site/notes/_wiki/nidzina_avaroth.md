@@ -25,6 +25,6 @@ Frieza [[_wiki/shadar\|shadar]] com camada de competitividade afiada. Não perde
 
 **[[_wiki/orum-rahru\|Orum-Rahru]] (mestre / traído):** Tutor desde os oito anos. O primeiro golpe mortal que domina foi ensinado por ele. Trai-o na Primeira Trilogia.
 
-**[[_wiki/fandegarron\|Fandegarrón]] (aliado escolhido):** Escolheu o [[_wiki/gnoll\|gnoll]] como companheiro — pragmatismo sobre estética.
+**[[_wiki/fandegarron\|Fandegarrón]] (aliado escolhido):** Escolheu o [[criaturas/gnoll\|gnoll]] como companheiro — pragmatismo sobre estética.
 
 **[[_wiki/arothistar\|Arothistar]] (modelo absorvido):** "Absorve valores de [[_wiki/arothistar\|Arothistar]] ao vê-lo sempre vencer" — não é lealdade, é mimicry de poder.

@@ -25,7 +25,7 @@ Referências expandidas: [[_referencias/cronologia_referencia\|Cronologia e Hist
 - [[_wiki/guerras_raciais\|Guerras Raciais]] — Disputa entre deuses travada com carne mortal; anterior à civilização organizada
 - [[_wiki/barreira_magica_luminar\|Barreira Mágica Luminar]] — Selamentos arcanos nas cordilheiras que impediam dragões de transpô-las
 - [[_wiki/cruzadas_contra_os_luminares\|Cruzadas contra os Luminares]] — Braço militarizado da igreja álvarar contra os elfos da luz
-- [[_wiki/surgimento_dos_primeiros_shadar\|Surgimento dos Primeiros Shadar]] — Dissidentes humanos buscaram pactos diabólicos, sufocados pela ortodoxia Sancta
+- [[_wiki/surgimento_dos_primeiros_shadar\|Surgimento dos Primeiros Shadar]] — Dissidentes humanos buscaram pactos diabólicos, sufocados pela ortodoxia álvarar
 
 ## Primeira Era
 
@@ -53,16 +53,16 @@ Referências expandidas: [[_referencias/cronologia_referencia\|Cronologia e Hist
 - [[_wiki/guerras_reinkardicas_inicio\|Início das Guerras]] — Culto esgotou o planalto; ~50 anos de conflito continental
 - [[_wiki/submissao_da_ventrista\|Submissão da Ventrista]] — Terras férteis na base do planalto; primeiro alvo da descida
 - [[_wiki/ataque_fracassado_a_thalserin\|Ataque Fracassado a Thal'Serin]] — Floresta sagrada resistiu; pacto de Vozrador com os Titãs a protegia
-- [[_wiki/frentes_de_guerra_e_destino_das_racas\|Destino das Raças]] — Sylvanos e gnomos escravizados; gerut sobreviveram pelo terreno titânico
+- [[_wiki/frentes_de_guerra_e_destino_das_racas\|Destino das Raças]] — Sylvanos, humanos e gnomos escravizados; gerut sobreviveram pelo terreno titânico
 - [[_wiki/formalizacao_militar_dos_orcs\|Formalização Militar dos Orcs]] — Ponto de inflexão: fúria tribal transformada em disciplina de campo
 - [[_wiki/guerra_formal_e_impasse_continental\|Guerra Formal e Impasse]] — Myrgarde declarou guerra; coalizão continental contra Morvgrad
-- [[_wiki/rito_de_ossarium_de_dravmir\|Rito de Ossárium de Dravmir]] — Humano convertido em shadar por Vozrador; tornou-se o general Dravhok
-- [[_wiki/campanha_ocidental_de_dravhok\|Campanha Ocidental]] — Contornou Myrgarde pelas montanhas; alvo: forjas anânicas da cordilheira
+- [[_wiki/rito_de_ossarium_de_dravmir\|Rito de Ossárium de Dravmir]] — Humano convertido em shadar por Vozrador; passou a se chamar Dravhok
+- [[_wiki/campanha_ocidental_de_dravhok\|Campanha Ocidental]] — Varreu a cordilheira de norte a sul; culminou na subjugação de Thandruk Varn
 - [[_wiki/subjugacao_de_thandruk_varn\|Subjugação de Thandruk Varn]] — Rendição negociada: forjas redirecionadas para Morvgrad em troca de sobrevivência
 - [[_wiki/campanha_oriental_e_queda_de_dernessal\|Campanha Oriental]] — Conquista das cidades do cinturão oriental de Myrgarde
-- [[_wiki/traicao_de_vozrador\|Traição de Vozrador]] — Dravhok rompeu as restrições de seu deus para conquistar Myrgarde
+- [[_wiki/traicao_de_vozrador\|Traição de Vozrador]] — Malagoth e Velmorain aprisionaram Vozrador; Dravhok emergiu como servo de dois novos senhores
 - [[_wiki/purga_do_conselho_e_autodeclaracao_como_arothistar\|Purga do Conselho]] — Dravhok eliminou conselheiros rivais e declarou-se Arothistar
-- [[_wiki/pacto_com_kaelgrym\|Pacto com Kaelgrym]] — Aliança com o demônio do fogo; exige destruição, medo e expurgos
+- [[_wiki/pacto_com_kaelgrym\|Pacto com Kaelgrym]] — Terceiro pacto simultâneo (patrono dracônico); influência sobre varnakianos e draconídeos
 - [[_wiki/instituicao_do_verbum_arkhon\|Instituição do Verbum Arkhon]] — Constituição do Império; Lex Obscura absorvida sem alteração
 - [[_wiki/fundacao_dos_justiciars\|Fundação dos Justiciars]] — Braço judiciário com poder de vida e morte; Orum-Rahru foi o primeiro
 - [[_wiki/proibicao_do_rito_de_ossarium\|Proibição do Rito de Ossárium]] — Declarado heresia capital pelo monarca que passara pelo mesmo rito

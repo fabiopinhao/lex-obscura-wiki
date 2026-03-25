@@ -27,4 +27,4 @@ A verticalidade de Morvgrad reflete a hierarquia do culto: quanto mais alto, mai
 
 **[[_wiki/ezrath\|Ezrath]]:** Local onde [[_wiki/korven\|Korven]] jogou o [[_wiki/murano\|murano]] [[_wiki/skinitz\|Skinitz]] no [[_wiki/fosso_da_purga\|Fosso da Purga]].
 
-**[[_wiki/arena_de_drakmur\|Arena de Drakmur]] (Abatedouro de Drakmur):** Arena de combate onde [[_wiki/orc\|orcs]] e [[_wiki/gnoll\|gnolls]] lutam. [[_wiki/fandegarron\|Fandegarrón]] foi campeão da Lança de Três Crânios. "Onde [[_wiki/orc\|orcs]] estripam por esporte."
+**[[_wiki/arena_de_drakmur\|Arena de Drakmur]] (Abatedouro de Drakmur):** Arena de combate onde [[_wiki/orc\|orcs]] e [[criaturas/gnoll\|gnolls]] lutam. [[_wiki/fandegarron\|Fandegarrón]] foi campeão da Lança de Três Crânios. "Onde [[_wiki/orc\|orcs]] estripam por esporte."

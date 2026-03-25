@@ -11,13 +11,13 @@ As palavras que o Império usa para governar não foram escolhidas ao acaso. Cad
 
 ## O Codex Somniorum
 
-- [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] — As Palavras Vivas (Volume I)
-- [[_wiki/lex_obscura_decreto\|Lex Obscura]] — As Leis da Sombra (Volume II)
-- [[_wiki/tabula_umbrae_codex\|Tabula Umbrae]] — Feitiços e Alquimia (Volume III)
+- [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] — A Palavra do Soberano (Seção I)
+- [[_wiki/lex_obscura_decreto\|Lex Obscura]] — A Lei das Sombras (Seção II)
+- [[_wiki/tabula_umbrae_codex\|Tabula Umbrae]] — A Tábua das Sombras — Feitiços e Alquimia (Seção III)
 
 ## Instrumentos Judiciais
 
-- [[_wiki/veredictum_exkarthon\|Veredictum Exkarthon]] — Direito do acusado de exigir provas antes da sentença
+- [[_wiki/veredictum_exkarthon\|Veredictum Exkarthon]] — Instrumento jurídico extremo que obriga o Justiciar a examinar provas antes de sentenciar
 - [[_wiki/sigilo_de_abbhal\|Sigilo de Abbhal]] — Aprisionamento eterno da alma em corpo vivo
 
 ## Governança e Cerimonial

@@ -14,7 +14,7 @@ O Império funciona porque cada engrenagem acredita ser indispensável. Nenhuma 
 - [[_wiki/imperio_sombrio\|Império Sombrio]] — O Estado soberano de Arothistar
 - [[_wiki/conselho_sombrio\|Conselho Sombrio]] — Órgão legislativo e administrativo do Império
 - [[_wiki/hierarquia_imperial_niveis_complementares\|Hierarquia Imperial]] — Generais, lordes, oficiais e a base tripartite
-- [[_wiki/coletoria\|Coletoria]] — Braço fiscal, cobrança de tributos e rede de espionagem paralela
+- [[_wiki/coletoria\|Coletoria]] — Braço administrativo-fiscal, cobrança de dívidas e tributos e rede de espionagem paralela
 - [[_wiki/alianca_subterranea\|Aliança Subterrânea]] — Pacto político entre shadars e druls, arquitetado por Xarn
 - [[_wiki/administracao_de_niedellin\|Administração de Niedellin]] — Governo local dissolvido
 
@@ -39,13 +39,13 @@ O Império funciona porque cada engrenagem acredita ser indispensável. Nenhuma 
 
 - [[_wiki/casa_duskryn\|Casa Duskryn]] — Casa Matriarcal drul, governança de Ghilanna
 - [[_wiki/casa_morghast\|Casa Morghast]] — Casa Matriarcal menor, guarda dos Portões de Ghilanna
-- [[_wiki/cla_myr_vethan\|Clã Myr'Vethan]] — Clã draconídeo de Varnak, busca a Fendris
+- [[_wiki/cla_myr_vethan\|Clã Myr'Vethan]] — Clã draconídeo de Varnak, busca recuperar a Fendris perdida para Nidzina
 
 ## Sociedades Secretas e Resistência
 
 - [[_wiki/resistencia_de_thal_serin\|Resistência de Thal'Serin]] — Sylvanos livres e humanos refugiados
 - [[_wiki/serpente_purpura\|Serpente Púrpura]] — Crime organizado, tráfico de artefatos e contrabando
-- [[_wiki/ordo_zathar\|Ordo Zathar]] — Conspiração templária para derrubar a monarquia e instaurar teocracia
+- [[_wiki/ordo_zathar\|Ordo Zathar]] — Conspiração templária para derrubar a monarquia, restaurar a Lex Obscura original e instaurar teocracia
 
 ## Guildas e Círculos
 
@@ -55,4 +55,4 @@ O Império funciona porque cada engrenagem acredita ser indispensável. Nenhuma 
 
 ---
 
-*Registros do [[_wiki/arquivo_central\|Arquivo Central de Morvgrad]].*
+*Registros do [[_wiki/arquivo_central\|Arquivo Central]].*

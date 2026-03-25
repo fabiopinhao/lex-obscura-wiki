@@ -21,7 +21,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam — ou co
 - [[_wiki/ontologia_divina\|Ontologia Divina]] — A natureza das entidades
 - [[_wiki/diferencas_entre_tipos_de_entidades\|Diferenças Entre Tipos de Entidades]] — Forma, motivação e marca no conjurador por categoria
 - [[_wiki/entidades_bicolores_e_cor_dominante\|Entidades Bicolores e Cor Dominante]] — Regra de cor dominante e sistema de acesso
-- [[_wiki/monogamia_divina\|Monogamia Divina]] — Exclusividade dos pactos divinos
+- [[_wiki/monogamia_divina\|Monogamia Divina]] — Tendência de exclusividade nos vínculos divinos
 - [[_wiki/mecanismos_divinos\|Mecanismos Divinos]] — Como o poder divino opera no plano material
 - [[_wiki/noctiluz\|Noctiluz]] — Luz que emana de rupturas no véu celeste
 - [[_wiki/marca_das_luas_gemeas\|Marca das Luas Gêmeas]] — Tatuagem druídica dos iniciados no terceiro círculo de Titânia
@@ -38,7 +38,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam — ou co
 
 ### Diabos
 
-- [[_wiki/velmorain\|Velmorain]] — Keeper of Laws; mantém maldição sobre Vozrador, exige ordem imperial
+- [[_wiki/velmorain\|Velmorain]] — Keeper of Laws; mantém a maldição de Malagoth sobre Vozrador, exige ordem imperial
 - [[_wiki/malagoth\|Malagoth]] — The Binding Shadow; único deus com visão de dominação total via sombras
 - [[_wiki/azkaroth\|Azkaroth]] — Archdevil; templo sede das cerimônias de unção dos Justiciars
 - [[_wiki/vozrador\|Vozrador]] — Imprisoned Devil; aprisionado por Malagoth e Velmorain, acordo com Titãs
@@ -54,7 +54,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam — ou co
 ### Anjos
 
 - [[_wiki/azazel\|Azazel]] — Archangel; último deus branco com presença em Reinkard
-- [[_wiki/israfil\|Israfil]] — Herald of Dawn; arauto da aurora, antítese do manto das sombras
+- [[_wiki/israfil\|Israfil]] — Herald of Dawn; arauto da aurora; bênção incompatível com a maldição de Malagoth
 
 ### Titãs
 
