@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/wiki/anjos/"}
 ---
 
-
+f
 ### Natureza
 
 Anjos habitam planos celestes distantes, descritos pelos devotos como maravilhosos e perfeitos. A cor arcana branca os define: justiça, pureza, ordem moral. Seus seguidores acreditam que almas devotas possam alcançar esses céus após a morte — se isso é verdade ou projeção dos fiéis, ninguém confirma. Crença difundida sustenta que anjos sejam os únicos deuses que compartilham seus planos existenciais com mortais, abrigando almas devotas pela eternidade.
