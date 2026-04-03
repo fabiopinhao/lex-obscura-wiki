@@ -11,9 +11,9 @@ A Teoria Materialista, formulada por [[_wiki/jospin_valheorn\|Jospin Valheorn]] 
 
 ### Oposição: [[_wiki/doutrina_da_alma\|Doutrina da Alma]]
 
-A posição oposta é a [[_wiki/doutrina_da_alma\|Doutrina da Alma]] de [[_wiki/naiu_wula\|Naiu'Wula]], mestre [[_wiki/gerut\|gerut]] do fim da [[_referencias/segunda_era\|Segunda Era]]. [[_wiki/naiu_wula\|Naiu'Wula]] ensinava que toda magia nasce da alma, e que [[_wiki/magi\|magi]] é apenas "rastro da alma no mundo, não sua chama." Deuses são almas antigas e vastas; mortais são almas jovens potencialmente despertáveis. A [[_wiki/doutrina_da_alma\|Doutrina da Alma]] fundamenta a prática do [[_wiki/teru\|Teru]] e influencia diretamente a tradição dos [[_wiki/justiciars\|Justiciars]], que dominam magia sem pactos divinos.
+A posição oposta é a [[_wiki/doutrina_da_alma\|Doutrina da Alma]] de [[_wiki/naiu_wula\|Naiu'Wula]], mestre [[_wiki/gerut\|gerut]] do fim da [[_wiki/segunda_era\|Segunda Era]]. [[_wiki/naiu_wula\|Naiu'Wula]] ensinava que toda magia nasce da alma, e que [[_wiki/magi\|magi]] é apenas "rastro da alma no mundo, não sua chama." Deuses são almas antigas e vastas; mortais são almas jovens potencialmente despertáveis. A [[_wiki/doutrina_da_alma\|Doutrina da Alma]] fundamenta a prática do [[_wiki/teru\|Teru]] e influencia diretamente a tradição dos [[_wiki/justiciars\|Justiciars]], que dominam magia sem pactos divinos.
 
-Os dois filósofos nunca se cruzaram. [[_wiki/jospin_valheorn\|Jospin]] viveu antes, durante as Guerras Reinkárdicas; [[_wiki/naiu_wula\|Naiu'Wula]] no fim da [[_referencias/segunda_era\|Segunda Era]]. O materialismo e o espiritualismo como opostos que nunca se reconheceram.
+Os dois filósofos nunca se cruzaram. [[_wiki/jospin_valheorn\|Jospin]] viveu antes, durante as Guerras Reinkárdicas; [[_wiki/naiu_wula\|Naiu'Wula]] no fim da [[_wiki/segunda_era\|Segunda Era]]. O materialismo e o espiritualismo como opostos que nunca se reconheceram.
 
 ### Adoção e Supressão
 

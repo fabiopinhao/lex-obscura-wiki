@@ -9,7 +9,7 @@ Cada língua carrega o som do povo que a criou. O que segue é um registro compa
 
 ---
 
-## Línguas Primordiais ([[_referencias/idade_esquecida\|Idade Esquecida]])
+## Línguas Primordiais ([[_wiki/idade_esquecida\|Idade Esquecida]])
 
 ### [[_wiki/luminar\|Luminar]]
 
@@ -43,7 +43,7 @@ Sensação auditiva: o som de um rio subterrâneo traduzido em fala. Ouvir [[_wi
 
 ---
 
-## Línguas da [[_referencias/primeira_era\|Primeira Era]]
+## Línguas da [[_wiki/primeira_era\|Primeira Era]]
 
 ### [[_wiki/tenebraico\|Tenebraico]]
 
@@ -75,7 +75,7 @@ Impossível de transcrever com precisão. Harmônicos sobrepostos, sílabas que 
 
 ---
 
-## Línguas Modernas ([[_referencias/segunda_era\|Segunda]]/[[_referencias/terceira_era\|Terceira Era]])
+## Línguas Modernas ([[_wiki/segunda_era\|Segunda]]/[[_wiki/terceira_era\|Terceira Era]])
 
 ### [[_wiki/reinkardico\|Reinkárdico]]
 

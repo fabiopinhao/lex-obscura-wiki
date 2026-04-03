@@ -11,12 +11,12 @@ A história é escrita pelos vencedores. Neste Império, o vencedor nunca mudou.
 
 ## Eras
 
-- [[_referencias/idade_esquecida\|Idade Esquecida]] — Antes dos registros; domínio dos Luminares
-- [[_referencias/primeira_era\|Primeira Era]] — Queda dos Luminares; ascensão humana e shadar
-- [[_referencias/segunda_era\|Segunda Era]] — Peste continental, fundação de Morvgrad, aliança com druls
-- [[_referencias/terceira_era\|Terceira Era]] — O Império de Arothistar; a era presente
+- [[_wiki/idade_esquecida\|Idade Esquecida]] — Antes dos registros; domínio dos Luminares
+- [[_wiki/primeira_era\|Primeira Era]] — Queda dos Luminares; ascensão humana e shadar
+- [[_wiki/segunda_era\|Segunda Era]] — Peste continental, fundação de Morvgrad, aliança com druls
+- [[_wiki/terceira_era\|Terceira Era]] — O Império de Arothistar; a era presente
 
-Referências expandidas: [[_referencias/cronologia_referencia\|Cronologia e História — Referência de Eras]] · [[_referencias/cronologia_de_arothistar\|Cronologia de Arothistar]] · [[_referencias/guerras_reinkardicas_a_sombra_desce\|Guerras Reinkárdicas: A Sombra Desce]] · [[_referencias/guerras_reinkardicas_a_ultima_muralha\|Guerras Reinkárdicas: A Última Muralha]] · [[_referencias/guerras_reinkardicas_a_queda_aroth\|Guerras Reinkárdicas: A Queda]]
+Referências expandidas: [[_wiki/cronologia_referencia\|Cronologia e História — Referência de Eras]] · [[_wiki/cronologia_de_arothistar\|Cronologia de Arothistar]] · [[_wiki/guerras_reinkardicas_a_sombra_desce\|Guerras Reinkárdicas: A Sombra Desce]] · [[_wiki/guerras_reinkardicas_a_ultima_muralha\|Guerras Reinkárdicas: A Última Muralha]] · [[_wiki/guerras_reinkardicas_a_queda_aroth\|Guerras Reinkárdicas: A Queda]]
 
 ## Idade Esquecida
 

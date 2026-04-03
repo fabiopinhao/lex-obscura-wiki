@@ -25,7 +25,7 @@ O [[_wiki/flux_aetheria\|Flux Aetheria]] é a tentativa de manipular diretamente
 
 ### Declínio Histórico
 
-Na [[_referencias/idade_esquecida\|Idade Esquecida]], o magi era abundante: [[_wiki/titas\|titãs]] caminhavam entre florestas, [[_wiki/siderais\|siderais]] conversavam com eruditos, e a resposta divina aos rituais era generosa e imediata. Desde a fragmentação dos [[_wiki/luminares\|Luminares]], essa abundância vem diminuindo a cada era. Dragões anciãos — os únicos seres que viveram o suficiente para comparar eras — percebem que o magi é mais ralo, a terra responde com menos vigor, e os deuses se manifestam com esforço perceptível.
+Na [[_wiki/idade_esquecida\|Idade Esquecida]], o magi era abundante: [[_wiki/titas\|titãs]] caminhavam entre florestas, [[_wiki/siderais\|siderais]] conversavam com eruditos, e a resposta divina aos rituais era generosa e imediata. Desde a fragmentação dos [[_wiki/luminares\|Luminares]], essa abundância vem diminuindo a cada era. Dragões anciãos — os únicos seres que viveram o suficiente para comparar eras — percebem que o magi é mais ralo, a terra responde com menos vigor, e os deuses se manifestam com esforço perceptível.
 
 A causa exata do declínio permanece debatida. Druidas atribuem à destruição dos [[_wiki/luminares\|Luminares]]. Eruditos [[_wiki/siderais\|siderais]] sugerem que o [[_wiki/plano_etereo\|Plano Etéreo]] está se estreitando. Sacerdotes do [[_wiki/culto_sombrio\|Culto Sombrio]] proclamam que os deuses da luz simplesmente perderam relevância. Nenhuma explicação exclui as demais.
 

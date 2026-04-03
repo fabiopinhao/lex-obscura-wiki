@@ -19,7 +19,7 @@ O vínculo com demônios opera por [[_wiki/vinculum_daemonis\|Vinculum Daemonis]
 
 ### Relação com [[_wiki/draconideo\|Draconídeos]]
 
-Dragões e [[_wiki/draconideo\|draconídeos]] serviam aos deuses vermelhos desde tempos imemoriais. Na [[_referencias/idade_esquecida\|Idade Esquecida]], os [[_wiki/luminares\|luminares]] classificavam ambas as espécies como flagelo alinhado à destruição e forjaram artefatos (como a [[_wiki/fendris\|Fendris]]) que rejeitavam mãos corrompidas por vínculos demoníacos. Os [[_wiki/draconideo\|draconídeos]], já vinculados a deuses vermelhos, jamais puderam empunhar essas armas contra seus próprios senhores.
+Dragões e [[_wiki/draconideo\|draconídeos]] serviam aos deuses vermelhos desde tempos imemoriais. Na [[_wiki/idade_esquecida\|Idade Esquecida]], os [[_wiki/luminares\|luminares]] classificavam ambas as espécies como flagelo alinhado à destruição e forjaram artefatos (como a [[_wiki/fendris\|Fendris]]) que rejeitavam mãos corrompidas por vínculos demoníacos. Os [[_wiki/draconideo\|draconídeos]], já vinculados a deuses vermelhos, jamais puderam empunhar essas armas contra seus próprios senhores.
 
 ### Demônios Nomeados
 

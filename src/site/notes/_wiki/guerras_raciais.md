@@ -39,13 +39,13 @@ O legado biológico ficou. As raças híbridas permaneceram no plano material, a
 As raças híbridas são, na prática, fósseis vivos de um conflito entre deuses. Carregam a cor arcana de seus criadores no sangue, o que lhes dá acesso mágico inato e alinhamento instintivo. Também as condena: foram moldadas para a carnificina, e a carnificina acabou.
 
 #### Desbestialização do Plano Material
-Ao longo das eras subsequentes ([[_referencias/primeira_era\|Primeira Era]], [[_referencias/segunda_era\|Segunda Era]], [[_referencias/terceira_era\|Terceira Era]]), as raças híbridas e gnômicas vêm cedendo espaço a humanos e humanoides élficos. Este fenômeno, chamado desbestialização, é o recuo gradual da interferência divina direta: o plano material favorece agora as formas que os deuses deixaram para trás. Cada raça tem sua razão específica para o declínio (predação interna nos [[_wiki/vulfano\|vulfanos]], degeneração nos [[_wiki/derro\|derros]], manipulação artificial nos [[_wiki/kobold\|kobolds]], raridade reprodutiva nos [[_wiki/minotauro\|minotauros]]), mas o resultado converge.
+Ao longo das eras subsequentes ([[_wiki/primeira_era\|Primeira Era]], [[_wiki/segunda_era\|Segunda Era]], [[_wiki/terceira_era\|Terceira Era]]), as raças híbridas e gnômicas vêm cedendo espaço a humanos e humanoides élficos. Este fenômeno, chamado desbestialização, é o recuo gradual da interferência divina direta: o plano material favorece agora as formas que os deuses deixaram para trás. Cada raça tem sua razão específica para o declínio (predação interna nos [[_wiki/vulfano\|vulfanos]], degeneração nos [[_wiki/derro\|derros]], manipulação artificial nos [[_wiki/kobold\|kobolds]], raridade reprodutiva nos [[_wiki/minotauro\|minotauros]]), mas o resultado converge.
 
 #### Memória Fragmentada
 Nenhuma raça possui registro direto das Guerras Raciais. O evento é reconstruído por:
 - Tradição oral das raças híbridas (fragmentária, mitificada)
 - Vestígios arqueológicos (campos de ossadas mistas, artefatos primitivos de pedra e garra)
-- Inferência teológica dos arcanistas da [[_referencias/terceira_era\|Terceira Era]] (que reconhecem o alinhamento cromático como assinatura de interferência divina)
+- Inferência teológica dos arcanistas da [[_wiki/terceira_era\|Terceira Era]] (que reconhecem o alinhamento cromático como assinatura de interferência divina)
 - Memória instintiva: [[_wiki/orc\|orcs]] que se prostram diante de [[_wiki/abbhal\|Abbhal]] sem saber por quê; [[_wiki/worg\|worgs]] que uivam para [[_wiki/diabos\|diabos]] em noites de lua cheia sem entender a origem do hábito
 
 ### Relação com Eventos Posteriores

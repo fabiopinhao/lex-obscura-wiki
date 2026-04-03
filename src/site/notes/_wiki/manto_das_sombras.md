@@ -21,6 +21,6 @@ A [[_wiki/macula-sombria\|Mácula-Sombria]] nas florestas é a manifestação vi
 
 ### Distinção do Declínio Global
 
-Existe um processo mais antigo e abrangente que antecede o manto. Desde a fragmentação dos [[_wiki/luminares\|Luminares]] no fim da [[_referencias/idade_esquecida\|Idade Esquecida]], a influência das entidades brancas, verdes e azuis sobre [[_wiki/thamakard\|Thamakard]] vem diminuindo lenta e continuamente a cada era. O manto das sombras é aceleração regional deste processo global, não sua causa.
+Existe um processo mais antigo e abrangente que antecede o manto. Desde a fragmentação dos [[_wiki/luminares\|Luminares]] no fim da [[_wiki/idade_esquecida\|Idade Esquecida]], a influência das entidades brancas, verdes e azuis sobre [[_wiki/thamakard\|Thamakard]] vem diminuindo lenta e continuamente a cada era. O manto das sombras é aceleração regional deste processo global, não sua causa.
 
 A distinção é crítica para compreender os diferentes estados de enfraquecimento divino em [[_wiki/reinkard\|Reinkard]]. [[_wiki/vozrador\|Vozrador]] está selado e consciente, aprisionado por ação de outros deuses. [[_wiki/azazel\|Azazel]] está livre mas irrelevante em [[_wiki/reinkard\|Reinkard]], consequência do manto. O primeiro pode ser libertado por uma ação específica. O segundo precisaria de uma transformação civilizacional para reconquistar presença.

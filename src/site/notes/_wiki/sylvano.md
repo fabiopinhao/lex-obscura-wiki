@@ -9,7 +9,7 @@ Elfos titânicos das florestas. Pele em tons terrosos (oliva a castanho-esverdea
 
 ### Origem
 
-Fragmentos dos antigos [[_wiki/luminares\|Luminares]]. Após a destruição dos elfos da luz na transição para a [[_referencias/primeira_era\|Primeira Era]], os sylvanos buscaram as grandes florestas do sul e do leste, voltando-se para os [[_wiki/titas\|titãs]] primordiais e os ciclos da natureza. Recusaram a integração com humanos e a assimilação de Sancta, desconfiando do progresso acelerado e da vaidade religiosa dos novos impérios. Permaneceram à sombra das árvores, distantes dos palácios.
+Fragmentos dos antigos [[_wiki/luminares\|Luminares]]. Após a destruição dos elfos da luz na transição para a [[_wiki/primeira_era\|Primeira Era]], os sylvanos buscaram as grandes florestas do sul e do leste, voltando-se para os [[_wiki/titas\|titãs]] primordiais e os ciclos da natureza. Recusaram a integração com humanos e a assimilação de Sancta, desconfiando do progresso acelerado e da vaidade religiosa dos novos impérios. Permaneceram à sombra das árvores, distantes dos palácios.
 
 ### Cultura e Sociedade
 

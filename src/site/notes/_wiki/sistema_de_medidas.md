@@ -69,12 +69,12 @@ As eras têm durações variáveis e não servem como unidade de medida. Cada er
 
 | Era | Imperial | Subjugados | Erudito |
 |-----|----------|------------|---------|
-| [[_referencias/idade_esquecida\|Idade Esquecida]] | O Tempo dos [[_wiki/luminares\|Luminares]] | O Tempo dos [[_wiki/luminares\|Luminares]] | *Aetas Lucis* |
-| [[_referencias/primeira_era\|Primeira Era]] | O Êxodo | A Era das Alianças | *Aetas Primaeva* |
-| [[_referencias/segunda_era\|Segunda Era]] | A Era da Conquista | A Paz Iludida | *Aetas Duorum* |
-| [[_referencias/terceira_era\|Terceira Era]] | A Era de [[_wiki/arothistar\|Arothistar]] | A Longa Noite | *Aetas Umbrae* |
+| [[_wiki/idade_esquecida\|Idade Esquecida]] | O Tempo dos [[_wiki/luminares\|Luminares]] | O Tempo dos [[_wiki/luminares\|Luminares]] | *Aetas Lucis* |
+| [[_wiki/primeira_era\|Primeira Era]] | O Êxodo | A Era das Alianças | *Aetas Primaeva* |
+| [[_wiki/segunda_era\|Segunda Era]] | A Era da Conquista | A Paz Iludida | *Aetas Duorum* |
+| [[_wiki/terceira_era\|Terceira Era]] | A Era de [[_wiki/arothistar\|Arothistar]] | A Longa Noite | *Aetas Umbrae* |
 
-O apelido imperial da [[_referencias/terceira_era\|Terceira Era]] é debatido: nem todos os [[_wiki/shadar\|shadars]] concordam em nomear a era por um único monarca.
+O apelido imperial da [[_wiki/terceira_era\|Terceira Era]] é debatido: nem todos os [[_wiki/shadar\|shadars]] concordam em nomear a era por um único monarca.
 
 ### Expressões de Medida
 

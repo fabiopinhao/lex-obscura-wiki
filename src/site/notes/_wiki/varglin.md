@@ -5,7 +5,7 @@
 
 ### Natureza
 
-Onde os [[_wiki/worg\|worgs]] ocupam o limiar entre homem e besta, os varglins ocupam o limiar entre existir e desaparecer. São a sub-raça gnômica dos [[_wiki/vulfano\|vulfanos]]: caninos compactos, furtivos, com inteligência afiada e corpo feito para tocas e fendas. Na [[_referencias/terceira_era\|Terceira Era]], são raros e desprezados. Em [[_wiki/morvgrad\|Morvgrad]], onde ainda circulam, a maioria das pessoas os confunde com [[_wiki/murano\|muranos]]: vermin de esgoto, indignos de distinção. A confusão é tão comum que varglins deixaram de corrigi-la. Ser confundido com rato é melhor do que ser reconhecido como primo de [[_wiki/worg\|worg]].
+Onde os [[_wiki/worg\|worgs]] ocupam o limiar entre homem e besta, os varglins ocupam o limiar entre existir e desaparecer. São a sub-raça gnômica dos [[_wiki/vulfano\|vulfanos]]: caninos compactos, furtivos, com inteligência afiada e corpo feito para tocas e fendas. Na [[_wiki/terceira_era\|Terceira Era]], são raros e desprezados. Em [[_wiki/morvgrad\|Morvgrad]], onde ainda circulam, a maioria das pessoas os confunde com [[_wiki/murano\|muranos]]: vermin de esgoto, indignos de distinção. A confusão é tão comum que varglins deixaram de corrigi-la. Ser confundido com rato é melhor do que ser reconhecido como primo de [[_wiki/worg\|worg]].
 
 ### Fisiologia
 
@@ -27,7 +27,7 @@ Onde os [[_wiki/worg\|worgs]] ocupam o limiar entre homem e besta, os varglins o
 
 ### Psicologia
 
-O traço definidor da psicologia varglin na [[_referencias/terceira_era\|Terceira Era]] é o **medo ancestral dos [[_wiki/worg\|worgs]]**. Gerações de predação interna gravaram a resposta de fuga tão fundo que varglins reagem ao cheiro de [[_wiki/worg\|worg]] com paralisia involuntária seguida de impulso de correr. Alguns conseguem suprimir a reação; a maioria congela por um ou dois segundos antes de qualquer decisão racional. Em combate, esses segundos custam a vida.
+O traço definidor da psicologia varglin na [[_wiki/terceira_era\|Terceira Era]] é o **medo ancestral dos [[_wiki/worg\|worgs]]**. Gerações de predação interna gravaram a resposta de fuga tão fundo que varglins reagem ao cheiro de [[_wiki/worg\|worg]] com paralisia involuntária seguida de impulso de correr. Alguns conseguem suprimir a reação; a maioria congela por um ou dois segundos antes de qualquer decisão racional. Em combate, esses segundos custam a vida.
 
 Além do medo:
 - **Hipervigilância.** Varglins dormem em intervalos curtos (20-30 minutos) e despertam ao menor estímulo. Sono profundo é luxo que a raça desaprendeu.
@@ -49,7 +49,7 @@ Ver [[_wiki/vulfano\|A Ruptura Interna]]. A dissolução das alcateias eliminou 
 
 Os varglins que sobreviveram foram os que abandonaram completamente o convívio com [[_wiki/worg\|worgs]] e desapareceram.
 
-#### [[_referencias/terceira_era\|Terceira Era]]
+#### [[_wiki/terceira_era\|Terceira Era]]
 
 Varglins sobreviventes vivem em grupos minúsculos (2 a 5 indivíduos) ou completamente solitários. Ocupam espaços que outras raças ignoram: espaços entre paredes, dutos de ventilação abandonados, raízes ocas de árvores antigas, porões esquecidos. A invisibilidade é absoluta e intencional.
 
@@ -59,7 +59,7 @@ Números reais são desconhecidos. Nenhum censo os distingue de [[_wiki/murano\|
 
 ### Cultura Remanescente
 
-A cultura varglin da [[_referencias/terceira_era\|Terceira Era]] é fragmento de fragmento. Pouco sobreviveu à Ruptura.
+A cultura varglin da [[_wiki/terceira_era\|Terceira Era]] é fragmento de fragmento. Pouco sobreviveu à Ruptura.
 
 **O que persiste:**
 - **Marcações de toca (*Gratmark*).** Arranhões em pedra ou madeira indicando: "seguro", "perigo", "[[_wiki/worg\|worg]] esteve aqui", "comida". O sistema é derivado das marcações territoriais dos [[_wiki/worg\|worgs]], adaptado para escala e urgência varglin. Um [[_wiki/worg\|worg]] que conheça o código poderia lê-lo, o que é mais um motivo para os varglins mudarem os sinais periodicamente.

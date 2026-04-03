@@ -21,7 +21,7 @@ A fé luminosa sobrevive clandestinamente. [[_wiki/abramis\|Abramis]], padre de 
 
 ### Os [[_wiki/alvarar\|Álvarar]] (Legado Histórico)
 
-Na [[_referencias/primeira_era\|Primeira Era]], os praticantes mais devotos geraram os [[_wiki/alvarar\|Álvarar]] — indivíduos que afirmavam descender dos anjos e incorporavam dons celestiais. Atuavam como paladinos e clérigos, moralizadores que impunham código por persuasão ou por espada. A imposição moral rachou os humanos e converteu sociedades pagãs à fé celestial. Os [[_wiki/luminares\|luminares]] jamais tentaram reformar a humanidade; os [[_wiki/alvarar\|Álvarar]] fizeram disso seu propósito.
+Na [[_wiki/primeira_era\|Primeira Era]], os praticantes mais devotos geraram os [[_wiki/alvarar\|Álvarar]] — indivíduos que afirmavam descender dos anjos e incorporavam dons celestiais. Atuavam como paladinos e clérigos, moralizadores que impunham código por persuasão ou por espada. A imposição moral rachou os humanos e converteu sociedades pagãs à fé celestial. Os [[_wiki/luminares\|luminares]] jamais tentaram reformar a humanidade; os [[_wiki/alvarar\|Álvarar]] fizeram disso seu propósito.
 
 ### Anjos Nomeados
 

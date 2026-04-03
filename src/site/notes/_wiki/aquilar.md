@@ -17,7 +17,7 @@ Asas funcionais plenas na maturidade (por volta dos 14 anos). Jovens possuem asa
 
 Visão de rapinante. Acuidade superior a qualquer raça humanoide, com percepção de movimento a distâncias que [[_wiki/shadar\|shadars]] precisariam de luneta para igualar. A visão é o último sentido a deteriorar, mesmo em aquilars debilitados. [[_wiki/auren\|Auren]] em [[_wiki/mor_severith\|Mor'Severith]], com penas opacas e corpo curvado, ainda enxerga cada detalhe do rosto de [[_wiki/arothistar\|Arothistar]] quando este o visita à noite.
 
-Longevidade de 50 a 65 anos. A [[_referencias/terceira_era\|Terceira Era]] reduziu a média: mutilação, cativeiro e perda de acesso à cura por [[_wiki/devotio_sancta\|Devotio Sancta]] encurtam a vida de aquilars sob domínio imperial.
+Longevidade de 50 a 65 anos. A [[_wiki/terceira_era\|Terceira Era]] reduziu a média: mutilação, cativeiro e perda de acesso à cura por [[_wiki/devotio_sancta\|Devotio Sancta]] encurtam a vida de aquilars sob domínio imperial.
 
 ### Psicologia
 
@@ -67,7 +67,7 @@ Cor arcana branca. Acesso exclusivo pela *[[_wiki/devotio_sancta\|Devotio Sancta
 
 As escolas brancas ([[_wiki/sacro\|Sacro]], [[_wiki/helio\|Helio]], [[_wiki/nomos\|Nomos]], [[_wiki/aegis\|Aegis]], [[_wiki/salvo\|Salvo]], [[_wiki/aero\|Aero]]) são o repertório natural: cura, proteção, purificação, luz, vínculo, vento. [[_wiki/aero\|Aero]] é a escola de afinidade mais visceral: controle de correntes de ar, planagem, rajadas. Aquilars em voo combinavam a fisiologia com [[_wiki/aero\|Aero]] de forma que nenhuma outra raça replicava. Sacerdotes em [[_wiki/myrgarde\|Myrgarde]] eram curéis de [[_wiki/salvo\|Salvo]] e purificadores de [[_wiki/sacro\|Sacro]], servindo templos de [[_wiki/israfil\|Israfil]] com eficiência que validava a fé pela prática.
 
-Na [[_referencias/terceira_era\|Terceira Era]], o acesso está em erosão. A *[[_wiki/devotio_sancta\|Devotio Sancta]]* exige fé genuína, e fé genuína é difícil de manter quando o deus que te marcou sem pedir não impede que te mutilem. A crise de fé aviana é endêmica: aquilars que perderam o voo perdem, gradualmente, a capacidade de invocar. A marca angelical permanece no corpo (penas, olhos, postura), mas o canal mágico enfraquece conforme a dúvida se instala. [[_wiki/aero\|Aero]] é a escola mais dolorosa: aquilars aterrados que ainda conseguem invocar correntes de ar sentem no vento o que as asas cortadas não podem mais usar. Aquilars que mantêm fé sob opressão são raros e, por isso, proporcionalmente mais poderosos: a fé que sobrevive ao sofrimento é a mais pura, e a *[[_wiki/devotio_sancta\|Devotio Sancta]]* recompensa pureza, não conforto.
+Na [[_wiki/terceira_era\|Terceira Era]], o acesso está em erosão. A *[[_wiki/devotio_sancta\|Devotio Sancta]]* exige fé genuína, e fé genuína é difícil de manter quando o deus que te marcou sem pedir não impede que te mutilem. A crise de fé aviana é endêmica: aquilars que perderam o voo perdem, gradualmente, a capacidade de invocar. A marca angelical permanece no corpo (penas, olhos, postura), mas o canal mágico enfraquece conforme a dúvida se instala. [[_wiki/aero\|Aero]] é a escola mais dolorosa: aquilars aterrados que ainda conseguem invocar correntes de ar sentem no vento o que as asas cortadas não podem mais usar. Aquilars que mantêm fé sob opressão são raros e, por isso, proporcionalmente mais poderosos: a fé que sobrevive ao sofrimento é a mais pura, e a *[[_wiki/devotio_sancta\|Devotio Sancta]]* recompensa pureza, não conforto.
 
 ### Voz Narrativa (guia de escrita)
 

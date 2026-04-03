@@ -21,7 +21,7 @@ Os saurianos dividem-se em duas sub-raças de origens radicalmente distintas.
 
 A relação entre [[_wiki/draconideo\|draconídeos]] e [[_wiki/kobold\|kobolds]] nunca foi de coexistência. As duas sub-raças surgiram em continentes diferentes, por processos diferentes, para propósitos diferentes. [[_wiki/draconideo\|Draconídeos]] nasceram das [[_wiki/guerras_raciais\|Guerras Raciais]] em [[_wiki/veinkard\|Veinkard]]; [[_wiki/kobold\|kobolds]] foram fabricados por [[_wiki/shadar\|shadars]] em [[_wiki/reinkard\|Reinkard]] eras depois. A "família" sauriana é classificação externa, imposta por eruditos imperiais que agruparam tudo que tem escamas sob o mesmo nome. [[_wiki/draconideo\|Draconídeos]] rejeitam a associação. [[_wiki/kobold\|Kobolds]] não sabem que ela existe.
 
-O contato entre as sub-raças na [[_referencias/terceira_era\|Terceira Era]] é raro e violento. [[_wiki/thrax\|Thrax]] decepou a cauda de [[_wiki/fing\|Fing]] em [[_wiki/mor_severith\|Mor'Severith]] ao primeiro encontro. Para um [[_wiki/draconideo\|draconídeo]], ver um [[_wiki/kobold\|kobold]] é ver o que [[_wiki/shadar\|shadars]] fizeram com ovos que deveriam ter eclodido em dragões.
+O contato entre as sub-raças na [[_wiki/terceira_era\|Terceira Era]] é raro e violento. [[_wiki/thrax\|Thrax]] decepou a cauda de [[_wiki/fing\|Fing]] em [[_wiki/mor_severith\|Mor'Severith]] ao primeiro encontro. Para um [[_wiki/draconideo\|draconídeo]], ver um [[_wiki/kobold\|kobold]] é ver o que [[_wiki/shadar\|shadars]] fizeram com ovos que deveriam ter eclodido em dragões.
 
 ### Desbestialização do Plano Material
 

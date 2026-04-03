@@ -5,7 +5,7 @@
 
 ### Natureza e Fundação
 
-O Culto Sombrio não é religião no sentido devocional — é aparato estatal que usa teologia como mecanismo de controle. Fundado por [[_wiki/xarn\|Xarn]] na [[_referencias/segunda_era\|Segunda Era]] ao unificar templos diabólicos dispersos no planalto norte, o Culto transformou práticas marginais de pacto e invocação em sistema institucional: hierarquia funcional, escolas organizadas, especializações doutrinárias, duelos ritualizados.
+O Culto Sombrio não é religião no sentido devocional — é aparato estatal que usa teologia como mecanismo de controle. Fundado por [[_wiki/xarn\|Xarn]] na [[_wiki/segunda_era\|Segunda Era]] ao unificar templos diabólicos dispersos no planalto norte, o Culto transformou práticas marginais de pacto e invocação em sistema institucional: hierarquia funcional, escolas organizadas, especializações doutrinárias, duelos ritualizados.
 
 A unificação foi pragmática. Antes de [[_wiki/xarn\|Xarn]], cada templo mantinha relação independente com seu diabo patrono — sem coordenação, sem doutrina compartilhada, sem poder político. [[_wiki/xarn\|Xarn]] forjou a [[_wiki/lex_obscura_decreto\|Lex Obscura]] como fundamento jurídico-religioso comum, subordinando cultos locais a uma estrutura central. A criação de [[_wiki/morvgrad\|Morvgrad]] selou o processo: capital política e religiosa em um só ponto.
 

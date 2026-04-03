@@ -17,7 +17,7 @@ Asas vestigiais. Extensões membranosas cobertas de penas curtas, articuladas o 
 
 Mãos pequenas com destreza manual desproporcional ao porte. Garras vestigiais nos pés que auxiliam escalada. Metabolismo acelerado: comem com frequência, em porções pequenas, e a fome crônica é companheira permanente de fringais marginalizados. A penugem densa e parda serve de camuflagem involuntária: na escuridão dos becos, fringais se confundem com lixo, pedra, sombra. A invisibilidade que os mantém vivos começa na pele.
 
-Longevidade de 40 a 50 anos. Expectativa real nas margens urbanas da [[_referencias/terceira_era\|Terceira Era]]: 20 a 30. A maioria morre por predação, fome ou violência casual antes de atingir a maturidade plena.
+Longevidade de 40 a 50 anos. Expectativa real nas margens urbanas da [[_wiki/terceira_era\|Terceira Era]]: 20 a 30. A maioria morre por predação, fome ou violência casual antes de atingir a maturidade plena.
 
 ### Psicologia
 

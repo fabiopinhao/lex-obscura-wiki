@@ -5,7 +5,7 @@
 
 ### Origem
 
-Os shadars são humanos. A distinção que os separa dos demais remonta à Queda dos [[_wiki/luminar\|Luminares]] na [[_referencias/primeira_era\|Primeira Era]], quando os humanos que participaram do massacre se dividiram: os que abraçaram a culpa tornaram-se shadars, buscando nos pactos diabólicos a força que a consciência limpa não oferecia; os que buscaram absolvição tornaram-se [[_wiki/alvarar\|álvarars]], erguendo catedrais e códigos de penitência. A cisão nunca cicatrizou. Cada lado define sua identidade pela negação do outro, e a guerra entre sombra e alabastro que estrutura [[_wiki/reinkard\|Reinkard]] é, no fundo, uma disputa entre duas respostas ao mesmo crime.
+Os shadars são humanos. A distinção que os separa dos demais remonta à Queda dos [[_wiki/luminar\|Luminares]] na [[_wiki/primeira_era\|Primeira Era]], quando os humanos que participaram do massacre se dividiram: os que abraçaram a culpa tornaram-se shadars, buscando nos pactos diabólicos a força que a consciência limpa não oferecia; os que buscaram absolvição tornaram-se [[_wiki/alvarar\|álvarars]], erguendo catedrais e códigos de penitência. A cisão nunca cicatrizou. Cada lado define sua identidade pela negação do outro, e a guerra entre sombra e alabastro que estrutura [[_wiki/reinkard\|Reinkard]] é, no fundo, uma disputa entre duas respostas ao mesmo crime.
 
 ### Fisiologia
 

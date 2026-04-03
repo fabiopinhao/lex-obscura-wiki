@@ -5,7 +5,7 @@
 
 ### Fundamentos
 
-A Doutrina da Alma, formulada por [[_wiki/naiu_wula\|Naiu'Wula]], mestre errante [[_wiki/gerut\|gerut]] do fim da [[_referencias/segunda_era\|Segunda Era]], postula que toda magia nasce da alma. [[_wiki/magi\|Magi]] é apenas "rastro da alma no mundo, não sua chama." Deuses não são reservatórios de energia, como defende a [[_wiki/teoria_materialista\|Teoria Materialista]] de [[_wiki/jospin_valheorn\|Jospin]], mas almas antigas e vastas. Mortais são almas jovens, potencialmente despertáveis.
+A Doutrina da Alma, formulada por [[_wiki/naiu_wula\|Naiu'Wula]], mestre errante [[_wiki/gerut\|gerut]] do fim da [[_wiki/segunda_era\|Segunda Era]], postula que toda magia nasce da alma. [[_wiki/magi\|Magi]] é apenas "rastro da alma no mundo, não sua chama." Deuses não são reservatórios de energia, como defende a [[_wiki/teoria_materialista\|Teoria Materialista]] de [[_wiki/jospin_valheorn\|Jospin]], mas almas antigas e vastas. Mortais são almas jovens, potencialmente despertáveis.
 
 O "despertar" surge em momentos de profunda emoção e não pode ser ensinado, previsto ou forçado. [[_wiki/naiu_wula\|Naiu'Wula]] não fundou escola nem instituição — pregava em espaços abertos, ensinava ao demonstrar, não ao argumentar. Seu método era a "escuta interior": silenciar a mente até que a alma respondesse.
 
@@ -23,4 +23,4 @@ A contradição não é acidental. Discípulos de [[_wiki/naiu_wula\|Naiu'Wula]]
 
 ### Oposição: [[_wiki/teoria_materialista\|Teoria Materialista]]
 
-[[_wiki/jospin_valheorn\|Jospin Valheorn]], alquimista executado durante as Guerras Reinkárdicas, postulou que [[_wiki/magi\|magi]] é força alquímica mensurável e que deuses são definidos pela abundância de [[_wiki/magi\|magi]] que possuem. Tratava [[_wiki/teru\|Teru]] como "anomalia metabólica", recusando qualquer dimensão espiritual. Os dois filósofos nunca se cruzaram: [[_wiki/jospin_valheorn\|Jospin]] viveu antes, [[_wiki/naiu_wula\|Naiu'Wula]] no fim da [[_referencias/segunda_era\|Segunda Era]]. O materialismo e o espiritualismo como pólos que nunca se reconheceram.
+[[_wiki/jospin_valheorn\|Jospin Valheorn]], alquimista executado durante as Guerras Reinkárdicas, postulou que [[_wiki/magi\|magi]] é força alquímica mensurável e que deuses são definidos pela abundância de [[_wiki/magi\|magi]] que possuem. Tratava [[_wiki/teru\|Teru]] como "anomalia metabólica", recusando qualquer dimensão espiritual. Os dois filósofos nunca se cruzaram: [[_wiki/jospin_valheorn\|Jospin]] viveu antes, [[_wiki/naiu_wula\|Naiu'Wula]] no fim da [[_wiki/segunda_era\|Segunda Era]]. O materialismo e o espiritualismo como pólos que nunca se reconheceram.
