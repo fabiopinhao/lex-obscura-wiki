@@ -17,6 +17,10 @@ Cerca de cinquenta e sete anos antes do presente narrativo, a segunda grande cam
 
 [[_wiki/arothistar\|Dravhok]] chamou todos os seus filhos de volta. Vestiu o couro curtido com a resignação de quem puxa uma rede cheia de pedras. Dessa vez, Valdris não devolveu ninguém. Nem mensageiros, nem feridos.
 
+### O Sal como Identidade
+
+O sal define Valdris como a sombra define [[_wiki/morvgrad\|Morvgrad]]. A brisa do mar deposita uma salmoura constante sobre pele, roupas e almas — crosta cinzenta que ninguém remove porque removê-la seria negar a cidade. O porto era uma sinfonia de atritos: gaivotas disputando vísceras, cordas estalando contra mastros, pescadores gritando para medir força e espantar o sono. A viuvez em Valdris trazia um tipo de paz que ninguém chama de paz, e a liberdade de uma mulher sem marido, em becos daqueles, valia mais que prata de [[_wiki/myrgarde\|Myrgarde]].
+
 ### Terra Natal de [[_wiki/milorsevogh_velshard\|Milor]]
 
 [[_wiki/milorsevogh_velshard\|Milorsevogh]] nasceu e cresceu em Valdris. O sal já estava nele antes de nascer. Estava em todos. Eram Valdris. A cidade e as pessoas que a habitavam se confundiam na memória de quem cresceu entre pedra escura e rebentação.

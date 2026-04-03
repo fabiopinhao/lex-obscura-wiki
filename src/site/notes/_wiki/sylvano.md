@@ -23,7 +23,7 @@ Estrutura social baseada em rangers, druidas e anciãos. [[_wiki/peredur\|Peredu
 
 A **[[_wiki/macula-sombria\|Mácula-sombria]]** apodrece raízes e dificulta até encantamentos básicos. Veios negros visíveis em raízes infectadas precedem ataques [[_wiki/shadar\|shadars]] e aceleram com [[_wiki/arothistar\|Arothistar]]. A magia verde está morrendo. [[_wiki/peredur\|Peredur]] revelou que os [[_wiki/titas\|deuses verdes]], diferente dos alvos (extintos por pureza), escolheram sobreviver através de compromissos com o mal.
 
-[[criaturas/troll\|Trolls]] apresentam comportamento organizado com marcas que parecem linguagem (mapeadas por [[_wiki/calel\|Calel]]). Corvos observadores carregam objetos metálicos (espiões?). [[_wiki/gaelwyn\|Gaelwyn]] carrega marca-sombria plantada por [[_wiki/milorsevogh_velshard\|Milor]], fazendo as árvores sussurrarem e raízes recuarem de sua presença.
+[[_wiki/troll\|Trolls]] apresentam comportamento organizado com marcas que parecem linguagem (mapeadas por [[_wiki/calel\|Calel]]). Corvos observadores carregam objetos metálicos (espiões?). [[_wiki/gaelwyn\|Gaelwyn]] carrega marca-sombria plantada por [[_wiki/milorsevogh_velshard\|Milor]], fazendo as árvores sussurrarem e raízes recuarem de sua presença.
 
 ### Tom e Voz
 

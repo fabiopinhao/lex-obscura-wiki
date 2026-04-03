@@ -29,3 +29,7 @@ Quem detém a Fendris detém o poder de eliminar [[_wiki/varna\|Varna]], a drag�
 
 📌 **Aparições:** Cap6, Cap10, Cap12, Cap13 (discussão sobre o tratado).
 📋 **Ver também:** `3.6_locais_LORE.md` ([[_wiki/veinkard\|Veinkard]]) para contexto geopolítico de [[_wiki/varnak\|Varnak]]/[[_wiki/varna\|Varna]].
+
+### Comportamento Anômalo
+
+Fendris desperta espontaneamente na presença de cristal, sem necessidade de receptáculo, inserção ou comando verbal. O fenômeno contradiz a mecânica padrão de artefatos forjados. [[_wiki/gorvam_threnk\|Gorvam Threnk]], [[_wiki/gorvam_threnk\|Mestre das Forjas]] e supervisor de [[_wiki/thandruk_varn\|Thandruk Varn]], declarou nunca ter visto peça equivalente, confirmando que a adaga não tem origem nas forjas [[_wiki/shadar\|shadar]]. A constatação corrobora a origem [[_wiki/luminar\|luminar]] do artefato.

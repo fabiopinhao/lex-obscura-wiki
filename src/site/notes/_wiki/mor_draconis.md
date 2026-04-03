@@ -12,3 +12,9 @@ Núcleo administrativo e religioso da cidade. Arquitetura característica: arcos
 - **[[_wiki/khar_morthar\|Khar Morthar]] (Torre da Morte):** Torre-fortaleza, simultaneamente bastião militar e necrópole vertical. Muralhas decoradas com estátuas de generais [[_wiki/shadar\|shadar]] da [[_referencias/segunda_era\|Segunda Era]], esculpidas em obsidiana nos momentos de suas mortes. Lenda: quando a guerra se aproxima, as estátuas escorrem sangue negro.
 - **Bairros nobres:** Onde [[_wiki/shadar\|Shadars]] de alta linhagem conspiram.
 - **Bibliotecas e laboratórios:** Conhecimento arcano e alquímico.
+
+### Segurança e Acessos
+
+Mor'Draconis se protege com patrulhas regulares de seis em seis e rotação nos pontos cegos a cada troca de turno. A interdição de [[_wiki/worg\|worgs]] é antiga, anterior ao reinado de [[_wiki/arothistar\|Arothistar]], e ninguém se deu ao trabalho de revogá-la porque o distrito se defende por rotina.
+
+O elevador vertical para [[_wiki/ghilanna\|Ghilanna]] fica em Mor'Draconis, antes da entrada de [[_wiki/xarn_aroth\|Xarn'Aroth]]. A plataforma de carga opera com correntes longas de metal pesado, travas gravitacionais que gemem ao entrar e sair do encaixe, e manivelas acionadas por [[_wiki/orc\|orcs]] acorrentados nos níveis inferiores. A descida de carga cria janelas de oportunidade para infiltração: mais pressa nos lacres e papelada, menos olhos nos cantos errados.

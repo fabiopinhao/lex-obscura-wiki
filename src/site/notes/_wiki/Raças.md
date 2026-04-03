@@ -55,20 +55,20 @@ O Império não reconhece igualdade entre as raças. Reconhece utilidade.
 
 ## Criaturas
 
-- [[criaturas/basilisco\|Basilisco]] — Réptil monstruoso de olhar petrificante que habita as profundezas não mapeadas do continente, existindo no bestiário como ameaça conhecida e temida sem jamais pisar em cena.
-- [[criaturas/grifo\|Grifo]] — Montaria de guerra com corpo de leão e asas de águia, domesticada por humanos e álvarars nas Guerras Reinkárdicas.
-- [[criaturas/troll\|Troll]] — Predador territorial de massa colossal e regeneração extrema, que só morre de verdade quando queimado ou dissolvido.
-- [[criaturas/pantera_sombria\|Pantera Sombria]] — Felino de grande porte de pelagem que absorve luz, domesticado exclusivamente por ophideias como montaria de combate e símbolo de status entre as sacerdotisas-assassinas drul.
-- [[criaturas/servo_hediondo\|Servo Hediondo]] — Constructo necromântico animado a partir de cadáveres, amálgamas de carne ou entidades de planos inferiores, tão variado em forma quanto o invocador que o criou e o material que estava à mão.
-- [[criaturas/dridar\|Dridar]] — Aracnídeo gigante de Vor-Ghol cultivado pelas matriarcas drul em linhagens selecionadas por agressividade e inteligência, plantado como ovo em cidadelas rivais para destruí-las de dentro quando amadurece.
-- [[criaturas/hidna_ressonante\|Hidna Ressonante]] — Organismo ou armadilha natural de Vor-Ghol que explode ao menor estímulo sonoro, razão pela qual tropas drul jamais marcham em formação pelos corredores.
-- [[criaturas/gnoll\|Gnoll]] — Híbrido hiena-humanoide de fedor avassalador, ferocidade bruta e vida curta, classificado como "fauna doméstica de segundo grau" pelo Império e tratado exatamente como isso implica.
-- [[criaturas/ogro\|Ogro]] — Humanoides massivos de inteligência limitada, usados como força bruta descartável nos estratos mais baixos do Império.
-- [[criaturas/salamandra\|Salamandra]] — Réptil de ambientes vulcânicos cujo sangue inflamável é o recurso mais cobiçado e escasso de qualquer campanha contra trolls.
+- [[_wiki/basilisco\|Basilisco]] — Réptil monstruoso de olhar petrificante que habita as profundezas não mapeadas do continente, existindo no bestiário como ameaça conhecida e temida sem jamais pisar em cena.
+- [[_wiki/grifo\|Grifo]] — Montaria de guerra com corpo de leão e asas de águia, domesticada por humanos e álvarars nas Guerras Reinkárdicas.
+- [[_wiki/troll\|Troll]] — Predador territorial de massa colossal e regeneração extrema, que só morre de verdade quando queimado ou dissolvido.
+- [[_wiki/pantera_sombria\|Pantera Sombria]] — Felino de grande porte de pelagem que absorve luz, domesticado exclusivamente por ophideias como montaria de combate e símbolo de status entre as sacerdotisas-assassinas drul.
+- [[_wiki/servo_hediondo\|Servo Hediondo]] — Constructo necromântico animado a partir de cadáveres, amálgamas de carne ou entidades de planos inferiores, tão variado em forma quanto o invocador que o criou e o material que estava à mão.
+- [[_wiki/dridar\|Dridar]] — Aracnídeo gigante de Vor-Ghol cultivado pelas matriarcas drul em linhagens selecionadas por agressividade e inteligência, plantado como ovo em cidadelas rivais para destruí-las de dentro quando amadurece.
+- [[_wiki/hidna_ressonante\|Hidna Ressonante]] — Organismo ou armadilha natural de Vor-Ghol que explode ao menor estímulo sonoro, razão pela qual tropas drul jamais marcham em formação pelos corredores.
+- [[_wiki/gnoll\|Gnoll]] — Híbrido hiena-humanoide de fedor avassalador, ferocidade bruta e vida curta, classificado como "fauna doméstica de segundo grau" pelo Império e tratado exatamente como isso implica.
+- [[_wiki/ogro\|Ogro]] — Humanoides massivos de inteligência limitada, usados como força bruta descartável nos estratos mais baixos do Império.
+- [[_wiki/salamandra\|Salamandra]] — Réptil de ambientes vulcânicos cujo sangue inflamável é o recurso mais cobiçado e escasso de qualquer campanha contra trolls.
 - [[_wiki/diabrete\|Diabrete]] — Criaturas aladas, amarradas magicamente ao nascer e usadas como mensageiras servis.
-- [[criaturas/urtor_de_calcita\|Urtor de Calcita]] — Predador das rotas de caravana de Vor-Ghol, temido o suficiente para justificar escoltas armadas, embora ninguém se detenha em descrever seus detalhes.
-- [[criaturas/vitraxil\|Vitraxil]] — Criatura pequena e frágil de Vor-Ghol, possivelmente bioluminescente, cuja aparência delicada virou sinônimo de fragilidade no vocabulário das profundezas.
-- [[criaturas/isopode\|Isópode]] — Artrópode gigante de carapaça quitinosa usado como animal de carga nas rotas de caravana de Vor-Ghol, com guizos embrulhados em feltro quando o silêncio vale mais que a velocidade.
+- [[_wiki/urtor_de_calcita\|Urtor de Calcita]] — Predador das rotas de caravana de Vor-Ghol, temido o suficiente para justificar escoltas armadas, embora ninguém se detenha em descrever seus detalhes.
+- [[_wiki/vitraxil\|Vitraxil]] — Criatura pequena e frágil de Vor-Ghol, possivelmente bioluminescente, cuja aparência delicada virou sinônimo de fragilidade no vocabulário das profundezas.
+- [[_wiki/isopode\|Isópode]] — Artrópode gigante de carapaça quitinosa usado como animal de carga nas rotas de caravana de Vor-Ghol, com guizos embrulhados em feltro quando o silêncio vale mais que a velocidade.
 
 ---
 

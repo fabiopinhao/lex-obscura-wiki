@@ -41,7 +41,7 @@ A economia é escravista. Servos são geralmente [[_wiki/derro\|derros]], [[_wik
 
 *"Na luz, todos são iguais. Na escuridão, apenas os superiores sobrevivem."* A frase é atribuída a uma matriarca Duskryn cuja identidade se perdeu, mas o princípio permeia toda a cultura drul.
 
-A morte drul não envolve piedade. Cadáveres são dissolvidos em ácido fúngico ou entregues a [[criaturas/isopode\|isópodes]] necrófagos nas câmaras de decomposição. Nada se preserva além do berloque, se o morto mereceu a honra de ser lembrado. Os que morreram sem distinção desaparecem sem cerimônia. Luto público é sinal de fraqueza. Luto privado é assunto de cada um, desde que não interfira na produtividade.
+A morte drul não envolve piedade. Cadáveres são dissolvidos em ácido fúngico ou entregues a [[_wiki/isopode\|isópodes]] necrófagos nas câmaras de decomposição. Nada se preserva além do berloque, se o morto mereceu a honra de ser lembrado. Os que morreram sem distinção desaparecem sem cerimônia. Luto público é sinal de fraqueza. Luto privado é assunto de cada um, desde que não interfira na produtividade.
 
 ### Relação com o [[_wiki/imperio_sombrio\|Império]]
 

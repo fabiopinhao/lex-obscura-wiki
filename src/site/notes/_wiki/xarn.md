@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[_wiki/shadar\|Shadar]] ancião. Clérigo grão-mestre e líder espiritual do [[_wiki/culto_sombrio\|Culto Sombrio]]. Líder das casas gêmeas: a eparquia de [[_wiki/xarn_zareth\|Xarn'Zareth]] na cidadela subterrânea de Ghilanna e a eparquia Xarn'Aroth na região sagrada de [[_wiki/morvgrad\|Morvgrad]]. Autor do Codex que rege a [[_wiki/alianca_subterranea\|Aliança]] — escreveu as leis que outros agora recitam. Arquiteto da [[_wiki/alianca_subterranea\|Aliança Subterrânea]] entre [[_wiki/shadar\|shadars]] e [[_wiki/drul\|druls]]. Unificou templos diabólicos dispersos no [[_wiki/culto_sombrio\|Culto Sombrio]]. Possivelmente divinizado (status incerto). Status: vivo. Localização: [[_wiki/morvgrad\|Morvgrad]] (declarado herege por [[_wiki/arothistar\|Arothistar]]).
+[[_wiki/shadar\|Shadar]] ancião. Clérigo grão-mestre e líder espiritual do [[_wiki/culto_sombrio\|Culto Sombrio]]. Líder das casas gêmeas: a eparquia de [[_wiki/xarn_zareth\|Xarn'Zareth]] na cidadela subterrânea de [[_wiki/ghilanna\|Ghilanna]] e a eparquia [[_wiki/xarn_aroth\|Xarn'Aroth]] na região sagrada de [[_wiki/morvgrad\|Morvgrad]]. Autor do Codex que rege a [[_wiki/alianca_subterranea\|Aliança]] — escreveu as leis que outros agora recitam. Arquiteto da [[_wiki/alianca_subterranea\|Aliança Subterrânea]] entre [[_wiki/shadar\|shadars]] e [[_wiki/drul\|druls]]. Unificou templos diabólicos dispersos no [[_wiki/culto_sombrio\|Culto Sombrio]]. Possivelmente divinizado (status incerto). Status: vivo. Localização: [[_wiki/morvgrad\|Morvgrad]] (declarado herege por [[_wiki/arothistar\|Arothistar]]).
 
 ### Papel Narrativo
 

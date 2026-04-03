@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[_wiki/shadar\|Shadar]]. Tenente do exército imperial. Capturado pelos [[_wiki/drul\|druls]] de [[_wiki/xarn_zareth\|Xarn'Zareth]] por violação da [[_wiki/alianca_subterranea\|Aliança Subterrânea]]. Usou seu posto militar para atravessar rotas restritas da Torre Lateral com chaves rúnicas e saqueou gemas-vivas (ovos de [[criaturas/dridar\|dridar]]) do salão de [[_wiki/quavarra_oblodra\|Quavarra Oblodra]] e outras matronas. Entregue a [[_wiki/orum-rahru\|Orum-Rahru]] para julgamento — [[_wiki/drul\|druls]] não podem punir diretamente militares [[_wiki/shadar\|shadars]] segundo as leis de [[_wiki/xarn\|Xarn]].
+[[_wiki/shadar\|Shadar]]. Tenente do exército imperial. Capturado pelos [[_wiki/drul\|druls]] de [[_wiki/xarn_zareth\|Xarn'Zareth]] por violação da [[_wiki/alianca_subterranea\|Aliança Subterrânea]]. Usou seu posto militar para atravessar rotas restritas da Torre Lateral com chaves rúnicas e saqueou gemas-vivas (ovos de [[_wiki/dridar\|dridar]]) do salão de [[_wiki/quavarra_oblodra\|Quavarra Oblodra]] e outras matronas. Entregue a [[_wiki/orum-rahru\|Orum-Rahru]] para julgamento — [[_wiki/drul\|druls]] não podem punir diretamente militares [[_wiki/shadar\|shadars]] segundo as leis de [[_wiki/xarn\|Xarn]].
 
 ### Papel Narrativo
 

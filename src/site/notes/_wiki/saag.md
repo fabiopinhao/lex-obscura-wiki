@@ -31,7 +31,7 @@ Inexistente em termos formais. [[_wiki/neranthis\|Neranthis]] permanece independ
 
 A exceção é [[_wiki/babua\|Babua]]. Servo de [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]], posicionado como vigia nas montanhas ocidentais do planalto de [[_wiki/reinkard\|Reinkard]] por acordo entre [[_wiki/lorvaq_val_kir\|Lorvaq]] e [[_wiki/arothistar\|Arothistar]]. [[_wiki/babua\|Babua]] é, possivelmente, o único saag a pisar em solo [[_wiki/reinkardico\|reinkárdico]]. O arranjo revela a lógica imperial em relação a [[_wiki/neranthis\|Neranthis]]: [[_wiki/arothistar\|Arothistar]] não invade (clima e terreno são proibitivos), mas coopta indivíduos úteis através de intermediários. O saag é instrumento do [[_wiki/frenim\|frenim]] que é instrumento do imperador. Cada camada acrescenta distância e deniabilidade.
 
-Para [[_wiki/fandegarron\|Fandegarrón]], que perdeu a toca para [[_wiki/babua\|Babua]], o saag é "demônio vestido de sapo que empurrou o mundo". A descrição é mais precisa do que o [[criaturas/gnoll\|gnoll]] imagina: o que [[_wiki/babua\|Babua]] fez ao deslocar-se para o [[_wiki/plano_etereo\|Aetherium]] e romper vínculos arcanos na região foi, efetivamente, empurrar a realidade local para o lado.
+Para [[_wiki/fandegarron\|Fandegarrón]], que perdeu a toca para [[_wiki/babua\|Babua]], o saag é "demônio vestido de sapo que empurrou o mundo". A descrição é mais precisa do que o [[_wiki/gnoll\|gnoll]] imagina: o que [[_wiki/babua\|Babua]] fez ao deslocar-se para o [[_wiki/plano_etereo\|Aetherium]] e romper vínculos arcanos na região foi, efetivamente, empurrar a realidade local para o lado.
 
 ### Voz Narrativa (guia de escrita)
 

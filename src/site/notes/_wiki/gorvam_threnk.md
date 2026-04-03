@@ -39,4 +39,6 @@ A incapacidade de Gorvam de reconhecer armas que não vieram de suas forjas (10.
 
 **[[_wiki/thandruk_varn\|Thandruk Varn]] / [[_wiki/karashim\|karashim]] (recurso supervisionado):** A relação de Gorvam com os anões é de gerência, não de aliança. Defende a sobrevivência deles porque a alternativa é arsenais vazios. A "indispensabilidade" que invoca é corrente que protege e aprisiona ao mesmo tempo.
 
+Seção 14.3: [[_wiki/nidzina_avaroth\|Nidzina]] o contatou pelo [[_wiki/oculus_morvgradi\|Oculus]] durante a operação nas Montanhas do Oeste. Confirmou que nunca vira peça como a adaga ([[_wiki/fendris\|Fendris]]) — implica que a forja não é [[_wiki/shadar\|shadar]]. Negaria a conversa sem hesitar se pressionado no Conselho.
+
 📋 Referência: 3.11_organizacoes_LORE.md (§[[_wiki/conselho_sombrio\|Conselho Sombrio]]); 3.3_racas_bestiario_LORE.md (§[[_wiki/karashim\|Karashim]]); 3.6_locais_LORE.md (§[[_wiki/thandruk_varn\|Thandruk Varn]])

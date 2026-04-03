@@ -7,6 +7,12 @@
 
 Humana. Madre da [[_wiki/igreja_de_sao_lucian\|Igreja de São Lucian]] em [[_wiki/myrgarde\|Myrgarde]]. Anciã curvada pelo peso de décadas. Sobreviveu à queda de [[_wiki/myrgarde\|Myrgarde]] — poupada por [[_wiki/arothistar\|Arothistar]], que a considerou inofensiva. Curou e observou [[_wiki/arothistar\|Dravmir]] durante algum período da infância dele.
 
+### A Chegada de [[_wiki/arothistar\|Dravmir]]
+
+A primeira ligação de Corvina com [[_wiki/arothistar\|Dravmir]] antecede o jogo de [[_wiki/korball\|Korball]] por décadas. Quando a avó do menino chegou a [[_wiki/myrgarde\|Myrgarde]] vinda de [[_wiki/valdris\|Valdris]], foi Corvina quem os recebeu no topo das escadarias da Catedral de [[_wiki/igreja_de_sao_lucian\|São Lucian]]. Nessa época, Corvina era uma mulher jovem de túnicas brancas e traços precisos, cuja beleza austera não oferecia calor.
+
+Corvina instalou avó e neto num quarto afastado dos cânticos. Tocou a testa do bebê com a ponta do dedo e disse: "Ele é lindo." Velou ambos até a morte da anciã naquela mesma noite. A partir dali, assumiu os cuidados de [[_wiki/arothistar\|Dravmir]], o que explica a familiaridade entre os dois na cena do [[_wiki/korball\|Korball]], décadas depois.
+
 ### Papel Narrativo
 
 Observou [[_wiki/arothistar\|Dravmir]] no jogo de [[_wiki/korball\|Korball]] junto com [[_wiki/grimald\|Grimald]], da torre sineira da [[_wiki/igreja_de_sao_lucian\|Igreja de São Lucian]] (seção 5.1) — testemunha da bondade juvenil de [[_wiki/arothistar\|Dravmir]], paralela ao [[_wiki/coveiro-mor\|Coveiro-mor]]. Quando [[_wiki/grimald\|Grimald]] rejeitou [[_wiki/arothistar\|Dravmir]] para treinamento de paladino, Corvina sussurrou ao menino que "rejeição às vezes é proteção" — frase cuja profundidade o leitor só perceberá ao longo da trilogia.

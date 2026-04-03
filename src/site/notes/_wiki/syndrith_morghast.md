@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[_wiki/drul\|Drul]] ophideia do [[_wiki/templo_de_azkaroth\|templo de Azkaroth]]. Pele negra-púrpura, olhos violáceos. Raça: [[_wiki/drul\|Drul]]. Afiliação primária: [[_wiki/ophideias\|Ophideias]]; [[_wiki/ordo_zathar\|Ordo Zathar]]. Armas: balestra de repetição; rapieiras gêmeas. Cavalga [[criaturas/pantera_sombria\|pantera sombria]]. Porta selo púrpura do Conselho. Enviada por [[_wiki/jaakurs\|Jaakurs]] para supervisionar [[_wiki/milorsevogh_velshard\|Milor]] em [[_wiki/niedellin\|Niedellin]] — dupla operação: tarefa oficial via selo púrpura E vigilância templária via [[_wiki/ordo_zathar\|Ordo Zathar]]. Próximo rito: Oblátio Ereba. Invoca [[_wiki/ulravaeth\|Ulravaeth]] para manipular sombra própria. Relação com [[_wiki/vhraxil\|Vhraxil]] desde a infância. Status: viva, retornando a [[_wiki/morvgrad\|Morvgrad]].
+[[_wiki/drul\|Drul]] ophideia do [[_wiki/templo_de_azkaroth\|templo de Azkaroth]]. Pele negra-púrpura, olhos violáceos. Raça: [[_wiki/drul\|Drul]]. Afiliação primária: [[_wiki/ophideias\|Ophideias]]; [[_wiki/ordo_zathar\|Ordo Zathar]]. Armas: balestra de repetição; rapieiras gêmeas. Cavalga [[_wiki/pantera_sombria\|pantera sombria]]. Porta selo púrpura do Conselho. Enviada por [[_wiki/jaakurs\|Jaakurs]] para supervisionar [[_wiki/milorsevogh_velshard\|Milor]] em [[_wiki/niedellin\|Niedellin]] — dupla operação: tarefa oficial via selo púrpura E vigilância templária via [[_wiki/ordo_zathar\|Ordo Zathar]]. Próximo rito: Oblátio Ereba. Invoca [[_wiki/ulravaeth\|Ulravaeth]] para manipular sombra própria. Relação com [[_wiki/vhraxil\|Vhraxil]] desde a infância. Status: viva, retornando a [[_wiki/morvgrad\|Morvgrad]].
 
 ### Magia e Habilidades
 

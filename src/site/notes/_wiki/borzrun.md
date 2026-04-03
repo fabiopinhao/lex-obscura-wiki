@@ -9,7 +9,7 @@
 
 ### Papel Narrativo
 
-Conduziu caravana pelo [[_wiki/eixo_de_drenn\|Eixo de Drenn]] para evitar [[criaturas/dridar\|dridar]] em combate com [[_wiki/murano\|muranos]] no [[_wiki/veio_morto\|Veio Morto]]. Pragmático, humor seco de minerador. Algo foi roubado da caravana por [[_wiki/tibaut\|Tibaut]] com precisão profissional durante o episódio de [[_wiki/nidzina_avaroth\|Nidzina]].
+Conduziu caravana pelo [[_wiki/eixo_de_drenn\|Eixo de Drenn]] para evitar [[_wiki/dridar\|dridar]] em combate com [[_wiki/murano\|muranos]] no [[_wiki/veio_morto\|Veio Morto]]. Pragmático, humor seco de minerador. Algo foi roubado da caravana por [[_wiki/tibaut\|Tibaut]] com precisão profissional durante o episódio de [[_wiki/nidzina_avaroth\|Nidzina]].
 
 ### Padrões de Voz
 

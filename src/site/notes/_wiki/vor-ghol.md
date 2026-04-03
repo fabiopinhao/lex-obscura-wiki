@@ -9,10 +9,10 @@ O Underdark. Lar ancestral dos [[_wiki/drul\|drul]], vasta rede de cavernas e ci
 Cidadela [[_wiki/drul\|drul]] no oeste de Vor-Ghol, atualmente em relação hostil com [[_wiki/ghilanna\|Ghilanna]]. Alvo de operações diplomáticas secretas da [[_wiki/casa_duskryn\|Casa Duskryn]] — [[_wiki/nylothrae_duskryn\|Nylothrae]] busca comprar favores para garantir acesso a corredores estratégicos quando necessário. "[[_wiki/ghilanna\|Ghilanna]] não quer as cavernas do oeste. Rataria demais, terra ruim. Quer apenas que [[_wiki/xilaverth\|Xilaverth]] nos deva um passo quando o passo for necessário."
 
 ### Outras Rotas e Locais do Subterrâneo
-**[[_wiki/eixo_de_drenn\|Eixo de Drenn]]:** Antiga cidadela [[_wiki/drul\|drul]] transformada em ninho de [[criaturas/dridar\|dridar]]. Hoje serve como rota de contorno, ainda marcada por vestígios de teias.
+**[[_wiki/eixo_de_drenn\|Eixo de Drenn]]:** Antiga cidadela [[_wiki/drul\|drul]] transformada em ninho de [[_wiki/dridar\|dridar]]. Hoje serve como rota de contorno, ainda marcada por vestígios de teias.
 
 **[[_wiki/quintos_de_irkhal\|Quintos de Irkhal]]:** Região profunda e remota de Vor-Ghol. Usada como ameaça: "caçar até os [[_wiki/quintos_de_irkhal\|Quintos de Irkhal]]" implica perseguição implacável até os confins do subterrâneo.
 
-**[[_wiki/veio_morto\|Veio Morto]]:** Passagem de Vor-Ghol conhecida por presença de [[criaturas/dridar\|dridars]] selvagens. Rota evitada por caravanas quando há alternativa.
+**[[_wiki/veio_morto\|Veio Morto]]:** Passagem de Vor-Ghol conhecida por presença de [[_wiki/dridar\|dridars]] selvagens. Rota evitada por caravanas quando há alternativa.
 
 **[[_wiki/galeria_menor\|Galeria Menor]]:** Corredor de Vor-Ghol sujeito a fechamento por marés subterrâneas. Quando bloqueada, força viajantes a usar rotas alternativas como o [[_wiki/eixo_de_drenn\|Eixo de Drenn]].

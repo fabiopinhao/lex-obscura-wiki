@@ -23,12 +23,16 @@ Tom de autoridade que não precisa de volume. Conservador, pesado de história. 
 
 **Amostra 4** (sobre jovem [[_wiki/shadar\|shadar]] que admirava sua armadura): *"O garoto deve ter sido um [[_wiki/shadar\|shadar]] muito especial."* — afeto raro, formulado como observação.
 
+**Amostra 5** (a [[_wiki/vyrensen\|Vyrensen]], no [[_wiki/salao_do_conselho\|Salão do Conselho]]): *"A obsidiana racha quando a pressão vem de dentro."* — ameaça vestida de observação geológica.
+
+**Amostra 6** (sobre si mesmo, após o confronto): *"Sou o que resta dela."* — referindo-se à era pré-imperial; identidade comprimida em pronome.
+
 ### Relações-Chave
 
 **[[_wiki/nidzina_avaroth\|Nidzina]] (tutor / traído):** Treinou [[_wiki/nidzina_avaroth\|Nidzina]] desde os oito anos. É traído por ela no Livro I. O "primeiro golpe mortal" que ela domina foi ensinado por ele.
 
 **[[_wiki/milorsevogh_velshard\|Milorsevogh]] (passa o bastão):** Reconhece [[_wiki/milorsevogh_velshard\|Milor]] como herdeiro do entendimento — não do cargo, mas da capacidade de ver. Passa-lhe o bastão ao fim.
 
-**[[_wiki/vozrador\|Vozrador]] (templário perdido):** Perdeu os poderes do deus sem saber a causa por 55 anos. Investigou o Templo sozinho. Descoberta do aprisionamento — ruptura de fé.
+**[[_wiki/vozrador\|Vozrador]] (templário perdido):** Perdeu os poderes do deus sem saber a causa por 55 anos. Investigou o Templo sozinho. Descoberta do aprisionamento — ruptura de fé. No [[_wiki/oculus_morvgradi\|Oculus de Qaelun]], o rosto de [[_wiki/vekraal\|Vekraal]] apareceu antes da destruição do artefato — conexão não compreendida por Orum.
 
 **[[_wiki/jaakurs\|Jaakurs]] / [[_wiki/nyx_ara\|Nyx'Ara]] (alinhamento tardio):** Alinha-se à facção templária ao longo do Livro I. Não percebe ser peça no tabuleiro do [[_wiki/ordo_zathar\|Ordo Zathar]].
