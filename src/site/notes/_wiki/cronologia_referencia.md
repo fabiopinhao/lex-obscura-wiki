@@ -355,7 +355,7 @@ Aroth entrou em [[_wiki/morvgrad\|Morvgrad]] e foi aplaudido. Não por uma facç
 
 A purga que se seguiu foi cirúrgica. Os conselheiros mais poderosos habitavam a torre de [[_wiki/mor_severith\|Mor'Severith]], antiga biblioteca privada e moradia da elite do Conselho. Foi ali que a tropa de segurança particular de Aroth entrou junto com seu líder. Muitos cadáveres saíram da torre naquela noite. Os conselheiros que não residiam em [[_wiki/mor_severith\|Mor'Severith]] receberam uma escolha implícita: submissão ou o mesmo destino. A maioria escolheu sobreviver. [[_wiki/xarn\|Xarn]], que já vivia sob necromancia há séculos, não se opôs. Havia dado sua bênção a [[_wiki/arothistar\|Dravhok]] quando este era apenas um general promissor, e agora manteve-se neutro enquanto o general devorava o Conselho.
 
-Com o apoio popular e o poder militar concentrado em suas mãos, [[_wiki/arothistar\|Dravhok]] fez o que nenhum [[_wiki/shadar\|shadar]] havia ousado antes dele. Declarou-se [[_wiki/arothistar\|Arothistar]]: [[_wiki/arothistar\|Aroth de Histar]], o Sagrado do Alto. O nome não era só título. Era programa. Esse episódio marcou a transição de Aroth de general hegemônico para governante efetivo do Culto.
+Com o apoio popular e o poder militar concentrado em suas mãos, [[_wiki/arothistar\|Dravhok]] fez o que nenhum [[_wiki/shadar\|shadar]] havia ousado antes dele. Declarou-se [[_wiki/arothistar\|Arothistar]]: [[_wiki/arothistar\|Aroth de Histar]], o Consagrado do Alto. O nome não era só título. Era programa. Esse episódio marcou a transição de Aroth de general hegemônico para governante efetivo do Culto.
 
 ---
 

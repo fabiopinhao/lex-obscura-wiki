@@ -13,7 +13,7 @@ A dualidade é funcional: as matriarcas de [[_wiki/ghilanna\|Ghilanna]] as forma
 
 Ophideias são selecionadas entre meninas [[_wiki/drul\|drul]] das Casas Matriarcais, geralmente antes dos dez anos. Critérios incluem aptidão mágica para [[_wiki/spectro\|Spectro]] ou [[_wiki/umbra\|Umbra]], temperamento frio e predisposição a obediência institucional. A formação ocorre nos templos de [[_wiki/ghilanna\|Ghilanna]] e dura anos, combinando:
 
-Treinamento sensorial: visão noturna refinada (dezenas de tons entre obsidiana e carvão — "distinguir breu ou morrer no escuro"). Treinamento marcial: rapieiras, balestras de repetição, venenos. Treinamento mágico: ênfase em [[_wiki/spectro\|Spectro]] (atravessar matéria, projeção espectral, sondagem) e invocação de [[_wiki/ulravaeth\|Ulravaeth]] (Shadow Warden, Custódio do Entre) para manipulação da própria sombra.
+Treinamento sensorial: visão noturna refinada (dezenas de tons entre obsidiana e carvão — "distinguir breu ou morrer no escuro"). Treinamento marcial: rapieiras, balestras de repetição, venenos. Treinamento mágico: ênfase em [[_wiki/spectro\|Spectro]] (atravessar matéria, projeção espectral, sondagem) e invocação de [[_wiki/ulravaeth\|Ulravaeth]] ([[_wiki/ulravaeth\|Vigil of the Between]], [[_wiki/ulravaeth\|Custódio do Entre]]) para manipulação da própria sombra.
 
 O resultado são agentes que se movem entre mundos — literalmente, no caso de [[_wiki/spectro\|Spectro]] — com eficiência letal e discrição absoluta.
 

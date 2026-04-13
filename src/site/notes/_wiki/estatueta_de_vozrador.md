@@ -5,7 +5,7 @@
 
 **Origem:**
 
-Estatueta de obsidiana entregue por [[_wiki/nyx_ara\|Nyx'Ara]] (oráculo da [[_wiki/camara_de_othuun\|Câmara de Othuun]]) ao jovem [[_wiki/arothistar\|Dravmir]] durante um encontro na estrada quando ele tinha quinze anos. [[_wiki/nyx_ara\|Nyx'Ara]] rejeitou o cavalo de madeira de São Borjean com repulsa, oferecendo a estatueta em seu lugar.
+Estatueta de obsidiana entregue por [[_wiki/nyx_ara\|Nyx'Ara]] (oráculo da [[_wiki/camara_de_othuun\|Câmara de Othuun]]) ao jovem [[_wiki/arothistar\|Dravmir]] durante um encontro na estrada quando ele tinha quinze anos. [[_wiki/nyx_ara\|Nyx'Ara]] rejeitou o cavalo de madeira de São [[_wiki/borjean\|Borjean]] com repulsa, oferecendo a estatueta em seu lugar.
 
 **Função Narrativa:**
 

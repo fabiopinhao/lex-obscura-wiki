@@ -17,7 +17,7 @@ Durante as Guerras Reinkárdicas, a submissão da [[_wiki/ventrista\|Ventrista]]
 
 [[_wiki/arothistar\|Arothistar]] (nascido [[_wiki/arothistar\|Dravmir]], humano de [[_wiki/myrgarde\|Myrgarde]]) é o caso mais notório de conversão via Ossárium. Cerca de oitenta anos antes dos eventos do Livro I, [[_wiki/vozrador\|Vozrador]] se aproximou de [[_wiki/arothistar\|Dravmir]]. O Rito o transformou em [[_wiki/shadar\|shadar]], e ele passou a se chamar [[_wiki/arothistar\|Dravhok]]. Converso, não [[_wiki/shadar\|shadar]] de nascimento, [[_wiki/arothistar\|Dravhok]] carregava um nome anterior que os habitantes de [[_wiki/reinkard\|Reinkard]] jamais conheceram e que nenhum registro preservou. Rumores sobre sua origem humana circulavam entre os que o invejavam, mas o general nunca os confirmou nem se deu ao trabalho de negá-los.
 
-[[_wiki/arothistar\|Dravhok]] tornou-se não apenas [[_wiki/shadar\|shadar]], mas o monarca supremo do [[_wiki/imperio_sombrio\|Império]]. Após trair [[_wiki/vozrador\|Vozrador]] e pactuar com [[_wiki/malagoth\|Malagoth]] e [[_wiki/velmorain\|Velmorain]], intitulou-se [[_wiki/arothistar\|Arothistar]]: *[[_wiki/arothistar\|Aroth de Histar]]*, o Sagrado do Alto.
+[[_wiki/arothistar\|Dravhok]] tornou-se não apenas [[_wiki/shadar\|shadar]], mas o monarca supremo do [[_wiki/imperio_sombrio\|Império]]. Após trair [[_wiki/vozrador\|Vozrador]] e pactuar com [[_wiki/malagoth\|Malagoth]] e [[_wiki/velmorain\|Velmorain]], intitulou-se [[_wiki/arothistar\|Arothistar]]: *[[_wiki/arothistar\|Aroth de Histar]]*, o Consagrado do Alto.
 
 ### Proibição
 

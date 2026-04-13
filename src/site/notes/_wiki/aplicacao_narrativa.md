@@ -67,7 +67,7 @@
 |---------|------------------|--------------|
 | [[_wiki/spectro\|Spectro]] (principal) | III | Dúvida frequente sobre o que é real; toca objetos para confirmar |
 
-**Perfil:** Diferente dos [[_wiki/justiciars\|Justiciars]], [[_wiki/ophideias\|Ophideias]] podem usar pactos. [[_wiki/syndrith_morghast\|Syndrith]] é pactuada com [[_wiki/ulravaeth\|Ulravaeth]] (Custódio do Entre) — progressão intensificada por especialização profunda. A ilusão está corroendo sua confiança na própria percepção. Serve no [[_wiki/templo_de_azkaroth\|Templo de Azkaroth]].
+**Perfil:** Diferente dos [[_wiki/justiciars\|Justiciars]], [[_wiki/ophideias\|Ophideias]] podem usar pactos. [[_wiki/syndrith_morghast\|Syndrith]] é pactuada com [[_wiki/ulravaeth\|Ulravaeth]] ([[_wiki/ulravaeth\|Custódio do Entre]]) — progressão intensificada por especialização profunda. A ilusão está corroendo sua confiança na própria percepção. Serve no [[_wiki/templo_de_azkaroth\|Templo de Azkaroth]].
 
 **Risco de descarte:** Médio. Se chegar ao IV, relatórios tornam-se inúteis. Candidata a Recolhimento como verificadora de ilusões.
 

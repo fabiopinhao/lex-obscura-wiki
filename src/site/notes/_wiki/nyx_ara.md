@@ -12,7 +12,7 @@ Bruxa metamorfa de natureza sobrenatural antiga. Aparência real desconhecida �
 
 ### Papel Narrativo
 
-Deu [[_wiki/estatueta_de_vozrador\|estatueta de Vozrador]] ao jovem [[_wiki/arothistar\|Dravmir]] durante viagem como Corvina — rejeitou cavalo de madeira de São Borjean com repulsa. Aconselha [[_wiki/orum-rahru\|Orum-Rahru]] de maneira críptica como Nyx'Ara. Co-arquiteta estratégica do [[_wiki/ordo_zathar\|Ordo Zathar]] junto com [[_wiki/jaakurs\|Jaakurs]]. Posição única como oráculo "independente" permite influenciar múltiplas facções sem levantar suspeitas. Opera da [[_wiki/camara_de_othuun\|Câmara de Othuun]] enquanto articula planos [[_wiki/templarios\|templários]] de longo prazo.
+Deu [[_wiki/estatueta_de_vozrador\|estatueta de Vozrador]] ao jovem [[_wiki/arothistar\|Dravmir]] durante viagem como Corvina — rejeitou cavalo de madeira de São [[_wiki/borjean\|Borjean]] com repulsa. Aconselha [[_wiki/orum-rahru\|Orum-Rahru]] de maneira críptica como Nyx'Ara. Co-arquiteta estratégica do [[_wiki/ordo_zathar\|Ordo Zathar]] junto com [[_wiki/jaakurs\|Jaakurs]]. Posição única como oráculo "independente" permite influenciar múltiplas facções sem levantar suspeitas. Opera da [[_wiki/camara_de_othuun\|Câmara de Othuun]] enquanto articula planos [[_wiki/templarios\|templários]] de longo prazo.
 
 ### Padrões de Voz
 

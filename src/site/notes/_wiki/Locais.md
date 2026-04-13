@@ -59,7 +59,7 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 ## Locais Sagrados e Arcanos
 
 - [[_wiki/templo_de_azkaroth\|Templo de Azkaroth]] — Templo do diabo Azkaroth, unção dos Justiciars
-- [[_wiki/templo_de_velmorain\|Templo de Velmorain]] — Templo do diabo Velmorain, Keeper of Laws
+- [[_wiki/templo_de_velmorain\|Templo de Velmorain]] — Templo do diabo Velmorain, Cosmic Veil
 - [[_wiki/templo_de_vozrador\|Templo de Vozrador]] — Templo abandonado do diabo Vozrador, infestado de mortos-vivos
 - [[_wiki/poco_etereo\|Poço Etéreo]] — Nexo central de comunicações do Oculus em Ghol'Mournak
 - [[_wiki/scriptorium_de_morvgrad\|Scriptorium de Morvgrad]] — Ala de copistas e exegetas do Codex Somniorum

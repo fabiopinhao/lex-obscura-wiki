@@ -45,7 +45,7 @@ Subjugação. Aquilars sob domínio imperial são cidadãos de segunda classe qu
 
 A utilidade residual dos aquilars (visão de rapinante, conhecimento sacerdotal, capacidade de cura) impede o extermínio sistemático. O [[_wiki/imperio_sombrio\|Império]] mantém aquilars como recursos: alguns servem em torres de vigia com asas seladas; outros tratam feridos em enfermarias militares sob supervisão. A maioria sobrevive em posições intermediárias nas cidades conquistadas, tolerados enquanto produtivos, descartados quando deixam de ser.
 
-[[_wiki/auren\|Auren]] em [[_wiki/mor_severith\|Mor'Severith]] é caso extremo: prisioneiro pessoal de [[_wiki/arothistar\|Arothistar]], mantido vivo por necromancia, visitado e maltratado todas as noites. A bênção de [[_wiki/israfil\|Israfil]] que carrega é incompatível com a maldição de [[_wiki/malagoth\|Malagoth]] (Coroa de Espinhos), causando deterioração acelerada que [[_wiki/iluvrae\|Ilúvrae]] é obrigada a curar periodicamente.
+[[_wiki/auren\|Auren]] em [[_wiki/mor_severith\|Mor'Severith]] é caso extremo: prisioneiro pessoal de [[_wiki/arothistar\|Arothistar]], mantido vivo por necromancia, visitado e maltratado todas as noites. A bênção de [[_wiki/israfil\|Israfil]] que carrega é incompatível com a maldição de [[_wiki/malagoth\|Malagoth]] ([[_wiki/malagoth\|Coroa de Espinhos]]), causando deterioração acelerada que [[_wiki/iluvrae\|Ilúvrae]] é obrigada a curar periodicamente.
 
 ### Controle do Voo
 
