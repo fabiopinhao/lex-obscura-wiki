@@ -16,7 +16,7 @@ A marca espiritual do pacto é invisível a olho nu, mas detectável por magia e
 - Sacerdotes e inquisidores com essa capacidade são extremamente valiosos
 - Podem identificar traidores, espiões ou falsos devotos
 - O [[_wiki/culto_sombrio\|Culto Sombrio]] mantém detectores em postos-chave
-- Ardorados são facilmente identificáveis — sua cor é visível para quem sabe olhar
+- Ardorados são facilmente identificáveis: sua cor é visível para quem sabe olhar
 
 #### Limitações
 

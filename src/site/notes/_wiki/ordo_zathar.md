@@ -13,7 +13,7 @@ O termo "Ordo Zathar" deriva de [[_wiki/xarn_zareth\|Xarn'Zareth]], a eparquia l
 
 ### Natureza Ideológica
 
-**CRÍTICO:** O Ordo Zathar NÃO é facção libertadora. São tão malignos quanto [[_wiki/arothistar\|Arothistar]] — buscam substituir um sistema de controle tirânico por outro igualmente opressivo. Defendem a lei contra o homem, mas não defendem liberdade — apenas outro modo de dominação institucional.
+**CRÍTICO:** O Ordo Zathar NÃO é facção libertadora. São tão malignos quanto [[_wiki/arothistar\|Arothistar]]: buscam substituir um sistema de controle tirânico por outro igualmente opressivo. Defendem a lei contra o homem, mas não defendem liberdade: apenas outro modo de dominação institucional.
 
 **Filosofia operacional:**
 - [[_wiki/lex_obscura_decreto\|Lex Obscura]] (lei de [[_wiki/xarn\|Xarn]]) como fundamento supremo
@@ -59,7 +59,7 @@ Esta camada de segurança operacional protege o fundador do Culto enquanto permi
 - Autorização oficial permite acesso a recursos imperiais para fins conspiratórios
 
 **Discrição absoluta:**
-- "Mão invisível" — evitam confronto aberto
+- "Mão invisível" : evitam confronto aberto
 - Manipulação de processos institucionais
 - Sabotagem sutil em vez de golpe direto
 - Preparação ideológica ([[_wiki/jaakurs\|Jaakurs]] questiona fundamentos do [[_wiki/imperio_sombrio\|império]] publicamente)

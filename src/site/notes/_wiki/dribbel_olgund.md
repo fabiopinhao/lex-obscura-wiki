@@ -13,7 +13,7 @@ Tagarelice compulsiva que contém informação útil enterrada em baboseira. O m
 
 **Tom:** Frases longas, digressivas, com interjeições frequentes. Revela mais do que pretende porque não consegue parar de falar.
 
-**Amostra canônica** (ao perceber que entregou informações sobre a Serpente): *"Testemunhas da Serpente não envelhecem."* — insight súbito de quem acabou de se condenar.
+**Amostra canônica** (ao perceber que entregou informações sobre a Serpente): *"Testemunhas da Serpente não envelhecem."*: insight súbito de quem acabou de se condenar.
 
 ### Relações-Chave
 

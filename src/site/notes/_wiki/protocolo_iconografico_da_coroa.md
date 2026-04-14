@@ -11,7 +11,7 @@ Com a queda de [[_wiki/myrgarde\|Myrgarde]] (~30 anos antes dos eventos do Livro
 
 ### Função: Conduítes de Onipresença
 
-As efígies não são mera decoração. Funcionam como conduítes de onipresença — projeções simbólicas e, em alguns casos, arcanas da presença do monarca. A [[_wiki/efigie_de_arothistar\|Efígie de Arothistar]] na ponte de [[_wiki/mor_severith\|Mor'Severith]] é uma estátua animada com olhos de ônix que acendem em prata, capaz de vigiar tudo entre a ponte e o [[_wiki/pico_de_nethys\|Pico de Nethys]] e de replicar a voz do mestre. No [[_wiki/salao_do_conselho\|Salão do Conselho Sombrio]], a [[_wiki/efigie_de_arothistar\|efígie de Arothistar]] foi erguida um palmo acima da linha dos doze [[_wiki/diabos\|diabos]] — detalhe que [[_wiki/orum-rahru\|Orum-Rahru]] tenta racionalizar como desnível de alvenaria, mas cuja mensagem é inequívoca: o monarca se posiciona acima dos deuses.
+As efígies não são mera decoração. Funcionam como conduítes de onipresença: projeções simbólicas e, em alguns casos, arcanas da presença do monarca. A [[_wiki/efigie_de_arothistar\|Efígie de Arothistar]] na ponte de [[_wiki/mor_severith\|Mor'Severith]] é uma estátua animada com olhos de ônix que acendem em prata, capaz de vigiar tudo entre a ponte e o [[_wiki/pico_de_nethys\|Pico de Nethys]] e de replicar a voz do mestre. No [[_wiki/salao_do_conselho\|Salão do Conselho Sombrio]], a [[_wiki/efigie_de_arothistar\|efígie de Arothistar]] foi erguida um palmo acima da linha dos doze [[_wiki/diabos\|diabos]], detalhe que [[_wiki/orum-rahru\|Orum-Rahru]] tenta racionalizar como desnível de alvenaria, mas cuja mensagem é inequívoca: o monarca se posiciona acima dos deuses.
 
 No [[_wiki/templo_de_azkaroth\|Templo de Azkaroth]], sede das cerimônias de unção dos [[_wiki/justiciars\|Justiciars]], uma pintura mural de [[_wiki/arothistar\|Arothistar]] emanou fulgor incomum durante a unção de [[_wiki/milorsevogh_velshard\|Milorsevogh]]. A da sala de banhos de [[_wiki/mor_severith\|Mor'Severith]] oferece vista direta para o templo.
 
@@ -25,6 +25,6 @@ A pergunta permanece aberta: por que a efígie do monarca vigia a ruína do deus
 
 ### Implicações Políticas
 
-O Protocolo é a expressão material de uma filosofia de governo: a força conquista, mas apenas a ordem mantém. A ausência física de [[_wiki/arothistar\|Arothistar]] é compensada por uma presença que não dorme, não se distrai e não negocia. As efígies são lembretes permanentes de que o olhar do monarca alcança cada esquina do [[_wiki/imperio_sombrio\|império]], mesmo — ou especialmente — onde ele nunca pisa.
+O Protocolo é a expressão material de uma filosofia de governo: a força conquista, mas apenas a ordem mantém. A ausência física de [[_wiki/arothistar\|Arothistar]] é compensada por uma presença que não dorme, não se distrai e não negocia. As efígies são lembretes permanentes de que o olhar do monarca alcança cada esquina do [[_wiki/imperio_sombrio\|império]], (mesmo ou especialmente) onde ele nunca pisa.
 
 A combinação do Protocolo com o sistema de [[_wiki/oculus_morvgradi\|Oculus]] (comunicação) e os corvos (vigilância) cria uma tríade de controle à distância que dispensa a presença corporal do governante. [[_wiki/arothistar\|Arothistar]] transformou seu isolamento em instrumento de poder.

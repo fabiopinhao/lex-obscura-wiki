@@ -3,7 +3,7 @@
 ---
 
 
-**Tenebraico** — Latim sombrio. Consoantes oclusivas duras (*k*, *t*, *d*) e fricativas sibilantes (*s*, *sh*, *th*). Vogais curtas e escuras (*o*, *u*), raramente abertas. Ritmo marcial, frases declarativas sem ambiguidade. Cada palavra é sentença — duplo sentido não existe porque contratos não permitem.
+**Tenebraico**: Latim sombrio. Consoantes oclusivas duras (*k*, *t*, *d*) e fricativas sibilantes (*s*, *sh*, *th*). Vogais curtas e escuras (*o*, *u*), raramente abertas. Ritmo marcial, frases declarativas sem ambiguidade. Cada palavra é sentença; duplo sentido não existe porque contratos não permitem.
 
 Inspiração sonora: latim eclesiástico com a suavidade removida. Onde o latim da Igreja sobe em oração, o Tenebraico desce em decreto.
 

@@ -9,7 +9,7 @@ O Nullis é o dia avulso que separa a última [[_wiki/lunia\|Lúnia]] de um [[_w
 
 ### Significado Cultural
 
-Dia de superstição, recolhimento e rituais imperiais. A população evita decisões importantes, viagens e negociações. Os mais supersticiosos trancam portas e janelas ao anoitecer. Para o [[_wiki/culto_sombrio\|Culto Sombrio]], o Nullis marca cerimônias de renovação e expiação — um dia em que a ordem se suspende antes de recomeçar.
+Dia de superstição, recolhimento e rituais imperiais. A população evita decisões importantes, viagens e negociações. Os mais supersticiosos trancam portas e janelas ao anoitecer. Para o [[_wiki/culto_sombrio\|Culto Sombrio]], o Nullis marca cerimônias de renovação e expiação: um dia em que a ordem se suspende antes de recomeçar.
 
 A conexão etimológica com o [[_wiki/vazio\|Vazio]] não é casual. Num mundo onde o [[_wiki/vazio\|vazio]] é conceito metafísico central (a ausência que precede e sobrevive à ordem), um dia que não pertence a nenhuma estrutura temporal carrega peso simbólico proporcional.
 

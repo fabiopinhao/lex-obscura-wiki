@@ -9,7 +9,7 @@ Kaelgrym se manifesta como uma mantícora funérea: corpo leonino de pelagem cin
 
 ### Domínio
 
-[[_wiki/phobos\|Phobos]] e [[_wiki/pyro\|Pyro]]. Kaelgrym transforma medo em combustível e fogo em linguagem. [[_wiki/phobos\|Phobos]] gradua o pavor — do desconforto difuso à fobia que se crava como cicatriz. [[_wiki/pyro\|Pyro]] materializa a lição em fogo. A combinação produz terror pedagógico. O flagelo alado ensina pelo fogo e examina pelo medo. Queima para testar, aterroriza para selecionar. Quem sobrevive à queimadura e ao pavor sem quebrar é digno do vínculo.
+[[_wiki/phobos\|Phobos]] e [[_wiki/pyro\|Pyro]]. Kaelgrym transforma medo em combustível e fogo em linguagem. [[_wiki/phobos\|Phobos]] gradua o pavor: do desconforto difuso à fobia que se crava como cicatriz. [[_wiki/pyro\|Pyro]] materializa a lição em fogo. A combinação produz terror pedagógico. O flagelo alado ensina pelo fogo e examina pelo medo. Queima para testar, aterroriza para selecionar. Quem sobrevive à queimadura e ao pavor sem quebrar é digno do vínculo.
 
 A afinidade com os [[_wiki/diabos\|diabos]] decorre de [[_wiki/phobos\|Phobos]]: medo serve tanto ao caos quanto à ordem, o que permite a Kaelgrym coexistir com patronos diabólicos onde outros [[_wiki/demonios\|demônios]] seriam incompatíveis. O medo é a língua franca entre os planos.
 
@@ -23,7 +23,7 @@ Essa vinculação universal tem consequência arcana direta: nenhum [[_wiki/drac
 
 As exigências de Kaelgrym são diretas: destruição contínua e expurgos políticos, com o terror como ferramenta de controle. Onde [[_wiki/malagoth\|Malagoth]] quer expansão territorial e [[_wiki/velmorain\|Velmorain]] sustenta a ilusão de ordem cósmica, Kaelgrym exige que o fogo arda e que alguém grite. Quando os expurgos cessam, Kaelgrym pressiona; quando recomeçam, o medo se propaga e reforça a obediência que [[_wiki/malagoth\|Malagoth]] exige e a estabilidade que [[_wiki/velmorain\|Velmorain]] simula.
 
-Na Torre de [[_wiki/mor_severith\|Mor'Severith]], [[_wiki/arothistar\|Arothistar]] fala com Kaelgrym através do teto — sem genuflexão, sem invocação, como quem discute com um sócio pelo andar de cima. A relação é de dependência mútua temperada por desprezo recíproco.
+Na Torre de [[_wiki/mor_severith\|Mor'Severith]], [[_wiki/arothistar\|Arothistar]] fala com Kaelgrym através do teto, sem genuflexão, sem invocação, como quem discute com um sócio pelo andar de cima. A relação é de dependência mútua temperada por desprezo recíproco.
 
 ### Proscrição
 

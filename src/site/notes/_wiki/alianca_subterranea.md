@@ -17,6 +17,6 @@ Formalizada em dois eixos: político ([[_wiki/conselho_sombrio\|Conselho Sombrio
 
 A desconfiança é mútua e ancestral. [[_wiki/shadar\|Shadars]] consideram [[_wiki/drul\|druls]] imprevisíveis e excessivamente leais às matriarcas. [[_wiki/drul\|Druls]] consideram [[_wiki/shadar\|shadars]] arrogantes e incapazes de honrar alianças sem dominá-las. A Aliança funciona apesar da tensão, não sem ela.
 
-Pós-Arothistar, a Aliança entra em crise aberta (Livro II: massacre das matriarcas). O pacto de [[_wiki/xarn\|Xarn]] sobrevive como estrutura formal, mas a confiança — já frágil — se dissolve.
+Pós-Arothistar, a Aliança entra em crise aberta (Livro II: massacre das matriarcas). O pacto de [[_wiki/xarn\|Xarn]] sobrevive como estrutura formal, mas a confiança (já frágil) se dissolve.
 
 📋 Para contexto histórico: §10.3 e §10.6 do Cânone.

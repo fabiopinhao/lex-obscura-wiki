@@ -3,11 +3,11 @@
 ---
 
 
-**Nomenclatura:** "Coluna da Lei" — como coluna arquitetônica, sustenta a estrutura judicial do [[_wiki/imperio_sombrio\|império]]; como coluna vertebral, mantém ereto o corpo da justiça. [[_wiki/justiciars\|Justiciars]] são vértebras individuais conectadas à coluna maior: a vontade de [[_wiki/arothistar\|Arothistar]].
+**Nomenclatura:** "Coluna da Lei" : como coluna arquitetônica, sustenta a estrutura judicial do [[_wiki/imperio_sombrio\|império]]; como coluna vertebral, mantém ereto o corpo da justiça. [[_wiki/justiciars\|Justiciars]] são vértebras individuais conectadas à coluna maior: a vontade de [[_wiki/arothistar\|Arothistar]].
 
 **Composição:**
 
-O núcleo é pedra lunar extraída das cavernas sagradas de [[_wiki/xarn_aroth\|Xarn'Aroth]], escolhida por ressonância com magias negras. Fragmentos ósseos — relíquias dos primeiros traidores executados pelo culto — foram incorporados à haste. Runas gravadas em espiral descendente contêm trechos do [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] em escrita microscópica.
+O núcleo é pedra lunar extraída das cavernas sagradas de [[_wiki/xarn_aroth\|Xarn'Aroth]], escolhida por ressonância com magias negras. Fragmentos ósseos (relíquias dos primeiros traidores executados pelo culto) foram incorporados à haste. Runas gravadas em espiral descendente contêm trechos do [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] em escrita microscópica.
 
 **Ritual de Vinculação:**
 
@@ -15,7 +15,7 @@ Durante a cerimônia de ordenação, o cetro é apresentado ao novo Justiciar co
 
 **Poderes Manifestos (Tríade):**
 
-**Percute (Golpear):** Estilhaça proteções mágicas menores. Deixa marcas permanentes em condenados — cicatrizes que brilham na presença de outros cetros.
+**Percute (Golpear):** Estilhaça proteções mágicas menores. Deixa marcas permanentes em condenados: cicatrizes que brilham na presença de outros cetros.
 
 **Dirige (Dirigir):** Compele obediência em interrogatórios. Guia a mão do juiz durante execuções rituais.
 

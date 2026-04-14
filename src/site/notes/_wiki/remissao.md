@@ -6,4 +6,4 @@
 **Escola:** [[_wiki/salvo\|Salvo]]
 **Escala:** Média
 
-Eliminar doença instalada no corpo. Não trata sintomas — reverte o processo patológico: febre cede, infecção recua, tecido inflamado desincha. Contra doenças comuns, é resolução. Contra pragas mágicas ou infecções de [[_wiki/patho\|Patho]], é contenção que estabiliza e compra tempo. Diferente de Depuração (que expulsa substância estranha), Remissão corrige o próprio corpo que adoeceu. Custo: fantasma da doença curada — tremor, suor frio, fraqueza proporcional
+Eliminar doença instalada no corpo. Não trata sintomas: reverte o processo patológico: febre cede, infecção recua, tecido inflamado desincha. Contra doenças comuns, é resolução. Contra pragas mágicas ou infecções de [[_wiki/patho\|Patho]], é contenção que estabiliza e compra tempo. Diferente de Depuração (que expulsa substância estranha), Remissão corrige o próprio corpo que adoeceu. Custo: fantasma da doença curada: tremor, suor frio, fraqueza proporcional

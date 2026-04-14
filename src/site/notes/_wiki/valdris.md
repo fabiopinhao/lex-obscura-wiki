@@ -19,7 +19,7 @@ Cerca de cinquenta e sete anos antes do presente narrativo, a segunda grande cam
 
 ### O Sal como Identidade
 
-O sal define Valdris como a sombra define [[_wiki/morvgrad\|Morvgrad]]. A brisa do mar deposita uma salmoura constante sobre pele, roupas e almas — crosta cinzenta que ninguém remove porque removê-la seria negar a cidade. O porto era uma sinfonia de atritos: gaivotas disputando vísceras, cordas estalando contra mastros, pescadores gritando para medir força e espantar o sono. A viuvez em Valdris trazia um tipo de paz que ninguém chama de paz, e a liberdade de uma mulher sem marido, em becos daqueles, valia mais que prata de [[_wiki/myrgarde\|Myrgarde]].
+O sal define Valdris como a sombra define [[_wiki/morvgrad\|Morvgrad]]. A brisa do mar deposita uma salmoura constante sobre pele, roupas e almas: crosta cinzenta que ninguém remove porque removê-la seria negar a cidade. O porto era uma sinfonia de atritos: gaivotas disputando vísceras, cordas estalando contra mastros, pescadores gritando para medir força e espantar o sono. A viuvez em Valdris trazia um tipo de paz que ninguém chama de paz, e a liberdade de uma mulher sem marido, em becos daqueles, valia mais que prata de [[_wiki/myrgarde\|Myrgarde]].
 
 ### Terra Natal de [[_wiki/milorsevogh_velshard\|Milor]]
 

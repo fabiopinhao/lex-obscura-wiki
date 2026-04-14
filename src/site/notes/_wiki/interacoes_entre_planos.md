@@ -11,7 +11,7 @@ Apenas duas escolas de magia manipulam diretamente o [[_wiki/plano_etereo\|Plano
 
 📋 **Para detalhes sobre escolas, especialistas e mecânicas:** consulte `3.7_sistemas_magicos_LORE.md`
 
-O "[[_wiki/flux_aetheria\|Flux Aetheria]]" — tentativa de manipular diretamente os condutos do [[_wiki/plano_etereo\|Plano Etéreo]] — é prática extremamente perigosa e instável. Não constitui escola formal; é aplicação avançada de [[_wiki/cosmo\|Cosmo]] e [[_wiki/spectro\|Spectro]]. A maioria dos acidentes mágicos catastróficos registrados na história envolve falhas no controle do [[_wiki/canal_magi\|canal magi]].
+O "[[_wiki/flux_aetheria\|Flux Aetheria]]" (tentativa de manipular diretamente os condutos do [[_wiki/plano_etereo\|Plano Etéreo]]) é prática extremamente perigosa e instável. Não constitui escola formal; é aplicação avançada de [[_wiki/cosmo\|Cosmo]] e [[_wiki/spectro\|Spectro]]. A maioria dos acidentes mágicos catastróficos registrados na história envolve falhas no controle do [[_wiki/canal_magi\|canal magi]].
 
 ### Ataques Entre Planos
 

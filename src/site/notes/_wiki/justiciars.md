@@ -5,11 +5,11 @@
 
 ### Nomenclatura
 
-O termo deriva do antigo [[_wiki/shadar\|shadar]] *justis-kar*, literalmente "portador da sentença". Alternam entre dois títulos conforme a natureza de suas funções: são **juízes** quando presidem julgamentos formais e interpretam o [[_wiki/codex_somniorum\|Codex Somniorum]]; tornam-se **justiceiros** quando executam sentenças, conduzem investigações de campo ou aplicam a lei marcial. Esta fluidez semântica reflete a dualidade essencial do cargo — são simultaneamente magistrados e carrascos, escribas e espadas.
+O termo deriva do antigo [[_wiki/shadar\|shadar]] *justis-kar*, literalmente "portador da sentença". Alternam entre dois títulos conforme a natureza de suas funções: são **juízes** quando presidem julgamentos formais e interpretam o [[_wiki/codex_somniorum\|Codex Somniorum]]; tornam-se **justiceiros** quando executam sentenças, conduzem investigações de campo ou aplicam a lei marcial. Esta fluidez semântica reflete do cargo: são simultaneamente magistrados e carrascos, escribas e espadas.
 
 ### Contexto Político da Criação dos Justiciars
 
-A fundação do sistema de Justiciars há 44 anos não foi apenas reforma jurídica — foi **expurgo político disfarçado de institucionalização**.
+A fundação do sistema de Justiciars há 44 anos não foi apenas reforma jurídica: foi **expurgo político disfarçado de institucionalização**.
 
 #### O Problema dos [[_wiki/templarios\|Templários]]
 
@@ -19,7 +19,7 @@ Os antigos [[_wiki/templarios\|templários]] mantinham lealdades divididas e per
 - **Vínculos pactuais com [[_wiki/diabos\|diabos]]** que podiam contradizer ordens de [[_wiki/arothistar\|Arothistar]]
 - **Cultura de segredo** herdada das matriarcas [[_wiki/drul\|drul]]
 
-[[_wiki/arothistar\|Arothistar]] nunca confiou completamente nos [[_wiki/templarios\|templários]]. A conexão subterrânea era estrutural demais, antiga demais, enraizada demais para ser controlada por decreto. **O subterrâneo é traiçoeiro por natureza** — território de matriarcas, de pactos antigos, de lealdades que antecedem o [[_wiki/imperio_sombrio\|império]] [[_wiki/shadar\|shadar]].
+[[_wiki/arothistar\|Arothistar]] nunca confiou completamente nos [[_wiki/templarios\|templários]]. A conexão subterrânea era estrutural demais, antiga demais, enraizada demais para ser controlada por decreto. **O subterrâneo é traiçoeiro por natureza**: território de matriarcas, de pactos antigos, de lealdades que antecedem o [[_wiki/imperio_sombrio\|império]] [[_wiki/shadar\|shadar]].
 
 #### A Solução: Justiciars sem Pactos
 
@@ -33,7 +33,7 @@ A escolha de **[[_wiki/orum-rahru\|Orum-Rahru]]** como primeiro Justiciar foi ca
 - Era o templário mais respeitado de [[_wiki/vozrador\|Vozrador]]
 - Demonstrava "bondade" ao preservar a tradição templária
 - **Mas subordinava essa tradição ao novo sistema**
-- [[_wiki/orum-rahru\|Orum]] não sabia que [[_wiki/arothistar\|Arothistar]] traíra seu deus — servia o homem responsável sem suspeitar
+- [[_wiki/orum-rahru\|Orum]] não sabia que traíra seu deus, servia o homem responsável sem suspeitar
 
 #### Filosofia Racial Subjacente
 
@@ -98,7 +98,7 @@ Quando designados para um caso, seguem protocolo rigoroso:
 | **4. [[_wiki/tabua_reversa\|Tábua Reversa]]** | Relatório codificado enviado ao Conselho detalhando achados e execuções |
 | **5. Ratificação ou Recurso** | Conselho valida a sentença ou ordena revisão |
 
-**[[_wiki/veredictum_exkarthon\|Veredictum Exkarthon]]:** Instrumento processual que permite investigados exigirem apresentação de provas antes da sentença final — uma das poucas proteções processuais na lei sombria.
+**[[_wiki/veredictum_exkarthon\|Veredictum Exkarthon]]:** Instrumento processual que permite investigados exigirem apresentação de provas antes da sentença final, uma das poucas proteções processuais na lei sombria.
 
 ### Filosofia e Doutrina
 
@@ -118,9 +118,9 @@ Todos pagam com fragmentos de humanidade o privilégio de serem martelos de [[_w
 
 ### Estrutura e Hierarquia
 
-Não existe hierarquia formal entre Justiciars — tempo de serviço e reputação criam distinções tácitas. Operam sozinhos ou em pequenos grupos, frequentemente acompanhados por auxiliares especializados ([[_wiki/ophideias\|ophideias]] como [[_wiki/syndrith_morghast\|Syndrith]] combinam espionagem sacerdotal com execução cirúrgica).
+Não existe hierarquia formal entre Justiciars: tempo de serviço e reputação criam distinções tácitas. Operam sozinhos ou em pequenos grupos, frequentemente acompanhados por auxiliares especializados ([[_wiki/ophideias\|ophideias]] como [[_wiki/syndrith_morghast\|Syndrith]] combinam espionagem sacerdotal com execução cirúrgica).
 
-**Razão para não serem pactuados:** Justiciars não podem se dividir entre obediência ao monarca e vontades particulares de patronos divinos. Por isso usam [[_wiki/teru\|Teru]] — magia independente de pactos.
+**Razão para não serem pactuados:** Justiciars não podem se dividir entre obediência ao monarca e vontades particulares de patronos divinos. Por isso usam [[_wiki/teru\|Teru]], magia independente de pactos.
 
 ### Relação com Outras Instituições
 

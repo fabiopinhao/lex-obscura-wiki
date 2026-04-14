@@ -23,7 +23,7 @@ Humanoides anfíbios de pele úmida, em tons verdes, pardos ou moteados. Olhos g
 
 ### Cultura e Sociedade
 
-Raça azul de [[_wiki/neranthis\|Neranthis]], coexistindo com [[_wiki/frenim\|frenims]] e [[_wiki/undine\|undines]]. Sociedade organizada em comunidades lacustres ou ribeirinhas. A simbiose com [[_wiki/frenim\|frenims]] é a relação política definidora: [[_wiki/frenim\|frenims]] mantêm infraestrutura arcana que estabiliza os corpos de água; ranidanos fornecem presença física e vigilância territorial. A relação não é de servidão — [[_wiki/frenim\|frenims]] precisam de ranidanos tanto quanto ranidanos precisam de [[_wiki/frenim\|frenims]], embora os [[_wiki/frenim\|frenims]] admitam isso com menos frequência. [[_wiki/undine\|Undines]] completam o triângulo, conectando a costa oceânica ao interior pantanoso.
+Raça azul de [[_wiki/neranthis\|Neranthis]], coexistindo com [[_wiki/frenim\|frenims]] e [[_wiki/undine\|undines]]. Sociedade organizada em comunidades lacustres ou ribeirinhas. A simbiose com [[_wiki/frenim\|frenims]] é a relação política definidora: [[_wiki/frenim\|frenims]] mantêm infraestrutura arcana que estabiliza os corpos de água; ranidanos fornecem presença física e vigilância territorial. A relação não é de servidão; [[_wiki/frenim\|frenims]] precisam de ranidanos tanto quanto ranidanos precisam de [[_wiki/frenim\|frenims]], embora os [[_wiki/frenim\|frenims]] admitam isso com menos frequência. [[_wiki/undine\|Undines]] completam o triângulo, conectando a costa oceânica ao interior pantanoso.
 
 ### Natureza Familiar
 
@@ -35,7 +35,7 @@ A "família" ranidana, como a [[_wiki/sauriano\|sauriana]], é em parte classifi
 
 ### Relação com Magia
 
-Cor arcana azul. Acesso pelo *[[_wiki/meditatio_aetheris\|Meditatio Aetheris]]*: sintonização passiva com o [[_wiki/plano_etereo\|Plano Etéreo]], sem pacto, sem contrato, sem devoção. Onde [[_wiki/frenim\|frenims]] estudam e racionalizam, ranidanos sentem. O ranidano submerge, desacelera a respiração, e a fronteira entre plano material e Etéreo se adelgaça. O acesso é orgânico; a limitação é que o controle é impreciso — ranidanos percebem o Etéreo com clareza, mas manipulá-lo exige esforço que a maioria não sustenta.
+Cor arcana azul. Acesso pelo *[[_wiki/meditatio_aetheris\|Meditatio Aetheris]]*: sintonização passiva com o [[_wiki/plano_etereo\|Plano Etéreo]], sem pacto, sem contrato, sem devoção. Onde [[_wiki/frenim\|frenims]] estudam e racionalizam, ranidanos sentem. O ranidano submerge, desacelera a respiração, e a fronteira entre plano material e Etéreo se adelgaça. O acesso é orgânico; a limitação é que o controle é impreciso: ranidanos percebem o Etéreo com clareza, mas manipulá-lo exige esforço que a maioria não sustenta.
 
 O custo mágico se manifesta como **dessecação progressiva**: magia etérea intensa drena a umidade corporal. Ranidanos que abusam da conexão envelhecem visivelmente: pele gretada, olhos opacos, movimentos rígidos. A fonte do poder e o que o custo consome são a mesma coisa.
 

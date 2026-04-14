@@ -13,7 +13,7 @@ Azkaroth se manifesta como um diabo-corvo: uma figura imensa de penas negras e l
 
 ### O Arquidiabo
 
-O título designa função cerimonial, e só. Outros [[_wiki/diabos\|diabos]] superam Azkaroth em força ou terror. Ele preside os ritos que definem o que um diabo é e o que uma unção significa. Os demais concedem poder e castigam transgressores. Azkaroth oficia a transformação em si. A consequência prática é estrutural: consagração de templário, formalização de pacto, alteração de vínculo — qualquer rito de passagem entre estados passa por seu domínio. Azkaroth governa a porta pela qual todo pactuado deve entrar. Nenhum dos doze pode dispensá-la.
+O título designa função cerimonial, e só. Outros [[_wiki/diabos\|diabos]] superam Azkaroth em força ou terror. Ele preside os ritos que definem o que um diabo é e o que uma unção significa. Os demais concedem poder e castigam transgressores. Azkaroth oficia a transformação em si. A consequência prática é estrutural: consagração de templário, formalização de pacto, alteração de vínculo: qualquer rito de passagem entre estados passa por seu domínio. Azkaroth governa a porta pela qual todo pactuado deve entrar. Nenhum dos doze pode dispensá-la.
 
 ### Templo e Unção
 

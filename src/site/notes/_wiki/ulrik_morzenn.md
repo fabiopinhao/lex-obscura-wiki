@@ -13,12 +13,12 @@ Mencionado em Cap. 2.1, Cap. 7.3 (Elzakar prepara denúncia sobre morte de [[_wi
 
 ### Padrões de Voz
 
-Sem falas documentadas no Livro I — presença política mais que vocal.
+Sem falas documentadas no Livro I: presença política mais que vocal.
 
 ### Relações-Chave
 
-**[[_wiki/eliakim\|Eliakim]] (sucedeu):** A morte de [[_wiki/eliakim\|Eliakim]] abriu a cadeira que Morzenn ocupa — e o Ordo sabe disso.
+**[[_wiki/eliakim\|Eliakim]] (sucedeu):** A morte de [[_wiki/eliakim\|Eliakim]] abriu a cadeira que Morzenn ocupa, e o Ordo sabe disso.
 
-**[[_wiki/vyrensen\|Vyrensen]] (sucessor planejado):** Morzenn precede [[_wiki/vyrensen\|Vyrensen]] na rotação — cadeia de controle templário calculada.
+**[[_wiki/vyrensen\|Vyrensen]] (sucessor planejado):** Morzenn precede [[_wiki/vyrensen\|Vyrensen]] na rotação: cadeia de controle templário calculada.
 
-**[[_wiki/jaakurs\|Jaakurs]] / [[_wiki/nyx_ara\|Nyx'Ara]] ([[_wiki/ordo_zathar\|Ordo Zathar]]):** Peça no tabuleiro estratégico do Ordo — acesso privilegiado ao Conselho.
+**[[_wiki/jaakurs\|Jaakurs]] / [[_wiki/nyx_ara\|Nyx'Ara]] ([[_wiki/ordo_zathar\|Ordo Zathar]]):** Peça no tabuleiro estratégico do Ordo: acesso privilegiado ao Conselho.

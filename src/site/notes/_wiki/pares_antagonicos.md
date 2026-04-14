@@ -5,7 +5,7 @@
 
 As 30 escolas de magia organizam-se em **15 pares antagônicos** distribuídos em **6 categorias** de oposição.
 
-> **Nota:** Pares antagônicos indicam oposição temática e interferência preferencial, não anulação absoluta. Em confronto direto, há resistência mútua, aumento de custo ou dissipação parcial — não cancelamento automático. O ambiente, preparo e maestria do conjurador influenciam o resultado.
+> **Nota:** Pares antagônicos indicam oposição temática e interferência preferencial, não anulação absoluta. Em confronto direto, há resistência mútua, aumento de custo ou dissipação parcial; não cancelamento automático. O ambiente, preparo e maestria do conjurador influenciam o resultado.
 
 ### Oposições Elementais (4 pares)
 
@@ -17,10 +17,10 @@ As 30 escolas de magia organizam-se em **15 pares antagônicos** distribuídos e
 | **[[_wiki/umbra\|Umbra]]** | BB | Trevas e Obscuridade | ↔ | **[[_wiki/helio\|Helio]]** | WW | Luz e Radiância |
 
 **Eixos de oposição:**
-- *[[_wiki/pyro\|Pyro]] ↔ [[_wiki/hydro\|Hydro]]:* Consumir vs. Fluir — fogo devora, água extingue e adapta.
-- *[[_wiki/cryo\|Cryo]] ↔ [[_wiki/plasma\|Plasma]]:* Estase vs. Excitação — gelo paralisa, plasma transforma.
-- *[[_wiki/aero\|Aero]] ↔ [[_wiki/geo\|Geo]]:* Movimento vs. Permanência — vento desloca, terra ancora.
-- *[[_wiki/umbra\|Umbra]] ↔ [[_wiki/helio\|Helio]]:* Ocultar vs. Revelar — trevas escondem, luz expõe.
+- *[[_wiki/pyro\|Pyro]] ↔ [[_wiki/hydro\|Hydro]]:* Consumir vs. Fluir: fogo devora, água extingue e adapta.
+- *[[_wiki/cryo\|Cryo]] ↔ [[_wiki/plasma\|Plasma]]:* Estase vs. Excitação: gelo paralisa, plasma transforma.
+- *[[_wiki/aero\|Aero]] ↔ [[_wiki/geo\|Geo]]:* Movimento vs. Permanência: vento desloca, terra ancora.
+- *[[_wiki/umbra\|Umbra]] ↔ [[_wiki/helio\|Helio]]:* Ocultar vs. Revelar: trevas escondem, luz expõe.
 
 ### Oposições Vitais (2 pares)
 
@@ -30,8 +30,8 @@ As 30 escolas de magia organizam-se em **15 pares antagônicos** distribuídos e
 | **[[_wiki/patho\|Patho]]** | BG | Decaimento e Putrefação | ↔ | **[[_wiki/salvo\|Salvo]]** | WG | Cura e Restauração |
 
 **Eixos de oposição:**
-- *[[_wiki/necro\|Necro]] ↔ [[_wiki/vita\|Vita]]:* Cessar vs. Florescer — morte encerra, vida multiplica.
-- *[[_wiki/patho\|Patho]] ↔ [[_wiki/salvo\|Salvo]]:* Degradar vs. Restaurar — doença corrompe, cura reconstrói.
+- *[[_wiki/necro\|Necro]] ↔ [[_wiki/vita\|Vita]]:* Cessar vs. Florescer: morte encerra, vida multiplica.
+- *[[_wiki/patho\|Patho]] ↔ [[_wiki/salvo\|Salvo]]:* Degradar vs. Restaurar: doença corrompe, cura reconstrói.
 
 ### Oposições Mentais (2 pares)
 
@@ -41,8 +41,8 @@ As 30 escolas de magia organizam-se em **15 pares antagônicos** distribuídos e
 | **[[_wiki/phobos\|Phobos]]** | RB | Medo e Terror | ↔ | **[[_wiki/gnosi\|Gnosi]]** | UU | Conhecimento e Premonição |
 
 **Eixos de oposição:**
-- *[[_wiki/hypno\|Hypno]] ↔ [[_wiki/psycho\|Psycho]]:* Adormecer vs. Despertar — hipnose suprime consciência, psique a invade.
-- *[[_wiki/phobos\|Phobos]] ↔ [[_wiki/gnosi\|Gnosi]]:* Irracional vs. Racional — medo obscurece, conhecimento ilumina.
+- *[[_wiki/hypno\|Hypno]] ↔ [[_wiki/psycho\|Psycho]]:* Adormecer vs. Despertar: hipnose suprime consciência, psique a invade.
+- *[[_wiki/phobos\|Phobos]] ↔ [[_wiki/gnosi\|Gnosi]]:* Irracional vs. Racional: medo obscurece, conhecimento ilumina.
 
 ### Oposições de Ordem/Caos (3 pares)
 
@@ -53,9 +53,9 @@ As 30 escolas de magia organizam-se em **15 pares antagônicos** distribuídos e
 | **[[_wiki/belli\|Belli]]** | RG | Guerra e Combate | ↔ | **[[_wiki/aegis\|Aegis]]** | WU | Proteção e Barreira |
 
 **Eixos de oposição:**
-- *[[_wiki/anatho\|Anatho]] ↔ [[_wiki/sacro\|Sacro]]:* Profanar vs. Consagrar — maldição corrompe, bênção santifica.
-- *[[_wiki/rupto\|Rupto]] ↔ [[_wiki/nomos\|Nomos]]:* Quebrar vs. Vincular — destruição liberta, restrição aprisiona.
-- *[[_wiki/belli\|Belli]] ↔ [[_wiki/aegis\|Aegis]]:* Atacar vs. Defender — guerra agride, proteção resiste.
+- *[[_wiki/anatho\|Anatho]] ↔ [[_wiki/sacro\|Sacro]]:* Profanar vs. Consagrar: maldição corrompe, bênção santifica.
+- *[[_wiki/rupto\|Rupto]] ↔ [[_wiki/nomos\|Nomos]]:* Quebrar vs. Vincular: destruição liberta, restrição aprisiona.
+- *[[_wiki/belli\|Belli]] ↔ [[_wiki/aegis\|Aegis]]:* Atacar vs. Defender: guerra agride, proteção resiste.
 
 ### Oposições Espaciais/Temporais (2 pares)
 
@@ -65,8 +65,8 @@ As 30 escolas de magia organizam-se em **15 pares antagônicos** distribuídos e
 | **[[_wiki/electro\|Electro]]** | BW | Eletricidade e Magnetismo | ↔ | **[[_wiki/chrono\|Chrono]]** | UR | Tempo e Fluxo |
 
 **Eixos de oposição:**
-- *[[_wiki/cosmo\|Cosmo]] ↔ [[_wiki/urano\|Urano]]:* Matéria vs. Espírito — gravidade prende o corpo, transcendência liberta a alma.
-- *[[_wiki/electro\|Electro]] ↔ [[_wiki/chrono\|Chrono]]:* Acelerar vs. Desacelerar — eletricidade impulsiona, tempo retarda.
+- *[[_wiki/cosmo\|Cosmo]] ↔ [[_wiki/urano\|Urano]]:* Matéria vs. Espírito: gravidade prende o corpo, transcendência liberta a alma.
+- *[[_wiki/electro\|Electro]] ↔ [[_wiki/chrono\|Chrono]]:* Acelerar vs. Desacelerar: eletricidade impulsiona, tempo retarda.
 
 ### Oposições de Substância (2 pares)
 
@@ -76,8 +76,8 @@ As 30 escolas de magia organizam-se em **15 pares antagônicos** distribuídos e
 | **[[_wiki/toxo\|Toxo]]** | GB | Veneno e Ácido | ↔ | **[[_wiki/abjuro\|Abjuro]]** | GW | Negação e Dissipação |
 
 **Eixos de oposição:**
-- *[[_wiki/spectro\|Spectro]] ↔ [[_wiki/morpho\|Morpho]]:* Parecer vs. Tornar-se — ilusão engana, metamorfose altera.
-- *[[_wiki/toxo\|Toxo]] ↔ [[_wiki/abjuro\|Abjuro]]:* Corromper vs. Purificar — veneno degrada, anulação protege.
+- *[[_wiki/spectro\|Spectro]] ↔ [[_wiki/morpho\|Morpho]]:* Parecer vs. Tornar-se: ilusão engana, metamorfose altera.
+- *[[_wiki/toxo\|Toxo]] ↔ [[_wiki/abjuro\|Abjuro]]:* Corromper vs. Purificar: veneno degrada, anulação protege.
 
 ### Resumo
 

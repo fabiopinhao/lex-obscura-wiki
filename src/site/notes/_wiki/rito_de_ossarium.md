@@ -7,7 +7,7 @@
 
 Nem todo [[_wiki/shadar\|shadar]] nasce [[_wiki/shadar\|shadar]]. O Rito de Ossárium é o processo de conversão pelo qual humanos comuns são transformados em [[_wiki/shadar\|shadars]], adquirindo os traços fisiológicos e a conexão arcana da raça. Raro e reservado a circunstâncias excepcionais, o Rito representa uma via alternativa de ingresso na linhagem sombria.
 
-A existência do Rito implica que a identidade [[_wiki/shadar\|shadar]] é tanto biológica quanto ritual — uma condição que pode ser imposta ou escolhida, não apenas herdada. Os detalhes da mecânica do ritual não são documentados nas fontes canônicas do Livro I.
+A existência do Rito implica que a identidade [[_wiki/shadar\|shadar]] é tanto biológica quanto ritual: uma condição que pode ser imposta ou escolhida, não apenas herdada. Os detalhes da mecânica do ritual não são documentados nas fontes canônicas do Livro I.
 
 ### Uso Histórico
 
@@ -23,11 +23,11 @@ Durante as Guerras Reinkárdicas, a submissão da [[_wiki/ventrista\|Ventrista]]
 
 Cerca de quarenta e quatro anos antes dos eventos do Livro I, [[_wiki/arothistar\|Arothistar]] proibiu o Rito de Ossárium, classificando-o como heresia capital. A proibição coincidiu com a fundação do sistema de [[_wiki/justiciars\|Justiciars]] e a nomeação de [[_wiki/orum-rahru\|Orum-Rahru]] como primeiro Justiciar.
 
-A ironia é estrutural: o monarca que ascendeu ao poder através do Rito foi o mesmo que o baniu. A motivação mais provável é política — impedir que outros humanos percorressem o mesmo caminho e se tornassem rivais potenciais. Ao proibir o processo que o criou, [[_wiki/arothistar\|Arothistar]] garantiu que sua origem permanecesse irrepetível, transformando exceção em monopólio.
+A ironia é estrutural: o monarca que ascendeu ao poder através do Rito foi o mesmo que o baniu. A motivação mais provável é política: impedir que outros humanos percorressem o mesmo caminho e se tornassem rivais potenciais. Ao proibir o processo que o criou, [[_wiki/arothistar\|Arothistar]] garantiu que sua origem permanecesse irrepetível, transformando exceção em monopólio.
 
 ### Implicações Ontológicas
 
-O Rito levanta questões que o universo de [[_wiki/lex_obscura_decreto\|Lex Obscura]] deixa deliberadamente sem resposta: se a identidade racial pode ser reescrita por ritual, o que define uma raça? Se um humano pode se tornar [[_wiki/shadar\|shadar]], a fronteira entre as raças é biológica, espiritual ou política? A existência do Ossárium corrói a narrativa de superioridade racial que sustenta o [[_wiki/imperio_sombrio\|Império Sombrio]] — e a proibição do Rito é, em parte, uma tentativa de silenciar essa corrosão.
+O Rito levanta questões que o universo de [[_wiki/lex_obscura_decreto\|Lex Obscura]] deixa deliberadamente sem resposta: se a identidade racial pode ser reescrita por ritual, o que define uma raça? Se um humano pode se tornar [[_wiki/shadar\|shadar]], a fronteira entre as raças é biológica, espiritual ou política? A existência do Ossárium corrói a narrativa de superioridade racial que sustenta o [[_wiki/imperio_sombrio\|Império Sombrio]]; e a proibição do Rito é, em parte, uma tentativa de silenciar essa corrosão.
 
 ### Mistérios Pendentes
 

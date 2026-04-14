@@ -7,7 +7,7 @@
 
 A Teoria Materialista, formulada por [[_wiki/jospin_valheorn\|Jospin Valheorn]] em *De Magia Alchemica: Fundamenta Physica*, postula que [[_wiki/magi\|magi]] é uma força alquímica real e invisível, uma matriz energética sutil que permeia [[_wiki/thamakard\|Thamakard]]. Toda magia, independentemente do sistema de acesso, é manipulação dessa força. Deuses são definidos pela abundância de [[_wiki/magi\|magi]] que possuem, não por status espiritual ou natureza transcendente. A alquimia seria a única forma consciente e autônoma de manipulação do [[_wiki/magi\|magi]], dispensando intermediários divinos.
 
-[[_wiki/jospin_valheorn\|Jospin]] ignorava o conceito de alma. Tratava [[_wiki/teru\|Teru]] — a magia sem pacto desenvolvida por despertar interior — como "anomalia metabólica", recusando-lhe qualquer dimensão espiritual.
+[[_wiki/jospin_valheorn\|Jospin]] ignorava o conceito de alma. Tratava [[_wiki/teru\|Teru]] (a magia sem pacto desenvolvida por despertar interior) como "anomalia metabólica", recusando-lhe qualquer dimensão espiritual.
 
 ### Oposição: [[_wiki/doutrina_da_alma\|Doutrina da Alma]]
 
@@ -19,4 +19,4 @@ Os dois filósofos nunca se cruzaram. [[_wiki/jospin_valheorn\|Jospin]] viveu an
 
 A Teoria Materialista foi adotada oficialmente pelo [[_wiki/imperio_sombrio\|Império Sombrio]], que a incorporou à doutrina arcana dos Círculos de [[_wiki/khargoth\|Khargoth]] e ao treinamento de engenheiros do [[_wiki/culto_sombrio\|Culto]]. A visão de [[_wiki/magi\|magi]] como recurso quantificável e manipulável serve à mentalidade imperial: o que pode ser medido pode ser controlado.
 
-[[_wiki/jospin_valheorn\|Jospin]] trabalhou em laboratórios subterrâneos com [[_wiki/shadar\|shadars]] para fins militares e energéticos, o que o tornou alvo de acusações de traição por [[_wiki/myrgarde\|Myrgarde]]. Foi executado pela própria cidade que depois caiu sob domínio [[_wiki/shadar\|shadar]] — ironia histórica que o cânone registra sem comentário. Cópias de seus tratados foram destruídas ou proibidas em vários reinos, mas a influência se espalhou entre humanos rebeldes, duendes tecnomagos, engenheiros do culto e estudiosos independentes.
+[[_wiki/jospin_valheorn\|Jospin]] trabalhou em laboratórios subterrâneos com [[_wiki/shadar\|shadars]] para fins militares e energéticos, o que o tornou alvo de acusações de traição por [[_wiki/myrgarde\|Myrgarde]]. Foi executado pela própria cidade que depois caiu sob domínio [[_wiki/shadar\|shadar]]; ironia histórica que o cânone registra sem comentário. Cópias de seus tratados foram destruídas ou proibidas em vários reinos, mas a influência se espalhou entre humanos rebeldes, duendes tecnomagos, engenheiros do culto e estudiosos independentes.

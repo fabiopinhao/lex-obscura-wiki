@@ -9,11 +9,11 @@
 
 ### Padrões de Voz
 
-Tom melancólico [[_wiki/sylvano\|sylvano]], referências à natureza como moldura de tudo. A resignação é genuína, não teatral — crede no melhor porque já viu o pior.
+Tom melancólico [[_wiki/sylvano\|sylvano]], referências à natureza como moldura de tudo. A resignação é genuína, não teatral: crede no melhor porque já viu o pior.
 
 **Tom característico:** Frases com imagens orgânicas (raízes, vento, decomposição). Desprezo velado pela "ordem" imperial, nunca direto.
 
-**Amostra canônica** (mencionada mas não transcrita — descrita por [[_wiki/mirin\|Mirin]]): árvores sussurram quando Gael passa, raízes recuam — a marca [[_wiki/shadar\|shadar]] como linguagem silenciosa do mundo.
+**Amostra canônica** (mencionada mas não transcrita (descrita por [[_wiki/mirin\|Mirin]]): árvores sussurram quando Gael passa, raízes recuam) a marca [[_wiki/shadar\|shadar]] como linguagem silenciosa do mundo.
 
 ### Relações-Chave
 

@@ -31,7 +31,7 @@ Mãos com cinco dedos longos e garras vestigiais curvas: eficientes para escalar
 
 ### Rede Sensorial
 
-Muranos em proximidade (até vinte metros) captam sinais sensoriais uns dos outros por dois canais: emissões ultrassônicas (inaudíveis para a maioria das raças) e feromônios voláteis liberados pela pelagem oleosa. Juntos, criam uma rede de comunicação primitiva que transmite estados emocionais básicos — medo, fome, direção de fuga.
+Muranos em proximidade (até vinte metros) captam sinais sensoriais uns dos outros por dois canais: emissões ultrassônicas (inaudíveis para a maioria das raças) e feromônios voláteis liberados pela pelagem oleosa. Juntos, criam uma rede de comunicação primitiva que transmite estados emocionais básicos: medo, fome, direção de fuga.
 
 O efeito não é telepatia nem consciência compartilhada. Nenhum murano "ouve" pensamentos de outro. O que cada indivíduo percebe é uma pressão direcional, algo entre instinto e intuição. Quando um murano sente medo, os próximos captam a sombra desse medo pelos feromônios. Quando uma colônia foge, a onda de pânico se propaga mais rápido que qualquer grito. [[_wiki/tibaut\|Tibaut]] descreveu a sensação como "uma mente fragmentada em centenas de pedaços, cada pedaço com fome."
 

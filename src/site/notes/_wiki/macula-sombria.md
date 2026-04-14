@@ -17,9 +17,9 @@ Todas as florestas titânicas de [[_wiki/reinkard\|Reinkard]] sofrem com a mácu
 
 ### Escala Individual
 
-A mácula pode ser plantada diretamente em seres vivos. [[_wiki/milorsevogh_velshard\|Milor]] implantou mácula-sombria em [[_wiki/gaelwyn\|Gaelwyn]] durante o interrogatório, impedindo-o de matá-lo. A floresta detecta a corrupção: árvores sussurram quando [[_wiki/gaelwyn\|Gael]] passa, raízes recuam de sua presença. [[_wiki/mirin\|Mirin]] descreveu a marca como perceptível pela própria terra, e [[_wiki/peredur\|Peredur]] a classificou entre maldições "múltiplas e cruéis — maldição, controle, veneno lento... ou algo que ainda não conhecemos."
+A mácula pode ser plantada diretamente em seres vivos. [[_wiki/milorsevogh_velshard\|Milor]] implantou mácula-sombria em [[_wiki/gaelwyn\|Gaelwyn]] durante o interrogatório, impedindo-o de matá-lo. A floresta detecta a corrupção: árvores sussurram quando [[_wiki/gaelwyn\|Gael]] passa, raízes recuam de sua presença. [[_wiki/mirin\|Mirin]] descreveu a marca como perceptível pela própria terra, e [[_wiki/peredur\|Peredur]] a classificou entre maldições "múltiplas e cruéis: maldição, controle, veneno lento... ou algo que ainda não conhecemos."
 
-No Mapa de Mistérios, a mácula individual é descrita como "fragmento de [[_wiki/vazio\|vazio]] dentro de si" — linguagem que conecta o fenômeno ao [[_wiki/vazio\|Vazio]] como conceito metafísico central do universo.
+No Mapa de Mistérios, a mácula individual é descrita como "fragmento de [[_wiki/vazio\|vazio]] dentro de si": linguagem que conecta o fenômeno ao [[_wiki/vazio\|Vazio]] como conceito metafísico central do universo.
 
 ### Escola Arcana
 

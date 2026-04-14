@@ -9,4 +9,4 @@ Esposa de [[_wiki/arothistar\|Dravhok]] de [[_wiki/valdris\|Valdris]], mãe de [
 
 ### Morte
 
-A gravidez consumiu o que a fome poupara. Selene não retinha alimento; a carne sumia-lhe das maçãs do rosto e dos ombros enquanto o ventre subia, como se o bebê sugasse o que restava dela. Morreu antes do outono, numa noite de vento parado. A sogra a enterrou sozinha nos fundos da casa, onde a terra era mais mole pela umidade eterna. Não havia padres nem coveiros — todos tinham se tornado armas do conde.
+A gravidez consumiu o que a fome poupara. Selene não retinha alimento; a carne sumia-lhe das maçãs do rosto e dos ombros enquanto o ventre subia, como se o bebê sugasse o que restava dela. Morreu antes do outono, numa noite de vento parado. A sogra a enterrou sozinha nos fundos da casa, onde a terra era mais mole pela umidade eterna. Não havia padres nem coveiros: todos tinham se tornado armas do conde.

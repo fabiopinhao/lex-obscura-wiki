@@ -3,7 +3,7 @@
 ---
 
 
-**Gholvyss** — Sibilantes dominantes (*ss*, *zh*, *vyss*). Consoantes palatalizadas e sons nasais cavernosos. Sussurros que parecem ecoar mesmo em espaços abertos. Incorpora cliques linguais que imitam gotas de água em estalactites. Ritmo ondulante, frases que se curvam em espiral como serpentes. O registro cotidiano é denso e rápido, adequado a corredores de pedra onde a economia de som é sobrevivência. O registro mágico desacelera, alonga as sibilantes, e acrescenta vibrações guturais profundas que ressoam nas paredes do [[_wiki/vor-ghol\|Vor-Ghol]] como se a rocha participasse da invocação.
+**Gholvyss**: Sibilantes dominantes (*ss*, *zh*, *vyss*). Consoantes palatalizadas e sons nasais cavernosos. Sussurros que parecem ecoar mesmo em espaços abertos. Incorpora cliques linguais que imitam gotas de água em estalactites. Ritmo ondulante, frases que se curvam em espiral como serpentes. O registro cotidiano é denso e rápido, adequado a corredores de pedra onde a economia de som é sobrevivência. O registro mágico desacelera, alonga as sibilantes, e acrescenta vibrações guturais profundas que ressoam nas paredes do [[_wiki/vor-ghol\|Vor-Ghol]] como se a rocha participasse da invocação.
 
 Sensação auditiva: húngaro misturado com línguas da família drow de Forgotten Realms (influência declarada). O Gholvyss soa como algo que deveria ser sussurrado no escuro, junto a pedra úmida. Na superfície, perde parte da reverberação natural e soa mais seco, mais cortante, como uma lâmina sem bainha.
 

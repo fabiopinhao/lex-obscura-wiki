@@ -3,7 +3,7 @@
 ---
 
 
-**Dracônico** — Sons impossíveis para gargantas humanas no registro primordial: infrassons que vibram o diafragma, cliques guturais produzidos por membranas inexistentes em bípedes, e harmônicos simultâneos (duas notas vocais ao mesmo tempo). Transcrição mortal usa aproximações como *Khr*, *Zzm*, *Ghrl*. O registro cotidiano moderno, adaptado por [[_wiki/sauriano\|saurianos]] ao longo da [[_wiki/segunda_era\|Segunda Era]], preserva as sibilantes longas e as fricativas retroflexas do original, mas acomoda gargantas menores: consoantes que parecem deslizar umas sobre as outras, uma qualidade "escamosa" que identifica o falante antes que ele termine a primeira frase.
+**Dracônico**: Sons impossíveis para gargantas humanas no registro primordial: infrassons que vibram o diafragma, cliques guturais produzidos por membranas inexistentes em bípedes, e harmônicos simultâneos (duas notas vocais ao mesmo tempo). Transcrição mortal usa aproximações como *Khr*, *Zzm*, *Ghrl*. O registro cotidiano moderno, adaptado por [[_wiki/sauriano\|saurianos]] ao longo da [[_wiki/segunda_era\|Segunda Era]], preserva as sibilantes longas e as fricativas retroflexas do original, mas acomoda gargantas menores: consoantes que parecem deslizar umas sobre as outras, uma qualidade "escamosa" que identifica o falante antes que ele termine a primeira frase.
 
 Sensação auditiva: rumor de terremoto com intenção no registro primordial. Quando um xamã [[_wiki/sauriano\|sauriano]] entoa fragmentos rituais, ouvintes relatam pressão torácica e vontade de olhar para o chão. Não é medo: é escala. A língua lembra que seus falantes originais mediam dezenas de metros. O registro cotidiano é menos opressivo, mas conserva uma aspereza reptiliana que nenhum sotaque disfarça.
 

@@ -7,11 +7,11 @@
 
 O [[_wiki/culto_sombrio\|Culto Sombrio]] não é monoteísta. Favorece [[_wiki/diabos\|deuses negros]] ([[_wiki/diabos\|diabos]]) como alicerce institucional: mal ordeiro, hierarquia funcional, legalismo cruel. Tolera, mas desconfia, dos [[_wiki/demonios\|deuses vermelhos]] ([[_wiki/demonios\|demônios]]) porque caos e impulsividade são perigosos para a estabilidade do [[_wiki/imperio_sombrio\|império]].
 
-A tensão entre diabólicos e demoníacos é estrutural. Pactuados recebem comandos contraditórios de seus deuses. Um templário de [[_wiki/malagoth\|Malagoth]] (expansão ordenada) e um pactuado de [[_wiki/kaelgrym\|Kaelgrym]] (destruição caótica) servem ao mesmo [[_wiki/imperio_sombrio\|império]] mas obedecem a lógicas incompatíveis. [[_wiki/arothistar\|Arothistar]], como único ser com pactos em ambas as esferas, era a ponte entre as duas filosofias — e sua queda deixará esse conflito sem mediador.
+A tensão entre diabólicos e demoníacos é estrutural. Pactuados recebem comandos contraditórios de seus deuses. Um templário de [[_wiki/malagoth\|Malagoth]] (expansão ordenada) e um pactuado de [[_wiki/kaelgrym\|Kaelgrym]] (destruição caótica) servem ao mesmo [[_wiki/imperio_sombrio\|império]] mas obedecem a lógicas incompatíveis. [[_wiki/arothistar\|Arothistar]], como único ser com pactos em ambas as esferas, era a ponte entre as duas filosofias, e sua queda deixará esse conflito sem mediador.
 
 ### [[_wiki/justiciars\|Justiciars]] e a Neutralidade Divina
 
-A razão fundamental para [[_wiki/justiciars\|Justiciars]] não serem pactuados é política, não teológica: não podem se dividir entre obediência ao monarca e vontades particulares de patronos divinos. O sistema [[_wiki/teru\|Teru]] — magia sem pacto, baseada em estudo técnico puro — garante que [[_wiki/justiciars\|Justiciars]] respondam apenas a [[_wiki/arothistar\|Arothistar]] e à [[_wiki/lex_obscura_decreto\|Lex Obscura]].
+A razão fundamental para [[_wiki/justiciars\|Justiciars]] não serem pactuados é política, não teológica: não podem se dividir entre obediência ao monarca e vontades particulares de patronos divinos. O sistema [[_wiki/teru\|Teru]] (magia sem pacto, baseada em estudo técnico puro) garante que [[_wiki/justiciars\|Justiciars]] respondam apenas a [[_wiki/arothistar\|Arothistar]] e à [[_wiki/lex_obscura_decreto\|Lex Obscura]].
 
 Esta neutralidade é, paradoxalmente, o que permite a [[_wiki/milorsevogh_velshard\|Milor]] fazer juramento a [[_wiki/morlgrund\|Morlgrund]]: por não ter pacto sombrio, sua alma estava limpa o suficiente para que o avatar aceitasse sua palavra.
 
@@ -19,7 +19,7 @@ Esta neutralidade é, paradoxalmente, o que permite a [[_wiki/milorsevogh_velsha
 
 [[_wiki/arothistar\|Arothistar]] proibiu pactos com [[_wiki/demonios\|deuses vermelhos]] ([[_wiki/demonios\|demônios]]), tipificando-os como crime de [[_wiki/vinculum_daemonis\|Vinculum Daemonis]]. A punição são os Fossos de [[_wiki/drokh_malahar\|Drokh'Malahar]]. A proibição serve dois propósitos: primeiro, eliminar fontes de caos dentro do [[_wiki/imperio_sombrio\|império]]; segundo, concentrar todo acesso demoníaco em [[_wiki/arothistar\|Arothistar]] (via [[_wiki/kaelgrym\|Kaelgrym]]), mantendo o monopólio do medo.
 
-O caso de [[_wiki/maraxus\|Maraxus]]/[[_wiki/hazburim\|Hazburim]] demonstra a falha do sistema: pactos clandestinos existem apesar da proibição, e o Culto não possui mecanismo eficiente para detectá-los. A mesma magia que poderia identificar pactos ocultos — [[_wiki/deteccao_de_alinhamento\|detecção de alinhamento]] — é politicamente perigosa porque revelaria também aliados inconvenientes.
+O caso de [[_wiki/maraxus\|Maraxus]]/[[_wiki/hazburim\|Hazburim]] demonstra a falha do sistema: pactos clandestinos existem apesar da proibição, e o Culto não possui mecanismo eficiente para detectá-los. A mesma magia que poderia identificar pactos ocultos ([[_wiki/deteccao_de_alinhamento\|detecção de alinhamento]]) é politicamente perigosa porque revelaria também aliados inconvenientes.
 
 ### Facções Internas
 

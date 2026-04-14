@@ -3,7 +3,7 @@
 ---
 
 
-**Thalassic** — Fonemas líquidos e nasais prolongados, produzidos por ressonância branquial que gargantas terrestres não possuem. Consoantes laterais molhadas (*lh*, *nh*, *gl*), fricativas labiais que imitam o som de água passando por fendas (*fh*, *wh*), e vogais que modulam em frequência como ondas: cada vogal do Thalassic não é estática, mas oscila entre dois tons próximos, criando um efeito de vibrato constante. Sem oclusivas: o Thalassic não possui sons que parem o fluxo de ar. Frases não terminam tanto quanto se dissipam, como ondulações que perdem energia na areia.
+**Thalassic**: Fonemas líquidos e nasais prolongados, produzidos por ressonância branquial que gargantas terrestres não possuem. Consoantes laterais molhadas (*lh*, *nh*, *gl*), fricativas labiais que imitam o som de água passando por fendas (*fh*, *wh*), e vogais que modulam em frequência como ondas: cada vogal do Thalassic não é estática, mas oscila entre dois tons próximos, criando um efeito de vibrato constante. Sem oclusivas: o Thalassic não possui sons que parem o fluxo de ar. Frases não terminam tanto quanto se dissipam, como ondulações que perdem energia na areia.
 
 Sensação auditiva: o som de um rio subterrâneo traduzido em fala. Ouvir Thalassic falado por um [[_wiki/undine\|undine]] produz, em terrestres, uma desorientação leve, como se o equilíbrio oscilasse. Não é agressão: é inadaptação. O cérebro terrestre tenta processar frequências que evoluíram para ressoar em água, não em ar. Quando [[_wiki/frenim\|frenims]] imitam o Thalassic para comunicação com [[_wiki/undine\|undines]], o resultado é funcional mas empobrecido, como um desenho em carvão de uma pintura a óleo.
 

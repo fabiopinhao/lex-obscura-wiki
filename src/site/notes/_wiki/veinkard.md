@@ -5,7 +5,7 @@
 
 ### Veinkard
 
-Continente a oeste de [[_wiki/reinkard\|Reinkard]], separado pela cordilheira conhecida como [[_wiki/dorsal\|Dorsal]]. Região montanhosa e hostil, clima mais severo que [[_wiki/reinkard\|Reinkard]], território caótico sem unificação política. Baixa presença [[_wiki/shadar\|shadar]] (fronteira distante). Origem dos [[_wiki/draconideo\|draconídeos]] ([[_wiki/draconideo\|Drakhonin]]). Dragões expulsos para lá por [[_wiki/shadar\|shadars]] eras atrás. [[_wiki/cla_myr_vethan\|Clã Myr'vethan]] opera dali. [[_wiki/varnak\|Varnak]] é a única região habitada por humanoides — na prática, os termos "Veinkard" e "[[_wiki/varnak\|Varnak]]" são usados quase como sinônimos.
+Continente a oeste de [[_wiki/reinkard\|Reinkard]], separado pela cordilheira conhecida como [[_wiki/dorsal\|Dorsal]]. Região montanhosa e hostil, clima mais severo que [[_wiki/reinkard\|Reinkard]], território caótico sem unificação política. Baixa presença [[_wiki/shadar\|shadar]] (fronteira distante). Origem dos [[_wiki/draconideo\|draconídeos]] ([[_wiki/draconideo\|Drakhonin]]). Dragões expulsos para lá por [[_wiki/shadar\|shadars]] eras atrás. [[_wiki/cla_myr_vethan\|Clã Myr'vethan]] opera dali. [[_wiki/varnak\|Varnak]] é a única região habitada por humanoides (na prática, os termos "Veinkard" e "[[_wiki/varnak\|Varnak]]" são usados quase como sinônimos).
 
 Expansão natural do [[_wiki/imperio_sombrio\|Império Sombrio]] bloqueada por geografia hostil e presença de forças não-shadares. Selo púrpuro (autoridade [[_wiki/shadar\|shadar]] direta) não cruza [[_wiki/dorsal\|a Dorsal]]. Operações além dessa fronteira exigem métodos alternativos.
 

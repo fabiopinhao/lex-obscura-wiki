@@ -5,15 +5,15 @@
 
 ### Perfil
 
-[[_wiki/diabrete\|Diabrete]]. Mensageira de [[_wiki/arothistar\|Arothistar]]. Asas escarlates, pele vermelho-sangue. Gagueja ao falar. Cicatriz horizontal no pescoço — marca de servidão que dói quando pensa mal do mestre, pulsa em sincronia com o [[_wiki/oculus_morvgradi\|Oculus]]. Nasceu em cativeiro, amarrada por [[_wiki/arothistar\|Arothistar]] ao sair do ovo. Quarta [[_wiki/diabrete\|diabrete]] a servir (as três anteriores morreram: pele arrancada em tiras, asas costuradas até morrer de fome, terceira gritou por três dias). Localização: voa por [[_wiki/morvgrad\|Morvgrad]]. Status: viva.
+[[_wiki/diabrete\|Diabrete]]. Mensageira de [[_wiki/arothistar\|Arothistar]]. Asas escarlates, pele vermelho-sangue. Gagueja ao falar. Cicatriz horizontal no pescoço: marca de servidão que dói quando pensa mal do mestre, pulsa em sincronia com o [[_wiki/oculus_morvgradi\|Oculus]]. Nasceu em cativeiro, amarrada por [[_wiki/arothistar\|Arothistar]] ao sair do ovo. Quarta [[_wiki/diabrete\|diabrete]] a servir (as três anteriores morreram: pele arrancada em tiras, asas costuradas até morrer de fome, terceira gritou por três dias). Localização: voa por [[_wiki/morvgrad\|Morvgrad]]. Status: viva.
 
 ### Papel Narrativo
 
-A [[_wiki/diabrete\|diabrete]] mais longeva — considera isso castigo, não conquista. Pensamentos suicidas recorrentes. Inveja e desprezo por [[_wiki/fing\|Fing]]. Conhece toda [[_wiki/morvgrad\|Morvgrad]] melhor que qualquer mensageira anterior. Trouxe mensagem sobre nexus silenciados (seção 13.7). Observou captura de [[_wiki/thrax\|Thrax]] com prazer sádico — alívio por não ser ela sofrendo.
+A [[_wiki/diabrete\|diabrete]] mais longeva: considera isso castigo, não conquista. Pensamentos suicidas recorrentes. Inveja e desprezo por [[_wiki/fing\|Fing]]. Conhece toda [[_wiki/morvgrad\|Morvgrad]] melhor que qualquer mensageira anterior. Trouxe mensagem sobre nexus silenciados (seção 13.7). Observou captura de [[_wiki/thrax\|Thrax]] com prazer sádico: alívio por não ser ela sofrendo.
 
 ### Padrões de Voz
 
-Gagueja ao falar — o medo físico manifesto na palavra. Pensamentos internos são afiados; voz é fragmentada.
+Gagueja ao falar: o medo físico manifesto na palavra. Pensamentos internos são afiados; voz é fragmentada.
 
 **Tom característico:** Distância entre o que pensa (claro, amargo, lúcido) e o que consegue articular (truncado, gagejante).
 

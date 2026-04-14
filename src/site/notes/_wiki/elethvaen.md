@@ -5,7 +5,7 @@
 
 ### Natureza
 
-Elethvaen se manifesta como um cervo de pelagem cinza-musgo, massivo e lento, com a galhada coberta por líquenes luminescentes que pulsam num ritmo idêntico ao da respiração de quem dorme por perto. Cada ramificação sustenta camadas de musgo e filamentos pálidos que pendem até a altura dos ombros — a silhueta inteira é uma copa ambulante. Os olhos só se fecham por completo quando o cervo para de caminhar. Em movimento permanecem abertos, opacos, sem foco. Os cascos deixam marcas no solo onde brotos rompem a superfície antes do amanhecer. A cauda é curta e densa, entremeada de raízes aéreas que se arrastam pelo chão e se enroscam na vegetação rasteira com vontade própria. O corpo inteiro emana um calor úmido de estufa, e o ar ao redor carrega o peso do crepúsculo independentemente da hora do dia.
+Elethvaen se manifesta como um cervo de pelagem cinza-musgo, massivo e lento, com a galhada coberta por líquenes luminescentes que pulsam num ritmo idêntico ao da respiração de quem dorme por perto. Cada ramificação sustenta camadas de musgo e filamentos pálidos que pendem até a altura dos ombros: a silhueta inteira é uma copa ambulante. Os olhos só se fecham por completo quando o cervo para de caminhar. Em movimento permanecem abertos, opacos, sem foco. Os cascos deixam marcas no solo onde brotos rompem a superfície antes do amanhecer. A cauda é curta e densa, entremeada de raízes aéreas que se arrastam pelo chão e se enroscam na vegetação rasteira com vontade própria. O corpo inteiro emana um calor úmido de estufa, e o ar ao redor carrega o peso do crepúsculo independentemente da hora do dia.
 
 ### Domínio
 

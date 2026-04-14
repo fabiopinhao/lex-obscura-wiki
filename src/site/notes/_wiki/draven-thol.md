@@ -13,7 +13,7 @@ Reportava ao Conselho sobre disputas entre clãs anões confinados, sabotagem en
 
 ### Padrões de Voz
 
-Burocrático meticuloso — "dedos nervosos" na tábua de registros como marca física de seu método.
+Burocrático meticuloso: "dedos nervosos" na tábua de registros como marca física de seu método.
 
 ### Relações-Chave
 

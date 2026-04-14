@@ -9,7 +9,7 @@
 
 ### Papel Narrativo
 
-Utilizava [[_wiki/circulo_de_sutura\|Círculo de Sutura]] (heptagrama necromántico) para animar mortos. Usou [[_wiki/luto_de_nillis\|Luto de Nillis]] (antimagia) contra [[_wiki/orum-rahru\|Orum]]. Eliminado pelo Justiciar veterano. Cicatriz na garganta impedia que falasse — não conseguiu revelar mandantes durante interrogatório. Ex-empregador de [[_wiki/skanivik\|Skanivik]].
+Utilizava [[_wiki/circulo_de_sutura\|Círculo de Sutura]] (heptagrama necromántico) para animar mortos. Usou [[_wiki/luto_de_nillis\|Luto de Nillis]] (antimagia) contra [[_wiki/orum-rahru\|Orum]]. Eliminado pelo Justiciar veterano. Cicatriz na garganta impedia que falasse; não conseguiu revelar mandantes durante interrogatório. Ex-empregador de [[_wiki/skanivik\|Skanivik]].
 
 ### Padrões de Voz
 

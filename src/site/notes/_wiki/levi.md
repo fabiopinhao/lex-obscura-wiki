@@ -15,7 +15,7 @@ Acusou [[_wiki/maraxus\|Maraxus]] de "pacto com demônio" antes de qualquer prov
 
 Criança com percepção que supera a compreensão adulta. Declara verdades sem calcular o impacto.
 
-**Tom característico:** Afirmações diretas sobre o que vê — sem filtro político ou social.
+**Tom característico:** Afirmações diretas sobre o que vê; sem filtro político ou social.
 
 ### Relações-Chave
 

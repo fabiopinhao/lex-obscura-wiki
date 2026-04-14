@@ -21,6 +21,6 @@ Dragônico pragmático. Fala de objetivo e obstáculo, nunca de sentimento.
 
 **[[_wiki/thrax\|Thrax]] (subordinado / refém):** [[_wiki/thrax\|Thrax]] capturado como garantia do comportamento de Yzmareth. Responsabilidade que o amarra.
 
-**[[_wiki/nidzina_avaroth\|Nidzina]] (rival / perdeu [[_wiki/fendris\|Fendris]] para ela):** [[_wiki/nidzina_avaroth\|Nidzina]] confiscou a adaga — derrota que precisa reparar para ter credibilidade.
+**[[_wiki/nidzina_avaroth\|Nidzina]] (rival / perdeu [[_wiki/fendris\|Fendris]] para ela):** [[_wiki/nidzina_avaroth\|Nidzina]] confiscou a adaga: derrota que precisa reparar para ter credibilidade.
 
 **[[_wiki/wijmarv\|Wijmarv]] (traidor percebido):** O xamã fugiu após ser pago. Yzmareth o procurava antes de aparecer em [[_wiki/mor_severith\|Mor'Severith]].

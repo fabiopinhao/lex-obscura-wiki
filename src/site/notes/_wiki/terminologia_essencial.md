@@ -17,7 +17,7 @@
 | **[[lex_obscura\|Lex Obscura]]** | "Lei das Sombras." Código legal do [[_wiki/imperio_sombrio\|império]], criado por [[_wiki/xarn_zareth\|Xarn]] na [[_wiki/segunda_era\|Segunda Era]]. Segunda seção do Codex. |
 | **[[_wiki/noctiluz\|Noctiluz]]** | Luz sombria emitida por fissuras no céu sobre o planalto [[_wiki/shadar\|shadar]]. Surge durante eventos significativos. |
 | **Canalizador** | Termo imperial para druidas. Uso oficial e depreciativo. |
-| **[[_wiki/pindoriar\|Pindoriar]]** | Designação pejorativa imperial para humanos e elfos subjugados. Não é raça — é condição social. |
+| **[[_wiki/pindoriar\|Pindoriar]]** | Designação pejorativa imperial para humanos e elfos subjugados. Não é raça: é condição social. |
 | **Pedra Estígia** | Material negro usado em construções e objetos rituais [[_wiki/shadar\|shadar]]. |
 | **[[_wiki/protocolo_iconografico_da_coroa\|Protocolo Iconográfico da Coroa]]** | Regras sobre representações de [[_wiki/arothistar\|Arothistar]], instituídas após seu isolamento em [[_wiki/mor_severith\|Mor'Severith]]. |
 
@@ -27,7 +27,7 @@ Citações de natureza doutrinária, filosófica ou política. Fórmulas de invo
 
 | Citação | Fonte |
 |---------|-------|
-| *"A glória não move minha mão — a ordem exige sangue."* | Mantra dos [[_wiki/justiciars\|Justiciars]] |
+| *"A glória não move minha mão; a ordem exige sangue."* | Mantra dos [[_wiki/justiciars\|Justiciars]] |
 | *"[[_wiki/arothistar\|Arothistar]] est lex. [[_wiki/abbhal\|Abbhal]] est vox. Tu est martelo."* | Fórmula de unção dos [[_wiki/justiciars\|Justiciars]] |
 | *"In somniis veritas, in umbris lex, in codice imperium."* | Lema do [[_wiki/codex_somniorum\|Codex Somniorum]] |
 | *"Onde a luz falha, a sombra julga."* | [[verbum_arkhon\|Verbum Arkhon]], 3:17 |

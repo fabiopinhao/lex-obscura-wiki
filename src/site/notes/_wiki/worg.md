@@ -15,7 +15,7 @@ Nem homem, nem besta. Habitam o limiar entre civilização e selvageria. Conscie
 **- Experimento Sombrio: criações deliberadas de arcanistas da [[_wiki/segunda_era\|Segunda Era]], tentando produzir soldados com força bestial e inteligência humana. Bem-sucedidos demais para serem controlados, não o suficiente para serem replicados.**
 **- Evolução Planar: lobos expostos a energias planares por gerações em regiões onde o véu entre planos é fino. Desenvolveram consciência, polegares opositores e amargura existencial.**
 
-**As três teorias não são mutuamente excludentes — diferentes linhagens de worgs podem ter origens distintas, convergindo para forma similar por pressão de sobrevivência.**
+**As três teorias não são mutuamente excludentes; diferentes linhagens de worgs podem ter origens distintas, convergindo para forma similar por pressão de sobrevivência.**
 
 📝 *As três teorias podem ser interpretações posteriores de um evento mais antigo e mais simples: a interferência divina direta das [[_wiki/guerras_raciais\|Guerras Raciais]], quando entidades diabólicas cruzaram humanos e caninos selvagens. As teorias estão incompletas, cada uma capturando um fragmento da verdade. Ver [[_wiki/vulfano\|vulfano]] para enquadramento cosmogônico.*
 
@@ -37,7 +37,7 @@ Nem homem, nem besta. Habitam o limiar entre civilização e selvageria. Conscie
 - **Audição seletiva:** Filtram sons com precisão; numa taverna barulhenta, focam conversa específica a 20 metros
 - **Movimento fluido:** Alternam entre bípede e quadrúpede sem pausa; sobem paredes, nadam, correm por horas
 - **Regeneração menor:** Curam mais rápido que humanos, mas não instantaneamente
-- **Resistência a doenças:** **Sistema imunológico híbrido resiste à maioria das pragas. Ironicamente, tornam-nos vetores involuntários — carregam doenças sem manifestar sintomas**
+- **Resistência a doenças:** **Sistema imunológico híbrido resiste à maioria das pragas. Ironicamente, tornam-nos vetores involuntários: carregam doenças sem manifestar sintomas**
 
 ### Psicologia Fragmentada
 
@@ -49,10 +49,10 @@ Nem homem, nem besta. Habitam o limiar entre civilização e selvageria. Conscie
 - **Humor negro:** **Senso de humor cortante como mecanismo de defesa. Riem da própria condição, da hipocrisia civilizada, da pretensão de superioridade moral de outras raças. Sarcasmo é armadura.**
 
 **Quatro respostas existenciais à dualidade:**
-1. **Abraçam a Besta — rejeitam civilização, vivem como predadores solitários**
-2. **Fingem Humanidade — adotam maneirismos civilizados como armadura ([[_wiki/tibaut\|Tibaut]] exemplifica)**
-3. **Buscam Transcendência — através de magia ou pacto, tentam se tornar algo além de ambas as naturezas**
-4. **Escolhem Obliteração — suicídio não é incomum entre worgs idosos que perdem a vontade de sustentar a dissonância**
+1. **Abraçam a Besta: rejeitam civilização, vivem como predadores solitários**
+2. **Fingem Humanidade: adotam maneirismos civilizados como armadura ([[_wiki/tibaut\|Tibaut]] exemplifica)**
+3. **Buscam Transcendência: através de magia ou pacto, tentam se tornar algo além de ambas as naturezas**
+4. **Escolhem Obliteração: suicídio não é incomum entre worgs idosos que perdem a vontade de sustentar a dissonância**
 
 ### Estrutura Social — Evolução Histórica
 
@@ -81,7 +81,7 @@ A skuld funciona como economia paralela e alicerce das redes de informantes, mer
 - **Linguagem de sinais:** Além do [[_wiki/reinkardico\|reinkárdico]] falado, usam orelhas, cauda e postura para conversas silenciosas completas
 - **Marcações territoriais:** Arranhões codificados em territórios: avisos, ofertas de trabalho, ameaças. Um worg alfabetizado nunca está verdadeiramente perdido.
 - **Nomes:** Escolhem próprios nomes ao atingir maturidade. Geralmente descritivos: Osso-Quebrado, Sombra-Rápida, Dente-Dourado. [[_wiki/tibaut\|Tibaut]] é exceção sofisticada.
-- **Encontros Lunares:** **Nas três noites de lua cheia, worgs de uma região se encontram para trocar informações, acasalar se necessário e renegociar territórios. Pragmatismo, não misticismo — embora o hábito alimente superstições entre outras raças.**
+- **Encontros Lunares:** **Nas três noites de lua cheia, worgs de uma região se encontram para trocar informações, acasalar se necessário e renegociar territórios. Pragmatismo, não misticismo; embora o hábito alimente superstições entre outras raças.**
 
 ### Rituais
 
@@ -134,7 +134,7 @@ Cor arcana preta. Worgs acessam magia pelo *[[_wiki/pactum_diaboli\|Pactum Diabo
 A maioria simplesmente não pratica. Longevidade curta (60 anos) e vida nômade não favorecem o treinamento arcano, que exige décadas de estudo. Os poucos worgs que praticam magia gravitam para:
 
 - **Magia de rastreamento:** localizar, seguir, identificar pelo olfato amplificado magicamente
-- **Magia de sombra:** camuflagem, movimento silencioso, ocultação — extensões naturais da furtividade canina
+- **Magia de sombra:** camuflagem, movimento silencioso, ocultação: extensões naturais da furtividade canina
 
 Worgs raramente produzem magos de combate. A cultura valoriza furtividade e informação, e um worg mago que lança bolas de fogo é visto como alguém que não entendeu o que significa ser worg.
 
@@ -166,6 +166,6 @@ Worgs falam com pragmatismo e ironia cansada. Ficam entre [[_wiki/orc\|orcs]] (q
 
 Nascem em ninhadas de 2-4 filhotes. Amadurecem rapidamente: andam eretos aos 2 anos, falam aos 4, adultos aos 12. Vivem em média 60 anos, mas violência reduz expectativa para 40.
 
-**Fêmeas entram no cio duas vezes ao ano. Vínculos entre parceiros raramente duram além da criação dos filhotes. Filhotes abandonados são comuns — criar worg em cidade é quase impossível, na natureza é sentença de morte. Muitos acabam em fossas de luta ou experimentos mágicos.**
+**Fêmeas entram no cio duas vezes ao ano. Vínculos entre parceiros raramente duram além da criação dos filhotes. Filhotes abandonados são comuns; criar worg em cidade é quase impossível, na natureza é sentença de morte. Muitos acabam em fossas de luta ou experimentos mágicos.**
 
 Nas eras antigas, worgs se reproduziam com facilidade e as alcateias prosperavam. Na [[_wiki/terceira_era\|Terceira Era]], a dispersão urbana, a coleira mágica e a violência endêmica tornaram a reprodução difícil. A população worg está em declínio contínuo.

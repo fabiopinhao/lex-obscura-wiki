@@ -3,7 +3,7 @@
 ---
 
 
-Torre fundida ao [[_wiki/pico_de_nethys\|Pico de Nethys]] em [[_wiki/xarn_aroth\|Xarn'Aroth]]. Sem janelas visíveis acima do quinto andar, apenas fendas verticais estreitas. Nenhum som escapa. Da sacada mais alta, [[_wiki/arothistar\|Arothistar]] contempla o [[_wiki/imperio_sombrio\|império]]. Servos são criaturas menores, híbridas, quebradas — nenhum [[_wiki/shadar\|shadar]] ou [[_wiki/drul\|drul]] ([[_wiki/kobold\|kobolds]], [[_wiki/minotauro\|minotauros]], [[_wiki/diabrete\|diabretes]]).
+Torre fundida ao [[_wiki/pico_de_nethys\|Pico de Nethys]] em [[_wiki/xarn_aroth\|Xarn'Aroth]]. Sem janelas visíveis acima do quinto andar, apenas fendas verticais estreitas. Nenhum som escapa. Da sacada mais alta, [[_wiki/arothistar\|Arothistar]] contempla o [[_wiki/imperio_sombrio\|império]]. Servos são criaturas menores, híbridas, quebradas: nenhum [[_wiki/shadar\|shadar]] ou [[_wiki/drul\|drul]] ([[_wiki/kobold\|kobolds]], [[_wiki/minotauro\|minotauros]], [[_wiki/diabrete\|diabretes]]).
 
 **Estrutura interna:**
 - **[[_wiki/oculario\|Oculário]]** (topo): Sala principal com cúpula celeste pintada no teto. Contém o [[_wiki/oculus_morvgradi\|Oculus]] (esfera de ônix gigante para comunicação). Estátuas dos três [[_wiki/diabos\|diabos]] pactuados ([[_wiki/malagoth\|Malagoth]], [[_wiki/velmorain\|Velmorain]], [[_wiki/kaelgrym\|Kaelgrym]]) e estátua inacabada de [[_wiki/vozrador\|Vozrador]]. Obras de arte do mestre. Ponte sem corrimão conecta à trilha do [[_wiki/pico_de_nethys\|Pico de Nethys]]. Efígie animada de [[_wiki/arothistar\|Arothistar]] vigia a ponte (olhos de ônix que acendem em prata).

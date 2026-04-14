@@ -3,7 +3,7 @@
 ---
 
 
-**Sylvaen** — Mais suave que o [[_wiki/aelarian\|Aelarian]], com sílabas abertas e cadência descendente (como folhas caindo). Onomatopeias naturais integradas: *thris* (vento entre galhos), *murael* (corredeira). Consoantes fricativas suaves, sem oclusivas. Derivada do [[_wiki/luminar\|Luminar]] mas fundida com o [[_wiki/titanico\|Titânico]], perdeu a capacidade mágica inerente do [[_wiki/luminar\|Luminar]] (falar Sylvaen não produz efeitos residuais) e ganhou a organicidade titânica. O registro mágico ("[[_wiki/titanico\|Titânico]]" acadêmico) desacelera a cadência, alonga as pausas entre raízes e reintroduz a ênfase na última sílaba característica do [[_wiki/titanico\|Titânico]] primordial.
+**Sylvaen**: Mais suave que o [[_wiki/aelarian\|Aelarian]], com sílabas abertas e cadência descendente (como folhas caindo). Onomatopeias naturais integradas: *thris* (vento entre galhos), *murael* (corredeira). Consoantes fricativas suaves, sem oclusivas. Derivada do [[_wiki/luminar\|Luminar]] mas fundida com o [[_wiki/titanico\|Titânico]], perdeu a capacidade mágica inerente do [[_wiki/luminar\|Luminar]] (falar Sylvaen não produz efeitos residuais) e ganhou a organicidade titânica. O registro mágico ("[[_wiki/titanico\|Titânico]]" acadêmico) desacelera a cadência, alonga as pausas entre raízes e reintroduz a ênfase na última sílaba característica do [[_wiki/titanico\|Titânico]] primordial.
 
 Inspiração sonora: o registro cotidiano evoca uma canção de ninar sussurrada em floresta. O registro mágico soa mais grave, mais lento, como se a terra respirasse entre as palavras.
 

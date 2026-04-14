@@ -9,7 +9,7 @@ Humano ([[_wiki/pindoriar\|pindoriar]]). Garoto de [[_wiki/niedellin\|Niedellin]
 
 ### Papel Narrativo
 
-[[_wiki/salvo\|Salvo]] por [[_wiki/milorsevogh_velshard\|Milor]] da forca após agir por impulso ao ver [[_wiki/koliah\|Koliah]] espancada — [[_wiki/milorsevogh_velshard\|Milor]] usou magia [[_wiki/phobos\|Phobos]] (pavor sem nome). [[_wiki/berenice\|Berenice]] o escolheu como protetor. Tentou esfaquear [[_wiki/maraxus\|Maraxus]] pelas costas durante a batalha final. Estrangulado; corpo jogado aos pés de [[_wiki/maraxus\|Maraxus]]. Casa sem fechadura serve como ponto de reunião dos rebeldes.
+[[_wiki/salvo\|Salvo]] por [[_wiki/milorsevogh_velshard\|Milor]] da forca após agir por impulso ao ver [[_wiki/koliah\|Koliah]] espancada: [[_wiki/milorsevogh_velshard\|Milor]] usou magia [[_wiki/phobos\|Phobos]] (pavor sem nome). [[_wiki/berenice\|Berenice]] o escolheu como protetor. Tentou esfaquear [[_wiki/maraxus\|Maraxus]] pelas costas durante a batalha final. Estrangulado; corpo jogado aos pés de [[_wiki/maraxus\|Maraxus]]. Casa sem fechadura serve como ponto de reunião dos rebeldes.
 
 ### Padrões de Voz
 

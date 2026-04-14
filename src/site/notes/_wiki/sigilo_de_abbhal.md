@@ -7,7 +7,7 @@
 
 O Sigilo de [[_wiki/abbhal\|Abbhal]] é a sentença máxima do sistema judicial do [[_wiki/imperio_sombrio\|Império Sombrio]]: aprisionamento eterno da alma em corpo vivo. Reservado exclusivamente para traidores do mais alto escalão, representa o ponto onde a justiça imperial cede lugar à justiça divina. O nome deriva de [[_wiki/abbhal\|Abbhal]], o Juiz Cego, diabo com função diplomática e judicial no panteão sombrio, e único que negocia diretamente com [[_wiki/arothistar\|Arothistar]].
 
-Na hierarquia de punições do [[_wiki/tribunal_de_morvgrad\|Tribunal de Morvgrad]], o Sigilo ocupa posição acima dos Crucitórios e de qualquer execução convencional. Não mata — condena a existência sem agência. O corpo respira, o coração bate, mas a consciência permanece presa em limbo: olhos vítreos, boca aberta em grito mudo, vida sem vida.
+Na hierarquia de punições do [[_wiki/tribunal_de_morvgrad\|Tribunal de Morvgrad]], o Sigilo ocupa posição acima dos Crucitórios e de qualquer execução convencional. Não mata: condena a existência sem agência. O corpo respira, o coração bate, mas a consciência permanece presa em limbo: olhos vítreos, boca aberta em grito mudo, vida sem vida.
 
 ### Mecânica Arcana
 
@@ -29,13 +29,13 @@ O sigilo permanece pulsando negro na pele do condenado após a dissolução da p
 
 Na seção 12.8 do Livro I, [[_wiki/milorsevogh_velshard\|Milor]] aplica o Sigilo de [[_wiki/abbhal\|Abbhal]] em [[_wiki/maraxus\|Maraxus]] na praça da capela de [[_wiki/niedellin\|Niedellin]], após derrotá-lo em combate. [[_wiki/maraxus\|Maraxus]] era pactuado clandestino de [[_wiki/hazburim\|Hazburim]] (crime capital) e responsável pela desintegração institucional da administração provincial.
 
-Durante o ritual, a flecha élfica de [[_wiki/gaelwyn\|Gaelwyn]] cravada nas costas de [[_wiki/maraxus\|Maraxus]] ejetou-se sozinha da carne — duas divindades disputaram o mesmo espaço e [[_wiki/abbhal\|Abbhal]] prevaleceu. [[_wiki/levi\|Levi]], contaminado por resíduos demoníacos de [[_wiki/hazburim\|Hazburim]], permaneceu de pé enquanto todos os demais caíram de joelhos, observando a manifestação divina com fascínio em vez de terror.
+Durante o ritual, a flecha élfica de [[_wiki/gaelwyn\|Gaelwyn]] cravada nas costas de [[_wiki/maraxus\|Maraxus]] ejetou-se sozinha da carne: duas divindades disputaram o mesmo espaço e [[_wiki/abbhal\|Abbhal]] prevaleceu. [[_wiki/levi\|Levi]], contaminado por resíduos demoníacos de [[_wiki/hazburim\|Hazburim]], permaneceu de pé enquanto todos os demais caíram de joelhos, observando a manifestação divina com fascínio em vez de terror.
 
 [[_wiki/merari_d_khunvel\|Merari]] reconheceu os primeiros traços do ritual e reagiu com horror. [[_wiki/eralmir_vess\|Eralmir]] vomitou ao compreender que existem destinos piores que a execução.
 
 ### Questões Abertas
 
-O condenado mantém consciência? Sente o que acontece ao corpo? O selamento pode ser revertido e, se sim, por quem — pelo executor, por outro Justiciar, pelo próprio [[_wiki/abbhal\|Abbhal]]? Estas questões permanecem sem resposta canônica.
+O condenado mantém consciência? Sente o que acontece ao corpo? O selamento pode ser revertido e, se sim, por quem: pelo executor, por outro Justiciar, pelo próprio [[_wiki/abbhal\|Abbhal]]? Estas questões permanecem sem resposta canônica.
 
 ### Significado Temático
 

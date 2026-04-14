@@ -23,7 +23,7 @@ Longevidade de 40 a 50 anos. O envelhecimento se manifesta como perda progressiv
 
 ### Psicologia
 
-**Cautela constitutiva.** Margáus avaliam tudo antes de agir. Não é covardia — é o cálculo permanente de uma criatura pequena num mundo de predadores maiores. A avaliação é silenciosa, rápida e quase sempre correta. Margáus raramente são surpreendidos; quase nunca surpreendem.
+**Cautela constitutiva.** Margáus avaliam tudo antes de agir. Não é covardia: é o cálculo permanente de uma criatura pequena num mundo de predadores maiores. A avaliação é silenciosa, rápida e quase sempre correta. Margáus raramente são surpreendidos; quase nunca surpreendem.
 
 **Pertencimento periférico.** Margáus vivem nas bordas de comunidades sem integrá-las plenamente. A posição é confortável e deliberada. Dentro de uma comunidade [[_wiki/sylvano\|sylvana]], o margáu ocupa o espaço entre membro e hóspede: come o que caça, dorme onde encontra copa segura, contribui com vigilância silenciosa e alerta precoce contra intrusos. Não participa de conselhos, não vota em decisões, não se submete a hierarquia. Se a comunidade migra, o margáu pode seguir. Ou não.
 
@@ -33,7 +33,7 @@ Longevidade de 40 a 50 anos. O envelhecimento se manifesta como perda progressiv
 
 Margáus vivem solitários ou em pares reprodutivos temporários, mas a proximidade com comunidades [[_wiki/sylvano\|sylvanas]] e [[_wiki/elarino\|elarinas]] cria uma socialidade indireta que os [[_wiki/rajhar\|rajhars]] não possuem. Vários margáus podem habitar as copas ao redor de um mesmo assentamento, cada um em seu território arbóreo, sem interação direta entre si. A coexistência é espacial, não social: compartilham floresta, não grupo.
 
-Em comunidades [[_wiki/elarino\|elarinas]], margáus são tolerados com afeição distante — tratados como fauna residente inteligente, valorizados por sua capacidade de detectar intrusos nas copas antes que sentinelas [[_wiki/elarino\|elarinas]] os percebam no solo. Não há relação de servidão. A troca é tácita: o margáu vigia, a comunidade não o expulsa, e ambos os lados fingem que o arranjo não existe.
+Em comunidades [[_wiki/elarino\|elarinas]], margáus são tolerados com afeição distante: tratados como fauna residente inteligente, valorizados por sua capacidade de detectar intrusos nas copas antes que sentinelas [[_wiki/elarino\|elarinas]] os percebam no solo. Não há relação de servidão. A troca é tácita: o margáu vigia, a comunidade não o expulsa, e ambos os lados fingem que o arranjo não existe.
 
 ### Relação com Magia
 
@@ -41,7 +41,7 @@ Cor arcana verde. Acesso pela *[[_wiki/symbiosis_naturae\|Symbiosis Naturae]]*, 
 
 Manifestações: percepção de doença em plantas e animais próximos, capacidade de estimular crescimento vegetal em escala mínima (flores, frutos, brotos), supressão de cheiro e som ao nível de invisibilidade sensorial em ambiente arbóreo, comunicação rudimentar com fauna menor (mais empatia direcionada que linguagem).
 
-O custo se espelha no dos [[_wiki/rajhar\|rajhars]], mas com valência invertida: onde o [[_wiki/rajhar\|rajhar]] é ancorado contra a vontade, o margáu se **dissolve**. Margáus que aprofundam demais a simbiose começam a perder definição individual. Os contornos da personalidade se suavizam, a distinção entre o que é margáu e o que é floresta embaça. Nos casos extremos, o margáu para de caçar, para de se mover, e a pelagem começa a acumular musgo e liquens que não são parasitas — são extensão. Os [[_wiki/sylvano\|sylvanos]] já viram isso acontecer. Não interferem. Consideram o processo natural.
+O custo se espelha no dos [[_wiki/rajhar\|rajhars]], mas com valência invertida: onde o [[_wiki/rajhar\|rajhar]] é ancorado contra a vontade, o margáu se **dissolve**. Margáus que aprofundam demais a simbiose começam a perder definição individual. Os contornos da personalidade se suavizam, a distinção entre o que é margáu e o que é floresta embaça. Nos casos extremos, o margáu para de caçar, para de se mover, e a pelagem começa a acumular musgo e liquens que não são parasitas: são extensão. Os [[_wiki/sylvano\|sylvanos]] já viram isso acontecer. Não interferem. Consideram o processo natural.
 
 ### Voz Narrativa (guia de escrita)
 
@@ -56,7 +56,7 @@ Margáus quase não falam. A comunicação com outras raças acontece por gestos
 
 ### Ciclo Vital
 
-Vivíparos. Gestação de quatro meses. Fêmeas parem 1 a 2 filhotes, raramente mais. Filhotes nascem com garras funcionais e reflexo de agarrar, adaptação à vida arbórea — a mãe carrega as crias no dorso durante os primeiros meses, e crias que não conseguem se agarrar caem. A seleção é gravitacional.
+Vivíparos. Gestação de quatro meses. Fêmeas parem 1 a 2 filhotes, raramente mais. Filhotes nascem com garras funcionais e reflexo de agarrar, adaptação à vida arbórea: a mãe carrega as crias no dorso durante os primeiros meses, e crias que não conseguem se agarrar caem. A seleção é gravitacional.
 
 Desmame precoce aos três meses. Filhotes acompanham a mãe nas copas, aprendendo rotas, identificando presas e memorizando sons de perigo. Maturidade aos 7-8 anos. A separação é menos abrupta que nos [[_wiki/rajhar\|rajhars]]: o filhote simplesmente começa a dormir em outra árvore, cada vez mais longe, até que a distância se torne permanente.
 

@@ -7,7 +7,7 @@
 
 > **O [[_wiki/imperio_sombrio\|Império]] não descarta por corrupção. Descarta por perda de previsibilidade funcional.**
 
-**Implicações:** Estágio IV não é automaticamente descartável. Estágio III pode ser mais perigoso que o IV. O problema não é o quanto alguém se perdeu — é se ainda responde à cadeia de comando.
+**Implicações:** Estágio IV não é automaticamente descartável. Estágio III pode ser mais perigoso que o IV. O problema não é o quanto alguém se perdeu: é se ainda responde à cadeia de comando.
 
 ### Limiares de Descarte
 
@@ -55,7 +55,7 @@ O [[_wiki/imperio_sombrio\|Império]] recruta considerando compatibilidade entre
 | **Magistrados** | [[_wiki/nomos\|Nomos]], [[_wiki/cryo\|Cryo]] | [[_wiki/morpho\|Morpho]], [[_wiki/hydro\|Hydro]], [[_wiki/spectro\|Spectro]] |
 | **Curandeiros** | [[_wiki/salvo\|Salvo]] (até II), [[_wiki/vita\|Vita]] (até II), [[_wiki/aegis\|Aegis]] | [[_wiki/necro\|Necro]], [[_wiki/phobos\|Phobos]], [[_wiki/anatho\|Anatho]] |
 
-**Princípio:** O custo ontológico *desejável* para uma função é frequentemente *proibitivo* para outra. Isso não é acidente — é engenharia de pessoal.
+**Princípio:** O custo ontológico *desejável* para uma função é frequentemente *proibitivo* para outra. Isso não é acidente: é engenharia de pessoal.
 
 📋 **Consulte `2.6_custos_tematicos_escolas_REF.tsv` para matriz completa com todas as escolas.**
 

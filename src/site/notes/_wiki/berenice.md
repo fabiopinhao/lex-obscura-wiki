@@ -9,7 +9,7 @@ Humana ([[_wiki/pindoriar\|pindoriar]]). Menina órfã de [[_wiki/niedellin\|Nie
 
 ### Papel Narrativo
 
-No porão da chapel, foi repelida pelo altar de [[_wiki/hazburim\|Hazburim]] (barreira invisível) enquanto [[_wiki/levi\|Levi]] era atraído — fugiu gritando por socorro. Testemunha fenômeno celestial em 0.2 e passagem de [[_wiki/syndrith_morghast\|Syndrith]]. Descoberta escondida na chapel com [[_wiki/levi\|Levi]]. Observa mudanças preocupantes em [[_wiki/levi\|Levi]] após confronto com o altar. Escolheu [[_wiki/talin\|Talin]] como protetor antes da morte dele.
+No porão da chapel, foi repelida pelo altar de [[_wiki/hazburim\|Hazburim]] (barreira invisível) enquanto [[_wiki/levi\|Levi]] era atraído: fugiu gritando por socorro. Testemunha fenômeno celestial em 0.2 e passagem de [[_wiki/syndrith_morghast\|Syndrith]]. Descoberta escondida na chapel com [[_wiki/levi\|Levi]]. Observa mudanças preocupantes em [[_wiki/levi\|Levi]] após confronto com o altar. Escolheu [[_wiki/talin\|Talin]] como protetor antes da morte dele.
 
 ### Padrões de Voz
 

@@ -9,7 +9,7 @@
 
 ### Papel Narrativo
 
-Dedicado, obediente às matronas. "Delicadeza irritante" típica dos machos [[_wiki/drul\|drul]]. [[_wiki/syndrith_morghast\|Syndrith]] o conhece desde a infância — apelido interno: "besourinho." Curioso demais para seu próprio bem, mas competente.
+Dedicado, obediente às matronas. "Delicadeza irritante" típica dos machos [[_wiki/drul\|drul]]. [[_wiki/syndrith_morghast\|Syndrith]] o conhece desde a infância: apelido interno: "besourinho." Curioso demais para seu próprio bem, mas competente.
 
 ### Padrões de Voz
 

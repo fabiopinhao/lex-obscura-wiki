@@ -9,7 +9,7 @@
 
 ### Papel Narrativo
 
-Personagem histórico — presente via legado filosófico e metodológico. Ensinou que toda magia nasce da alma, e que [[_wiki/magi\|Magi]] é apenas "rastro da alma no mundo, não sua chama." Deuses são almas antigas e vastas; mortais são almas jovens potencialmente despertáveis. O "despertar" surge em momentos de profunda emoção — não pode ser ensinado, previsto ou forçado. Discípulos ainda se reúnem em círculos secretos para ensinar a "escuta interior do [[_wiki/teru\|Teru]]." [[_wiki/justiciars\|Justiciars]] usam este sistema para conjurar sem subordinação divina. [[_wiki/milorsevogh_velshard\|Milor]] domina [[_wiki/teru\|Teru]].
+Personagem histórico: presente via legado filosófico e metodológico. Ensinou que toda magia nasce da alma, e que [[_wiki/magi\|Magi]] é apenas "rastro da alma no mundo, não sua chama." Deuses são almas antigas e vastas; mortais são almas jovens potencialmente despertáveis. O "despertar" surge em momentos de profunda emoção; não pode ser ensinado, previsto ou forçado. Discípulos ainda se reúnem em círculos secretos para ensinar a "escuta interior do [[_wiki/teru\|Teru]]." [[_wiki/justiciars\|Justiciars]] usam este sistema para conjurar sem subordinação divina. [[_wiki/milorsevogh_velshard\|Milor]] domina [[_wiki/teru\|Teru]].
 
 Recepção histórica: religiosos o chamavam de herético; alquimistas, de charlatão; magos acadêmicos o ignoravam; elfos [[_wiki/sylvano\|sylvanos]], [[_wiki/gerut\|gerut]], rebeldes silvestres e eremitas o tratavam como profeta.
 
@@ -19,6 +19,6 @@ Pregação em espaços abertos, sem instituição. Tom de quem ensina ao demonst
 
 ### Relações-Chave
 
-**[[_wiki/milorsevogh_velshard\|Milorsevogh]] (legado):** [[_wiki/milorsevogh_velshard\|Milor]] domina [[_wiki/teru\|Teru]] — herdeiro prático da doutrina de Naiu'Wula.
+**[[_wiki/milorsevogh_velshard\|Milorsevogh]] (legado):** [[_wiki/milorsevogh_velshard\|Milor]] domina [[_wiki/teru\|Teru]]: herdeiro prático da doutrina de Naiu'Wula.
 
-**[[_wiki/jospin_valheorn\|Jospin Valheorn]] (oposição filosófica):** [[_wiki/jospin_valheorn\|Jospin]] viveu após Naiu'Wula — o materialismo de [[_wiki/jospin_valheorn\|Jospin]] e o espiritualismo de Naiu'Wula são pólos opostos que nunca se reconheceram. [[_wiki/jospin_valheorn\|Jospin]] não o menciona em seus escritos.
+**[[_wiki/jospin_valheorn\|Jospin Valheorn]] (oposição filosófica):** [[_wiki/jospin_valheorn\|Jospin]] viveu após Naiu'Wula: o materialismo de [[_wiki/jospin_valheorn\|Jospin]] e o espiritualismo de Naiu'Wula são pólos opostos que nunca se reconheceram. [[_wiki/jospin_valheorn\|Jospin]] não o menciona em seus escritos.

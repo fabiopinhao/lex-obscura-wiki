@@ -19,7 +19,7 @@ A rejeição é pivô no arco de [[_wiki/arothistar\|Dravmir]]: fecha a porta lu
 
 Autoridade esmagadora temperada por medo que não consegue esconder. Fala pouco, mas cada palavra carrega peso de sentença.
 
-Amostra canônica (a [[_wiki/arothistar\|Dravmir]], na rejeição): "Você carrega algo que não pertence aqui." — detecção sobrenatural expressa como julgamento moral.
+Amostra canônica (a [[_wiki/arothistar\|Dravmir]], na rejeição): "Você carrega algo que não pertence aqui.": detecção sobrenatural expressa como julgamento moral.
 
 ### Relações-Chave
 

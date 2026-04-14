@@ -5,7 +5,7 @@
 
 ### Natureza dos Deuses
 
-Deuses são eternos. Não nascem, não envelhecem, não morrem. Não há registro confirmado de uma divindade deixando de existir, embora tradições orais de diversas culturas mencionem deuses "adormecidos", "esquecidos" ou "desaparecidos" — sem que ninguém possa confirmar se esses termos descrevem estados reais ou apenas perda de relevância entre os mortais.
+Deuses são eternos. Não nascem, não envelhecem, não morrem. Não há registro confirmado de uma divindade deixando de existir, embora tradições orais de diversas culturas mencionem deuses "adormecidos", "esquecidos" ou "desaparecidos"; sem que ninguém possa confirmar se esses termos descrevem estados reais ou apenas perda de relevância entre os mortais.
 
 O que os deuses *são*, ontologicamente, permanece objeto de especulação. Cada sistema de crença oferece uma definição diferente: consciências primordiais, forças naturais personificadas, entidades que precedem a matéria, ou abstrações que ganharam vontade. Nenhuma definição foi confirmada. Os próprios deuses, nas raras ocasiões em que se comunicam, não oferecem explicações sobre sua origem.
 
@@ -14,7 +14,7 @@ O que se sabe com certeza empírica:
 - Habitam planos existenciais próprios (exceto [[_wiki/siderais\|Siderais]], que vagam pelo Etéreo)
 - Exercem influência sobre o plano material por meio de pactos, devoção ou meditação
 - Possuem domínios específicos (escolas de magia que concedem ou amplificam)
-- Podem criar avatares — manifestações temporárias no plano material
+- Podem criar avatares: manifestações temporárias no plano material
 - Podem ser aprisionados por ação conjunta de outros deuses
 - Não podem ser destruídos
 
@@ -32,9 +32,9 @@ Pactos entre mortais e [[_wiki/diabos\|diabos]] são registrados em três nívei
 2. **Verbal:** Pronunciamento mágico (ato de selamento propriamente dito)
 3. **Espiritual:** Marca indelével na alma (vínculo permanente, detectável por magias especializadas)
 
-Uma vez selados, pactos diabólicos são imutáveis — nem o deus pode revogar ou editar unilateralmente. Vínculos demoníacos são mais instáveis: o demônio pode romper por capricho, e a marca nunca desaparece mesmo após a ruptura. Em ambos os casos, os pactuados normalmente buscam os deuses (não o contrário), o que posiciona as entidades divinas como fontes de poder seletivas com filas de aspirantes.
+Uma vez selados, pactos diabólicos são imutáveis; nem o deus pode revogar ou editar unilateralmente. Vínculos demoníacos são mais instáveis: o demônio pode romper por capricho, e a marca nunca desaparece mesmo após a ruptura. Em ambos os casos, os pactuados normalmente buscam os deuses (não o contrário), o que posiciona as entidades divinas como fontes de poder seletivas com filas de aspirantes.
 
-A chamada "[[_wiki/monogamia_divina\|monogamia divina]]" não é lei metafísica, mas tendência proporcional ao valor do mortal. O princípio se aplica a todas as categorias divinas, não apenas a [[_wiki/diabos\|diabos]]. Deuses preferem exclusividade: um mortal comum raramente obtém sequer um vínculo, e a maioria dos que obtêm não atrai interesse de um segundo deus. Mortais de alto valor, contudo, podem atrair múltiplos deuses dispostos a compartilhar — com custo exponencial para o mortal. Quanto mais vínculos, maior a exigência de cada deus. Na prática, ter dois vínculos simultâneos já é raríssimo (~2.5% dos que têm magia). Três é aberração histórica sem precedente conhecido além de [[_wiki/arothistar\|Arothistar]].
+A chamada "[[_wiki/monogamia_divina\|monogamia divina]]" não é lei metafísica, mas tendência proporcional ao valor do mortal. O princípio se aplica a todas as categorias divinas, não apenas a [[_wiki/diabos\|diabos]]. Deuses preferem exclusividade: um mortal comum raramente obtém sequer um vínculo, e a maioria dos que obtêm não atrai interesse de um segundo deus. Mortais de alto valor, contudo, podem atrair múltiplos deuses dispostos a compartilhar, com custo exponencial para o mortal. Quanto mais vínculos, maior a exigência de cada deus. Na prática, ter dois vínculos simultâneos já é raríssimo (~2.5% dos que têm magia). Três é aberração histórica sem precedente conhecido além de [[_wiki/arothistar\|Arothistar]].
 
 📋 **Para mecânicas detalhadas de cada sistema de vínculo:** consulte `3.7_sistemas_magicos_LORE.md`
 
@@ -44,15 +44,15 @@ Existem dois estados de enfraquecimento divino, distintos em natureza:
 
 **Aprisionamento** é real e possível, mas apenas por ação de outro deus (ou aliança entre deuses). A entidade é selada em seu próprio plano existencial, mantendo consciência mas perdendo a capacidade de exercer influência direta sobre [[_wiki/thamakard\|Thamakard]]. O caso canônico é [[_wiki/vozrador\|Vozrador]], aprisionado há ~55 anos por aliança entre [[_wiki/malagoth\|Malagoth]] e [[_wiki/velmorain\|Velmorain]].
 
-O destino dos pactos existentes após o aprisionamento de um deus é objeto de disputa. A narrativa mais difundida sustenta que o pacto se rompe: sem canal ativo entre deus e pactuado, a alma é liberada e as obrigações caducam. A posição minoritária, porém, defende que o vínculo não se dissolve por completo — que o pacto permanece como cicatriz espiritual, enfraquecido mas presente, capaz de pulsar quando certas condições são atendidas. Esta ambiguidade é fonte de drama real: [[_wiki/orum-rahru\|Orum-Rahru]], primeiro Justiciar de [[_wiki/arothistar\|Arothistar]], carrega a tensão de um vínculo antigo com [[_wiki/vozrador\|Vozrador]] cuja natureza exata nem ele compreende.
+O destino dos pactos existentes após o aprisionamento de um deus é objeto de disputa. A narrativa mais difundida sustenta que o pacto se rompe: sem canal ativo entre deus e pactuado, a alma é liberada e as obrigações caducam. A posição minoritária, porém, defende que o vínculo não se dissolve por completo: que o pacto permanece como cicatriz espiritual, enfraquecido mas presente, capaz de pulsar quando certas condições são atendidas. Esta ambiguidade é fonte de drama real: [[_wiki/orum-rahru\|Orum-Rahru]], primeiro Justiciar de [[_wiki/arothistar\|Arothistar]], carrega a tensão de um vínculo antigo com [[_wiki/vozrador\|Vozrador]] cuja natureza exata nem ele compreende.
 
-**Redução de presença** é o processo pelo qual um deus perde influência em uma região de [[_wiki/thamakard\|Thamakard]] sem ser aprisionado. Não é um ato deliberado contra a divindade, mas consequência do domínio de energias opostas. Os [[_wiki/anjos\|deuses brancos]] em [[_wiki/reinkard\|Reinkard]] sofrem deste fenômeno: a fé luminosa está quase extinta, não porque [[_wiki/azazel\|Azazel]] tenha sido derrotado, mas porque o [[_wiki/manto_das_sombras\|manto das sombras]] tornou o continente inóspito para sua influência. "Pereceram por pureza inflexível" — como [[_wiki/peredur\|Peredur]] formulou — é expressão poética sobre este processo, não sobre morte divina.
+**Redução de presença** é o processo pelo qual um deus perde influência em uma região de [[_wiki/thamakard\|Thamakard]] sem ser aprisionado. Não é um ato deliberado contra a divindade, mas consequência do domínio de energias opostas. Os [[_wiki/anjos\|deuses brancos]] em [[_wiki/reinkard\|Reinkard]] sofrem deste fenômeno: a fé luminosa está quase extinta, não porque [[_wiki/azazel\|Azazel]] tenha sido derrotado, mas porque o [[_wiki/manto_das_sombras\|manto das sombras]] tornou o continente inóspito para sua influência. "Pereceram por pureza inflexível" (como [[_wiki/peredur\|Peredur]] formulou) é expressão poética sobre este processo, não sobre morte divina.
 
 A distinção é crítica: [[_wiki/vozrador\|Vozrador]] está selado e consciente, apenas enfraquecido. [[_wiki/azazel\|Azazel]] está livre mas irrelevante em [[_wiki/reinkard\|Reinkard]]. O primeiro pode ser libertado por uma ação específica. O segundo precisaria de uma transformação civilizacional para reconquistar presença.
 
 ### Cor como Essência, Não como Hierarquia
 
-As cinco cores — preto, vermelho, verde, branco e azul — definem alinhamento, não poder. Cada cor representa uma essência, um conjunto de emoções, objetivos e comportamentos que orientam a natureza de cada entidade divina. Não existem tiers de poder, não há hierarquia clara entre categorias, e não há consenso entre mortais ou entre deuses sobre quem é mais forte.
+As cinco cores (preto, vermelho, verde, branco e azul) definem alinhamento, não poder. Cada cor representa uma essência, um conjunto de emoções, objetivos e comportamentos que orientam a natureza de cada entidade divina. Não existem tiers de poder, não há hierarquia clara entre categorias, e não há consenso entre mortais ou entre deuses sobre quem é mais forte.
 
 | Cor | Essência | Emoção Dominante | Objetivo | Comportamento |
 |-----|----------|-----------------|----------|---------------|
@@ -62,9 +62,9 @@ As cinco cores — preto, vermelho, verde, branco e azul — definem alinhamento
 | **Branco (W)** | Justiça, pureza, ordem moral | Compaixão, rigidez | Proteção dos fracos, código moral | Inflexível, protetor, abandona quem transgride |
 | **Azul (U)** | Conhecimento, intelecto, observação | Curiosidade, distanciamento | Compreensão, padrões universais | Alienígena, sem julgamento moral, atraído por genialidade |
 
-Entidades bicolores combinam essências de duas cores, com uma dominante que define o sistema de acesso mágico. A cor dominante não indica poder superior — indica qual sistema de vínculo o mortal precisa usar para acessar a entidade. Na notação de escolas híbridas (ex: UB/BU), a primeira letra indica a cor de maior impacto na escola.
+Entidades bicolores combinam essências de duas cores, com uma dominante que define o sistema de acesso mágico. A cor dominante não indica poder superior: indica qual sistema de vínculo o mortal precisa usar para acessar a entidade. Na notação de escolas híbridas (ex: UB/BU), a primeira letra indica a cor de maior impacto na escola.
 
-A ausência de hierarquia é demonstrada pelo aprisionamento de [[_wiki/vozrador\|Vozrador]]: [[_wiki/malagoth\|Malagoth]] e [[_wiki/velmorain\|Velmorain]] precisaram agir juntos, pegando [[_wiki/vozrador\|Vozrador]] de surpresa. Mas [[_wiki/vozrador\|Vozrador]], em outros aspectos, é considerado mais poderoso que ambos. A força relativa entre deuses não é uma escala fixa — depende de contexto, de domínio, de circunstância.
+A ausência de hierarquia é demonstrada pelo aprisionamento de [[_wiki/vozrador\|Vozrador]]: [[_wiki/malagoth\|Malagoth]] e [[_wiki/velmorain\|Velmorain]] precisaram agir juntos, pegando [[_wiki/vozrador\|Vozrador]] de surpresa. Mas [[_wiki/vozrador\|Vozrador]], em outros aspectos, é considerado mais poderoso que ambos. A força relativa entre deuses não é uma escala fixa: depende de contexto, de domínio, de circunstância.
 
 Os contrastes mais reveladores não são entre cores opostas, mas entre cores vizinhas. [[_wiki/anjos\|Anjos]] e [[_wiki/titas\|titãs]], por exemplo, compartilham uma inclinação protetora, mas divergem no método. [[_wiki/titas\|Titãs]] são tolerantes: aceitam o ciclo de crescimento e decaimento sem moralizar, e intervêm apenas quando o equilíbrio é rompido de forma catastrófica. [[_wiki/anjos\|Anjos]] são inflexíveis: estabelecem códigos morais absolutos e abandonam quem os transgride, independentemente de circunstância. Na [[_wiki/idade_esquecida\|Idade Esquecida]], essa diferença dividiu os próprios [[_wiki/luminares\|Luminares]]: os que se inclinavam para os [[_wiki/titas\|titãs]] valorizavam harmonia e adaptação; os que se inclinavam para os [[_wiki/anjos\|anjos]] valorizavam pureza e julgamento. A fragmentação dos [[_wiki/luminares\|Luminares]] em [[_wiki/sylvano\|sylvanos]] (verdes) e [[_wiki/elarino\|elarinos]] (brancos) não foi acidental: refletia uma cisão espiritual que antecedia a queda.
 

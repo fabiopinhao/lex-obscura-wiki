@@ -742,7 +742,7 @@ A oposição do eixo restaurativo. [[_wiki/patho\|Patho]] degrada o que já exis
 | Custo ontológico: literalismo, rigidez, incapacidade de improvisar | Custo ontológico: impulso destrutivo, tédio com permanência |
 | Fortalecida em locais de controle (tribunais, fortalezas) | Fortalecida em locais de ruína e instabilidade |
 
-[[_wiki/nomos\|Nomos]] e [[_wiki/rupto\|Rupto]] são faces da mesma moeda estrutural. Onde [[_wiki/nomos\|Nomos]] declara "isso permanece", [[_wiki/rupto\|Rupto]] declara "isso cede". Grilhão impõe proibição que Romper desata. Clausura aprisiona o que Abrogação estilhaça. Édito governa o que Devastação nivela. A ironia funcional: praticantes avançados de ambas as escolas se reconhecem imediatamente — a rigidez de um e o impulso destrutivo do outro são espelhos do mesmo custo ontológico em polaridades opostas.
+[[_wiki/nomos\|Nomos]] e [[_wiki/rupto\|Rupto]] são faces da mesma moeda estrutural. Onde [[_wiki/nomos\|Nomos]] declara "isso permanece", [[_wiki/rupto\|Rupto]] declara "isso cede". Grilhão impõe proibição que Romper desata. Clausura aprisiona o que Abrogação estilhaça. Édito governa o que Devastação nivela. A ironia funcional: praticantes avançados de ambas as escolas se reconhecem imediatamente: a rigidez de um e o impulso destrutivo do outro são espelhos do mesmo custo ontológico em polaridades opostas.
 
 **Nota — [[_wiki/nomos\|Nomos]]/Clausura vs. [[_wiki/cosmo\|Cosmo]]/Gravame (aprisionamento por meios distintos):**
 
@@ -753,7 +753,7 @@ A oposição do eixo restaurativo. [[_wiki/patho\|Patho]] degrada o que já exis
 | Falha contra alvos com resistência arcana superior | Falha contra alvos com força física sobre-humana |
 | Quebrada por Absolvição ([[_wiki/urano\|Urano]]) ou Anulação ([[_wiki/abjuro\|Abjuro]]) | Quebrada por Abrandamento ([[_wiki/cosmo\|Cosmo]]) ou força bruta |
 
-Clausura é prisão judicial — o condenado sabe que está preso. Gravame é prisão gravitacional — o esmagado sente que está preso. A diferença é de mecanismo, não de resultado. [[_wiki/justiciars\|Justiciars]] combinam ambas quando a fuga é inconcebível.
+Clausura é prisão judicial: o condenado sabe que está preso. Gravame é prisão gravitacional: o esmagado sente que está preso. A diferença é de mecanismo, não de resultado. [[_wiki/justiciars\|Justiciars]] combinam ambas quando a fuga é inconcebível.
 
 **Nota — [[_wiki/nomos\|Nomos]]/Mordaça vs. [[_wiki/aero\|Aero]]/Ressonância:**
 
@@ -764,7 +764,7 @@ Clausura é prisão judicial — o condenado sabe que está preso. Gravame é pr
 | Bloqueia feitiços verbais do alvo silenciado | Bloqueia todos os feitiços verbais na área, inclusive aliados |
 | Não afeta sons ambientais (passos, impactos) | Suprime todos os sons dentro do perímetro |
 
-Mordaça é censura cirúrgica — cala quem precisa calar. Ressonância invertida é censura ambiental — cala tudo. [[_wiki/ophideias\|Ophideias]] preferem Mordaça para interrogatórios (o prisioneiro não grita, mas o interrogador fala); [[_wiki/justiciars\|Justiciars]] preferem Ressonância em operações táticas (ninguém ouve nada).
+Mordaça é censura cirúrgica: cala quem precisa calar. Ressonância invertida é censura ambiental: cala tudo. [[_wiki/ophideias\|Ophideias]] preferem Mordaça para interrogatórios (o prisioneiro não grita, mas o interrogador fala); [[_wiki/justiciars\|Justiciars]] preferem Ressonância em operações táticas (ninguém ouve nada).
 
 **Nota — [[_wiki/nomos\|Nomos]]/Édito vs. [[_wiki/urano\|Urano]]/Armistício:**
 
@@ -934,7 +934,7 @@ Mordaça é censura cirúrgica — cala quem precisa calar. Ressonância inverti
 | O alvo não sofre efeito colateral além de passividade momentânea | O alvo fica vulnerável a manipulação, sugestão, dano |
 | Custo: passividade residual no conjurador | Custo: fronteira sono/vigília borrada no conjurador |
 
-Serenidade é diplomacia arcana — o alvo para de lutar porque a luta perdeu sentido. Acalanto é sedação — o alvo para de lutar porque não consegue manter os olhos abertos. Um liberta da raiva; outro liberta da vigília.
+Serenidade é diplomacia arcana: o alvo para de lutar porque a luta perdeu sentido. Acalanto é sedação: o alvo para de lutar porque não consegue manter os olhos abertos. Um liberta da raiva; outro liberta da vigília.
 
 **Nota — [[_wiki/urano\|Urano]]/Absolvição vs. [[_wiki/abjuro\|Abjuro]]/Anulação (libertação por meios distintos):**
 
@@ -1000,7 +1000,7 @@ Armistício cria zona de trégua; Consagração cria zona de pureza. A sobreposi
 | Fortalecida em tempestades e metal | Fortalecida em locais antigos e silenciosos |
 | Escala terminal: Fulmíneo (devastação elétrica) | Escala terminal: Catacronia (colapso temporal) |
 
-A oposição é rítmica: [[_wiki/electro\|Electro]] existe no instante (descarga, faísca, impulso), [[_wiki/chrono\|Chrono]] existe na duração (pausa, dilação, estase). [[_wiki/electro\|Electro]] nega [[_wiki/chrono\|Chrono]] porque a velocidade resiste à desaceleração — um alvo sob corrente elétrica é mais difícil de desacelerar, pois a energia que o percorre resiste à manipulação temporal. [[_wiki/chrono\|Chrono]] nega [[_wiki/electro\|Electro]] porque o tempo parado não conduz — dentro de Estase, nenhuma corrente flui. O duelo entre escolas é assimétrico: [[_wiki/electro\|Electro]] ganha com ação instantânea, [[_wiki/chrono\|Chrono]] ganha com preparação.
+A oposição é rítmica: [[_wiki/electro\|Electro]] existe no instante (descarga, faísca, impulso), [[_wiki/chrono\|Chrono]] existe na duração (pausa, dilação, estase). [[_wiki/electro\|Electro]] nega [[_wiki/chrono\|Chrono]] porque a velocidade resiste à desaceleração: um alvo sob corrente elétrica é mais difícil de desacelerar, pois a energia que o percorre resiste à manipulação temporal. [[_wiki/chrono\|Chrono]] nega [[_wiki/electro\|Electro]] porque o tempo parado não conduz: dentro de Estase, nenhuma corrente flui. O duelo entre escolas é assimétrico: [[_wiki/electro\|Electro]] ganha com ação instantânea, [[_wiki/chrono\|Chrono]] ganha com preparação.
 
 **Nota — Magnetarca ([[_wiki/electro\|Electro]]) vs. Gravame ([[_wiki/cosmo\|Cosmo]]):**
 
@@ -1231,7 +1231,7 @@ A oposição é rítmica: [[_wiki/electro\|Electro]] existe no instante (descarg
 | Verde-Branco: natureza + ordem | Verde-Preto: natureza + sombra |
 | Escala terminal: Extinção (apagar magia para sempre) | Escala terminal: Miasma (zona de morte total) |
 
-A assimetria fundamental: [[_wiki/abjuro\|Abjuro]] protege *contra* substância (remove efeitos, bloqueia escolas, nega fluxo), enquanto [[_wiki/toxo\|Toxo]] *é* substância (veneno, ácido, secreção). Um abjurador não pode anular veneno mundano — apenas veneno conjurado. Um toxinomante não pode envenenar a negação — apenas o corpo de quem a conjura. No campo de batalha, o duelo é de ritmo: [[_wiki/toxo\|Toxo]] infiltra devagar (envenenar água, contaminar ar, corroer equipamento); [[_wiki/abjuro\|Abjuro]] reage depressa (Diagnose detecta, Purga remove, Anulação encerra). O toxinomante precisa de tempo; o abjurador precisa de atenção.
+A assimetria fundamental: [[_wiki/abjuro\|Abjuro]] protege *contra* substância (remove efeitos, bloqueia escolas, nega fluxo), enquanto [[_wiki/toxo\|Toxo]] *é* substância (veneno, ácido, secreção). Um abjurador não pode anular veneno mundano; apenas veneno conjurado. Um toxinomante não pode envenenar a negação; apenas o corpo de quem a conjura. No campo de batalha, o duelo é de ritmo: [[_wiki/toxo\|Toxo]] infiltra devagar (envenenar água, contaminar ar, corroer equipamento); [[_wiki/abjuro\|Abjuro]] reage depressa (Diagnose detecta, Purga remove, Anulação encerra). O toxinomante precisa de tempo; o abjurador precisa de atenção.
 
 **Nota — Anulação ([[_wiki/abjuro\|Abjuro]]) vs. Abrogação ([[_wiki/rupto\|Rupto]]):**
 

@@ -3,7 +3,7 @@
 ---
 
 
-**Nomenclatura:** "Códice dos Sonhos" — três teorias sobre o nome: as leis vieram a [[_wiki/xarn\|Xarn]] através de sonhos proféticos; a justiça sombria é um "sonho" imposto sobre a realidade; o Codex permite acessar memórias oníricas de criminosos mortos.
+**Nomenclatura:** "Códice dos Sonhos" , três teorias sobre o nome: as leis vieram a [[_wiki/xarn\|Xarn]] através de sonhos proféticos; a justiça sombria é um "sonho" imposto sobre a realidade; o Codex permite acessar memórias oníricas de criminosos mortos.
 
 **Aparência:**
 
@@ -11,7 +11,7 @@ Encadernado em couro púrpura com fechos metálicos em forma de garras. Mais que
 
 **Estrutura Tripartite:**
 
-**[[_wiki/verbum_arkhon_codex\|Verbum Arkhon]]** ("Palavras do Soberano"): Pronunciamentos diretos de [[_wiki/arothistar\|Arothistar]] — visões, decretos, parábolas sombrias. Tinta dourada sobre pergaminho negro. Considerado infalível e imutável. Leitura obrigatória durante vigílias judiciais. Esta seção dá título ao Livro I da trilogia.
+**[[_wiki/verbum_arkhon_codex\|Verbum Arkhon]]** ("Palavras do Soberano"): Pronunciamentos diretos de [[_wiki/arothistar\|Arothistar]]: visões, decretos, parábolas sombrias. Tinta dourada sobre pergaminho negro. Considerado infalível e imutável. Leitura obrigatória durante vigílias judiciais. Esta seção dá título ao Livro I da trilogia.
 
 **[[_wiki/lex_obscura_decreto\|Lex Obscura]]** ("Lei das Sombras"): Leis aprovadas pelo [[_wiki/conselho_sombrio\|Conselho Sombrio]], organizadas por categorias: traição, heresia, desobediência, negligência. Atualizada a cada década. Inclui precedentes e jurisprudências vinculantes. Define punições e exceções. Dá título à trilogia.
 
@@ -37,4 +37,4 @@ Destruir um Codex é crime hediondo. Métodos tradicionais falham: fogo comum ap
 
 Cada exemplar é reproduzido por copistas e exegetas juramentados sob tutela dos Arcontes no Scriptorium. Os códices são rubricados com cifra ritual e colofão consagrado, garantindo autenticidade e rastreabilidade. Falsificação de códices é crime capital. Apenas [[_wiki/justiciars\|Justiciars]] e Alto Clero possuem exemplares.
 
-📌 **Aparições:** Prólogo (entrega na Unção), Cap5, Cap9, Cap12 (uso em julgamento formal — páginas viram sozinhas até [[_wiki/lex_obscura_decreto\|Lex Obscura]]).
+📌 **Aparições:** Prólogo (entrega na Unção), Cap5, Cap9, Cap12 (uso em julgamento formal, páginas viram sozinhas até [[_wiki/lex_obscura_decreto\|Lex Obscura]]).

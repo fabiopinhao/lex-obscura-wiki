@@ -13,11 +13,11 @@ Shaevan se manifesta como uma tarântula colossal de quitina negra, com patas ar
 
 ### A Fiação
 
-Shaevan não libera pragas. Fia. Cada epidemia é uma teia com arquitetura própria: pontos de origem e vetores de propagação calculados. A paciência da aranha é literal. Shaevan deposita o primeiro fio numa vítima e espera que o contágio trame os demais sozinho. Intervir mais do que o necessário é desperdício. Uma boa praga, como uma boa teia, sustenta-se depois que a estrutura está posta. Pactuados reproduzem esse método: identificam o nó de uma rede — o mercador itinerante, o pregador de aldeia — e nele depositam o primeiro fio. A fiação exige paciência que urgência militar não tolera. Em campo aberto, servos de Shaevan perdem função; em campanhas de atrito prolongado, nenhum outro pactuado os substitui.
+Shaevan não libera pragas. Fia. Cada epidemia é uma teia com arquitetura própria: pontos de origem e vetores de propagação calculados. A paciência da aranha é literal. Shaevan deposita o primeiro fio numa vítima e espera que o contágio trame os demais sozinho. Intervir mais do que o necessário é desperdício. Uma boa praga, como uma boa teia, sustenta-se depois que a estrutura está posta. Pactuados reproduzem esse método: identificam o nó de uma rede (o mercador itinerante, o pregador de aldeia) e nele depositam o primeiro fio. A fiação exige paciência que urgência militar não tolera. Em campo aberto, servos de Shaevan perdem função; em campanhas de atrito prolongado, nenhum outro pactuado os substitui.
 
 ### Posição no Panteão
 
-Shaevan é a única Diabo-Titã entre os doze, designação que indica escala de atuação acima da intervenção individual: onde outros diabos operam sobre corpos, Shaevan opera sobre populações. Essa escala gera desconfiança, porque pragas descontroladas não distinguem entre servos e inimigos. A resposta de Shaevan, segundo seus devotos, é que a doença sempre distingue — o problema é que mortais não compreendem os critérios.
+Shaevan é a única Diabo-Titã entre os doze, designação que indica escala de atuação acima da intervenção individual: onde outros diabos operam sobre corpos, Shaevan opera sobre populações. Essa escala gera desconfiança, porque pragas descontroladas não distinguem entre servos e inimigos. A resposta de Shaevan, segundo seus devotos, é que a doença sempre distingue; o problema é que mortais não compreendem os critérios.
 
 ### Filosofia
 

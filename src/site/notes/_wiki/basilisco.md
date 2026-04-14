@@ -5,7 +5,7 @@
 
 ### Natureza
 
-Réptil monstruoso dotado de olhar petrificante. Contato visual direto resulta em petrificação parcial ou total da vítima, dependendo da potência do espécime e do tempo de exposição. Habitat predominantemente subterrâneo — as profundezas de [[_wiki/vor-ghol\|Vor-Ghol]] e as cavernas não mapeadas do continente são território natural da espécie.
+Réptil monstruoso dotado de olhar petrificante. Contato visual direto resulta em petrificação parcial ou total da vítima, dependendo da potência do espécime e do tempo de exposição. Habitat predominantemente subterrâneo: as profundezas de [[_wiki/vor-ghol\|Vor-Ghol]] e as cavernas não mapeadas do continente são território natural da espécie.
 
 ### Lacunas Canônicas
 

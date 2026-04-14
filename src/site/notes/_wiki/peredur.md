@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[_wiki/sylvano\|Sylvano]]. Druida ancião de [[_wiki/thal_serin\|Thal'Serin]]. Devoto de [[_wiki/titania\|Titânia]]. Afiliação: Druidas de [[_wiki/thal_serin\|Thal'Serin]]. Localização: [[_wiki/thal_serin\|Thal'Serin]]. Status: vivo. Possui "grande sabedoria sobre tempos de antes" segundo [[_wiki/iluvrae\|Ilúvrae]] (seção 13.6). Mencionado como alguém que pode ter conhecimento sobre os [[_wiki/titas\|titãs]] que sustentavam o diabo ausente — aliados do diabo que [[_wiki/arothistar\|Arothistar]] busca recuperar.
+[[_wiki/sylvano\|Sylvano]]. Druida ancião de [[_wiki/thal_serin\|Thal'Serin]]. Devoto de [[_wiki/titania\|Titânia]]. Afiliação: Druidas de [[_wiki/thal_serin\|Thal'Serin]]. Localização: [[_wiki/thal_serin\|Thal'Serin]]. Status: vivo. Possui "grande sabedoria sobre tempos de antes" segundo [[_wiki/iluvrae\|Ilúvrae]] (seção 13.6). Mencionado como alguém que pode ter conhecimento sobre os [[_wiki/titas\|titãs]] que sustentavam o diabo ausente: aliados do diabo que [[_wiki/arothistar\|Arothistar]] busca recuperar.
 
 ### Papel Narrativo
 
@@ -13,12 +13,12 @@
 
 ### Padrões de Voz
 
-Descrito como portador de "grande sabedoria" — sem falas diretas documentadas no outline além do ato de revelar o nome de [[_wiki/milorsevogh_velshard\|Milor]]. Tom esperado: ancião [[_wiki/sylvano\|sylvano]] melancólico, referências aos "tempos de antes."
+Descrito como portador de "grande sabedoria"; sem falas diretas documentadas no outline além do ato de revelar o nome de [[_wiki/milorsevogh_velshard\|Milor]]. Tom esperado: ancião [[_wiki/sylvano\|sylvano]] melancólico, referências aos "tempos de antes."
 
 ### Relações-Chave
 
 **[[_wiki/milorsevogh_velshard\|Milorsevogh]] (revelaçao do nome / ponto de contato):** Peredur revelou o nome completo de [[_wiki/milorsevogh_velshard\|Milor]]. [[_wiki/arothistar\|Arothistar]] o designa como canal de comunicação com os [[_wiki/titas\|titãs]] via [[_wiki/milorsevogh_velshard\|Milor]].
 
-**[[_wiki/iluvrae\|Ilúvrae]] (mencionada por):** [[_wiki/iluvrae\|Ilúvrae]] o citou como fonte de conhecimento sobre [[_wiki/titas\|titãs]] — conexão que [[_wiki/arothistar\|Arothistar]] identifica como estratégica.
+**[[_wiki/iluvrae\|Ilúvrae]] (mencionada por):** [[_wiki/iluvrae\|Ilúvrae]] o citou como fonte de conhecimento sobre [[_wiki/titas\|titãs]]: conexão que [[_wiki/arothistar\|Arothistar]] identifica como estratégica.
 
 **[[_wiki/gaelwyn\|Gaelwyn]] / Resistência (contexto):** Opera na mesma floresta. [[_wiki/gaelwyn\|Gaelwyn]] é o melhor ranger de [[_wiki/thal_serin\|Thal'Serin]]; Peredur é seu referencial de sabedoria ancestral.

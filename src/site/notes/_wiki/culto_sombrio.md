@@ -5,9 +5,9 @@
 
 ### Natureza e Fundação
 
-O Culto Sombrio não é religião no sentido devocional — é aparato estatal que usa teologia como mecanismo de controle. Fundado por [[_wiki/xarn\|Xarn]] na [[_wiki/segunda_era\|Segunda Era]] ao unificar templos diabólicos dispersos no planalto norte, o Culto transformou práticas marginais de pacto e invocação em sistema institucional: hierarquia funcional, escolas organizadas, especializações doutrinárias, duelos ritualizados.
+O Culto Sombrio não é religião no sentido devocional: é aparato estatal que usa teologia como mecanismo de controle. Fundado por [[_wiki/xarn\|Xarn]] na [[_wiki/segunda_era\|Segunda Era]] ao unificar templos diabólicos dispersos no planalto norte, o Culto transformou práticas marginais de pacto e invocação em sistema institucional: hierarquia funcional, escolas organizadas, especializações doutrinárias, duelos ritualizados.
 
-A unificação foi pragmática. Antes de [[_wiki/xarn\|Xarn]], cada templo mantinha relação independente com seu diabo patrono — sem coordenação, sem doutrina compartilhada, sem poder político. [[_wiki/xarn\|Xarn]] forjou a [[_wiki/lex_obscura_decreto\|Lex Obscura]] como fundamento jurídico-religioso comum, subordinando cultos locais a uma estrutura central. A criação de [[_wiki/morvgrad\|Morvgrad]] selou o processo: capital política e religiosa em um só ponto.
+A unificação foi pragmática. Antes de [[_wiki/xarn\|Xarn]], cada templo mantinha com seu diabo patrono: sem coordenação, sem doutrina compartilhada, sem poder político. [[_wiki/xarn\|Xarn]] forjou a [[_wiki/lex_obscura_decreto\|Lex Obscura]] como fundamento jurídico-religioso comum, subordinando cultos locais a uma estrutura central. A criação de [[_wiki/morvgrad\|Morvgrad]] selou o processo: capital política e religiosa em um só ponto.
 
 ### Percepção Pública e Ambiguidade
 
@@ -19,7 +19,7 @@ O [[_wiki/imperio_sombrio\|império]] funciona como universidade perversa de mag
 
 ### Sistema Cromático de Selos
 
-O Culto opera por sistema cromático que classifica hierarquia e autoridade. Cada selo indica jurisdição, nível de acesso e filiação dentro da estrutura. O selo púrpura, reservado ao [[_wiki/conselho_sombrio\|Conselho Sombrio]] e ao monarca, é o mais alto — [[_wiki/syndrith_morghast\|Syndrith]] o porta por missão delegada, ironia operacional explorada pelo [[_wiki/ordo_zathar\|Ordo Zathar]].
+O Culto opera por sistema cromático que classifica hierarquia e autoridade. Cada selo indica jurisdição, nível de acesso e filiação dentro da estrutura. O selo púrpura, reservado ao [[_wiki/conselho_sombrio\|Conselho Sombrio]] e ao monarca, é o mais alto, [[_wiki/syndrith_morghast\|Syndrith]] o porta por missão delegada, ironia operacional explorada pelo [[_wiki/ordo_zathar\|Ordo Zathar]].
 
 A cor preta domina a estrutura ([[_wiki/diabos\|deuses negros]] como alicerce), mas o sistema reconhece implicitamente as outras cores arcanas na medida em que serve à manutenção do poder imperial. Selos funcionam como credenciais: permitem acesso a templos, recursos militares, arquivos selados e prisioneiros. Falsificação de selo é crime capital, embora o mercado negro os reproduza com frequência suficiente para que o Culto mantenha auditores permanentes.
 
@@ -49,13 +49,13 @@ A tensão opera nos bastidores: rivalidades entre conselheiros, promoções sele
 
 [[_wiki/arothistar\|Arothistar]] tipificou pactos com [[_wiki/demonios\|deuses vermelhos]] como crime de [[_wiki/vinculum_daemonis\|Vinculum Daemonis]], punido com os [[_wiki/drokh_malahar\|Fossos de Drokh'Malahar]]. A proibição serve dois propósitos: eliminar fontes de caos dentro do [[_wiki/imperio_sombrio\|império]] e concentrar todo acesso demoníaco em [[_wiki/arothistar\|Arothistar]] (via [[_wiki/kaelgrym\|Kaelgrym]]), mantendo o monopólio do medo.
 
-O sistema não possui mecanismo eficiente para detectar pactos clandestinos. A mesma magia que poderia identificá-los — [[_wiki/deteccao_de_alinhamento\|detecção de alinhamento]] — é politicamente perigosa porque revelaria também aliados inconvenientes. O caso [[_wiki/maraxus\|Maraxus]]/[[_wiki/hazburim\|Hazburim]] demonstra a falha: pactuado clandestino operou por anos em [[_wiki/niedellin\|Niedellin]] sem detecção.
+O sistema não possui mecanismo eficiente para detectar pactos clandestinos. A mesma magia que poderia identificá-los ([[_wiki/deteccao_de_alinhamento\|detecção de alinhamento]]) é politicamente perigosa porque revelaria também aliados inconvenientes. O caso [[_wiki/maraxus\|Maraxus]]/[[_wiki/hazburim\|Hazburim]] demonstra a falha: pactuado clandestino operou por anos em [[_wiki/niedellin\|Niedellin]] sem detecção.
 
 ### Relação com [[_wiki/arothistar\|Arothistar]]
 
-O Culto existia antes de [[_wiki/arothistar\|Arothistar]] e existirá depois dele. [[_wiki/xarn\|Xarn]] o fundou; [[_wiki/arothistar\|Arothistar]] o instrumentalizou. A distinção é relevante: o monarca não era líder religioso por devoção, mas por concentração de poder. Os três pactos simultâneos ([[_wiki/malagoth\|Malagoth]], [[_wiki/velmorain\|Velmorain]], [[_wiki/kaelgrym\|Kaelgrym]]) o colocavam acima de qualquer sacerdote, templário ou conselheiro — ninguém podia contestar quem negociava diretamente com três deuses.
+O Culto existia antes de [[_wiki/arothistar\|Arothistar]] e existirá depois dele. [[_wiki/xarn\|Xarn]] o fundou; [[_wiki/arothistar\|Arothistar]] o instrumentalizou. A distinção é relevante: o monarca não era líder religioso por devoção, mas por concentração de poder. Os três pactos simultâneos ([[_wiki/malagoth\|Malagoth]], [[_wiki/velmorain\|Velmorain]], [[_wiki/kaelgrym\|Kaelgrym]]) o colocavam acima de qualquer sacerdote, templário ou conselheiro: ninguém podia contestar quem negociava diretamente com três deuses.
 
-O [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] (Palavra do Soberano) não revogou a [[_wiki/lex_obscura_decreto\|Lex Obscura]] — alinhou-se e sobrepôs-se a ela. Foi simultaneamente revolução e continuidade. Após a execução de [[_wiki/arothistar\|Arothistar]], a questão central é: o que prevalece? O Verbum de um homem morto, ou a Lex de um fundador vivo? Esta é a fissura que o [[_wiki/ordo_zathar\|Ordo Zathar]] explora.
+O [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] (Palavra do Soberano) não revogou a [[_wiki/lex_obscura_decreto\|Lex Obscura]], alinhou-se e sobrepôs-se a ela. Foi simultaneamente revolução e continuidade. Após a execução de [[_wiki/arothistar\|Arothistar]], a questão central é: o que prevalece? O Verbum de um homem morto, ou a Lex de um fundador vivo? Esta é a fissura que o [[_wiki/ordo_zathar\|Ordo Zathar]] explora.
 
 📋 Para [[_wiki/politica_religiosa\|política religiosa]] detalhada: `3.5_panteao_LORE.md`, seções 2.1-2.4.
-📋 Para facções internas: `3.5_panteao_LORE.md`. ⚠️ Lacuna: §5.8 do antigo Cânone não foi localizada no arquivo de destino — conteúdo sobre facções internas pode precisar ser migrado.
+📋 Para facções internas: `3.5_panteao_LORE.md`. ⚠️ Lacuna: §5.8 do antigo Cânone não foi localizada no arquivo de destino: conteúdo sobre facções internas pode precisar ser migrado.

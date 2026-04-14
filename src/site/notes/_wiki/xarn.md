@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[_wiki/shadar\|Shadar]] ancião. Clérigo grão-mestre e líder espiritual do [[_wiki/culto_sombrio\|Culto Sombrio]]. Líder das casas gêmeas: a eparquia de [[_wiki/xarn_zareth\|Xarn'Zareth]] na cidadela subterrânea de [[_wiki/ghilanna\|Ghilanna]] e a eparquia [[_wiki/xarn_aroth\|Xarn'Aroth]] na região sagrada de [[_wiki/morvgrad\|Morvgrad]]. Autor do Codex que rege a [[_wiki/alianca_subterranea\|Aliança]] — escreveu as leis que outros agora recitam. Arquiteto da [[_wiki/alianca_subterranea\|Aliança Subterrânea]] entre [[_wiki/shadar\|shadars]] e [[_wiki/drul\|druls]]. Unificou templos diabólicos dispersos no [[_wiki/culto_sombrio\|Culto Sombrio]]. Possivelmente divinizado (status incerto). Status: vivo. Localização: [[_wiki/morvgrad\|Morvgrad]] (declarado herege por [[_wiki/arothistar\|Arothistar]]).
+[[_wiki/shadar\|Shadar]] ancião. Clérigo grão-mestre e líder espiritual do [[_wiki/culto_sombrio\|Culto Sombrio]]. Líder das casas gêmeas: a eparquia de [[_wiki/xarn_zareth\|Xarn'Zareth]] na cidadela subterrânea de [[_wiki/ghilanna\|Ghilanna]] e a eparquia [[_wiki/xarn_aroth\|Xarn'Aroth]] na região sagrada de [[_wiki/morvgrad\|Morvgrad]]. Autor do Codex que rege a [[_wiki/alianca_subterranea\|Aliança]]: escreveu as leis que outros agora recitam. Arquiteto da [[_wiki/alianca_subterranea\|Aliança Subterrânea]] entre [[_wiki/shadar\|shadars]] e [[_wiki/drul\|druls]]. Unificou templos diabólicos dispersos no [[_wiki/culto_sombrio\|Culto Sombrio]]. Possivelmente divinizado (status incerto). Status: vivo. Localização: [[_wiki/morvgrad\|Morvgrad]] (declarado herege por [[_wiki/arothistar\|Arothistar]]).
 
 ### Papel Narrativo
 
@@ -13,7 +13,7 @@ Não se pronunciou quando [[_wiki/arothistar\|Arothistar]] tomou poder. Décadas
 
 ### Padrões de Voz
 
-Peso de séculos em cada enunciado. Questiona mais do que declara — mas as perguntas têm peso de veredito.
+Peso de séculos em cada enunciado. Questiona mais do que declara; mas as perguntas têm peso de veredito.
 
 **Tom característico:** Quem fundou a [[_wiki/lex_obscura_decreto\|Lex Obscura]] fala com ela, não sobre ela.
 
@@ -21,6 +21,6 @@ Peso de séculos em cada enunciado. Questiona mais do que declara — mas as per
 
 **[[_wiki/arothistar\|Arothistar]] (arquiteto vs. herdeiro):** Escreveu as leis e o Codex que [[_wiki/arothistar\|Arothistar]] habita. Convoca [[_wiki/velmorain\|Velmorain]] para precipitar a queda do monarca.
 
-**[[_wiki/milorsevogh_velshard\|Milorsevogh]] (questionamento):** Pergunta a [[_wiki/milorsevogh_velshard\|Milor]] sobre sua identidade — o momento em que [[_wiki/milorsevogh_velshard\|Milor]] é visto antes de ver.
+**[[_wiki/milorsevogh_velshard\|Milorsevogh]] (questionamento):** Pergunta a [[_wiki/milorsevogh_velshard\|Milor]] sobre sua identidade: o momento em que [[_wiki/milorsevogh_velshard\|Milor]] é visto antes de ver.
 
 **[[_wiki/jaakurs\|Jaakurs]] (jogo de espelhos):** [[_wiki/jaakurs\|Jaakurs]] exclui Xarn por proteção. Xarn sabe. Xarn não informa [[_wiki/jaakurs\|Jaakurs]]. Triangulação de conhecimento.

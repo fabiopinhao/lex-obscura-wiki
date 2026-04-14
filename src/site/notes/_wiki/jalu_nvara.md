@@ -13,10 +13,10 @@
 
 ### Padrões de Voz
 
-Silêncio como resposta principal. Quando fala, é para recusar — a palavra como último território de autonomia.
+Silêncio como resposta principal. Quando fala, é para recusar: a palavra como último território de autonomia.
 
 ### Relações-Chave
 
 **[[_wiki/orum-rahru\|Orum-Rahru]] (interrogador / necessidade):** [[_wiki/orum-rahru\|Orum]] quer o que ele guarda. Jalú'Nvara recusa.
 
-**[[_wiki/draven-thol\|Draven-Thol]] (interrogou-o anteriormente):** Já passou por interrogatório antes — é veterano de recusas.
+**[[_wiki/draven-thol\|Draven-Thol]] (interrogou-o anteriormente):** Já passou por interrogatório antes: é veterano de recusas.

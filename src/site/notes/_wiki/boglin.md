@@ -15,7 +15,7 @@ Pele coriácea em tons pardos, oliváceos ou acinzentados. Olhos menores e mais 
 
 ### Telepatia Limitada
 
-Boglins compartilham a capacidade telepática ranidana, mas em grau atenuado. O alcance é curto — funcional dentro do mesmo corpo de água, impreciso além dele. As projeções são vagas, mais próximas de impressões emocionais do que das imagens sensoriais nítidas que os [[_wiki/saag\|saags]] transmitem. [[_wiki/frenim\|Frenims]] descrevem a telepatia boglin como "ouvir alguém falar debaixo d'água": a intenção chega, as nuances se perdem.
+Boglins compartilham a capacidade telepática ranidana, mas em grau atenuado. O alcance é curto: funcional dentro do mesmo corpo de água, impreciso além dele. As projeções são vagas, mais próximas de impressões emocionais do que das imagens sensoriais nítidas que os [[_wiki/saag\|saags]] transmitem. [[_wiki/frenim\|Frenims]] descrevem a telepatia boglin como "ouvir alguém falar debaixo d'água": a intenção chega, as nuances se perdem.
 
 A limitação reforça o isolamento. Boglins operam em raio reduzido, vinculados ao entorno imediato. Não servem como intermediários de longa distância, o que os exclui da função de ponte entre [[_wiki/frenim\|frenims]] e [[_wiki/undine\|undines]] que define a utilidade dos [[_wiki/saag\|saags]].
 

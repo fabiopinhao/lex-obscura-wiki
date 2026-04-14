@@ -5,7 +5,7 @@
 
 ### Fisiologia
 
-Humanos [[_wiki/siderais\|siderais]] de [[_wiki/neranthis\|Neranthis]]. Pele pálido-esverdeada, olhos de fendas vermelhas líquidas (descrição de [[_wiki/lorvaq_val_kir\|Lorvaq]]). Constituição esguia, adaptada ao clima úmido e pantanoso de seu continente. Longevidade de aproximadamente 96-100 anos (modificador +20-25%), equivalente à de humanos comuns, embora seu estilo de vida contemplativo e a proximidade com o [[_wiki/plano_etereo\|Plano Etéreo]] sugiram uma vitalidade diferente — menos robusta, mais permeável ao sobrenatural. Cor arcana azul. Afinidade natural com magia sideral, canalizada através dos deuses do [[_wiki/plano_etereo\|Plano Etéreo]].
+Humanos [[_wiki/siderais\|siderais]] de [[_wiki/neranthis\|Neranthis]]. Pele pálido-esverdeada, olhos de fendas vermelhas líquidas (descrição de [[_wiki/lorvaq_val_kir\|Lorvaq]]). Constituição esguia, adaptada ao clima úmido e pantanoso de seu continente. Longevidade de aproximadamente 96-100 anos (modificador +20-25%), equivalente à de humanos comuns, embora seu estilo de vida contemplativo e a proximidade com o [[_wiki/plano_etereo\|Plano Etéreo]] sugiram uma vitalidade diferente: menos robusta, mais permeável ao sobrenatural. Cor arcana azul. Afinidade natural com magia sideral, canalizada através dos deuses do [[_wiki/plano_etereo\|Plano Etéreo]].
 
 ### Origem
 
@@ -23,7 +23,7 @@ Habitam [[_wiki/neranthis\|Neranthis]], continente a leste de [[_wiki/reinkard\|
 
 Frenims são o grupo dominante entre as raças azuis ([[_wiki/undine\|undines]] e [[_wiki/ranidano\|ranidanos]] completam o trio), exercendo liderança política e arcana sobre o continente. Sua relação com os deuses [[_wiki/siderais\|siderais]] (Mysthar, Zephyrion, Aestron) confere-lhes acesso a formas de magia distintas das praticadas em [[_wiki/reinkard\|Reinkard]]. O sistema de acesso mágico é o [[_wiki/meditatio_aetheris\|Meditatio Aetheris]], baseado na meditação e na expansão da consciência para o [[_wiki/plano_etereo\|Plano Etéreo]], dispensando pactos sombrios ou devoção a [[_wiki/diabos\|deuses da sombra]].
 
-A capacidade de transitar entre planos marca profundamente a cultura frenim. São um povo que vê o mundo material como metade da realidade, e essa dupla percepção os torna simultaneamente sábios e distantes, capazes de enxergar padrões que outras raças ignoram, mas também propensos a uma certa indiferença diante de urgências puramente terrenas. Para um frenim, a guerra que devasta um continente é um evento no plano material — real, mas não completo, não definitivo.
+A capacidade de transitar entre planos marca profundamente a cultura frenim. São um povo que vê o mundo material como metade da realidade, e essa dupla percepção os torna simultaneamente sábios e distantes, capazes de enxergar padrões que outras raças ignoram, mas também propensos a uma certa indiferença diante de urgências puramente terrenas. Para um frenim, a guerra que devasta um continente é um evento no plano material: real, mas não completo, não definitivo.
 
 ### Relação com os [[_wiki/undine\|Undines]]
 

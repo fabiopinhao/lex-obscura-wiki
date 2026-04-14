@@ -3,7 +3,7 @@
 ---
 
 
-**Pelagic** — Impossível de transcrever com precisão. Harmônicos sobrepostos, sílabas que parecem vibrar em duas frequências simultâneas. Sem pausas entre palavras: o discurso Pelagic é fluxo contínuo, como corrente sem margem. Mortais que tentam reproduzi-lo descrevem a experiência como "falar enquanto se afoga gentilmente".
+**Pelagic**: Impossível de transcrever com precisão. Harmônicos sobrepostos, sílabas que parecem vibrar em duas frequências simultâneas. Sem pausas entre palavras: o discurso Pelagic é fluxo contínuo, como corrente sem margem. Mortais que tentam reproduzi-lo descrevem a experiência como "falar enquanto se afoga gentilmente".
 
 Inspiração sonora: nenhuma língua mortal serve como referência adequada. O mais próximo seria canto de baleias com estrutura silábica.
 

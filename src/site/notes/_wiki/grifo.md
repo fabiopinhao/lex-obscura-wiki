@@ -5,7 +5,7 @@
 
 ### Natureza
 
-Montaria nobre de guerra e prestígio. Corpo de leão, asas e cabeça de águia. Domesticados por gerações de criadores humanos e álvarars. Grifos não são criaturas imperiais — serviram como montarias dos exércitos humanos e álvarars durante as Guerras Reinkárdicas contra os shadars. Shadars não usam grifos.
+Montaria nobre de guerra e prestígio. Corpo de leão, asas e cabeça de águia. Domesticados por gerações de criadores humanos e álvarars. Grifos não são criaturas imperiais; serviram como montarias dos exércitos humanos e álvarars durante as Guerras Reinkárdicas contra os shadars. Shadars não usam grifos.
 
 ### Uso
 

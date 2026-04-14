@@ -3,7 +3,7 @@
 ---
 
 
-**Luminar** — Vogais longas e ditongos luminosos. Consoantes suaves, predominância de líquidas (*l*, *r* vibrante) e nasais. Sílabas abertas, ritmo musical com tendência a frases que sobem em escala tonal. Evoca canção sem ser cantada. Palavras-exemplo: *Aelindra* (aurora), *Thal'vérien* (guardião do bosque), *Isilmathé* (luz eterna).
+**Luminar**: Vogais longas e ditongos luminosos. Consoantes suaves, predominância de líquidas (*l*, *r* vibrante) e nasais. Sílabas abertas, ritmo musical com tendência a frases que sobem em escala tonal. Evoca canção sem ser cantada. Palavras-exemplo: *Aelindra* (aurora), *Thal'vérien* (guardião do bosque), *Isilmathé* (luz eterna).
 
 Sensação auditiva: como uma harpa tangida sob a água. Belo mas distante, com uma frieza cristalina que lembra que seus falantes foram genocidas tanto quanto artistas.
 

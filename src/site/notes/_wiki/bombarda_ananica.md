@@ -9,7 +9,7 @@ Arma de fogo híbrida desenvolvida nas forjas de [[_wiki/thandruk_varn\|Thandruk
 
 **Construção:**
 
-Cano forjado em aço negro temperado — liga exclusiva que combina ferro das minas profundas com fragmentos de obsidiana vulcânica. O material possui afinidade natural com encantamentos, permitindo que runas gravadas mantenham potência por períodos prolongados. Câmara de combustão alimentada por cristais de [[_wiki/magi\|magi]] comprimido: fragmentos cristalizados de energia alquímica que liberam explosão controlada ao serem ativados por centelha rúnica. Runas de ignição em espiral ao longo do cano canalizam o [[_wiki/magi\|magi]], estabilizam a explosão e permitem modulação da potência. Um operador experiente ajusta a força do disparo conforme a situação.
+Cano forjado em aço negro temperado, liga exclusiva que combina ferro das minas profundas com fragmentos de obsidiana vulcânica. O material possui afinidade natural com encantamentos, permitindo que runas gravadas mantenham potência por períodos prolongados. Câmara de combustão alimentada por cristais de [[_wiki/magi\|magi]] comprimido: fragmentos cristalizados de energia alquímica que liberam explosão controlada ao serem ativados por centelha rúnica. Runas de ignição em espiral ao longo do cano canalizam o [[_wiki/magi\|magi]], estabilizam a explosão e permitem modulação da potência. Um operador experiente ajusta a força do disparo conforme a situação.
 
 **Tipos de Munição:**
 

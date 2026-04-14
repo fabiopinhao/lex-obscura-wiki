@@ -9,7 +9,7 @@
 
 ### Papel Narrativo
 
-Fez acordo secreto com [[_wiki/arothistar\|Arothistar]] para transformar [[_wiki/neranthis\|Neranthis]] (ou parte) em estado vassalo do [[_wiki/imperio_sombrio\|Império]]. Calculava ser o "número 2" no continente — [[_wiki/shadar\|shadars]] não habitariam terras úmidas; ele seria elo indispensável.
+Fez acordo secreto com [[_wiki/arothistar\|Arothistar]] para transformar [[_wiki/neranthis\|Neranthis]] (ou parte) em estado vassalo do [[_wiki/imperio_sombrio\|Império]]. Calculava ser o "número 2" no continente: [[_wiki/shadar\|shadars]] não habitariam terras úmidas; ele seria elo indispensável.
 
 ### Padrões de Voz
 

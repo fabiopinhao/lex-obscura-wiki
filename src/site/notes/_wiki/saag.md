@@ -9,7 +9,7 @@ Subgrupo de porte grande dos [[_wiki/ranidano\|ranidanos]], descendente da linha
 
 ### Fisiologia
 
-Altura de 1,90m a 2,40m eretos, embora a postura natural raramente seja totalmente ereta. Porte comparável ao de [[_wiki/draconideo\|draconídeos]] em massa, porém distribuído de forma distinta — mais largos proporcionalmente: o tronco é achatado e massivo, sem separação clara entre cabeça e ombros. A cabeça funde-se com o corpo numa massa contínua de músculo e cartilagem. Boca desproporcional, capaz de se abrir além do que qualquer humano consideraria possível. Olhos com pupilas horizontais que captam movimento periférico com eficiência predatória. Nas trevas, refletem luz como discos de cobre polido.
+Altura de 1,90m a 2,40m eretos, embora a postura natural raramente seja totalmente ereta. Porte comparável ao de [[_wiki/draconideo\|draconídeos]] em massa, porém distribuído de forma distinta, mais largos proporcionalmente: o tronco é achatado e massivo, sem separação clara entre cabeça e ombros. A cabeça funde-se com o corpo numa massa contínua de músculo e cartilagem. Boca desproporcional, capaz de se abrir além do que qualquer humano consideraria possível. Olhos com pupilas horizontais que captam movimento periférico com eficiência predatória. Nas trevas, refletem luz como discos de cobre polido.
 
 Pele em tons que variam entre verde-musgo, pardo-lodoso e cinza-pantanoso, com manchas irregulares mais escuras que funcionam como camuflagem natural.
 
@@ -17,13 +17,13 @@ Membros posteriores massivos e desproporcionais, adaptados a saltos explosivos e
 
 ### Psicologia
 
-Paciência é a virtude cardinal. Saags pensam em estações, não em dias. A imobilidade não é preguiça nem apatia: é método. Um saag que permanece horas na mesma posição está processando — som, vibração, cheiro, pressão atmosférica, variações no nível da água. Quando se move, a decisão já foi tomada muito antes do movimento.
+Paciência é a virtude cardinal. Saags pensam em estações, não em dias. A imobilidade não é preguiça nem apatia: é método. Um saag que permanece horas na mesma posição está processando: som, vibração, cheiro, pressão atmosférica, variações no nível da água. Quando se move, a decisão já foi tomada muito antes do movimento.
 
 A percepção temporal distendida explica a dificuldade de comunicação com raças mais rápidas. Qualquer raça mais rápida que os encontrasse interpretaria a lentidão saag como estupidez. [[_wiki/frenim\|Frenims]], que acessam a mente saag por telepatia, sabem que a lentidão contém mais informação comprimida do que a velocidade. Um saag que não reagiu a uma provocação não a ignorou: está decidindo se vale a pena reagir, e se decidir que vale, a reação virá com uma força que o provocador não antecipou.
 
 ### Estrutura Social
 
-A unidade social básica é o charco — o corpo de água permanente ao redor do qual a comunidade se organiza. Perder o charco é perder a comunidade. Secas forçam migrações que dissolvem laços; enchentes criam charcos novos que atraem saags dispersos. A geografia dita a política mais do que qualquer decisão consciente.
+A unidade social básica é o charco: o corpo de água permanente ao redor do qual a comunidade se organiza. Perder o charco é perder a comunidade. Secas forçam migrações que dissolvem laços; enchentes criam charcos novos que atraem saags dispersos. A geografia dita a política mais do que qualquer decisão consciente.
 
 ### Relação com o [[_wiki/imperio_sombrio\|Império]]
 
@@ -40,9 +40,9 @@ Saags não falam com outras raças, salvo por telepatia. Quando a narrativa prec
 **Padrões de escrita:**
 - Descrições sensoriais úmidas: "pressão", "superfície", "nível", "corrente", "profundidade". O vocabulário orbita água e terra.
 - Imobilidade como ação. Descrever o que o saag percebe parado é mais revelador que descrever o que faz em movimento. O mundo vem ao saag, não o contrário.
-- Silêncio como caracterização. [[_wiki/babua\|Babua]] não fala nas cenas do Livro I. Sua presença é descrita por outros: [[_wiki/lorvaq_val_kir\|Lorvaq]] explica, o mestre da torre questiona. O saag é o objeto da conversa, nunca o sujeito. Quando a narrativa adotar o ponto de vista de um saag, o interior deve ser rico e lento — camadas de percepção sobrepostas, processadas em paralelo, sem pressa de conclusão.
+- Silêncio como caracterização. [[_wiki/babua\|Babua]] não fala nas cenas do Livro I. Sua presença é descrita por outros: [[_wiki/lorvaq_val_kir\|Lorvaq]] explica, o mestre da torre questiona. O saag é o objeto da conversa, nunca o sujeito. Quando a narrativa adotar o ponto de vista de um saag, o interior deve ser rico e lento: camadas de percepção sobrepostas, processadas em paralelo, sem pressa de conclusão.
 - Telepatia como corrente. A projeção mental não é diálogo: é maré. Avança, recua, deposita informação e retira-se. O receptor sente a comunicação como variação de pressão.
 
 **Exemplo (telepatia com [[_wiki/frenim\|frenim]]):**
-*A imagem chegou como névoa sobre água parada: uma forma alada, distante, cruzando o vale. Tamanho. Velocidade. Direção. A urgência subjacente não precisava de palavra — era o aperto que antecede a tempestade, quando o ar muda de peso e os insetos silenciam.*
+*A imagem chegou como névoa sobre água parada: uma forma alada, distante, cruzando o vale. Tamanho. Velocidade. Direção. A urgência subjacente não precisava de palavra: era o aperto que antecede a tempestade, quando o ar muda de peso e os insetos silenciam.*
 

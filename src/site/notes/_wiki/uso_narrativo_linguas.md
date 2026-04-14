@@ -31,7 +31,7 @@ A **fonologia deve ser respeitada** na criação de novas invocações. [[_wiki/
 
 Sotaques são ferramenta de caracterização. O [[_wiki/reinkardico\|Reinkárdico]] é língua nativa fluente de humanos ([[_wiki/pindoriar\|pindoriares]]), [[_wiki/shadar\|shadars]] e [[_wiki/alvarar\|álvarars]]; entre esses três grupos, a variação de sotaque é mais regional do que racial. As diferenças significativas aparecem nas raças que aprenderam [[_wiki/reinkardico\|Reinkárdico]] como segunda língua:
 
-**[[_wiki/drul\|Druls]]** em [[_wiki/reinkardico\|Reinkárdico]]: fluentes, mas com sotaque identificável. Sibilantes excessivas, tendência a inverter ordem sujeito-verbo (influência do [[_wiki/gholvyss\|Gholvyss]]), dificuldade com vogais abertas. [[_wiki/syndrith_morghast\|Syndrith]], por treinamento de elite, suprime quase todo sotaque — mas ele escapa em momentos de estresse.
+**[[_wiki/drul\|Druls]]** em [[_wiki/reinkardico\|Reinkárdico]]: fluentes, mas com sotaque identificável. Sibilantes excessivas, tendência a inverter ordem sujeito-verbo (influência do [[_wiki/gholvyss\|Gholvyss]]), dificuldade com vogais abertas. [[_wiki/syndrith_morghast\|Syndrith]], por treinamento de elite, suprime quase todo sotaque, mas ele escapa em momentos de estresse.
 
 **[[_wiki/orc\|Orcs]]** em [[_wiki/reinkardico\|Reinkárdico]]: variável por patente. Capitães e veteranos como [[_wiki/grothar\|Grothar]] falam [[_wiki/reinkardico\|Reinkárdico]] funcional, competente mas nunca elegante. Guardas e recrutas como [[_wiki/grub\|Grub]] e [[_wiki/mur\|Mur]] operam com o mínimo: vocabulário limitado, frases curtas, omissão de artigos e preposições.
 

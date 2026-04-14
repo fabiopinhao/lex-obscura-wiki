@@ -13,13 +13,13 @@ Filosofia: "Rato bom volta vivo. Rato morto não compra." [[_wiki/gnoll\|Gnoll]]
 
 Terceira pessoa do singular para si mesmo. Entusiasmo bruto e direto. A violência é prazer declarado, não vergonha disfarçada.
 
-**Amostra 1** (ao avistar barraca de [[_wiki/dribbel_olgund\|Dribbel]]): *"[[_wiki/dribbel_olgund\|Dribbel Olgund]], o [[_wiki/dribbel_olgund\|Quebra-Trocas]], meu patrão!"* — orgulho genuíno de ter patrão.
+**Amostra 1** (ao avistar barraca de [[_wiki/dribbel_olgund\|Dribbel]]): *"[[_wiki/dribbel_olgund\|Dribbel Olgund]], o [[_wiki/dribbel_olgund\|Quebra-Trocas]], meu patrão!"*: orgulho genuíno de ter patrão.
 
 **Amostra 2** (sobre destruição): *"Boom..."* saboreando antecipação antes do golpe.
 
-**Amostra 3** (contagem de ossos): *"Garrón conta: um osso, dois ossos, MUITOS OSSOS!"* — aritmética que serve como diário de batalha.
+**Amostra 3** (contagem de ossos): *"Garrón conta: um osso, dois ossos, MUITOS OSSOS!"*: aritmética que serve como diário de batalha.
 
-**Amostra 4** (após recuperar toca): *"Garrón não quis... Mentira! Garrón quis sim!"* — honestidade brutal sobre prazer na violência.
+**Amostra 4** (após recuperar toca): *"Garrón não quis... Mentira! Garrón quis sim!"*: honestidade brutal sobre prazer na violência.
 
 ### Relações-Chave
 
@@ -27,4 +27,4 @@ Terceira pessoa do singular para si mesmo. Entusiasmo bruto e direto. A violênc
 
 **[[_wiki/tibaut\|Tibaut]] (primo):** Mediador entre Garrón e o mundo mais sutil.
 
-**[[_wiki/babua\|Babua]] ("demônio vestido de sapo"):** Responsável pela segunda perda da toca — rancor duradouro.
+**[[_wiki/babua\|Babua]] ("demônio vestido de sapo"):** Responsável pela segunda perda da toca: rancor duradouro.

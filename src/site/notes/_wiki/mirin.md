@@ -9,7 +9,7 @@ Sylvana. Ranger de dezesseis verões. Cabelo cobre escuro. Armadura de casca-viv
 
 ### Papel Narrativo
 
-Impulsiva mas competente. Devastada pela captura de [[_wiki/gaelwyn\|Gael]]. Nova geração de resistentes de [[_wiki/thal_serin\|Thal'Serin]]. Relatou ao grupo que "as árvores sussurram quando [[_wiki/gaelwyn\|Gael]] passa e que as raízes recuam de sua presença" — detectou a marca [[_wiki/shadar\|shadar]] nele antes de qualquer confirmação. Acompanhou [[_wiki/calel\|Calel]] até fronteira da floresta ao entregar mensagem.
+Impulsiva mas competente. Devastada pela captura de [[_wiki/gaelwyn\|Gael]]. Nova geração de resistentes de [[_wiki/thal_serin\|Thal'Serin]]. Relatou ao grupo que "as árvores sussurram quando [[_wiki/gaelwyn\|Gael]] passa e que as raízes recuam de sua presença": detectou a marca [[_wiki/shadar\|shadar]] nele antes de qualquer confirmação. Acompanhou [[_wiki/calel\|Calel]] até fronteira da floresta ao entregar mensagem.
 
 ### Padrões de Voz
 

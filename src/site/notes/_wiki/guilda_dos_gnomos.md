@@ -5,17 +5,17 @@
 
 ### O Mercado Negro de [[_wiki/morvgrad\|Morvgrad]]
 
-Estrutura semi-oficializada pelo [[_wiki/culto_sombrio\|culto sombrio]], localizada nas partes oestes de [[_wiki/morvgrad\|Morvgrad]] — fendas urbanas disfarçadas de ruínas, catacumbas e ruelas interditadas. Funciona dia e noite, mas atinge seu auge nas noites sem lua.
+Estrutura semi-oficializada pelo [[_wiki/culto_sombrio\|culto sombrio]], localizada nas partes oestes de [[_wiki/morvgrad\|Morvgrad]], fendas urbanas disfarçadas de ruínas, catacumbas e ruelas interditadas. Funciona dia e noite, mas atinge seu auge nas noites sem lua.
 
 **Comércio:** Poções proibidas, grimórios corrompidos, cadáveres frescos, ingredientes mágicos, artefatos selados, escravos de toda natureza. Ali, até horrores têm preço.
 
-**Tolerância do Culto:** O culto tolera o mercado negro por pragmatismo — embora ilegal em teoria, ele abastece a elite sombria com itens que nem mesmo os [[_wiki/shadar\|Shadars]] conseguem produzir em escala. Para manter essa relação, os gnomos pagam tributos, oferecem favores e mantêm informantes infiltrados em todas as castas do [[_wiki/imperio_sombrio\|império]].
+**Tolerância do Culto:** O culto tolera o mercado negro por pragmatismo, embora ilegal em teoria, ele abastece a elite sombria com itens que nem mesmo os [[_wiki/shadar\|Shadars]] conseguem produzir em escala. Para manter essa relação, os gnomos pagam tributos, oferecem favores e mantêm informantes infiltrados em todas as castas do [[_wiki/imperio_sombrio\|império]].
 
 ### Gnomos das Profundezas
 
-Vivem nos níveis mais baixos do [[_wiki/vor-ghol\|Vor-Ghol]], onde a luz não alcança e o musgo brilha com radiação arcana. Pele pálida, olhos adaptados à penumbra, estatura menor que gnomos de superfície. Engenhosos, desconfiados, especializados em manipular, trapacear e negociar — quase sempre com lucro.
+Vivem nos níveis mais baixos do [[_wiki/vor-ghol\|Vor-Ghol]], onde a luz não alcança e o musgo brilha com radiação arcana. Pele pálida, olhos adaptados à penumbra, estatura menor que gnomos de superfície. Engenhosos, desconfiados, especializados em manipular, trapacear e negociar, quase sempre com lucro.
 
-**Organização:** Famílias vivem em "tocas-cambistas" — mistura de entreposto, cofre e casa de câmbio. Administram rotas de suprimento entre [[_wiki/vor-ghol\|Vor-Ghol]] e superfície, falsificam documentos, corrompem patrulhas e distribuem códigos secretos entre aliados. Mestres da barganha e criadores de artefatos pequenos, letais e discretos.
+**Organização:** Famílias vivem em "tocas-cambistas" : mistura de entreposto, cofre e casa de câmbio. Administram rotas de suprimento entre [[_wiki/vor-ghol\|Vor-Ghol]] e superfície, falsificam documentos, corrompem patrulhas e distribuem códigos secretos entre aliados. Mestres da barganha e criadores de artefatos pequenos, letais e discretos.
 
 ### O [[_wiki/dribbel_olgund\|Quebra-Trocas]]
 
@@ -25,7 +25,7 @@ Título honorário dado ao gnomo mais influente da rede subterrânea de [[_wiki/
 - Líder mercantil
 - Executor denunciador de quem quebra acordos
 
-**Titular atual:** [[_wiki/dribbel_olgund\|Dribbel Olgund]] — gnomo tagarela, ardiloso, teatral e perigosamente eficaz. Espertalhão com sorriso fácil, sempre acompanhado de guarda-costas incomum (atualmente [[_wiki/fandegarron\|Fandegarrón]]). Opera a Guilda dos Gnomos do [[_wiki/mercado_oeste\|Mercado Oeste]].
+**Titular atual:** [[_wiki/dribbel_olgund\|Dribbel Olgund]]: gnomo tagarela, ardiloso, teatral e perigosamente eficaz. Espertalhão com sorriso fácil, sempre acompanhado de guarda-costas incomum (atualmente [[_wiki/fandegarron\|Fandegarrón]]). Opera a Guilda dos Gnomos do [[_wiki/mercado_oeste\|Mercado Oeste]].
 
 ### Dinâmica com o Culto
 

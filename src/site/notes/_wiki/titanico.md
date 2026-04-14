@@ -3,7 +3,7 @@
 ---
 
 
-**Titânico** — Sons orgânicos: vibrantes rascantes (*rr*), fricativas labiais suaves (*f*, *v*, *w*), nasais ressonantes (*m*, *n*, *ng*). Incorpora pausas significativas: silêncios que fazem parte da gramática, como espaços entre raízes. Ritmo lento, deliberado, com ênfase na última sílaba de cada frase (como se a terra respondesse com um eco).
+**Titânico**: Sons orgânicos: vibrantes rascantes (*rr*), fricativas labiais suaves (*f*, *v*, *w*), nasais ressonantes (*m*, *n*, *ng*). Incorpora pausas significativas: silêncios que fazem parte da gramática, como espaços entre raízes. Ritmo lento, deliberado, com ênfase na última sílaba de cada frase (como se a terra respondesse com um eco).
 
 Sensação auditiva: finlandês com cadência galesa. Palavras que parecem crescer do chão. Quem ouve fragmentos de Titânico reconstruídos por druidas relata não tanto um som quanto uma pressão: a sensação de que algo imenso se acomodou por perto.
 

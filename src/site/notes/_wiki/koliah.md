@@ -11,13 +11,13 @@ Humana. Filha do [[_wiki/abramis\|padre Abramis]]. Líder influente entre rebeld
 
 Estrategista que fala para agir, não para impressionar. Direta quando necessário; evasiva quando útil.
 
-**Amostra 1** (ao grupo rebelde sobre a situação): *"Ele sabe sobre nós. E nos deu escolha: submissão ou aniquilação."* — diagnóstico sem drama.
+**Amostra 1** (ao grupo rebelde sobre a situação): *"Ele sabe sobre nós. E nos deu escolha: submissão ou aniquilação."*: diagnóstico sem drama.
 
-**Amostra 2** (sobre verdade incômoda): *"Precisamos encarar a verdade."* — interrompendo [[_wiki/abramis\|Abramis]].
+**Amostra 2** (sobre verdade incômoda): *"Precisamos encarar a verdade."*: interrompendo [[_wiki/abramis\|Abramis]].
 
-**Amostra 3** (ao [[_wiki/gaelwyn\|Gaelwyn]]): *"Você honrou sua deusa. Escolheu preservar vida mesmo cercado por sombras."* — reconhecimento sem romantismo.
+**Amostra 3** (ao [[_wiki/gaelwyn\|Gaelwyn]]): *"Você honrou sua deusa. Escolheu preservar vida mesmo cercado por sombras."*: reconhecimento sem romantismo.
 
-**Amostra 4** (ao grupo, sobre esperança): *"É por isso que preservamos esperança."* — afirmação que é também ordem.
+**Amostra 4** (ao grupo, sobre esperança): *"É por isso que preservamos esperança."*: afirmação que é também ordem.
 
 ### Relações-Chave
 
@@ -25,6 +25,6 @@ Estrategista que fala para agir, não para impressionar. Direta quando necessár
 
 **[[_wiki/gaelwyn\|Gaelwyn]] (amante):** Amor que sobrevive ao trauma mútuo e à coerção imperial.
 
-**[[_wiki/maraxus\|Maraxus]] (trauma):** Sofreu nas mãos dele quando jovem. Capturou-o na batalha final — inversão de poder.
+**[[_wiki/maraxus\|Maraxus]] (trauma):** Sofreu nas mãos dele quando jovem. Capturou-o na batalha final: inversão de poder.
 
 **[[_wiki/levi\|Levi]] (aprendiz escolhido):** Algo sobrenatural desperta em [[_wiki/levi\|Levi]]; Koliah reconhece e escolhe moldá-lo.

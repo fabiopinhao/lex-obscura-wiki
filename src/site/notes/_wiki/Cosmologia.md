@@ -159,7 +159,3 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 - [[_wiki/lyldraeth\|Lyldraeth]] — Prece Ululante *(The Howling Prayer)* — Banshee sacrílega cujo lamento é simultaneamente prece e profanação; quem a ouve não sabe se foi abençoado ou amaldiçoado
 
 - [[_wiki/myralune\|Myralune]] — Maré Dormente *(The Dormant Tide)* — Leviatã dormitante de natureza dual entre sideral e titã; seu sono governa marés e correntes que obedecem ao ritmo de um sonho que ninguém ousa interromper
-
-### Semi-Deus
-
-- [[_wiki/arothistar\|Arothistar]] — O Semi-Deus — Único ser mortal com três pactos simultâneos: Malagoth, Velmorain e Kaelgrym; ponte entre a esfera diabólica e a demoníaca, sustentou o império inteiro sobre o fio de um equilíbrio que nenhum outro corpo poderia suportar

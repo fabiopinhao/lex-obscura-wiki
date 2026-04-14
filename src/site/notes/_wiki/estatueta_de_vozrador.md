@@ -9,11 +9,11 @@ Estatueta de obsidiana entregue por [[_wiki/nyx_ara\|Nyx'Ara]] (oráculo da [[_w
 
 **Função Narrativa:**
 
-A estatueta catalisou a transformação de [[_wiki/arothistar\|Dravmir]] em [[_wiki/arothistar\|Arothistar]]. Guiou-o até um pedestal oculto atrás de porta esquecida no porão da capela de [[_wiki/niedellin\|Niedellin]]. As formas da estatueta remetem aos [[_wiki/maleficariums\|Maleficariums]] — códices demonológicos compilados em [[_wiki/therion\|Therion]] durante a [[_wiki/primeira_era\|Primeira Era]]. Aquecia em lugares sagrados, sinalizando proximidade de energia divina residual.
+A estatueta catalisou a transformação de [[_wiki/arothistar\|Dravmir]] em [[_wiki/arothistar\|Arothistar]]. Guiou-o até um pedestal oculto atrás de porta esquecida no porão da capela de [[_wiki/niedellin\|Niedellin]]. As formas da estatueta remetem aos [[_wiki/maleficariums\|Maleficariums]], códices demonológicos compilados em [[_wiki/therion\|Therion]] durante a [[_wiki/primeira_era\|Primeira Era]]. Aquecia em lugares sagrados, sinalizando proximidade de energia divina residual.
 
 **Status Atual:**
 
-[[_wiki/abramis\|Abramis]] guarda a versão vazia da estatueta — o poder foi drenado durante a transformação de [[_wiki/arothistar\|Dravmir]]. Encontrada acima do altar da capela quando [[_wiki/abramis\|Abramis]] era criança. Apesar de vazia, mantém relevância narrativa: [[_wiki/milorsevogh_velshard\|Milor]] aceita a missão de encontrar [[_wiki/vozrador\|Vozrador]] usando a estatueta como guia/conexão.
+[[_wiki/abramis\|Abramis]] guarda a versão vazia da estatueta: o poder foi drenado durante a transformação de [[_wiki/arothistar\|Dravmir]]. Encontrada acima do altar da capela quando [[_wiki/abramis\|Abramis]] era criança. Apesar de vazia, mantém relevância narrativa: [[_wiki/milorsevogh_velshard\|Milor]] aceita a missão de encontrar [[_wiki/vozrador\|Vozrador]] usando a estatueta como guia/conexão.
 
 **Conexões:**
 

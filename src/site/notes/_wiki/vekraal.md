@@ -9,13 +9,13 @@
 
 ### Papel Narrativo
 
-Ordenou fogo alquímico em [[_wiki/lendalas\|Lendalas]]. Mata general [[_wiki/shadar\|shadar]] "traidor" durante crise. Enviado para matar [[_wiki/xarn\|Xarn]] quando este é declarado herege. Derrotado por [[_wiki/milorsevogh_velshard\|Milor]] após este aceitar pacto com [[_wiki/vozrador\|Vozrador]]. Quase mata [[_wiki/milorsevogh_velshard\|Milor]] em [[_wiki/elenir\|Elenir]]. Avistado em [[_wiki/morvgrad\|Morvgrad]] ao final do Livro I — identificado por [[_wiki/arothistar\|Arothistar]] na praça.
+Ordenou fogo alquímico em [[_wiki/lendalas\|Lendalas]]. Mata general [[_wiki/shadar\|shadar]] "traidor" durante crise. Enviado para matar [[_wiki/xarn\|Xarn]] quando este é declarado herege. Derrotado por [[_wiki/milorsevogh_velshard\|Milor]] após este aceitar pacto com [[_wiki/vozrador\|Vozrador]]. Quase mata [[_wiki/milorsevogh_velshard\|Milor]] em [[_wiki/elenir\|Elenir]]. Avistado em [[_wiki/morvgrad\|Morvgrad]] ao final do Livro I: identificado por [[_wiki/arothistar\|Arothistar]] na praça.
 
 ### Padrões de Voz
 
 Direto e brutal. Demonstrações físicas de poder como argumento. O terror como política declarada, não vergonha encoberta.
 
-**Amostra canônica** (a [[_wiki/nidzina_avaroth\|Nidzina]] criança, desfazendo sua trança): uso do corpo de [[_wiki/nidzina_avaroth\|Nidzina]] como demonstração de "raízes nobres sob disciplina" — sem uma palavra, o gesto diz tudo.
+**Amostra canônica** (a [[_wiki/nidzina_avaroth\|Nidzina]] criança, desfazendo sua trança): uso do corpo de [[_wiki/nidzina_avaroth\|Nidzina]] como demonstração de "raízes nobres sob disciplina"; sem uma palavra, o gesto diz tudo.
 
 ### Relações-Chave
 

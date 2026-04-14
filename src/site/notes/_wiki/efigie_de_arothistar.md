@@ -3,4 +3,4 @@
 ---
 
 
-Estátua animada na ponte de [[_wiki/mor_severith\|Mor'Severith]]. Olhos de ônix que acendem em prata. Replica a voz do mestre. Vigia tudo entre a ponte e o [[_wiki/pico_de_nethys\|Pico de Nethys]] — funciona como sentinela automatizada e projeção simbólica da onipresença do monarca.
+Estátua animada na ponte de [[_wiki/mor_severith\|Mor'Severith]]. Olhos de ônix que acendem em prata. Replica a voz do mestre. Vigia tudo entre a ponte e o [[_wiki/pico_de_nethys\|Pico de Nethys]], funciona como sentinela automatizada e projeção simbólica da onipresença do monarca.

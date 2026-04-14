@@ -55,7 +55,7 @@
 | [[_wiki/anatho\|Anatho]] (principal) | II–III | Mapeia vulnerabilidades automaticamente; desconfia de afeto |
 | [[_wiki/umbra\|Umbra]] | II | Prefere operar à noite; desconforto com luz forte |
 
-**Perfil:** Usa [[_wiki/teru\|Teru]] — acesso a todas as escolas pretas, mas especialização em [[_wiki/anatho\|Anatho]]. Custos diluídos por sistema generalista. Tendências mistas, nenhuma transformação completa. Funcional para o [[_wiki/imperio_sombrio\|Império]] — por enquanto.
+**Perfil:** Usa [[_wiki/teru\|Teru]]: acesso a todas as escolas pretas, mas especialização em [[_wiki/anatho\|Anatho]]. Custos diluídos por sistema generalista. Tendências mistas, nenhuma transformação completa. Funcional para o [[_wiki/imperio_sombrio\|Império]], por enquanto.
 
 **Risco de descarte:** Baixo. Custos são compatíveis com função de Justiciar.
 
@@ -67,7 +67,7 @@
 |---------|------------------|--------------|
 | [[_wiki/spectro\|Spectro]] (principal) | III | Dúvida frequente sobre o que é real; toca objetos para confirmar |
 
-**Perfil:** Diferente dos [[_wiki/justiciars\|Justiciars]], [[_wiki/ophideias\|Ophideias]] podem usar pactos. [[_wiki/syndrith_morghast\|Syndrith]] é pactuada com [[_wiki/ulravaeth\|Ulravaeth]] ([[_wiki/ulravaeth\|Custódio do Entre]]) — progressão intensificada por especialização profunda. A ilusão está corroendo sua confiança na própria percepção. Serve no [[_wiki/templo_de_azkaroth\|Templo de Azkaroth]].
+**Perfil:** Diferente dos [[_wiki/justiciars\|Justiciars]], [[_wiki/ophideias\|Ophideias]] podem usar pactos. [[_wiki/syndrith_morghast\|Syndrith]] é pactuada com [[_wiki/ulravaeth\|Ulravaeth]] ([[_wiki/ulravaeth\|Custódio do Entre]]): progressão intensificada por especialização profunda. A ilusão está corroendo sua confiança na própria percepção. Serve no [[_wiki/templo_de_azkaroth\|Templo de Azkaroth]].
 
 **Risco de descarte:** Médio. Se chegar ao IV, relatórios tornam-se inúteis. Candidata a Recolhimento como verificadora de ilusões.
 
@@ -80,7 +80,7 @@
 | [[_wiki/nomos\|Nomos]] (principal) | III–IV | Literalismo extremo; desconforto com exceções; lei acima de tudo |
 | [[_wiki/patho\|Patho]] | II–III | Consciência da entropia; melancolia sobre decadência do [[_wiki/imperio_sombrio\|Império]]; peso existencial |
 
-**Perfil:** Usa [[_wiki/teru\|Teru]] como todo Justiciar — custos ontológicos diluídos por acesso generalista. Porém, décadas de serviço (44 anos como Justiciar, antes templário de [[_wiki/vozrador\|Vozrador]]) produziram progressão avançada mesmo com diluição. A combinação de [[_wiki/nomos\|Nomos]] e [[_wiki/patho\|Patho]] cria um homem que vê a lei como única estrutura contra o caos, mas simultaneamente percebe que tudo — incluindo o [[_wiki/imperio_sombrio\|Império]] que serviu — está em declínio inevitável. Funcional porque posição protege e porque custos são compatíveis com função jurídica.
+**Perfil:** Usa [[_wiki/teru\|Teru]] como todo Justiciar: custos ontológicos diluídos por acesso generalista. Porém, décadas de serviço (44 anos como Justiciar, antes templário de [[_wiki/vozrador\|Vozrador]]) produziram progressão avançada mesmo com diluição. A combinação de [[_wiki/nomos\|Nomos]] e [[_wiki/patho\|Patho]] cria um homem que vê a lei como única estrutura contra o caos, mas simultaneamente percebe que tudo (incluindo o [[_wiki/imperio_sombrio\|Império]] que serviu) está em declínio inevitável. Funcional porque posição protege e porque custos são compatíveis com função jurídica.
 
 **Risco de descarte:** Baixo (posição protege). Aos 99 anos, morte natural provável antes de descarte formal.
 

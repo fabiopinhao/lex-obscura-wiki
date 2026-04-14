@@ -5,22 +5,22 @@
 
 ### Natureza Cosmológica
 
-O Plano Etéreo é a interseção entre todos os planos — um entre-espaço que conecta o plano material ([[_wiki/thamakard\|Thamakard]]) aos [[_wiki/planos_divinos\|Planos Divinos]]. Funciona como corredor alquímico universal por onde o [[_wiki/magi\|magi]] circula. Não há hierarquia ontológica entre os planos: são domínios distintos que coexistem.
+O Plano Etéreo é a interseção entre todos os planos: um entre-espaço que conecta o plano material ([[_wiki/thamakard\|Thamakard]]) aos [[_wiki/planos_divinos\|Planos Divinos]]. Funciona como corredor alquímico universal por onde o [[_wiki/magi\|magi]] circula. Não há hierarquia ontológica entre os planos: são domínios distintos que coexistem.
 
-Toda magia interplanária — pactos diabólicos, devoção divina, meditação etérea, simbiose titânica — necessita atravessar o Plano Etéreo. O [[_wiki/canal_magi\|canal magi]] é o feixe de conexão temporária que se forma nesse entre-espaço, ligando entidades extradimensionais a mortais no plano material.
+Toda magia interplanária (pactos diabólicos, devoção divina, meditação etérea, simbiose titânica) necessita atravessar o Plano Etéreo. O [[_wiki/canal_magi\|canal magi]] é o feixe de conexão temporária que se forma nesse entre-espaço, ligando entidades extradimensionais a mortais no plano material.
 
 ### Habitantes
 
-Os [[_wiki/siderais\|Siderais]] ([[_wiki/siderais\|deuses azuis]]) são as únicas entidades divinas que habitam permanentemente o Plano Etéreo. Acredita-se que o próprio Etéreo seja seu plano de existência, não um corredor de passagem como é para as demais entidades. Vagam entre planos conforme seu interesse, sem domínio fixo, o que os torna inaprisionáveis — não há dimensão onde possam ser confinados.
+Os [[_wiki/siderais\|Siderais]] ([[_wiki/siderais\|deuses azuis]]) são as únicas entidades divinas que habitam permanentemente o Plano Etéreo. Acredita-se que o próprio Etéreo seja seu plano de existência, não um corredor de passagem como é para as demais entidades. Vagam entre planos conforme seu interesse, sem domínio fixo, o que os torna inaprisionáveis: não há dimensão onde possam ser confinados.
 
-Os [[_wiki/siderais\|siderais]] são seres de consciência pura ou quase pura: djinns, leviatãs, esfinges, padrões de pensamento, geometrias vivas, conceitos conscientes. Seu interesse por [[_wiki/thamakard\|Thamakard]] não é territorial nem moral, mas intelectual — buscam mentes, não terras.
+Os [[_wiki/siderais\|siderais]] são seres de consciência pura ou quase pura: djinns, leviatãs, esfinges, padrões de pensamento, geometrias vivas, conceitos conscientes. Seu interesse por [[_wiki/thamakard\|Thamakard]] não é territorial nem moral, mas intelectual; buscam mentes, não terras.
 
 ### Interpretações Cosmogônicas
 
 Cada tradição atribui ao Plano Etéreo uma função diferente na estrutura do universo:
 
-- **Versão Verde (druídica):** O Plano Etéreo é o sistema nervoso do organismo vivo que é o universo. Os [[_wiki/siderais\|siderais]] são o pensamento puro — a capacidade do organismo de observar a si mesmo.
-- **Versão Etérea (sideral):** O universo é um padrão matemático. O Plano Etéreo é a variável intermediária entre a solução mais estável (plano material) e as soluções paralelas ([[_wiki/planos_divinos\|Planos Divinos]]). Os [[_wiki/siderais\|siderais]] são metapadrões — funções que analisam funções.
+- **Versão Verde (druídica):** O Plano Etéreo é o sistema nervoso do organismo vivo que é o universo. Os [[_wiki/siderais\|siderais]] são o pensamento puro: a capacidade do organismo de observar a si mesmo.
+- **Versão Etérea (sideral):** O universo é um padrão matemático. O Plano Etéreo é a variável intermediária entre a solução mais estável (plano material) e as soluções paralelas ([[_wiki/planos_divinos\|Planos Divinos]]). Os [[_wiki/siderais\|siderais]] são metapadrões: funções que analisam funções.
 - **Versão Sombria ([[_wiki/shadar\|shadar]]):** Os [[_wiki/siderais\|siderais]] são fragmentos do [[_wiki/vazio\|Vazio]] que escolheram não escolher, vagando entre o [[_wiki/vazio\|Vazio]] e o defeito (a matéria) sem comprometer-se com nenhum.
 
 Nenhuma interpretação é confirmada ou negada pelo sistema canônico.
@@ -29,7 +29,7 @@ Nenhuma interpretação é confirmada ou negada pelo sistema canônico.
 
 O sistema de acesso mágico que opera diretamente sobre o Plano Etéreo é o [[_wiki/meditatio_aetheris\|Meditatio Aetheris]], praticado pelos [[_wiki/frenim\|Frenims]] e [[_wiki/undine\|Undines]] de [[_wiki/neranthis\|Neranthis]]. A sintonização é geralmente passiva, bidirecional apenas para magos poderosos. O treinamento exige décadas de disciplina mental rigorosa: respiração, foco, controle emocional, estudo de filosofia, matemática e padrões universais.
 
-Os [[_wiki/frenim\|frenims]] habitam simultaneamente o mundo material e as bordas do Etéreo — essa dupla percepção é a marca identitária da raça. Os [[_wiki/undine\|undines]] levaram o processo mais longe, renunciando à materialidade em favor da comunhão direta com os [[_wiki/siderais\|siderais]], ao custo de longevidade drasticamente reduzida (40 anos).
+Os [[_wiki/frenim\|frenims]] habitam simultaneamente o mundo material e as bordas do Etéreo: essa dupla percepção é a marca identitária da raça. Os [[_wiki/undine\|undines]] levaram o processo mais longe, renunciando à materialidade em favor da comunhão direta com os [[_wiki/siderais\|siderais]], ao custo de longevidade drasticamente reduzida (40 anos).
 
 Duas escolas de magia manipulam diretamente o Plano Etéreo: [[_wiki/cosmo\|Cosmo]] (UB) e [[_wiki/spectro\|Spectro]] (BU). A escola [[_wiki/spectro\|Spectro]] pode inclusive banir alvos para o Plano Etéreo via o feitiço Limbo.
 
@@ -43,4 +43,4 @@ O Plano Etéreo não é estático. Sua estabilidade pode ser comprometida:
 
 ### Imunidade do [[_wiki/manto_das_sombras\|Manto das Sombras]]
 
-O [[_wiki/manto_das_sombras\|Manto das Sombras]] — fenômeno regional que enfraquece a influência de [[_wiki/anjos\|deuses brancos]] e verdes em [[_wiki/reinkard\|Reinkard]] — não alcança diretamente o Plano Etéreo. Por isso os [[_wiki/siderais\|siderais]] são menos afetados pelo fenômeno: operam numa camada que a energia sombria não penetra. Pela mesma razão, [[_wiki/siderais\|deuses azuis]] são imunes a ataques extraplanares — não há domínio fixo onde possam ser atingidos.
+O [[_wiki/manto_das_sombras\|Manto das Sombras]] (fenômeno regional que enfraquece a influência de [[_wiki/anjos\|deuses brancos]] e verdes em [[_wiki/reinkard\|Reinkard]]) não alcança diretamente o Plano Etéreo. Por isso os [[_wiki/siderais\|siderais]] são menos afetados pelo fenômeno: operam numa camada que a energia sombria não penetra. Pela mesma razão, [[_wiki/siderais\|deuses azuis]] são imunes a ataques extraplanares: não há domínio fixo onde possam ser atingidos.

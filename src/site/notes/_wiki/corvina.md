@@ -5,7 +5,7 @@
 
 ### Perfil
 
-Humana. Madre da [[_wiki/igreja_de_sao_lucian\|Igreja de São Lucian]] em [[_wiki/myrgarde\|Myrgarde]]. Anciã curvada pelo peso de décadas. Sobreviveu à queda de [[_wiki/myrgarde\|Myrgarde]] — poupada por [[_wiki/arothistar\|Arothistar]], que a considerou inofensiva. Curou e observou [[_wiki/arothistar\|Dravmir]] durante algum período da infância dele.
+Humana. Madre da [[_wiki/igreja_de_sao_lucian\|Igreja de São Lucian]] em [[_wiki/myrgarde\|Myrgarde]]. Anciã curvada pelo peso de décadas. Sobreviveu à queda de [[_wiki/myrgarde\|Myrgarde]]: poupada por [[_wiki/arothistar\|Arothistar]], que a considerou inofensiva. Curou e observou [[_wiki/arothistar\|Dravmir]] durante algum período da infância dele.
 
 ### A Chegada de [[_wiki/arothistar\|Dravmir]]
 
@@ -15,13 +15,13 @@ Corvina instalou avó e neto num quarto afastado dos cânticos. Tocou a testa do
 
 ### Papel Narrativo
 
-Observou [[_wiki/arothistar\|Dravmir]] no jogo de [[_wiki/korball\|Korball]] junto com [[_wiki/grimald\|Grimald]], da torre sineira da [[_wiki/igreja_de_sao_lucian\|Igreja de São Lucian]] (seção 5.1) — testemunha da bondade juvenil de [[_wiki/arothistar\|Dravmir]], paralela ao [[_wiki/coveiro-mor\|Coveiro-mor]]. Quando [[_wiki/grimald\|Grimald]] rejeitou [[_wiki/arothistar\|Dravmir]] para treinamento de paladino, Corvina sussurrou ao menino que "rejeição às vezes é proteção" — frase cuja profundidade o leitor só perceberá ao longo da trilogia.
+Observou [[_wiki/arothistar\|Dravmir]] no jogo de [[_wiki/korball\|Korball]] junto com [[_wiki/grimald\|Grimald]], da torre sineira da [[_wiki/igreja_de_sao_lucian\|Igreja de São Lucian]] (seção 5.1): testemunha da bondade juvenil de [[_wiki/arothistar\|Dravmir]], paralela ao [[_wiki/coveiro-mor\|Coveiro-mor]]. Quando [[_wiki/grimald\|Grimald]] rejeitou [[_wiki/arothistar\|Dravmir]] para treinamento de paladino, Corvina sussurrou ao menino que "rejeição às vezes é proteção": frase cuja profundidade o leitor só perceberá ao longo da trilogia.
 
-Reencontrou [[_wiki/arothistar\|Dravmir]] adulto na seção 9.1. O peso de décadas entre os dois encontros transforma Corvina em arquivo vivo da humanidade perdida de [[_wiki/arothistar\|Dravmir]] — a madre que lembra do menino diante do monarca-deus.
+Reencontrou [[_wiki/arothistar\|Dravmir]] adulto na seção 9.1. O peso de décadas entre os dois encontros transforma Corvina em arquivo vivo da humanidade perdida de [[_wiki/arothistar\|Dravmir]]: a madre que lembra do menino diante do monarca-deus.
 
 ### Padrões de Voz
 
-Tom pastoral com cansaço genuíno. Afeto velado — cuida sem proclamar que cuida. A sobrevivência como forma de testemunho.
+Tom pastoral com cansaço genuíno. Afeto velado: cuida sem proclamar que cuida. A sobrevivência como forma de testemunho.
 
 **Amostra canônica** (a [[_wiki/arothistar\|Dravmir]] após rejeição de [[_wiki/grimald\|Grimald]]): *"Rejeição às vezes é proteção."*
 

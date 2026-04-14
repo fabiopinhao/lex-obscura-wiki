@@ -11,10 +11,10 @@
 
 Mais reservado que [[_wiki/mur\|Mur]]. Responde mais que inicia. Preocupações práticas: comida, machados, companheiro.
 
-**Tom:** Literal, sem filtro emocional. A bobalhice é genuína, não performática — o que o torna imprevisível.
+**Tom:** Literal, sem filtro emocional. A bobalhice é genuína, não performática: o que o torna imprevisível.
 
 ### Relações-Chave
 
-**[[_wiki/mur\|Mur]] (inseparável):** Duo de contrabalanço — [[_wiki/mur\|Mur]] tem iniciativa, Grub tem peso.
+**[[_wiki/mur\|Mur]] (inseparável):** Duo de contrabalanço: [[_wiki/mur\|Mur]] tem iniciativa, Grub tem peso.
 
-**[[_wiki/gaelwyn\|Gaelwyn]] (curado por):** Cura élfica sob coerção de [[_wiki/milorsevogh_velshard\|Milor]]. Dívida não reconhecida — Grub não processa obrigações abstratas.
+**[[_wiki/gaelwyn\|Gaelwyn]] (curado por):** Cura élfica sob coerção de [[_wiki/milorsevogh_velshard\|Milor]]. Dívida não reconhecida: Grub não processa obrigações abstratas.
