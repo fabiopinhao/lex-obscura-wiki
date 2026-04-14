@@ -9,9 +9,9 @@ Humanoides ratiformes que habitam os espaços que ninguém mais quer: esgotos, f
 
 ### Origem Cosmogônica
 
-Como todos os humanoides híbridos, os muranos remontam às [[_wiki/guerras_raciais\|Guerras Raciais]], quando entidades diabólicas cruzaram humanos e animais para produzir soldados alinhados às cores arcanas. Os muranos carregam cor preta, e sua gênese está ligada aos experimentos subterrâneos de [[panteao/warguleth\|Wargûleth]], o Cão Abissal, nas cavernas primordiais do que viria a ser [[_wiki/vor-ghol\|Vor-Ghol]].
+Como todos os humanoides híbridos, os muranos remontam às [[_wiki/guerras_raciais\|Guerras Raciais]], quando entidades diabólicas cruzaram humanos e animais para produzir soldados alinhados às cores arcanas. Os muranos carregam cor preta, e sua gênese está ligada aos experimentos subterrâneos de [[_wiki/warguleth\|Wargûleth]], o Cão Abissal, nas cavernas primordiais do que viria a ser [[_wiki/vor-ghol\|Vor-Ghol]].
 
-Os [[_wiki/drul\|druls]] preservam uma versão particularmente humilhante. [[panteao/warguleth\|Wargûleth]], ao fundir sangue humano e canino selvagem para produzir os [[_wiki/vulfano\|vulfanos]], cometeu um erro: o material foi contaminado por roedores que infestavam as cavernas. O resultado foram criaturas menores, mais fracas, mais famintas e desprovidas de qualquer traço que justificasse preservação. Os [[_wiki/worg\|worgs]] seriam o produto intencional; os muranos, o refugo. [[panteao/warguleth\|Wargûleth]] nunca corrigiu o erro. Nem o deus que os fez por acidente se importou o suficiente para eliminá-los.
+Os [[_wiki/drul\|druls]] preservam uma versão particularmente humilhante. [[_wiki/warguleth\|Wargûleth]], ao fundir sangue humano e canino selvagem para produzir os [[_wiki/vulfano\|vulfanos]], cometeu um erro: o material foi contaminado por roedores que infestavam as cavernas. O resultado foram criaturas menores, mais fracas, mais famintas e desprovidas de qualquer traço que justificasse preservação. Os [[_wiki/worg\|worgs]] seriam o produto intencional; os muranos, o refugo. [[_wiki/warguleth\|Wargûleth]] nunca corrigiu o erro. Nem o deus que os fez por acidente se importou o suficiente para eliminá-los.
 
 A versão [[_wiki/drul\|drul]] é mito, tendenciosa e possivelmente falsa. É também a única versão que existe. Nenhum murano jamais registrou a própria origem, e nenhum erudito se deu ao trabalho de investigar.
 
@@ -81,7 +81,7 @@ Cor arcana preta. Acesso pelo *[[_wiki/pactum_diaboli\|Pactum Diaboli]]*. Conjur
 
 A rede sensorial opera como habilidade proto-mágica: não consome [[_wiki/magi\|magi]], não exige invocação, não produz assinatura arcana, mas a intensidade excede o que fisiologia explicaria. Resíduo provável da interferência divina original.
 
-Os poucos muranos com aptidão arcana gravitaram para **magia de ocultação** (desaparecer, suprimir som, camuflar cheiro) e **magia de confusão sensorial (phobos)**, a escola de [[panteao/warguleth\|Wargûleth]]. O custo mágico se manifesta como **dissolução cognitiva**: a fronteira entre identidade individual e a rede sensorial se apaga. Memórias privadas vazam para muranos próximos. O corpo permanece intacto; a mente se fragmenta.
+Os poucos muranos com aptidão arcana gravitaram para **magia de ocultação** (desaparecer, suprimir som, camuflar cheiro) e **magia de confusão sensorial (phobos)**, a escola de [[_wiki/warguleth\|Wargûleth]]. O custo mágico se manifesta como **dissolução cognitiva**: a fronteira entre identidade individual e a rede sensorial se apaga. Memórias privadas vazam para muranos próximos. O corpo permanece intacto; a mente se fragmenta.
 
 ### Voz Narrativa (guia de escrita)
 

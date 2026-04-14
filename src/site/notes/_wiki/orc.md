@@ -69,7 +69,7 @@ Não existe distinção formal entre orcs com e sem vínculo demoníaco. A maior
 
 **Berserkers** canalizam escolas de combate direto e transformação: [[_wiki/belli\|Belli]] (guerra), [[_wiki/morpho\|Morpho]] (metamorfose) e [[_wiki/phobos\|Phobos]] (medo). O transe berserker é a expressão máxima dessa canalização: a fúria ancestral invocada pela Velha Fala dissolve a consciência e liberta a violência pura. O corpo cresce, a dor desaparece, mas o preço é a sanidade. [[_wiki/grothar\|Grothar]] canaliza em [[_wiki/orcanico\|Orcânico]] com a invocação *Ghâsh krampürz*, e a gramática se desintegra conforme a fúria escala, como se a língua acompanhasse o falante de volta ao instinto.
 
-[[panteao/thurgash\|Thûrgash]], o Senhor de Guerra Sangrento, é o [[_wiki/demonios\|demônio]] mais vinculado a orcs e goblinoides em geral. Tricolor (uRw, vermelho dominante), governa a guerra eterna e a fúria como sacramento.
+[[_wiki/thurgash\|Thûrgash]], o Senhor de Guerra Sangrento, é o [[_wiki/demonios\|demônio]] mais vinculado a orcs e goblinoides em geral. Tricolor (uRw, vermelho dominante), governa a guerra eterna e a fúria como sacramento.
 
 ### Voz Narrativa
 

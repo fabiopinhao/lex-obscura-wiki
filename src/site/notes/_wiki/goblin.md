@@ -45,7 +45,7 @@ Como sub-raça gnômica de cor vermelha, goblins possuem acesso ao [[_wiki/vincu
 
 Onde goblins se destacam é na alquimia improvisada e na engenharia de armadilhas. Sem formação arcana, trabalham com materiais voláteis, misturas explosivas e mecanismos de gatilho com a mesma naturalidade com que respiram. Não é magia, mas para quem está do lado errado de uma armadilha goblin, a distinção é irrelevante.
 
-[[panteao/thurgash\|Thûrgash]] é o [[_wiki/demonios\|demônio]] mais vinculado a goblinoides em geral, compartilhado com os [[_wiki/orc\|orcs]], mas a relação dos goblins com [[panteao/thurgash\|Thûrgash]] é menos devocional e mais transacional: quando precisam de fogo, chamam; quando não precisam, esquecem. Goblins não cantam hinos de guerra. Goblins resolvem problemas.
+[[_wiki/thurgash\|Thûrgash]] é o [[_wiki/demonios\|demônio]] mais vinculado a goblinoides em geral, compartilhado com os [[_wiki/orc\|orcs]], mas a relação dos goblins com [[_wiki/thurgash\|Thûrgash]] é menos devocional e mais transacional: quando precisam de fogo, chamam; quando não precisam, esquecem. Goblins não cantam hinos de guerra. Goblins resolvem problemas.
 
 ### Voz Narrativa
 

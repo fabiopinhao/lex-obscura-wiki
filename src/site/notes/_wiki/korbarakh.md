@@ -9,7 +9,7 @@ Korbarakh se manifesta como uma [[_wiki/salamandra\|salamandra]] votiva: corpo l
 
 ### Domínio
 
-[[_wiki/pyro\|Pyro]] fornece combustão: o fogo que se alimenta de matéria, que transforma sólido em cinza e cinza em nada. [[_wiki/plasma\|Plasma]] excede esse limite. Onde [[_wiki/pyro\|Pyro]] consome, [[_wiki/plasma\|Plasma]] funde: energia tão intensa que a distinção entre estados da matéria deixa de existir. Tecido se decompõe em elementos constitutivos e vitrifica sob a pressão térmica. A combinação faz de Korbarakh o fogo mais puro do panteão vermelho. [[panteao/bal_hadut\|Bal'Hadut]] queima para conquistar, fundando reinos sobre as brasas. O fogo de [[_wiki/kaelgrym\|Kaelgrym]] serve ao terror, linguagem de medo feita em chamas. Korbarakh queima para reduzir. O que sobrevive ao crisol é essência. O que não sobrevive era excesso.
+[[_wiki/pyro\|Pyro]] fornece combustão: o fogo que se alimenta de matéria, que transforma sólido em cinza e cinza em nada. [[_wiki/plasma\|Plasma]] excede esse limite. Onde [[_wiki/pyro\|Pyro]] consome, [[_wiki/plasma\|Plasma]] funde: energia tão intensa que a distinção entre estados da matéria deixa de existir. Tecido se decompõe em elementos constitutivos e vitrifica sob a pressão térmica. A combinação faz de Korbarakh o fogo mais puro do panteão vermelho. [[_wiki/bal_hadut\|Bal'Hadut]] queima para conquistar, fundando reinos sobre as brasas. O fogo de [[_wiki/kaelgrym\|Kaelgrym]] serve ao terror, linguagem de medo feita em chamas. Korbarakh queima para reduzir. O que sobrevive ao crisol é essência. O que não sobrevive era excesso.
 
 ### O Crisol
 

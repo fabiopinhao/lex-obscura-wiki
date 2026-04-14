@@ -9,8 +9,16 @@ Arikhandis se manifesta como uma serpente alada de escamas translúcidas que ref
 
 ### Domínio
 
-[[_wiki/aero\|Aero]] e [[_wiki/chrono\|Chrono]]. Cada batida das asas de Arikhandis gera correntes que carregam fragmentos de tempo deslocado. O vento arrasta consigo estilhaços de passado e futuro, misturados ao presente como areia numa ventania. Quem respira o ar contaminado vê coisas que já aconteceram ou que ainda vão acontecer, sem conseguir distinguir a origem. A profecia de Arikhandis é involuntária para quem a recebe. O vendaval arranca visões do fluxo temporal e as força goela abaixo.
+[[_wiki/aero\|Aero]] e [[_wiki/chrono\|Chrono]]. Aero desloca matéria no espaço; Chrono desloca percepção no tempo. Separadas, produzem efeitos comuns: rajadas de vento, lapsos de cronologia. Fundidas em Arikhandis, geram um fenômeno que nenhuma das duas alcança sozinha: movimento atmosférico saturado de tempo. O ar carrega fragmentos cronológicos como partículas em suspensão. Respirar é involuntário, e com o ar entram as visões. A profecia de Arikhandis não é dom concedido. É contaminação.
 
 ### O Vendaval
 
-O Vendaval Profético é título e fenômeno. Onde Arikhandis passa, a atmosfera se satura de resíduos cronológicos. As rajadas mais leves provocam déjà-vu em cascata. As mais fortes colapsam a percepção temporal: o alvo vive segundos que duram horas, ou décadas comprimidas num único fôlego. Guerreiros atingidos param de reagir porque seus corpos respondem a ameaças que ainda não existem ou que já passaram. Navegadores e cartógrafos descrevem zonas onde o vendaval soprou como regiões de "tempo espesso", onde relógios de areia correm para cima e sombras apontam para sóis que se puseram há gerações. O vento eventualmente se dissipa. As cicatrizes temporais que ele deixa podem levar décadas para se fechar.
+O Vendaval Profético é título e fenômeno. Onde Arikhandis passa, a atmosfera se satura de resíduos cronológicos. As rajadas mais leves provocam déjà-vu em cascata. As mais fortes colapsam a percepção temporal: o alvo vive segundos que duram horas, ou décadas comprimidas num único fôlego. Guerreiros atingidos param de reagir porque seus corpos respondem a ameaças que ainda não existem ou que já passaram. Navegadores e cartógrafos descrevem zonas onde o vendaval soprou como regiões de "tempo espesso", onde relógios de areia correm para cima e sombras apontam para sóis que se puseram há gerações. O vento passa. As cicatrizes temporais que deixa levam décadas para se fechar.
+
+### Natureza Demoníaca
+
+Arikhandis é demônio. Acesso via Vinculum Daemonis: vínculo de força, sem contrato, sem cláusulas. O demônio testa o conjurador e aceita ou devora. Pactuados carregam custos de Aero e Chrono amplificados pelo vínculo demoníaco: claustrofobia existencial que transforma qualquer permanência em prisão. A dessincronização de Chrono agrava: memória e antecipação se fundem, e o pactuado perde a noção de qual visão pertence ao passado e qual ao futuro. O resultado são videntes exilados do presente e incapazes de permanecer parados.
+
+### Filosofia
+
+Para Arikhandis, o tempo linear é a maior mentira que os mortais contam a si mesmos. Passado e futuro coexistem; o presente é a fração que o cérebro mortal consegue processar sem colapsar. O vendaval remove esse filtro. As visões que as vítimas recebem não são profecias fabricadas: são o tempo real, inteiro, forçado por uma garganta que só comporta um segundo por vez. O horror não está no que se vê. Está em perceber o quanto se perde a cada instante de olhos fechados.
