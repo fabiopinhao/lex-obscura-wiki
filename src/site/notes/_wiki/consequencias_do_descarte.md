@@ -5,31 +5,25 @@
 
 ### O Que Sobra
 
-| Método | Resíduo |
-|--------|---------|
-| Consagração Final | Artefatos imbuídos com [[_wiki/magi\|magi]]; relíquias |
-| Missão de Honra | Nome em memorial; lenda de heroísmo |
-| Transferência | Nada; como se nunca tivesse existido |
-| Recolhimento | Rumores sobre "alas proibidas"; medo institucional |
-| Vigília Eterna | Mito sobre "os que dormem"; ameaça velada |
+- **Consagração Final**: Artefatos imbuídos com [[_wiki/magi\|magi]]; relíquias
+- **Missão de Honra**: Nome em memorial; lenda de heroísmo
+- **Transferência**: Nada; como se nunca tivesse existido
+- **Recolhimento**: Rumores sobre "alas proibidas"; medo institucional
+- **Vigília Eterna**: Mito sobre "os que dormem"; ameaça velada
 
 ### O Que É Herdado
 
-| Item | Destino |
-|------|---------|
-| **Equipamento** | Redistribuído sem cerimônia |
-| **Conhecimento** | Extraído antes do descarte quando possível |
-| **Posição** | Preenchida imediatamente; nenhum cargo fica vago |
-| **Dívidas** | Assumidas pela instituição ou cobradas de família |
+- **Equipamento**: Redistribuído sem cerimônia
+- **Conhecimento**: Extraído antes do descarte quando possível
+- **Posição**: Preenchida imediatamente; nenhum cargo fica vago
+- **Dívidas**: Assumidas pela instituição ou cobradas de família
 
 ### Quem Aprende a Temer
 
-| Grupo | Lição |
-|-------|-------|
-| Iniciantes | "Promoções" nem sempre são boas notícias |
-| Veteranos | Reconhecem os sinais; sabem quando alguém vai "ser transferido" |
-| Superiores | Usam o sistema como ameaça velada |
-| Famílias | Não fazem perguntas quando parentes "são promovidos ao Círculo Interior" |
+- **Iniciantes**: "Promoções" nem sempre são boas notícias
+- **Veteranos**: Reconhecem os sinais; sabem quando alguém vai "ser transferido"
+- **Superiores**: Usam o sistema como ameaça velada
+- **Famílias**: Não fazem perguntas quando parentes "são promovidos ao Círculo Interior"
 
 ### Transferidos Fantasmas
 

@@ -15,7 +15,7 @@ O General [[_wiki/vekraal\|Vekraal]] ordenou o uso de fogo alquímico. A florest
 
 ### O Depois
 
-O território de Lendalas tornou-se o [[_wiki/campo_dos_lamentos\|Campo dos Lamentos]], descampado cinzento onde a terra se recusa a brotar e vozes ecoam nas noites de tempestade. A [[eventos/destruicao_de_lendalas\|destruição de Lendalas]] confirmou a lição estratégica de [[_wiki/thal_serin\|Thal'Serin]]: florestas sem proteção divina estavam condenadas. Apenas pactos antigos com os [[_wiki/titas\|Titãs]] garantiam sobrevivência contra o fogo imperial.
+O território de Lendalas tornou-se o [[_wiki/campo_dos_lamentos\|Campo dos Lamentos]], descampado cinzento onde a terra se recusa a brotar e vozes ecoam nas noites de tempestade. A [[_wiki/destruicao_de_lendalas\|destruição de Lendalas]] confirmou a lição estratégica de [[_wiki/thal_serin\|Thal'Serin]]: florestas sem proteção divina estavam condenadas. Apenas pactos antigos com os [[_wiki/titas\|Titãs]] garantiam sobrevivência contra o fogo imperial.
 
 Lendalas é cinza. Velintrae é memória. [[_wiki/thal_serin\|Thal'Serin]] respira.
 

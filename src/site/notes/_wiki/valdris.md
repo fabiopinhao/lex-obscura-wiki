@@ -7,19 +7,19 @@
 
 Valdris é uma cidade de pedra escura que passara eras esfregando o rosto contra a rebentação até perder as arestas. Porto sul de [[_wiki/reinkard\|Reinkard]], única saída imperial para o oceano, e atualmente a província mais distante do planalto de [[_wiki/morvgrad\|Morvgrad]]. O porto acordava antes do sol.
 
-Antes da conquista, [[locais/myrgarde\|Myrgarde]] apertava o pescoço de Valdris como uma mão invisível, rachando a cidade entre o sal amargo da resistência e o brilho doce da rendição. Valdris não estava recrutando soldados: estava recolhendo lenha para uma fogueira que [[locais/myrgarde\|Myrgarde]] já havia aceso.
+Antes da conquista, [[_wiki/myrgarde\|Myrgarde]] apertava o pescoço de Valdris como uma mão invisível, rachando a cidade entre o sal amargo da resistência e o brilho doce da rendição. Valdris não estava recrutando soldados: estava recolhendo lenha para uma fogueira que [[_wiki/myrgarde\|Myrgarde]] já havia aceso.
 
-### [[personagens/arothistar\|Dravhok]] e as Ondas
+### [[_wiki/arothistar\|Dravhok]] e as Ondas
 
-Cerca de cinquenta e sete anos antes do presente narrativo, a segunda grande campanha de [[personagens/arothistar\|Dravhok]] varreu o cinturão oriental de [[locais/myrgarde\|Myrgarde]], destruiu Dernessal e atingiu a costa. Quando as legiões alcançaram Valdris, o mar respondeu. Ondas de proporção que nenhuma tempestade natural explicava avançaram sobre a cidade e sobre a legião acampada nas proximidades. A água veio sem aviso e sem causa aparente, e carregou consigo soldados, equipamentos e qualquer pretensão de conquista costeira.
+Cerca de cinquenta e sete anos antes do presente narrativo, a segunda grande campanha de [[_wiki/arothistar\|Dravhok]] varreu o cinturão oriental de [[_wiki/myrgarde\|Myrgarde]], destruiu Dernessal e atingiu a costa. Quando as legiões alcançaram Valdris, o mar respondeu. Ondas de proporção que nenhuma tempestade natural explicava avançaram sobre a cidade e sobre a legião acampada nas proximidades. A água veio sem aviso e sem causa aparente, e carregou consigo soldados, equipamentos e qualquer pretensão de conquista costeira.
 
-[[personagens/arothistar\|Dravhok]] ordenou a retirada. Foi a única vez que o general recuou em toda sua carreira militar.
+[[_wiki/arothistar\|Dravhok]] ordenou a retirada. Foi a única vez que o general recuou em toda sua carreira militar.
 
-[[personagens/arothistar\|Dravhok]] chamou todos os seus filhos de volta. Vestiu o couro curtido com a resignação de quem puxa uma rede cheia de pedras. Dessa vez, Valdris não devolveu ninguém. Nem mensageiros, nem feridos.
+[[_wiki/arothistar\|Dravhok]] chamou todos os seus filhos de volta. Vestiu o couro curtido com a resignação de quem puxa uma rede cheia de pedras. Dessa vez, Valdris não devolveu ninguém. Nem mensageiros, nem feridos.
 
 ### O Sal como Identidade
 
-O sal define Valdris como a sombra define [[_wiki/morvgrad\|Morvgrad]]. A brisa do mar deposita uma salmoura constante sobre pele, roupas e almas: crosta cinzenta que ninguém remove porque removê-la seria negar a cidade. O porto era uma sinfonia de atritos: gaivotas disputando vísceras, cordas estalando contra mastros, pescadores gritando para medir força e espantar o sono. A viuvez em Valdris trazia um tipo de paz que ninguém chama de paz, e a liberdade de uma mulher sem marido, em becos daqueles, valia mais que prata de [[locais/myrgarde\|Myrgarde]].
+O sal define Valdris como a sombra define [[_wiki/morvgrad\|Morvgrad]]. A brisa do mar deposita uma salmoura constante sobre pele, roupas e almas: crosta cinzenta que ninguém remove porque removê-la seria negar a cidade. O porto era uma sinfonia de atritos: gaivotas disputando vísceras, cordas estalando contra mastros, pescadores gritando para medir força e espantar o sono. A viuvez em Valdris trazia um tipo de paz que ninguém chama de paz, e a liberdade de uma mulher sem marido, em becos daqueles, valia mais que prata de [[_wiki/myrgarde\|Myrgarde]].
 
 ### Terra Natal de [[_wiki/milorsevogh_velshard\|Milor]]
 

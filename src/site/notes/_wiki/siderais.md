@@ -21,7 +21,7 @@ O vínculo com Siderais opera por [[_wiki/meditatio_aetheris\|Meditatio Aetheris
 
 ### Raças Associadas
 
-[[_wiki/frenim\|Frenims]], [[_wiki/undine\|undines]] e [[_wiki/ranidano\|ranidanos]] compõem as raças azuis de [[locais/neranthis\|Neranthis]]. Os [[_wiki/frenim\|frenims]] são o grupo dominante, exercendo liderança política e arcana. [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]], o [[_wiki/frenim\|frenim]] mais poderoso do Livro I, exemplifica tanto o potencial quanto a fragilidade do vínculo sideral: abandonado por seu deus após trair o [[_wiki/plano_etereo\|Plano Etéreo]] a mando de [[personagens/arothistar\|Arothistar]].
+[[_wiki/frenim\|Frenims]], [[_wiki/undine\|undines]] e [[_wiki/ranidano\|ranidanos]] compõem as raças azuis de [[_wiki/neranthis\|Neranthis]]. Os [[_wiki/frenim\|frenims]] são o grupo dominante, exercendo liderança política e arcana. [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]], o [[_wiki/frenim\|frenim]] mais poderoso do Livro I, exemplifica tanto o potencial quanto a fragilidade do vínculo sideral: abandonado por seu deus após trair o [[_wiki/plano_etereo\|Plano Etéreo]] a mando de [[_wiki/arothistar\|Arothistar]].
 
 ### Siderais Nomeados
 

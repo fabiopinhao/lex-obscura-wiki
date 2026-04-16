@@ -13,7 +13,7 @@ Especialista em leitura de avisos de escoramento e marcação de trânsito em t�
 
 ### Padrões de Voz
 
-Tagarelice compulsiva: eco menor de [[personagens/dribbel_olgund\|Dribbel]].
+Tagarelice compulsiva: eco menor de [[_wiki/dribbel_olgund\|Dribbel]].
 
 ### Relações-Chave
 

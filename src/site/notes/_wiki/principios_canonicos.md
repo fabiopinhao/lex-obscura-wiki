@@ -7,10 +7,8 @@
 
 Toda magia possui dois custos simultâneos:
 
-| Tipo | Descrição | Recuperação |
-|------|-----------|-------------|
-| **Custo Universal ([[_wiki/magi\|Magi]])** | Combustível invisível; reserva limitada de energia mágica | Descanso leve: ~10-20%. Sono completo: ~80-100% |
-| **Custo Temático** | Efeito colateral físico relacionado à escola usada | Varia por escola; mitigável por maestria |
+- **Custo Universal ([[_wiki/magi\|Magi]])** — Descrição: Combustível invisível; reserva limitada de energia mágica | Recuperação: Descanso leve: ~10-20%. Sono completo: ~80-100%
+- **Custo Temático** — Descrição: Efeito colateral físico relacionado à escola usada | Recuperação: Varia por escola; mitigável por maestria
 
 **Sobrecarga (conjurar com reserva vazia):** hemorragia severa, colapso físico, dano permanente aos canais mágicos, possível morte.
 
@@ -28,12 +26,10 @@ Além dos custos imediatos, existe uma transformação permanente que escala com
 
 Todos os custos temáticos têm duração reduzida conforme nível de maestria:
 
-| Nível | Duração do Custo Temático |
-|-------|---------------------------|
-| Iniciante | 100% |
-| Intermediário | ~70% |
-| Avançado | ~50% |
-| Mestre | ~30% |
+- **Iniciante**: 100%
+- **Intermediário**: ~70%
+- **Avançado**: ~50%
+- **Mestre**: ~30%
 
 **O custo nunca é eliminado completamente.**
 

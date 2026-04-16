@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[_wiki/drul\|Drul]] (macho). Guarda dos Portões de [[locais/ghilanna\|Ghilanna]]. [[_wiki/casa_morghast\|Casa Morghast]] (subordinada à Duskryn). Localização: Portões de [[locais/ghilanna\|Ghilanna]]. Status: vivo.
+[[_wiki/drul\|Drul]] (macho). Guarda dos Portões de [[_wiki/ghilanna\|Ghilanna]]. [[_wiki/casa_morghast\|Casa Morghast]] (subordinada à Duskryn). Localização: Portões de [[_wiki/ghilanna\|Ghilanna]]. Status: vivo.
 
 ### Papel Narrativo
 

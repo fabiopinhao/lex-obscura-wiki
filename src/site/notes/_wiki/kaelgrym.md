@@ -15,15 +15,15 @@ A afinidade com os [[_wiki/diabos\|diabos]] decorre de [[_wiki/phobos\|Phobos]]:
 
 ### Patrono dos Drakhonins
 
-Kaelgrym é o deus-dragão dos drakhonins de [[_wiki/varnak\|Varnak]] e [[_wiki/veinkard\|Veinkard]]. O vínculo antecede [[personagens/arothistar\|Arothistar]] em milênios. [[_wiki/draconideo\|Draconídeos]] são vinculados a Kaelgrym desde o ovo: no ritual de passagem obrigatório, ovos são banhados em sangue ritual e expostos ao sopro de fogo de um ancião. Os que sobrevivem ao calor nascem; os que não sobrevivem são considerados purificação natural.
+Kaelgrym é o deus-dragão dos drakhonins de [[_wiki/varnak\|Varnak]] e [[_wiki/veinkard\|Veinkard]]. O vínculo antecede [[_wiki/arothistar\|Arothistar]] em milênios. [[_wiki/draconideo\|Draconídeos]] são vinculados a Kaelgrym desde o ovo: no ritual de passagem obrigatório, ovos são banhados em sangue ritual e expostos ao sopro de fogo de um ancião. Os que sobrevivem ao calor nascem; os que não sobrevivem são considerados purificação natural.
 
 Essa vinculação universal tem consequência arcana direta: nenhum [[_wiki/draconideo\|drakhonin]] pode empunhar artefatos [[_wiki/luminares\|Luminares]]. A [[_wiki/fendris\|Fendris]], forjada na [[_wiki/idade_esquecida\|Idade Esquecida]] para ferir dragões anciões, responde apenas a mãos livres de pacto.
 
-### Relação com [[personagens/arothistar\|Arothistar]]
+### Relação com [[_wiki/arothistar\|Arothistar]]
 
-As exigências de Kaelgrym são diretas: destruição contínua e expurgos políticos, com o terror como ferramenta de controle. Onde [[panteao/malagoth\|Malagoth]] quer expansão territorial e [[_wiki/velmorain\|Velmorain]] sustenta a ilusão de ordem cósmica, Kaelgrym exige que o fogo arda e que alguém grite. Quando os expurgos cessam, Kaelgrym pressiona; quando recomeçam, o medo se propaga e reforça a obediência que [[panteao/malagoth\|Malagoth]] exige e a estabilidade que [[_wiki/velmorain\|Velmorain]] simula.
+As exigências de Kaelgrym são diretas: destruição contínua e expurgos políticos, com o terror como ferramenta de controle. Onde [[_wiki/malagoth\|Malagoth]] quer expansão territorial e [[_wiki/velmorain\|Velmorain]] sustenta a ilusão de ordem cósmica, Kaelgrym exige que o fogo arda e que alguém grite. Quando os expurgos cessam, Kaelgrym pressiona; quando recomeçam, o medo se propaga e reforça a obediência que [[_wiki/malagoth\|Malagoth]] exige e a estabilidade que [[_wiki/velmorain\|Velmorain]] simula.
 
-Na Torre de [[locais/mor_severith\|Mor'Severith]], [[personagens/arothistar\|Arothistar]] fala com Kaelgrym através do teto, sem genuflexão, sem invocação, como quem discute com um sócio pelo andar de cima. A relação é de dependência mútua temperada por desprezo recíproco.
+Na Torre de [[_wiki/mor_severith\|Mor'Severith]], [[_wiki/arothistar\|Arothistar]] fala com Kaelgrym através do teto, sem genuflexão, sem invocação, como quem discute com um sócio pelo andar de cima. A relação é de dependência mútua temperada por desprezo recíproco.
 
 ### Proscrição
 

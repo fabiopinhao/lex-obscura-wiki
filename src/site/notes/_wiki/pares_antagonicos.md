@@ -9,12 +9,10 @@ As 30 escolas de magia organizam-se em **15 pares antagônicos** distribuídos e
 
 ### Oposições Elementais (4 pares)
 
-| Escola A | Código | Domínio | ↔ | Escola B | Código | Domínio |
-|----------|--------|---------|---|----------|--------|---------|
-| **[[_wiki/pyro\|Pyro]]** | RR | Fogo e Combustão | ↔ | **[[_wiki/hydro\|Hydro]]** | UG | Água e Corrente |
-| **[[_wiki/cryo\|Cryo]]** | UU | Gelo e Glaciação | ↔ | **[[_wiki/plasma\|Plasma]]** | RW | Energia e Fusão |
-| **[[_wiki/aero\|Aero]]** | WR | Vento e Tempestade | ↔ | **[[_wiki/geo\|Geo]]** | GG | Terra e Pedra |
-| **[[_wiki/umbra\|Umbra]]** | BB | Trevas e Obscuridade | ↔ | **[[_wiki/helio\|Helio]]** | WW | Luz e Radiância |
+- **[[_wiki/pyro\|Pyro]]** — Código: RR | Domínio: Fogo e Combustão | ↔: ↔ | Escola B: **[[_wiki/hydro\|Hydro]]** | Código: UG | Domínio: Água e Corrente
+- **[[_wiki/cryo\|Cryo]]** — Código: UU | Domínio: Gelo e Glaciação | ↔: ↔ | Escola B: **[[_wiki/plasma\|Plasma]]** | Código: RW | Domínio: Energia e Fusão
+- **[[_wiki/aero\|Aero]]** — Código: WR | Domínio: Vento e Tempestade | ↔: ↔ | Escola B: **[[_wiki/geo\|Geo]]** | Código: GG | Domínio: Terra e Pedra
+- **[[_wiki/umbra\|Umbra]]** — Código: BB | Domínio: Trevas e Obscuridade | ↔: ↔ | Escola B: **[[_wiki/helio\|Helio]]** | Código: WW | Domínio: Luz e Radiância
 
 **Eixos de oposição:**
 - *[[_wiki/pyro\|Pyro]] ↔ [[_wiki/hydro\|Hydro]]:* Consumir vs. Fluir: fogo devora, água extingue e adapta.
@@ -24,10 +22,8 @@ As 30 escolas de magia organizam-se em **15 pares antagônicos** distribuídos e
 
 ### Oposições Vitais (2 pares)
 
-| Escola A | Código | Domínio | ↔ | Escola B | Código | Domínio |
-|----------|--------|---------|---|----------|--------|---------|
-| **[[_wiki/necro\|Necro]]** | BB | Morte e Reanimação | ↔ | **[[_wiki/vita\|Vita]]** | GG | Vida e Crescimento |
-| **[[_wiki/patho\|Patho]]** | BG | Decaimento e Putrefação | ↔ | **[[_wiki/salvo\|Salvo]]** | WG | Cura e Restauração |
+- **[[_wiki/necro\|Necro]]** — Código: BB | Domínio: Morte e Reanimação | ↔: ↔ | Escola B: **[[_wiki/vita\|Vita]]** | Código: GG | Domínio: Vida e Crescimento
+- **[[_wiki/patho\|Patho]]** — Código: BG | Domínio: Decaimento e Putrefação | ↔: ↔ | Escola B: **[[_wiki/salvo\|Salvo]]** | Código: WG | Domínio: Cura e Restauração
 
 **Eixos de oposição:**
 - *[[_wiki/necro\|Necro]] ↔ [[_wiki/vita\|Vita]]:* Cessar vs. Florescer: morte encerra, vida multiplica.
@@ -35,10 +31,8 @@ As 30 escolas de magia organizam-se em **15 pares antagônicos** distribuídos e
 
 ### Oposições Mentais (2 pares)
 
-| Escola A | Código | Domínio | ↔ | Escola B | Código | Domínio |
-|----------|--------|---------|---|----------|--------|---------|
-| **[[_wiki/hypno\|Hypno]]** | GU | Sono e Hipnose | ↔ | **[[_wiki/psycho\|Psycho]]** | RU | Mente e Psique |
-| **[[_wiki/phobos\|Phobos]]** | RB | Medo e Terror | ↔ | **[[_wiki/gnosi\|Gnosi]]** | UU | Conhecimento e Premonição |
+- **[[_wiki/hypno\|Hypno]]** — Código: GU | Domínio: Sono e Hipnose | ↔: ↔ | Escola B: **[[_wiki/psycho\|Psycho]]** | Código: RU | Domínio: Mente e Psique
+- **[[_wiki/phobos\|Phobos]]** — Código: RB | Domínio: Medo e Terror | ↔: ↔ | Escola B: **[[_wiki/gnosi\|Gnosi]]** | Código: UU | Domínio: Conhecimento e Premonição
 
 **Eixos de oposição:**
 - *[[_wiki/hypno\|Hypno]] ↔ [[_wiki/psycho\|Psycho]]:* Adormecer vs. Despertar: hipnose suprime consciência, psique a invade.
@@ -46,34 +40,28 @@ As 30 escolas de magia organizam-se em **15 pares antagônicos** distribuídos e
 
 ### Oposições de Ordem/Caos (3 pares)
 
-| Escola A | Código | Domínio | ↔ | Escola B | Código | Domínio |
-|----------|--------|---------|---|----------|--------|---------|
-| **[[_wiki/anatho\|Anatho]]** | BR | Maldição e Corrupção | ↔ | **[[_wiki/sacro\|Sacro]]** | WW | Graça e Santidade |
-| **[[escolas/rupto\|Rupto]]** | RR | Destruição e Ruptura | ↔ | **[[_wiki/nomos\|Nomos]]** | WB | Vínculo e Restrição |
-| **[[_wiki/belli\|Belli]]** | RG | Guerra e Combate | ↔ | **[[_wiki/aegis\|Aegis]]** | WU | Proteção e Barreira |
+- **[[_wiki/anatho\|Anatho]]** — Código: BR | Domínio: Maldição e Corrupção | ↔: ↔ | Escola B: **[[_wiki/sacro\|Sacro]]** | Código: WW | Domínio: Graça e Santidade
+- **[[_wiki/rupto\|Rupto]]** — Código: RR | Domínio: Destruição e Ruptura | ↔: ↔ | Escola B: **[[_wiki/nomos\|Nomos]]** | Código: WB | Domínio: Vínculo e Restrição
+- **[[_wiki/belli\|Belli]]** — Código: RG | Domínio: Guerra e Combate | ↔: ↔ | Escola B: **[[_wiki/aegis\|Aegis]]** | Código: WU | Domínio: Proteção e Barreira
 
 **Eixos de oposição:**
 - *[[_wiki/anatho\|Anatho]] ↔ [[_wiki/sacro\|Sacro]]:* Profanar vs. Consagrar: maldição corrompe, bênção santifica.
-- *[[escolas/rupto\|Rupto]] ↔ [[_wiki/nomos\|Nomos]]:* Quebrar vs. Vincular: destruição liberta, restrição aprisiona.
+- *[[_wiki/rupto\|Rupto]] ↔ [[_wiki/nomos\|Nomos]]:* Quebrar vs. Vincular: destruição liberta, restrição aprisiona.
 - *[[_wiki/belli\|Belli]] ↔ [[_wiki/aegis\|Aegis]]:* Atacar vs. Defender: guerra agride, proteção resiste.
 
 ### Oposições Espaciais/Temporais (2 pares)
 
-| Escola A | Código | Domínio | ↔ | Escola B | Código | Domínio |
-|----------|--------|---------|---|----------|--------|---------|
-| **[[_wiki/cosmo\|Cosmo]]** | UB | Espaço e Gravidade | ↔ | **[[escolas/urano\|Urano]]** | UW | Transcendência e Elevação |
-| **[[_wiki/electro\|Electro]]** | BW | Eletricidade e Magnetismo | ↔ | **[[_wiki/chrono\|Chrono]]** | UR | Tempo e Fluxo |
+- **[[_wiki/cosmo\|Cosmo]]** — Código: UB | Domínio: Espaço e Gravidade | ↔: ↔ | Escola B: **[[_wiki/urano\|Urano]]** | Código: UW | Domínio: Transcendência e Elevação
+- **[[_wiki/electro\|Electro]]** — Código: BW | Domínio: Eletricidade e Magnetismo | ↔: ↔ | Escola B: **[[_wiki/chrono\|Chrono]]** | Código: UR | Domínio: Tempo e Fluxo
 
 **Eixos de oposição:**
-- *[[_wiki/cosmo\|Cosmo]] ↔ [[escolas/urano\|Urano]]:* Matéria vs. Espírito: gravidade prende o corpo, transcendência liberta a alma.
+- *[[_wiki/cosmo\|Cosmo]] ↔ [[_wiki/urano\|Urano]]:* Matéria vs. Espírito: gravidade prende o corpo, transcendência liberta a alma.
 - *[[_wiki/electro\|Electro]] ↔ [[_wiki/chrono\|Chrono]]:* Acelerar vs. Desacelerar: eletricidade impulsiona, tempo retarda.
 
 ### Oposições de Substância (2 pares)
 
-| Escola A | Código | Domínio | ↔ | Escola B | Código | Domínio |
-|----------|--------|---------|---|----------|--------|---------|
-| **[[_wiki/spectro\|Spectro]]** | BU | Fantasma e Ilusão | ↔ | **[[_wiki/morpho\|Morpho]]** | GR | Metamorfose e Transformação |
-| **[[_wiki/toxo\|Toxo]]** | GB | Veneno e Ácido | ↔ | **[[_wiki/abjuro\|Abjuro]]** | GW | Negação e Dissipação |
+- **[[_wiki/spectro\|Spectro]]** — Código: BU | Domínio: Fantasma e Ilusão | ↔: ↔ | Escola B: **[[_wiki/morpho\|Morpho]]** | Código: GR | Domínio: Metamorfose e Transformação
+- **[[_wiki/toxo\|Toxo]]** — Código: GB | Domínio: Veneno e Ácido | ↔: ↔ | Escola B: **[[_wiki/abjuro\|Abjuro]]** | Código: GW | Domínio: Negação e Dissipação
 
 **Eixos de oposição:**
 - *[[_wiki/spectro\|Spectro]] ↔ [[_wiki/morpho\|Morpho]]:* Parecer vs. Tornar-se: ilusão engana, metamorfose altera.
@@ -81,15 +69,13 @@ As 30 escolas de magia organizam-se em **15 pares antagônicos** distribuídos e
 
 ### Resumo
 
-| Categoria | Pares | Escolas |
-|-----------|-------|---------|
-| Elementais | 4 | 8 |
-| Vitais | 2 | 4 |
-| Mentais | 2 | 4 |
-| Ordem/Caos | 3 | 6 |
-| Espaciais/Temporais | 2 | 4 |
-| Substância | 2 | 4 |
-| **Total** | **15** | **30** |
+- **Elementais** — Pares: 4 | Escolas: 8
+- **Vitais** — Pares: 2 | Escolas: 4
+- **Mentais** — Pares: 2 | Escolas: 4
+- **Ordem/Caos** — Pares: 3 | Escolas: 6
+- **Espaciais/Temporais** — Pares: 2 | Escolas: 4
+- **Substância** — Pares: 2 | Escolas: 4
+- **Total** — Pares: **15** | Escolas: **30**
 
 ---
 

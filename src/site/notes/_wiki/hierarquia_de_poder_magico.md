@@ -22,7 +22,7 @@
 - 10 escolas, versatilidade alta mas profundidade média
 
 **Único (~0.0001%):** 3 pactos
-- **Apenas [[personagens/arothistar\|Arothistar]]** na história conhecida
+- **Apenas [[_wiki/arothistar\|Arothistar]]** na história conhecida
 - 2 [[_wiki/diabos\|diabos]] + 1 demônio = ~4-6 escolas
 - Profundidade LENDÁRIA nas escolas que domina
 - Aberração que quebra regras naturais
@@ -52,7 +52,7 @@
 - Corrupção progressiva
 - Perda de humanidade/sanidade
 
-**[[personagens/arothistar\|Arothistar]] é único** com 3 pactos funcionais na história registrada.
+**[[_wiki/arothistar\|Arothistar]] é único** com 3 pactos funcionais na história registrada.
 
 ### Notas Importantes
 

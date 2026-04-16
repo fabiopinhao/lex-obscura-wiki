@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[_wiki/orc\|Orc]] veterano de barriga protuberante, bobalhão e comilão. Usa dois machados gêmeos pesados demais para humanos. Mestre no uso de fogo alquímico (sangue de [[_wiki/salamandra\|salamandra]]) para queimar [[_wiki/troll\|trolls]]. Inseparável de [[_wiki/mur\|Mur]]. Leal a [[_wiki/grothar\|Grothar]] e [[_wiki/milorsevogh_velshard\|Milor]]. Curado por magia élfica de [[personagens/gaelwyn\|Gaelwyn]]. Status: vivo, retornando a [[_wiki/morvgrad\|Morvgrad]].
+[[_wiki/orc\|Orc]] veterano de barriga protuberante, bobalhão e comilão. Usa dois machados gêmeos pesados demais para humanos. Mestre no uso de fogo alquímico (sangue de [[_wiki/salamandra\|salamandra]]) para queimar [[_wiki/troll\|trolls]]. Inseparável de [[_wiki/mur\|Mur]]. Leal a [[_wiki/grothar\|Grothar]] e [[_wiki/milorsevogh_velshard\|Milor]]. Curado por magia élfica de [[_wiki/gaelwyn\|Gaelwyn]]. Status: vivo, retornando a [[_wiki/morvgrad\|Morvgrad]].
 
 ### Padrões de Voz
 
@@ -17,4 +17,4 @@ Mais reservado que [[_wiki/mur\|Mur]]. Responde mais que inicia. Preocupações 
 
 **[[_wiki/mur\|Mur]] (inseparável):** Duo de contrabalanço: [[_wiki/mur\|Mur]] tem iniciativa, Grub tem peso.
 
-**[[personagens/gaelwyn\|Gaelwyn]] (curado por):** Cura élfica sob coerção de [[_wiki/milorsevogh_velshard\|Milor]]. Dívida não reconhecida: Grub não processa obrigações abstratas.
+**[[_wiki/gaelwyn\|Gaelwyn]] (curado por):** Cura élfica sob coerção de [[_wiki/milorsevogh_velshard\|Milor]]. Dívida não reconhecida: Grub não processa obrigações abstratas.

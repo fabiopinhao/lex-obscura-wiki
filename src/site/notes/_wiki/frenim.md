@@ -5,7 +5,7 @@
 
 ### Fisiologia
 
-Humanos [[_wiki/siderais\|siderais]] de [[locais/neranthis\|Neranthis]]. Pele pálido-esverdeada, olhos de fendas vermelhas líquidas (descrição de [[_wiki/lorvaq_val_kir\|Lorvaq]]). Constituição esguia, adaptada ao clima úmido e pantanoso de seu continente. Longevidade de aproximadamente 96-100 anos (modificador +20-25%), equivalente à de humanos comuns, embora seu estilo de vida contemplativo e a proximidade com o [[_wiki/plano_etereo\|Plano Etéreo]] sugiram uma vitalidade diferente: menos robusta, mais permeável ao sobrenatural. Cor arcana azul. Afinidade natural com magia sideral, canalizada através dos deuses do [[_wiki/plano_etereo\|Plano Etéreo]].
+Humanos [[_wiki/siderais\|siderais]] de [[_wiki/neranthis\|Neranthis]]. Pele pálido-esverdeada, olhos de fendas vermelhas líquidas (descrição de [[_wiki/lorvaq_val_kir\|Lorvaq]]). Constituição esguia, adaptada ao clima úmido e pantanoso de seu continente. Longevidade de aproximadamente 96-100 anos (modificador +20-25%), equivalente à de humanos comuns, embora seu estilo de vida contemplativo e a proximidade com o [[_wiki/plano_etereo\|Plano Etéreo]] sugiram uma vitalidade diferente: menos robusta, mais permeável ao sobrenatural. Cor arcana azul. Afinidade natural com magia sideral, canalizada através dos deuses do [[_wiki/plano_etereo\|Plano Etéreo]].
 
 ### Origem
 
@@ -19,7 +19,7 @@ Pela sabedoria e pela disciplina, os frenims aprenderam a transitar pelo [[_wiki
 
 ### Cultura e Sociedade
 
-Habitam [[locais/neranthis\|Neranthis]], continente a leste de [[_wiki/reinkard\|Reinkard]], além de uma vasta região de pântanos. Geografia hostil (lagos em excesso, rios que dificultam locomoção, clima úmido) tornou a região imprópria para domínio [[_wiki/shadar\|shadar]] direto. Tom cultural: misterioso, erudito, isolacionista. Frenims se distanciaram das sombras de [[_wiki/reinkard\|Reinkard]] e temem dominação. A sociedade frenim privilegia conhecimento arcano e diplomacia sobre força bruta. "Magos azuis" é como são conhecidos fora de [[locais/neranthis\|Neranthis]].
+Habitam [[_wiki/neranthis\|Neranthis]], continente a leste de [[_wiki/reinkard\|Reinkard]], além de uma vasta região de pântanos. Geografia hostil (lagos em excesso, rios que dificultam locomoção, clima úmido) tornou a região imprópria para domínio [[_wiki/shadar\|shadar]] direto. Tom cultural: misterioso, erudito, isolacionista. Frenims se distanciaram das sombras de [[_wiki/reinkard\|Reinkard]] e temem dominação. A sociedade frenim privilegia conhecimento arcano e diplomacia sobre força bruta. "Magos azuis" é como são conhecidos fora de [[_wiki/neranthis\|Neranthis]].
 
 Frenims são o grupo dominante entre as raças azuis ([[_wiki/undine\|undines]] e [[_wiki/ranidano\|ranidanos]] completam o trio), exercendo liderança política e arcana sobre o continente. Sua relação com os deuses [[_wiki/siderais\|siderais]] (Mysthar, Zephyrion, Aestron) confere-lhes acesso a formas de magia distintas das praticadas em [[_wiki/reinkard\|Reinkard]]. O sistema de acesso mágico é o [[_wiki/meditatio_aetheris\|Meditatio Aetheris]], baseado na meditação e na expansão da consciência para o [[_wiki/plano_etereo\|Plano Etéreo]], dispensando pactos sombrios ou devoção a [[_wiki/diabos\|deuses da sombra]].
 
@@ -33,11 +33,11 @@ Ao longo dos séculos, as duas raças desenvolveram uma coexistência pacífica,
 
 ### Relação com o [[_wiki/imperio_sombrio\|Império]]
 
-[[locais/neranthis\|Neranthis]] permanece independente durante a [[_wiki/lex_obscura_decreto\|Lex Obscura]]. [[personagens/arothistar\|Arothistar]] planejava transformá-la em estado vassalo via [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]], evitando conquista direta ([[_wiki/shadar\|shadars]] não habitariam terras úmidas). Com a morte de [[_wiki/lorvaq_val_kir\|Lorvaq]] e a [[_wiki/queda_de_arothistar\|queda de Arothistar]], o plano de vassalagem morre. Os frenims são isolacionistas por instinto e por cálculo: temem as sombras, e a distância geográfica sempre foi sua melhor defesa.
+[[_wiki/neranthis\|Neranthis]] permanece independente durante a [[_wiki/lex_obscura_decreto\|Lex Obscura]]. [[_wiki/arothistar\|Arothistar]] planejava transformá-la em estado vassalo via [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]], evitando conquista direta ([[_wiki/shadar\|shadars]] não habitariam terras úmidas). Com a morte de [[_wiki/lorvaq_val_kir\|Lorvaq]] e a [[_wiki/queda_de_arothistar\|queda de Arothistar]], o plano de vassalagem morre. Os frenims são isolacionistas por instinto e por cálculo: temem as sombras, e a distância geográfica sempre foi sua melhor defesa.
 
 ### Personagens Notáveis
 
-**[[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]]:** Frenim de poder formidável, mago azul. Fez acordo secreto com [[personagens/arothistar\|Arothistar]], calculando tornar-se o "número 2" do continente como elo indispensável. Aparece no capítulo 13 do Livro I, acompanhado pelo [[_wiki/ranidano\|ranidano]] [[_wiki/babua\|Babua]], comunicando-se via [[_wiki/oculus_morvgradi\|Oculus]]. [[_wiki/lorvaq_val_kir\|Lorvaq]] encarna a grande fraqueza frenim: a inteligência que calcula demais e acredita poder manipular forças maiores do que si.
+**[[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]]:** Frenim de poder formidável, mago azul. Fez acordo secreto com [[_wiki/arothistar\|Arothistar]], calculando tornar-se o "número 2" do continente como elo indispensável. Aparece no capítulo 13 do Livro I, acompanhado pelo [[_wiki/ranidano\|ranidano]] [[_wiki/babua\|Babua]], comunicando-se via [[_wiki/oculus_morvgradi\|Oculus]]. [[_wiki/lorvaq_val_kir\|Lorvaq]] encarna a grande fraqueza frenim: a inteligência que calcula demais e acredita poder manipular forças maiores do que si.
 
 ### Fraquezas
 
@@ -46,4 +46,4 @@ Ao longo dos séculos, as duas raças desenvolveram uma coexistência pacífica,
 - **Dependência dos [[_wiki/siderais\|siderais]]:** Magia azul depende de deuses que vagam pelo [[_wiki/plano_etereo\|Plano Etéreo]], podendo estar próximos ou distantes
 - **Dualidade perceptiva:** O trânsito entre planos confere sabedoria mas também distanciamento; frenims tendem a subestimar ameaças puramente materiais até que seja tarde demais
 
-**Fontes:** Locais 3.6 (§6.16 [[locais/neranthis\|Neranthis]]); Personagens 3.13 (§13.20 [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]]); TSV 2.1; Locais 2.7 ([[locais/neranthis\|Neranthis]]); Outline 6.1 (cap. 13); Mapa de Mistérios 4.2 (13.1, 13.7)
+**Fontes:** Locais 3.6 (§6.16 [[_wiki/neranthis\|Neranthis]]); Personagens 3.13 (§13.20 [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]]); TSV 2.1; Locais 2.7 ([[_wiki/neranthis\|Neranthis]]); Outline 6.1 (cap. 13); Mapa de Mistérios 4.2 (13.1, 13.7)

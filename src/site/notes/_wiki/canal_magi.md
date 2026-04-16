@@ -47,7 +47,7 @@ O encantamento de [[_wiki/babua\|Babua]] ([[_wiki/ranidano\|ranidano]] servo de 
 
 ### Planos Selados e Deuses Aprisionados
 
-Quando um deus é aprisionado em seu próprio plano existencial (caso canônico: [[_wiki/vozrador\|Vozrador]], selado por aliança entre [[panteao/malagoth\|Malagoth]] e [[_wiki/velmorain\|Velmorain]] há ~55 anos), o selo bloqueia a interface do plano com o exterior. A resposta automática cessa: nenhuma comunicação válida atravessa o selo, independentemente de cor, sentimento ou invocação.
+Quando um deus é aprisionado em seu próprio plano existencial (caso canônico: [[_wiki/vozrador\|Vozrador]], selado por aliança entre [[_wiki/malagoth\|Malagoth]] e [[_wiki/velmorain\|Velmorain]] há ~55 anos), o selo bloqueia a interface do plano com o exterior. A resposta automática cessa: nenhuma comunicação válida atravessa o selo, independentemente de cor, sentimento ou invocação.
 
 O selo bloqueia o plano, não a escola. As escolas de [[_wiki/vozrador\|Vozrador]] ([[_wiki/electro\|Electro]] e [[_wiki/nomos\|Nomos]]) continuam acessíveis por outros deuses que as compartilham. Um Justiciar usando [[_wiki/teru\|Teru]] para invocar [[_wiki/electro\|Electro]] comunica-se com o plano de qualquer deus que domine [[_wiki/electro\|Electro]] e cuja interface esteja aberta — não necessariamente com [[_wiki/vozrador\|Vozrador]]. A escola é padrão universal; o plano é instância particular.
 

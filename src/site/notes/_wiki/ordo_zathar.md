@@ -13,7 +13,7 @@ O termo "Ordo Zathar" deriva de [[_wiki/xarn_zareth\|Xarn'Zareth]], a eparquia l
 
 ### Natureza Ideológica
 
-**CRÍTICO:** O Ordo Zathar NÃO é facção libertadora. São tão malignos quanto [[personagens/arothistar\|Arothistar]]: buscam substituir um sistema de controle tirânico por outro igualmente opressivo. Defendem a lei contra o homem, mas não defendem liberdade: apenas outro modo de dominação institucional.
+**CRÍTICO:** O Ordo Zathar NÃO é facção libertadora. São tão malignos quanto [[_wiki/arothistar\|Arothistar]]: buscam substituir um sistema de controle tirânico por outro igualmente opressivo. Defendem a lei contra o homem, mas não defendem liberdade: apenas outro modo de dominação institucional.
 
 **Filosofia operacional:**
 - [[_wiki/lex_obscura_decreto\|Lex Obscura]] (lei de [[_wiki/xarn\|Xarn]]) como fundamento supremo
@@ -23,12 +23,10 @@ O termo "Ordo Zathar" deriva de [[_wiki/xarn_zareth\|Xarn'Zareth]], a eparquia l
 
 ### Estrutura Organizacional
 
-| Posição | Membro | Função Operacional |
-|---------|--------|-------------------|
-| **Líder Operacional** | [[_wiki/jaakurs\|Jaakurs]] | Coordena ações, articula agentes de campo, toma decisões táticas |
-| **Estrategista** | [[_wiki/nyx_ara\|Nyx'Ara]] | Desenha planos de longo prazo da [[_wiki/camara_de_othuun\|Câmara de Othuun]], manipula múltiplas facções |
-| **Infiltrado (Conselho)** | [[_wiki/ulrik_morzenn\|Ulrik Morzenn]] | Cadeira maior no [[_wiki/conselho_sombrio\|Conselho Sombrio]]; sabotagem institucional sutil |
-| **Agente de Campo** | [[_wiki/syndrith_morghast\|Syndrith Morghast]] | Missões operacionais com dupla cobertura (selo púrpura oficial + agenda Ordo) |
+- **Líder Operacional** — Membro: [[_wiki/jaakurs\|Jaakurs]] | Função Operacional: Coordena ações, articula agentes de campo, toma decisões táticas
+- **Estrategista** — Membro: [[_wiki/nyx_ara\|Nyx'Ara]] | Função Operacional: Desenha planos de longo prazo da [[_wiki/camara_de_othuun\|Câmara de Othuun]], manipula múltiplas facções
+- **Infiltrado (Conselho)** — Membro: [[_wiki/ulrik_morzenn\|Ulrik Morzenn]] | Função Operacional: Cadeira maior no [[_wiki/conselho_sombrio\|Conselho Sombrio]]; sabotagem institucional sutil
+- **Agente de Campo** — Membro: [[_wiki/syndrith_morghast\|Syndrith Morghast]] | Função Operacional: Missões operacionais com dupla cobertura (selo púrpura oficial + agenda Ordo)
 
 **Outros membros:** Possível recrutamento entre discípulos de [[_wiki/xarn\|Xarn]], [[_wiki/ophideias\|ophideias]] adicionais, [[_wiki/templarios\|templários]] ideológicos.
 
@@ -54,7 +52,7 @@ Esta camada de segurança operacional protege o fundador do Culto enquanto permi
 - [[_wiki/camara_de_othuun\|Câmara de Othuun]] como centro de inteligência ([[_wiki/nyx_ara\|Nyx'Ara]])
 
 **Dupla cobertura:**
-- [[_wiki/syndrith_morghast\|Syndrith]] porta selo púrpura de [[personagens/arothistar\|Arothistar]] enquanto executa agenda do Ordo
+- [[_wiki/syndrith_morghast\|Syndrith]] porta selo púrpura de [[_wiki/arothistar\|Arothistar]] enquanto executa agenda do Ordo
 - Ironia operacional: símbolo imperial usado para missão anti-monárquica
 - Autorização oficial permite acesso a recursos imperiais para fins conspiratórios
 
@@ -82,4 +80,4 @@ Esta camada de segurança operacional protege o fundador do Culto enquanto permi
 **Externo:**
 - [[_wiki/vyrensen\|Vyrensen]] (futuro cadeira maior) pode detectar manobras de [[_wiki/ulrik_morzenn\|Ulrik]]
 - [[_wiki/justiciars\|Justiciars]] veteranos ([[_wiki/orum-rahru\|Orum]]) desconfiam de [[_wiki/jaakurs\|Jaakurs]]
-- [[personagens/arothistar\|Arothistar]] paranóico pode descobrir conspiração a qualquer momento
+- [[_wiki/arothistar\|Arothistar]] paranóico pode descobrir conspiração a qualquer momento

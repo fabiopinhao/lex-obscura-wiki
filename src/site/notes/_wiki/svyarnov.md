@@ -5,7 +5,7 @@
 
 ### Arsenal das Montanhas
 
-Svyarnov comandava a operação da [[_wiki/serpente_purpura\|Serpente Púrpura]] na caverna-arsenal das Montanhas do Oeste, vestindo manto púrpura. Negociava com [[_wiki/yzmareth\|Yzmareth]] do [[cla_myrvethan\|Clã Myr’vethan]] os termos de entrega e pagamento de armamentos, incluindo a localização de uma adaga específica ([[_wiki/fendris\|Fendris]]). [[_wiki/korven\|Korven]], vassalo de [[malachar_vyrensen\|Vyrensen]], operava entre seus tenentes.
+Svyarnov comandava a operação da [[_wiki/serpente_purpura\|Serpente Púrpura]] na caverna-arsenal das Montanhas do Oeste, vestindo manto púrpura. Negociava com [[_wiki/yzmareth\|Yzmareth]] do [[_wiki/cla_myr_vethan\|Clã Myr’vethan]] os termos de entrega e pagamento de armamentos, incluindo a localização de uma adaga específica ([[_wiki/fendris\|Fendris]]). [[_wiki/korven\|Korven]], vassalo de [[_wiki/vyrensen\|Vyrensen]], operava entre seus tenentes.
 
 ### Confronto e Traição
 

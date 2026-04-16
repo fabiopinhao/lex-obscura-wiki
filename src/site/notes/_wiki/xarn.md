@@ -5,11 +5,11 @@
 
 ### Perfil
 
-[[_wiki/shadar\|Shadar]] ancião. Clérigo grão-mestre e líder espiritual do [[_wiki/culto_sombrio\|Culto Sombrio]]. Líder das casas gêmeas: a eparquia de [[_wiki/xarn_zareth\|Xarn'Zareth]] na cidadela subterrânea de [[locais/ghilanna\|Ghilanna]] e a eparquia [[_wiki/xarn_aroth\|Xarn'Aroth]] na região sagrada de [[_wiki/morvgrad\|Morvgrad]]. Autor do Codex que rege a [[_wiki/alianca_subterranea\|Aliança]]: escreveu as leis que outros agora recitam. Arquiteto da [[_wiki/alianca_subterranea\|Aliança Subterrânea]] entre [[_wiki/shadar\|shadars]] e [[_wiki/drul\|druls]]. Unificou templos diabólicos dispersos no [[_wiki/culto_sombrio\|Culto Sombrio]]. Possivelmente divinizado (status incerto). Status: vivo. Localização: [[_wiki/morvgrad\|Morvgrad]] (declarado herege por [[personagens/arothistar\|Arothistar]]).
+[[_wiki/shadar\|Shadar]] ancião. Clérigo grão-mestre e líder espiritual do [[_wiki/culto_sombrio\|Culto Sombrio]]. Líder das casas gêmeas: a eparquia de [[_wiki/xarn_zareth\|Xarn'Zareth]] na cidadela subterrânea de [[_wiki/ghilanna\|Ghilanna]] e a eparquia [[_wiki/xarn_aroth\|Xarn'Aroth]] na região sagrada de [[_wiki/morvgrad\|Morvgrad]]. Autor do Codex que rege a [[_wiki/alianca_subterranea\|Aliança]]: escreveu as leis que outros agora recitam. Arquiteto da [[_wiki/alianca_subterranea\|Aliança Subterrânea]] entre [[_wiki/shadar\|shadars]] e [[_wiki/drul\|druls]]. Unificou templos diabólicos dispersos no [[_wiki/culto_sombrio\|Culto Sombrio]]. Possivelmente divinizado (status incerto). Status: vivo. Localização: [[_wiki/morvgrad\|Morvgrad]] (declarado herege por [[_wiki/arothistar\|Arothistar]]).
 
 ### Papel Narrativo
 
-Não se pronunciou quando [[personagens/arothistar\|Arothistar]] tomou poder. Décadas depois, age: convoca [[_wiki/velmorain\|Velmorain]], mostra destino provável do [[_wiki/imperio_sombrio\|Império]], precipita [[_wiki/queda_de_arothistar\|queda de Arothistar]]. Questiona [[_wiki/milorsevogh_velshard\|Milor]] sobre quem ele realmente é. Declarado herege por [[personagens/arothistar\|Arothistar]]. Encanta [[_wiki/milorsevogh_velshard\|Milor]] durante batalha contra [[_wiki/vekraal\|Vekraal]]. Relação de assimetria com [[_wiki/jaakurs\|Jaakurs]]: Xarn sabe que [[_wiki/jaakurs\|Jaakurs]] conspira no [[_wiki/ordo_zathar\|Ordo Zathar]], mas [[_wiki/jaakurs\|Jaakurs]] não sabe que Xarn sabe.
+Não se pronunciou quando [[_wiki/arothistar\|Arothistar]] tomou poder. Décadas depois, age: convoca [[_wiki/velmorain\|Velmorain]], mostra destino provável do [[_wiki/imperio_sombrio\|Império]], precipita [[_wiki/queda_de_arothistar\|queda de Arothistar]]. Questiona [[_wiki/milorsevogh_velshard\|Milor]] sobre quem ele realmente é. Declarado herege por [[_wiki/arothistar\|Arothistar]]. Encanta [[_wiki/milorsevogh_velshard\|Milor]] durante batalha contra [[_wiki/vekraal\|Vekraal]]. Relação de assimetria com [[_wiki/jaakurs\|Jaakurs]]: Xarn sabe que [[_wiki/jaakurs\|Jaakurs]] conspira no [[_wiki/ordo_zathar\|Ordo Zathar]], mas [[_wiki/jaakurs\|Jaakurs]] não sabe que Xarn sabe.
 
 ### Padrões de Voz
 
@@ -19,7 +19,7 @@ Peso de séculos em cada enunciado. Questiona mais do que declara; mas as pergun
 
 ### Relações-Chave
 
-**[[personagens/arothistar\|Arothistar]] (arquiteto vs. herdeiro):** Escreveu as leis e o Codex que [[personagens/arothistar\|Arothistar]] habita. Convoca [[_wiki/velmorain\|Velmorain]] para precipitar a queda do monarca.
+**[[_wiki/arothistar\|Arothistar]] (arquiteto vs. herdeiro):** Escreveu as leis e o Codex que [[_wiki/arothistar\|Arothistar]] habita. Convoca [[_wiki/velmorain\|Velmorain]] para precipitar a queda do monarca.
 
 **[[_wiki/milorsevogh_velshard\|Milorsevogh]] (questionamento):** Pergunta a [[_wiki/milorsevogh_velshard\|Milor]] sobre sua identidade: o momento em que [[_wiki/milorsevogh_velshard\|Milor]] é visto antes de ver.
 

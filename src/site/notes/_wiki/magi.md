@@ -34,9 +34,9 @@ A causa exata do declínio permanece debatida. Druidas atribuem à destruição 
 O magi não é apenas conceito teórico. Possui manifestações concretas na tecnologia e infraestrutura do mundo:
 
 - **Cristais de magi comprimido:** Alimentam as câmaras de combustão das [[_wiki/bombarda_ananica\|bombardas anânicas]], liberando explosão controlada ao serem ativados por centelha rúnica.
-- **[[_wiki/grilhoes_de_contencao_arcana\|Grilhões de Contenção Arcana]]:** Suprimem (não anulam) magia bloqueando o fluxo do [[_wiki/plano_etereo\|Plano Etéreo]]. Usados em [[locais/mor_severith\|Mor'Severith]] para contenção de prisioneiros.
+- **[[_wiki/grilhoes_de_contencao_arcana\|Grilhões de Contenção Arcana]]:** Suprimem (não anulam) magia bloqueando o fluxo do [[_wiki/plano_etereo\|Plano Etéreo]]. Usados em [[_wiki/mor_severith\|Mor'Severith]] para contenção de prisioneiros.
 - **[[_wiki/luto_de_nillis\|Luto de Nillis]]:** Substância alquímica que suprime magi temporariamente: contramedida antimagia.
-- **[[_wiki/poco_etereo\|Poço Etéreo]]:** Nexo central em [[locais/ghol_mournak\|Ghol'Mournak]] onde comunicações via [[_wiki/oculus_morvgradi\|Oculus]] convergem antes de serem redirecionadas.
+- **[[_wiki/poco_etereo\|Poço Etéreo]]:** Nexo central em [[_wiki/ghol_mournak\|Ghol'Mournak]] onde comunicações via [[_wiki/oculus_morvgradi\|Oculus]] convergem antes de serem redirecionadas.
 
 ### Artefatos: Natureza vs. Carga
 

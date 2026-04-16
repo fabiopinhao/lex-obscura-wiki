@@ -29,7 +29,6 @@ O Império impõe uma língua oficial. As demais sobrevivem por teimosia ou por 
 ## Linguística e Referência
 
 - [[_wiki/historia_linguistica\|História Linguística de Reinkard]] — Evolução das línguas do continente
-- [[fonologia_estetica\|Fonologia e Estética Sonora]] — Design sonoro das línguas
 - [[_wiki/uso_narrativo_linguas\|Uso Narrativo — Guia de Escrita]] — Como as línguas servem a história
 
 ---

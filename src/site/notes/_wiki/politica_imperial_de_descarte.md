@@ -11,12 +11,10 @@
 
 ### Limiares de Descarte
 
-| Limiar | Significado | Ação |
-|--------|-------------|------|
-| 🟢 **Funcional** | Custo aumenta eficiência e não quebra obediência | Mantido, promovido, casos críticos |
-| 🟡 **Contenção** | Custo útil mas com risco lateral | Supervisão, isolamento parcial, missões delimitadas |
-| 🔴 **Descarte** | Custo quebra previsibilidade, lealdade ou controle | Isolamento permanente, neutralização, eliminação |
-| ⚫ **Proibido** | Estágio IV considerado risco sistêmico irreversível | Descarte preventivo no estágio III |
+- **🟢 **Funcional**** — Significado: Custo aumenta eficiência e não quebra obediência | Ação: Mantido, promovido, casos críticos
+- **🟡 **Contenção**** — Significado: Custo útil mas com risco lateral | Ação: Supervisão, isolamento parcial, missões delimitadas
+- **🔴 **Descarte**** — Significado: Custo quebra previsibilidade, lealdade ou controle | Ação: Isolamento permanente, neutralização, eliminação
+- **⚫ **Proibido**** — Significado: Estágio IV considerado risco sistêmico irreversível | Ação: Descarte preventivo no estágio III
 
 ### Escolas por Risco
 
@@ -24,7 +22,7 @@
 - [[_wiki/salvo\|Salvo]] — sabota violência legítima
 - [[_wiki/aero\|Aero]] — recusa compromissos
 - [[_wiki/helio\|Helio]] — expõe operações
-- [[escolas/urano\|Urano]] — abandona deveres
+- [[_wiki/urano\|Urano]] — abandona deveres
 
 **Médio Risco (descarte no IV, com exceções):**
 - [[_wiki/phobos\|Phobos]], [[_wiki/belli\|Belli]], [[_wiki/pyro\|Pyro]], [[_wiki/vita\|Vita]], [[_wiki/spectro\|Spectro]], [[_wiki/gnosi\|Gnosi]]
@@ -44,16 +42,14 @@ O [[_wiki/imperio_sombrio\|Império]] recruta considerando compatibilidade entre
 
 **Resumo por Função:**
 
-| Função | Escolas Desejáveis | Escolas Proibidas |
-|--------|-------------------|-------------------|
-| **[[_wiki/justiciars\|Justiciars]]** | [[_wiki/anatho\|Anatho]], [[_wiki/nomos\|Nomos]], [[_wiki/cryo\|Cryo]], [[_wiki/umbra\|Umbra]] | [[_wiki/salvo\|Salvo]], [[_wiki/aero\|Aero]], [[escolas/urano\|Urano]] |
-| **[[_wiki/ophideias\|Ophideias]]** | [[_wiki/anatho\|Anatho]], [[_wiki/phobos\|Phobos]], [[_wiki/spectro\|Spectro]], [[_wiki/morpho\|Morpho]], [[_wiki/toxo\|Toxo]], [[_wiki/hypno\|Hypno]] | [[_wiki/salvo\|Salvo]], [[_wiki/helio\|Helio]], [[_wiki/sacro\|Sacro]] |
-| **[[_wiki/templarios\|Templários]]** | [[_wiki/pyro\|Pyro]], [[escolas/rupto\|Rupto]], [[_wiki/belli\|Belli]], [[_wiki/geo\|Geo]], [[_wiki/aegis\|Aegis]], [[_wiki/electro\|Electro]] | [[_wiki/gnosi\|Gnosi]], [[_wiki/salvo\|Salvo]] |
-| **Conselheiros** | [[_wiki/nomos\|Nomos]], [[_wiki/cryo\|Cryo]], [[_wiki/gnosi\|Gnosi]] (até III) | [[_wiki/pyro\|Pyro]], [[_wiki/belli\|Belli]], [[_wiki/aero\|Aero]] |
-| **Necromantes** | [[_wiki/necro\|Necro]], [[_wiki/umbra\|Umbra]], [[_wiki/patho\|Patho]] | [[_wiki/vita\|Vita]], [[_wiki/salvo\|Salvo]], [[_wiki/helio\|Helio]] |
-| **Inquisidores** | [[_wiki/anatho\|Anatho]], [[_wiki/phobos\|Phobos]], [[_wiki/psycho\|Psycho]], [[_wiki/sacro\|Sacro]] (até III) | [[_wiki/salvo\|Salvo]], [[_wiki/helio\|Helio]] |
-| **Magistrados** | [[_wiki/nomos\|Nomos]], [[_wiki/cryo\|Cryo]] | [[_wiki/morpho\|Morpho]], [[_wiki/hydro\|Hydro]], [[_wiki/spectro\|Spectro]] |
-| **Curandeiros** | [[_wiki/salvo\|Salvo]] (até II), [[_wiki/vita\|Vita]] (até II), [[_wiki/aegis\|Aegis]] | [[_wiki/necro\|Necro]], [[_wiki/phobos\|Phobos]], [[_wiki/anatho\|Anatho]] |
+- **[[_wiki/justiciars\|Justiciars]]** — Escolas Desejáveis: [[_wiki/anatho\|Anatho]], [[_wiki/nomos\|Nomos]], [[_wiki/cryo\|Cryo]], [[_wiki/umbra\|Umbra]] | Escolas Proibidas: [[_wiki/salvo\|Salvo]], [[_wiki/aero\|Aero]], [[_wiki/urano\|Urano]]
+- **[[_wiki/ophideias\|Ophideias]]** — Escolas Desejáveis: [[_wiki/anatho\|Anatho]], [[_wiki/phobos\|Phobos]], [[_wiki/spectro\|Spectro]], [[_wiki/morpho\|Morpho]], [[_wiki/toxo\|Toxo]], [[_wiki/hypno\|Hypno]] | Escolas Proibidas: [[_wiki/salvo\|Salvo]], [[_wiki/helio\|Helio]], [[_wiki/sacro\|Sacro]]
+- **[[_wiki/templarios\|Templários]]** — Escolas Desejáveis: [[_wiki/pyro\|Pyro]], [[_wiki/rupto\|Rupto]], [[_wiki/belli\|Belli]], [[_wiki/geo\|Geo]], [[_wiki/aegis\|Aegis]], [[_wiki/electro\|Electro]] | Escolas Proibidas: [[_wiki/gnosi\|Gnosi]], [[_wiki/salvo\|Salvo]]
+- **Conselheiros** — Escolas Desejáveis: [[_wiki/nomos\|Nomos]], [[_wiki/cryo\|Cryo]], [[_wiki/gnosi\|Gnosi]] (até III) | Escolas Proibidas: [[_wiki/pyro\|Pyro]], [[_wiki/belli\|Belli]], [[_wiki/aero\|Aero]]
+- **Necromantes** — Escolas Desejáveis: [[_wiki/necro\|Necro]], [[_wiki/umbra\|Umbra]], [[_wiki/patho\|Patho]] | Escolas Proibidas: [[_wiki/vita\|Vita]], [[_wiki/salvo\|Salvo]], [[_wiki/helio\|Helio]]
+- **Inquisidores** — Escolas Desejáveis: [[_wiki/anatho\|Anatho]], [[_wiki/phobos\|Phobos]], [[_wiki/psycho\|Psycho]], [[_wiki/sacro\|Sacro]] (até III) | Escolas Proibidas: [[_wiki/salvo\|Salvo]], [[_wiki/helio\|Helio]]
+- **Magistrados** — Escolas Desejáveis: [[_wiki/nomos\|Nomos]], [[_wiki/cryo\|Cryo]] | Escolas Proibidas: [[_wiki/morpho\|Morpho]], [[_wiki/hydro\|Hydro]], [[_wiki/spectro\|Spectro]]
+- **Curandeiros** — Escolas Desejáveis: [[_wiki/salvo\|Salvo]] (até II), [[_wiki/vita\|Vita]] (até II), [[_wiki/aegis\|Aegis]] | Escolas Proibidas: [[_wiki/necro\|Necro]], [[_wiki/phobos\|Phobos]], [[_wiki/anatho\|Anatho]]
 
 **Princípio:** O custo ontológico *desejável* para uma função é frequentemente *proibitivo* para outra. Isso não é acidente: é engenharia de pessoal.
 
@@ -63,12 +59,10 @@ O [[_wiki/imperio_sombrio\|Império]] recruta considerando compatibilidade entre
 
 **Quem decide descartes:**
 
-| Nível | Autoridade | Escopo |
-|-------|------------|--------|
-| **Tático** | Preceptores de Torre | Recolhimento de praticantes sob sua jurisdição |
-| **Operacional** | Matriarcas [[_wiki/ophideias\|Ophideias]] | Transferências e Missões de Honra para agentes |
-| **Estratégico** | [[_wiki/conselho_sombrio\|Conselho Sombrio]] | Consagrações Finais e Vigílias Eternas |
-| **Excepcional** | [[personagens/arothistar\|Arothistar]] (via Conselheiros) | Casos de alto perfil político |
+- **Tático** — Autoridade: Preceptores de Torre | Escopo: Recolhimento de praticantes sob sua jurisdição
+- **Operacional** — Autoridade: Matriarcas [[_wiki/ophideias\|Ophideias]] | Escopo: Transferências e Missões de Honra para agentes
+- **Estratégico** — Autoridade: [[_wiki/conselho_sombrio\|Conselho Sombrio]] | Escopo: Consagrações Finais e Vigílias Eternas
+- **Excepcional** — Autoridade: [[_wiki/arothistar\|Arothistar]] (via Conselheiros) | Escopo: Casos de alto perfil político
 
 **Processo típico:**
 

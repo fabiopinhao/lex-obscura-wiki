@@ -13,25 +13,25 @@ A história é escrita pelos vencedores. Neste Império, o vencedor nunca mudou.
 
 - [[_wiki/idade_esquecida\|Idade Esquecida]] — Antes dos registros; domínio dos Luminares
 - [[_wiki/primeira_era\|Primeira Era]] — Queda dos Luminares; ascensão humana e shadar
-- [[_referencias/segunda_era\|Segunda Era]] — Peste continental, fundação de Morvgrad, aliança com druls
+- [[_wiki/segunda_era\|Segunda Era]] — Peste continental, fundação de Morvgrad, aliança com druls
 - [[_wiki/terceira_era\|Terceira Era]] — O Império de Arothistar; a era presente
 
 Referências expandidas: [[_wiki/cronologia_referencia\|Cronologia e História — Referência de Eras]] · [[_wiki/cronologia_de_arothistar\|Cronologia de Arothistar]] · [[_wiki/guerras_reinkardicas_a_sombra_desce\|Guerras Reinkárdicas: A Sombra Desce]] · [[_wiki/guerras_reinkardicas_a_ultima_muralha\|Guerras Reinkárdicas: A Última Muralha]] · [[_wiki/guerras_reinkardicas_a_queda_aroth\|Guerras Reinkárdicas: A Queda]]
 
 ## Idade Esquecida
 
-- [[eventos/reinkard_na_idade_esquecida\|Reinkard na Idade Esquecida]] — Domínio dos Luminares; magi abundante, deuses caminhavam entre mortais
+- [[_wiki/reinkard_na_idade_esquecida\|Reinkard na Idade Esquecida]] — Domínio dos Luminares; magi abundante, deuses caminhavam entre mortais
 - [[_wiki/fragmentacoes_dos_luminares\|Fragmentações dos Luminares]] — Cismas internos originaram druls (Vor-Ghol), orcs (montanhas) e undines (costa leste)
 - [[_wiki/guerras_raciais\|Guerras Raciais]] — Disputa entre deuses travada com carne mortal; anterior à civilização organizada
 - [[_wiki/barreira_magica_luminar\|Barreira Mágica Luminar]] — Selamentos arcanos nas cordilheiras que impediam dragões de transpô-las
-- [[eventos/cruzadas_contra_os_luminares\|Cruzadas contra os Luminares]] — Braço militarizado da igreja álvarar contra os elfos da luz
+- [[_wiki/cruzadas_contra_os_luminares\|Cruzadas contra os Luminares]] — Braço militarizado da igreja álvarar contra os elfos da luz
 - [[_wiki/surgimento_dos_primeiros_shadar\|Surgimento dos Primeiros Shadar]] — Dissidentes humanos buscaram pactos diabólicos, sufocados pela ortodoxia álvarar
 
 ## Primeira Era
 
 - [[_wiki/queda_dos_luminares\|Queda dos Luminares]] — Fragmentação definitiva dos elfos da luz; originou elarinos e sylvanos
 - [[_wiki/pax_alabastrina\|Pax Alabastrina]] — Cooperação voluntária entre elarinos e humanos; amadurecimento do sistema Sancta
-- [[eventos/fundacao_de_myrgarde\|Fundação de Myrgarde]] — Cinco cidadelas humanas unidas após expulsão dos Shadars das terras centrais
+- [[_wiki/fundacao_de_myrgarde\|Fundação de Myrgarde]] — Cinco cidadelas humanas unidas após expulsão dos Shadars das terras centrais
 - [[_wiki/migracao_shadar_ao_planalto\|Migração Shadar ao Planalto]] — Perseguidos pela ortodoxia, migraram ao planalto norte e encontraram os druls
 - [[_wiki/expulsao_cultistas_draconicos\|Expulsão dos Cultistas Dracônicos]] — Shadars expulsaram tribos com pactos demoníacos para Varnak; origem dos varnakianos
 - [[_wiki/corrupcao_ovos_dragao\|Corrupção dos Ovos de Dragão]] — Shadars corromperam ninhos abandonados; seleção deliberada originou os kobolds
@@ -44,7 +44,7 @@ Referências expandidas: [[_wiki/cronologia_referencia\|Cronologia e História �
 - [[_wiki/quebra_da_barreira\|Quebra da Barreira]] — Corrupção sombria consumiu magi residual; fronteira norte aberta aos orcs
 - [[_wiki/migracao_de_varna\|Migração de Varna]] — Corrupção tornou Pico de Nethys insustentável; Varna migrou para Varnak
 - [[_wiki/reconstrucao_pos_peste\|Reconstrução e Ascensão de Myrgarde]] — Cooperação interracial pós-peste; Myrgarde tornou-se potência continental
-- [[eventos/fundacao_de_morvgrad\|Fundação de Morvgrad]] — Xarn redigiu a Lex Obscura e unificou os templos; Morvgrad erguida como sede do Culto
+- [[_wiki/fundacao_de_morvgrad\|Fundação de Morvgrad]] — Xarn redigiu a Lex Obscura e unificou os templos; Morvgrad erguida como sede do Culto
 - [[_wiki/alianca_subterranea_evento\|Aliança Subterrânea]] — Pacto Shadar-Drul: druls forneciam magia, shadars forneciam a espada
 - [[_wiki/segunda_migracao_dragoes\|Segunda Migração dos Dragões]] — Grandes tribos partiram para além das cordilheiras; Varna permaneceu
 
@@ -53,7 +53,7 @@ Referências expandidas: [[_wiki/cronologia_referencia\|Cronologia e História �
 - [[_wiki/guerras_reinkardicas_inicio\|Início das Guerras]] — Culto esgotou o planalto; ~50 anos de conflito continental
 - [[_wiki/submissao_da_ventrista\|Submissão da Ventrista]] — Terras férteis na base do planalto; primeiro alvo da descida
 - [[_wiki/ataque_fracassado_a_thalserin\|Ataque Fracassado a Thal'Serin]] — Floresta sagrada resistiu; pacto de Vozrador com os Titãs a protegia
-- [[eventos/frentes_de_guerra_e_destino_das_racas\|Destino das Raças]] — Sylvanos, humanos e gnomos escravizados; gerut sobreviveram pelo terreno titânico
+- [[_wiki/frentes_de_guerra_e_destino_das_racas\|Destino das Raças]] — Sylvanos, humanos e gnomos escravizados; gerut sobreviveram pelo terreno titânico
 - [[_wiki/formalizacao_militar_dos_orcs\|Formalização Militar dos Orcs]] — Ponto de inflexão: fúria tribal transformada em disciplina de campo
 - [[_wiki/guerra_formal_e_impasse_continental\|Guerra Formal e Impasse]] — Myrgarde declarou guerra; coalizão continental contra Morvgrad
 - [[_wiki/rito_de_ossarium_de_dravmir\|Rito de Ossárium de Dravmir]] — Humano convertido em shadar por Vozrador; passou a se chamar Dravhok
@@ -67,9 +67,9 @@ Referências expandidas: [[_wiki/cronologia_referencia\|Cronologia e História �
 - [[_wiki/fundacao_dos_justiciars\|Fundação dos Justiciars]] — Braço judiciário com poder de vida e morte; Orum-Rahru foi o primeiro
 - [[_wiki/proibicao_do_rito_de_ossarium\|Proibição do Rito de Ossárium]] — Declarado heresia capital pelo monarca que passara pelo mesmo rito
 - [[_wiki/instalacao_em_mor_severith\|Instalação em Mor'Severith]] — Arothistar esvaziou a antiga biblioteca do Conselho e tomou-a como torre
-- [[eventos/destruicao_de_lendalas\|Destruição de Lendalas]] — Floresta queimada por fogo alquímico; tornou-se o Campo dos Lamentos
+- [[_wiki/destruicao_de_lendalas\|Destruição de Lendalas]] — Floresta queimada por fogo alquímico; tornou-se o Campo dos Lamentos
 - [[_wiki/queda_de_elenir\|Queda de Elenir]] — Cidadela elarino conquistada; nexus arcanos incorporados à infraestrutura imperial
-- [[eventos/cerco_de_myrgarde\|Cerco de Myrgarde]] — Três anos de cerco; fome, peste e silenciamento dos deuses luminosos
+- [[_wiki/cerco_de_myrgarde\|Cerco de Myrgarde]] — Três anos de cerco; fome, peste e silenciamento dos deuses luminosos
 - [[_wiki/queda_de_myrgarde_e_fim_das_guerras_reinkardicas\|Queda de Myrgarde]] — Última aparição de Arothistar no campo; fim das guerras
 
 ## Terceira Era

@@ -44,12 +44,10 @@ Todo uso de magia possui duplo custo:
 
 2. **Escala do Custo = Escala do Feitiço**
 
-| Magnitude | Custo Temático | Combustível | Duração do Custo |
-|-----------|----------------|-------------|------------------|
-| Menor | Leve (distorção visual leve, tontura breve) | 10-20% | Segundos a minutos |
-| Médio | Moderado (cegueira parcial, confusão significativa) | 30-50% | Minutos a horas |
-| Grande | Severo (cegueira total temporária, colapso) | 60-80% | Horas a dias |
-| Lendário | Potencialmente permanente | 90-100% + risco | Dias a permanente |
+- **Menor** — Custo Temático: Leve (distorção visual leve, tontura breve) | Combustível: 10-20% | Duração do Custo: Segundos a minutos
+- **Médio** — Custo Temático: Moderado (cegueira parcial, confusão significativa) | Combustível: 30-50% | Duração do Custo: Minutos a horas
+- **Grande** — Custo Temático: Severo (cegueira total temporária, colapso) | Combustível: 60-80% | Duração do Custo: Horas a dias
+- **Lendário** — Custo Temático: Potencialmente permanente | Combustível: 90-100% + risco | Duração do Custo: Dias a permanente
 
 ### Mitigação de Custos
 

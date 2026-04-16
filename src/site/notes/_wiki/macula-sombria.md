@@ -11,13 +11,13 @@ A corrupção não destrói a floresta diretamente. Degrada a conexão entre a t
 
 ### Escala Territorial
 
-Todas as florestas titânicas de [[_wiki/reinkard\|Reinkard]] sofrem com a mácula em graus variáveis. [[_wiki/thal_serin\|Thal'Serin]], a mais próxima do planalto [[_wiki/shadar\|shadar]], é a mais afetada. O processo acelera desde que [[personagens/arothistar\|Arothistar]] consolidou domínio sobre [[_wiki/reinkard\|Reinkard]]. A estratégia imperial é paciente: esperar que a corrupção crescente faça os [[_wiki/luminares\|Titãs]] desistirem dos santuários e deixem as florestas desprotegidas para serem consumidas.
+Todas as florestas titânicas de [[_wiki/reinkard\|Reinkard]] sofrem com a mácula em graus variáveis. [[_wiki/thal_serin\|Thal'Serin]], a mais próxima do planalto [[_wiki/shadar\|shadar]], é a mais afetada. O processo acelera desde que [[_wiki/arothistar\|Arothistar]] consolidou domínio sobre [[_wiki/reinkard\|Reinkard]]. A estratégia imperial é paciente: esperar que a corrupção crescente faça os [[_wiki/luminares\|Titãs]] desistirem dos santuários e deixem as florestas desprotegidas para serem consumidas.
 
 [[_wiki/peredur\|Peredur]] confirmou a gravidade: "Esta cresce mais forte com o tempo, não mais fraca." A mácula-sombria é arma de cerco lento, não de batalha.
 
 ### Escala Individual
 
-A mácula pode ser plantada diretamente em seres vivos. [[_wiki/milorsevogh_velshard\|Milor]] implantou mácula-sombria em [[personagens/gaelwyn\|Gaelwyn]] durante o interrogatório, impedindo-o de matá-lo. A floresta detecta a corrupção: árvores sussurram quando [[personagens/gaelwyn\|Gael]] passa, raízes recuam de sua presença. [[_wiki/mirin\|Mirin]] descreveu a marca como perceptível pela própria terra, e [[_wiki/peredur\|Peredur]] a classificou entre maldições "múltiplas e cruéis: maldição, controle, veneno lento... ou algo que ainda não conhecemos."
+A mácula pode ser plantada diretamente em seres vivos. [[_wiki/milorsevogh_velshard\|Milor]] implantou mácula-sombria em [[_wiki/gaelwyn\|Gaelwyn]] durante o interrogatório, impedindo-o de matá-lo. A floresta detecta a corrupção: árvores sussurram quando [[_wiki/gaelwyn\|Gael]] passa, raízes recuam de sua presença. [[_wiki/mirin\|Mirin]] descreveu a marca como perceptível pela própria terra, e [[_wiki/peredur\|Peredur]] a classificou entre maldições "múltiplas e cruéis: maldição, controle, veneno lento... ou algo que ainda não conhecemos."
 
 No Mapa de Mistérios, a mácula individual é descrita como "fragmento de [[_wiki/vazio\|vazio]] dentro de si": linguagem que conecta o fenômeno ao [[_wiki/vazio\|Vazio]] como conceito metafísico central do universo.
 

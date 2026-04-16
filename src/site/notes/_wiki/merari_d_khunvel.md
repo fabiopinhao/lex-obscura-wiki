@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[_wiki/shadar\|Shadar]] de baixo escalão. Lorde Sombrio designado para administrar [[_wiki/niedellin\|Niedellin]] e arredores, incluindo bordas de [[_wiki/thal_serin\|Thal'Serin]]. Temperamento menos sádico que outros lordes provinciais: prefere controles indiretos a violência aberta. Status: aprisionado ([[locais/ghol_drokh\|Ghol'Drokh]], aguardando decisão do Círculo Interior). Localização atual: [[locais/ghol_drokh\|Ghol'Drokh]]. [Nota: o arquivo 2.9 registra "Merari" sem sobrenome. Nomenclatura canônica: "Merari d'Khunvel" (este documento).]
+[[_wiki/shadar\|Shadar]] de baixo escalão. Lorde Sombrio designado para administrar [[_wiki/niedellin\|Niedellin]] e arredores, incluindo bordas de [[_wiki/thal_serin\|Thal'Serin]]. Temperamento menos sádico que outros lordes provinciais: prefere controles indiretos a violência aberta. Status: aprisionado ([[_wiki/ghol_drokh\|Ghol'Drokh]], aguardando decisão do Círculo Interior). Localização atual: [[_wiki/ghol_drokh\|Ghol'Drokh]]. [Nota: o arquivo 2.9 registra "Merari" sem sobrenome. Nomenclatura canônica: "Merari d'Khunvel" (este documento).]
 
 ### Administração
 

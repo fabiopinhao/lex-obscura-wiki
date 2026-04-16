@@ -13,13 +13,13 @@ Surgiram na [[_wiki/primeira_era\|Primeira Era]] como paladinos do panteão lumi
 
 ### Cultura e Sociedade
 
-Dados culturais limitados no presente narrativo, pois a linhagem está efetivamente extinta como força organizada após a conquista de [[locais/myrgarde\|Myrgarde]] e [[_wiki/elenir\|Elenir]]. No período pré-conquista, álvarars ocupavam o topo da hierarquia militar e religiosa de [[locais/myrgarde\|Myrgarde]].
+Dados culturais limitados no presente narrativo, pois a linhagem está efetivamente extinta como força organizada após a conquista de [[_wiki/myrgarde\|Myrgarde]] e [[_wiki/elenir\|Elenir]]. No período pré-conquista, álvarars ocupavam o topo da hierarquia militar e religiosa de [[_wiki/myrgarde\|Myrgarde]].
 
-Sir [[_wiki/grimald\|Grimald]], "Lâmina Dourada", é o álvarar mais proeminente no Livro I. Armadura dourada, presença esmagadora. Detectou a entidade ([[_wiki/estatueta_de_vozrador\|estatueta de Vozrador]]) no bolso de [[personagens/arothistar\|Dravmir]] jovem e rejeitou seu alistamento: "Não vejo em você o que procuro." Decisão "tomada anos atrás", segundo ele. Quando [[personagens/arothistar\|Dravmir]] retorna adulto, [[_wiki/grimald\|Grimald]] treme ao vê-lo e identifica "algo que não pertence aqui". A rejeição de [[_wiki/grimald\|Grimald]] é a porta que empurra [[personagens/arothistar\|Dravmir]] para o caminho sombrio.
+Sir [[_wiki/grimald\|Grimald]], "Lâmina Dourada", é o álvarar mais proeminente no Livro I. Armadura dourada, presença esmagadora. Detectou a entidade ([[_wiki/estatueta_de_vozrador\|estatueta de Vozrador]]) no bolso de [[_wiki/arothistar\|Dravmir]] jovem e rejeitou seu alistamento: "Não vejo em você o que procuro." Decisão "tomada anos atrás", segundo ele. Quando [[_wiki/arothistar\|Dravmir]] retorna adulto, [[_wiki/grimald\|Grimald]] treme ao vê-lo e identifica "algo que não pertence aqui". A rejeição de [[_wiki/grimald\|Grimald]] é a porta que empurra [[_wiki/arothistar\|Dravmir]] para o caminho sombrio.
 
 ### Relação com [[_wiki/shadar\|Shadars]]
 
-Inimigos ontológicos. [[_wiki/orum-rahru\|Orum]] contempla do topo de [[_wiki/mor_draconis\|Mor'Draconis]] as montanhas onde anões foram escravizados, florestas queimadas, planícies de ossos, e a conquista de [[locais/myrgarde\|Myrgarde]] onde álvarars foram derrotados. No presente, são linhagem quase extinta, referência histórica mais que ameaça ativa.
+Inimigos ontológicos. [[_wiki/orum-rahru\|Orum]] contempla do topo de [[_wiki/mor_draconis\|Mor'Draconis]] as montanhas onde anões foram escravizados, florestas queimadas, planícies de ossos, e a conquista de [[_wiki/myrgarde\|Myrgarde]] onde álvarars foram derrotados. No presente, são linhagem quase extinta, referência histórica mais que ameaça ativa.
 
 ### Fraquezas
 

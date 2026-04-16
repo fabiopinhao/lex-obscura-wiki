@@ -5,7 +5,7 @@
 
 ### Natureza
 
-Humanoides ratiformes que habitam os espaços que ninguém mais quer: esgotos, frestas entre muros, túneis colapsados, as camadas intermediárias de [[_wiki/vor-ghol\|Vor-Ghol]], abaixo das forjas [[racas/karashim\|karashim]] e acima das cidadelas [[_wiki/drul\|drul]]. Menores humanoides de [[_wiki/reinkard\|Reinkard]] fora das raças gnômicas, atingindo entre 1m e 1,40m eretos. A maioria das raças os confunde com animais. A confusão não é acidental: parecer vermin é mais seguro do que parecer gente.
+Humanoides ratiformes que habitam os espaços que ninguém mais quer: esgotos, frestas entre muros, túneis colapsados, as camadas intermediárias de [[_wiki/vor-ghol\|Vor-Ghol]], abaixo das forjas [[_wiki/karashim\|karashim]] e acima das cidadelas [[_wiki/drul\|drul]]. Menores humanoides de [[_wiki/reinkard\|Reinkard]] fora das raças gnômicas, atingindo entre 1m e 1,40m eretos. A maioria das raças os confunde com animais. A confusão não é acidental: parecer vermin é mais seguro do que parecer gente.
 
 ### Origem Cosmogônica
 
@@ -21,7 +21,7 @@ A versão [[_wiki/drul\|drul]] é mito, tendenciosa e possivelmente falsa. É ta
 
 Postura naturalmente curvada, inclinados para frente, braços livres. Focinhos afilados com nariz em movimento constante. Incisivos superiores crescem ao longo da vida e precisam ser desgastados por roer; muranos impedidos de roer desenvolvem má oclusão que eventualmente impede a alimentação.
 
-**Vibrissas** são o órgão sensorial dominante. Longas e distribuídas em leque ao redor do focinho, captam vibrações no ar e em superfícies. Um murano de olhos vendados navega com precisão aceitável. Cortá-las equivale a cegueira funcional; é método de tortura registrado em [[locais/ghol_drokh\|Ghol'Drokh]].
+**Vibrissas** são o órgão sensorial dominante. Longas e distribuídas em leque ao redor do focinho, captam vibrações no ar e em superfícies. Um murano de olhos vendados navega com precisão aceitável. Cortá-las equivale a cegueira funcional; é método de tortura registrado em [[_wiki/ghol_drokh\|Ghol'Drokh]].
 
 Olhos grandes e escuros, pupilas que dilatam até cobrir quase toda a íris na penumbra. Visão noturna excelente; luz solar direta causa desconforto agudo. Orelhas arredondadas e móveis, giram independentemente para localizar sons. Pelagem curta, densa e oleosa em tons de cinza-esgoto e marrom-ferrugem. A oleosidade repele água e parasitas, mas produz um cheiro almiscarado que outras raças acham repulsivo.
 
@@ -85,7 +85,7 @@ Os poucos muranos com aptidão arcana gravitaram para **magia de ocultação** (
 
 ### Voz Narrativa (guia de escrita)
 
-Muranos falam rápido, alto e demais. Onde [[racas/varglin\|varglins]] economizam cada sílaba, muranos inundam o interlocutor com palavras. Quem fala mais controla a conversa; quem controla a conversa come.
+Muranos falam rápido, alto e demais. Onde [[_wiki/varglin\|varglins]] economizam cada sílaba, muranos inundam o interlocutor com palavras. Quem fala mais controla a conversa; quem controla a conversa come.
 
 **Padrões de fala:**
 - Frases longas, acumulativas, com mudanças de assunto no meio. Começam falando de preço e terminam na própria infância.
@@ -97,7 +97,7 @@ Muranos falam rápido, alto e demais. Onde [[racas/varglin\|varglins]] economiza
 **Exemplo:**
 — Três corredores. Três, eu contei, porque sou o tipo de murano que conta. O da esquerda cheira a cobre velho, mofo e coisa nenhuma, o que é bom, coisa nenhuma é bom. O do meio cheira a drul, que é ruim. O da direita... *(pausa, fareja)* ...o da direita cheira a comida velha e medo novo. Medo novo e comida velha, meu amigo, é emboscada. Confie em mim, eu que já andei em todos os canos de [[_wiki/morvgrad\|Morvgrad]] e perdi a conta dos cobres que valho.
 
-**Contraste:** [[_wiki/worg\|Worgs]] falam para negociar, [[racas/varglin\|varglins]] para sobreviver, muranos para *existir*. A verborragia é afirmação ontológica.
+**Contraste:** [[_wiki/worg\|Worgs]] falam para negociar, [[_wiki/varglin\|varglins]] para sobreviver, muranos para *existir*. A verborragia é afirmação ontológica.
 
 ### Conflitos Internos
 
@@ -105,7 +105,7 @@ Muranos falam rápido, alto e demais. Onde [[racas/varglin\|varglins]] economiza
 
 **Possuídos.** Muranos de olhos vermelhos incandescentes ainda emitem no espectro ultrassônico. Mas o sinal é distorcido: em vez de medo ou direção, transmite imobilidade e obediência. Para muranos livres, aproximar-se de um possuído é captar sinais familiares carregando ordens que não fazem sentido. Zonas inteiras de [[_wiki/vor-ghol\|Vor-Ghol]] ficaram inacessíveis.
 
-**O Erro como identidade.** Se a versão [[_wiki/drul\|drul]] estiver correta, muranos são o subproduto acidental de um deus que tentava fazer outra coisa. Os que conhecem o mito reagem com o humor que lhes resta: "Se até quem nos fez errou, imagina quem tenta nos matar." A pergunta subjacente é a mesma que [[racas/varglin\|varglins]] fazem em silêncio: por que continuar? A resposta murana é mais simples: porque ainda tem fome. Quando a fome acabar, a resposta acaba junto.
+**O Erro como identidade.** Se a versão [[_wiki/drul\|drul]] estiver correta, muranos são o subproduto acidental de um deus que tentava fazer outra coisa. Os que conhecem o mito reagem com o humor que lhes resta: "Se até quem nos fez errou, imagina quem tenta nos matar." A pergunta subjacente é a mesma que [[_wiki/varglin\|varglins]] fazem em silêncio: por que continuar? A resposta murana é mais simples: porque ainda tem fome. Quando a fome acabar, a resposta acaba junto.
 
 ### Ciclo Vital
 

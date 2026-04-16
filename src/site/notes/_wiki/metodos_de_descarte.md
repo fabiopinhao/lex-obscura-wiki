@@ -5,13 +5,11 @@
 
 ### Categorias
 
-| Categoria | Termo Oficial | Realidade | Aplicação Típica |
-|-----------|---------------|-----------|------------------|
-| **Isolamento Funcional** | "Recolhimento" | Confinamento permanente com utilidade residual | [[_wiki/gnosi\|Gnosi]] IV, [[_wiki/spectro\|Spectro]] IV, [[_wiki/chrono\|Chrono]] IV |
-| **Redirecionamento Letal** | "Missão de Honra" | Tarefa suicida disfarçada de privilégio | [[_wiki/belli\|Belli]] IV, [[_wiki/pyro\|Pyro]] IV, [[escolas/rupto\|Rupto]] IV |
-| **Neutralização Ritual** | "Consagração Final" | Execução cerimonial com extração de [[_wiki/magi\|magi]] | [[_wiki/salvo\|Salvo]] III, [[_wiki/helio\|Helio]] III, [[escolas/urano\|Urano]] III |
-| **Desaparecimento Administrativo** | "Transferência" | Eliminação silenciosa, sem registro | [[_wiki/anatho\|Anatho]] IV, [[_wiki/psycho\|Psycho]] IV, [[_wiki/morpho\|Morpho]] IV |
-| **Contenção Perpétua** | "Vigília Eterna" | Suspensão mágica entre vida e morte | [[_wiki/necro\|Necro]] IV, [[_wiki/vita\|Vita]] IV |
+- **Isolamento Funcional** — Termo Oficial: "Recolhimento" | Realidade: Confinamento permanente com utilidade residual | Aplicação Típica: [[_wiki/gnosi\|Gnosi]] IV, [[_wiki/spectro\|Spectro]] IV, [[_wiki/chrono\|Chrono]] IV
+- **Redirecionamento Letal** — Termo Oficial: "Missão de Honra" | Realidade: Tarefa suicida disfarçada de privilégio | Aplicação Típica: [[_wiki/belli\|Belli]] IV, [[_wiki/pyro\|Pyro]] IV, [[_wiki/rupto\|Rupto]] IV
+- **Neutralização Ritual** — Termo Oficial: "Consagração Final" | Realidade: Execução cerimonial com extração de [[_wiki/magi\|magi]] | Aplicação Típica: [[_wiki/salvo\|Salvo]] III, [[_wiki/helio\|Helio]] III, [[_wiki/urano\|Urano]] III
+- **Desaparecimento Administrativo** — Termo Oficial: "Transferência" | Realidade: Eliminação silenciosa, sem registro | Aplicação Típica: [[_wiki/anatho\|Anatho]] IV, [[_wiki/psycho\|Psycho]] IV, [[_wiki/morpho\|Morpho]] IV
+- **Contenção Perpétua** — Termo Oficial: "Vigília Eterna" | Realidade: Suspensão mágica entre vida e morte | Aplicação Típica: [[_wiki/necro\|Necro]] IV, [[_wiki/vita\|Vita]] IV
 
 ### Protocolos Detalhados
 

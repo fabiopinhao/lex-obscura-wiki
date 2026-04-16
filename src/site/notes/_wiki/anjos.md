@@ -25,4 +25,4 @@ Na [[_wiki/primeira_era\|Primeira Era]], os praticantes mais devotos geraram os 
 
 ### Anjos Nomeados
 
-**[[_wiki/azazel\|Azazel]]**: deus da justiça luminosa. [[_wiki/abramis\|Abramis]] é devoto. **[[_wiki/israfil\|Israfil]]**: bênção incompatível com maldição de [[panteao/malagoth\|Malagoth]], causa deterioração acelerada em [[_wiki/auren\|Auren]].
+**[[_wiki/azazel\|Azazel]]**: deus da justiça luminosa. [[_wiki/abramis\|Abramis]] é devoto. **[[_wiki/israfil\|Israfil]]**: bênção incompatível com maldição de [[_wiki/malagoth\|Malagoth]], causa deterioração acelerada em [[_wiki/auren\|Auren]].

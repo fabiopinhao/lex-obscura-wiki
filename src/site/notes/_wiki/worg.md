@@ -12,7 +12,7 @@ Nem homem, nem besta. Habitam o limiar entre civilização e selvageria. Conscie
 **As origens dos worgs são matéria de disputa entre sábios, sem consenso canônico:**
 
 **- Corrupção Druídica: antigos metamorfos que ficaram presos entre formas durante ritual corrompido na [[_wiki/primeira_era\|Primeira Era]]. A floresta os rejeitou, a civilização os temeu, restando apenas os espaços entre ambas.**
-**- Experimento Sombrio: criações deliberadas de arcanistas da [[_referencias/segunda_era\|Segunda Era]], tentando produzir soldados com força bestial e inteligência humana. Bem-sucedidos demais para serem controlados, não o suficiente para serem replicados.**
+**- Experimento Sombrio: criações deliberadas de arcanistas da [[_wiki/segunda_era\|Segunda Era]], tentando produzir soldados com força bestial e inteligência humana. Bem-sucedidos demais para serem controlados, não o suficiente para serem replicados.**
 **- Evolução Planar: lobos expostos a energias planares por gerações em regiões onde o véu entre planos é fino. Desenvolveram consciência, polegares opositores e amargura existencial.**
 
 **As três teorias não são mutuamente excludentes; diferentes linhagens de worgs podem ter origens distintas, convergindo para forma similar por pressão de sobrevivência.**
@@ -60,9 +60,9 @@ Nem homem, nem besta. Habitam o limiar entre civilização e selvageria. Conscie
 
 Nas eras primordiais, os worgs organizavam-se em alcateias tribais de 5 a 15 indivíduos. A estrutura era instintiva: um *Fangkyn* (líder) mantinha o grupo alimentado e invisível. A posição se conquistava por competência prática, ao contrário dos [[_wiki/orc\|orcs]] (onde força bruta determina hierarquia): quem mantém o grupo vivo lidera.
 
-Nessas alcateias, worgs e [[racas/varglin\|varglins]] coexistiam em simbiose, os [[racas/varglin\|varglins]] atuando como batedores e sentinelas. Os worgs se reproduziam com facilidade. Cultuavam seus patronos diabólicos com uivos rituais noturnos, eco das [[_wiki/guerras_raciais\|Guerras Raciais]] quando o uivo era invocação de combate. As alcateias prosperavam nas margens, nunca no centro.
+Nessas alcateias, worgs e [[_wiki/varglin\|varglins]] coexistiam em simbiose, os [[_wiki/varglin\|varglins]] atuando como batedores e sentinelas. Os worgs se reproduziam com facilidade. Cultuavam seus patronos diabólicos com uivos rituais noturnos, eco das [[_wiki/guerras_raciais\|Guerras Raciais]] quando o uivo era invocação de combate. As alcateias prosperavam nas margens, nunca no centro.
 
-📝 *Para a ruptura worg-varglin e o destino dos [[racas/varglin\|varglins]], ver [[_wiki/vulfano\|vulfano]].*
+📝 *Para a ruptura worg-varglin e o destino dos [[_wiki/varglin\|varglins]], ver [[_wiki/vulfano\|vulfano]].*
 
 #### Alcateias Modernas ([[_wiki/terceira_era\|Terceira Era]])
 

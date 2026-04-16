@@ -4,11 +4,9 @@
 
 
 ### Níveis do Tribunal
-| Nível | Nome | Jurisdição | Composição |
-|-------|------|------------|------------|
-| **Primeiro** | Câmara Baixa | Crimes menores, punições mundanas | Escribas e tabeliães |
-| **Segundo** | Câmara Alta | Transgressões contra a [[lex_obscura\|Lex Obscura]] | Lordes sombrios veteranos + membros do [[_wiki/conselho_sombrio\|Conselho Sombrio]] |
-| **Terceiro** | Círculo Interior | Heresias e traições capitais | [[personagens/arothistar\|Arothistar]] ou seus Arcontes |
+- **Primeiro** — Nome: Câmara Baixa | Jurisdição: Crimes menores, punições mundanas | Composição: Escribas e tabeliães
+- **Segundo** — Nome: Câmara Alta | Jurisdição: Transgressões contra a [[_wiki/lex_obscura_decreto\|Lex Obscura]] | Composição: Lordes sombrios veteranos + membros do [[_wiki/conselho_sombrio\|Conselho Sombrio]]
+- **Terceiro** — Nome: Círculo Interior | Jurisdição: Heresias e traições capitais | Composição: [[_wiki/arothistar\|Arothistar]] ou seus Arcontes
 
 
 ### Estrutura e Jurisdição
@@ -40,13 +38,11 @@ Ala de copistas e exegetas do Culto onde se reproduzem e glosam os códices do [
 
 ### Instrumentos Processuais
 
-| Instrumento | Função |
-|-------------|--------|
-| **[[_wiki/tabua_reversa\|Tábua Reversa]]** | Ardósia negra para registros judiciais. Notas em giz arcano que só se revelam sob condições específicas. |
-| **[[_wiki/veredictum_exkarthon\|Veredictum Exkarthon]]** | Direito do acusado de exigir apresentação de provas antes da sentença final. Uma das poucas proteções processuais. |
-| **Sigilo de [[_wiki/abbhal\|Abbhal]]** | Sentença máxima: aprisionamento eterno da alma no próprio corpo (o corpo torna-se a dimensão de tormento). Reservado para traidores do mais alto escalão. |
-| **[[_wiki/sigilo_de_abbhal\|Marca do Condenado]]** | Encantamentos contratuais para vincular magicamente raças subjugadas a contratos de serviços sensíveis. |
-| **Cadeia de custódia** | Protocolo que exige registro contínuo de posse e manuseio de evidências arcanas e documentos processuais. Qualquer quebra na cadeia invalida a prova perante o Círculo Interior, conforme precedente firmado na [[_wiki/codex_somniorum\|Lex Obscura]]. |
+- **[[_wiki/tabua_reversa\|Tábua Reversa]]**: Ardósia negra para registros judiciais. Notas em giz arcano que só se revelam sob condições específicas.
+- **[[_wiki/veredictum_exkarthon\|Veredictum Exkarthon]]**: Direito do acusado de exigir apresentação de provas antes da sentença final. Uma das poucas proteções processuais.
+- **Sigilo de [[_wiki/abbhal\|Abbhal]]**: Sentença máxima: aprisionamento eterno da alma no próprio corpo (o corpo torna-se a dimensão de tormento). Reservado para traidores do mais alto escalão.
+- **[[_wiki/sigilo_de_abbhal\|Marca do Condenado]]**: Encantamentos contratuais para vincular magicamente raças subjugadas a contratos de serviços sensíveis.
+- **Cadeia de custódia**: Protocolo que exige registro contínuo de posse e manuseio de evidências arcanas e documentos processuais. Qualquer quebra na cadeia invalida a prova perante o Círculo Interior, conforme precedente firmado na [[_wiki/codex_somniorum\|Lex Obscura]].
 
 ### Relação com [[_wiki/justiciars\|Justiciars]]
 
@@ -58,9 +54,9 @@ Tensão latente existe: [[_wiki/justiciars\|Justiciars]] veem o Tribunal como le
 
 ### Precedentes Notáveis
 
-- **Caso [[_wiki/milorsevogh_velshard\|Velshard]]:** Julgamento in absentia de [[_wiki/milorsevogh_velshard\|Milor]] durante período de espionagem em [[locais/myrgarde\|Myrgarde]]. Arquivado.
+- **Caso [[_wiki/milorsevogh_velshard\|Velshard]]:** Julgamento in absentia de [[_wiki/milorsevogh_velshard\|Milor]] durante período de espionagem em [[_wiki/myrgarde\|Myrgarde]]. Arquivado.
 - **Heresia de [[_wiki/qaelun\|Qaelun]]:** Necromante julgado postumamente após eliminação por [[_wiki/orum-rahru\|Orum]]. Tribunal ratificou a execução sumária.
-- **Protocolo Iconográfico:** Estabeleceu regras sobre representações de [[personagens/arothistar\|Arothistar]].
+- **Protocolo Iconográfico:** Estabeleceu regras sobre representações de [[_wiki/arothistar\|Arothistar]].
 
 ### Legislação sobre Raças Menores e Criaturas Bestiais
 

@@ -5,11 +5,11 @@
 
 ### Perfil
 
-Justiciar recém-ungido, veterano das Guerras Reinkárdicas (campanhas de [[locais/myrgarde\|Myrgarde]] e [[_wiki/elenir\|Elenir]]). [[_wiki/shadar\|Shadar]] de percepção analítica tipo Sherlock Holmes: encontra nexos onde outros veem apenas ruído: padrões em delírios, confissões em silêncios, sentido em fragmentos de mentes corroídas por necromancia ou tortura. Métodos calculistas de interrogatório. Raça: [[_wiki/shadar\|Shadar]]. Afiliação: [[_wiki/justiciars\|Justiciars]]. Localização atual: retornando a [[_wiki/morvgrad\|Morvgrad]]. Status: vivo.
+Justiciar recém-ungido, veterano das Guerras Reinkárdicas (campanhas de [[_wiki/myrgarde\|Myrgarde]] e [[_wiki/elenir\|Elenir]]). [[_wiki/shadar\|Shadar]] de percepção analítica tipo Sherlock Holmes: encontra nexos onde outros veem apenas ruído: padrões em delírios, confissões em silêncios, sentido em fragmentos de mentes corroídas por necromancia ou tortura. Métodos calculistas de interrogatório. Raça: [[_wiki/shadar\|Shadar]]. Afiliação: [[_wiki/justiciars\|Justiciars]]. Localização atual: retornando a [[_wiki/morvgrad\|Morvgrad]]. Status: vivo.
 
 ### Magia e Habilidades
 
-Especializado em [[_wiki/anatho\|Anatho]] (maldições). Carrega marca sombria no pulso de magias proibidas em [[_wiki/khargoth\|Khargoth]]: a marca "dorme" por enquanto. Domina sistema de magia [[_wiki/teru\|Teru]] (independente de pactos divinos), desenvolvido por [[_wiki/naiu_wula\|Naiu'Wula]]. Pacto ativo: [[_wiki/vozrador\|Vozrador]] (estabelecido no Livro I após aceitação em [[_wiki/elenir\|Elenir]]). Juramento a [[panteao/morlgrund\|Morlgrund]] (não configura pacto divino).
+Especializado em [[_wiki/anatho\|Anatho]] (maldições). Carrega marca sombria no pulso de magias proibidas em [[_wiki/khargoth\|Khargoth]]: a marca "dorme" por enquanto. Domina sistema de magia [[_wiki/teru\|Teru]] (independente de pactos divinos), desenvolvido por [[_wiki/naiu_wula\|Naiu'Wula]]. Pacto ativo: [[_wiki/vozrador\|Vozrador]] (estabelecido no Livro I após aceitação em [[_wiki/elenir\|Elenir]]). Juramento a [[_wiki/morlgrund\|Morlgrund]] (não configura pacto divino).
 
 ### Padrões de Voz
 
@@ -33,6 +33,6 @@ Vocabulário: escolhe termos precisos sobre imagens. Nunca pede desculpas. Jamai
 
 **[[_wiki/grothar\|Grothar]] (aliado):** Leal irrestrito. [[_wiki/grothar\|Grothar]] endossou Milor com a palavra que importa entre [[_wiki/orc\|orcs]]: "Este sabe o que diz. E faz o que sabe." Relação de confiança conquistada, não assumida.
 
-**[[personagens/arothistar\|Arothistar]] (autoridade / alvo):** [[personagens/arothistar\|Arothistar]] chama Milor de "meu prodígio": o monarca o conhece pelo nome e o designou para [[_wiki/thal_serin\|Thal'Serin]] antes do fim do Livro I. Milor executará [[personagens/arothistar\|Arothistar]] [Livro III]. Conexão mais complexa do livro: o instrumento do amo que destrói o amo.
+**[[_wiki/arothistar\|Arothistar]] (autoridade / alvo):** [[_wiki/arothistar\|Arothistar]] chama Milor de "meu prodígio": o monarca o conhece pelo nome e o designou para [[_wiki/thal_serin\|Thal'Serin]] antes do fim do Livro I. Milor executará [[_wiki/arothistar\|Arothistar]] [Livro III]. Conexão mais complexa do livro: o instrumento do amo que destrói o amo.
 
 **[[_wiki/vozrador\|Vozrador]] (pacto):** Pacto aceito como recurso de sobrevivência em [[_wiki/elenir\|Elenir]]. Maldição residual: queima ao tocar solo sagrado alabastrino.

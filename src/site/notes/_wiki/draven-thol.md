@@ -9,7 +9,7 @@
 
 ### Papel Narrativo
 
-Reportava ao Conselho sobre disputas entre clãs anões confinados, sabotagem entre forjarias, queda de produção. Defendido por [[_wiki/orum-rahru\|Orum]] ("sabe o que faz"). Interrogou [[_wiki/jalu_nvara\|Jalú'Nvara]] nas masmorras usando tábua de registros. Trabalhava para [[personagens/arothistar\|Arothistar]] sem saber. Desaparecido após confronto com drakhonins (~5 anos antes). [[personagens/arothistar\|Arothistar]] responsabiliza [[_wiki/yzmareth\|Yzmareth]] e sua tribo pelo sumiço. [[_wiki/thrax\|Thrax]] capturado como garantia até seu retorno. [[_wiki/fendris\|Fendris]] originalmente em sua custódia. Aparece via [[_wiki/oculus_morvgradi\|Oculus]] em Cap. 2.1.
+Reportava ao Conselho sobre disputas entre clãs anões confinados, sabotagem entre forjarias, queda de produção. Defendido por [[_wiki/orum-rahru\|Orum]] ("sabe o que faz"). Interrogou [[_wiki/jalu_nvara\|Jalú'Nvara]] nas masmorras usando tábua de registros. Trabalhava para [[_wiki/arothistar\|Arothistar]] sem saber. Desaparecido após confronto com drakhonins (~5 anos antes). [[_wiki/arothistar\|Arothistar]] responsabiliza [[_wiki/yzmareth\|Yzmareth]] e sua tribo pelo sumiço. [[_wiki/thrax\|Thrax]] capturado como garantia até seu retorno. [[_wiki/fendris\|Fendris]] originalmente em sua custódia. Aparece via [[_wiki/oculus_morvgradi\|Oculus]] em Cap. 2.1.
 
 ### Padrões de Voz
 

@@ -7,11 +7,11 @@
 
 As ophideias são sacerdotisas [[_wiki/drul\|drul]] treinadas como espiãs-assassinas. Não são soldados: são instrumentos de precisão. Operam na interseção entre religião, espionagem e violência cirúrgica, servindo simultaneamente às Casas Matriarcais do [[_wiki/vor-ghol\|Vor-Ghol]] e ao aparato imperial do [[_wiki/culto_sombrio\|Culto Sombrio]].
 
-A dualidade é funcional: as matriarcas de [[locais/ghilanna\|Ghilanna]] as formam, os templos de [[_wiki/morvgrad\|Morvgrad]] as empregam. Quem detém a lealdade final depende da ophideia individual, e é exatamente essa ambiguidade que as torna valiosas e perigosas para todos os lados.
+A dualidade é funcional: as matriarcas de [[_wiki/ghilanna\|Ghilanna]] as formam, os templos de [[_wiki/morvgrad\|Morvgrad]] as empregam. Quem detém a lealdade final depende da ophideia individual, e é exatamente essa ambiguidade que as torna valiosas e perigosas para todos os lados.
 
 ### Seleção e Formação
 
-Ophideias são selecionadas entre meninas [[_wiki/drul\|drul]] das Casas Matriarcais, geralmente antes dos dez anos. Critérios incluem aptidão mágica para [[_wiki/spectro\|Spectro]] ou [[_wiki/umbra\|Umbra]], temperamento frio e predisposição a obediência institucional. A formação ocorre nos templos de [[locais/ghilanna\|Ghilanna]] e dura anos, combinando:
+Ophideias são selecionadas entre meninas [[_wiki/drul\|drul]] das Casas Matriarcais, geralmente antes dos dez anos. Critérios incluem aptidão mágica para [[_wiki/spectro\|Spectro]] ou [[_wiki/umbra\|Umbra]], temperamento frio e predisposição a obediência institucional. A formação ocorre nos templos de [[_wiki/ghilanna\|Ghilanna]] e dura anos, combinando:
 
 Treinamento sensorial: visão noturna refinada (dezenas de tons entre obsidiana e carvão: "distinguir breu ou morrer no escuro"). Treinamento marcial: rapieiras, balestras de repetição, venenos. Treinamento mágico: ênfase em [[_wiki/spectro\|Spectro]] (atravessar matéria, projeção espectral, sondagem) e invocação de [[_wiki/ulravaeth\|Ulravaeth]] ([[_wiki/ulravaeth\|Vigil of the Between]], [[_wiki/ulravaeth\|Custódio do Entre]]) para manipulação da própria sombra.
 
@@ -19,7 +19,7 @@ O resultado são agentes que se movem entre mundos (literalmente, no caso de [[_
 
 ### Ritos
 
-**Sopro de Lúrio:** Rito debilitante que usa lúrio (substância ritual) administrado em dose controlada. Efeitos progressivos: fraqueza, falta de ar, fadiga extrema. Quando "erram a dose", é execução velada: a vítima foi escolhida para não voltar. Língua manchada de lúrio e petéquias nos olhos são sinais de envenenamento. O caso de [[_wiki/shaezrith\|Shaezrith]] (morta nos corredores de [[locais/ghilanna\|Ghilanna]] com lúrio no pescoço e colar ritual removido) demonstra o rito como ferramenta de eliminação interna: quem ordena, por quê, e como se disfarça de acidente ritual permanecem mistérios ativos.
+**Sopro de Lúrio:** Rito debilitante que usa lúrio (substância ritual) administrado em dose controlada. Efeitos progressivos: fraqueza, falta de ar, fadiga extrema. Quando "erram a dose", é execução velada: a vítima foi escolhida para não voltar. Língua manchada de lúrio e petéquias nos olhos são sinais de envenenamento. O caso de [[_wiki/shaezrith\|Shaezrith]] (morta nos corredores de [[_wiki/ghilanna\|Ghilanna]] com lúrio no pescoço e colar ritual removido) demonstra o rito como ferramenta de eliminação interna: quem ordena, por quê, e como se disfarça de acidente ritual permanecem mistérios ativos.
 
 **Oblátio Ereba:** Rito cujos detalhes não são documentados. [[_wiki/syndrith_morghast\|Syndrith]] menciona que será sua vez após a missão em [[_wiki/niedellin\|Niedellin]]. O nome sugere "oferenda à escuridão" , possivelmente rito de passagem para nível superior dentro da hierarquia ophideia, com custo físico significativo.
 
@@ -39,7 +39,7 @@ As ophideias não possuem hierarquia militar formal. A estrutura é religiosa: r
 
 **Missões imperiais:** Recebem selo do Conselho (como o púrpura de [[_wiki/syndrith_morghast\|Syndrith]]) e operam sob autoridade de conselheiros ou feiticeiros cerimonialistas ([[_wiki/jaakurs\|Jaakurs]] enviou [[_wiki/syndrith_morghast\|Syndrith]] a [[_wiki/niedellin\|Niedellin]]). Subordinação nominal ao Culto.
 
-**Missões matriarcais:** Servem interesses das Casas de [[locais/ghilanna\|Ghilanna]]: diplomacia secreta (caravana de [[_wiki/nylothrae_duskryn\|Nylothrae Duskryn]] para [[_wiki/xilaverth\|Xilaverth]]), eliminação interna ([[_wiki/shaezrith\|Shaezrith]]), proteção de ativos subterrâneos.
+**Missões matriarcais:** Servem interesses das Casas de [[_wiki/ghilanna\|Ghilanna]]: diplomacia secreta (caravana de [[_wiki/nylothrae_duskryn\|Nylothrae Duskryn]] para [[_wiki/xilaverth\|Xilaverth]]), eliminação interna ([[_wiki/shaezrith\|Shaezrith]]), proteção de ativos subterrâneos.
 
 **Dupla cobertura:** Ophideias como [[_wiki/syndrith_morghast\|Syndrith]] podem operar simultaneamente para o Culto (missão oficial) e para facções internas ([[_wiki/ordo_zathar\|Ordo Zathar]]). O selo púrpura autoriza acesso imperial; a agenda real pode ser outra. A disciplina ophideia, "olhos antes, lâminas depois" , não especifica para quem os olhos observam.
 

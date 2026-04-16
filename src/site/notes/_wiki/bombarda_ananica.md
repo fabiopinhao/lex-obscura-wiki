@@ -5,7 +5,7 @@
 
 **Origem:**
 
-Arma de fogo híbrida desenvolvida nas forjas de [[_wiki/thandruk_varn\|Thandruk Varn]] após a conquista da cidadela pelos [[_wiki/shadar\|shadars]]. Nasceu da cooperação forçada entre a maestria metalúrgica dos anões ([[racas/karashim\|karashim]]) escravizados e os avanços alquímicos do Culto.
+Arma de fogo híbrida desenvolvida nas forjas de [[_wiki/thandruk_varn\|Thandruk Varn]] após a conquista da cidadela pelos [[_wiki/shadar\|shadars]]. Nasceu da cooperação forçada entre a maestria metalúrgica dos anões ([[_wiki/karashim\|karashim]]) escravizados e os avanços alquímicos do Culto.
 
 **Construção:**
 

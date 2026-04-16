@@ -15,4 +15,4 @@ Inspiração sonora: o registro cotidiano evoca uma canção de ninar sussurrada
 
 **Gramática:** Baseada em estados (herança titânica) com subordinação encadeada (herança [[_wiki/luminar\|luminar]]). Frases em Sylvaen tendem a ramificar: uma oração gera duas subordinadas, que geram quatro. A estrutura imita crescimento arbóreo. Isso torna o Sylvaen elegante para descrição e ineficiente para comando, o que explica por que ordens militares em [[_wiki/thal_serin\|Thal'Serin]] são dadas em [[_wiki/reinkardico\|Reinkárdico]] ou em frases curtas de Sylvaen cotidiano, nunca no registro mágico.
 
-**Uso no Livro I:** Diálogos entre [[_wiki/sylvano\|sylvanos]] em [[_wiki/thal_serin\|Thal'Serin]]; invocações druídicas de [[personagens/gaelwyn\|Gaelwyn]] e [[_wiki/peredur\|Peredur]]; contraste com [[_wiki/reinkardico\|Reinkárdico]] como marcador de resistência cultural.
+**Uso no Livro I:** Diálogos entre [[_wiki/sylvano\|sylvanos]] em [[_wiki/thal_serin\|Thal'Serin]]; invocações druídicas de [[_wiki/gaelwyn\|Gaelwyn]] e [[_wiki/peredur\|Peredur]]; contraste com [[_wiki/reinkardico\|Reinkárdico]] como marcador de resistência cultural.

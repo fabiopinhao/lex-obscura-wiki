@@ -14,7 +14,7 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[_wiki/milorsevogh_velshard\|Milorsevogh Velshard]] — Justiciar recém-ungido, veterano das Guerras Reinkárdicas
 - [[_wiki/nidzina_avaroth\|Nidzina Avaroth]] — Justiciar shadar, sobrinha de Vekraal
 - [[_wiki/orum-rahru\|Orum-Rahru]] — Justiciar veterano, ex-templário de Vozrador
-- [[personagens/arothistar\|Arothistar]] — O Semideus-Imperador, fundador do Império Sombrio
+- [[_wiki/arothistar\|Arothistar]] — O Semideus-Imperador, fundador do Império Sombrio
 
 ## Principais
 
@@ -22,9 +22,9 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[_wiki/grub\|Grub]] — Orc veterano, dois machados gêmeos
 - [[_wiki/mur\|Mur]] — Orc veterano, clava de grande porte
 - [[_wiki/syndrith_morghast\|Syndrith Morghast]] — Drul ophideia, agente de campo
-- [[personagens/fandegarron\|Fandegarrón]] — Gnoll, veterano da Arena de Drakmur, guarda-costas
+- [[_wiki/fandegarron\|Fandegarrón]] — Gnoll, veterano da Arena de Drakmur, guarda-costas
 - [[_wiki/tibaut\|Tibaut]] — Worg informante, vasta rede de contatos em Morvgrad
-- [[personagens/dribbel_olgund\|Dribbel Olgund]] — Derro, o "Quebra-Trocas". Membro da Guilda dos Gnomos
+- [[_wiki/dribbel_olgund\|Dribbel Olgund]] — Derro, o "Quebra-Trocas". Membro da Guilda dos Gnomos
 - [[_wiki/skanivik\|Skanivik]] — Murano espião independente
 
 ## Conselho Sombrio e Corte de Morvgrad
@@ -73,7 +73,7 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 
 ## Resistência e Thal'Serin
 
-- [[personagens/gaelwyn\|Gaelwyn]] — Sylvano, ranger de Thal'Serin
+- [[_wiki/gaelwyn\|Gaelwyn]] — Sylvano, ranger de Thal'Serin
 - [[_wiki/calel\|Calel]] — Sylvano mapeador da Resistência de Thal'Serin, irmão de Mirin
 - [[_wiki/mirin\|Mirin]] — Sylvana, ranger jovem da Resistência, irmã de Calel
 - [[_wiki/peredur\|Peredur]] — Sylvano, druida ancião, devoto de Titânia
@@ -96,7 +96,7 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[_wiki/auren\|Auren]] — Aquilar, ex-soldado de Myrgarde, prisioneiro em Mor'Severith
 - [[_wiki/iluvrae\|Ilúvrae]] — Elarina, ex-curadora de Elenir, prisioneira em Mor'Severith
 - [[_wiki/pip\|Pip]] — Hallirin, ex-comerciante de Myrgarde, escravo nas forjas
-- [[personagens/coveiro-mor\|Coveiro-mor]] — Humano, coveiro do Jardim dos Inocentes, prisioneiro em Ghol'Drokh
+- [[_wiki/coveiro-mor\|Coveiro-mor]] — Humano, coveiro do Jardim dos Inocentes, prisioneiro em Ghol'Drokh
 - [[_wiki/ioni\|Ioni]] — Humano, filho do Coveiro-mor, morto
 
 ## Magos e Figuras Arcanas

@@ -15,10 +15,10 @@ Guarda-costas de comerciantes abastados, seguranças de arenas e mercados negros
 
 ### Uso Narrativo
 
-Brumgak, ogro guarda-costas da [[_wiki/guilda_dos_gnomos\|Guilda dos Gnomos]] de [[_wiki/morvgrad\|Morvgrad]], morreu por dívida de jogo. Seu manto, largo o suficiente para cobrir um [[_wiki/gnoll\|gnoll]] adulto, passou a [[personagens/fandegarron\|Fandegarrón]] como disfarce urbano. A existência de ogros na narrativa é periférica: compõem o tecido social do [[_wiki/imperio_sombrio\|Império]] como força de trabalho descartável e presença intimidadora nos estratos mais baixos da hierarquia.
+Brumgak, ogro guarda-costas da [[_wiki/guilda_dos_gnomos\|Guilda dos Gnomos]] de [[_wiki/morvgrad\|Morvgrad]], morreu por dívida de jogo. Seu manto, largo o suficiente para cobrir um [[_wiki/gnoll\|gnoll]] adulto, passou a [[_wiki/fandegarron\|Fandegarrón]] como disfarce urbano. A existência de ogros na narrativa é periférica: compõem o tecido social do [[_wiki/imperio_sombrio\|Império]] como força de trabalho descartável e presença intimidadora nos estratos mais baixos da hierarquia.
 
 ### Lacunas Canônicas
 
-Cor arcana, longevidade, reprodução, origem cosmogônica e detalhes fisiológicos precisos não estão documentados. A relação com outras raças de grande porte ([[_wiki/troll\|trolls]], [[racas/gerut\|geruts]]) não foi estabelecida. Nenhuma cena do Livro I coloca um ogro vivo em tela diretamente.
+Cor arcana, longevidade, reprodução, origem cosmogônica e detalhes fisiológicos precisos não estão documentados. A relação com outras raças de grande porte ([[_wiki/troll\|trolls]], [[_wiki/gerut\|geruts]]) não foi estabelecida. Nenhuma cena do Livro I coloca um ogro vivo em tela diretamente.
 
 📋 Referência: 3.3_racas_bestiario_LORE.md (§Ogro)

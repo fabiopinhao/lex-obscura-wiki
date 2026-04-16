@@ -5,7 +5,7 @@
 
 ### Natureza
 
-Maledictus fidejussor são encantamentos contratuais desenvolvidos por arcontes [[_wiki/shadar\|shadars]] durante a [[_referencias/segunda_era\|Segunda Era]] para vincular magicamente raças subjugadas a contratos de "serviços sensíveis." Funcionam como apólices vivas que visam o cumprimento de cláusulas de contrato. Violações ativam penalidades progressivas: dor crescente, degenerescência celular, azar sistêmico.
+Maledictus fidejussor são encantamentos contratuais desenvolvidos por arcontes [[_wiki/shadar\|shadars]] durante a [[_wiki/segunda_era\|Segunda Era]] para vincular magicamente raças subjugadas a contratos de "serviços sensíveis." Funcionam como apólices vivas que visam o cumprimento de cláusulas de contrato. Violações ativam penalidades progressivas: dor crescente, degenerescência celular, azar sistêmico.
 
 ### Uso Institucional
 

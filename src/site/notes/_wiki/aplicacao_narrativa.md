@@ -50,10 +50,8 @@
 
 **[[_wiki/milorsevogh_velshard\|Milorsevogh Velshard]] (Justiciar)**
 
-| Escolas | Estágio Provável | Manifestação |
-|---------|------------------|--------------|
-| [[_wiki/anatho\|Anatho]] (principal) | II–III | Mapeia vulnerabilidades automaticamente; desconfia de afeto |
-| [[_wiki/umbra\|Umbra]] | II | Prefere operar à noite; desconforto com luz forte |
+- **[[_wiki/anatho\|Anatho]] (principal)** — Estágio Provável: II–III | Manifestação: Mapeia vulnerabilidades automaticamente; desconfia de afeto
+- **[[_wiki/umbra\|Umbra]]** — Estágio Provável: II | Manifestação: Prefere operar à noite; desconforto com luz forte
 
 **Perfil:** Usa [[_wiki/teru\|Teru]]: acesso a todas as escolas pretas, mas especialização em [[_wiki/anatho\|Anatho]]. Custos diluídos por sistema generalista. Tendências mistas, nenhuma transformação completa. Funcional para o [[_wiki/imperio_sombrio\|Império]], por enquanto.
 
@@ -63,9 +61,7 @@
 
 **[[_wiki/syndrith_morghast\|Syndrith]] (Ophideia, Pacto com [[_wiki/ulravaeth\|Ulravaeth]])**
 
-| Escolas | Estágio Provável | Manifestação |
-|---------|------------------|--------------|
-| [[_wiki/spectro\|Spectro]] (principal) | III | Dúvida frequente sobre o que é real; toca objetos para confirmar |
+- **[[_wiki/spectro\|Spectro]] (principal)** — Estágio Provável: III | Manifestação: Dúvida frequente sobre o que é real; toca objetos para confirmar
 
 **Perfil:** Diferente dos [[_wiki/justiciars\|Justiciars]], [[_wiki/ophideias\|Ophideias]] podem usar pactos. [[_wiki/syndrith_morghast\|Syndrith]] é pactuada com [[_wiki/ulravaeth\|Ulravaeth]] ([[_wiki/ulravaeth\|Custódio do Entre]]): progressão intensificada por especialização profunda. A ilusão está corroendo sua confiança na própria percepção. Serve no [[_wiki/templo_de_azkaroth\|Templo de Azkaroth]].
 
@@ -75,10 +71,8 @@
 
 **[[_wiki/orum-rahru\|Orum-Rahru]] (Justiciar veterano)**
 
-| Escolas | Estágio Provável | Manifestação |
-|---------|------------------|--------------|
-| [[_wiki/nomos\|Nomos]] (principal) | III–IV | Literalismo extremo; desconforto com exceções; lei acima de tudo |
-| [[_wiki/patho\|Patho]] | II–III | Consciência da entropia; melancolia sobre decadência do [[_wiki/imperio_sombrio\|Império]]; peso existencial |
+- **[[_wiki/nomos\|Nomos]] (principal)** — Estágio Provável: III–IV | Manifestação: Literalismo extremo; desconforto com exceções; lei acima de tudo
+- **[[_wiki/patho\|Patho]]** — Estágio Provável: II–III | Manifestação: Consciência da entropia; melancolia sobre decadência do [[_wiki/imperio_sombrio\|Império]]; peso existencial
 
 **Perfil:** Usa [[_wiki/teru\|Teru]] como todo Justiciar: custos ontológicos diluídos por acesso generalista. Porém, décadas de serviço (44 anos como Justiciar, antes templário de [[_wiki/vozrador\|Vozrador]]) produziram progressão avançada mesmo com diluição. A combinação de [[_wiki/nomos\|Nomos]] e [[_wiki/patho\|Patho]] cria um homem que vê a lei como única estrutura contra o caos, mas simultaneamente percebe que tudo (incluindo o [[_wiki/imperio_sombrio\|Império]] que serviu) está em declínio inevitável. Funcional porque posição protege e porque custos são compatíveis com função jurídica.
 
@@ -88,9 +82,7 @@
 
 **[[_wiki/jaakurs\|Jaakurs]] (Necromante, [[_wiki/xarn_zareth\|Xarn'Zareth]])**
 
-| Escolas | Estágio Provável | Manifestação |
-|---------|------------------|--------------|
-| [[_wiki/necro\|Necro]] | IV | Distinção vivo/morto perdeu significado moral |
+- **[[_wiki/necro\|Necro]]** — Estágio Provável: IV | Manifestação: Distinção vivo/morto perdeu significado moral
 
 **Perfil:** Transformação completa. Funcional porque IV de [[_wiki/necro\|Necro]] é *desejável* para [[_wiki/xarn_zareth\|Xarn'Zareth]].
 

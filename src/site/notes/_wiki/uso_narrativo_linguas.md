@@ -13,7 +13,7 @@ O [[_wiki/reinkardico\|Reinkárdico]] é o "português invisível" do texto: qua
 
 Toda invocação segue o protocolo narrativo estabelecido:
 
-A **língua ritual apropriada** é obrigatória. [[_wiki/milorsevogh_velshard\|Milor]] canaliza em [[_wiki/tenebraico\|Tenebraico]] ([[_wiki/teru\|Teru]] permite acesso técnico). [[_wiki/syndrith_morghast\|Syndrith]] canaliza em [[_wiki/gholvyss\|Gholvyss]] ([[_wiki/ophideias\|ophideia]] com formação matriarcal). [[personagens/gaelwyn\|Gaelwyn]] canaliza no registro [[_wiki/titanico\|titânico]] do [[_wiki/sylvaen\|Sylvaen]] (druida canalizador). [[_wiki/grothar\|Grothar]] canaliza em [[_wiki/orcanico\|Orcânico]] (fúria berserker). [[_wiki/abramis\|Abramis]] murmura orações em [[_wiki/aelarian\|Aelarian]] mágico ([[_wiki/devotio_sancta\|Devotio Sancta]]). Não há exceção: a língua errada simplesmente não funciona.
+A **língua ritual apropriada** é obrigatória. [[_wiki/milorsevogh_velshard\|Milor]] canaliza em [[_wiki/tenebraico\|Tenebraico]] ([[_wiki/teru\|Teru]] permite acesso técnico). [[_wiki/syndrith_morghast\|Syndrith]] canaliza em [[_wiki/gholvyss\|Gholvyss]] ([[_wiki/ophideias\|ophideia]] com formação matriarcal). [[_wiki/gaelwyn\|Gaelwyn]] canaliza no registro [[_wiki/titanico\|titânico]] do [[_wiki/sylvaen\|Sylvaen]] (druida canalizador). [[_wiki/grothar\|Grothar]] canaliza em [[_wiki/orcanico\|Orcânico]] (fúria berserker). [[_wiki/abramis\|Abramis]] murmura orações em [[_wiki/aelarian\|Aelarian]] mágico ([[_wiki/devotio_sancta\|Devotio Sancta]]). Não há exceção: a língua errada simplesmente não funciona.
 
 A **nota de rodapé padrão** segue o formato: *"[Tradução]."* [Deus]. [Escola — efeito]. [Comentário erudito/irônico].
 
@@ -37,7 +37,7 @@ Sotaques são ferramenta de caracterização. O [[_wiki/reinkardico\|Reinkárdic
 
 **[[_wiki/sylvano\|Sylvanos]]** em [[_wiki/reinkardico\|Reinkárdico]]: melodia excessiva, tendência a frases longas com subordinadas encadeadas (influência do [[_wiki/sylvaen\|Sylvaen]]). Formalidade involuntária: [[_wiki/sylvano\|sylvanos]] não conseguem ser coloquiais em [[_wiki/reinkardico\|Reinkárdico]] porque sua língua materna não possui registro informal.
 
-**[[racas/elarino\|Elarinos]]** em [[_wiki/reinkardico\|Reinkárdico]]: pronúncia precisa demais, quase mecânica. Acento em sílabas inesperadas. Vocabulário extenso mas usado em contextos levemente errados (cognatos falsos entre [[_wiki/aelarian\|Aelarian]] e [[_wiki/reinkardico\|Reinkárdico]]).
+**[[_wiki/elarino\|Elarinos]]** em [[_wiki/reinkardico\|Reinkárdico]]: pronúncia precisa demais, quase mecânica. Acento em sílabas inesperadas. Vocabulário extenso mas usado em contextos levemente errados (cognatos falsos entre [[_wiki/aelarian\|Aelarian]] e [[_wiki/reinkardico\|Reinkárdico]]).
 
 **[[_wiki/sauriano\|Saurianos]]** em [[_wiki/reinkardico\|Reinkárdico]]: sibilantes arrastadas, dificuldade com oclusivas labiais (*p*, *b*, *m*), tendência a omitir vogais curtas. Frases soam "comprimidas", como se a língua tivesse menos espaço na boca do que deveria.
 
@@ -57,15 +57,13 @@ Todo diálogo multilíngue é uma relação de poder. Quem escolhe a língua con
 
 ### Tabela Rápida de Uso em Cena
 
-| Contexto | Língua | Recurso Narrativo |
-|----------|--------|-------------------|
-| Diálogo padrão | [[_wiki/reinkardico\|Reinkárdico]] (português) | Invisível |
-| Canalização mágica | Língua ritual + nota de rodapé | Itálico + tradução |
-| Exclusão deliberada | Língua nativa do falante | Personagem excluído nota mudança |
-| Estresse/instinto | Língua materna involuntária | Marca perda de controle |
-| Resistência cultural | Língua proibida/marginal | Marca desafio ao poder |
-| Sotaque | [[_wiki/reinkardico\|Reinkárdico]] com interferência | Marca origem racial/social |
-| Oração/devoção | [[_wiki/aelarian\|Aelarian]] mágico | Marca fé e fratura identitária |
-| Invocação druídica | [[_wiki/sylvaen\|Sylvaen]] mágico (registro [[_wiki/titanico\|titânico]]) | Marca comunhão com [[_wiki/titas\|titãs]] primordiais |
-| Acasalamento [[_wiki/drul\|drul]] | [[_wiki/gholvyss\|Gholvyss]] (registro de acasalamento) | Marca sedução predatória e perigo |
-| Fúria berserker | [[_wiki/orcanico\|Orcânico]] desintegrado | Marca perda de racionalidade |
+- **Diálogo padrão** — Língua: [[_wiki/reinkardico\|Reinkárdico]] (português) | Recurso Narrativo: Invisível
+- **Canalização mágica** — Língua: Língua ritual + nota de rodapé | Recurso Narrativo: Itálico + tradução
+- **Exclusão deliberada** — Língua: Língua nativa do falante | Recurso Narrativo: Personagem excluído nota mudança
+- **Estresse/instinto** — Língua: Língua materna involuntária | Recurso Narrativo: Marca perda de controle
+- **Resistência cultural** — Língua: Língua proibida/marginal | Recurso Narrativo: Marca desafio ao poder
+- **Sotaque** — Língua: [[_wiki/reinkardico\|Reinkárdico]] com interferência | Recurso Narrativo: Marca origem racial/social
+- **Oração/devoção** — Língua: [[_wiki/aelarian\|Aelarian]] mágico | Recurso Narrativo: Marca fé e fratura identitária
+- **Invocação druídica** — Língua: [[_wiki/sylvaen\|Sylvaen]] mágico (registro [[_wiki/titanico\|titânico]]) | Recurso Narrativo: Marca comunhão com [[_wiki/titas\|titãs]] primordiais
+- **Acasalamento [[_wiki/drul\|drul]]** — Língua: [[_wiki/gholvyss\|Gholvyss]] (registro de acasalamento) | Recurso Narrativo: Marca sedução predatória e perigo
+- **Fúria berserker** — Língua: [[_wiki/orcanico\|Orcânico]] desintegrado | Recurso Narrativo: Marca perda de racionalidade

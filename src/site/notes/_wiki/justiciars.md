@@ -16,14 +16,14 @@ A fundação do sistema de Justiciars há 44 anos não foi apenas reforma juríd
 Os antigos [[_wiki/templarios\|templários]] mantinham lealdades divididas e perigosas:
 - **Conexão religiosa profunda com os [[_wiki/drul\|druls]]** via cultos compartilhados do [[_wiki/vor-ghol\|Vor-Ghol]]
 - **Autonomia operacional** que rivalizava com autoridade do monarca
-- **Vínculos pactuais com [[_wiki/diabos\|diabos]]** que podiam contradizer ordens de [[personagens/arothistar\|Arothistar]]
+- **Vínculos pactuais com [[_wiki/diabos\|diabos]]** que podiam contradizer ordens de [[_wiki/arothistar\|Arothistar]]
 - **Cultura de segredo** herdada das matriarcas [[_wiki/drul\|drul]]
 
-[[personagens/arothistar\|Arothistar]] nunca confiou completamente nos [[_wiki/templarios\|templários]]. A conexão subterrânea era estrutural demais, antiga demais, enraizada demais para ser controlada por decreto. **O subterrâneo é traiçoeiro por natureza**: território de matriarcas, de pactos antigos, de lealdades que antecedem o [[_wiki/imperio_sombrio\|império]] [[_wiki/shadar\|shadar]].
+[[_wiki/arothistar\|Arothistar]] nunca confiou completamente nos [[_wiki/templarios\|templários]]. A conexão subterrânea era estrutural demais, antiga demais, enraizada demais para ser controlada por decreto. **O subterrâneo é traiçoeiro por natureza**: território de matriarcas, de pactos antigos, de lealdades que antecedem o [[_wiki/imperio_sombrio\|império]] [[_wiki/shadar\|shadar]].
 
 #### A Solução: Justiciars sem Pactos
 
-[[personagens/arothistar\|Arothistar]] precisava de juízes-executores que:
+[[_wiki/arothistar\|Arothistar]] precisava de juízes-executores que:
 - **Respondessem apenas ao [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]]** (não a [[_wiki/diabos\|diabos]] ou matriarcas)
 - **Operassem com [[_wiki/teru\|Teru]]** (magia independente de pactos divinos)
 - **Fossem exclusivamente [[_wiki/shadar\|shadars]]** de linhagem pura e lealdade comprovada
@@ -41,7 +41,7 @@ Por trás da desconfiança operacional havia convicção filosófica:
 
 > **"[[_wiki/drul\|Druls]], no fundo, são elfos. E elfos não aceitam as mudanças necessárias para a nova era."**
 
-[[personagens/arothistar\|Arothistar]] acreditava que:
+[[_wiki/arothistar\|Arothistar]] acreditava que:
 - **[[_wiki/shadar\|Shadars]] = humanos**: ordeiros, pragmáticos, adaptáveis ao poder centralizado
 - **[[_wiki/drul\|Druls]] = elfos**: presos a tradições matriarcais, avessos à hierarquia vertical, perigosamente autônomos
 
@@ -66,7 +66,7 @@ Conduzida no [[_wiki/templo_de_azkaroth\|Templo de Azkaroth]]. O candidato ajoel
 - **[[_wiki/codex_somniorum\|Codex Somniorum]]:** Grimório tripartite
 - **[[_wiki/oculus_morvgradi\|Oculus]]:** Esfera de comunicação pessoal
 
-**Fórmula Ritual:** *"[[personagens/arothistar\|Arothistar]] est lex. [[_wiki/abbhal\|Abbhal]] est vox. Tu est martelo."*
+**Fórmula Ritual:** *"[[_wiki/arothistar\|Arothistar]] est lex. [[_wiki/abbhal\|Abbhal]] est vox. Tu est martelo."*
 
 ### Poderes e Prerrogativas
 
@@ -90,13 +90,11 @@ Justiciars usam [[_wiki/teru\|Teru]] (10 escolas pretas), com ênfase operaciona
 
 Quando designados para um caso, seguem protocolo rigoroso:
 
-| Etapa | Procedimento |
-|-------|--------------|
-| **1. Recepção da Denúncia** | Analisada pelo Conselho e atribuída a um relator |
-| **2. Investigação Preliminar** | Coleta de evidências, interrogatórios, infiltração |
-| **3. Julgamento de Campo** | Justiciar pode sentenciar imediatamente em casos claros |
-| **4. [[_wiki/tabua_reversa\|Tábua Reversa]]** | Relatório codificado enviado ao Conselho detalhando achados e execuções |
-| **5. Ratificação ou Recurso** | Conselho valida a sentença ou ordena revisão |
+- **1. Recepção da Denúncia**: Analisada pelo Conselho e atribuída a um relator
+- **2. Investigação Preliminar**: Coleta de evidências, interrogatórios, infiltração
+- **3. Julgamento de Campo**: Justiciar pode sentenciar imediatamente em casos claros
+- **4. [[_wiki/tabua_reversa\|Tábua Reversa]]**: Relatório codificado enviado ao Conselho detalhando achados e execuções
+- **5. Ratificação ou Recurso**: Conselho valida a sentença ou ordena revisão
 
 **[[_wiki/veredictum_exkarthon\|Veredictum Exkarthon]]:** Instrumento processual que permite investigados exigirem apresentação de provas antes da sentença final, uma das poucas proteções processuais na lei sombria.
 
@@ -114,7 +112,7 @@ Carregar o cetro cobra tributo. Justiciars vivem em isolamento funcional, sem la
 - [[_wiki/nidzina_avaroth\|Nidzina]] canaliza ambição através da excelência
 - [[_wiki/milorsevogh_velshard\|Milor]] ancora-se na disciplina militar
 
-Todos pagam com fragmentos de humanidade o privilégio de serem martelos de [[personagens/arothistar\|Arothistar]].
+Todos pagam com fragmentos de humanidade o privilégio de serem martelos de [[_wiki/arothistar\|Arothistar]].
 
 ### Estrutura e Hierarquia
 
@@ -124,8 +122,6 @@ Não existe hierarquia formal entre Justiciars: tempo de serviço e reputação 
 
 ### Relação com Outras Instituições
 
-| Instituição | Relação |
-|-------------|---------|
-| **[[_wiki/conselho_sombrio\|Conselho Sombrio]]** | Subordinação nominal, mas autoridade investigativa os coloca acima de conselheiros individuais |
-| **Templos/[[_wiki/ophideias\|Ophideias]]** | Colaboração operacional, independência doutrinal |
-| **Militares** | Fricção constante — generais veem Justiciars como intrusos legalistas; Justiciars consideram soldados instrumentos cegos demais para perceber traições sutis |
+- **[[_wiki/conselho_sombrio\|Conselho Sombrio]]**: Subordinação nominal, mas autoridade investigativa os coloca acima de conselheiros individuais
+- **Templos/[[_wiki/ophideias\|Ophideias]]**: Colaboração operacional, independência doutrinal
+- **Militares**: Fricção constante — generais veem Justiciars como intrusos legalistas; Justiciars consideram soldados instrumentos cegos demais para perceber traições sutis

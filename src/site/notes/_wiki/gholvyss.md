@@ -19,4 +19,4 @@ Exemplos canônicos: *Nindol zhah naut nindel, usstan zhah velve* (cântico de i
 
 **Sons exclusivos:** Cliques sublinguais, fricativas laterais produzidas com a língua tocando palato e dentes simultaneamente, e uma classe de sons chamados *vyssim* (vibrantes sussurradas) que soam como serpentes deslizando.
 
-**Uso no Livro I:** Invocações de [[_wiki/syndrith_morghast\|Syndrith]] em [[_wiki/niedellin\|Niedellin]] ([[_wiki/spectro\|Spectro]], revelação); ritual das [[_wiki/ophideias\|ophideias]] em [[locais/ghilanna\|Ghilanna]]; comandos matriarcais referenciados no arco de [[_wiki/nidzina_avaroth\|Nidzina]].
+**Uso no Livro I:** Invocações de [[_wiki/syndrith_morghast\|Syndrith]] em [[_wiki/niedellin\|Niedellin]] ([[_wiki/spectro\|Spectro]], revelação); ritual das [[_wiki/ophideias\|ophideias]] em [[_wiki/ghilanna\|Ghilanna]]; comandos matriarcais referenciados no arco de [[_wiki/nidzina_avaroth\|Nidzina]].

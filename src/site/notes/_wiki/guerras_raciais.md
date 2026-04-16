@@ -16,7 +16,7 @@ Cada cor arcana produziu suas raças. A interferência não foi sutil nem gradua
 - **Preto (Diabólico):** [[_wiki/vulfano\|Vulfanos]] (caninos)
 - **Vermelho (Demoníaco):** [[_wiki/sauriano\|Saurianos]] (répteis)
 - **Verde ([[_wiki/titanico\|Titânico]]):** [[_wiki/lynxiano\|Lynxianos]] (felinos)
-- **Branco (Angelical):** [[racas/aviano\|Avianos]] (aves)
+- **Branco (Angelical):** [[_wiki/aviano\|Avianos]] (aves)
 - **Azul (Sideral):** [[_wiki/ranidano\|Ranidanos]] (anfíbios)
 
 📝 *Humanos puros não são alinhados racialmente a nenhuma cor arcana. Os humanoides híbridos, sim. Essa distinção é a marca mais visível da interferência divina: humanos eram o material bruto, os deuses moldaram variações alinhadas a si mesmos.*
@@ -39,7 +39,7 @@ O legado biológico ficou. As raças híbridas permaneceram no plano material, a
 As raças híbridas são, na prática, fósseis vivos de um conflito entre deuses. Carregam a cor arcana de seus criadores no sangue, o que lhes dá acesso mágico inato e alinhamento instintivo. Também as condena: foram moldadas para a carnificina, e a carnificina acabou.
 
 #### Desbestialização do Plano Material
-Ao longo das eras subsequentes ([[_wiki/primeira_era\|Primeira Era]], [[_referencias/segunda_era\|Segunda Era]], [[_wiki/terceira_era\|Terceira Era]]), as raças híbridas e gnômicas vêm cedendo espaço a humanos e humanoides élficos. Este fenômeno, chamado desbestialização, é o recuo gradual da interferência divina direta: o plano material favorece agora as formas que os deuses deixaram para trás. Cada raça tem sua razão específica para o declínio (predação interna nos [[_wiki/vulfano\|vulfanos]], degeneração nos [[_wiki/derro\|derros]], manipulação artificial nos [[racas/kobold\|kobolds]], raridade reprodutiva nos [[_wiki/minotauro\|minotauros]]), mas o resultado converge.
+Ao longo das eras subsequentes ([[_wiki/primeira_era\|Primeira Era]], [[_wiki/segunda_era\|Segunda Era]], [[_wiki/terceira_era\|Terceira Era]]), as raças híbridas e gnômicas vêm cedendo espaço a humanos e humanoides élficos. Este fenômeno, chamado desbestialização, é o recuo gradual da interferência divina direta: o plano material favorece agora as formas que os deuses deixaram para trás. Cada raça tem sua razão específica para o declínio (predação interna nos [[_wiki/vulfano\|vulfanos]], degeneração nos [[_wiki/derro\|derros]], manipulação artificial nos [[_wiki/kobold\|kobolds]], raridade reprodutiva nos [[_wiki/minotauro\|minotauros]]), mas o resultado converge.
 
 #### Memória Fragmentada
 Nenhuma raça possui registro direto das Guerras Raciais. O evento é reconstruído por:

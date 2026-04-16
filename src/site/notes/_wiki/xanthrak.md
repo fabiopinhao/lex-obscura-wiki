@@ -21,4 +21,4 @@ Para Xanthrak, dor é informação. Punição pressupõe transgressão, e a maio
 
 ### Posição no Panteão
 
-Xanthrak ocupa um nicho tolerado mas evitado. Seus métodos exigem tempo que outros [[_wiki/diabos\|diabos]] consideram desperdício, e produzem resultados granulares demais para quem prefere destruição em massa. A proximidade com [[_wiki/necro\|Necro]] gera atrito com [[panteao/malagoth\|Malagoth]], cuja necrologia serve a propósitos de exército, não de laboratório. Xanthrak não compete por território. Compete por tempo: o recurso que todo torturador precisa e que toda guerra desperdiça.
+Xanthrak ocupa um nicho tolerado mas evitado. Seus métodos exigem tempo que outros [[_wiki/diabos\|diabos]] consideram desperdício, e produzem resultados granulares demais para quem prefere destruição em massa. A proximidade com [[_wiki/necro\|Necro]] gera atrito com [[_wiki/malagoth\|Malagoth]], cuja necrologia serve a propósitos de exército, não de laboratório. Xanthrak não compete por território. Compete por tempo: o recurso que todo torturador precisa e que toda guerra desperdiça.

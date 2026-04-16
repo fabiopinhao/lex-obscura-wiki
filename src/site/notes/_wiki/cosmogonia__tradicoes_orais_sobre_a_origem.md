@@ -49,7 +49,7 @@ Esta versão é a menos popular e a mais difícil de compreender. Os [[_wiki/sid
 
 ### Raças e Tradições Cosmogônicas
 
-Nem toda raça possui cosmogonia própria. [[_wiki/drul\|Druls]] compartilham a versão sombria com os [[_wiki/shadar\|shadars]], embora com inflexões subterrâneas: o [[_wiki/vazio\|Vazio]], para os [[_wiki/drul\|druls]], é literalmente o escuro das cavernas mais profundas, e o [[_wiki/vor-ghol\|Vor-Ghol]] seria o lugar mais próximo da origem. Anões ([[racas/karashim\|karashim]]) são cosmogonicamente variáveis, como os humanos: sem cor dominante, adotam a tradição da região ou religião em que vivem. Alguns são devotos de [[_wiki/anjos\|anjos]] (branco), outros pragmáticos sem filiação. Não há tradição cosmogônica "anã" unificada.
+Nem toda raça possui cosmogonia própria. [[_wiki/drul\|Druls]] compartilham a versão sombria com os [[_wiki/shadar\|shadars]], embora com inflexões subterrâneas: o [[_wiki/vazio\|Vazio]], para os [[_wiki/drul\|druls]], é literalmente o escuro das cavernas mais profundas, e o [[_wiki/vor-ghol\|Vor-Ghol]] seria o lugar mais próximo da origem. Anões ([[_wiki/karashim\|karashim]]) são cosmogonicamente variáveis, como os humanos: sem cor dominante, adotam a tradição da região ou religião em que vivem. Alguns são devotos de [[_wiki/anjos\|anjos]] (branco), outros pragmáticos sem filiação. Não há tradição cosmogônica "anã" unificada.
 
 ### Nota Sobre Verdade
 

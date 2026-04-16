@@ -5,9 +5,9 @@
 
 ### Natureza e Função
 
-O Conselho Sombrio é o órgão legislativo e administrativo do [[_wiki/imperio_sombrio\|império]]. Não governa: administra a vontade do monarca. [[personagens/arothistar\|Arothistar]] não dissolveu o Conselho após tomar o poder; transformou-o em instrumento da sua vontade. A maioria da elite escolheu sobrevivência por meio da submissão. Os que resistiram foram eliminados em julgamentos sumários que o próprio [[personagens/arothistar\|Arothistar]] presidia.
+O Conselho Sombrio é o órgão legislativo e administrativo do [[_wiki/imperio_sombrio\|império]]. Não governa: administra a vontade do monarca. [[_wiki/arothistar\|Arothistar]] não dissolveu o Conselho após tomar o poder; transformou-o em instrumento da sua vontade. A maioria da elite escolheu sobrevivência por meio da submissão. Os que resistiram foram eliminados em julgamentos sumários que o próprio [[_wiki/arothistar\|Arothistar]] presidia.
 
-Na prática, o Conselho opera como câmara consultiva com poder de execução: debate crises, aloca recursos, supervisiona braços do estado ([[_wiki/justiciars\|Justiciars]], generais, lordes provinciais), mas suas decisões podem ser revogadas pelo [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] a qualquer momento. É subordinado a [[personagens/arothistar\|Arothistar]], mas supervisiona todos os demais.
+Na prática, o Conselho opera como câmara consultiva com poder de execução: debate crises, aloca recursos, supervisiona braços do estado ([[_wiki/justiciars\|Justiciars]], generais, lordes provinciais), mas suas decisões podem ser revogadas pelo [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] a qualquer momento. É subordinado a [[_wiki/arothistar\|Arothistar]], mas supervisiona todos os demais.
 
 ### Composição e Dinâmica
 
@@ -15,34 +15,28 @@ O número de conselheiros varia ao longo da trilogia: não há composição fixa
 
 **Conselheiros:**
 
-| Conselheiro | Título Funcional | Nota |
-|---|---|---|
-| [[_wiki/jaakurs\|Jaakurs]] | Feiticeiro cerimonialista | Eparquia de [[_wiki/xarn_zareth\|Xarn'Zareth]]. Líder operacional do [[_wiki/ordo_zathar\|Ordo Zathar]]. |
-| [[_wiki/vyrensen\|Malachar Vyrensen]] | "[[_wiki/vyrensen\|Coletor de Dívidas]]" | [[_wiki/coletoria\|Coletoria]]. Rede de espionagem paralela. Próximo cadeira maior. |
-| [[_wiki/gorvam_threnk\|Gorvam Threnk]] | [[_wiki/gorvam_threnk\|Mestre das Forjas]] | Defende indispensabilidade dos anões. |
-| [[_wiki/ulrik_morzenn\|Ulrik Morzenn]] | [[_wiki/ulrik_morzenn\|Decano Arcânico]] | Assume cadeira maior após [[_wiki/eliakim\|Eliakim]]. Infiltrado do [[_wiki/ordo_zathar\|Ordo Zathar]]. |
-| [[_wiki/suriev_molkhiir\|Suriev Molkhiir]] | [[_wiki/suriev_molkhiir\|Servo da Verdade]] | Defende fé como pilar de poder. |
-| [[_wiki/dessian_broel\|Dessian Broel]] | [[_wiki/dessian_broel\|Administrador de Recursos]] | Pragmático. |
-| [[_wiki/noxmoor\|Noxmoor]] | [[_wiki/noxmoor\|Estrategista de Fortificações]] | — |
-| [[_wiki/harlen_vriss\|Harlen Vriss]] | Conselheiro econômico | — |
-| [[_wiki/ciravok_tharumen\|Ciravok Tharumen]] | [[_wiki/ciravok_tharumen\|Senhor dos Celeiros]] | — |
-| [[_wiki/kazem_vorgrath\|Kazem Vorgrath]] | [[_wiki/kazem_vorgrath\|Comando Ígneo]] | Sugere arrasar [[_wiki/elenir\|Elenir]]. |
-| [[_wiki/eliakim\|Eliakim]] | (morto) | Ocupava cadeira maior. "Retirado à força." |
+- **[[_wiki/jaakurs\|Jaakurs]]** — Título Funcional: Feiticeiro cerimonialista | Nota: Eparquia de [[_wiki/xarn_zareth\|Xarn'Zareth]]. Líder operacional do [[_wiki/ordo_zathar\|Ordo Zathar]].
+- **[[_wiki/vyrensen\|Malachar Vyrensen]]** — Título Funcional: "[[_wiki/vyrensen\|Coletor de Dívidas]]" | Nota: [[_wiki/coletoria\|Coletoria]]. Rede de espionagem paralela. Próximo cadeira maior.
+- **[[_wiki/gorvam_threnk\|Gorvam Threnk]]** — Título Funcional: [[_wiki/gorvam_threnk\|Mestre das Forjas]] | Nota: Defende indispensabilidade dos anões.
+- **[[_wiki/ulrik_morzenn\|Ulrik Morzenn]]** — Título Funcional: [[_wiki/ulrik_morzenn\|Decano Arcânico]] | Nota: Assume cadeira maior após [[_wiki/eliakim\|Eliakim]]. Infiltrado do [[_wiki/ordo_zathar\|Ordo Zathar]].
+- **[[_wiki/suriev_molkhiir\|Suriev Molkhiir]]** — Título Funcional: [[_wiki/suriev_molkhiir\|Servo da Verdade]] | Nota: Defende fé como pilar de poder.
+- **[[_wiki/dessian_broel\|Dessian Broel]]** — Título Funcional: [[_wiki/dessian_broel\|Administrador de Recursos]] | Nota: Pragmático.
+- **[[_wiki/noxmoor\|Noxmoor]]** — Título Funcional: [[_wiki/noxmoor\|Estrategista de Fortificações]] | Nota: —
+- **[[_wiki/harlen_vriss\|Harlen Vriss]]** — Título Funcional: Conselheiro econômico | Nota: —
+- **[[_wiki/ciravok_tharumen\|Ciravok Tharumen]]** — Título Funcional: [[_wiki/ciravok_tharumen\|Senhor dos Celeiros]] | Nota: —
+- **[[_wiki/kazem_vorgrath\|Kazem Vorgrath]]** — Título Funcional: [[_wiki/kazem_vorgrath\|Comando Ígneo]] | Nota: Sugere arrasar [[_wiki/elenir\|Elenir]].
+- **[[_wiki/eliakim\|Eliakim]]** — Título Funcional: (morto) | Nota: Ocupava cadeira maior. "Retirado à força."
 
 **Convidados permanentes (sem cadeira no Conselho):**
 
-| Nome | Função | Nota |
-|---|---|---|
-| [[_wiki/vekraal\|Vekraal]] | General, "Punho de [[personagens/arothistar\|Arothistar]]" | Representa os generais. Terceira Legião Oriental. Facção expansionista. |
-| [[_wiki/orum-rahru\|Orum-Rahru]] | Justiciar veterano | Representa os [[_wiki/justiciars\|Justiciars]]. Ocupa cadeira de granito (distinta das cadeiras de obsidiana dos conselheiros). |
+- **[[_wiki/vekraal\|Vekraal]]** — Função: General, "Punho de [[_wiki/arothistar\|Arothistar]]" | Nota: Representa os generais. Terceira Legião Oriental. Facção expansionista.
+- **[[_wiki/orum-rahru\|Orum-Rahru]]** — Função: Justiciar veterano | Nota: Representa os [[_wiki/justiciars\|Justiciars]]. Ocupa cadeira de granito (distinta das cadeiras de obsidiana dos conselheiros).
 
 **Participantes remotos (via [[_wiki/oculus_morvgradi\|Oculus]], conforme necessidade):**
 
-| Nome | Função | Nota |
-|---|---|---|
-| [[_wiki/xarn\|Xarn]] | Fundador do Culto | Privilégio reservado. Observador silencioso. Longevidade antinatural. Autoridade que mesmo [[personagens/arothistar\|Arothistar]] respeitava. |
-| Orvhal | Lorde de [[_wiki/elenir\|Elenir]] | — |
-| [[_wiki/draven-thol\|Draven-Thol]] | Justiciar de [[_wiki/thandruk_varn\|Thandruk Varn]] | Desaparecido. |
+- **[[_wiki/xarn\|Xarn]]** — Função: Fundador do Culto | Nota: Privilégio reservado. Observador silencioso. Longevidade antinatural. Autoridade que mesmo [[_wiki/arothistar\|Arothistar]] respeitava.
+- **Orvhal** — Função: Lorde de [[_wiki/elenir\|Elenir]] | Nota: —
+- **[[_wiki/draven-thol\|Draven-Thol]]** — Função: Justiciar de [[_wiki/thandruk_varn\|Thandruk Varn]] | Nota: Desaparecido.
 
 ### Cadeira Maior
 
@@ -65,7 +59,7 @@ Conselheiros comunicam-se com agentes remotos via [[_wiki/oculus_morvgradi\|Ocul
 
 ### Dinâmica Política Pós-Arothistar
 
-A execução de [[personagens/arothistar\|Arothistar]] criou vácuo sem precedente. O Conselho foi projetado como instrumento de um monarca: sem monarca, quem comanda? Três forças disputam o espaço:
+A execução de [[_wiki/arothistar\|Arothistar]] criou vácuo sem precedente. O Conselho foi projetado como instrumento de um monarca: sem monarca, quem comanda? Três forças disputam o espaço:
 
 **[[_wiki/templarios\|Templários]] (via [[_wiki/ordo_zathar\|Ordo Zathar]]):** [[_wiki/ulrik_morzenn\|Ulrik]] na cadeira maior; [[_wiki/jaakurs\|Jaakurs]] como conselheiro influente. Buscam subordinar o Conselho ao clero e à [[_wiki/lex_obscura_decreto\|Lex Obscura]] de [[_wiki/xarn\|Xarn]]. Posição fortalecida pela morte de [[_wiki/eliakim\|Eliakim]].
 

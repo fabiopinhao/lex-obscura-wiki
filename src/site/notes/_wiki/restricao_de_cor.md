@@ -17,7 +17,7 @@ Humanos são a única raça sem cor arcana predominante. São, cosmologicamente,
 
 - Exposição ao preto ([[_wiki/diabos\|diabos]]): humanos tornaram-se **[[_wiki/shadar\|shadars]]**.
 - Exposição ao vermelho ([[_wiki/demonios\|demônios]]): humanos tornaram-se **[[_wiki/varnakiano\|varnakianos]]**.
-- Exposição ao verde ([[_wiki/titas\|titãs]]): humanos tornaram-se **[[racas/gerut\|geruts]]**.
+- Exposição ao verde ([[_wiki/titas\|titãs]]): humanos tornaram-se **[[_wiki/gerut\|geruts]]**.
 - Exposição ao branco ([[_wiki/anjos\|anjos]]): humanos tornaram-se **[[_wiki/alvarar\|álvarars]]**.
 - Exposição ao azul ([[_wiki/siderais\|siderais]]): humanos tornaram-se **[[_wiki/frenim\|frenims]]**.
 
@@ -34,7 +34,7 @@ O que é canônico é a fragmentação. Quando os [[_wiki/luminares\|luminares]]
 - Os que pactuaram com [[_wiki/diabos\|diabos]] nas profundezas tornaram-se **[[_wiki/drul\|druls]]** (preto).
 - Os consumidos pelo caos foram expulsos e tornaram-se **[[_wiki/orc\|orcs]]** (vermelho).
 - Os que comunharam com os primordiais nas florestas tornaram-se **[[_wiki/sylvano\|sylvanos]]** (verde).
-- Os que se aproximaram dos [[_wiki/anjos\|anjos]] tornaram-se **[[racas/elarino\|elarinos]]** (branco).
+- Os que se aproximaram dos [[_wiki/anjos\|anjos]] tornaram-se **[[_wiki/elarino\|elarinos]]** (branco).
 - Os que se isolaram na contemplação etérea tornaram-se **[[_wiki/undine\|undines]]** (azul).
 
 A fragmentação foi perda irreversível. Um [[_wiki/sylvano\|sylvano]] que hoje tentasse acessar uma escola preta não teria sequer base emocional para produzir o sentimento-chave necessário. A cor não é camada superficial; é a natureza da alma élfica remanescente.
@@ -43,7 +43,7 @@ A fragmentação foi perda irreversível. Um [[_wiki/sylvano\|sylvano]] que hoje
 
 Conversão é possível. Não é troca de camisa; é metamorfose total.
 
-O caso canônico mais notório é [[personagens/arothistar\|Dravmir]] (humano incolor de Myrgarde) convertido em [[_wiki/shadar\|shadar]] pelo Rito de Ossárium, que depois se tornou [[personagens/arothistar\|Arothistar]]. O Rito não adicionou uma cor sobre o incolor; reescreveu a natureza do ser. O Dravmir que entrou no ritual não era o Dravhok que saiu. (Nota: Dravhok era o nome do pai de Dravmir. A adoção do nome paterno após a conversão foi escolha deliberada; a história dessa decisão pertence ao Livro II.)
+O caso canônico mais notório é [[_wiki/arothistar\|Dravmir]] (humano incolor de Myrgarde) convertido em [[_wiki/shadar\|shadar]] pelo Rito de Ossárium, que depois se tornou [[_wiki/arothistar\|Arothistar]]. O Rito não adicionou uma cor sobre o incolor; reescreveu a natureza do ser. O Dravmir que entrou no ritual não era o Dravhok que saiu. (Nota: Dravhok era o nome do pai de Dravmir. A adoção do nome paterno após a conversão foi escolha deliberada; a história dessa decisão pertence ao Livro II.)
 
 Conversão entre linhagens élficas é ainda mais drástica. Um [[_wiki/sylvano\|sylvano]] que se vincula a um [[_wiki/demonios\|demônio]] não se torna simplesmente um "sylvano com poderes vermelhos." O vínculo demoníaco corrompe a essência verde: o corpo muda, a alma muda, a mente muda. O resultado é algo próximo de um [[_wiki/varnakiano\|varnakiano]] ou [[_wiki/orc\|orc]], uma criatura que já não é [[_wiki/sylvano\|sylvano]] em nenhum sentido que importe. A conversão geralmente envolve mistura racial no processo, produzindo híbridos que não pertencem inteiramente a nenhuma linhagem.
 

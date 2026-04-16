@@ -7,7 +7,7 @@
 
 "Medir é dominar."
 
-A padronização de medidas é instrumento de controle imperial. Antes da conquista [[_wiki/shadar\|shadar]], cada povo media o mundo com o próprio corpo e os próprios ciclos. [[personagens/arothistar\|Arothistar]] impôs um sistema único a [[_wiki/reinkard\|Reinkard]]: as mesmas ampulhetas calibradas em [[_wiki/morvgrad\|Morvgrad]] distribuídas a cada província, os mesmos pesos aferidos nas balanças de [[_wiki/thandruk_varn\|Thandruk Varn]], as mesmas moedas cunhadas com seu perfil. Povos subjugados que persistem em medir com unidades próprias ([[_wiki/drul\|druls]] com o Drath, [[_wiki/sylvano\|sylvanos]] com o Sárn, [[_wiki/orc\|orcs]] com o Rûk) cometem, aos olhos do Culto, um ato de insubordinação silenciosa.
+A padronização de medidas é instrumento de controle imperial. Antes da conquista [[_wiki/shadar\|shadar]], cada povo media o mundo com o próprio corpo e os próprios ciclos. [[_wiki/arothistar\|Arothistar]] impôs um sistema único a [[_wiki/reinkard\|Reinkard]]: as mesmas ampulhetas calibradas em [[_wiki/morvgrad\|Morvgrad]] distribuídas a cada província, os mesmos pesos aferidos nas balanças de [[_wiki/thandruk_varn\|Thandruk Varn]], as mesmas moedas cunhadas com seu perfil. Povos subjugados que persistem em medir com unidades próprias ([[_wiki/drul\|druls]] com o Drath, [[_wiki/sylvano\|sylvanos]] com o Sárn, [[_wiki/orc\|orcs]] com o Rûk) cometem, aos olhos do Culto, um ato de insubordinação silenciosa.
 
 ### Distância
 
@@ -15,7 +15,7 @@ A unidade padrão de viagem é a légua (5 km). A escala imperial segue progress
 
 A lógica é ascendente: do micro (corpo humano) ao macro (jornada de viagem). As unidades menores (Grão, Dedo, Palmo) servem a ofícios de precisão: ourives, boticários, alfaiates, envenenadores. O Marn (200 m) é a medida urbana por excelência, a distância padrão entre torres de vigia em [[_wiki/morvgrad\|Morvgrad]] e o limite prático do alcance de flecha. O Estirão (1 km) marca o limite de alcance visual em terreno aberto. A Braça (2 m) mede o que é vertical: profundidade de poço, altura de muralha, a distância entre o cadafalso e o chão.
 
-Variantes culturais resistem ao padrão imperial: [[_wiki/drul\|druls]] usam o Drath (1,5 m), ligeiramente menor que a Braça porque os túneis do [[_wiki/vor-ghol\|Vor-Ghol]] são mais baixos; [[_wiki/sylvano\|sylvanos]] medem em Sárns (500 m), a distância em que distinguem o canto de dois pássaros diferentes; [[racas/karashim\|anões]] usam o Braç'harn (1,8 m), medida padrão de galeria de mina em [[_wiki/thandruk_varn\|Thandruk Varn]]; [[_wiki/orc\|orcs]] usam o Rûk (50 m), distância de carga tática, embora no micro adotem unidades imperiais.
+Variantes culturais resistem ao padrão imperial: [[_wiki/drul\|druls]] usam o Drath (1,5 m), ligeiramente menor que a Braça porque os túneis do [[_wiki/vor-ghol\|Vor-Ghol]] são mais baixos; [[_wiki/sylvano\|sylvanos]] medem em Sárns (500 m), a distância em que distinguem o canto de dois pássaros diferentes; [[_wiki/karashim\|anões]] usam o Braç'harn (1,8 m), medida padrão de galeria de mina em [[_wiki/thandruk_varn\|Thandruk Varn]]; [[_wiki/orc\|orcs]] usam o Rûk (50 m), distância de carga tática, embora no micro adotem unidades imperiais.
 
 ### Tempo
 
@@ -24,7 +24,7 @@ O dia divide-se em quatro vigílias de seis horas. A unidade mínima é o Batime
 Cada vigília tem caráter próprio:
 
 - **Prima** (Sombra Profunda, 0h–6h): Hora dos interrogatórios e execuções. Patrulhas dobradas em [[_wiki/morvgrad\|Morvgrad]]. "Nascido na Prima" é presságio sombrio.
-- **Segunda** (Ascensão, 6h–12h): Abertura de mercados e tribunais. [[_wiki/justiciars\|Justiciars]] recebem petições na Segunda. "Ascensão sem luz" (manhã nublada) é mau presságio em [[locais/myrgarde\|Myrgarde]].
+- **Segunda** (Ascensão, 6h–12h): Abertura de mercados e tribunais. [[_wiki/justiciars\|Justiciars]] recebem petições na Segunda. "Ascensão sem luz" (manhã nublada) é mau presságio em [[_wiki/myrgarde\|Myrgarde]].
 - **Tércia** (Zênite, 12h–18h): Pico de atividade militar e comercial. Hora de audiências militares e execuções públicas. Homônimo da estação Zênite (verão).
 - **Quarta** (Crepúsculo, 18h–24h): Toque de recolher para pindoriares em cidades imperiais. "Conversa de Quarta" é negócio feito às pressas antes do escuro.
 
@@ -32,16 +32,14 @@ Cada vigília tem caráter próprio:
 
 A [[_wiki/lunia\|Lúnia]] (28 dias) equivale ao mês e divide-se em quatro fáscias de sete dias, cada uma coincidindo com uma fase lunar: Nova, Crescente, Plena e Minguante. Contratos e prazos legais contam-se em lúnias. Vencimentos militares são pagos por fáscia. A fáscia de lua nova é chamada "fáscia de sangue", período preferido para operações das [[_wiki/ophideias\|Ophideias]].
 
-O [[_wiki/varnum\|Varnum]] (365 dias) equivale ao ano, composto por treze Lúnias (364 dias) mais o [[_wiki/nullis\|Nullis]]. A raiz *varn-* conecta-se a sol e calor (cf. [[_wiki/varna\|Varna]], a dragão anciã; [[_wiki/varnak\|Varnak]], as cordilheiras vulcânicas; [[_wiki/thandruk_varn\|Thandruk Varn]], a fortaleza de forjas). O [[_wiki/varnum\|Varnum]] é, literalmente, o "ciclo completo do sol". "Quantos varnums você carrega?" é a forma comum de perguntar a idade de alguém. A contagem imperial dos varnums começa na coroação de [[personagens/arothistar\|Arothistar]].
+O [[_wiki/varnum\|Varnum]] (365 dias) equivale ao ano, composto por treze Lúnias (364 dias) mais o [[_wiki/nullis\|Nullis]]. A raiz *varn-* conecta-se a sol e calor (cf. [[_wiki/varna\|Varna]], a dragão anciã; [[_wiki/varnak\|Varnak]], as cordilheiras vulcânicas; [[_wiki/thandruk_varn\|Thandruk Varn]], a fortaleza de forjas). O [[_wiki/varnum\|Varnum]] é, literalmente, o "ciclo completo do sol". "Quantos varnums você carrega?" é a forma comum de perguntar a idade de alguém. A contagem imperial dos varnums começa na coroação de [[_wiki/arothistar\|Arothistar]].
 
 O [[_wiki/varnum\|Varnum]] possui quatro estações. Os nomes formais (Germa, Zênite, Quédia, Brûma) são de uso erudito e cerimonial; no cotidiano, prevalece primavera, verão, outono e inverno.
 
-| Estação | Formal | Lúnias | Dias |
-|---------|--------|--------|------|
-| Primavera | Germa | 3 | 84 |
-| Verão | Zênite | 3 | 84 |
-| Outono | Quédia | 3 | 84 |
-| Inverno | Brûma | 4 | 112 |
+- **Primavera** — Formal: Germa | Lúnias: 3 | Dias: 84
+- **Verão** — Formal: Zênite | Lúnias: 3 | Dias: 84
+- **Outono** — Formal: Quédia | Lúnias: 3 | Dias: 84
+- **Inverno** — Formal: Brûma | Lúnias: 4 | Dias: 112
 
 O [[_wiki/nullis\|Nullis]] (Dia do [[_wiki/vazio\|Vazio]]), coloquialmente "Dia do Vaz", é o dia avulso entre a última [[_wiki/lunia\|Lúnia]] do [[_wiki/varnum\|Varnum]] e a primeira do seguinte. Não pertence a nenhuma [[_wiki/lunia\|Lúnia]] nem estação. Dia de superstição, recolhimento e rituais imperiais. Para a maioria dos pindoriares, o [[_wiki/nullis\|Nullis]] é o dia em que o mundo suspira entre um ano e outro: fecha-se a porta, apaga-se o fogo, não se pronuncia o nome de ninguém que tenha morrido no [[_wiki/varnum\|Varnum]] anterior.
 
@@ -57,22 +55,20 @@ Para volume, a escala vai do Gole (~50 ml) ao Barril (~50 L). O Gole é a dose p
 
 O sistema monetário imperial é ternário: Coroa (ouro), Cunho (prata), Cravo (cobre). Uma Coroa vale dez Cunhos; um Cunho vale doze Cravos.
 
-A Coroa leva o perfil de [[personagens/arothistar\|Arothistar]] cunhado em relevo e é produzida exclusivamente em [[_wiki/morvgrad\|Morvgrad]]. Tesouros e tributos contam-se em coroas. "Quanto pesa uma coroa?" é pergunta filosófica [[_wiki/shadar\|shadar]] sobre o custo do poder. Ninguém espera resposta.
+A Coroa leva o perfil de [[_wiki/arothistar\|Arothistar]] cunhado em relevo e é produzida exclusivamente em [[_wiki/morvgrad\|Morvgrad]]. Tesouros e tributos contam-se em coroas. "Quanto pesa uma coroa?" é pergunta filosófica [[_wiki/shadar\|shadar]] sobre o custo do poder. Ninguém espera resposta.
 
 O Cunho, cujo nome deriva do ato de cunhar, é a moeda mais comum no comércio formal. Vencimentos militares são pagos em cunhos por fáscia.
 
-O Cravo é a moeda do povo. "Não vale um cravo" equivale a "não vale nada". Gnomos do [[_wiki/mercado_oeste\|Mercado Oeste]] operam em cravos. Mendigos de [[locais/ghol_mournak\|Ghol'Mournak]] cobram em cravos por informação; os [[_wiki/derro\|derros]] mantêm tocas-cambistas onde trocam cravos por favores e selos falsificados.
+O Cravo é a moeda do povo. "Não vale um cravo" equivale a "não vale nada". Gnomos do [[_wiki/mercado_oeste\|Mercado Oeste]] operam em cravos. Mendigos de [[_wiki/ghol_mournak\|Ghol'Mournak]] cobram em cravos por informação; os [[_wiki/derro\|derros]] mantêm tocas-cambistas onde trocam cravos por favores e selos falsificados.
 
 ### Eras
 
 As eras têm durações variáveis e não servem como unidade de medida. Cada era é recordada de forma diferente conforme a perspectiva.
 
-| Era | Imperial | Subjugados | Erudito |
-|-----|----------|------------|---------|
-| [[_wiki/idade_esquecida\|Idade Esquecida]] | O Tempo dos [[_wiki/luminares\|Luminares]] | O Tempo dos [[_wiki/luminares\|Luminares]] | *Aetas Lucis* |
-| [[_wiki/primeira_era\|Primeira Era]] | O Êxodo | A Era das Alianças | *Aetas Primaeva* |
-| [[_referencias/segunda_era\|Segunda Era]] | A Era da Conquista | A Paz Iludida | *Aetas Duorum* |
-| [[_wiki/terceira_era\|Terceira Era]] | A Era de [[personagens/arothistar\|Arothistar]] | A Longa Noite | *Aetas Umbrae* |
+- **[[_wiki/idade_esquecida\|Idade Esquecida]]** — Imperial: O Tempo dos [[_wiki/luminares\|Luminares]] | Subjugados: O Tempo dos [[_wiki/luminares\|Luminares]] | Erudito: *Aetas Lucis*
+- **[[_wiki/primeira_era\|Primeira Era]]** — Imperial: O Êxodo | Subjugados: A Era das Alianças | Erudito: *Aetas Primaeva*
+- **[[_wiki/segunda_era\|Segunda Era]]** — Imperial: A Era da Conquista | Subjugados: A Paz Iludida | Erudito: *Aetas Duorum*
+- **[[_wiki/terceira_era\|Terceira Era]]** — Imperial: A Era de [[_wiki/arothistar\|Arothistar]] | Subjugados: A Longa Noite | Erudito: *Aetas Umbrae*
 
 O apelido imperial da [[_wiki/terceira_era\|Terceira Era]] é debatido: nem todos os [[_wiki/shadar\|shadars]] concordam em nomear a era por um único monarca.
 

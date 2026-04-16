@@ -5,7 +5,7 @@
 
 ### Perfil
 
-Kazem Vorgrath, o Comando Ígneo, é conselheiro do [[_wiki/conselho_sombrio\|Conselho Sombrio]] vinculado à ala militar. Outrora general, ganhou a alcunha por suas táticas de terra arrasada empregando chamas demoníacas advindas de magias vermelhas. Foi promovido a conselheiro após [[personagens/arothistar\|Arothistar]] banir tais invocações piromânticas, uma manobra que simultaneamente o elevou em status e o castrou em capacidade bélica.
+Kazem Vorgrath, o Comando Ígneo, é conselheiro do [[_wiki/conselho_sombrio\|Conselho Sombrio]] vinculado à ala militar. Outrora general, ganhou a alcunha por suas táticas de terra arrasada empregando chamas demoníacas advindas de magias vermelhas. Foi promovido a conselheiro após [[_wiki/arothistar\|Arothistar]] banir tais invocações piromânticas, uma manobra que simultaneamente o elevou em status e o castrou em capacidade bélica.
 
 ### Papel no Conselho
 
