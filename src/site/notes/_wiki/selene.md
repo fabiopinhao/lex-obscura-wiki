@@ -5,7 +5,7 @@
 
 ### Perfil
 
-Esposa de [[_wiki/arothistar\|Dravhok]] de [[_wiki/valdris\|Valdris]], mãe de [[_wiki/arothistar\|Dravmir]]. Mulher de cachos que o vento do Austral parecia querer arrancar e olhos que não olhavam para os outros, mas para o chão e para os lados. Quebradiça, o tipo de beleza que não foi feita para durar. [[_wiki/arothistar\|Dravhok]] a amava com uma urgência que silenciava a sogra.
+Esposa de [[personagens/arothistar\|Dravhok]] de [[_wiki/valdris\|Valdris]], mãe de [[personagens/arothistar\|Dravmir]]. Mulher de cachos que o vento do Austral parecia querer arrancar e olhos que não olhavam para os outros, mas para o chão e para os lados. Quebradiça, o tipo de beleza que não foi feita para durar. [[personagens/arothistar\|Dravhok]] a amava com uma urgência que silenciava a sogra.
 
 ### Morte
 

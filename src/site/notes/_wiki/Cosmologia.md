@@ -52,7 +52,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 ### Diabos
 
-- [[_wiki/malagoth\|Malagoth]] — Coroa de Espinhos *(Crown of Thorns)* — Vampiro cravejado de obsidiana, único diabo com visão de dominação total; suas maldições se cravam no alvo e não se desprendem
+- [[panteao/malagoth\|Malagoth]] — Coroa de Espinhos *(Crown of Thorns)* — Vampiro cravejado de obsidiana, único diabo com visão de dominação total; suas maldições se cravam no alvo e não se desprendem
 
 - [[_wiki/azkaroth\|Azkaroth]] — Arquidiabo *(Archdevil)* — Corvo negro sobre Morvgrad, sede das cerimônias de unção onde cada Justiciar morre simbolicamente e renasce em sangue
 
@@ -80,11 +80,11 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/kaelgrym\|Kaelgrym]] — Flagelo Alado *(Winged Scourge)* — Mantícora funérea pactuada com Arothistar; exige destruição contínua, expurgos e terror como método de governo
 
-- [[_wiki/tzarakul\|Tzarakul]] — Arquidemônio *(Archdemon)* — Touro calcinante cuja força dissolve pactos arcanos na raiz; a ferida que Rupto abre, Anatho infecta, e qualquer tentativa de refazer o vínculo nasce corrompida
+- [[panteao/tzarakul\|Tzarakul]] — Arquidemônio *(Archdemon)* — Autarca calcinante: figura humanóide soberana em combustão perpétua cuja força dissolve pactos arcanos na raiz; a ferida que Rupto abre, Anatho infecta, e qualquer tentativa de refazer o vínculo nasce corrompida
 
 - [[_wiki/bal_hadut\|Bal'Hadut]] — Trono Incandescente *(The Incandescent Throne)* — Dragão vulcânico cujo fogo não ilumina: calcina, e o trono sobre o qual se senta são as cinzas de quem se aproximou
 
-- [[_wiki/thurgash\|Thûrgash]] — Devorador de Bastiões *(The Devourer of Bastions)* — Gigante de cerco que existe para a guerra eterna; onde outros demônios incendeiam, Thûrgash esmaga até que não reste estrutura de pé
+- [[panteao/thurgash\|Thûrgash]] — Devorador de Bastiões *(The Devourer of Bastions)* — Gigante de cerco que existe para a guerra eterna; onde outros demônios incendeiam, Thûrgash esmaga até que não reste estrutura de pé
 
 - [[_wiki/korbarakh\|Korbarakh]] — Crisol Intocado *(Untouched Crucible)* — Salamandra votiva cujo fogo purifica sem consumir a si mesma; o crisol que funde tudo e permanece intacto
 
@@ -102,7 +102,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/orendhal\|Orendhal]] — Cerne Selado *(The Sealed Heartwood)* — Treante ancião cujas raízes sustentam e aprisionam ao mesmo tempo; a proteção que oferece é uma jaula viva
 
-- [[_wiki/morlgrund\|Morlgrund]] — Osso do Mundo *(Bone of the World)* — Golem de pedra, guardião de Thal'Serin; manifestou avatar em Reinkard quando sangue demais embebeu o solo sagrado
+- [[panteao/morlgrund\|Morlgrund]] — Osso do Mundo *(Bone of the World)* — Golem de pedra, guardião de Thal'Serin; manifestou avatar em Reinkard quando sangue demais embebeu o solo sagrado
 
 - [[_wiki/sulkavrim\|Sulkavrim]] — Muralha Perene *(The Unyielding Bulwark)* — Serpe marmórea que se petrifica para proteger; defesa absoluta ao custo da imobilidade total
 
@@ -132,7 +132,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/israfil\|Israfil]] — Arauto da Aurora *(Herald of Dawn)* — Olifante frondoso cuja bênção é incompatível com a maldição de Malagoth; antítese viva do negrume que devora Reinkard
 
-- [[_wiki/ophemus\|Ophemus]] — Fulgor Devastador *(Devastating Radiance)* — Ciclope coruscante cujo olho único concentra toda a luz disponível num único ponto de destruição
+- [[panteao/ophemus\|Ophemus]] — Fulgor Devastador *(Devastating Radiance)* — Ciclope coruscante cujo olho único concentra toda a luz disponível num único ponto de destruição
 
 - [[_wiki/borjean\|Borjean]] — Juramento Ascendente *(The Skyward Oath)* — Cavaleiro sobre alicórnio cujo juramento eleva literalmente quem o pronuncia; a queda, para quem o rompe, é proporcional à ascensão
 
@@ -144,7 +144,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/geldrion\|Geldrion]] — Apogeu Glacial *(The Glacial Apex)* — Colosso estelar cujo frio não preserva: cristaliza, e o que cristaliza não volta a fluir
 
-- [[_wiki/zuvaneth\|Zuvaneth]] — Enigma Celeste *(The Celestial Enigma)* — Esfinge oracular que não responde perguntas; reformula-as até que a pergunta contenha a resposta e o custo de compreendê-la
+- [[panteao/zuvaneth\|Zuvaneth]] — Enigma Celeste *(The Celestial Enigma)* — Esfinge oracular que não responde perguntas; reformula-as até que a pergunta contenha a resposta e o custo de compreendê-la
 
 - [[_wiki/nocthydral\|Nocthydral]] — Pupila Insondável *(The Fathomless Gaze)* — Kraken caliginoso cujo olhar atravessa planos; não observa o cosmos, digere-o
 
@@ -158,4 +158,4 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/lyldraeth\|Lyldraeth]] — Prece Ululante *(The Howling Prayer)* — Banshee sacrílega cujo lamento é simultaneamente prece e profanação; quem a ouve não sabe se foi abençoado ou amaldiçoado
 
-- [[_wiki/myralune\|Myralune]] — Maré Dormente *(The Dormant Tide)* — Leviatã dormitante de natureza dual entre sideral e titã; seu sono governa marés e correntes que obedecem ao ritmo de um sonho que ninguém ousa interromper
+- [[panteao/myralune\|Myralune]] — Maré Dormente *(The Dormant Tide)* — Leviatã dormitante de natureza dual entre sideral e titã; seu sono governa marés e correntes que obedecem ao ritmo de um sonho que ninguém ousa interromper

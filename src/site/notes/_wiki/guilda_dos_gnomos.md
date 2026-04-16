@@ -17,7 +17,7 @@ Vivem nos níveis mais baixos do [[_wiki/vor-ghol\|Vor-Ghol]], onde a luz não a
 
 **Organização:** Famílias vivem em "tocas-cambistas" : mistura de entreposto, cofre e casa de câmbio. Administram rotas de suprimento entre [[_wiki/vor-ghol\|Vor-Ghol]] e superfície, falsificam documentos, corrompem patrulhas e distribuem códigos secretos entre aliados. Mestres da barganha e criadores de artefatos pequenos, letais e discretos.
 
-### O [[_wiki/dribbel_olgund\|Quebra-Trocas]]
+### O [[personagens/dribbel_olgund\|Quebra-Trocas]]
 
 Título honorário dado ao gnomo mais influente da rede subterrânea de [[_wiki/morvgrad\|Morvgrad]]. Atua como:
 
@@ -25,7 +25,7 @@ Título honorário dado ao gnomo mais influente da rede subterrânea de [[_wiki/
 - Líder mercantil
 - Executor denunciador de quem quebra acordos
 
-**Titular atual:** [[_wiki/dribbel_olgund\|Dribbel Olgund]]: gnomo tagarela, ardiloso, teatral e perigosamente eficaz. Espertalhão com sorriso fácil, sempre acompanhado de guarda-costas incomum (atualmente [[_wiki/fandegarron\|Fandegarrón]]). Opera a Guilda dos Gnomos do [[_wiki/mercado_oeste\|Mercado Oeste]].
+**Titular atual:** [[personagens/dribbel_olgund\|Dribbel Olgund]]: gnomo tagarela, ardiloso, teatral e perigosamente eficaz. Espertalhão com sorriso fácil, sempre acompanhado de guarda-costas incomum (atualmente [[personagens/fandegarron\|Fandegarrón]]). Opera a Guilda dos Gnomos do [[_wiki/mercado_oeste\|Mercado Oeste]].
 
 ### Dinâmica com o Culto
 

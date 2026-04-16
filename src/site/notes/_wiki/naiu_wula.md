@@ -5,13 +5,13 @@
 
 ### Perfil
 
-[[_wiki/gerut\|Gerut]] (raça). Mestre errante, sem cátedra nem sobrenome. Praticante da magia [[_wiki/teru\|Teru]]. Fundador da [[_wiki/doutrina_da_alma\|Doutrina da Alma]]. Viveu no fim da [[_wiki/segunda_era\|Segunda Era]], anterior às Guerras Reinkárdicas. Status: morto (histórico).
+[[racas/gerut\|Gerut]] (raça). Mestre errante, sem cátedra nem sobrenome. Praticante da magia [[_wiki/teru\|Teru]]. Fundador da [[_wiki/doutrina_da_alma\|Doutrina da Alma]]. Viveu no fim da [[_referencias/segunda_era\|Segunda Era]], anterior às Guerras Reinkárdicas. Status: morto (histórico).
 
 ### Papel Narrativo
 
 Personagem histórico: presente via legado filosófico e metodológico. Ensinou que toda magia nasce da alma, e que [[_wiki/magi\|Magi]] é apenas "rastro da alma no mundo, não sua chama." Deuses são almas antigas e vastas; mortais são almas jovens potencialmente despertáveis. O "despertar" surge em momentos de profunda emoção; não pode ser ensinado, previsto ou forçado. Discípulos ainda se reúnem em círculos secretos para ensinar a "escuta interior do [[_wiki/teru\|Teru]]." [[_wiki/justiciars\|Justiciars]] usam este sistema para conjurar sem subordinação divina. [[_wiki/milorsevogh_velshard\|Milor]] domina [[_wiki/teru\|Teru]].
 
-Recepção histórica: religiosos o chamavam de herético; alquimistas, de charlatão; magos acadêmicos o ignoravam; elfos [[_wiki/sylvano\|sylvanos]], [[_wiki/gerut\|gerut]], rebeldes silvestres e eremitas o tratavam como profeta.
+Recepção histórica: religiosos o chamavam de herético; alquimistas, de charlatão; magos acadêmicos o ignoravam; elfos [[_wiki/sylvano\|sylvanos]], [[racas/gerut\|gerut]], rebeldes silvestres e eremitas o tratavam como profeta.
 
 ### Padrões de Voz
 

@@ -3,11 +3,12 @@
 ---
 
 
-**Natureza:** Sistema de magia não-teocrático baseado em compreensão técnica dos padrões arcanos, sem necessidade de entidades.
+**Natureza:** Sistema não-teocrático que acessa escolas de magia por comunicação com [[_wiki/planos_divinos\|planos divinos]], sem exigir submissão, pacto ou devoção a nenhuma entidade. O [[_wiki/magi\|magi]] vem de dentro do praticante, acompanhado de um sentimento associado à cor e à escola. Sem o sentimento correto, a invocação correta na língua correta produz nada.
 
 **Características:**
-- Não requer entidade - poder vem de compreensão arcana pura
-- Acesso às 10 escolas da cor racial do praticante
+- Comunicação com [[_wiki/planos_divinos\|planos divinos]] sem vínculo — o plano responde automaticamente, sem escolha e possivelmente sem consciência
+- [[_wiki/magi\|Magi]] vem de dentro do praticante, não canalizado de entidade
+- Acesso às 10 escolas da [[_wiki/restricao_de_cor\|cor racial]] do praticante
 - Versatilidade alta, profundidade moderada - generalista competente, não especialista
 - Usado primariamente por [[_wiki/justiciars\|Justiciars]] do [[_wiki/imperio_sombrio\|Império Sombrio]]
 - Requer estudo em academias arcanas
@@ -29,7 +30,7 @@
 ✅ Independência total - sem obrigações a entidades  
 ✅ Versatilidade máxima - acesso a 10 escolas diferentes  
 ✅ Sem marca física
-✅ Custos ontológicos diluídos (tendências mistas, sem transformação completa)  
+✅ Custos ontológicos diluídos pelo uso distribuído entre múltiplas escolas  
 ✅ Pode ser ensinado/institucionalizado  
 ✅ Socialmente respeitável (não estigma de pactos)
 

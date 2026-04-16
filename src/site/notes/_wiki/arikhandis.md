@@ -9,7 +9,7 @@ Arikhandis se manifesta como uma serpente alada de escamas translúcidas que ref
 
 ### Domínio
 
-[[_wiki/aero\|Aero]] e [[_wiki/chrono\|Chrono]]. Aero desloca matéria no espaço; Chrono desloca percepção no tempo. Separadas, produzem efeitos comuns: rajadas de vento, lapsos de cronologia. Fundidas em Arikhandis, geram um fenômeno que nenhuma das duas alcança sozinha: movimento atmosférico saturado de tempo. O ar carrega fragmentos cronológicos como partículas em suspensão. Respirar é involuntário, e com o ar entram as visões. A profecia de Arikhandis não é dom concedido. É contaminação.
+[[_wiki/aero\|Aero]] e [[_wiki/chrono\|Chrono]]. [[_wiki/aero\|Aero]] desloca matéria no espaço; [[_wiki/chrono\|Chrono]] desloca percepção no tempo. Separadas, produzem efeitos comuns: rajadas de vento, lapsos de cronologia. Fundidas em Arikhandis, geram um fenômeno que nenhuma das duas alcança sozinha: movimento atmosférico saturado de tempo. O ar carrega fragmentos cronológicos como partículas em suspensão. Respirar é involuntário, e com o ar entram as visões. A profecia de Arikhandis não é dom concedido. É contaminação.
 
 ### O Vendaval
 
@@ -17,7 +17,7 @@ O Vendaval Profético é título e fenômeno. Onde Arikhandis passa, a atmosfera
 
 ### Natureza Demoníaca
 
-Arikhandis é demônio. Acesso via Vinculum Daemonis: vínculo de força, sem contrato, sem cláusulas. O demônio testa o conjurador e aceita ou devora. Pactuados carregam custos de Aero e Chrono amplificados pelo vínculo demoníaco: claustrofobia existencial que transforma qualquer permanência em prisão. A dessincronização de Chrono agrava: memória e antecipação se fundem, e o pactuado perde a noção de qual visão pertence ao passado e qual ao futuro. O resultado são videntes exilados do presente e incapazes de permanecer parados.
+Arikhandis é demônio. Acesso via [[_wiki/vinculum_daemonis\|Vinculum Daemonis]]: vínculo de força, sem contrato, sem cláusulas. O demônio testa o conjurador e aceita ou devora. Pactuados carregam custos de [[_wiki/aero\|Aero]] e [[_wiki/chrono\|Chrono]] amplificados pelo vínculo demoníaco: claustrofobia existencial que transforma qualquer permanência em prisão. A dessincronização de [[_wiki/chrono\|Chrono]] agrava: memória e antecipação se fundem, e o pactuado perde a noção de qual visão pertence ao passado e qual ao futuro. O resultado são videntes exilados do presente e incapazes de permanecer parados.
 
 ### Filosofia
 

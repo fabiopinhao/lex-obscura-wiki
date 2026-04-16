@@ -9,7 +9,7 @@
 
 ---
 
-O primeiro e mais sagrado volume do [[_wiki/codex_somniorum\|Codex Somniorum]]. Contém pronunciamentos diretos de [[_wiki/arothistar\|Arothistar]] — visões, decretos e parábolas sombrias, escritos em tinta dourada sobre pergaminho negro. Cada palavra é considerada infalível e imutável. A leitura é obrigatória durante vigílias judiciais.
+O primeiro e mais sagrado volume do [[_wiki/codex_somniorum\|Codex Somniorum]]. Contém pronunciamentos diretos de [[personagens/arothistar\|Arothistar]] — visões, decretos e parábolas sombrias, escritos em tinta dourada sobre pergaminho negro. Cada palavra é considerada infalível e imutável. A leitura é obrigatória durante vigílias judiciais.
 
 O [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] não é texto inerte. Quando um [[_wiki/justiciars\|Justiciar]] o invoca, as palavras caem como martelo: a Palavra do Soberano precede todas as leis escritas por mortais. Ordens, pactos, decretos, promessas, ameaças, sentenças — tudo o Senhor da Torre cumpre como pronunciado. É precisamente essa inflexibilidade que serve de alicerce ao império.
 

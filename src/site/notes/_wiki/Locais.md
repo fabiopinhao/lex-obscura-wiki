@@ -13,13 +13,13 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 
 - [[_wiki/morvgrad\|Morvgrad]] — Capital imperial, sede do poder de Arothistar
 - [[_wiki/niedellin\|Niedellin]] — Povoado na Ventrista, cenário principal do Livro I
-- [[_wiki/myrgarde\|Myrgarde]] — Ex-capital humana, subjugada, origem de Dravmir
+- [[locais/myrgarde\|Myrgarde]] — Ex-capital humana, subjugada, origem de Dravmir
 - [[_wiki/valdris\|Valdris]] — Cidade-porto costeira, terra natal de Milorsevogh
 - [[_wiki/varnak\|Varnak]] — Região montanhosa em Veinkard, tribos draconídeas
 
 ## Fortalezas e Sedes de Poder
 
-- [[_wiki/mor_severith\|Mor'Severith]] — Torre de Arothistar, fundida ao Pico de Nethys
+- [[locais/mor_severith\|Mor'Severith]] — Torre de Arothistar, fundida ao Pico de Nethys
   - [[_wiki/oculario\|Oculário]] — Sala cerimonial no topo de Mor'Severith, abriga o Oculus
 - [[_wiki/khar_morthar\|Khar Morthar]] — Torre da Morte, necrópole vertical em Morvgrad
 - [[_wiki/khar_tabreth\|Khar'Tabreth]] — Torre das Tábuas, arquivos e registros do Culto
@@ -35,13 +35,13 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 ## Subterrâneo e Montanhas
 
 - [[_wiki/vor-ghol\|Vor-Ghol]] — O Underdark, lar ancestral dos druls
-- [[_wiki/ghilanna\|Ghilanna]] — Cidadela drul em Vor-Ghol, sede matriarcal da Casa Duskryn
+- [[locais/ghilanna\|Ghilanna]] — Cidadela drul em Vor-Ghol, sede matriarcal da Casa Duskryn
 - [[_wiki/xarn_zareth\|Xarn'Zareth]] — Distrito sagrado em Ghilanna, Eparquia de Jaakurs
 - [[_wiki/thandruk_varn\|Thandruk Varn]] — Cidadela anã, forjas mestras dos arsenais imperiais
-- [[_wiki/ghol_mournak\|Ghol'Mournak]] — Câmara subterrânea sob Morvgrad, residência de Nyx'Ara
+- [[locais/ghol_mournak\|Ghol'Mournak]] — Câmara subterrânea sob Morvgrad, residência de Nyx'Ara
   - [[_wiki/camara_de_othuun\|Câmara de Othuun]] — Escadaria de 500 degraus sussurrantes, oráculo
   - [[_wiki/poco_etereo\|Poço Etéreo]] — Nexo central de comunicações do Oculus
-- [[_wiki/ghargash\|Ghargash]] — Forte tribal, carnificina que marcou a juventude de Grothar
+- [[locais/ghargash\|Ghargash]] — Forte tribal, carnificina que marcou a juventude de Grothar
 
 ## Continentes e Regiões
 
@@ -52,7 +52,7 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 - [[_wiki/rio_parveni\|Rio Parveni]] — Rio principal da Ventrista, corta Niedellin
 - [[_wiki/dorsal\|Dorsal]] — Cordilheira, fronteira natural entre Reinkard e Veinkard
 - [[_wiki/pico_de_nethys\|Pico de Nethys]] — Pico mais elevado da Dorsal, antigo ninho de dragão
-- [[_wiki/neranthis\|Neranthis]] — Continente independente das raças azuis
+- [[locais/neranthis\|Neranthis]] — Continente independente das raças azuis
 - [[_wiki/therion\|Therion]] — Fortaleza da Primeira Era, onde foram compilados os Maleficariums
 - [[_wiki/xilaverth\|Xilaverth]] — Cidadela drul hostil a Ghilanna em Vor-Ghol
 
@@ -78,12 +78,12 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 
 ## Locais Sombrios
 
-- [[_wiki/ghol_drokh\|Ghol'Drokh]] — Masmorras de Morvgrad, Coração Oco e Drokh'Malahar
+- [[locais/ghol_drokh\|Ghol'Drokh]] — Masmorras de Morvgrad, Coração Oco e Drokh'Malahar
   - [[_wiki/drokh_malahar\|Drokh'Malahar]] — Pisos abissais de Ghol'Drokh, câmaras de tortura perpétua
 - [[_wiki/fossa_dos_suplicantes\|Fossa dos Suplicantes]] — Abismo urbano em Morvgrad
 - [[_wiki/fosso_da_purga\|Fosso da Purga]] — Local de execuções sumárias
 - [[_wiki/campo_dos_lamentos\|Campo dos Lamentos]] — Descampado de cinzas onde Lendalas foi queimada
-- [[_wiki/jardim_dos_inocentes\|Jardim dos Inocentes]] — Cemitério de Myrgarde
+- [[locais/jardim_dos_inocentes\|Jardim dos Inocentes]] — Cemitério de Myrgarde
 - [[_wiki/veio_morto\|Veio Morto]] — Passagem subterrânea do Vor-Ghol, dridars selvagens
 - [[_wiki/eixo_de_drenn\|Eixo de Drenn]] — Rota subterrânea de contorno no Vor-Ghol
 - [[_wiki/galeria_menor\|Galeria Menor]] — Corredor subterrâneo sujeito a marés

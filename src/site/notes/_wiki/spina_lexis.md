@@ -3,7 +3,7 @@
 ---
 
 
-**Nomenclatura:** "Coluna da Lei" : como coluna arquitetônica, sustenta a estrutura judicial do [[_wiki/imperio_sombrio\|império]]; como coluna vertebral, mantém ereto o corpo da justiça. [[_wiki/justiciars\|Justiciars]] são vértebras individuais conectadas à coluna maior: a vontade de [[_wiki/arothistar\|Arothistar]].
+**Nomenclatura:** "Coluna da Lei" : como coluna arquitetônica, sustenta a estrutura judicial do [[_wiki/imperio_sombrio\|império]]; como coluna vertebral, mantém ereto o corpo da justiça. [[_wiki/justiciars\|Justiciars]] são vértebras individuais conectadas à coluna maior: a vontade de [[personagens/arothistar\|Arothistar]].
 
 **Composição:**
 

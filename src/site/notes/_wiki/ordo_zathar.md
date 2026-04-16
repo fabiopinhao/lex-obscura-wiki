@@ -13,7 +13,7 @@ O termo "Ordo Zathar" deriva de [[_wiki/xarn_zareth\|Xarn'Zareth]], a eparquia l
 
 ### Natureza Ideológica
 
-**CRÍTICO:** O Ordo Zathar NÃO é facção libertadora. São tão malignos quanto [[_wiki/arothistar\|Arothistar]]: buscam substituir um sistema de controle tirânico por outro igualmente opressivo. Defendem a lei contra o homem, mas não defendem liberdade: apenas outro modo de dominação institucional.
+**CRÍTICO:** O Ordo Zathar NÃO é facção libertadora. São tão malignos quanto [[personagens/arothistar\|Arothistar]]: buscam substituir um sistema de controle tirânico por outro igualmente opressivo. Defendem a lei contra o homem, mas não defendem liberdade: apenas outro modo de dominação institucional.
 
 **Filosofia operacional:**
 - [[_wiki/lex_obscura_decreto\|Lex Obscura]] (lei de [[_wiki/xarn\|Xarn]]) como fundamento supremo
@@ -54,7 +54,7 @@ Esta camada de segurança operacional protege o fundador do Culto enquanto permi
 - [[_wiki/camara_de_othuun\|Câmara de Othuun]] como centro de inteligência ([[_wiki/nyx_ara\|Nyx'Ara]])
 
 **Dupla cobertura:**
-- [[_wiki/syndrith_morghast\|Syndrith]] porta selo púrpura de [[_wiki/arothistar\|Arothistar]] enquanto executa agenda do Ordo
+- [[_wiki/syndrith_morghast\|Syndrith]] porta selo púrpura de [[personagens/arothistar\|Arothistar]] enquanto executa agenda do Ordo
 - Ironia operacional: símbolo imperial usado para missão anti-monárquica
 - Autorização oficial permite acesso a recursos imperiais para fins conspiratórios
 
@@ -82,4 +82,4 @@ Esta camada de segurança operacional protege o fundador do Culto enquanto permi
 **Externo:**
 - [[_wiki/vyrensen\|Vyrensen]] (futuro cadeira maior) pode detectar manobras de [[_wiki/ulrik_morzenn\|Ulrik]]
 - [[_wiki/justiciars\|Justiciars]] veteranos ([[_wiki/orum-rahru\|Orum]]) desconfiam de [[_wiki/jaakurs\|Jaakurs]]
-- [[_wiki/arothistar\|Arothistar]] paranóico pode descobrir conspiração a qualquer momento
+- [[personagens/arothistar\|Arothistar]] paranóico pode descobrir conspiração a qualquer momento

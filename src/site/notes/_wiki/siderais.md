@@ -5,7 +5,7 @@
 
 ### Natureza
 
-Os Siderais são entidades de consciência pura ou quase pura que vagam pelo [[_wiki/plano_etereo\|Plano Etéreo]]. Não possuem forma física definida: são padrões de pensamento, geometrias vivas, conceitos conscientes. Djinns, leviatãs, esfinges. A cor arcana azul os define: conhecimento, transcendência, distanciamento.
+Os Siderais são entidades de consciência pura ou quase pura que vagam pelo [[_wiki/plano_etereo\|Plano Etéreo]]. Não possuem forma física definida: são padrões de pensamento, geometrias vivas, conceitos conscientes. Djinns, leviatãs, esfinges. A [[_wiki/restricao_de_cor\|cor arcana]] azul os define: conhecimento, transcendência, distanciamento.
 
 Acredita-se que o próprio [[_wiki/plano_etereo\|Plano Etéreo]] seja seu plano de existência, não um corredor de passagem como é para as demais entidades. Não possuem domínio fixo, o que os torna inaprisionáveis: não há plano existencial onde possam ser confinados. Vagam entre planos conforme seu interesse, podendo estar próximos ou distantes de [[_wiki/thamakard\|Thamakard]] a qualquer momento.
 
@@ -21,7 +21,7 @@ O vínculo com Siderais opera por [[_wiki/meditatio_aetheris\|Meditatio Aetheris
 
 ### Raças Associadas
 
-[[_wiki/frenim\|Frenims]], [[_wiki/undine\|undines]] e [[_wiki/ranidano\|ranidanos]] compõem as raças azuis de [[_wiki/neranthis\|Neranthis]]. Os [[_wiki/frenim\|frenims]] são o grupo dominante, exercendo liderança política e arcana. [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]], o [[_wiki/frenim\|frenim]] mais poderoso do Livro I, exemplifica tanto o potencial quanto a fragilidade do vínculo sideral: abandonado por seu deus após trair o [[_wiki/plano_etereo\|Plano Etéreo]] a mando de [[_wiki/arothistar\|Arothistar]].
+[[_wiki/frenim\|Frenims]], [[_wiki/undine\|undines]] e [[_wiki/ranidano\|ranidanos]] compõem as raças azuis de [[locais/neranthis\|Neranthis]]. Os [[_wiki/frenim\|frenims]] são o grupo dominante, exercendo liderança política e arcana. [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]], o [[_wiki/frenim\|frenim]] mais poderoso do Livro I, exemplifica tanto o potencial quanto a fragilidade do vínculo sideral: abandonado por seu deus após trair o [[_wiki/plano_etereo\|Plano Etéreo]] a mando de [[personagens/arothistar\|Arothistar]].
 
 ### Siderais Nomeados
 

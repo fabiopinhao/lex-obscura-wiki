@@ -11,7 +11,7 @@ Encadernado em couro púrpura com fechos metálicos em forma de garras. Mais que
 
 **Estrutura Tripartite:**
 
-**[[_wiki/verbum_arkhon_codex\|Verbum Arkhon]]** ("Palavras do Soberano"): Pronunciamentos diretos de [[_wiki/arothistar\|Arothistar]]: visões, decretos, parábolas sombrias. Tinta dourada sobre pergaminho negro. Considerado infalível e imutável. Leitura obrigatória durante vigílias judiciais. Esta seção dá título ao Livro I da trilogia.
+**[[_wiki/verbum_arkhon_codex\|Verbum Arkhon]]** ("Palavras do Soberano"): Pronunciamentos diretos de [[personagens/arothistar\|Arothistar]]: visões, decretos, parábolas sombrias. Tinta dourada sobre pergaminho negro. Considerado infalível e imutável. Leitura obrigatória durante vigílias judiciais. Esta seção dá título ao Livro I da trilogia.
 
 **[[_wiki/lex_obscura_decreto\|Lex Obscura]]** ("Lei das Sombras"): Leis aprovadas pelo [[_wiki/conselho_sombrio\|Conselho Sombrio]], organizadas por categorias: traição, heresia, desobediência, negligência. Atualizada a cada década. Inclui precedentes e jurisprudências vinculantes. Define punições e exceções. Dá título à trilogia.
 

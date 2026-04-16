@@ -50,7 +50,7 @@ Cada escola possui **10 tipos de magia** organizados por escala de poder:
 
 **Nota — Quebradiço ([[_wiki/cryo\|Cryo]]) vs. Decrepitude ([[_wiki/patho\|Patho]]):** Ambos fragilizam, mas por mecanismos opostos. Quebradiço age pelo frio extremo — remove resiliência de qualquer matéria (metal, pedra, osso, madeira). Decrepitude age pela degradação biológica — atrofia apenas organismos vivos. Quebradiço é instantâneo e reversível (aqueça e o material recupera parte da resistência). Decrepitude é progressiva e persistente.
 
-**Sinergia [[_wiki/cryo\|Cryo]]/Quebradiço + [[_wiki/rupto\|Rupto]]:** Fragilizar e quebrar. [[_wiki/cryo\|Cryo]] torna a matéria quebradiça; [[_wiki/rupto\|Rupto]] fornece a força que estilhaça. Separados, cada um é perigoso. Juntos, muralhas viram cascalho, armaduras viram estilhaços, ossos viram pó. Engenheiros de cerco do [[_wiki/imperio_sombrio\|Império]] treinam a sequência como doutrina de demolição.
+**Sinergia [[_wiki/cryo\|Cryo]]/Quebradiço + [[escolas/rupto\|Rupto]]:** Fragilizar e quebrar. [[_wiki/cryo\|Cryo]] torna a matéria quebradiça; [[escolas/rupto\|Rupto]] fornece a força que estilhaça. Separados, cada um é perigoso. Juntos, muralhas viram cascalho, armaduras viram estilhaços, ossos viram pó. Engenheiros de cerco do [[_wiki/imperio_sombrio\|Império]] treinam a sequência como doutrina de demolição.
 
 **Sinergia [[_wiki/cryo\|Cryo]]/Mordente + [[_wiki/toxo\|Toxo]]:** Veneno que congela. [[_wiki/toxo\|Toxo]] enfraquece e debilita; Mordente imobiliza o alvo enquanto o veneno trabalha. O prisioneiro não consegue arrancar o gelo dos pulsos, e o veneno tem todo o tempo do mundo.
 
@@ -76,7 +76,7 @@ Cada escola possui **10 tipos de magia** organizados por escala de poder:
 | Dano térmico (fusão, queimadura profunda) | Dano neural (convulsão, parada cardíaca) |
 | Amplificada por matéria densa | Amplificada por metal e água |
 
-**Nota — Desintegração ([[_wiki/plasma\|Plasma]]) vs. Obliteração ([[_wiki/rupto\|Rupto]]):**
+**Nota — Desintegração ([[_wiki/plasma\|Plasma]]) vs. Obliteração ([[escolas/rupto\|Rupto]]):**
 
 | Desintegração | Obliteração |
 |---------------|-------------|
@@ -119,7 +119,7 @@ Cada escola possui **10 tipos de magia** organizados por escala de poder:
 
 **Sinergia [[_wiki/geo\|Geo]] + [[_wiki/hydro\|Hydro]]:** Lama, areia movediça, erosão dirigida. [[_wiki/hydro\|Hydro]] satura o solo que [[_wiki/geo\|Geo]] controla. Sumidouro combinado com [[_wiki/hydro\|Hydro]] é mais rápido e profundo.
 
-**Sinergia [[_wiki/geo\|Geo]] + [[_wiki/rupto\|Rupto]]:** Demolição assistida. [[_wiki/geo\|Geo]] identifica estrutura, [[_wiki/rupto\|Rupto]] a quebra. Juntas, derrubam qualquer construção. Separadas: [[_wiki/geo\|Geo]] derruba por volume (Terremoto), [[_wiki/rupto\|Rupto]] por ponto crítico (Demolição).
+**Sinergia [[_wiki/geo\|Geo]] + [[escolas/rupto\|Rupto]]:** Demolição assistida. [[_wiki/geo\|Geo]] identifica estrutura, [[escolas/rupto\|Rupto]] a quebra. Juntas, derrubam qualquer construção. Separadas: [[_wiki/geo\|Geo]] derruba por volume (Terremoto), [[escolas/rupto\|Rupto]] por ponto crítico (Demolição).
 
 **Sinergia [[_wiki/geo\|Geo]] + [[_wiki/gnosi\|Gnosi]]:** Sentido sísmico. [[_wiki/gnosi\|Gnosi]] fornece percepção, [[_wiki/geo\|Geo]] o meio. Vibrações revelam posição, número e peso de criaturas em contato com o solo.
 
@@ -140,9 +140,9 @@ Cada escola possui **10 tipos de magia** organizados por escala de poder:
 | Lento, contínuo, tátil | Rápido, etéreo, sem rastro visual | Instantâneo, preciso |
 | O geomante sente a rocha ao redor | O viajante sombrio perde referências | O viajante espacial pula o caminho |
 
-**Nota — Sumidouro ([[_wiki/geo\|Geo]]) vs. Fissura/Fragmentar ([[_wiki/rupto\|Rupto]]):**
+**Nota — Sumidouro ([[_wiki/geo\|Geo]]) vs. Fissura/Fragmentar ([[escolas/rupto\|Rupto]]):**
 
-| [[_wiki/geo\|Geo]] (Sumidouro) | [[_wiki/rupto\|Rupto]] (Fissura/Fragmentar) |
+| [[_wiki/geo\|Geo]] (Sumidouro) | [[escolas/rupto\|Rupto]] (Fissura/Fragmentar) |
 |-----------------|----------------------------|
 | Terreno se reorganiza, cede, engole | Material se quebra, racha, desfaz |
 | Reversível — geomante devolve o terreno | Irreversível — integridade perdida |
@@ -393,7 +393,7 @@ A oposição do eixo restaurativo. [[_wiki/patho\|Patho]] degrada o que já exis
 
 **Sinergia [[_wiki/patho\|Patho]] + [[_wiki/toxo\|Toxo]]:** Infecção ([[_wiki/patho\|Patho]]) combinada com Sangria ([[_wiki/toxo\|Toxo]]) transforma ferimentos menores em sentenças de morte. O veneno impede coagulação; a infecção impede cicatrização. A ferida não fecha, não coagula, não sara. [[_wiki/ophideias\|Ophideias]] treinam esta combinação para assassinatos que parecem morte natural.
 
-**Sinergia [[_wiki/patho\|Patho]] + [[_wiki/necro\|Necro]]:** Contágio ([[_wiki/patho\|Patho]]) aplicado em área previamente atingida por Ceifar ([[_wiki/necro\|Necro]]) cria zona de exclusão total. [[_wiki/necro\|Necro]] mata; [[_wiki/patho\|Patho]] garante que nada reocupe o espaço. A combinação foi usada em campanhas de terra arrasada durante a conquista de [[_wiki/myrgarde\|Myrgarde]].
+**Sinergia [[_wiki/patho\|Patho]] + [[_wiki/necro\|Necro]]:** Contágio ([[_wiki/patho\|Patho]]) aplicado em área previamente atingida por Ceifar ([[_wiki/necro\|Necro]]) cria zona de exclusão total. [[_wiki/necro\|Necro]] mata; [[_wiki/patho\|Patho]] garante que nada reocupe o espaço. A combinação foi usada em campanhas de terra arrasada durante a conquista de [[locais/myrgarde\|Myrgarde]].
 
 ---
 
@@ -445,9 +445,9 @@ A oposição do eixo restaurativo. [[_wiki/patho\|Patho]] degrada o que já exis
 
 #### 2.3.1 [[_wiki/hypno\|Hypno]] (GU) — Sono e Hipnose
 
-**Nota — [[_wiki/hypno\|Hypno]] vs. [[_wiki/sacro\|Sacro]] vs. [[_wiki/urano\|Urano]]:**
+**Nota — [[_wiki/hypno\|Hypno]] vs. [[_wiki/sacro\|Sacro]] vs. [[escolas/urano\|Urano]]:**
 
-| [[_wiki/hypno\|Hypno]]/Acalanto | [[_wiki/sacro\|Sacro]]/Coragem | [[_wiki/urano\|Urano]]/Serenidade |
+| [[_wiki/hypno\|Hypno]]/Acalanto | [[_wiki/sacro\|Sacro]]/Coragem | [[escolas/urano\|Urano]]/Serenidade |
 |-----------------|-----------------|------------------|
 | Relaxar para sono/vulnerabilidade | Restaurar esperança contra medo | Pacificar, remover agressão |
 | Alvo fica vulnerável | Alvo fica fortalecido | Alvo fica transcendente |
@@ -712,19 +712,19 @@ A oposição do eixo restaurativo. [[_wiki/patho\|Patho]] degrada o que já exis
 
 ---
 
-#### 2.4.3 [[_wiki/rupto\|Rupto]] (RR) — Destruição e Ruptura
+#### 2.4.3 [[escolas/rupto\|Rupto]] (RR) — Destruição e Ruptura
 
-**Nota — [[_wiki/rupto\|Rupto]] vs. [[_wiki/pyro\|Pyro]]:** [[_wiki/pyro\|Pyro]] *consome* (combustão transforma matéria em energia); [[_wiki/rupto\|Rupto]] *quebra* (força estrutural desfaz coesão). Consumo/[[_wiki/pyro\|Pyro]] e Cisão/[[_wiki/rupto\|Rupto]] são as faces mais próximas: Consumo destrói material orgânico seletivamente, Cisão separa materiais por composição. A distinção é o mecanismo — chama versus fratura.
+**Nota — [[escolas/rupto\|Rupto]] vs. [[_wiki/pyro\|Pyro]]:** [[_wiki/pyro\|Pyro]] *consome* (combustão transforma matéria em energia); [[escolas/rupto\|Rupto]] *quebra* (força estrutural desfaz coesão). Consumo/[[_wiki/pyro\|Pyro]] e Cisão/[[escolas/rupto\|Rupto]] são as faces mais próximas: Consumo destrói material orgânico seletivamente, Cisão separa materiais por composição. A distinção é o mecanismo — chama versus fratura.
 
-**Nota — Abrogação vs. Anulação ([[_wiki/abjuro\|Abjuro]]):** [[_wiki/abjuro\|Abjuro]]/Anulação neutraliza encantamentos ao negar o fluxo arcano — desliga o efeito. [[_wiki/rupto\|Rupto]]/Abrogação destrói o vínculo pela força, como quebrar uma corrente. Um selo dissipado se apaga; um selo abrogado se estilhaça. Abrogação é mais violenta, menos precisa e pode deixar resíduos arcanos perigosos.
+**Nota — Abrogação vs. Anulação ([[_wiki/abjuro\|Abjuro]]):** [[_wiki/abjuro\|Abjuro]]/Anulação neutraliza encantamentos ao negar o fluxo arcano — desliga o efeito. [[escolas/rupto\|Rupto]]/Abrogação destrói o vínculo pela força, como quebrar uma corrente. Um selo dissipado se apaga; um selo abrogado se estilhaça. Abrogação é mais violenta, menos precisa e pode deixar resíduos arcanos perigosos.
 
-**Nota — Detonação vs. Imolação ([[_wiki/belli\|Belli]]):** [[_wiki/belli\|Belli]]/Imolação é fúria canalizada — o corpo se consome em adrenalina berserker que amplifica combate até a autodestruição. [[_wiki/rupto\|Rupto]]/Detonação é sacrifício deliberado — o corpo *é* a bomba, convertido em onda de choque. Imolação morre lutando; Detonação morre explodindo.
+**Nota — Detonação vs. Imolação ([[_wiki/belli\|Belli]]):** [[_wiki/belli\|Belli]]/Imolação é fúria canalizada — o corpo se consome em adrenalina berserker que amplifica combate até a autodestruição. [[escolas/rupto\|Rupto]]/Detonação é sacrifício deliberado — o corpo *é* a bomba, convertido em onda de choque. Imolação morre lutando; Detonação morre explodindo.
 
-**Nota — Obliteração vs. Desintegração ([[_wiki/plasma\|Plasma]]):** [[_wiki/plasma\|Plasma]]/Desintegração dissolve matéria em nível molecular via energia extrema. [[_wiki/rupto\|Rupto]]/Obliteração nega coesão estrutural — o alvo não é dissolvido, é *desconstituído*. [[_wiki/plasma\|Plasma]] deixa calor residual; Obliteração deixa [[_wiki/vazio\|vazio]].
+**Nota — Obliteração vs. Desintegração ([[_wiki/plasma\|Plasma]]):** [[_wiki/plasma\|Plasma]]/Desintegração dissolve matéria em nível molecular via energia extrema. [[escolas/rupto\|Rupto]]/Obliteração nega coesão estrutural — o alvo não é dissolvido, é *desconstituído*. [[_wiki/plasma\|Plasma]] deixa calor residual; Obliteração deixa [[_wiki/vazio\|vazio]].
 
 **Nota — Demolição vs. Fragmentar:** Fragmentar opera sobre um objeto discreto, lendo suas linhas de tensão. Demolição opera sobre uma *estrutura composta* (edifício, ponte, fortificação), identificando o ponto cuja falha inicia colapso em cadeia. A diferença é de escala e propagação: Fragmentar quebra a espada; Demolição derruba a torre.
 
-**Sinergias narrativas:** [[_wiki/rupto\|Rupto]]+[[_wiki/patho\|Patho]]: degradação estrutural — muralhas apodrecidas por [[_wiki/patho\|Patho]] cedem com Fissura mínima. [[_wiki/rupto\|Rupto]]+[[_wiki/belli\|Belli]]: guerra de demolição — Fissura na armadura seguida de golpe marcial penetra defesas. Fissura como debuff inter-escolas: qualquer dano subsequente (fogo, lâmina, impacto) encontra resistência reduzida no alvo fissurado.
+**Sinergias narrativas:** [[escolas/rupto\|Rupto]]+[[_wiki/patho\|Patho]]: degradação estrutural — muralhas apodrecidas por [[_wiki/patho\|Patho]] cedem com Fissura mínima. [[escolas/rupto\|Rupto]]+[[_wiki/belli\|Belli]]: guerra de demolição — Fissura na armadura seguida de golpe marcial penetra defesas. Fissura como debuff inter-escolas: qualquer dano subsequente (fogo, lâmina, impacto) encontra resistência reduzida no alvo fissurado.
 
 **Progressões:** Intensidade material (Fissura → Estilhaço → Fragmentar → Obliteração). Libertação/anti-Nomos (Romper → Abrogação → Devastação). Precisão (Estilhaço → Cisão → Demolição). Sacrifício (Fissura → Fragmentar → Detonação).
 
@@ -732,9 +732,9 @@ A oposição do eixo restaurativo. [[_wiki/patho\|Patho]] degrada o que já exis
 
 #### 2.4.4 [[_wiki/nomos\|Nomos]] (WB) — Vínculo e Restrição
 
-**Nota — [[_wiki/nomos\|Nomos]] vs. [[_wiki/rupto\|Rupto]] (par antagônico):**
+**Nota — [[_wiki/nomos\|Nomos]] vs. [[escolas/rupto\|Rupto]] (par antagônico):**
 
-| [[_wiki/nomos\|Nomos]] | [[_wiki/rupto\|Rupto]] |
+| [[_wiki/nomos\|Nomos]] | [[escolas/rupto\|Rupto]] |
 |-------|-------|
 | Impõe estrutura, aprisiona, vincula | Desfaz estrutura, liberta, separa |
 | Força arcana que mantém coesão e obediência | Força arcana que nega coesão e desafia limites |
@@ -742,7 +742,7 @@ A oposição do eixo restaurativo. [[_wiki/patho\|Patho]] degrada o que já exis
 | Custo ontológico: literalismo, rigidez, incapacidade de improvisar | Custo ontológico: impulso destrutivo, tédio com permanência |
 | Fortalecida em locais de controle (tribunais, fortalezas) | Fortalecida em locais de ruína e instabilidade |
 
-[[_wiki/nomos\|Nomos]] e [[_wiki/rupto\|Rupto]] são faces da mesma moeda estrutural. Onde [[_wiki/nomos\|Nomos]] declara "isso permanece", [[_wiki/rupto\|Rupto]] declara "isso cede". Grilhão impõe proibição que Romper desata. Clausura aprisiona o que Abrogação estilhaça. Édito governa o que Devastação nivela. A ironia funcional: praticantes avançados de ambas as escolas se reconhecem imediatamente: a rigidez de um e o impulso destrutivo do outro são espelhos do mesmo custo ontológico em polaridades opostas.
+[[_wiki/nomos\|Nomos]] e [[escolas/rupto\|Rupto]] são faces da mesma moeda estrutural. Onde [[_wiki/nomos\|Nomos]] declara "isso permanece", [[escolas/rupto\|Rupto]] declara "isso cede". Grilhão impõe proibição que Romper desata. Clausura aprisiona o que Abrogação estilhaça. Édito governa o que Devastação nivela. A ironia funcional: praticantes avançados de ambas as escolas se reconhecem imediatamente: a rigidez de um e o impulso destrutivo do outro são espelhos do mesmo custo ontológico em polaridades opostas.
 
 **Nota — [[_wiki/nomos\|Nomos]]/Clausura vs. [[_wiki/cosmo\|Cosmo]]/Gravame (aprisionamento por meios distintos):**
 
@@ -751,7 +751,7 @@ A oposição do eixo restaurativo. [[_wiki/patho\|Patho]] degrada o que já exis
 | Prisão da vontade — corpo e alma travados | Prisão física — peso multiplica até imobilizar |
 | Consciência preservada, agência removida | Consciência preservada, movimento esmagado |
 | Falha contra alvos com resistência arcana superior | Falha contra alvos com força física sobre-humana |
-| Quebrada por Absolvição ([[_wiki/urano\|Urano]]) ou Anulação ([[_wiki/abjuro\|Abjuro]]) | Quebrada por Abrandamento ([[_wiki/cosmo\|Cosmo]]) ou força bruta |
+| Quebrada por Absolvição ([[escolas/urano\|Urano]]) ou Anulação ([[_wiki/abjuro\|Abjuro]]) | Quebrada por Abrandamento ([[_wiki/cosmo\|Cosmo]]) ou força bruta |
 
 Clausura é prisão judicial: o condenado sabe que está preso. Gravame é prisão gravitacional: o esmagado sente que está preso. A diferença é de mecanismo, não de resultado. [[_wiki/justiciars\|Justiciars]] combinam ambas quando a fuga é inconcebível.
 
@@ -766,9 +766,9 @@ Clausura é prisão judicial: o condenado sabe que está preso. Gravame é pris�
 
 Mordaça é censura cirúrgica: cala quem precisa calar. Ressonância invertida é censura ambiental: cala tudo. [[_wiki/ophideias\|Ophideias]] preferem Mordaça para interrogatórios (o prisioneiro não grita, mas o interrogador fala); [[_wiki/justiciars\|Justiciars]] preferem Ressonância em operações táticas (ninguém ouve nada).
 
-**Nota — [[_wiki/nomos\|Nomos]]/Édito vs. [[_wiki/urano\|Urano]]/Armistício:**
+**Nota — [[_wiki/nomos\|Nomos]]/Édito vs. [[escolas/urano\|Urano]]/Armistício:**
 
-| [[_wiki/nomos\|Nomos]]/Édito | [[_wiki/urano\|Urano]]/Armistício |
+| [[_wiki/nomos\|Nomos]]/Édito | [[escolas/urano\|Urano]]/Armistício |
 |-------------|------------------|
 | Impõe regra por lei arcana — a realidade obedece por coerção | Impõe paz por elevação — a realidade obedece por transcendência |
 | Castiga quem viola (dor, bloqueio, consequência) | Remove a capacidade de violar (violência não funciona) |
@@ -896,9 +896,9 @@ Mordaça é censura cirúrgica: cala quem precisa calar. Ressonância invertida 
 | Puxa por gravidade — silencioso, inexorável | Puxa por corrente — barulhento, visível |
 | Indiscriminado — atrai aliados e inimigos | Indiscriminado — afoga tudo no raio |
 
-**Nota — [[_wiki/cosmo\|Cosmo]] vs. [[_wiki/urano\|Urano]] (distinção fundamental):**
+**Nota — [[_wiki/cosmo\|Cosmo]] vs. [[escolas/urano\|Urano]] (distinção fundamental):**
 
-| [[_wiki/cosmo\|Cosmo]] | [[_wiki/urano\|Urano]] |
+| [[_wiki/cosmo\|Cosmo]] | [[escolas/urano\|Urano]] |
 |-------|-------|
 | Manipula matéria pelo espaço | Liberta espírito da matéria |
 | Gravidade como ferramenta e arma | Transcendência como libertação |
@@ -912,22 +912,22 @@ Mordaça é censura cirúrgica: cala quem precisa calar. Ressonância invertida 
 
 ---
 
-#### 2.5.2 [[_wiki/urano\|Urano]] (UW) — Transcendência e Elevação
+#### 2.5.2 [[escolas/urano\|Urano]] (UW) — Transcendência e Elevação
 
-**Nota — [[_wiki/urano\|Urano]] vs. [[_wiki/nomos\|Nomos]]:** [[_wiki/urano\|Urano]] pode desfazer vínculos que [[_wiki/nomos\|Nomos]] impõe. Absolvição liberta de Grilhões, Vínculos de sangue e Oubliettes. A transcendência dissolve o que a restrição aprisiona. A relação não é simétrica: [[_wiki/nomos\|Nomos]] não pode aprisionar quem já transcendeu (Ascensão), mas pode prevenir a transcendência se imposta antes do voo (Édito proibindo deslocamento aéreo funciona contra Voo). A corrida entre as escolas é sempre: quem age primeiro?
+**Nota — [[escolas/urano\|Urano]] vs. [[_wiki/nomos\|Nomos]]:** [[escolas/urano\|Urano]] pode desfazer vínculos que [[_wiki/nomos\|Nomos]] impõe. Absolvição liberta de Grilhões, Vínculos de sangue e Oubliettes. A transcendência dissolve o que a restrição aprisiona. A relação não é simétrica: [[_wiki/nomos\|Nomos]] não pode aprisionar quem já transcendeu (Ascensão), mas pode prevenir a transcendência se imposta antes do voo (Édito proibindo deslocamento aéreo funciona contra Voo). A corrida entre as escolas é sempre: quem age primeiro?
 
-**Nota — Voo ([[_wiki/urano\|Urano]]) vs. Sustentação ([[_wiki/aero\|Aero]]):**
+**Nota — Voo ([[escolas/urano\|Urano]]) vs. Sustentação ([[_wiki/aero\|Aero]]):**
 
-| [[_wiki/urano\|Urano]] | [[_wiki/aero\|Aero]] |
+| [[escolas/urano\|Urano]] | [[_wiki/aero\|Aero]] |
 |-------|------|
 | Voo por transcendência espiritual | Sustentação por correntes de vento (planagem em potência máxima) |
 | Silencioso, desapego do mundano | Barulhento, afetado por clima |
 | Funciona em qualquer ambiente | Requer ar em movimento |
 | Quanto mais desapegado, mais fácil | Quanto mais vento, mais fácil |
 
-**Nota — [[_wiki/urano\|Urano]]/Serenidade vs. [[_wiki/hypno\|Hypno]]/Acalanto (pacificação por meios distintos):**
+**Nota — [[escolas/urano\|Urano]]/Serenidade vs. [[_wiki/hypno\|Hypno]]/Acalanto (pacificação por meios distintos):**
 
-| [[_wiki/urano\|Urano]]/Serenidade | [[_wiki/hypno\|Hypno]]/Acalanto |
+| [[escolas/urano\|Urano]]/Serenidade | [[_wiki/hypno\|Hypno]]/Acalanto |
 |------------------|----------------|
 | Remove agressão — o alvo permanece lúcido e ativo | Relaxa para vulnerabilidade — o alvo adormece ou se torna passivo |
 | Funciona melhor em alvos racionais | Funciona melhor em alvos exaustos ou distraídos |
@@ -936,9 +936,9 @@ Mordaça é censura cirúrgica: cala quem precisa calar. Ressonância invertida 
 
 Serenidade é diplomacia arcana: o alvo para de lutar porque a luta perdeu sentido. Acalanto é sedação: o alvo para de lutar porque não consegue manter os olhos abertos. Um liberta da raiva; outro liberta da vigília.
 
-**Nota — [[_wiki/urano\|Urano]]/Absolvição vs. [[_wiki/abjuro\|Abjuro]]/Anulação (libertação por meios distintos):**
+**Nota — [[escolas/urano\|Urano]]/Absolvição vs. [[_wiki/abjuro\|Abjuro]]/Anulação (libertação por meios distintos):**
 
-| [[_wiki/urano\|Urano]]/Absolvição | [[_wiki/abjuro\|Abjuro]]/Anulação |
+| [[escolas/urano\|Urano]]/Absolvição | [[_wiki/abjuro\|Abjuro]]/Anulação |
 |-------------------|-----------------|
 | Transcendência — o alvo se eleva acima do vínculo | Negação — o vínculo é declarado inexistente |
 | O vínculo continua existindo; o alvo simplesmente não está mais sujeito a ele | O vínculo é destruído na fonte |
@@ -947,9 +947,9 @@ Serenidade é diplomacia arcana: o alvo para de lutar porque a luta perdeu senti
 
 Absolvição liberta a alma; Anulação apaga a corrente. Um prisioneiro absolvido se levanta livre enquanto a cela permanece intacta. Um prisioneiro cuja prisão foi anulada vê a cela se desfazer ao redor.
 
-**Nota — [[_wiki/urano\|Urano]]/Armistício vs. [[_wiki/sacro\|Sacro]]/Consagração (áreas de efeito com propósito distinto):**
+**Nota — [[escolas/urano\|Urano]]/Armistício vs. [[_wiki/sacro\|Sacro]]/Consagração (áreas de efeito com propósito distinto):**
 
-| [[_wiki/urano\|Urano]]/Armistício | [[_wiki/sacro\|Sacro]]/Consagração |
+| [[escolas/urano\|Urano]]/Armistício | [[_wiki/sacro\|Sacro]]/Consagração |
 |-------------------|-------------------|
 | Suprime violência — ninguém consegue agredir | Purifica espaço — corrupção, mortos-vivos e influências profanas recuam |
 | Afeta todos igualmente (agressor e defensor) | Afeta apenas o que é impuro ou profano |
@@ -958,9 +958,9 @@ Absolvição liberta a alma; Anulação apaga a corrente. Um prisioneiro absolvi
 
 Armistício cria zona de trégua; Consagração cria zona de pureza. A sobreposição é poderosa em negociações entre facções hostis: o espaço consagrado repele influências malignas enquanto o Armistício impede que a negociação degenere em violência. Sacerdotes e diplomatas imperiais treinam ambas.
 
-**Sinergia [[_wiki/urano\|Urano]]/Quietude + [[_wiki/gnosi\|Gnosi]]/Clarividência:** Percepção sem ruído. Quietude silencia as preocupações que turvam a mente; Clarividência abre o olho interior. A combinação produz visões mais nítidas e prolongadas, sem a contaminação emocional que normalmente distorce premonições. Oráculos que dominam ambas as escolas são raros e disputados pelo [[_wiki/conselho_sombrio\|Conselho Sombrio]].
+**Sinergia [[escolas/urano\|Urano]]/Quietude + [[_wiki/gnosi\|Gnosi]]/Clarividência:** Percepção sem ruído. Quietude silencia as preocupações que turvam a mente; Clarividência abre o olho interior. A combinação produz visões mais nítidas e prolongadas, sem a contaminação emocional que normalmente distorce premonições. Oráculos que dominam ambas as escolas são raros e disputados pelo [[_wiki/conselho_sombrio\|Conselho Sombrio]].
 
-**Sinergia [[_wiki/urano\|Urano]]/Liberdade + [[_wiki/rupto\|Rupto]]/Romper:** Evasão absoluta. Liberdade declara que o alvo não está preso; Romper destrói o que o prendia. Uma afrouxa vínculos arcanos, a outra arrebenta vínculos físicos. Juntas, não há corrente, selo ou cela que resista. A combinação é protocolo padrão de resgate em operações de infiltração que falham — se o agente é capturado, a equipe de extração precisa de ambas.
+**Sinergia [[escolas/urano\|Urano]]/Liberdade + [[escolas/rupto\|Rupto]]/Romper:** Evasão absoluta. Liberdade declara que o alvo não está preso; Romper destrói o que o prendia. Uma afrouxa vínculos arcanos, a outra arrebenta vínculos físicos. Juntas, não há corrente, selo ou cela que resista. A combinação é protocolo padrão de resgate em operações de infiltração que falham — se o agente é capturado, a equipe de extração precisa de ambas.
 
 ---
 
@@ -1219,7 +1219,7 @@ A oposição é rítmica: [[_wiki/electro\|Electro]] existe no instante (descarg
 
 #### 2.6.4 [[_wiki/abjuro\|Abjuro]] (GW) — Negação e Dissipação
 
-**Nota — [[_wiki/abjuro\|Abjuro]] vs. [[_wiki/urano\|Urano]]:** Ambas podem libertar de vínculos. [[_wiki/urano\|Urano]] dissolve por *transcendência* — elevar-se acima do grilhão. [[_wiki/abjuro\|Abjuro]] dissolve por *negação* — declarar que o vínculo não existe. Uma liberta a alma; outra apaga a corrente.
+**Nota — [[_wiki/abjuro\|Abjuro]] vs. [[escolas/urano\|Urano]]:** Ambas podem libertar de vínculos. [[escolas/urano\|Urano]] dissolve por *transcendência* — elevar-se acima do grilhão. [[_wiki/abjuro\|Abjuro]] dissolve por *negação* — declarar que o vínculo não existe. Uma liberta a alma; outra apaga a corrente.
 
 **Nota — [[_wiki/abjuro\|Abjuro]] vs. [[_wiki/toxo\|Toxo]] (par antagônico):**
 
@@ -1233,9 +1233,9 @@ A oposição é rítmica: [[_wiki/electro\|Electro]] existe no instante (descarg
 
 A assimetria fundamental: [[_wiki/abjuro\|Abjuro]] protege *contra* substância (remove efeitos, bloqueia escolas, nega fluxo), enquanto [[_wiki/toxo\|Toxo]] *é* substância (veneno, ácido, secreção). Um abjurador não pode anular veneno mundano; apenas veneno conjurado. Um toxinomante não pode envenenar a negação; apenas o corpo de quem a conjura. No campo de batalha, o duelo é de ritmo: [[_wiki/toxo\|Toxo]] infiltra devagar (envenenar água, contaminar ar, corroer equipamento); [[_wiki/abjuro\|Abjuro]] reage depressa (Diagnose detecta, Purga remove, Anulação encerra). O toxinomante precisa de tempo; o abjurador precisa de atenção.
 
-**Nota — Anulação ([[_wiki/abjuro\|Abjuro]]) vs. Abrogação ([[_wiki/rupto\|Rupto]]):**
+**Nota — Anulação ([[_wiki/abjuro\|Abjuro]]) vs. Abrogação ([[escolas/rupto\|Rupto]]):**
 
-| Anulação ([[_wiki/abjuro\|Abjuro]]) | Abrogação ([[_wiki/rupto\|Rupto]]) |
+| Anulação ([[_wiki/abjuro\|Abjuro]]) | Abrogação ([[escolas/rupto\|Rupto]]) |
 |--------------------|-------------------|
 | Corta o fluxo arcano — encantamento se dissipa | Quebra pela força — vínculo se estilhaça |
 | Cirúrgica: não deixa resíduo | Destrutiva: pode danificar o alvo junto |

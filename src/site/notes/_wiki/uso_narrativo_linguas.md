@@ -13,7 +13,7 @@ O [[_wiki/reinkardico\|Reinkárdico]] é o "português invisível" do texto: qua
 
 Toda invocação segue o protocolo narrativo estabelecido:
 
-A **língua ritual apropriada** é obrigatória. [[_wiki/milorsevogh_velshard\|Milor]] canaliza em [[_wiki/tenebraico\|Tenebraico]] ([[_wiki/teru\|Teru]] permite acesso técnico). [[_wiki/syndrith_morghast\|Syndrith]] canaliza em [[_wiki/gholvyss\|Gholvyss]] ([[_wiki/ophideias\|ophideia]] com formação matriarcal). [[_wiki/gaelwyn\|Gaelwyn]] canaliza no registro [[_wiki/titanico\|titânico]] do [[_wiki/sylvaen\|Sylvaen]] (druida canalizador). [[_wiki/grothar\|Grothar]] canaliza em [[_wiki/orcanico\|Orcânico]] (fúria berserker). [[_wiki/abramis\|Abramis]] murmura orações em [[_wiki/aelarian\|Aelarian]] mágico ([[_wiki/devotio_sancta\|Devotio Sancta]]). Não há exceção: a língua errada simplesmente não funciona.
+A **língua ritual apropriada** é obrigatória. [[_wiki/milorsevogh_velshard\|Milor]] canaliza em [[_wiki/tenebraico\|Tenebraico]] ([[_wiki/teru\|Teru]] permite acesso técnico). [[_wiki/syndrith_morghast\|Syndrith]] canaliza em [[_wiki/gholvyss\|Gholvyss]] ([[_wiki/ophideias\|ophideia]] com formação matriarcal). [[personagens/gaelwyn\|Gaelwyn]] canaliza no registro [[_wiki/titanico\|titânico]] do [[_wiki/sylvaen\|Sylvaen]] (druida canalizador). [[_wiki/grothar\|Grothar]] canaliza em [[_wiki/orcanico\|Orcânico]] (fúria berserker). [[_wiki/abramis\|Abramis]] murmura orações em [[_wiki/aelarian\|Aelarian]] mágico ([[_wiki/devotio_sancta\|Devotio Sancta]]). Não há exceção: a língua errada simplesmente não funciona.
 
 A **nota de rodapé padrão** segue o formato: *"[Tradução]."* [Deus]. [Escola — efeito]. [Comentário erudito/irônico].
 
@@ -37,7 +37,7 @@ Sotaques são ferramenta de caracterização. O [[_wiki/reinkardico\|Reinkárdic
 
 **[[_wiki/sylvano\|Sylvanos]]** em [[_wiki/reinkardico\|Reinkárdico]]: melodia excessiva, tendência a frases longas com subordinadas encadeadas (influência do [[_wiki/sylvaen\|Sylvaen]]). Formalidade involuntária: [[_wiki/sylvano\|sylvanos]] não conseguem ser coloquiais em [[_wiki/reinkardico\|Reinkárdico]] porque sua língua materna não possui registro informal.
 
-**[[_wiki/elarino\|Elarinos]]** em [[_wiki/reinkardico\|Reinkárdico]]: pronúncia precisa demais, quase mecânica. Acento em sílabas inesperadas. Vocabulário extenso mas usado em contextos levemente errados (cognatos falsos entre [[_wiki/aelarian\|Aelarian]] e [[_wiki/reinkardico\|Reinkárdico]]).
+**[[racas/elarino\|Elarinos]]** em [[_wiki/reinkardico\|Reinkárdico]]: pronúncia precisa demais, quase mecânica. Acento em sílabas inesperadas. Vocabulário extenso mas usado em contextos levemente errados (cognatos falsos entre [[_wiki/aelarian\|Aelarian]] e [[_wiki/reinkardico\|Reinkárdico]]).
 
 **[[_wiki/sauriano\|Saurianos]]** em [[_wiki/reinkardico\|Reinkárdico]]: sibilantes arrastadas, dificuldade com oclusivas labiais (*p*, *b*, *m*), tendência a omitir vogais curtas. Frases soam "comprimidas", como se a língua tivesse menos espaço na boca do que deveria.
 

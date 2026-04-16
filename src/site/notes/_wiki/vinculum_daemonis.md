@@ -5,6 +5,8 @@
 
 **Natureza:** [[_wiki/demonios\|Demônios]] são caos puro, violência e destruição sem lei. Não respeitam contratos - apenas força.
 
+**Canalização — Infusão:** A transferência de [[_wiki/magi\|magi]] no Vinculum Daemonis é visceral e invasiva. O demônio despeja poder bruto sem mediação contratual, amplificando os sentimentos-chave das escolas com intensidade caprichosa. A Infusão pode flutuar por vontade do demônio — amplificar por diversão, sabotar por tédio. O vínculo é inerentemente instável: o praticante recebe mais poder mas com menos controle sobre a dosagem emocional.
+
 **Processo de Vínculo:**
 
 1. **Invocação Sangrenta:**

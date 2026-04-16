@@ -8,8 +8,8 @@
 | Categoria | Termo Oficial | Realidade | Aplicação Típica |
 |-----------|---------------|-----------|------------------|
 | **Isolamento Funcional** | "Recolhimento" | Confinamento permanente com utilidade residual | [[_wiki/gnosi\|Gnosi]] IV, [[_wiki/spectro\|Spectro]] IV, [[_wiki/chrono\|Chrono]] IV |
-| **Redirecionamento Letal** | "Missão de Honra" | Tarefa suicida disfarçada de privilégio | [[_wiki/belli\|Belli]] IV, [[_wiki/pyro\|Pyro]] IV, [[_wiki/rupto\|Rupto]] IV |
-| **Neutralização Ritual** | "Consagração Final" | Execução cerimonial com extração de [[_wiki/magi\|magi]] | [[_wiki/salvo\|Salvo]] III, [[_wiki/helio\|Helio]] III, [[_wiki/urano\|Urano]] III |
+| **Redirecionamento Letal** | "Missão de Honra" | Tarefa suicida disfarçada de privilégio | [[_wiki/belli\|Belli]] IV, [[_wiki/pyro\|Pyro]] IV, [[escolas/rupto\|Rupto]] IV |
+| **Neutralização Ritual** | "Consagração Final" | Execução cerimonial com extração de [[_wiki/magi\|magi]] | [[_wiki/salvo\|Salvo]] III, [[_wiki/helio\|Helio]] III, [[escolas/urano\|Urano]] III |
 | **Desaparecimento Administrativo** | "Transferência" | Eliminação silenciosa, sem registro | [[_wiki/anatho\|Anatho]] IV, [[_wiki/psycho\|Psycho]] IV, [[_wiki/morpho\|Morpho]] IV |
 | **Contenção Perpétua** | "Vigília Eterna" | Suspensão mágica entre vida e morte | [[_wiki/necro\|Necro]] IV, [[_wiki/vita\|Vita]] IV |
 

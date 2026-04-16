@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[_wiki/gerut\|Gerut]] (raça). Velho prisioneiro em [[_wiki/ghol_drokh\|Ghol'Drokh]]. Pele como papel quebradiço. Selo de [[_wiki/myrgarde\|Myrgarde]] queimado no peito. Memória cavada por necros ("cavam com feitiço e enchem com sal"). Afiliação: nenhuma ativa. Localização: [[_wiki/ghol_drokh\|Ghol'Drokh]]. Status: vivo (prisioneiro).
+[[racas/gerut\|Gerut]] (raça). Velho prisioneiro em [[locais/ghol_drokh\|Ghol'Drokh]]. Pele como papel quebradiço. Selo de [[locais/myrgarde\|Myrgarde]] queimado no peito. Memória cavada por necros ("cavam com feitiço e enchem com sal"). Afiliação: nenhuma ativa. Localização: [[locais/ghol_drokh\|Ghol'Drokh]]. Status: vivo (prisioneiro).
 
 ### Papel Narrativo
 

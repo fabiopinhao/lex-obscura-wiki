@@ -17,9 +17,9 @@ O tratado de [[_wiki/wijmarv\|Wijmarv]] (xamã [[_wiki/varnakiano\|varnakiano]])
 
 ### Fisiologia
 
-Altura de 1,90m a 2,40m eretos. Porte pesado, musculatura densa sob escamas que variam conforme linhagem: vermelho-escuro (clãs de fogo), marrom-terroso (clãs de terra), verde-musgo (clãs de pântano) e negro-vulcânico nos draconídeos mais antigos. As escamas são placas queratinosas sobrepostas, espessas o suficiente para deflectir flechas e lâminas de baixa qualidade. Não são impermeáveis: armas forjadas por [[_wiki/karashim\|karashins]] ou encantadas perfuram.
+Altura de 1,90m a 2,40m eretos. Porte pesado, musculatura densa sob escamas que variam conforme linhagem: vermelho-escuro (clãs de fogo), marrom-terroso (clãs de terra), verde-musgo (clãs de pântano) e negro-vulcânico nos draconídeos mais antigos. As escamas são placas queratinosas sobrepostas, espessas o suficiente para deflectir flechas e lâminas de baixa qualidade. Não são impermeáveis: armas forjadas por [[racas/karashim\|karashins]] ou encantadas perfuram.
 
-**Sopro elemental.** Fogo na maioria dos clãs. Glândulas na base da garganta produzem composto volátil que inflama ao contato com o ar expelido. O sopro é recurso limitado: três a cinco descargas por dia, cada uma exigindo recuperação. Uso excessivo queima a garganta por dentro. **Focinheiras metálicas** neutralizam o sopro e são usadas como instrumento de contenção; [[_wiki/thrax\|Thrax]] usa uma em [[_wiki/mor_severith\|Mor'Severith]].
+**Sopro elemental.** Fogo na maioria dos clãs. Glândulas na base da garganta produzem composto volátil que inflama ao contato com o ar expelido. O sopro é recurso limitado: três a cinco descargas por dia, cada uma exigindo recuperação. Uso excessivo queima a garganta por dentro. **Focinheiras metálicas** neutralizam o sopro e são usadas como instrumento de contenção; [[_wiki/thrax\|Thrax]] usa uma em [[locais/mor_severith\|Mor'Severith]].
 
 Caudas preênseis, grossas e musculosas. Funcionam como arma, apoio de equilíbrio e instrumento de comunicação entre draconídeos (a posição da cauda sinaliza intenção). Mãos com garras funcionais e polegar opositor. [[_wiki/thrax\|Thrax]] empunha maça espinhosa que [[_wiki/shadar\|shadars]] precisariam segurar com duas mãos.
 
@@ -29,9 +29,9 @@ Longevidade de 50 a 65 anos. A violência endêmica entre clãs reduz a média. 
 
 **Orgulho de linhagem.** Draconídeos consideram-se herdeiros legítimos dos dragões e guardiões de seu legado. A crença não é fé cega: é estrutura identitária que sustenta a coesão dos clãs. Questionar a linhagem é questionar a razão de existir do clã. O [[_wiki/tratado_de_wijmarv\|tratado de Wijmarv]], ao revelar a vulnerabilidade compartilhada com dragões via [[_wiki/fendris\|Fendris]], não desmentiu a linhagem, mas expôs que a herança inclui a fraqueza junto com a força.
 
-**Pragmatismo predatório.** A palavra dracônica tem peso variável: "Palavra nenhuma vale mais que sobrevivência. Quem morre por promessa é tolo. Quem vive, governa." Honra existe entre draconídeos, mas subordinada à continuidade do clã. Trair um aliado é aceitável se a alternativa é extinção. [[_wiki/yzmareth\|Yzmareth]] mantém acordo secreto com [[_wiki/arothistar\|Arothistar]] enquanto planeja a unificação de [[_wiki/varnak\|Varnak]] contra tudo que o acordo implica.
+**Pragmatismo predatório.** A palavra dracônica tem peso variável: "Palavra nenhuma vale mais que sobrevivência. Quem morre por promessa é tolo. Quem vive, governa." Honra existe entre draconídeos, mas subordinada à continuidade do clã. Trair um aliado é aceitável se a alternativa é extinção. [[_wiki/yzmareth\|Yzmareth]] mantém acordo secreto com [[personagens/arothistar\|Arothistar]] enquanto planeja a unificação de [[_wiki/varnak\|Varnak]] contra tudo que o acordo implica.
 
-**Desprezo de escala.** Draconídeos medem o mundo por tamanho. Raças menores são tratadas com condescendência automática. [[_wiki/shadar\|Shadars]] recebem respeito relutante (pelo poder, não pelo porte). [[_wiki/kobold\|Kobolds]] provocam reação visceral: para draconídeos de [[_wiki/varnak\|Varnak]], [[_wiki/kobold\|kobolds]] são paródia ofensiva da linhagem dracônica, fabricada por [[_wiki/shadar\|shadars]] a partir de ovos roubados. [[_wiki/thrax\|Thrax]] decepou a cauda de [[_wiki/fing\|Fing]] em [[_wiki/mor_severith\|Mor'Severith]] como reflexo de nojo, não de crueldade calculada.
+**Desprezo de escala.** Draconídeos medem o mundo por tamanho. Raças menores são tratadas com condescendência automática. [[_wiki/shadar\|Shadars]] recebem respeito relutante (pelo poder, não pelo porte). [[racas/kobold\|Kobolds]] provocam reação visceral: para draconídeos de [[_wiki/varnak\|Varnak]], [[racas/kobold\|kobolds]] são paródia ofensiva da linhagem dracônica, fabricada por [[_wiki/shadar\|shadars]] a partir de ovos roubados. [[_wiki/thrax\|Thrax]] decepou a cauda de [[_wiki/fing\|Fing]] em [[locais/mor_severith\|Mor'Severith]] como reflexo de nojo, não de crueldade calculada.
 
 ### Estrutura Social
 
@@ -39,7 +39,7 @@ Clãs drakhonins organizados por linhagem dracônica. Cada clã reivindica um dr
 
 O Clã [[_wiki/cla_myr_vethan\|Myr'vethan]], liderado por [[_wiki/yzmareth\|Yzmareth]], absorveu tribos derrotadas ao longo de gerações e busca unificar os drakhonins sob uma bandeira. O obstáculo é [[_wiki/varna\|Varna]], dragão anciã que encerrou conflitos internos em [[_wiki/varnak\|Varnak]] com força bruta e mantém os clãs fragmentados. Quem detém a [[_wiki/fendris\|Fendris]] pode derrotá-la. [[_wiki/yzmareth\|Yzmareth]] perdeu a [[_wiki/fendris\|Fendris]] para [[_wiki/nidzina_avaroth\|Nidzina]], o que transforma uma aliança de conveniência com o [[_wiki/imperio_sombrio\|Império]] em dependência humilhante.
 
-Hierarquia interna: draconídeos no topo, [[_wiki/sauriano\|saurianos]] comuns como guerreiros e artesãos. [[_wiki/kobold\|Kobolds]] não integram esta hierarquia: são raça exclusiva de [[_wiki/reinkard\|Reinkard]], vinculados aos [[_wiki/shadar\|shadars]], sem presença nos clãs de [[_wiki/varnak\|Varnak]].
+Hierarquia interna: draconídeos no topo, [[_wiki/sauriano\|saurianos]] comuns como guerreiros e artesãos. [[racas/kobold\|Kobolds]] não integram esta hierarquia: são raça exclusiva de [[_wiki/reinkard\|Reinkard]], vinculados aos [[_wiki/shadar\|shadars]], sem presença nos clãs de [[_wiki/varnak\|Varnak]].
 
 ### Cultura
 
@@ -47,17 +47,17 @@ Hierarquia interna: draconídeos no topo, [[_wiki/sauriano\|saurianos]] comuns c
 
 **Nomes de combate.** Draconídeos recebem nome de ninhada ao nascer e nome de combate após a primeira vitória. [[_wiki/thrax\|Thrax]] é "Guerreiro das Chamas Profundas". [[_wiki/yzmareth\|Yzmareth]] opera com nome de nascimento, o que pode sugerir que suas vitórias são políticas, não físicas.
 
-**Troféus.** Draconídeos colecionam partes de inimigos derrotados. Dentes, garras, escamas de rivais. A prática é registro de feitos, não sadismo. [[_wiki/thrax\|Thrax]] decepou a cauda de [[_wiki/fing\|Fing]] como troféu instintivo; em [[_wiki/varnak\|Varnak]], seria gesto ordinário. Em [[_wiki/mor_severith\|Mor'Severith]], custou-lhe punição.
+**Troféus.** Draconídeos colecionam partes de inimigos derrotados. Dentes, garras, escamas de rivais. A prática é registro de feitos, não sadismo. [[_wiki/thrax\|Thrax]] decepou a cauda de [[_wiki/fing\|Fing]] como troféu instintivo; em [[_wiki/varnak\|Varnak]], seria gesto ordinário. Em [[locais/mor_severith\|Mor'Severith]], custou-lhe punição.
 
 **Tradição e sábios.** Os clãs mantêm cronistas que registram linhagens, batalhas e dívidas de sangue. A tradição é oral e escrita. Xamãs [[_wiki/varnakiano\|varnakianos]], como [[_wiki/wijmarv\|Wijmarv]], servem em clãs drakhonins como estudiosos e produzem tratados que abalaram cosmologias inteiras.
 
 ### Relação com o [[_wiki/imperio_sombrio\|Império]]
 
-Aliança pragmática com [[_wiki/arothistar\|Arothistar]], firmada quando este ainda era [[_wiki/arothistar\|Dravmir]]. O pacto com [[_wiki/kaelgrym\|Kaelgrym]] (patrono demoníaco dos drakhonins) deu a [[_wiki/arothistar\|Arothistar]] influência direta sobre [[_wiki/varnakiano\|varnakianos]] e draconídeos. [[_wiki/yzmareth\|Yzmareth]] mantém acordo secreto: carregamentos de armas para as montanhas em troca de apoio para unificar [[_wiki/varnak\|Varnak]]. A aliança só será oficial se os drakhonins vencerem.
+Aliança pragmática com [[personagens/arothistar\|Arothistar]], firmada quando este ainda era [[personagens/arothistar\|Dravmir]]. O pacto com [[_wiki/kaelgrym\|Kaelgrym]] (patrono demoníaco dos drakhonins) deu a [[personagens/arothistar\|Arothistar]] influência direta sobre [[_wiki/varnakiano\|varnakianos]] e draconídeos. [[_wiki/yzmareth\|Yzmareth]] mantém acordo secreto: carregamentos de armas para as montanhas em troca de apoio para unificar [[_wiki/varnak\|Varnak]]. A aliança só será oficial se os drakhonins vencerem.
 
 Draconídeos toleram [[_wiki/shadar\|shadars]] como parceiros comerciais e militares. Consideram-nos inferiores em linhagem, superiores em organização. A relação é de respeito calculado: cada lado precisa do outro e planeja a traição quando deixar de precisar.
 
-[[_wiki/yzmareth\|Yzmareth]] é o único draconídeo autorizado a sobrevoar a [[_wiki/dorsal\|Dorsal]], por acordo com entidades não divulgadas. [[_wiki/thrax\|Thrax]] foi capturado como refém pelo desaparecimento de [[_wiki/draven-thol\|Draven-Thol]] e acorrentado em [[_wiki/mor_severith\|Mor'Severith]], pernas carbonizadas por fogo de [[_wiki/arothistar\|Arothistar]]. O tratamento do refém revela a temperatura real da aliança.
+[[_wiki/yzmareth\|Yzmareth]] é o único draconídeo autorizado a sobrevoar a [[_wiki/dorsal\|Dorsal]], por acordo com entidades não divulgadas. [[_wiki/thrax\|Thrax]] foi capturado como refém pelo desaparecimento de [[_wiki/draven-thol\|Draven-Thol]] e acorrentado em [[locais/mor_severith\|Mor'Severith]], pernas carbonizadas por fogo de [[personagens/arothistar\|Arothistar]]. O tratamento do refém revela a temperatura real da aliança.
 
 ### Relação com Magia
 
@@ -78,7 +78,7 @@ Draconídeos falam com peso e calor. Frases declarativas, afirmativas, raramente
 **Exemplo:**
 — A adaga. *(estende a mão, garra aberta)* Não a outra. Aquela. *(pausa)* Eu poderia explicar para que serve. Poderia falar da lâmina, do metal, do que ela corta. Mas explicar exigiria que eu confiasse em você, e confiar exigiria que você merecesse. Então: a adaga. Agora.
 
-**Contraste:** [[_wiki/worg\|Worgs]] negociam com ironia, [[_wiki/derro\|derros]] vendem cada frase, [[_wiki/karashim\|karashins]] avaliam com peso. Draconídeos **declaram**. Cada frase é sentença, nos dois sentidos.
+**Contraste:** [[_wiki/worg\|Worgs]] negociam com ironia, [[_wiki/derro\|derros]] vendem cada frase, [[racas/karashim\|karashins]] avaliam com peso. Draconídeos **declaram**. Cada frase é sentença, nos dois sentidos.
 
 ### Conflitos Internos
 

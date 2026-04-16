@@ -5,6 +5,8 @@
 
 **Natureza:** Entidades azuis são seres de pura consciência/intelecto que habitam o [[_wiki/plano_etereo\|Plano Etéreo]]. Não possuem forma física pois são padrões de pensamento, geometrias vivas, conceitos conscientes.
 
+**Canalização — Provimento:** A transferência de [[_wiki/magi\|magi]] na Meditatio Aetheris é neutra e impessoal. [[_wiki/siderais\|Siderais]] não possuem plano existencial próprio; operam via [[_wiki/plano_etereo\|Plano Etéreo]]. O Provimento amplifica os sentimentos-chave das escolas concedidas de forma proporcional à sintonização mental do praticante, não à vontade da entidade. A resposta depende da clareza da meditação, não da generosidade do sideral.
+
 **Tipos de Entidades Azuis:**
 - **Monocolor (UU):** Arquitetos Etéreos ([[_wiki/gnosi\|Gnosi]]), Geleiras Conscientes ([[_wiki/cryo\|Cryo]])
 - **Bicolor:** Observadores Cósmicos (UB), Espectros Mentais (BU), Guardiões Celestiais (UW), Profetas do Fluxo (UR), Psique Coletiva (RU), Correntes Pensantes (UG), Sonhos da Floresta (GU)

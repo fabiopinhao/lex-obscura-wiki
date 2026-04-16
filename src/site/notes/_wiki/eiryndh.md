@@ -11,7 +11,7 @@ Não carrega arma. O escudo é a única peça: redondo, do diâmetro de um torso
 
 ### Domínio
 
-[[_wiki/aegis\|Aegis]] e [[_wiki/urano\|Urano]]. O escudo de Eiryndh não bloqueia o golpe. Remove quem está atrás dele. Quando a proteção se ativa, o corpo do protegido experimenta uma vertigem ascendente: o chão parece ceder, o ar afina, a ameaça que vinha em sua direção passa pelo espaço que ele ocupava um instante antes. O protegido não se moveu. O plano onde o golpe existe é que deixou de coincidir com o plano onde o protegido está. [[_wiki/aegis\|Aegis]] ergue a barreira; [[_wiki/urano\|Urano]] desloca o protegido acima dela.
+[[_wiki/aegis\|Aegis]] e [[escolas/urano\|Urano]]. O escudo de Eiryndh não bloqueia o golpe. Remove quem está atrás dele. Quando a proteção se ativa, o corpo do protegido experimenta uma vertigem ascendente: o chão parece ceder, o ar afina, a ameaça que vinha em sua direção passa pelo espaço que ele ocupava um instante antes. O protegido não se moveu. O plano onde o golpe existe é que deixou de coincidir com o plano onde o protegido está. [[_wiki/aegis\|Aegis]] ergue a barreira; [[escolas/urano\|Urano]] desloca o protegido acima dela.
 
 A proteção é condicional. Eiryndh responde à coragem. Quem enfrenta a ameaça de frente sente o escudo se interpor. Quem recua ou foge descobre que o ar ao redor recupera densidade normal e o golpe o encontra sem mediação. A Valquíria não avalia mérito nem exige prece. Pergunta uma coisa: o protegido está disposto a sustentar o olhar diante do que vem? Se a resposta é não, o escudo não está lá.
 

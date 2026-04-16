@@ -25,7 +25,7 @@ Orcs não morrem facilmente. Precisam ser abatidos duas, três vezes. O metaboli
 
 Expectativa de vida de aproximadamente quarenta anos, reduzida na prática por mortes violentas. Aos cinco anos, um orc tem o porte físico de um humano adulto e é considerado pronto para guerra. Aos trinta, é ancião reverenciado. Acima de quarenta, praticamente inexistente.
 
-Os [[_wiki/shadar\|shadars]] exploram esse ciclo acelerado como vantagem militar: produção rápida de soldados, reposição constante, descarte eficiente de veteranos. As presas amarelam, a pele verde desbota, e o [[_wiki/imperio_sombrio\|Império]] "aposenta" seus orcs velhos com elogios e uma lâmina discreta. [[_wiki/ulgorth\|Ulgorth]], capataz nas masmorras de [[_wiki/ghol_drokh\|Ghol'Drokh]], é caso típico: décadas de serviço, corpo gasto, e a certeza surda de que a aposentadoria não envolve descanso.
+Os [[_wiki/shadar\|shadars]] exploram esse ciclo acelerado como vantagem militar: produção rápida de soldados, reposição constante, descarte eficiente de veteranos. As presas amarelam, a pele verde desbota, e o [[_wiki/imperio_sombrio\|Império]] "aposenta" seus orcs velhos com elogios e uma lâmina discreta. [[_wiki/ulgorth\|Ulgorth]], capataz nas masmorras de [[locais/ghol_drokh\|Ghol'Drokh]], é caso típico: décadas de serviço, corpo gasto, e a certeza surda de que a aposentadoria não envolve descanso.
 
 ### Reprodução e Dimorfismo
 
@@ -37,7 +37,7 @@ Nas [[_wiki/dorsal\|cordilheiras do norte]], tribos selvagens mantêm a estrutur
 
 O [[_wiki/imperio_sombrio\|Império]] alterou essa estrutura de duas formas. Orcs capturados ou recrutados das terras selvagens passam por um processo de "domesticação" conduzido pelos [[_wiki/shadar\|shadars]]: quebra da hierarquia tribal, substituição de lealdades de sangue por obediência institucional, recompensa por disciplina em vez de apenas por ferocidade. Os nascidos sob domínio imperial crescem dentro da hierarquia desde jovens, sem jamais conhecer a organização tribal. Em ambos os casos, a subordinação é política e militar, nunca religiosa: orcs permanecem alinhados aos [[_wiki/demonios\|deuses vermelhos]], não aos negros.
 
-A formalização militar ocorreu nas [[_wiki/guerras_reinkardicas_inicio\|Guerras Reinkárdicas]], quando o ciclo tributos → goblinoides → exércitos → conquistas transformou orcs em ponta de lança das campanhas sombrias. [[_wiki/shadar\|Shadars]] e [[_wiki/drul\|druls]] recuaram para posições de comando enquanto orcs sangravam na vanguarda. As legiões imperiais mantêm capitães orcs subordinados a oficiais [[_wiki/shadar\|shadars]], com [[_wiki/goblin\|goblins]] gerenciando a logística das fortalezas, porque alimentar um orc custa mais que três homens e mais que cinco elfos, e rende metade da disciplina.
+A formalização militar ocorreu nas [[_wiki/guerras_reinkardicas_inicio\|Guerras Reinkárdicas]], quando o ciclo tributos → goblinoides → exércitos → conquistas transformou orcs em ponta de lança das campanhas sombrias. [[_wiki/shadar\|Shadars]] e [[_wiki/drul\|druls]] recuaram para posições de comando enquanto orcs sangravam na vanguarda. As legiões imperiais mantêm capitães orcs subordinados a oficiais [[_wiki/shadar\|shadars]], com [[racas/goblin\|goblins]] gerenciando a logística das fortalezas, porque alimentar um orc custa mais que três homens e mais que cinco elfos, e rende metade da disciplina.
 
 Na [[_wiki/terceira_era\|Terceira Era]], migrações de orcs selvagens pressionam o planalto fora do protocolo de seleção imperial, em números altos o bastante para preocupar o [[_wiki/conselho_sombrio\|Conselho Sombrio]].
 
@@ -53,9 +53,9 @@ Os nomes orcs são guturais e curtos. [[_wiki/grothar\|Grothar]], [[_wiki/mur\|M
 
 ### Relação com o [[_wiki/imperio_sombrio\|Império]]
 
-Desconfiam de arcanistas, desprezam estratégias sutis, mas obedecem aos representantes de [[_wiki/arothistar\|Arothistar]] sem questionar quando há promessa de combate, pilhagem ou ascensão. A obediência é transacional: o [[_wiki/imperio_sombrio\|Império]] oferece direção, equipamento e inimigos; os orcs oferecem sangue e brutalidade em troca. A lealdade não é ideológica. É funcional.
+Desconfiam de arcanistas, desprezam estratégias sutis, mas obedecem aos representantes de [[personagens/arothistar\|Arothistar]] sem questionar quando há promessa de combate, pilhagem ou ascensão. A obediência é transacional: o [[_wiki/imperio_sombrio\|Império]] oferece direção, equipamento e inimigos; os orcs oferecem sangue e brutalidade em troca. A lealdade não é ideológica. É funcional.
 
-Na única vez em que tropas orcs entraram em [[_wiki/xarn_aroth\|Xarn'Aroth]], foi marchando ao lado de [[_wiki/arothistar\|Arothistar]] durante a Purga do [[_wiki/conselho_sombrio\|Conselho]]. Antes e depois desse evento, orcs são mantidos fora dos centros de poder sombrio.
+Na única vez em que tropas orcs entraram em [[_wiki/xarn_aroth\|Xarn'Aroth]], foi marchando ao lado de [[personagens/arothistar\|Arothistar]] durante a Purga do [[_wiki/conselho_sombrio\|Conselho]]. Antes e depois desse evento, orcs são mantidos fora dos centros de poder sombrio.
 
 As guarnições provinciais refletem a posição real dos orcs no sistema: soldados abundantes e descartáveis. A guarnição de [[_wiki/niedellin\|Niedellin]] sob [[_wiki/maraxus\|Maraxus]] exemplifica o padrão: orcs gordos, desarmados, indisciplinados, mantidos longe do combate até que a conveniência de um lorde corrupto os empregue como ferramenta de controle. Generais como [[_wiki/vekraal\|Vekraal]] mantêm legiões orcs mais disciplinadas, com capitães como [[_wiki/gorvash_tres-cicatrizes\|Gorvash Três-Cicatrizes]] e [[_wiki/hugur_comedor-de-ferro\|Hugur Comedor-de-Ferro]], mas mesmo nessas formações de elite, a relação permanece a mesma: orcs sangram, [[_wiki/shadar\|shadars]] comandam.
 
@@ -65,11 +65,11 @@ Orcs acessam poder arcano pelo [[_wiki/vinculum_daemonis\|Vinculum Daemonis]]: v
 
 Não existe distinção formal entre orcs com e sem vínculo demoníaco. A maioria carrega algum grau de exposição ancestral. Os que dominam o poder suficientemente para empregá-lo de forma consistente se dividem em duas categorias funcionais:
 
-**Xamãs** dominam escolas vermelhas de aplicação tática e ritualística: [[_wiki/pyro\|Pyro]] (fogo), [[_wiki/rupto\|Rupto]] (destruição), [[_wiki/plasma\|Plasma]] (energia). Xamãs são raros por questão de sobrevivência, já que o acesso ao Vinculum é irrestrito: poucos orcs vivem o bastante para acumular domínio sobre múltiplas escolas, e o custo do Vinculum cobra mais rápido que a experiência se acumula.
+**Xamãs** dominam escolas vermelhas de aplicação tática e ritualística: [[_wiki/pyro\|Pyro]] (fogo), [[escolas/rupto\|Rupto]] (destruição), [[_wiki/plasma\|Plasma]] (energia). Xamãs são raros por questão de sobrevivência, já que o acesso ao Vinculum é irrestrito: poucos orcs vivem o bastante para acumular domínio sobre múltiplas escolas, e o custo do Vinculum cobra mais rápido que a experiência se acumula.
 
 **Berserkers** canalizam escolas de combate direto e transformação: [[_wiki/belli\|Belli]] (guerra), [[_wiki/morpho\|Morpho]] (metamorfose) e [[_wiki/phobos\|Phobos]] (medo). O transe berserker é a expressão máxima dessa canalização: a fúria ancestral invocada pela Velha Fala dissolve a consciência e liberta a violência pura. O corpo cresce, a dor desaparece, mas o preço é a sanidade. [[_wiki/grothar\|Grothar]] canaliza em [[_wiki/orcanico\|Orcânico]] com a invocação *Ghâsh krampürz*, e a gramática se desintegra conforme a fúria escala, como se a língua acompanhasse o falante de volta ao instinto.
 
-[[_wiki/thurgash\|Thûrgash]], o Senhor de Guerra Sangrento, é o [[_wiki/demonios\|demônio]] mais vinculado a orcs e goblinoides em geral. Tricolor (uRw, vermelho dominante), governa a guerra eterna e a fúria como sacramento.
+[[panteao/thurgash\|Thûrgash]], o Senhor de Guerra Sangrento, é o [[_wiki/demonios\|demônio]] mais vinculado a orcs e goblinoides em geral. Tricolor (uRw, vermelho dominante), governa a guerra eterna e a fúria como sacramento.
 
 ### Voz Narrativa
 
@@ -80,7 +80,7 @@ O [[_wiki/orcanico\|Orcânico]] emerge na fala sempre que a disciplina imperial 
 Exemplos de diálogo:
 
 — Elfo curou minha ferida. Não pedi. Fico devendo.
-*([[_wiki/grub\|Grub]], após ser curado por [[_wiki/gaelwyn\|Gaelwyn]]. A economia da dívida é absoluta: o que se recebe sem pedir se deve sem questionar.)*
+*([[_wiki/grub\|Grub]], após ser curado por [[personagens/gaelwyn\|Gaelwyn]]. A economia da dívida é absoluta: o que se recebe sem pedir se deve sem questionar.)*
 
 — Meu irmão recitava os Cantos antes de dormir. Voz ruim. Desafinava nas partes fáceis. Recitava mesmo assim. Toda noite.
 *([[_wiki/grothar\|Grothar]], sobre [[_wiki/ghur\|Ghur]]. A erudição inesperada do veterano contrasta com o registro emocional contido: a perda expressa pela repetição do detalhe, nunca pela nomeação do sentimento.)*
@@ -91,12 +91,12 @@ A tensão central dos orcs na [[_wiki/terceira_era\|Terceira Era]] é a fratura 
 
 Dentro do [[_wiki/imperio_sombrio\|Império]], o descarte de veteranos corrói a lealdade de qualquer orc inteligente o bastante para contar os anos. [[_wiki/grothar\|Grothar]] é exceção por estar vinculado a um [[_wiki/justiciars\|Justiciar]] que o trata como soldado, com nome e utilidade além do descarte, mas a maioria dos orcs imperiais sabe que a "aposentadoria" é eufemismo. Essa consciência gera dois comportamentos opostos: busca desesperada por morte gloriosa em combate (preferível ao descarte silencioso), ou acúmulo de lealdades pessoais com oficiais que possam protegê-los quando o corpo falhar.
 
-A ancestralidade [[_wiki/luminares\|luminar]] é a ferida que ninguém menciona. Orcs sabem, em algum nível coletivo, que compartilham origem com [[_wiki/sylvano\|sylvanos]] e [[_wiki/elarino\|elarinos]]. A rejeição violenta dessa verdade não a apaga: apenas a transforma em tabu. O ódio que orcs nutrem por elfos tem a intensidade específica de quem odeia um espelho.
+A ancestralidade [[_wiki/luminares\|luminar]] é a ferida que ninguém menciona. Orcs sabem, em algum nível coletivo, que compartilham origem com [[_wiki/sylvano\|sylvanos]] e [[racas/elarino\|elarinos]]. A rejeição violenta dessa verdade não a apaga: apenas a transforma em tabu. O ódio que orcs nutrem por elfos tem a intensidade específica de quem odeia um espelho.
 
 ### Rivalidades Ancestrais
 
-**Com anões:** Hostilidade carregada na memória ancestral. Orcs e [[_wiki/karashim\|karashins]] se enfrentam há eras, e mesmo sob domínio do [[_wiki/culto_sombrio\|Culto]], a rivalidade permanece viva, canalizada através dos exércitos sombrios. A antipatia é recíproca e visceral.
+**Com anões:** Hostilidade carregada na memória ancestral. Orcs e [[racas/karashim\|karashins]] se enfrentam há eras, e mesmo sob domínio do [[_wiki/culto_sombrio\|Culto]], a rivalidade permanece viva, canalizada através dos exércitos sombrios. A antipatia é recíproca e visceral.
 
 **Com elfos:** Convivência particularmente explosiva. Memórias das guerras anteriores à ascensão sombria inflamam o sangue orc. Mesmo sob ordens diretas, poucos hesitam diante da chance de esmagar um rebelde élfico. A ironia histórica é que compartilham origem nos [[_wiki/luminares\|Luminares]], mas nenhum dos lados reconhece ou aceita esse fato.
 
-**Com [[_wiki/sauriano\|saurianos]]:** Aversão instintiva a répteis e qualquer coisa com escamas. Na formalização militar das [[_wiki/guerras_reinkardicas_inicio\|Guerras Reinkárdicas]], [[_wiki/kobold\|kobolds]] foram designados como intendentes das legiões orcs, mas os orcs os matavam por reflexo. [[_wiki/goblin\|Goblins]] substituíram os [[_wiki/kobold\|kobolds]] na função.
+**Com [[_wiki/sauriano\|saurianos]]:** Aversão instintiva a répteis e qualquer coisa com escamas. Na formalização militar das [[_wiki/guerras_reinkardicas_inicio\|Guerras Reinkárdicas]], [[racas/kobold\|kobolds]] foram designados como intendentes das legiões orcs, mas os orcs os matavam por reflexo. [[racas/goblin\|Goblins]] substituíram os [[racas/kobold\|kobolds]] na função.

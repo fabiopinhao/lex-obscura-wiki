@@ -24,7 +24,7 @@
 - [[_wiki/salvo\|Salvo]] — sabota violência legítima
 - [[_wiki/aero\|Aero]] — recusa compromissos
 - [[_wiki/helio\|Helio]] — expõe operações
-- [[_wiki/urano\|Urano]] — abandona deveres
+- [[escolas/urano\|Urano]] — abandona deveres
 
 **Médio Risco (descarte no IV, com exceções):**
 - [[_wiki/phobos\|Phobos]], [[_wiki/belli\|Belli]], [[_wiki/pyro\|Pyro]], [[_wiki/vita\|Vita]], [[_wiki/spectro\|Spectro]], [[_wiki/gnosi\|Gnosi]]
@@ -46,9 +46,9 @@ O [[_wiki/imperio_sombrio\|Império]] recruta considerando compatibilidade entre
 
 | Função | Escolas Desejáveis | Escolas Proibidas |
 |--------|-------------------|-------------------|
-| **[[_wiki/justiciars\|Justiciars]]** | [[_wiki/anatho\|Anatho]], [[_wiki/nomos\|Nomos]], [[_wiki/cryo\|Cryo]], [[_wiki/umbra\|Umbra]] | [[_wiki/salvo\|Salvo]], [[_wiki/aero\|Aero]], [[_wiki/urano\|Urano]] |
+| **[[_wiki/justiciars\|Justiciars]]** | [[_wiki/anatho\|Anatho]], [[_wiki/nomos\|Nomos]], [[_wiki/cryo\|Cryo]], [[_wiki/umbra\|Umbra]] | [[_wiki/salvo\|Salvo]], [[_wiki/aero\|Aero]], [[escolas/urano\|Urano]] |
 | **[[_wiki/ophideias\|Ophideias]]** | [[_wiki/anatho\|Anatho]], [[_wiki/phobos\|Phobos]], [[_wiki/spectro\|Spectro]], [[_wiki/morpho\|Morpho]], [[_wiki/toxo\|Toxo]], [[_wiki/hypno\|Hypno]] | [[_wiki/salvo\|Salvo]], [[_wiki/helio\|Helio]], [[_wiki/sacro\|Sacro]] |
-| **[[_wiki/templarios\|Templários]]** | [[_wiki/pyro\|Pyro]], [[_wiki/rupto\|Rupto]], [[_wiki/belli\|Belli]], [[_wiki/geo\|Geo]], [[_wiki/aegis\|Aegis]], [[_wiki/electro\|Electro]] | [[_wiki/gnosi\|Gnosi]], [[_wiki/salvo\|Salvo]] |
+| **[[_wiki/templarios\|Templários]]** | [[_wiki/pyro\|Pyro]], [[escolas/rupto\|Rupto]], [[_wiki/belli\|Belli]], [[_wiki/geo\|Geo]], [[_wiki/aegis\|Aegis]], [[_wiki/electro\|Electro]] | [[_wiki/gnosi\|Gnosi]], [[_wiki/salvo\|Salvo]] |
 | **Conselheiros** | [[_wiki/nomos\|Nomos]], [[_wiki/cryo\|Cryo]], [[_wiki/gnosi\|Gnosi]] (até III) | [[_wiki/pyro\|Pyro]], [[_wiki/belli\|Belli]], [[_wiki/aero\|Aero]] |
 | **Necromantes** | [[_wiki/necro\|Necro]], [[_wiki/umbra\|Umbra]], [[_wiki/patho\|Patho]] | [[_wiki/vita\|Vita]], [[_wiki/salvo\|Salvo]], [[_wiki/helio\|Helio]] |
 | **Inquisidores** | [[_wiki/anatho\|Anatho]], [[_wiki/phobos\|Phobos]], [[_wiki/psycho\|Psycho]], [[_wiki/sacro\|Sacro]] (até III) | [[_wiki/salvo\|Salvo]], [[_wiki/helio\|Helio]] |
@@ -68,7 +68,7 @@ O [[_wiki/imperio_sombrio\|Império]] recruta considerando compatibilidade entre
 | **Tático** | Preceptores de Torre | Recolhimento de praticantes sob sua jurisdição |
 | **Operacional** | Matriarcas [[_wiki/ophideias\|Ophideias]] | Transferências e Missões de Honra para agentes |
 | **Estratégico** | [[_wiki/conselho_sombrio\|Conselho Sombrio]] | Consagrações Finais e Vigílias Eternas |
-| **Excepcional** | [[_wiki/arothistar\|Arothistar]] (via Conselheiros) | Casos de alto perfil político |
+| **Excepcional** | [[personagens/arothistar\|Arothistar]] (via Conselheiros) | Casos de alto perfil político |
 
 **Processo típico:**
 

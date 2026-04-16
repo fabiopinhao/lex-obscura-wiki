@@ -15,7 +15,7 @@ A posição oposta é a [[_wiki/doutrina_da_alma\|Doutrina da Alma]], de [[_wiki
 
 O canal magi é a interface temporária que conecta uma entidade extradimensional a um mortal no plano material. Toda magia interplanária (pactos diabólicos, devoção divina, meditação etérea, simbiose titânica) necessita atravessar o [[_wiki/plano_etereo\|Plano Etéreo]] por meio desse canal.
 
-O canal não é permanente: forma-se durante a invocação e dissolve-se quando a conjuração se encerra. É o feixe de conexão que permite a um diabo conceder poder a seu pactuado, a um titã responder à simbiose de um druida, ou a um sideral ancorar-se na consciência de um meditador.
+O canal não é permanente: forma-se durante a invocação e dissolve-se quando a conjuração se encerra. É o feixe de conexão que permite a um diabo conceder poder a seu pactuado, a um titã responder à simbiose de um druida, ou a um sideral ancorar-se na consciência de um meditador. No [[_wiki/teru\|Teru]], o magi vem de dentro do praticante (não atravessa o [[_wiki/plano_etereo\|Plano Etéreo]]), mas a comunicação com o plano divino é interplanária e usa o mesmo corredor etéreo. Magi armazenado em objeto (cristal, arma, reservatório) não serve para lançar magia via Teru: o magi funcional vem de dentro do praticante, acompanhado do sentimento-chave. Magi armazenado é energia bruta sem assinatura emocional.
 
 ### Escolas e Manipulação Direta
 
@@ -34,6 +34,10 @@ A causa exata do declínio permanece debatida. Druidas atribuem à destruição 
 O magi não é apenas conceito teórico. Possui manifestações concretas na tecnologia e infraestrutura do mundo:
 
 - **Cristais de magi comprimido:** Alimentam as câmaras de combustão das [[_wiki/bombarda_ananica\|bombardas anânicas]], liberando explosão controlada ao serem ativados por centelha rúnica.
-- **[[_wiki/grilhoes_de_contencao_arcana\|Grilhões de Contenção Arcana]]:** Suprimem (não anulam) magia bloqueando o fluxo do [[_wiki/plano_etereo\|Plano Etéreo]]. Usados em [[_wiki/mor_severith\|Mor'Severith]] para contenção de prisioneiros.
+- **[[_wiki/grilhoes_de_contencao_arcana\|Grilhões de Contenção Arcana]]:** Suprimem (não anulam) magia bloqueando o fluxo do [[_wiki/plano_etereo\|Plano Etéreo]]. Usados em [[locais/mor_severith\|Mor'Severith]] para contenção de prisioneiros.
 - **[[_wiki/luto_de_nillis\|Luto de Nillis]]:** Substância alquímica que suprime magi temporariamente: contramedida antimagia.
-- **[[_wiki/poco_etereo\|Poço Etéreo]]:** Nexo central em [[_wiki/ghol_mournak\|Ghol'Mournak]] onde comunicações via [[_wiki/oculus_morvgradi\|Oculus]] convergem antes de serem redirecionadas.
+- **[[_wiki/poco_etereo\|Poço Etéreo]]:** Nexo central em [[locais/ghol_mournak\|Ghol'Mournak]] onde comunicações via [[_wiki/oculus_morvgradi\|Oculus]] convergem antes de serem redirecionadas.
+
+### Artefatos: Natureza vs. Carga
+
+Cetros, varinhas, materiais especiais e armas peculiares podem amplificar ou direcionar magia independentemente de conterem magi armazenado. Esses artefatos operam por suas propriedades intrínsecas (material, forma, história, consagração), não como baterias. A técnica de carregar cristais com magi (e, por extensão, armas e outros recipientes) é recente e ainda pouco explorada no período do Livro I. Não constitui mecânica consolidada.

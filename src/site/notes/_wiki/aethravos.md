@@ -11,9 +11,9 @@ Quando Aethravos se desloca, as lâminas de nácar atritam entre si e o ar ao re
 
 ### Domínio
 
-[[_wiki/urano\|Urano]] e [[_wiki/cryo\|Cryo]]. O frio de Aethravos é seletivo. O que acumula desordem recebe a cristalização; o que já é simples permanece intacto. Uma tábua de madeira exposta ao frio sublima; os pregos de ferro dentro dela permanecem, suspensos no ar na posição exata que ocupavam. O processo é sublimação literal: matéria atinge estado vítreo sem passar por líquido. Carne torna-se vapor; pedra, poeira. A aparência externa é de purificação, extração metódica de peso e ancoragem.
+[[escolas/urano\|Urano]] e [[_wiki/cryo\|Cryo]]. O frio de Aethravos é seletivo. O que acumula desordem recebe a cristalização; o que já é simples permanece intacto. Uma tábua de madeira exposta ao frio sublima; os pregos de ferro dentro dela permanecem, suspensos no ar na posição exata que ocupavam. O processo é sublimação literal: matéria atinge estado vítreo sem passar por líquido. Carne torna-se vapor; pedra, poeira. A aparência externa é de purificação, extração metódica de peso e ancoragem.
 
-A direção vem de [[_wiki/urano\|Urano]]; o estado, de [[_wiki/cryo\|Cryo]]. Juntos produzem elevação por congelamento. Corpos tocados tornam-se translúcidos, pensamentos adquirem geometria, e a identidade adelgaça até o sujeito conseguir ver através de si mesmo. A sublimação completa não deixa cadáver. Deixa contorno: uma silhueta vítrea onde alguém esteve, transparente e perfeita, que o vento do Etéreo eventualmente leva.
+A direção vem de [[escolas/urano\|Urano]]; o estado, de [[_wiki/cryo\|Cryo]]. Juntos produzem elevação por congelamento. Corpos tocados tornam-se translúcidos, pensamentos adquirem geometria, e a identidade adelgaça até o sujeito conseguir ver através de si mesmo. A sublimação completa não deixa cadáver. Deixa contorno: uma silhueta vítrea onde alguém esteve, transparente e perfeita, que o vento do Etéreo eventualmente leva.
 
 ### O Alento
 

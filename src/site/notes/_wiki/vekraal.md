@@ -5,11 +5,11 @@
 
 ### Perfil
 
-[[_wiki/shadar\|Shadar]]. General "Punho de [[_wiki/arothistar\|Arothistar]]," Terceira Legião Oriental. Tio de [[_wiki/nidzina_avaroth\|Nidzina]]. Brutal e arrogante. Acredita que terror supera exércitos. Afiliação: Generais do [[_wiki/imperio_sombrio\|Império]]. Localização atual: [[_wiki/elenir\|Elenir]] → [[_wiki/morvgrad\|Morvgrad]] (avistado na praça ao final do Livro I). Status: vivo.
+[[_wiki/shadar\|Shadar]]. General "Punho de [[personagens/arothistar\|Arothistar]]," Terceira Legião Oriental. Tio de [[_wiki/nidzina_avaroth\|Nidzina]]. Brutal e arrogante. Acredita que terror supera exércitos. Afiliação: Generais do [[_wiki/imperio_sombrio\|Império]]. Localização atual: [[_wiki/elenir\|Elenir]] → [[_wiki/morvgrad\|Morvgrad]] (avistado na praça ao final do Livro I). Status: vivo.
 
 ### Papel Narrativo
 
-Ordenou fogo alquímico em [[_wiki/lendalas\|Lendalas]]. Mata general [[_wiki/shadar\|shadar]] "traidor" durante crise. Enviado para matar [[_wiki/xarn\|Xarn]] quando este é declarado herege. Derrotado por [[_wiki/milorsevogh_velshard\|Milor]] após este aceitar pacto com [[_wiki/vozrador\|Vozrador]]. Quase mata [[_wiki/milorsevogh_velshard\|Milor]] em [[_wiki/elenir\|Elenir]]. Avistado em [[_wiki/morvgrad\|Morvgrad]] ao final do Livro I: identificado por [[_wiki/arothistar\|Arothistar]] na praça.
+Ordenou fogo alquímico em [[_wiki/lendalas\|Lendalas]]. Mata general [[_wiki/shadar\|shadar]] "traidor" durante crise. Enviado para matar [[_wiki/xarn\|Xarn]] quando este é declarado herege. Derrotado por [[_wiki/milorsevogh_velshard\|Milor]] após este aceitar pacto com [[_wiki/vozrador\|Vozrador]]. Quase mata [[_wiki/milorsevogh_velshard\|Milor]] em [[_wiki/elenir\|Elenir]]. Avistado em [[_wiki/morvgrad\|Morvgrad]] ao final do Livro I: identificado por [[personagens/arothistar\|Arothistar]] na praça.
 
 ### Padrões de Voz
 

@@ -49,23 +49,23 @@ As 30 escolas de magia organizam-se em **15 pares antagônicos** distribuídos e
 | Escola A | Código | Domínio | ↔ | Escola B | Código | Domínio |
 |----------|--------|---------|---|----------|--------|---------|
 | **[[_wiki/anatho\|Anatho]]** | BR | Maldição e Corrupção | ↔ | **[[_wiki/sacro\|Sacro]]** | WW | Graça e Santidade |
-| **[[_wiki/rupto\|Rupto]]** | RR | Destruição e Ruptura | ↔ | **[[_wiki/nomos\|Nomos]]** | WB | Vínculo e Restrição |
+| **[[escolas/rupto\|Rupto]]** | RR | Destruição e Ruptura | ↔ | **[[_wiki/nomos\|Nomos]]** | WB | Vínculo e Restrição |
 | **[[_wiki/belli\|Belli]]** | RG | Guerra e Combate | ↔ | **[[_wiki/aegis\|Aegis]]** | WU | Proteção e Barreira |
 
 **Eixos de oposição:**
 - *[[_wiki/anatho\|Anatho]] ↔ [[_wiki/sacro\|Sacro]]:* Profanar vs. Consagrar: maldição corrompe, bênção santifica.
-- *[[_wiki/rupto\|Rupto]] ↔ [[_wiki/nomos\|Nomos]]:* Quebrar vs. Vincular: destruição liberta, restrição aprisiona.
+- *[[escolas/rupto\|Rupto]] ↔ [[_wiki/nomos\|Nomos]]:* Quebrar vs. Vincular: destruição liberta, restrição aprisiona.
 - *[[_wiki/belli\|Belli]] ↔ [[_wiki/aegis\|Aegis]]:* Atacar vs. Defender: guerra agride, proteção resiste.
 
 ### Oposições Espaciais/Temporais (2 pares)
 
 | Escola A | Código | Domínio | ↔ | Escola B | Código | Domínio |
 |----------|--------|---------|---|----------|--------|---------|
-| **[[_wiki/cosmo\|Cosmo]]** | UB | Espaço e Gravidade | ↔ | **[[_wiki/urano\|Urano]]** | UW | Transcendência e Elevação |
+| **[[_wiki/cosmo\|Cosmo]]** | UB | Espaço e Gravidade | ↔ | **[[escolas/urano\|Urano]]** | UW | Transcendência e Elevação |
 | **[[_wiki/electro\|Electro]]** | BW | Eletricidade e Magnetismo | ↔ | **[[_wiki/chrono\|Chrono]]** | UR | Tempo e Fluxo |
 
 **Eixos de oposição:**
-- *[[_wiki/cosmo\|Cosmo]] ↔ [[_wiki/urano\|Urano]]:* Matéria vs. Espírito: gravidade prende o corpo, transcendência liberta a alma.
+- *[[_wiki/cosmo\|Cosmo]] ↔ [[escolas/urano\|Urano]]:* Matéria vs. Espírito: gravidade prende o corpo, transcendência liberta a alma.
 - *[[_wiki/electro\|Electro]] ↔ [[_wiki/chrono\|Chrono]]:* Acelerar vs. Desacelerar: eletricidade impulsiona, tempo retarda.
 
 ### Oposições de Substância (2 pares)

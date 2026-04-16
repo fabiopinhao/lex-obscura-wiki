@@ -5,6 +5,8 @@
 
 **Natureza:** [[_wiki/diabos\|Diabos]] são legalistas malignos que adoram contratos vinculantes, hierarquia e precisão jurídica.
 
+**Canalização — Outorga:** A transferência de [[_wiki/magi\|magi]] no Pactum Diaboli é formal e contratual. O diabo concede poder conforme os termos do pacto; o fluxo é previsível, estável e proporcional à obediência. A Outorga amplifica os sentimentos-chave das escolas concedidas, aprofundando a exposição emocional e acelerando a [[_wiki/progressao_ontologica\|progressão ontológica]]. O diabo não substitui o sentimento — intensifica-o, sustenta-o e o torna mais difícil de desligar.
+
 **Processo de Invocação:**
 
 1. **Ritual de Convocação:**

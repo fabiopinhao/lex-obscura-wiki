@@ -7,7 +7,7 @@
 
 O Plano Etéreo é a interseção entre todos os planos: um entre-espaço que conecta o plano material ([[_wiki/thamakard\|Thamakard]]) aos [[_wiki/planos_divinos\|Planos Divinos]]. Funciona como corredor alquímico universal por onde o [[_wiki/magi\|magi]] circula. Não há hierarquia ontológica entre os planos: são domínios distintos que coexistem.
 
-Toda magia interplanária (pactos diabólicos, devoção divina, meditação etérea, simbiose titânica) necessita atravessar o Plano Etéreo. O [[_wiki/canal_magi\|canal magi]] é o feixe de conexão temporária que se forma nesse entre-espaço, ligando entidades extradimensionais a mortais no plano material.
+Toda magia interplanária (pactos diabólicos, devoção divina, meditação etérea, simbiose titânica) necessita atravessar o Plano Etéreo. O [[_wiki/canal_magi\|canal magi]] é o feixe de conexão temporária que se forma nesse entre-espaço, ligando entidades extradimensionais a mortais no plano material. No [[_wiki/teru\|Teru]], o [[_wiki/magi\|magi]] não atravessa o Plano Etéreo (vem de dentro do praticante), mas a comunicação entre praticante e plano divino é interplanária e atravessa o Plano Etéreo como qualquer comunicação entre planos. Consequência: [[_wiki/justiciars\|Justiciars]] não são imunes à instabilidade etérea — em regiões onde o Plano Etéreo está comprometido (como zonas afetadas pela interferência de [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]]), a comunicação pode ser degradada ou bloqueada.
 
 ### Habitantes
 
@@ -27,7 +27,7 @@ Nenhuma interpretação é confirmada ou negada pelo sistema canônico.
 
 ### Acesso Mortal
 
-O sistema de acesso mágico que opera diretamente sobre o Plano Etéreo é o [[_wiki/meditatio_aetheris\|Meditatio Aetheris]], praticado pelos [[_wiki/frenim\|Frenims]] e [[_wiki/undine\|Undines]] de [[_wiki/neranthis\|Neranthis]]. A sintonização é geralmente passiva, bidirecional apenas para magos poderosos. O treinamento exige décadas de disciplina mental rigorosa: respiração, foco, controle emocional, estudo de filosofia, matemática e padrões universais.
+O sistema de acesso mágico que opera diretamente sobre o Plano Etéreo é o [[_wiki/meditatio_aetheris\|Meditatio Aetheris]], praticado pelos [[_wiki/frenim\|Frenims]] e [[_wiki/undine\|Undines]] de [[locais/neranthis\|Neranthis]]. A sintonização é geralmente passiva, bidirecional apenas para magos poderosos. O treinamento exige décadas de disciplina mental rigorosa: respiração, foco, controle emocional, estudo de filosofia, matemática e padrões universais.
 
 Os [[_wiki/frenim\|frenims]] habitam simultaneamente o mundo material e as bordas do Etéreo: essa dupla percepção é a marca identitária da raça. Os [[_wiki/undine\|undines]] levaram o processo mais longe, renunciando à materialidade em favor da comunhão direta com os [[_wiki/siderais\|siderais]], ao custo de longevidade drasticamente reduzida (40 anos).
 
@@ -38,7 +38,7 @@ Duas escolas de magia manipulam diretamente o Plano Etéreo: [[_wiki/cosmo\|Cosm
 O Plano Etéreo não é estático. Sua estabilidade pode ser comprometida:
 
 - **[[_wiki/flux_aetheria\|Flux Aetheria]]:** Tentativa de manipular diretamente os condutos do Plano Etéreo. Prática extremamente perigosa, não constitui escola formal. A maioria dos acidentes mágicos catastróficos registrados na história envolve falhas nessa prática.
-- **Interferência de [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]]:** A traição de [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]] enfraqueceu parcialmente a estabilidade do Plano Etéreo em certas regiões, embora o mecanismo exato permaneça obscuro. [[_wiki/lorvaq_val_kir\|Lorvaq]] foi forçado a enfraquecer o elo do Plano Etéreo, traindo [[_wiki/arothistar\|Arothistar]] e seu próprio povo. Morreu arrependido de ter interferido.
+- **Interferência de [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]]:** A traição de [[_wiki/lorvaq_val_kir\|Lorvaq Val'Kir]] enfraqueceu parcialmente a estabilidade do Plano Etéreo em certas regiões, embora o mecanismo exato permaneça obscuro. [[_wiki/lorvaq_val_kir\|Lorvaq]] foi forçado a enfraquecer o elo do Plano Etéreo, traindo [[personagens/arothistar\|Arothistar]] e seu próprio povo. Morreu arrependido de ter interferido.
 - **Declínio do [[_wiki/magi\|magi]]:** Eruditos [[_wiki/siderais\|siderais]] sugerem que o Plano Etéreo está se estreitando, contribuindo para a diminuição gradual do [[_wiki/magi\|magi]] em [[_wiki/thamakard\|Thamakard]] desde a fragmentação dos [[_wiki/luminares\|Luminares]].
 
 ### Imunidade do [[_wiki/manto_das_sombras\|Manto das Sombras]]

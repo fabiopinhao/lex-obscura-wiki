@@ -3,6 +3,12 @@
 ---
 
 
+**Sentimento-chave:** Aceitação fria da morte como estado natural; equanimidade diante do que cessa.
+
+**Custo ontológico:** Dessensibilização à morte. Cadáveres são material, não pessoas; morte própria irrelevante.
+
+**Ciclo:** Quem aceita a morte acaba não distinguindo vivo de morto.
+
 Necro é a escola pura de preto que manipula energia de morte por subtração: retira calor, retira vontade, retira a faísca que distingue carne viva de matéria morta. Sua mecânica escala da comunicação à legião: Sussurro extrai memórias fragmentárias de cadáveres recentes, ecos degradados pelo tempo, imagens borradas e nomes repetidos em loop; Letargia simula morte no próprio corpo, pulso cessando, respiração imperceptível, indistinguível de cadáver para observadores comuns; Sifão parasita força vital de ser vivo por proximidade, transferindo calor temporário ao conjurador enquanto o alvo definha sem desidratar; Servo reanima cadáver como autômato sem mente que obedece comandos simples; Sudário reveste o corpo com energia necrótica que drena a vitalidade de quem ataca o conjurador, fechando ferimentos superficiais com vigor roubado; Revenant retém fragmentos de memória e vontade limitada, reconhece rostos, empunha armas com destreza, mas degrada em dias sem reforço; Ceifar libera onda necrótica em área que murcha vegetação, mata fauna menor e deixa terra estéril por dias; Relicário captura alma de recém-morto em receptáculo preparado para interrogatório ou drenagem como combustível [[_wiki/magi\|magi]]; e Legião, sua escala máxima, reanima centenas simultaneamente em campo de morte em massa, o conjurador sustentando a rede até colapsar.
 
 O custo temático é o frio cadavérico que irradia de dentro para fora, distinção fundamental em relação a [[_wiki/cryo\|Cryo]], onde o frio penetra de fora para dentro: em Necro, é a morte emanando do praticante. O custo ontológico opera por dessensibilização progressiva: no Estágio I, funerais parecem cerimônia excessiva; no II, cadáveres são material, não pessoas que foram; no III, a morte própria deixa de ser temida ou sequer relevante; no IV, a distinção vivo/morto perde significado moral completo, e o praticante é descartado por reanimar sem autorização, enviado à Vigília Eterna. A ironia terminal é estrutural: o necromante acaba preservado como os mortos que manipulava.

@@ -9,7 +9,7 @@ Shaevan se manifesta como uma tarântula colossal de quitina negra, com patas ar
 
 ### Domínio
 
-[[_wiki/toxo\|Toxo]] e [[_wiki/patho\|Patho]]. Shaevan opera na interseção entre substância venenosa e degradação biológica. A peçonha e a neurotoxina vêm de [[_wiki/toxo\|Toxo]], que embota e corrói. [[_wiki/patho\|Patho]] converte o dano em processo: febre que se propaga, putrefação que transforma carne saudável em terreno fértil para contágio. Shaevan contamina. Suas pragas começam em um hospedeiro e terminam em populações inteiras, cada vítima conectada à seguinte pelo mesmo fio invisível de doença. A combinação produz venenos que se replicam: sozinha, Toxo exige aplicação direta e Patho opera devagar. A fusão torna a peçonha contagiosa e a doença, letal.
+[[_wiki/toxo\|Toxo]] e [[_wiki/patho\|Patho]]. Shaevan opera na interseção entre substância venenosa e degradação biológica. A peçonha e a neurotoxina vêm de [[_wiki/toxo\|Toxo]], que embota e corrói. [[_wiki/patho\|Patho]] converte o dano em processo: febre que se propaga, putrefação que transforma carne saudável em terreno fértil para contágio. Shaevan contamina. Suas pragas começam em um hospedeiro e terminam em populações inteiras, cada vítima conectada à seguinte pelo mesmo fio invisível de doença. A combinação produz venenos que se replicam: sozinha, [[_wiki/toxo\|Toxo]] exige aplicação direta e [[_wiki/patho\|Patho]] opera devagar. A fusão torna a peçonha contagiosa e a doença, letal.
 
 ### A Fiação
 
@@ -17,7 +17,7 @@ Shaevan não libera pragas. Fia. Cada epidemia é uma teia com arquitetura próp
 
 ### Posição no Panteão
 
-Shaevan é a única Diabo-Titã entre os doze, designação que indica escala de atuação acima da intervenção individual: onde outros diabos operam sobre corpos, Shaevan opera sobre populações. Essa escala gera desconfiança, porque pragas descontroladas não distinguem entre servos e inimigos. A resposta de Shaevan, segundo seus devotos, é que a doença sempre distingue; o problema é que mortais não compreendem os critérios.
+Shaevan é a única Diabo-Titã entre os doze, designação que indica escala de atuação acima da intervenção individual: onde outros [[_wiki/diabos\|diabos]] operam sobre corpos, Shaevan opera sobre populações. Essa escala gera desconfiança, porque pragas descontroladas não distinguem entre servos e inimigos. A resposta de Shaevan, segundo seus devotos, é que a doença sempre distingue; o problema é que mortais não compreendem os critérios.
 
 ### Filosofia
 

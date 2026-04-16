@@ -5,7 +5,7 @@
 
 ### Natureza
 
-Anjos habitam planos celestes distantes, descritos pelos devotos como maravilhosos e perfeitos. A cor arcana branca os define: justiça, pureza, ordem moral. Seus seguidores acreditam que almas devotas possam alcançar esses céus após a morte; se isso é verdade ou projeção dos fiéis, ninguém confirma. Crença difundida sustenta que anjos sejam os únicos deuses que compartilham seus planos existenciais com mortais, abrigando almas devotas pela eternidade.
+Anjos habitam planos celestes distantes, descritos pelos devotos como maravilhosos e perfeitos. A [[_wiki/restricao_de_cor\|cor arcana]] branca os define: justiça, pureza, ordem moral. Seus seguidores acreditam que almas devotas possam alcançar esses céus após a morte; se isso é verdade ou projeção dos fiéis, ninguém confirma. Crença difundida sustenta que anjos sejam os únicos deuses que compartilham seus planos existenciais com mortais, abrigando almas devotas pela eternidade.
 
 Exerceram mais influência sobre a humanidade do que qualquer outra categoria divina. Identificaram-se com os humanos por afinidade temperamental: ambos dividem o mundo em certo e errado, ambos são impacientes com a imperfeição, ambos buscam impor ordem segundo código moral absoluto. Essa afinidade não significa benevolência incondicional; anjos abandonam quem transgride, e a fronteira entre proteção e imposição é mais tênue do que seus devotos admitem. Existem anjos da guerra.
 
@@ -25,4 +25,4 @@ Na [[_wiki/primeira_era\|Primeira Era]], os praticantes mais devotos geraram os 
 
 ### Anjos Nomeados
 
-**[[_wiki/azazel\|Azazel]]**: deus da justiça luminosa. [[_wiki/abramis\|Abramis]] é devoto. **[[_wiki/israfil\|Israfil]]**: bênção incompatível com maldição de [[_wiki/malagoth\|Malagoth]], causa deterioração acelerada em [[_wiki/auren\|Auren]].
+**[[_wiki/azazel\|Azazel]]**: deus da justiça luminosa. [[_wiki/abramis\|Abramis]] é devoto. **[[_wiki/israfil\|Israfil]]**: bênção incompatível com maldição de [[panteao/malagoth\|Malagoth]], causa deterioração acelerada em [[_wiki/auren\|Auren]].

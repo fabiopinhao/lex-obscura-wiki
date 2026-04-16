@@ -13,7 +13,7 @@ O segundo volume do [[_wiki/codex_somniorum\|Codex Somniorum]]. Código legal do
 
 A [[_wiki/lex_obscura_decreto\|Lex Obscura]] define punições e exceções. Cataloga as infrações litúrgicas — conjurações não sancionadas, invocações de entidades proibidas, rituais heréticos, profanações de símbolos sagrados — e prescreve as sentenças, da tortura perpétua nos Crucitórios de Drokh'Malahar à obliteração. É a lei que não esquece e não perdoa.
 
-Mas qualquer cláusula pode ser suspensa pelo [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] quando o soberano decide. Esta tensão entre a lei fundacional de Xarn e a palavra de [[_wiki/arothistar\|Arothistar]] é a fissura que o Ordo Zathar explora: a facção defende a restauração da Lex como fundamento supremo, subordinando a monarquia à teocracia templária.
+Mas qualquer cláusula pode ser suspensa pelo [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]] quando o soberano decide. Esta tensão entre a lei fundacional de Xarn e a palavra de [[personagens/arothistar\|Arothistar]] é a fissura que o Ordo Zathar explora: a facção defende a restauração da Lex como fundamento supremo, subordinando a monarquia à teocracia templária.
 
 É o volume cujas páginas, no Codex, viram sozinhas quando um julgamento formal exige a letra da lei.
 

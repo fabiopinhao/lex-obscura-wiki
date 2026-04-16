@@ -5,6 +5,8 @@
 
 **Natureza:** Poder vem de fé genuína e adoração a entidades de luz/ordem/pureza através de devoção religiosa.
 
+**Canalização — Dádiva:** A transferência de [[_wiki/magi\|magi]] na Devotio Sancta é sagrada e condicional. O [[_wiki/anjos\|anjo]] concede poder como bênção proporcional à fé genuína do devoto. A Dádiva amplifica os sentimentos-chave das escolas concedidas enquanto a devoção permanecer pura. Dúvida estreita o canal; transgressão o fecha. O [[_wiki/anjos\|anjo]] modula a resposta conforme o estado espiritual do devoto — não por capricho, mas por ressonância com a fé.
+
 **Processo de Devoção:**
 
 1. **Iniciação Sacerdotal:**

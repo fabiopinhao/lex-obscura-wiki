@@ -12,17 +12,22 @@
 | **III** | Identidade remodelada; característica definidora | 15-30 anos |
 | **IV** | Ponto sem retorno; transformação completa, irreversível | 30+ anos |
 
+### Progressão pelo Uso
+
+O custo ontológico de uma escola progride pelo uso, não pela mera posse do acesso. Um Justiciar com acesso [[_wiki/teru\|Teru]] a 10 escolas pretas que usa predominantemente [[_wiki/umbra\|Umbra]] e [[_wiki/necro\|Necro]] vai progredir nos custos dessas duas escolas (fotofobia, dessensibilização à morte) sem desenvolver os custos das escolas que raramente toca. A "diluição" dos custos [[_wiki/teru\|Teru]] é simplesmente distribuição pelo uso, não atenuação automática. Quem usa 10 escolas de forma equilibrada progride lentamente em todas. Quem concentra em 2-3 escolas favoritas progride nessas com velocidade comparável à de um pactuado.
+
 ### Interação com Sistemas de Acesso
 
-**[[_wiki/teru\|Teru]] (magia da alma):**
-- Acesso a múltiplas escolas, menor profundidade
-- Custos ontológicos diluídos
-- Nenhuma transformação completa, mas tendências mistas
+**[[_wiki/teru\|Teru]] (comunicação com [[_wiki/planos_divinos\|planos divinos]] sem vínculo):**
+- Acesso a 10 escolas da cor racial, menor profundidade
+- Custos ontológicos diluídos pelo uso distribuído entre múltiplas escolas
+- Nenhuma transformação completa, mas tendências mistas nas escolas mais usadas
+- [[_wiki/magi\|Magi]] vem de dentro do praticante — sem amplificação divina
 
 **Pactos (vínculo com entidade):**
 - Poder concentrado em 2 escolas
-- Custos ontológicos intensificados
-- Transformação mais rápida e profunda
+- Custos ontológicos intensificados: concentração de uso + amplificação divina do sentimento-chave
+- Transformação mais rápida e profunda — a entidade não substitui o sentimento, intensifica-o
 
 ### Combinações Perigosas
 
@@ -69,7 +74,7 @@ Algumas escolas produzem custos ontológicos superficialmente similares. A disti
 | Escola | Direção | Metáfora |
 |--------|---------|----------|
 | **[[_wiki/plasma\|Plasma]]** | Horizontal — dissolução | Descartar matéria |
-| **[[_wiki/urano\|Urano]]** | Vertical — ascensão | Transcender o mundano |
+| **[[escolas/urano\|Urano]]** | Vertical — ascensão | Transcender o mundano |
 
 ---
 

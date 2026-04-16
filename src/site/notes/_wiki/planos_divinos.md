@@ -19,7 +19,7 @@ Os planos demoníacos são descritos como verdadeiros infernos: paisagens de fog
 
 ### Aprisionamento
 
-O aprisionamento de uma entidade no seu próprio plano é possível, mas apenas por ação de outro deus ou aliança entre deuses. A entidade é selada em seu domínio, mantendo consciência mas perdendo a capacidade de exercer influência direta sobre [[_wiki/thamakard\|Thamakard]]. O caso canônico é [[_wiki/vozrador\|Vozrador]], aprisionado há aproximadamente cinquenta e cinco anos por aliança entre [[_wiki/malagoth\|Malagoth]] e [[_wiki/velmorain\|Velmorain]], orquestrada por [[_wiki/arothistar\|Arothistar]].
+O aprisionamento de uma entidade no seu próprio plano é possível, mas apenas por ação de outro deus ou aliança entre deuses. A entidade é selada em seu domínio, mantendo consciência mas perdendo a capacidade de exercer influência direta sobre [[_wiki/thamakard\|Thamakard]]. O caso canônico é [[_wiki/vozrador\|Vozrador]], aprisionado há aproximadamente cinquenta e cinco anos por aliança entre [[panteao/malagoth\|Malagoth]] e [[_wiki/velmorain\|Velmorain]], orquestrada por [[personagens/arothistar\|Arothistar]].
 
 ### [[_wiki/interacoes_entre_planos\|Interações entre Planos]]
 

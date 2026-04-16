@@ -25,7 +25,7 @@ A parceria com [[_wiki/sylvano\|sylvanos]] produziu empréstimos culturais em am
 
 ### Relação com Magia
 
-Cor verde. Acesso via [[_wiki/symbiosis_naturae\|Symbiosis Naturae]]: relação simbiótica com espíritos naturais, poder limitado geograficamente, conexão com a rede natural do território. O alinhamento mágico é menor que o dos [[_wiki/sylvano\|sylvanos]] e [[_wiki/elarino\|elarinos]], como em toda raça gnômica. Spriggins não são druidas de formação; são habitantes do verde que absorvem o que o verde oferece.
+Cor verde. Acesso via [[_wiki/symbiosis_naturae\|Symbiosis Naturae]]: relação simbiótica com espíritos naturais, poder limitado geograficamente, conexão com a rede natural do território. O alinhamento mágico é menor que o dos [[_wiki/sylvano\|sylvanos]] e [[racas/elarino\|elarinos]], como em toda raça gnômica. Spriggins não são druidas de formação; são habitantes do verde que absorvem o que o verde oferece.
 
 Alguns indivíduos dominavam magias druídicas, incluindo [[_wiki/morpho\|Morpho]] (metamorfose), mas a capacidade não era traço racial universal. A maioria operava com percepção ambiental ampliada: sentir a saúde de uma floresta, detectar intrusão, localizar água subterrânea. Magia funcional, não espetacular.
 
@@ -35,6 +35,6 @@ As [[_wiki/guerras_reinkardicas_inicio\|Guerras Reinkárdicas]] e a expansão [[
 
 Spriggins não tinham para onde ir. Criaturas de sub-bosque em campo aberto são presas. Os que sobreviveram se dispersaram para os fragmentos de floresta que restam em [[_wiki/reinkard\|Reinkard]] e possivelmente em [[_wiki/veinkard\|Veinkard]]. Ninguém sabe em quais. Ninguém os procura. A parceria com [[_wiki/sylvano\|sylvanos]] se desfez junto com as florestas que a sustentavam: [[_wiki/sylvano\|sylvanos]] recuaram para [[_wiki/thal_serin\|Thal'Serin]], spriggins não os acompanharam, ou não conseguiram.
 
-A referência no lore dos [[_wiki/varglin\|varglins]] é precisa: "duas espécies em extinção reconhecem a semelhança silenciosamente." Spriggins e [[_wiki/varglin\|varglins]] compartilham a condição de raças cujo mundo encolheu mais rápido do que elas.
+A referência no lore dos [[racas/varglin\|varglins]] é precisa: "duas espécies em extinção reconhecem a semelhança silenciosamente." Spriggins e [[racas/varglin\|varglins]] compartilham a condição de raças cujo mundo encolheu mais rápido do que elas.
 
 Na [[_wiki/terceira_era\|Terceira Era]], spriggins são verbete em tratados que poucos leem. O [[_wiki/imperio_sombrio\|Império]] não os caça, não os teme e não os usa, porque sequer sabe onde estão. A extinção é lenta, silenciosa e provavelmente irreversível.

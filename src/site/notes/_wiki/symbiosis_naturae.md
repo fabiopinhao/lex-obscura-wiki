@@ -5,6 +5,8 @@
 
 **Natureza:** Não é pacto - é relacionamento simbiótico com espíritos/forças naturais baseado em equilíbrio.
 
+**Canalização — Afluxo:** A transferência de [[_wiki/magi\|magi]] na Symbiosis Naturae é orgânica e recíproca. O [[_wiki/titas\|titã]] compartilha poder como seiva compartilhada entre raiz e copa, num ritmo que acompanha os ciclos naturais. O Afluxo amplifica os sentimentos-chave das escolas concedidas de forma gradual e tolerante — [[_wiki/titas\|titãs]] raramente interferem na resposta, e o canal opera por ressonância natural, tolerando falhas menores.
+
 **Processo de Simbiose:**
 
 1. **Ritual de Harmonia:**

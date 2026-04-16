@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[_wiki/minotauro\|Minotauro]]. Servo de [[_wiki/arothistar\|Arothistar]] em [[_wiki/mor_severith\|Mor'Severith]]. Chifres quase raspando batentes. Músculos sob pelo castanho-escuro. Correntes de aço no colar. Olhos surpreendentemente gentis. Raça quase extinta: considerados lendas pela maioria dos povos. Afiliação: servo de [[_wiki/arothistar\|Arothistar]]. Localização: [[_wiki/mor_severith\|Mor'Severith]]. Status: vivo.
+[[_wiki/minotauro\|Minotauro]]. Servo de [[personagens/arothistar\|Arothistar]] em [[locais/mor_severith\|Mor'Severith]]. Chifres quase raspando batentes. Músculos sob pelo castanho-escuro. Correntes de aço no colar. Olhos surpreendentemente gentis. Raça quase extinta: considerados lendas pela maioria dos povos. Afiliação: servo de [[personagens/arothistar\|Arothistar]]. Localização: [[locais/mor_severith\|Mor'Severith]]. Status: vivo.
 
 ### Papel Narrativo
 
@@ -19,7 +19,7 @@ Intelectual contido. A erudição como forma de ordem num ambiente de caos. Defe
 
 ### Relações-Chave
 
-**[[_wiki/arothistar\|Arothistar]] (mestre / lealdade intelectual):** Defende o Verbum do mestre em argumento; não por servilidade, mas por genuína crença no sistema.
+**[[personagens/arothistar\|Arothistar]] (mestre / lealdade intelectual):** Defende o Verbum do mestre em argumento; não por servilidade, mas por genuína crença no sistema.
 
 **[[_wiki/thrax\|Thrax]] (prisioneiro sob custódia):** Cuida com cautela meticulosa. A filosofia dracônica de [[_wiki/thrax\|Thrax]] colide diretamente com a do Verbum.
 

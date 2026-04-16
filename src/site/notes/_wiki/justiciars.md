@@ -16,14 +16,14 @@ A fundação do sistema de Justiciars há 44 anos não foi apenas reforma juríd
 Os antigos [[_wiki/templarios\|templários]] mantinham lealdades divididas e perigosas:
 - **Conexão religiosa profunda com os [[_wiki/drul\|druls]]** via cultos compartilhados do [[_wiki/vor-ghol\|Vor-Ghol]]
 - **Autonomia operacional** que rivalizava com autoridade do monarca
-- **Vínculos pactuais com [[_wiki/diabos\|diabos]]** que podiam contradizer ordens de [[_wiki/arothistar\|Arothistar]]
+- **Vínculos pactuais com [[_wiki/diabos\|diabos]]** que podiam contradizer ordens de [[personagens/arothistar\|Arothistar]]
 - **Cultura de segredo** herdada das matriarcas [[_wiki/drul\|drul]]
 
-[[_wiki/arothistar\|Arothistar]] nunca confiou completamente nos [[_wiki/templarios\|templários]]. A conexão subterrânea era estrutural demais, antiga demais, enraizada demais para ser controlada por decreto. **O subterrâneo é traiçoeiro por natureza**: território de matriarcas, de pactos antigos, de lealdades que antecedem o [[_wiki/imperio_sombrio\|império]] [[_wiki/shadar\|shadar]].
+[[personagens/arothistar\|Arothistar]] nunca confiou completamente nos [[_wiki/templarios\|templários]]. A conexão subterrânea era estrutural demais, antiga demais, enraizada demais para ser controlada por decreto. **O subterrâneo é traiçoeiro por natureza**: território de matriarcas, de pactos antigos, de lealdades que antecedem o [[_wiki/imperio_sombrio\|império]] [[_wiki/shadar\|shadar]].
 
 #### A Solução: Justiciars sem Pactos
 
-[[_wiki/arothistar\|Arothistar]] precisava de juízes-executores que:
+[[personagens/arothistar\|Arothistar]] precisava de juízes-executores que:
 - **Respondessem apenas ao [[_wiki/verbum_arkhon_codex\|Verbum Arkhon]]** (não a [[_wiki/diabos\|diabos]] ou matriarcas)
 - **Operassem com [[_wiki/teru\|Teru]]** (magia independente de pactos divinos)
 - **Fossem exclusivamente [[_wiki/shadar\|shadars]]** de linhagem pura e lealdade comprovada
@@ -41,7 +41,7 @@ Por trás da desconfiança operacional havia convicção filosófica:
 
 > **"[[_wiki/drul\|Druls]], no fundo, são elfos. E elfos não aceitam as mudanças necessárias para a nova era."**
 
-[[_wiki/arothistar\|Arothistar]] acreditava que:
+[[personagens/arothistar\|Arothistar]] acreditava que:
 - **[[_wiki/shadar\|Shadars]] = humanos**: ordeiros, pragmáticos, adaptáveis ao poder centralizado
 - **[[_wiki/drul\|Druls]] = elfos**: presos a tradições matriarcais, avessos à hierarquia vertical, perigosamente autônomos
 
@@ -66,7 +66,7 @@ Conduzida no [[_wiki/templo_de_azkaroth\|Templo de Azkaroth]]. O candidato ajoel
 - **[[_wiki/codex_somniorum\|Codex Somniorum]]:** Grimório tripartite
 - **[[_wiki/oculus_morvgradi\|Oculus]]:** Esfera de comunicação pessoal
 
-**Fórmula Ritual:** *"[[_wiki/arothistar\|Arothistar]] est lex. [[_wiki/abbhal\|Abbhal]] est vox. Tu est martelo."*
+**Fórmula Ritual:** *"[[personagens/arothistar\|Arothistar]] est lex. [[_wiki/abbhal\|Abbhal]] est vox. Tu est martelo."*
 
 ### Poderes e Prerrogativas
 
@@ -114,7 +114,7 @@ Carregar o cetro cobra tributo. Justiciars vivem em isolamento funcional, sem la
 - [[_wiki/nidzina_avaroth\|Nidzina]] canaliza ambição através da excelência
 - [[_wiki/milorsevogh_velshard\|Milor]] ancora-se na disciplina militar
 
-Todos pagam com fragmentos de humanidade o privilégio de serem martelos de [[_wiki/arothistar\|Arothistar]].
+Todos pagam com fragmentos de humanidade o privilégio de serem martelos de [[personagens/arothistar\|Arothistar]].
 
 ### Estrutura e Hierarquia
 

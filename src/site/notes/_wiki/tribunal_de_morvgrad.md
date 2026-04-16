@@ -8,7 +8,7 @@
 |-------|------|------------|------------|
 | **Primeiro** | Câmara Baixa | Crimes menores, punições mundanas | Escribas e tabeliães |
 | **Segundo** | Câmara Alta | Transgressões contra a [[lex_obscura\|Lex Obscura]] | Lordes sombrios veteranos + membros do [[_wiki/conselho_sombrio\|Conselho Sombrio]] |
-| **Terceiro** | Círculo Interior | Heresias e traições capitais | [[_wiki/arothistar\|Arothistar]] ou seus Arcontes |
+| **Terceiro** | Círculo Interior | Heresias e traições capitais | [[personagens/arothistar\|Arothistar]] ou seus Arcontes |
 
 
 ### Estrutura e Jurisdição
@@ -58,9 +58,9 @@ Tensão latente existe: [[_wiki/justiciars\|Justiciars]] veem o Tribunal como le
 
 ### Precedentes Notáveis
 
-- **Caso [[_wiki/milorsevogh_velshard\|Velshard]]:** Julgamento in absentia de [[_wiki/milorsevogh_velshard\|Milor]] durante período de espionagem em [[_wiki/myrgarde\|Myrgarde]]. Arquivado.
+- **Caso [[_wiki/milorsevogh_velshard\|Velshard]]:** Julgamento in absentia de [[_wiki/milorsevogh_velshard\|Milor]] durante período de espionagem em [[locais/myrgarde\|Myrgarde]]. Arquivado.
 - **Heresia de [[_wiki/qaelun\|Qaelun]]:** Necromante julgado postumamente após eliminação por [[_wiki/orum-rahru\|Orum]]. Tribunal ratificou a execução sumária.
-- **Protocolo Iconográfico:** Estabeleceu regras sobre representações de [[_wiki/arothistar\|Arothistar]].
+- **Protocolo Iconográfico:** Estabeleceu regras sobre representações de [[personagens/arothistar\|Arothistar]].
 
 ### Legislação sobre Raças Menores e Criaturas Bestiais
 

@@ -7,7 +7,7 @@
 
 Fenômeno luminoso que emana de rupturas no véu celeste. Luz que não pertence a astro algum, vinda das profundezas entre mundos. Quando o céu se fende, as estrelas próximas recuam, repelidas, e através da abertura transborda noctiluz. Ao fechar-se, a ruptura deixa cicatriz cerúlea ou prateada no firmamento, visível por tempo indeterminado.
 
-Registrado desde a Queda dos [[_wiki/luminar\|Luminares]], quando as primeiras fendas se abriram no céu noturno. Os anais antigos o descrevem como "respiração das trevas"; o [[_wiki/culto_sombrio\|Culto]] atual, como indício do humor de [[_wiki/arothistar\|Arothistar]]. Nenhuma das duas definições satisfaz. A noctiluz precede o Império e não obedece a vontade mortal.
+Registrado desde a Queda dos [[_wiki/luminar\|Luminares]], quando as primeiras fendas se abriram no céu noturno. Os anais antigos o descrevem como "respiração das trevas"; o [[_wiki/culto_sombrio\|Culto]] atual, como indício do humor de [[personagens/arothistar\|Arothistar]]. Nenhuma das duas definições satisfaz. A noctiluz precede o Império e não obedece a vontade mortal.
 
 ### Ocorrências no Livro I
 
@@ -17,7 +17,7 @@ Registrado desde a Queda dos [[_wiki/luminar\|Luminares]], quando as primeiras f
 
 **Seção 7.4.** Fenda vertical abre-se sobre o [[_wiki/pico_de_nethys\|Pico de Nethys]]. Cicatriz de luz que se rasga devagar. "Luz que não pertencia a astro algum, mas às profundezas entre mundos." [[_wiki/orum-rahru\|Orum]] e [[_wiki/vekraal\|Vekraal]] se encaram sob a luz cerúlea; a fenda se costura deixando cicatriz prateada.
 
-**Seção 13.3.** [[_wiki/arothistar\|Arothistar]] observa a noctiluz de [[_wiki/mor_severith\|Mor'Severith]]. Pronuncia "[[_wiki/malagoth\|Malagoth]]" dirigido ao teto e "[[_wiki/velmorain\|Velmorain]]" dirigido à cicatriz celeste. A relação entre Velmorain e o fenômeno permanece inexplicada.
+**Seção 13.3.** [[personagens/arothistar\|Arothistar]] observa a noctiluz de [[locais/mor_severith\|Mor'Severith]]. Pronuncia "[[panteao/malagoth\|Malagoth]]" dirigido ao teto e "[[_wiki/velmorain\|Velmorain]]" dirigido à cicatriz celeste. A relação entre Velmorain e o fenômeno permanece inexplicada.
 
 **Coda (Cena Final).** Rachadura de luz pálida abre-se no teto do Coração Oco. Do corte escorre sopro cerúleo que lava as cores do ambiente. O céu ferido se revela como aurora invertida, sangrando luz fria.
 

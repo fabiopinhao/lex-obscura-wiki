@@ -5,11 +5,11 @@
 
 ### Perfil
 
-[[_wiki/kobold\|Kobold]]. Servo de [[_wiki/arothistar\|Arothistar]] em [[_wiki/mor_severith\|Mor'Severith]]. Olhos amarelos. Cauda decepada por [[_wiki/thrax\|Thrax]] (seção 13.7). Afiliação: servo de [[_wiki/arothistar\|Arothistar]]. Localização: [[_wiki/mor_severith\|Mor'Severith]]. Status: vivo, mutilado, confinado.
+[[racas/kobold\|Kobold]]. Servo de [[personagens/arothistar\|Arothistar]] em [[locais/mor_severith\|Mor'Severith]]. Olhos amarelos. Cauda decepada por [[_wiki/thrax\|Thrax]] (seção 13.7). Afiliação: servo de [[personagens/arothistar\|Arothistar]]. Localização: [[locais/mor_severith\|Mor'Severith]]. Status: vivo, mutilado, confinado.
 
 ### Papel Narrativo
 
-Devoto absoluto do "mestre": encontra conforto e propósito na servidão. Prepara banhos, busca livros, antecipa pedidos. Recebe raros elogios de [[_wiki/arothistar\|Arothistar]] ("Fing, você é uma coisa"). Sofre trauma de identidade após mutilação: o elogio que o sustentava agora ressoa como verdade cruel: coisas quebram, sangram, são descartadas. Observa as conversas do mestre com os "papais" ([[_wiki/diabos\|diabos]]) sem compreender. Interpreta [[_wiki/noctiluz\|noctiluz]] como manifestação divina: rosa = bronca, azul cerúleo = choro divino, rasgo em forma de olho = deuses olhando para alguém.
+Devoto absoluto do "mestre": encontra conforto e propósito na servidão. Prepara banhos, busca livros, antecipa pedidos. Recebe raros elogios de [[personagens/arothistar\|Arothistar]] ("Fing, você é uma coisa"). Sofre trauma de identidade após mutilação: o elogio que o sustentava agora ressoa como verdade cruel: coisas quebram, sangram, são descartadas. Observa as conversas do mestre com os "papais" ([[_wiki/diabos\|diabos]]) sem compreender. Interpreta [[_wiki/noctiluz\|noctiluz]] como manifestação divina: rosa = bronca, azul cerúleo = choro divino, rasgo em forma de olho = deuses olhando para alguém.
 
 ### Padrões de Voz
 
@@ -19,7 +19,7 @@ Devoção sem ironia: literal, sensorialmente específico sobre tudo que concern
 
 ### Relações-Chave
 
-**[[_wiki/arothistar\|Arothistar]] (mestre / absoluto):** A devoção total como única identidade. O elogio "você é uma coisa" que era glória e agora é ferida.
+**[[personagens/arothistar\|Arothistar]] (mestre / absoluto):** A devoção total como única identidade. O elogio "você é uma coisa" que era glória e agora é ferida.
 
 **[[_wiki/thrax\|Thrax]] (mutilador):** Decepou a cauda num golpe reflexo. [[_wiki/thrax\|Thrax]] mantém o pedaço como troféu.
 

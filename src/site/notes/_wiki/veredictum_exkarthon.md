@@ -9,6 +9,6 @@ Instrumento jurídico extremo que precede ações armadas sob autoridade do [[_w
 
 ### Uso Narrativo
 
-[[_wiki/merari_d_khunvel\|Merari d'Khunvel]], lorde de [[_wiki/niedellin\|Niedellin]], invocou o Veredictum Exkarthon para forçar [[_wiki/milorsevogh_velshard\|Milor]] a examinar pessoalmente as provas em [[_wiki/thal_serin\|Thal'Serin]] antes de sentenciá-lo. A manobra, nascida de desespero e não de astúcia, obrigou o Justiciar a abandonar a investigação controlada e entrar em território hostil com [[_wiki/maraxus\|Maraxus]] como guia, precipitando a emboscada dos [[_wiki/troll\|trolls]] e o confronto com o avatar de [[_wiki/morlgrund\|Morlgrund]].
+[[_wiki/merari_d_khunvel\|Merari d'Khunvel]], lorde de [[_wiki/niedellin\|Niedellin]], invocou o Veredictum Exkarthon para forçar [[_wiki/milorsevogh_velshard\|Milor]] a examinar pessoalmente as provas em [[_wiki/thal_serin\|Thal'Serin]] antes de sentenciá-lo. A manobra, nascida de desespero e não de astúcia, obrigou o Justiciar a abandonar a investigação controlada e entrar em território hostil com [[_wiki/maraxus\|Maraxus]] como guia, precipitando a emboscada dos [[_wiki/troll\|trolls]] e o confronto com o avatar de [[panteao/morlgrund\|Morlgrund]].
 
 O episódio demonstra que mesmo instrumentos processuais legítimos podem ser manipulados para fins destrutivos. [[_wiki/merari_d_khunvel\|Merari]] empunhou a lei como quem empunha escudo sem saber lutar.

@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[_wiki/orc\|Orc]]. Capitão veterano da guarda de [[_wiki/milorsevogh_velshard\|Milor]]. Diferente dos [[_wiki/orc\|orcs]] comuns: mantém disciplina e inteligência. Conhece [[_wiki/grasnak\|Cantos de Grasnak]] e lê runas antigas. Perdeu olho em [[_wiki/ghargash\|Ghargash]]. Irmão [[_wiki/ghur\|Ghur]] morto em [[_wiki/lendalas\|Lendalas]] por raízes druídicas. Leal a [[_wiki/milorsevogh_velshard\|Milor]]. Status: vivo, retornando a [[_wiki/morvgrad\|Morvgrad]]. Localização: com [[_wiki/milorsevogh_velshard\|Milor]]. Pacto ativo: Thúrgash. Armas: armas [[_wiki/orc\|orcs]] tradicionais.
+[[_wiki/orc\|Orc]]. Capitão veterano da guarda de [[_wiki/milorsevogh_velshard\|Milor]]. Diferente dos [[_wiki/orc\|orcs]] comuns: mantém disciplina e inteligência. Conhece [[_wiki/grasnak\|Cantos de Grasnak]] e lê runas antigas. Perdeu olho em [[locais/ghargash\|Ghargash]]. Irmão [[_wiki/ghur\|Ghur]] morto em [[_wiki/lendalas\|Lendalas]] por raízes druídicas. Leal a [[_wiki/milorsevogh_velshard\|Milor]]. Status: vivo, retornando a [[_wiki/morvgrad\|Morvgrad]]. Localização: com [[_wiki/milorsevogh_velshard\|Milor]]. Pacto ativo: Thúrgash. Armas: armas [[_wiki/orc\|orcs]] tradicionais.
 
 ### Padrões de Voz
 

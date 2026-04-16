@@ -15,4 +15,4 @@ Sensação auditiva: finlandês com cadência galesa. Palavras que parecem cresc
 
 **Gramática:** Baseada em estados, não em ações. Onde o [[_wiki/tenebraico\|Tenebraico]] diz "destrua", o registro titânico diz "que esteja destruído". Onde o [[_wiki/orcanico\|Orcânico]] ordena "queime", o registro titânico descreve "queimando". A diferença é ontológica: o Titânico descreve realidades que deseja que existam; as demais línguas rituais ordenam ações que querem executadas.
 
-**Uso no Livro I:** Invocações de [[_wiki/gaelwyn\|Gaelwyn]] e [[_wiki/peredur\|Peredur]] em [[_wiki/thal_serin\|Thal'Serin]]; presença titânica percebida como ressonância (vibração, não fala).
+**Uso no Livro I:** Invocações de [[personagens/gaelwyn\|Gaelwyn]] e [[_wiki/peredur\|Peredur]] em [[_wiki/thal_serin\|Thal'Serin]]; presença titânica percebida como ressonância (vibração, não fala).

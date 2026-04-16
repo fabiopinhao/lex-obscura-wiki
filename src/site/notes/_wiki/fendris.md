@@ -7,7 +7,7 @@
 
 **Características:**
 
-Única arma capaz de atravessar escamas draconídeas. Alvos efetivos: dragões, [[_wiki/draconideo\|draconídeos]], [[_wiki/kobold\|kobolds]] e descendentes. Reconhecida por dragões anciãos como arma do extermínio. Cria fendas entre planos.
+Única arma capaz de atravessar escamas draconídeas. Alvos efetivos: dragões, [[_wiki/draconideo\|draconídeos]], [[racas/kobold\|kobolds]] e descendentes. Reconhecida por dragões anciãos como arma do extermínio. Cria fendas entre planos.
 
 **Limitação Crítica ([[_wiki/tratado_de_wijmarv\|Tratado de Wijmarv]]):**
 
@@ -25,7 +25,7 @@ Localização anterior conhecida: museu particular do Conselheiro [[_wiki/dessia
 
 **Importância Estratégica:**
 
-Quem detém a Fendris detém o poder de eliminar [[_wiki/varna\|Varna]], a dragão anciã que mantém o equilíbrio de poder em [[_wiki/varnak\|Varnak]] através de ameaça individual apocalíptica. A adaga é peça-chave na geopolítica da região montanhosa e no acordo secreto entre [[_wiki/arothistar\|Arothistar]] e [[_wiki/yzmareth\|Yzmareth]].
+Quem detém a Fendris detém o poder de eliminar [[_wiki/varna\|Varna]], a dragão anciã que mantém o equilíbrio de poder em [[_wiki/varnak\|Varnak]] através de ameaça individual apocalíptica. A adaga é peça-chave na geopolítica da região montanhosa e no acordo secreto entre [[personagens/arothistar\|Arothistar]] e [[_wiki/yzmareth\|Yzmareth]].
 
 📌 **Aparições:** Cap6, Cap10, Cap12, Cap13 (discussão sobre o tratado).
 📋 **Ver também:** `3.6_locais_LORE.md` ([[_wiki/veinkard\|Veinkard]]) para contexto geopolítico de [[_wiki/varnak\|Varnak]]/[[_wiki/varna\|Varna]].

@@ -3,7 +3,7 @@
 ---
 
 
-**Dialetos [[_wiki/gerut\|Gerut]]**: Variação extrema entre tribos, o que torna impossível uma descrição fonológica unificada. Raízes comuns com [[_wiki/sylvaen\|Sylvaen]] permitem compreensão parcial entre [[_wiki/gerut\|geruts]] e [[_wiki/sylvano\|sylvanos]], mas a prosódia diverge: onde [[_wiki/sylvaen\|Sylvaen]] desce em cadência élfica, os Dialetos [[_wiki/gerut\|Gerut]] tendem a ritmos mais irregulares, marcados pela respiração e pelo terreno. Alguns dialetos incorporam sons animais como elementos gramaticais funcionais (rugidos, assobios, golpes no peito), não decorativos. Outros mimetizam sons da floresta específica que habitam: o dialeto de uma comunidade ribeirinha incorpora fricativas aquáticas; o de uma comunidade montanhosa usa oclusivas que ecoam como pedra contra pedra.
+**Dialetos [[racas/gerut\|Gerut]]**: Variação extrema entre tribos, o que torna impossível uma descrição fonológica unificada. Raízes comuns com [[_wiki/sylvaen\|Sylvaen]] permitem compreensão parcial entre [[racas/gerut\|geruts]] e [[_wiki/sylvano\|sylvanos]], mas a prosódia diverge: onde [[_wiki/sylvaen\|Sylvaen]] desce em cadência élfica, os Dialetos [[racas/gerut\|Gerut]] tendem a ritmos mais irregulares, marcados pela respiração e pelo terreno. Alguns dialetos incorporam sons animais como elementos gramaticais funcionais (rugidos, assobios, golpes no peito), não decorativos. Outros mimetizam sons da floresta específica que habitam: o dialeto de uma comunidade ribeirinha incorpora fricativas aquáticas; o de uma comunidade montanhosa usa oclusivas que ecoam como pedra contra pedra.
 
 Inspiração sonora: nenhuma referência única. Cada dialeto soa como a floresta que o criou.
 
@@ -15,4 +15,4 @@ Inspiração sonora: nenhuma referência única. Cada dialeto soa como a florest
 
 **Gramática:** Raízes titânicas puras, sem a subordinação encadeada do [[_wiki/sylvaen\|Sylvaen]]. Frases tendem a ser curtas, diretas, descritivas. Sons animais integrados como elementos gramaticais funcionais em muitos dialetos. A diversidade gramatical é tão vasta quanto a geográfica: generalizar seria falsificar.
 
-**Uso no Livro I:** Referências indiretas. [[_wiki/gerut\|Geruts]] aparecem como pano de fundo em regiões florestais. Expansão prevista para livros posteriores.
+**Uso no Livro I:** Referências indiretas. [[racas/gerut\|Geruts]] aparecem como pano de fundo em regiões florestais. Expansão prevista para livros posteriores.

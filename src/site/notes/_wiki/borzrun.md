@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[_wiki/karashim\|Karashim]]. Líder de caravana da [[_wiki/khelg_dur\|Khelg'Dur]] ("Comboio da Bigorna Negra"). Barba cinza amarrada com fio de cobre, olhos de pedra lavada, corpo quadrado talhado para túneis. Localização: [[_wiki/vor-ghol\|Vor-Ghol]] / rotas subterrâneas. Status: vivo.
+[[racas/karashim\|Karashim]]. Líder de caravana da [[_wiki/khelg_dur\|Khelg'Dur]] ("Comboio da Bigorna Negra"). Barba cinza amarrada com fio de cobre, olhos de pedra lavada, corpo quadrado talhado para túneis. Localização: [[_wiki/vor-ghol\|Vor-Ghol]] / rotas subterrâneas. Status: vivo.
 
 ### Papel Narrativo
 
