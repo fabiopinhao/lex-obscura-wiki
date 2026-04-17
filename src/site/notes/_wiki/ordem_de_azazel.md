@@ -3,7 +3,7 @@
 ---
 
 
-Ordem religiosa do panteão branco ([[_wiki/anjos\|anjos]]). Status oculto. Cor arcana: branca. Liderança desconhecida. [[_wiki/abramis\|Abramis]] é membro confirmado. [[_wiki/koliah\|Koliah]] carrega rosário de [[_wiki/azazel\|Azazel]] oculto sob o amuleto de [[_wiki/titania\|Titânia]], presente de [[_wiki/abramis\|Abramis]] "para quando a escuridão for demais."
+Ordem religiosa do panteão branco ([[_wiki/anjos\|anjos]]). Status oculto. [[_wiki/restricao_de_cor\|Cor arcana]]: branca. Liderança desconhecida. [[_wiki/abramis\|Abramis]] é membro confirmado. [[_wiki/koliah\|Koliah]] carrega rosário de [[_wiki/azazel\|Azazel]] oculto sob o amuleto de [[_wiki/titania\|Titânia]], presente de [[_wiki/abramis\|Abramis]] "para quando a escuridão for demais."
 
 [[_wiki/azazel\|Azazel]] pode ser o último deus branco ativo, embora seu status cosmológico permaneça incerto ("se caiu"). A ordem preserva fragmentos de doutrina angelical em segredo. Rosários de [[_wiki/azazel\|Azazel]] funcionam como proteção contra o mal: Marta (mãe adotiva de [[_wiki/arothistar\|Dravmir]]) chamou o menino de "cálice de [[_wiki/azazel\|Azazel]] — frágil e sagrado", nome que ele não reconheceu. Nomes sagrados quase extintos associados à fé branca incluem [[_wiki/azazel\|Azazel]], [[_wiki/paralda\|Paralda]] e [[_wiki/israfil\|Israfil]].
 

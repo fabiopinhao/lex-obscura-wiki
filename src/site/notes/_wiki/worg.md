@@ -5,7 +5,7 @@
 
 ### Natureza Dual
 
-Nem homem, nem besta. Habitam o limiar entre civilização e selvageria. Conscientes demais para serem feras, bestiais demais para serem aceitos como pessoas. Diferem de lobisomens: não alternam formas, são eternamente presos em sua dualidade. Cor arcana preta (como todos os [[_wiki/vulfano\|vulfanos]]).
+Nem homem, nem besta. Habitam o limiar entre civilização e selvageria. Conscientes demais para serem feras, bestiais demais para serem aceitos como pessoas. Diferem de lobisomens: não alternam formas, são eternamente presos em sua dualidade. [[_wiki/restricao_de_cor\|Cor arcana]] preta (como todos os [[_wiki/vulfano\|vulfanos]]).
 
 ### Gênese (disputada)
 
@@ -129,7 +129,7 @@ A tensão entre aceitar o Abatedouro (e sobreviver) ou recusá-lo (e passar fome
 
 ### Relação com Magia
 
-Cor arcana preta. Worgs acessam magia pelo *[[_wiki/pactum_diaboli\|Pactum Diaboli]]* como os demais alinhados ao preto, mas a dualidade física interfere na estabilidade das invocações. A magia worg tende a ser instável, cintilante, com custos que se manifestam no corpo de formas imprevisíveis: pelos que caem em tufos, garras que crescem descontroladas, perda temporária da capacidade de alternar forma.
+[[_wiki/restricao_de_cor\|Cor arcana]] preta. Worgs acessam magia pelo *[[_wiki/pactum_diaboli\|Pactum Diaboli]]* como os demais alinhados ao preto, mas a dualidade física interfere na estabilidade das invocações. A magia worg tende a ser instável, cintilante, com custos que se manifestam no corpo de formas imprevisíveis: pelos que caem em tufos, garras que crescem descontroladas, perda temporária da capacidade de alternar forma.
 
 A maioria simplesmente não pratica. Longevidade curta (60 anos) e vida nômade não favorecem o treinamento arcano, que exige décadas de estudo. Os poucos worgs que praticam magia gravitam para:
 

@@ -5,13 +5,13 @@
 
 ### Origem Cosmogônica
 
-Os lynxianos, como todos os humanoides híbridos, remontam às [[_wiki/guerras_raciais\|Guerras Raciais]]. Entidades verdes ([[_wiki/titas\|titãs]]) cruzaram humanos e felinos selvagens para produzir predadores alinhados à cor arcana do mundo natural. A interferência titânica opera por lógica diferente da demoníaca ou diabólica: onde [[_wiki/demonios\|demônios]] forjaram soldados e [[_wiki/diabos\|diabos]] moldaram agentes, os [[_wiki/titas\|titãs]] simplesmente abriram espaço. Não houve ritual de fusão, não houve seleção deliberada. O verde absorveu o que havia de felino no plano material e devolveu algo que caminhava em duas pernas.
+Os lynxianos, como todos os humanoides híbridos, remontam às [[_wiki/guerras_raciais\|Guerras Raciais]]. Entidades verdes ([[_wiki/titas\|titãs]]) cruzaram humanos e felinos selvagens para produzir predadores alinhados à [[_wiki/restricao_de_cor\|cor arcana]] do mundo natural. A interferência titânica opera por lógica diferente da demoníaca ou diabólica: onde [[_wiki/demonios\|demônios]] forjaram soldados e [[_wiki/diabos\|diabos]] moldaram agentes, os [[_wiki/titas\|titãs]] simplesmente abriram espaço. Não houve ritual de fusão, não houve seleção deliberada. O verde absorveu o que havia de felino no plano material e devolveu algo que caminhava em duas pernas.
 
 A consequência é uma raça sem mito fundador. [[_wiki/draconideo\|Draconídeos]] reivindicam dragões ancestrais; [[_wiki/worg\|worgs]] carregam teorias sobre sua gênese; [[_wiki/orc\|orcs]] conhecem o fogo que os reescreveu. Os lynxianos não possuem narrativa de origem porque os [[_wiki/titas\|titãs]] não narram. Não houve pacto, não houve promessa, não houve propósito declarado. Houve floresta, houve felinos, houve sangue humano, e depois houve lynxianos. O verde não explica o que faz. Nenhum [[_wiki/titas\|titã]] reivindica os lynxianos como devotos, servos ou protegidos: a relação é ecológica, não teológica. O [[_wiki/titas\|titã]] que habita a floresta onde um [[_wiki/rajhar\|rajhar]] caça não sabe o nome do [[_wiki/rajhar\|rajhar]], e o [[_wiki/rajhar\|rajhar]] não sabe o nome do [[_wiki/titas\|titã]]. Ambos continuam existindo.
 
 ### Natureza Familiar
 
-Os lynxianos dividem-se em duas sub-raças que compartilham cor arcana, traços felinos e quase nada além disso.
+Os lynxianos dividem-se em duas sub-raças que compartilham [[_wiki/restricao_de_cor\|cor arcana]], traços felinos e quase nada além disso.
 
 [[_wiki/rajhar\|Rajhars]] (porte humanoide) são predadores nômades. Pelagem variável conforme sublinhagem (tigre, lince, pantera), garras retráteis, capacidade parcial de locomoção quadrúpede. Transitam entre florestas profundas e as margens do [[_wiki/imperio_sombrio\|Império]] como mercenários raros e contrabandistas de mercadorias exóticas. Solitários por natureza, formam pares ou tríades temporárias para caça cooperativa e se dispersam quando o objetivo se cumpre. Não reivindicam território permanente, não formam clãs, não prestam devoção.
 

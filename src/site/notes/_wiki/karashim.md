@@ -9,7 +9,7 @@ Anões. A raça mais antiga de [[_wiki/reinkard\|Reinkard]] depois dos [[_wiki/l
 
 ### Posição Cosmogônica
 
-Karashins não possuem cor arcana dominante. A ausência não é deficiência: é posição singular no espectro das raças. [[_wiki/luminar\|Luminares]] são todas as cores; humanos ocupam o meio-termo, variáveis por indivíduo e tradição; karashins são de nenhuma cor. A magia convencional os ignora e eles ignoram a magia convencional. Alguns karashins são devotos de [[_wiki/anjos\|anjos]] (branco), outros pragmáticos sem filiação. A maioria trata os deuses com o mesmo respeito que dedica a um cliente: educado enquanto paga, esquecido quando para.
+Karashins não possuem [[_wiki/restricao_de_cor\|cor arcana]] dominante. A ausência não é deficiência: é posição singular no espectro das raças. [[_wiki/luminar\|Luminares]] são todas as cores; humanos ocupam o meio-termo, variáveis por indivíduo e tradição; karashins são de nenhuma cor. A magia convencional os ignora e eles ignoram a magia convencional. Alguns karashins são devotos de [[_wiki/anjos\|anjos]] (branco), outros pragmáticos sem filiação. A maioria trata os deuses com o mesmo respeito que dedica a um cliente: educado enquanto paga, esquecido quando para.
 
 📌 **Definição:** "Karashim" é o nome próprio da raça dos anões. [[_wiki/derro\|Derros]] (gnomos degenerados) compartilham o habitat subterrâneo e operam nas mesmas rotas de caravana, mas são raça distinta (gnomos, não anões) e não se incluem na classificação karashim.
 
@@ -69,7 +69,7 @@ A [[_wiki/khelg_dur\|Khelg'Dur]] opera fora de [[_wiki/thandruk_varn\|Thandruk V
 
 ### Relação com Magia
 
-Sem cor arcana. A ausência define a relação: karashins não acessam nenhum dos seis sistemas de acesso reconhecidos de forma consistente. Magos karashim existem como exceção individual, adotando o sistema da região onde vivem (um karashim devoto de [[_wiki/anjos\|anjos]] acessa *[[_wiki/devotio_sancta\|Devotio Sancta]]*; um karashim em território [[_wiki/drul\|drul]] pode negociar um *[[_wiki/pactum_diaboli\|Pactum Diaboli]]*). A raça como um todo não tem tradição arcana.
+Sem [[_wiki/restricao_de_cor\|cor arcana]]. A ausência define a relação: karashins não acessam nenhum dos seis sistemas de acesso reconhecidos de forma consistente. Magos karashim existem como exceção individual, adotando o sistema da região onde vivem (um karashim devoto de [[_wiki/anjos\|anjos]] acessa *[[_wiki/devotio_sancta\|Devotio Sancta]]*; um karashim em território [[_wiki/drul\|drul]] pode negociar um *[[_wiki/pactum_diaboli\|Pactum Diaboli]]*). A raça como um todo não tem tradição arcana.
 
 O que karashins possuem é **maestria material**. Artefatos forjados por mestres karashim exibem propriedades que transcendem metalurgia mundana: a [[_wiki/bombarda_ananica\|bombarda anânica]] de [[_wiki/nidzina_avaroth\|Nidzina]], as runas de [[_wiki/thandruk_varn\|Thandruk Varn]] na adaga encontrada por ela, a [[_wiki/fendris\|Fendris]]. Eruditos imperiais debatem se essas propriedades são mágicas ou puramente técnicas. Karashins não participam do debate. Chamam de "trabalho bem feito" e não elaboram.
 

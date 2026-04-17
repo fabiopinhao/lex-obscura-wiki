@@ -17,7 +17,7 @@
 
 **[[_wiki/teru\|Teru]]:** Sistema técnico de estudo arcano sem necessidade de entidades. Versatilidade alta, profundidade moderada.
 
-**Escola:** Especialização mágica. 30 escolas no total, 10 por cor arcana.
+**Escola:** Especialização mágica. 30 escolas no total, 10 por [[_wiki/restricao_de_cor\|cor arcana]].
 
 **Cor Dominante:** Aspecto primário de entidade bicolor que define sistema de acesso.
 

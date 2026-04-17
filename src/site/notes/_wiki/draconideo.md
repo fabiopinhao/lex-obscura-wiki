@@ -61,7 +61,7 @@ Draconídeos toleram [[_wiki/shadar\|shadars]] como parceiros comerciais e milit
 
 ### Relação com Magia
 
-Cor arcana vermelha. Acesso pelo *[[_wiki/vinculum_daemonis\|Vinculum Daemonis]]* (vínculo demoníaco desde o ovo). O sopro elemental é a manifestação mágica mais visível, inscrita na fisiologia. Magia dracônica tende ao fogo, destruição e medo (escolas [[_wiki/pyro\|Pyro]] e [[_wiki/phobos\|Phobos]], domínios de [[_wiki/kaelgrym\|Kaelgrym]]).
+[[_wiki/restricao_de_cor\|Cor arcana]] vermelha. Acesso pelo *[[_wiki/vinculum_daemonis\|Vinculum Daemonis]]* (vínculo demoníaco desde o ovo). O sopro elemental é a manifestação mágica mais visível, inscrita na fisiologia. Magia dracônica tende ao fogo, destruição e medo (escolas [[_wiki/pyro\|Pyro]] e [[_wiki/phobos\|Phobos]], domínios de [[_wiki/kaelgrym\|Kaelgrym]]).
 
 O custo mágico se manifesta como **queimadura interna progressiva**: draconídeos que abusam do sopro ou de invocações de fogo desenvolvem necrose nos tecidos internos. As escamas permanecem intactas enquanto os órgãos carbonizam por dentro. Draconídeos velhos e poderosos frequentemente morrem de colapso interno, não de combate.
 

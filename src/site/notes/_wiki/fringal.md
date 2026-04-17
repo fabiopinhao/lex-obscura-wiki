@@ -39,7 +39,7 @@ Fringais que sobrevivem nas cidades imperiais fazem-no por invisibilidade. Apren
 
 ### Relação com Magia
 
-Cor arcana branca, herança angelical intacta. Fringais não praticam magia. A *[[_wiki/devotio_sancta\|Devotio Sancta]]* exige instrução sacerdotal, templos, anos de estudo e fé estruturada: nada que um fringal marginalizado possua ou tenha acesso. O canal devocional existe em potência mas nunca foi aberto. É fechadura sem chave.
+[[_wiki/restricao_de_cor\|Cor arcana]] branca, herança angelical intacta. Fringais não praticam magia. A *[[_wiki/devotio_sancta\|Devotio Sancta]]* exige instrução sacerdotal, templos, anos de estudo e fé estruturada: nada que um fringal marginalizado possua ou tenha acesso. O canal devocional existe em potência mas nunca foi aberto. É fechadura sem chave.
 
 O que resta é sensibilidade residual. Fringais percebem presenças angelicais com nitidez que os surpreende: um calor no peito perto de rosários de [[_wiki/azazel\|Azazel]], inquietação diante de artefatos consagrados, desconforto físico em locais profanados por magia negra. A sensibilidade não é útil no sentido prático, mas funciona como bússola involuntária: fringais que seguem o instinto evitam zonas de concentração sombria sem saber por quê, o que aumenta marginalmente a taxa de sobrevivência. A marca branca pulsa em silêncio, e nenhum fringal sabe o que fazer com isso.
 

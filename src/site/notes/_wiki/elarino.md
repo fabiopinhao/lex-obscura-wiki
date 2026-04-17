@@ -5,7 +5,7 @@
 
 ### Fisiologia
 
-Descendentes diretos dos [[_wiki/luminares\|Luminares]], os mais próximos de seus ancestrais em tradição e poder arcano. Traços delicados, pele clara com luminescência sutil (visível sob luar ou em ambientes escuros), olhos em tons de prata, âmbar ou azul-celeste. Orelhas alongadas, proporções esbeltas, cabelos frequentemente prateados ou loiros-platinados. Longevidade de aproximadamente 120 anos (modificador +50%). Cor arcana branca. Afinidade inata com magia é visivelmente superior à de qualquer outra raça mortal.
+Descendentes diretos dos [[_wiki/luminares\|Luminares]], os mais próximos de seus ancestrais em tradição e poder arcano. Traços delicados, pele clara com luminescência sutil (visível sob luar ou em ambientes escuros), olhos em tons de prata, âmbar ou azul-celeste. Orelhas alongadas, proporções esbeltas, cabelos frequentemente prateados ou loiros-platinados. Longevidade de aproximadamente 120 anos (modificador +50%). [[_wiki/restricao_de_cor\|Cor arcana]] branca. Afinidade inata com magia é visivelmente superior à de qualquer outra raça mortal.
 
 ### Cultura e Sociedade
 

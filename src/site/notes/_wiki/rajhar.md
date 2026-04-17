@@ -65,7 +65,7 @@ Ocasionalmente, rajhars aceitam contratos mercenários. A reputação é de efic
 
 ### Relação com Magia
 
-Cor arcana verde. Acesso pela *[[_wiki/symbiosis_naturae\|Symbiosis Naturae]]*, mas de uma forma que desafia a definição canônica do sistema. A Symbiosis pressupõe relação simbiótica com espíritos naturais, manutenção do equilíbrio e conexão consciente com a rede verde. Rajhars não fazem nada disso. Não invocam espíritos, não mantêm equilíbrio, não reconhecem rede.
+[[_wiki/restricao_de_cor\|Cor arcana]] verde. Acesso pela *[[_wiki/symbiosis_naturae\|Symbiosis Naturae]]*, mas de uma forma que desafia a definição canônica do sistema. A Symbiosis pressupõe relação simbiótica com espíritos naturais, manutenção do equilíbrio e conexão consciente com a rede verde. Rajhars não fazem nada disso. Não invocam espíritos, não mantêm equilíbrio, não reconhecem rede.
 
 O que rajhars praticam é instinto arcano. O verde está no sangue como o sopro está na garganta de um [[_wiki/draconideo\|draconídeo]]: fisiológico, não teológico. As manifestações são sensoriais e predatórias: percepção ampliada de movimento em vegetação densa, supressão de cheiro e ruído ao caçar, aceleração de cicatrização em contato com solo de floresta, resistência a toxinas vegetais e fúngicas. Não há invocação, não há fórmula, não há gratidão ao espírito patrono. O rajhar usa o verde como usa garras: porque tem.
 

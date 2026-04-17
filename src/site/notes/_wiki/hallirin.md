@@ -43,7 +43,7 @@ O resultado é um povo invisível. [[_wiki/pindoriar\|Pindoriares]] entre os [[_
 
 ### Relação com Magia
 
-Cor arcana branca. Acesso via [[_wiki/devotio_sancta\|Devotio Sancta]], nos mesmos termos que humanos: fé genuína como canal, vulnerabilidade a crise de fé, proteção contra corrupção demoníaca. Na prática, hallirins conjuradores são raríssimos. O alinhamento mágico gnômico é menor que o das raças élficas, humanas e bestiais. A aptidão hallirin se expressa mais na alquimia, no manuseio técnico de substâncias arcanas, na compreensão empírica de processos mágicos, do que na invocação propriamente dita. Um hallirin entende como um reagente funciona sem conseguir reproduzir o efeito por vontade própria.
+[[_wiki/restricao_de_cor\|Cor arcana]] branca. Acesso via [[_wiki/devotio_sancta\|Devotio Sancta]], nos mesmos termos que humanos: fé genuína como canal, vulnerabilidade a crise de fé, proteção contra corrupção demoníaca. Na prática, hallirins conjuradores são raríssimos. O alinhamento mágico gnômico é menor que o das raças élficas, humanas e bestiais. A aptidão hallirin se expressa mais na alquimia, no manuseio técnico de substâncias arcanas, na compreensão empírica de processos mágicos, do que na invocação propriamente dita. Um hallirin entende como um reagente funciona sem conseguir reproduzir o efeito por vontade própria.
 
 Em [[_wiki/elenir\|Elenir]], essa aptidão técnica é o que os mantém vivos. Hallirins escravizados processam [[_wiki/magi\|magi]] bruto que conjuradores [[_wiki/shadar\|shadars]] não tocam por risco de contaminação ou por simples recusa ao trabalho manual. A mesma competência que os integrou à sociedade humana agora os acorrenta ao serviço imperial.
 

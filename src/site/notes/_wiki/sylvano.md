@@ -5,7 +5,7 @@
 
 ### Fisiologia
 
-Elfos titânicos das florestas. Pele em tons terrosos (oliva a castanho-esverdeado), olhos em variações de verde, âmbar ou dourado. Cabelo frequentemente entremeado de folhas, líquens ou trançado com fibras vegetais. Mais robustos que [[_wiki/elarino\|elarinos]], adaptados a vida ao relento. Longevidade de aproximadamente 120 anos (modificador +50%). Cor arcana verde. Devotos de [[_wiki/titania\|Titânia]].
+Elfos titânicos das florestas. Pele em tons terrosos (oliva a castanho-esverdeado), olhos em variações de verde, âmbar ou dourado. Cabelo frequentemente entremeado de folhas, líquens ou trançado com fibras vegetais. Mais robustos que [[_wiki/elarino\|elarinos]], adaptados a vida ao relento. Longevidade de aproximadamente 120 anos (modificador +50%). [[_wiki/restricao_de_cor\|Cor arcana]] verde. Devotos de [[_wiki/titania\|Titânia]].
 
 ### Origem
 

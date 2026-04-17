@@ -5,7 +5,7 @@
 
 ### Fisiologia
 
-Híbridos bovinos de porte monumental. Chifres curvados, musculatura densa sob pelagem castanho-escura, mãos articuladas capazes de manipulação fina apesar do tamanho. [[_wiki/odran\|Odran]] é descrito com "chifres quase raspando batentes" e "músculos sob pelo castanho-escuro". Longevidade de 60-80 anos (modificador 75-100%), a mais alta entre híbridos. Sem cor arcana definida no TSV, o que sugere desconexão dos sistemas mágicos convencionais ou perda dessa classificação com a quase-extinção.
+Híbridos bovinos de porte monumental. Chifres curvados, musculatura densa sob pelagem castanho-escura, mãos articuladas capazes de manipulação fina apesar do tamanho. [[_wiki/odran\|Odran]] é descrito com "chifres quase raspando batentes" e "músculos sob pelo castanho-escuro". Longevidade de 60-80 anos (modificador 75-100%), a mais alta entre híbridos. Sem [[_wiki/restricao_de_cor\|cor arcana]] definida no TSV, o que sugere desconexão dos sistemas mágicos convencionais ou perda dessa classificação com a quase-extinção.
 
 ### Cultura e Sociedade
 

@@ -35,7 +35,7 @@ A "família" ranidana, como a [[_wiki/sauriano\|sauriana]], é em parte classifi
 
 ### Relação com Magia
 
-Cor arcana azul. Acesso pelo *[[_wiki/meditatio_aetheris\|Meditatio Aetheris]]*: sintonização passiva com o [[_wiki/plano_etereo\|Plano Etéreo]], sem pacto, sem contrato, sem devoção. Onde [[_wiki/frenim\|frenims]] estudam e racionalizam, ranidanos sentem. O ranidano submerge, desacelera a respiração, e a fronteira entre plano material e Etéreo se adelgaça. O acesso é orgânico; a limitação é que o controle é impreciso: ranidanos percebem o Etéreo com clareza, mas manipulá-lo exige esforço que a maioria não sustenta.
+[[_wiki/restricao_de_cor\|Cor arcana]] azul. Acesso pelo *[[_wiki/meditatio_aetheris\|Meditatio Aetheris]]*: sintonização passiva com o [[_wiki/plano_etereo\|Plano Etéreo]], sem pacto, sem contrato, sem devoção. Onde [[_wiki/frenim\|frenims]] estudam e racionalizam, ranidanos sentem. O ranidano submerge, desacelera a respiração, e a fronteira entre plano material e Etéreo se adelgaça. O acesso é orgânico; a limitação é que o controle é impreciso: ranidanos percebem o Etéreo com clareza, mas manipulá-lo exige esforço que a maioria não sustenta.
 
 O custo mágico se manifesta como **dessecação progressiva**: magia etérea intensa drena a umidade corporal. Ranidanos que abusam da conexão envelhecem visivelmente: pele gretada, olhos opacos, movimentos rígidos. A fonte do poder e o que o custo consome são a mesma coisa.
 

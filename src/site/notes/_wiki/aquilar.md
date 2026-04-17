@@ -63,7 +63,7 @@ A variedade de métodos não é redundância: é gramática. Cada forma de corta
 
 ### Relação com Magia
 
-Cor arcana branca. Acesso exclusivo pela *[[_wiki/devotio_sancta\|Devotio Sancta]]* (devoção a entidades angelicais). Aquilars são a raça mais alinhada a este sistema de acesso: a marca angelical que carregam desde a origem facilita a conexão com entidades brancas, e a fé, quando genuína, flui com naturalidade que outras raças precisam de anos de estudo para aproximar.
+[[_wiki/restricao_de_cor\|Cor arcana]] branca. Acesso exclusivo pela *[[_wiki/devotio_sancta\|Devotio Sancta]]* (devoção a entidades angelicais). Aquilars são a raça mais alinhada a este sistema de acesso: a marca angelical que carregam desde a origem facilita a conexão com entidades brancas, e a fé, quando genuína, flui com naturalidade que outras raças precisam de anos de estudo para aproximar.
 
 As escolas brancas ([[_wiki/sacro\|Sacro]], [[_wiki/helio\|Helio]], [[_wiki/nomos\|Nomos]], [[_wiki/aegis\|Aegis]], [[_wiki/salvo\|Salvo]], [[_wiki/aero\|Aero]]) são o repertório natural: cura, proteção, purificação, luz, vínculo, vento. [[_wiki/aero\|Aero]] é a escola de afinidade mais visceral: controle de correntes de ar, planagem, rajadas. Aquilars em voo combinavam a fisiologia com [[_wiki/aero\|Aero]] de forma que nenhuma outra raça replicava. Sacerdotes em [[_wiki/myrgarde\|Myrgarde]] eram curéis de [[_wiki/salvo\|Salvo]] e purificadores de [[_wiki/sacro\|Sacro]], servindo templos de [[_wiki/israfil\|Israfil]] com eficiência que validava a fé pela prática.
 

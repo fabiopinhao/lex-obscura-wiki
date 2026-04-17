@@ -55,7 +55,7 @@ A demanda é constante: kobolds se reproduzem com facilidade (ninhadas de 4-8 ov
 
 ### Relação com Magia
 
-Cor arcana vermelha, herança dracônica corrompida. Kobolds não praticam magia. A capacidade foi eliminada junto com o sopro e a agressividade durante a seleção. O que resta é sensibilidade residual: kobolds percebem flutuações arcanas, reagem a presenças sobrenaturais e ficam agitados perto de artefatos poderosos. [[_wiki/fing\|Fing]] interpreta o [[_wiki/noctiluz\|noctiluz]] instintivamente, o que sugere que a herança dracônica ainda pulsa sob a docilidade imposta.
+[[_wiki/restricao_de_cor\|Cor arcana]] vermelha, herança dracônica corrompida. Kobolds não praticam magia. A capacidade foi eliminada junto com o sopro e a agressividade durante a seleção. O que resta é sensibilidade residual: kobolds percebem flutuações arcanas, reagem a presenças sobrenaturais e ficam agitados perto de artefatos poderosos. [[_wiki/fing\|Fing]] interpreta o [[_wiki/noctiluz\|noctiluz]] instintivamente, o que sugere que a herança dracônica ainda pulsa sob a docilidade imposta.
 
 ### Voz Narrativa (guia de escrita)
 

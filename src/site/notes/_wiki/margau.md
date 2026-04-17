@@ -37,7 +37,7 @@ Em comunidades [[_wiki/elarino\|elarinas]], margáus são tolerados com afeiçã
 
 ### Relação com Magia
 
-Cor arcana verde. Acesso pela *[[_wiki/symbiosis_naturae\|Symbiosis Naturae]]*, e neste caso a definição canônica se aplica com mais precisão do que nos [[_wiki/rajhar\|rajhars]]. A simbiose margáu é com o ecossistema imediato: a árvore que habita, a fauna que caça, o microclima da copa. Não é pacto com espíritos nomeados, mas uma conexão orgânica com o ambiente que se adensa com o tempo de permanência.
+[[_wiki/restricao_de_cor\|Cor arcana]] verde. Acesso pela *[[_wiki/symbiosis_naturae\|Symbiosis Naturae]]*, e neste caso a definição canônica se aplica com mais precisão do que nos [[_wiki/rajhar\|rajhars]]. A simbiose margáu é com o ecossistema imediato: a árvore que habita, a fauna que caça, o microclima da copa. Não é pacto com espíritos nomeados, mas uma conexão orgânica com o ambiente que se adensa com o tempo de permanência.
 
 Manifestações: percepção de doença em plantas e animais próximos, capacidade de estimular crescimento vegetal em escala mínima (flores, frutos, brotos), supressão de cheiro e som ao nível de invisibilidade sensorial em ambiente arbóreo, comunicação rudimentar com fauna menor (mais empatia direcionada que linguagem).
 

@@ -17,7 +17,7 @@ Os Luminares conviviam com os ciclos da superfície e com as raças que respeita
 
 ### Alinhamento Espiritual
 
-Os Luminares não possuíam cor arcana definida no sentido moderno. Precediam o [[_wiki/restricao_de_cor\|sistema cromático]] que hoje organiza raças e deuses. Na [[_wiki/idade_esquecida\|Idade Esquecida]], entidades brancas, verdes e azuis exerciam influência mágica com intensidade muito maior que nos tempos atuais, e os Luminares transitavam entre essas influências sem a rigidez das linhagens posteriores.
+Os Luminares não possuíam [[_wiki/restricao_de_cor\|cor arcana]] definida no sentido moderno. Precediam o [[_wiki/restricao_de_cor\|sistema cromático]] que hoje organiza raças e deuses. Na [[_wiki/idade_esquecida\|Idade Esquecida]], entidades brancas, verdes e azuis exerciam influência mágica com intensidade muito maior que nos tempos atuais, e os Luminares transitavam entre essas influências sem a rigidez das linhagens posteriores.
 
 A cisão fundamental era entre [[_wiki/anjos\|anjos]] e [[_wiki/titas\|titãs]]. Os que se inclinavam para os [[_wiki/titas\|titãs]] valorizavam harmonia e adaptação; os que se inclinavam para os [[_wiki/anjos\|anjos]] valorizavam pureza e julgamento. Essa tensão espiritual antecedia a fragmentação racial e acabaria por determiná-la: a divisão dos Luminares em [[_wiki/sylvano\|sylvanos]] (verdes) e [[_wiki/elarino\|elarinos]] (brancos) não foi acidental. Refletia uma cisão que já existia antes da queda.
 

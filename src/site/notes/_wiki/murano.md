@@ -77,7 +77,7 @@ Espionagem de subsistência é o único papel reconhecido. Muranos vendem inform
 
 ### Relação com Magia
 
-Cor arcana preta. Acesso pelo *[[_wiki/pactum_diaboli\|Pactum Diaboli]]*. Conjuradores muranos são tão raros que a maioria dos arcanistas duvida que existam. Longevidade mínima, fome constante e vida nômade impedem o treinamento arcano.
+[[_wiki/restricao_de_cor\|Cor arcana]] preta. Acesso pelo *[[_wiki/pactum_diaboli\|Pactum Diaboli]]*. Conjuradores muranos são tão raros que a maioria dos arcanistas duvida que existam. Longevidade mínima, fome constante e vida nômade impedem o treinamento arcano.
 
 A rede sensorial opera como habilidade proto-mágica: não consome [[_wiki/magi\|magi]], não exige invocação, não produz assinatura arcana, mas a intensidade excede o que fisiologia explicaria. Resíduo provável da interferência divina original.
 

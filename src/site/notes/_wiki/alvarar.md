@@ -5,7 +5,7 @@
 
 ### Fisiologia
 
-Humanos angelicais, tocados por sangue celestial. Aasimar. Pele clara com luminosidade sutil, olhos em tons dourados ou prateados. Presença física descrita como "esmagadora", capaz de fazer recrutas caírem de joelhos involuntariamente. Longevidade de 96-100 anos (modificador +20-25%). Cor arcana branca.
+Humanos angelicais, tocados por sangue celestial. Aasimar. Pele clara com luminosidade sutil, olhos em tons dourados ou prateados. Presença física descrita como "esmagadora", capaz de fazer recrutas caírem de joelhos involuntariamente. Longevidade de 96-100 anos (modificador +20-25%). [[_wiki/restricao_de_cor\|Cor arcana]] branca.
 
 ### Origem
 

@@ -69,7 +69,7 @@ Derros não são subjugados como [[_wiki/karashim\|karashins]] nem ignorados com
 
 ### Relação com Magia
 
-Cor arcana preta. Acesso pelo *[[_wiki/pactum_diaboli\|Pactum Diaboli]]*. A exposição arcana passiva de [[_wiki/vor-ghol\|Vor-Ghol]] dá aos derros uma sensibilidade residual a mana que não se traduz em conjuração formal. A maioria sente correntes arcanas, detecta armadilhas mágicas e percebe quando um objeto carrega encantamento, sem conseguir replicar ou manipular o efeito.
+[[_wiki/restricao_de_cor\|Cor arcana]] preta. Acesso pelo *[[_wiki/pactum_diaboli\|Pactum Diaboli]]*. A exposição arcana passiva de [[_wiki/vor-ghol\|Vor-Ghol]] dá aos derros uma sensibilidade residual a mana que não se traduz em conjuração formal. A maioria sente correntes arcanas, detecta armadilhas mágicas e percebe quando um objeto carrega encantamento, sem conseguir replicar ou manipular o efeito.
 
 Os poucos derros que praticam magia gravitam para **alquimia** e **encantamento de mecanismos**: poções de efeito brutal (as "poções de [[_wiki/dribbel_olgund\|Dribbel]]"), armadilhas arcanas, selos falsificados que imitam assinaturas mágicas oficiais. A maestria é artesanal: o derro não invoca, fabrica. O custo mágico se manifesta como **erosão sensorial**, os sentidos já aguçados pela contaminação de [[_wiki/vor-ghol\|Vor-Ghol]] se deterioram. Derros que abusam da magia ficam cegos, surdos ou perdem o tato nos dedos. Para uma raça que depende da destreza manual, perder o tato é perder tudo.
 

@@ -80,7 +80,7 @@ Alguns varglins conseguem emprego em nichos específicos: conserto de mecanismos
 
 ### Relação com Magia
 
-Cor arcana preta, como todos os [[_wiki/vulfano\|vulfanos]]. Acesso pelo *[[_wiki/pactum_diaboli\|Pactum Diaboli]]*. A prática é ainda mais rara que entre [[_wiki/worg\|worgs]]: longevidade de 40-50 anos, vida de fuga permanente, e a impossibilidade de parar num lugar tempo suficiente para estudar qualquer coisa.
+[[_wiki/restricao_de_cor\|Cor arcana]] preta, como todos os [[_wiki/vulfano\|vulfanos]]. Acesso pelo *[[_wiki/pactum_diaboli\|Pactum Diaboli]]*. A prática é ainda mais rara que entre [[_wiki/worg\|worgs]]: longevidade de 40-50 anos, vida de fuga permanente, e a impossibilidade de parar num lugar tempo suficiente para estudar qualquer coisa.
 
 Os poucos varglins que demonstram aptidão arcana gravitam para:
 - **Magia de ocultação:** tornar-se invisível, suprimir som, apagar rastro olfativo. Extensão mágica do que o corpo já faz naturalmente.

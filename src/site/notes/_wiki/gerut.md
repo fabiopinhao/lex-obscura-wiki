@@ -13,7 +13,7 @@ A distinção provou-se decisiva nas [[_wiki/guerras_reinkardicas_inicio\|Guerra
 
 ### Fisiologia
 
-Cor arcana verde. Pele de tons terrosos (oliva escuro a castanho-argila), marcada por veios esverdeados que se adensam com a idade, veias verdes sob a pele. Constituição robusta, moldada por gerações de vida em florestas e pântanos. Mãos largas, calosas, com dedos que parecem feitos para cavar. Olfato apurado para fungos e podridão vegetal. Muitos apresentam cabelos entremeados de matéria orgânica (musgo seco, fibras de casca), simbiose acidental, nunca ornamento.
+[[_wiki/restricao_de_cor\|Cor arcana]] verde. Pele de tons terrosos (oliva escuro a castanho-argila), marcada por veios esverdeados que se adensam com a idade, veias verdes sob a pele. Constituição robusta, moldada por gerações de vida em florestas e pântanos. Mãos largas, calosas, com dedos que parecem feitos para cavar. Olfato apurado para fungos e podridão vegetal. Muitos apresentam cabelos entremeados de matéria orgânica (musgo seco, fibras de casca), simbiose acidental, nunca ornamento.
 
 Longevidade de 96-100 anos. O envelhecimento segue padrão humano até os sessenta, quando a pele começa a engrossar e escurecer como couro curtido ao sol. Nos últimos anos, articulações endurecem, os veios esverdeados ficam opacos, e o gerut perde mobilidade de dentro para fora.
 

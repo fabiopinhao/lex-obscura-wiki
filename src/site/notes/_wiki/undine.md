@@ -5,7 +5,7 @@
 
 ### Fisiologia
 
-Elfos [[_wiki/siderais\|siderais]], alinhados aos oceanos, rios e lagos. Adaptados ao ambiente aquático de [[_wiki/neranthis\|Neranthis]], com pele em tons azulados ou esverdeados, membranas interdigitais vestigiais e cabelos que se movem como algas subaquáticas. Cor arcana azul. Longevidade de apenas 40 anos (modificador 50%), significativamente menor que a de outros elfos, uma característica que, ao contrário do que se poderia supor, não é defeito biológico nem degeneração evolutiva, mas consequência direta de uma escolha filosófica e espiritual (ver 17.3).
+Elfos [[_wiki/siderais\|siderais]], alinhados aos oceanos, rios e lagos. Adaptados ao ambiente aquático de [[_wiki/neranthis\|Neranthis]], com pele em tons azulados ou esverdeados, membranas interdigitais vestigiais e cabelos que se movem como algas subaquáticas. [[_wiki/restricao_de_cor\|Cor arcana]] azul. Longevidade de apenas 40 anos (modificador 50%), significativamente menor que a de outros elfos, uma característica que, ao contrário do que se poderia supor, não é defeito biológico nem degeneração evolutiva, mas consequência direta de uma escolha filosófica e espiritual (ver 17.3).
 
 ### Origem
 
@@ -33,7 +33,7 @@ A língua nativa é o [[_wiki/thalassic\|Thalassic]]: primordial, usada tanto no
 
 Quando os humanos que se tornariam [[_wiki/frenim\|frenims]] chegaram às terras orientais durante a [[_wiki/primeira_era\|Primeira Era]], encontraram os undines já estabelecidos nas costas. Os humanos buscaram o conhecimento dos elfos [[_wiki/siderais\|siderais]], mas os undines exigiram como condição a mesma renúncia que eles próprios haviam feito: abrir mão da vitalidade material para alcançar a comunhão. Os humanos recusaram. Não estavam dispostos a viver menos em troca de transcendência.
 
-Essa divergência não gerou hostilidade. Nunca houve guerra entre undines e [[_wiki/frenim\|frenims]]. Os elfos simplesmente consideraram que os humanos haviam escolhido um caminho inferior: válido, mas inferior. Os [[_wiki/frenim\|frenims]], por sua vez, encontraram rotas alternativas para acessar o [[_wiki/plano_etereo\|Plano Etéreo]], baseadas na compreensão racional em vez da entrega mística. As duas raças coexistem pacificamente em [[_wiki/neranthis\|Neranthis]], compartilhando a cor arcana e os deuses [[_wiki/siderais\|siderais]], mas divergindo no método fundamental: os undines se entregam, os [[_wiki/frenim\|frenims]] estudam.
+Essa divergência não gerou hostilidade. Nunca houve guerra entre undines e [[_wiki/frenim\|frenims]]. Os elfos simplesmente consideraram que os humanos haviam escolhido um caminho inferior: válido, mas inferior. Os [[_wiki/frenim\|frenims]], por sua vez, encontraram rotas alternativas para acessar o [[_wiki/plano_etereo\|Plano Etéreo]], baseadas na compreensão racional em vez da entrega mística. As duas raças coexistem pacificamente em [[_wiki/neranthis\|Neranthis]], compartilhando a [[_wiki/restricao_de_cor\|cor arcana]] e os deuses [[_wiki/siderais\|siderais]], mas divergindo no método fundamental: os undines se entregam, os [[_wiki/frenim\|frenims]] estudam.
 
 ### Relação com o [[_wiki/imperio_sombrio\|Império]]
 

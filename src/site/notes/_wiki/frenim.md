@@ -5,7 +5,7 @@
 
 ### Fisiologia
 
-Humanos [[_wiki/siderais\|siderais]] de [[_wiki/neranthis\|Neranthis]]. Pele pálido-esverdeada, olhos de fendas vermelhas líquidas (descrição de [[_wiki/lorvaq_val_kir\|Lorvaq]]). Constituição esguia, adaptada ao clima úmido e pantanoso de seu continente. Longevidade de aproximadamente 96-100 anos (modificador +20-25%), equivalente à de humanos comuns, embora seu estilo de vida contemplativo e a proximidade com o [[_wiki/plano_etereo\|Plano Etéreo]] sugiram uma vitalidade diferente: menos robusta, mais permeável ao sobrenatural. Cor arcana azul. Afinidade natural com magia sideral, canalizada através dos deuses do [[_wiki/plano_etereo\|Plano Etéreo]].
+Humanos [[_wiki/siderais\|siderais]] de [[_wiki/neranthis\|Neranthis]]. Pele pálido-esverdeada, olhos de fendas vermelhas líquidas (descrição de [[_wiki/lorvaq_val_kir\|Lorvaq]]). Constituição esguia, adaptada ao clima úmido e pantanoso de seu continente. Longevidade de aproximadamente 96-100 anos (modificador +20-25%), equivalente à de humanos comuns, embora seu estilo de vida contemplativo e a proximidade com o [[_wiki/plano_etereo\|Plano Etéreo]] sugiram uma vitalidade diferente: menos robusta, mais permeável ao sobrenatural. [[_wiki/restricao_de_cor\|Cor arcana]] azul. Afinidade natural com magia sideral, canalizada através dos deuses do [[_wiki/plano_etereo\|Plano Etéreo]].
 
 ### Origem
 
@@ -29,7 +29,7 @@ A capacidade de transitar entre planos marca profundamente a cultura frenim. Sã
 
 A relação entre frenims e [[_wiki/undine\|undines]] é fundadora e assimétrica. Os [[_wiki/undine\|undines]] possuíam o conhecimento que os primeiros frenims desejavam, mas recusaram transmiti-lo nos termos humanos. Não houve animosidade: os [[_wiki/undine\|undines]] simplesmente consideravam que a comunhão com os [[_wiki/siderais\|siderais]] exigia um sacrifício que os humanos não estavam dispostos a fazer. Os frenims aceitaram a recusa e trilharam seu próprio caminho.
 
-Ao longo dos séculos, as duas raças desenvolveram uma coexistência pacífica, mas pouco íntima. Os [[_wiki/undine\|undines]] recuaram para as costas oceânicas do extremo leste, cada vez mais etéreos e remotos. Os frenims consolidaram-se nas terras interiores, nos pântanos e lagos, construindo uma civilização baseada no estudo onde os [[_wiki/undine\|undines]] haviam construído uma baseada na renúncia. Compartilham a cor arcana, compartilham os deuses [[_wiki/siderais\|siderais]], mas seus caminhos para alcançá-los são fundamentalmente opostos: entrega total versus compreensão racional.
+Ao longo dos séculos, as duas raças desenvolveram uma coexistência pacífica, mas pouco íntima. Os [[_wiki/undine\|undines]] recuaram para as costas oceânicas do extremo leste, cada vez mais etéreos e remotos. Os frenims consolidaram-se nas terras interiores, nos pântanos e lagos, construindo uma civilização baseada no estudo onde os [[_wiki/undine\|undines]] haviam construído uma baseada na renúncia. Compartilham a [[_wiki/restricao_de_cor\|cor arcana]], compartilham os deuses [[_wiki/siderais\|siderais]], mas seus caminhos para alcançá-los são fundamentalmente opostos: entrega total versus compreensão racional.
 
 ### Relação com o [[_wiki/imperio_sombrio\|Império]]
 
