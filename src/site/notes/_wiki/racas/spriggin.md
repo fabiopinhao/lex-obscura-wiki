@@ -37,4 +37,4 @@ Spriggins não tinham para onde ir. Criaturas de sub-bosque em campo aberto são
 
 A referência no lore dos [[_wiki/racas/varglin\|varglins]] é precisa: "duas espécies em extinção reconhecem a semelhança silenciosamente." Spriggins e [[_wiki/racas/varglin\|varglins]] compartilham a condição de raças cujo mundo encolheu mais rápido do que elas.
 
-Na [[_references/terceira_era\|Terceira Era]], spriggins são verbete em tratados que poucos leem. O [[_wiki/organizacoes/imperio_sombrio\|Império]] não os caça, não os teme e não os usa, porque sequer sabe onde estão. A extinção é lenta, silenciosa e provavelmente irreversível.
+Na [[_wiki/conceitos/terceira_era\|Terceira Era]], spriggins são verbete em tratados que poucos leem. O [[_wiki/organizacoes/imperio_sombrio\|Império]] não os caça, não os teme e não os usa, porque sequer sabe onde estão. A extinção é lenta, silenciosa e provavelmente irreversível.

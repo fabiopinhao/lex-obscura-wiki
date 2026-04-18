@@ -17,4 +17,4 @@ A proscrição de Hazburim tem motivação adicional além do [[_wiki/magia/vinc
 
 ### Manifestação em [[_wiki/locais/niedellin\|Niedellin]]
 
-Sob a capela de [[_wiki/locais/niedellin\|Niedellin]], um altar dedicado a Hazburim permaneceu oculto por décadas: um receptáculo da [[_references/segunda_era\|Segunda Era]] que funcionava como janela entre planos, sustentado por oferendas periódicas de sangue. O crânio entalhado com moscas ocupava o centro, cercado por ampolas de sangue em pentagrama invertido. Um [[_wiki/artefatos/oculus_morvgradi\|Oculus]] de ônix servia como canal de comunicação direta com a entidade.
+Sob a capela de [[_wiki/locais/niedellin\|Niedellin]], um altar dedicado a Hazburim permaneceu oculto por décadas: um receptáculo da [[_wiki/conceitos/segunda_era\|Segunda Era]] que funcionava como janela entre planos, sustentado por oferendas periódicas de sangue. O crânio entalhado com moscas ocupava o centro, cercado por ampolas de sangue em pentagrama invertido. Um [[_wiki/artefatos/oculus_morvgradi\|Oculus]] de ônix servia como canal de comunicação direta com a entidade.

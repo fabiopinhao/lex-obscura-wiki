@@ -7,7 +7,7 @@
 
 Os templários eram a ordem de guerreiros sagrados do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]], soldados-sacerdotes pactuados com [[_wiki/cosmologia/diabos\|diabos]], protetores dos templos, braço armado da religião. Cada templário mantinha pacto individual com um diabo patrono, o que lhes conferia poder mágico considerável mas também lealdade dividida: serviam ao Culto como instituição, mas obedeciam às exigências específicas de seus deuses.
 
-A ordem era anterior a [[_wiki/personagens/arothistar\|Arothistar]]. Nasceu da unificação de [[_wiki/personagens/xarn\|Xarn]] na [[_references/segunda_era\|Segunda Era]], quando templos dispersos precisaram de proteção armada coordenada. Os templários eram a elite militar-religiosa do planalto: herdeiros de tradições marciais que combinavam combate físico com invocação diabólica.
+A ordem era anterior a [[_wiki/personagens/arothistar\|Arothistar]]. Nasceu da unificação de [[_wiki/personagens/xarn\|Xarn]] na [[_wiki/conceitos/segunda_era\|Segunda Era]], quando templos dispersos precisaram de proteção armada coordenada. Os templários eram a elite militar-religiosa do planalto: herdeiros de tradições marciais que combinavam combate físico com invocação diabólica.
 
 ### Características Institucionais
 

@@ -8,7 +8,7 @@
 - **Justiciar**: Título oficial dos juízes-executores do [[_wiki/organizacoes/imperio_sombrio\|império]]. "Juiz" em registro formal/burocrático; "Justiceiro" em registro cru/militar/cruel.
 - **Lorde Sombrio**: Designação de status para [[_wiki/racas/shadar\|shadars]] de alta hierarquia.
 - **[[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]]**: "Palavra do Soberano." Primeira seção do [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]]: decretos diretos de [[_wiki/personagens/arothistar\|Arothistar]]. Supremacia sobre a [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]].
-- **[[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]]**: "Lei das Sombras." Código legal do [[_wiki/organizacoes/imperio_sombrio\|império]], criado por [[_wiki/locais/xarn_zareth\|Xarn]] na [[_references/segunda_era\|Segunda Era]]. Segunda seção do Codex.
+- **[[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]]**: "Lei das Sombras." Código legal do [[_wiki/organizacoes/imperio_sombrio\|império]], criado por [[_wiki/locais/xarn_zareth\|Xarn]] na [[_wiki/conceitos/segunda_era\|Segunda Era]]. Segunda seção do Codex.
 - **[[_wiki/cosmologia/noctiluz\|Noctiluz]]**: Luz sombria emitida por fissuras no céu sobre o planalto [[_wiki/racas/shadar\|shadar]]. Surge durante eventos significativos.
 - **Canalizador**: Termo imperial para druidas. Uso oficial e depreciativo.
 - **[[_wiki/racas/pindoriar\|Pindoriar]]**: Designação pejorativa imperial para humanos e elfos subjugados. Não é raça: é condição social.

@@ -3,7 +3,7 @@
 ---
 
 
-**Origem:** Arma [[_wiki/linguas/luminar\|Luminar]] da [[_references/idade_esquecida\|Idade Esquecida]], criada por elfos [[_wiki/racas/luminares\|Luminares]] (raça extinta) com propósito original de genocídio de dragões e [[_wiki/racas/draconideo\|draconídeos]]. É a ÚNICA arma deste tipo que ainda existe no mundo.
+**Origem:** Arma [[_wiki/linguas/luminar\|Luminar]] da [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]], criada por elfos [[_wiki/racas/luminares\|Luminares]] (raça extinta) com propósito original de genocídio de dragões e [[_wiki/racas/draconideo\|draconídeos]]. É a ÚNICA arma deste tipo que ainda existe no mundo.
 
 **Características:**
 

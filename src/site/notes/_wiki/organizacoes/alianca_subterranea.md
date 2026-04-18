@@ -5,7 +5,7 @@
 
 ### Origem e Função
 
-Pacto político entre [[_wiki/racas/shadar\|shadars]] e [[_wiki/racas/drul\|druls]], arquitetado por [[_wiki/personagens/xarn\|Xarn]] na [[_references/segunda_era\|Segunda Era]] quando unificou [[_wiki/locais/morvgrad\|Morvgrad]] e estabeleceu relações formais com [[_wiki/locais/ghilanna\|Ghilanna]]. A Aliança possibilitou troca cultural inédita entre raças: [[_wiki/racas/shadar\|shadars]] absorveram cultura de segredo [[_wiki/racas/drul\|drul]] (base dos [[_wiki/organizacoes/templarios\|templários]]), [[_wiki/racas/drul\|druls]] ganharam acesso a recursos da superfície e proteção militar.
+Pacto político entre [[_wiki/racas/shadar\|shadars]] e [[_wiki/racas/drul\|druls]], arquitetado por [[_wiki/personagens/xarn\|Xarn]] na [[_wiki/conceitos/segunda_era\|Segunda Era]] quando unificou [[_wiki/locais/morvgrad\|Morvgrad]] e estabeleceu relações formais com [[_wiki/locais/ghilanna\|Ghilanna]]. A Aliança possibilitou troca cultural inédita entre raças: [[_wiki/racas/shadar\|shadars]] absorveram cultura de segredo [[_wiki/racas/drul\|drul]] (base dos [[_wiki/organizacoes/templarios\|templários]]), [[_wiki/racas/drul\|druls]] ganharam acesso a recursos da superfície e proteção militar.
 
 ### Mecânica da Aliança
 

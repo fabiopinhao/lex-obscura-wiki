@@ -5,7 +5,7 @@
 
 ### Perfil
 
-[[_wiki/racas/gerut\|Gerut]] (raça). Mestre errante, sem cátedra nem sobrenome. Praticante da magia [[_wiki/magia/teru\|Teru]]. Fundador da [[_wiki/cosmologia/doutrina_da_alma\|Doutrina da Alma]]. Viveu no fim da [[_references/segunda_era\|Segunda Era]], anterior às Guerras Reinkárdicas. Status: morto (histórico).
+[[_wiki/racas/gerut\|Gerut]] (raça). Mestre errante, sem cátedra nem sobrenome. Praticante da magia [[_wiki/magia/teru\|Teru]]. Fundador da [[_wiki/cosmologia/doutrina_da_alma\|Doutrina da Alma]]. Viveu no fim da [[_wiki/conceitos/segunda_era\|Segunda Era]], anterior às Guerras Reinkárdicas. Status: morto (histórico).
 
 ### Papel Narrativo
 

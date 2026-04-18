@@ -9,9 +9,9 @@ Descendentes diretos dos [[_wiki/racas/luminares\|Luminares]], os mais próximos
 
 ### Cultura e Sociedade
 
-Refugiaram-se em [[_wiki/locais/elenir\|Elenir]] após a destruição dos [[_wiki/racas/luminares\|Luminares]] na [[_references/primeira_era\|Primeira Era]], escolhendo regiões mágicas de difícil acesso. [[_wiki/locais/elenir\|Elenir]] é seu refúgio mais famoso, mas não o único. Sociedade organizada em torno da preservação do conhecimento ancestral, mantendo bibliotecas arcanas, observatórios celestiais e oficinas de artefatos que tentam reproduzir (sem sucesso) as obras dos [[_wiki/racas/luminares\|Luminares]].
+Refugiaram-se em [[_wiki/locais/elenir\|Elenir]] após a destruição dos [[_wiki/racas/luminares\|Luminares]] na [[_wiki/conceitos/primeira_era\|Primeira Era]], escolhendo regiões mágicas de difícil acesso. [[_wiki/locais/elenir\|Elenir]] é seu refúgio mais famoso, mas não o único. Sociedade organizada em torno da preservação do conhecimento ancestral, mantendo bibliotecas arcanas, observatórios celestiais e oficinas de artefatos que tentam reproduzir (sem sucesso) as obras dos [[_wiki/racas/luminares\|Luminares]].
 
-Na [[_references/primeira_era\|Primeira Era]], foram os primeiros elfos a assimilar aspectos da cultura humana, fundindo tradições élficas com a magia Sancta. Dessa aproximação surgiram os primeiros meio-elfos, fruto de uniões entre elarinos e [[_wiki/racas/alvarar\|álvarars]]. Na [[_references/segunda_era\|Segunda Era]], [[_wiki/locais/elenir\|Elenir]] aliou-se a [[_wiki/locais/myrgarde\|Myrgarde]] como parceira estratégica contra as ameaças do planalto.
+Na [[_wiki/conceitos/primeira_era\|Primeira Era]], foram os primeiros elfos a assimilar aspectos da cultura humana, fundindo tradições élficas com a magia Sancta. Dessa aproximação surgiram os primeiros meio-elfos, fruto de uniões entre elarinos e [[_wiki/racas/alvarar\|álvarars]]. Na [[_wiki/conceitos/segunda_era\|Segunda Era]], [[_wiki/locais/elenir\|Elenir]] aliou-se a [[_wiki/locais/myrgarde\|Myrgarde]] como parceira estratégica contra as ameaças do planalto.
 
 ### Relação com o [[_wiki/organizacoes/imperio_sombrio\|Império]]
 
@@ -27,4 +27,4 @@ Após as Guerras Reinkárdicas, [[_wiki/locais/elenir\|Elenir]] foi conquistada.
 - **Rigidez tradicionalista:** Apego às formas dos [[_wiki/racas/luminares\|Luminares]] impede adaptação a novas ameaças
 - **Número reduzido:** Poucos elarinos puros restam, a maioria dispersa ou subjugada
 
-**Fontes:** Cronologia 3.10 (§10.1-10.2); Personagens 3.13 (§13.6 [[_wiki/personagens/iluvrae\|Ilúvrae]]); TSV 2.1; Cronologia 3.10 ([[_references/primeira_era\|Primeira Era]]); Outline 6.1 (cap. 13); Mapa de Mistérios 4.2 (13.7 nexus silenciados)
+**Fontes:** Cronologia 3.10 (§10.1-10.2); Personagens 3.13 (§13.6 [[_wiki/personagens/iluvrae\|Ilúvrae]]); TSV 2.1; Cronologia 3.10 ([[_wiki/conceitos/primeira_era\|Primeira Era]]); Outline 6.1 (cap. 13); Mapa de Mistérios 4.2 (13.7 nexus silenciados)

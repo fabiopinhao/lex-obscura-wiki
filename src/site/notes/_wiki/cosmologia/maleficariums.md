@@ -9,4 +9,4 @@ Maleficariums são escrituras demonológicas do antigo [[_wiki/organizacoes/impe
 
 ### Origem e Expansão
 
-Compilados inicialmente na antiga fortaleza de [[_wiki/locais/therion\|Therion]] durante a [[_references/primeira_era\|Primeira Era]] por escribas [[_wiki/racas/shadar\|shadars]] e cultistas humanos. Após o Exílio [[_wiki/racas/shadar\|Shadar]], os códices foram expandidos por clérigos [[_wiki/racas/alvarar\|álvarars]] nos templos de [[_wiki/locais/myrgarde\|Myrgarde]], que adicionaram métodos de identificação e banimento.
+Compilados inicialmente na antiga fortaleza de [[_wiki/locais/therion\|Therion]] durante a [[_wiki/conceitos/primeira_era\|Primeira Era]] por escribas [[_wiki/racas/shadar\|shadars]] e cultistas humanos. Após o Exílio [[_wiki/racas/shadar\|Shadar]], os códices foram expandidos por clérigos [[_wiki/racas/alvarar\|álvarars]] nos templos de [[_wiki/locais/myrgarde\|Myrgarde]], que adicionaram métodos de identificação e banimento.

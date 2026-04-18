@@ -9,7 +9,7 @@ Humanos [[_wiki/cosmologia/siderais\|siderais]] de [[_wiki/locais/neranthis\|Ner
 
 ### Origem
 
-Descendem de humanos que migraram para as regiões orientais de [[_wiki/locais/reinkard\|Reinkard]] durante a [[_references/primeira_era\|Primeira Era]], afastando-se das guerras que consumiam o centro do continente. Esses colonos buscavam sobrevivência, não transcendência, mas a travessia os levou até as costas e as terras alagadiças onde os [[_wiki/racas/undine\|undines]] já habitavam havia gerações.
+Descendem de humanos que migraram para as regiões orientais de [[_wiki/locais/reinkard\|Reinkard]] durante a [[_wiki/conceitos/primeira_era\|Primeira Era]], afastando-se das guerras que consumiam o centro do continente. Esses colonos buscavam sobrevivência, não transcendência, mas a travessia os levou até as costas e as terras alagadiças onde os [[_wiki/racas/undine\|undines]] já habitavam havia gerações.
 
 O encontro entre as duas raças definiu o destino dos frenims. Os [[_wiki/racas/undine\|undines]], elfos que haviam renunciado à materialidade em favor da comunhão com os deuses [[_wiki/cosmologia/siderais\|siderais]], possuíam um conhecimento arcano que os recém-chegados humanos cobiçaram. Muitos tentaram ser aceitos nos círculos contemplativos das [[_wiki/racas/undine\|undines]], aspirando à mesma ligação com os [[_wiki/cosmologia/siderais\|siderais]]. Foram em grande parte rejeitados: os [[_wiki/racas/undine\|undines]] exigiam que os aspirantes abrissem mão de sua vitalidade para alcançar a comunhão, e os humanos se recusaram a encurtar suas vidas em troca de transcendência.
 

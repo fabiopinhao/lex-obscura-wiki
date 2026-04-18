@@ -9,7 +9,7 @@ Abbhal se manifesta como um anjo caído: asas de penas enegrecidas com veios de 
 
 ### A Queda
 
-Abbhal não escolheu cair. Quando os humanos que participaram do massacre dos [[_wiki/racas/luminares\|Luminares]] se dividiram na [[_references/primeira_era\|Primeira Era]], a própria partição gerou a queda. Os que abraçaram a culpa tornaram-se [[_wiki/racas/shadar\|shadars]]; os que buscaram absolvição tornaram-se [[_wiki/racas/alvarar\|álvarars]]. Nesse momento de cisão, algo se rompeu também na esfera angelical. Abbhal, até então vinculado ao panteão luminoso, foi arrastado para o lado sombrio pelo peso coletivo dos que escolheram a escuridão. Não houve rebelião. Não houve traição. Apenas uma fratura ontológica que partiu uma raça e levou um anjo junto.
+Abbhal não escolheu cair. Quando os humanos que participaram do massacre dos [[_wiki/racas/luminares\|Luminares]] se dividiram na [[_wiki/conceitos/primeira_era\|Primeira Era]], a própria partição gerou a queda. Os que abraçaram a culpa tornaram-se [[_wiki/racas/shadar\|shadars]]; os que buscaram absolvição tornaram-se [[_wiki/racas/alvarar\|álvarars]]. Nesse momento de cisão, algo se rompeu também na esfera angelical. Abbhal, até então vinculado ao panteão luminoso, foi arrastado para o lado sombrio pelo peso coletivo dos que escolheram a escuridão. Não houve rebelião. Não houve traição. Apenas uma fratura ontológica que partiu uma raça e levou um anjo junto.
 
 ### Domínio
 

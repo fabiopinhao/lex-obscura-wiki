@@ -9,7 +9,7 @@ Estatueta de obsidiana entregue por [[_wiki/personagens/nyx_ara\|Nyx'Ara]] (orá
 
 **Função Narrativa:**
 
-A estatueta catalisou a transformação de [[_wiki/personagens/arothistar\|Dravmir]] em [[_wiki/personagens/arothistar\|Arothistar]]. Guiou-o até um pedestal oculto atrás de porta esquecida no porão da capela de [[_wiki/locais/niedellin\|Niedellin]]. As formas da estatueta remetem aos [[_wiki/cosmologia/maleficariums\|Maleficariums]], códices demonológicos compilados em [[_wiki/locais/therion\|Therion]] durante a [[_references/primeira_era\|Primeira Era]]. Aquecia em lugares sagrados, sinalizando proximidade de energia divina residual.
+A estatueta catalisou a transformação de [[_wiki/personagens/arothistar\|Dravmir]] em [[_wiki/personagens/arothistar\|Arothistar]]. Guiou-o até um pedestal oculto atrás de porta esquecida no porão da capela de [[_wiki/locais/niedellin\|Niedellin]]. As formas da estatueta remetem aos [[_wiki/cosmologia/maleficariums\|Maleficariums]], códices demonológicos compilados em [[_wiki/locais/therion\|Therion]] durante a [[_wiki/conceitos/primeira_era\|Primeira Era]]. Aquecia em lugares sagrados, sinalizando proximidade de energia divina residual.
 
 **Status Atual:**
 

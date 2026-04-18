@@ -5,7 +5,7 @@
 
 ### Natureza
 
-A Lex Obscura ("Lei das Sombras") é o código legal do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], criado por [[_wiki/personagens/xarn\|Xarn]] na [[_references/segunda_era\|Segunda Era]] como fundamento jurídico-religioso comum que subordinou cultos locais a uma estrutura central. Constitui a segunda seção do [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]], organizada por categorias: traição, heresia, desobediência, negligência. Atualizada a cada década, inclui precedentes e jurisprudências vinculantes, define punições e exceções.
+A Lex Obscura ("Lei das Sombras") é o código legal do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], criado por [[_wiki/personagens/xarn\|Xarn]] na [[_wiki/conceitos/segunda_era\|Segunda Era]] como fundamento jurídico-religioso comum que subordinou cultos locais a uma estrutura central. Constitui a segunda seção do [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]], organizada por categorias: traição, heresia, desobediência, negligência. Atualizada a cada década, inclui precedentes e jurisprudências vinculantes, define punições e exceções.
 
 O nome dá título à trilogia.
 

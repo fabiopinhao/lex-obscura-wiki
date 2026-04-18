@@ -9,7 +9,7 @@ Elfos [[_wiki/cosmologia/siderais\|siderais]], alinhados aos oceanos, rios e lag
 
 ### Origem
 
-Descendem de uma facção de [[_wiki/racas/luminares\|Luminares]] (os elfos da luz originais) que migrou para as regiões do leste de [[_wiki/locais/reinkard\|Reinkard]] durante a [[_references/idade_esquecida\|Idade Esquecida]]. Enquanto outros ramos élficos se fixaram em florestas, montanhas ou cidades, essa facção seguiu para as costas e terras alagadiças, isolando-se progressivamente das regiões mais povoadas do continente.
+Descendem de uma facção de [[_wiki/racas/luminares\|Luminares]] (os elfos da luz originais) que migrou para as regiões do leste de [[_wiki/locais/reinkard\|Reinkard]] durante a [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]]. Enquanto outros ramos élficos se fixaram em florestas, montanhas ou cidades, essa facção seguiu para as costas e terras alagadiças, isolando-se progressivamente das regiões mais povoadas do continente.
 
 Nas terras orientais, esses elfos davam pouca importância à vida material. Meditavam, contemplavam os ciclos celestes e buscavam comunhão com os deuses [[_wiki/cosmologia/siderais\|siderais]]. Com o tempo, suas vidas tornaram-se mais efêmeras, menos vinculadas à terra e ao tangível. Dominaram os mares e as regiões costeiras, e essa presença atraiu os [[_wiki/cosmologia/siderais\|deuses azuis]], que os guiaram para uma existência cada vez mais etérea. Não foi conquista nem acidente: foi uma migração lenta e deliberada do material para o transcendente.
 
@@ -31,7 +31,7 @@ A língua nativa é o [[_wiki/linguas/thalassic\|Thalassic]]: primordial, usada 
 
 ### Relação com os [[_wiki/racas/frenim\|Frenims]]
 
-Quando os humanos que se tornariam [[_wiki/racas/frenim\|frenims]] chegaram às terras orientais durante a [[_references/primeira_era\|Primeira Era]], encontraram os undines já estabelecidos nas costas. Os humanos buscaram o conhecimento dos elfos [[_wiki/cosmologia/siderais\|siderais]], mas os undines exigiram como condição a mesma renúncia que eles próprios haviam feito: abrir mão da vitalidade material para alcançar a comunhão. Os humanos recusaram. Não estavam dispostos a viver menos em troca de transcendência.
+Quando os humanos que se tornariam [[_wiki/racas/frenim\|frenims]] chegaram às terras orientais durante a [[_wiki/conceitos/primeira_era\|Primeira Era]], encontraram os undines já estabelecidos nas costas. Os humanos buscaram o conhecimento dos elfos [[_wiki/cosmologia/siderais\|siderais]], mas os undines exigiram como condição a mesma renúncia que eles próprios haviam feito: abrir mão da vitalidade material para alcançar a comunhão. Os humanos recusaram. Não estavam dispostos a viver menos em troca de transcendência.
 
 Essa divergência não gerou hostilidade. Nunca houve guerra entre undines e [[_wiki/racas/frenim\|frenims]]. Os elfos simplesmente consideraram que os humanos haviam escolhido um caminho inferior: válido, mas inferior. Os [[_wiki/racas/frenim\|frenims]], por sua vez, encontraram rotas alternativas para acessar o [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]], baseadas na compreensão racional em vez da entrega mística. As duas raças coexistem pacificamente em [[_wiki/locais/neranthis\|Neranthis]], compartilhando a [[_wiki/cosmologia/restricao_de_cor\|cor arcana]] e os deuses [[_wiki/cosmologia/siderais\|siderais]], mas divergindo no método fundamental: os undines se entregam, os [[_wiki/racas/frenim\|frenims]] estudam.
 

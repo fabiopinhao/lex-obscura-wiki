@@ -65,12 +65,12 @@ O Cravo é a moeda do povo. "Não vale um cravo" equivale a "não vale nada". Gn
 
 As eras têm durações variáveis e não servem como unidade de medida. Cada era é recordada de forma diferente conforme a perspectiva.
 
-- **[[_references/idade_esquecida\|Idade Esquecida]]** — Imperial: O Tempo dos [[_wiki/racas/luminares\|Luminares]] | Subjugados: O Tempo dos [[_wiki/racas/luminares\|Luminares]] | Erudito: *Aetas Lucis*
-- **[[_references/primeira_era\|Primeira Era]]** — Imperial: O Êxodo | Subjugados: A Era das Alianças | Erudito: *Aetas Primaeva*
-- **[[_references/segunda_era\|Segunda Era]]** — Imperial: A Era da Conquista | Subjugados: A Paz Iludida | Erudito: *Aetas Duorum*
-- **[[_references/terceira_era\|Terceira Era]]** — Imperial: A Era de [[_wiki/personagens/arothistar\|Arothistar]] | Subjugados: A Longa Noite | Erudito: *Aetas Umbrae*
+- **[[_wiki/conceitos/idade_esquecida\|Idade Esquecida]]** — Imperial: O Tempo dos [[_wiki/racas/luminares\|Luminares]] | Subjugados: O Tempo dos [[_wiki/racas/luminares\|Luminares]] | Erudito: *Aetas Lucis*
+- **[[_wiki/conceitos/primeira_era\|Primeira Era]]** — Imperial: O Êxodo | Subjugados: A Era das Alianças | Erudito: *Aetas Primaeva*
+- **[[_wiki/conceitos/segunda_era\|Segunda Era]]** — Imperial: A Era da Conquista | Subjugados: A Paz Iludida | Erudito: *Aetas Duorum*
+- **[[_wiki/conceitos/terceira_era\|Terceira Era]]** — Imperial: A Era de [[_wiki/personagens/arothistar\|Arothistar]] | Subjugados: A Longa Noite | Erudito: *Aetas Umbrae*
 
-O apelido imperial da [[_references/terceira_era\|Terceira Era]] é debatido: nem todos os [[_wiki/racas/shadar\|shadars]] concordam em nomear a era por um único monarca.
+O apelido imperial da [[_wiki/conceitos/terceira_era\|Terceira Era]] é debatido: nem todos os [[_wiki/racas/shadar\|shadars]] concordam em nomear a era por um único monarca.
 
 ### Expressões de Medida
 

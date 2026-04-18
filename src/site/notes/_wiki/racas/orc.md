@@ -39,7 +39,7 @@ O [[_wiki/organizacoes/imperio_sombrio\|Império]] alterou essa estrutura de dua
 
 A formalização militar ocorreu nas [[_wiki/eventos/guerras_reinkardicas_inicio\|Guerras Reinkárdicas]], quando o ciclo tributos → goblinoides → exércitos → conquistas transformou orcs em ponta de lança das campanhas sombrias. [[_wiki/racas/shadar\|Shadars]] e [[_wiki/racas/drul\|druls]] recuaram para posições de comando enquanto orcs sangravam na vanguarda. As legiões imperiais mantêm capitães orcs subordinados a oficiais [[_wiki/racas/shadar\|shadars]], com [[_wiki/racas/goblin\|goblins]] gerenciando a logística das fortalezas, porque alimentar um orc custa mais que três homens e mais que cinco elfos, e rende metade da disciplina.
 
-Na [[_references/terceira_era\|Terceira Era]], migrações de orcs selvagens pressionam o planalto fora do protocolo de seleção imperial, em números altos o bastante para preocupar o [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]].
+Na [[_wiki/conceitos/terceira_era\|Terceira Era]], migrações de orcs selvagens pressionam o planalto fora do protocolo de seleção imperial, em números altos o bastante para preocupar o [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]].
 
 ### Cultura e Costumes
 
@@ -87,7 +87,7 @@ Exemplos de diálogo:
 
 ### Conflitos Internos
 
-A tensão central dos orcs na [[_references/terceira_era\|Terceira Era]] é a fratura entre os domesticados e os selvagens. Orcs imperiais servem, obedecem, sangram e morrem dentro de uma estrutura que os alimenta mas os descarta. Orcs selvagens das [[_wiki/locais/dorsal\|cordilheiras do norte]] mantêm a organização tribal, a liberdade e a fome. As migrações irregulares que pressionam o planalto são sintoma de uma crise demográfica nas montanhas (território esgotado, dragões, conflito entre tribos), e o [[_wiki/organizacoes/conselho_sombrio\|Conselho]] as trata como problema logístico, não como sinal de algo maior.
+A tensão central dos orcs na [[_wiki/conceitos/terceira_era\|Terceira Era]] é a fratura entre os domesticados e os selvagens. Orcs imperiais servem, obedecem, sangram e morrem dentro de uma estrutura que os alimenta mas os descarta. Orcs selvagens das [[_wiki/locais/dorsal\|cordilheiras do norte]] mantêm a organização tribal, a liberdade e a fome. As migrações irregulares que pressionam o planalto são sintoma de uma crise demográfica nas montanhas (território esgotado, dragões, conflito entre tribos), e o [[_wiki/organizacoes/conselho_sombrio\|Conselho]] as trata como problema logístico, não como sinal de algo maior.
 
 Dentro do [[_wiki/organizacoes/imperio_sombrio\|Império]], o descarte de veteranos corrói a lealdade de qualquer orc inteligente o bastante para contar os anos. [[_wiki/personagens/grothar\|Grothar]] é exceção por estar vinculado a um [[_wiki/organizacoes/justiciars\|Justiciar]] que o trata como soldado, com nome e utilidade além do descarte, mas a maioria dos orcs imperiais sabe que a "aposentadoria" é eufemismo. Essa consciência gera dois comportamentos opostos: busca desesperada por morte gloriosa em combate (preferível ao descarte silencioso), ou acúmulo de lealdades pessoais com oficiais que possam protegê-los quando o corpo falhar.
 

@@ -11,9 +11,9 @@ A Teoria Materialista, formulada por [[_wiki/personagens/jospin_valheorn\|Jospin
 
 ### Oposição: [[_wiki/cosmologia/doutrina_da_alma\|Doutrina da Alma]]
 
-A posição oposta é a [[_wiki/cosmologia/doutrina_da_alma\|Doutrina da Alma]] de [[_wiki/personagens/naiu_wula\|Naiu'Wula]], mestre [[_wiki/racas/gerut\|gerut]] do fim da [[_references/segunda_era\|Segunda Era]]. [[_wiki/personagens/naiu_wula\|Naiu'Wula]] ensinava que toda magia nasce da alma, e que [[_wiki/cosmologia/magi\|magi]] é apenas "rastro da alma no mundo, não sua chama." Deuses são almas antigas e vastas; mortais são almas jovens potencialmente despertáveis. A [[_wiki/cosmologia/doutrina_da_alma\|Doutrina da Alma]] fundamenta a prática do [[_wiki/magia/teru\|Teru]] e influencia diretamente a tradição dos [[_wiki/organizacoes/justiciars\|Justiciars]], que dominam magia sem pactos divinos.
+A posição oposta é a [[_wiki/cosmologia/doutrina_da_alma\|Doutrina da Alma]] de [[_wiki/personagens/naiu_wula\|Naiu'Wula]], mestre [[_wiki/racas/gerut\|gerut]] do fim da [[_wiki/conceitos/segunda_era\|Segunda Era]]. [[_wiki/personagens/naiu_wula\|Naiu'Wula]] ensinava que toda magia nasce da alma, e que [[_wiki/cosmologia/magi\|magi]] é apenas "rastro da alma no mundo, não sua chama." Deuses são almas antigas e vastas; mortais são almas jovens potencialmente despertáveis. A [[_wiki/cosmologia/doutrina_da_alma\|Doutrina da Alma]] fundamenta a prática do [[_wiki/magia/teru\|Teru]] e influencia diretamente a tradição dos [[_wiki/organizacoes/justiciars\|Justiciars]], que dominam magia sem pactos divinos.
 
-Os dois filósofos nunca se cruzaram. [[_wiki/personagens/jospin_valheorn\|Jospin]] viveu antes, durante as Guerras Reinkárdicas; [[_wiki/personagens/naiu_wula\|Naiu'Wula]] no fim da [[_references/segunda_era\|Segunda Era]]. O materialismo e o espiritualismo como opostos que nunca se reconheceram.
+Os dois filósofos nunca se cruzaram. [[_wiki/personagens/jospin_valheorn\|Jospin]] viveu antes, durante as Guerras Reinkárdicas; [[_wiki/personagens/naiu_wula\|Naiu'Wula]] no fim da [[_wiki/conceitos/segunda_era\|Segunda Era]]. O materialismo e o espiritualismo como opostos que nunca se reconheceram.
 
 ### Adoção e Supressão
 

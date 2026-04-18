@@ -59,4 +59,4 @@ Tentar manipular os condutos do [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]]
 
 ### Declínio
 
-Na [[_references/idade_esquecida\|Idade Esquecida]], os canais respondiam com generosidade e imediatez. Desde a fragmentação dos [[_wiki/racas/luminares\|Luminares]], o [[_wiki/cosmologia/magi\|magi]] torna-se progressivamente mais ralo a cada era. Dragões anciãos percebem que a terra responde com menos vigor e os deuses se manifestam com esforço perceptível. O canal [[_wiki/cosmologia/magi\|magi]] não é imune a esse declínio: formar vínculos exige mais do conjurador, e a resposta divina chega mais fraca.
+Na [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]], os canais respondiam com generosidade e imediatez. Desde a fragmentação dos [[_wiki/racas/luminares\|Luminares]], o [[_wiki/cosmologia/magi\|magi]] torna-se progressivamente mais ralo a cada era. Dragões anciãos percebem que a terra responde com menos vigor e os deuses se manifestam com esforço perceptível. O canal [[_wiki/cosmologia/magi\|magi]] não é imune a esse declínio: formar vínculos exige mais do conjurador, e a resposta divina chega mais fraca.

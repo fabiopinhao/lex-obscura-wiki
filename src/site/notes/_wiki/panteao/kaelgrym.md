@@ -17,7 +17,7 @@ A afinidade com os [[_wiki/cosmologia/diabos\|diabos]] decorre de [[_wiki/escola
 
 Kaelgrym é o deus-dragão dos drakhonins de [[_wiki/locais/varnak\|Varnak]] e [[_wiki/locais/veinkard\|Veinkard]]. O vínculo antecede [[_wiki/personagens/arothistar\|Arothistar]] em milênios. [[_wiki/racas/draconideo\|Draconídeos]] são vinculados a Kaelgrym desde o ovo: no ritual de passagem obrigatório, ovos são banhados em sangue ritual e expostos ao sopro de fogo de um ancião. Os que sobrevivem ao calor nascem; os que não sobrevivem são considerados purificação natural.
 
-Essa vinculação universal tem consequência arcana direta: nenhum [[_wiki/racas/draconideo\|drakhonin]] pode empunhar artefatos [[_wiki/racas/luminares\|Luminares]]. A [[_wiki/artefatos/fendris\|Fendris]], forjada na [[_references/idade_esquecida\|Idade Esquecida]] para ferir dragões anciões, responde apenas a mãos livres de pacto.
+Essa vinculação universal tem consequência arcana direta: nenhum [[_wiki/racas/draconideo\|drakhonin]] pode empunhar artefatos [[_wiki/racas/luminares\|Luminares]]. A [[_wiki/artefatos/fendris\|Fendris]], forjada na [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]] para ferir dragões anciões, responde apenas a mãos livres de pacto.
 
 ### Relação com [[_wiki/personagens/arothistar\|Arothistar]]
 

@@ -45,7 +45,7 @@ Por trás da desconfiança operacional havia convicção filosófica:
 - **[[_wiki/racas/shadar\|Shadars]] = humanos**: ordeiros, pragmáticos, adaptáveis ao poder centralizado
 - **[[_wiki/racas/drul\|Druls]] = elfos**: presos a tradições matriarcais, avessos à hierarquia vertical, perigosamente autônomos
 
-A [[_references/terceira_era\|Terceira Era]] exigia **concentração de poder** sem espaço para lealdades paralelas. Os [[_wiki/organizacoes/templarios\|templários]] representavam o velho mundo onde [[_wiki/cosmologia/diabos\|diabos]] e matriarcas compartilhavam autoridade com o Conselho. Os Justiciars representavam o novo: monarca absoluto, leis escritas, obediência vertical.
+A [[_wiki/conceitos/terceira_era\|Terceira Era]] exigia **concentração de poder** sem espaço para lealdades paralelas. Os [[_wiki/organizacoes/templarios\|templários]] representavam o velho mundo onde [[_wiki/cosmologia/diabos\|diabos]] e matriarcas compartilhavam autoridade com o Conselho. Os Justiciars representavam o novo: monarca absoluto, leis escritas, obediência vertical.
 
 #### Consequências Estruturais
 

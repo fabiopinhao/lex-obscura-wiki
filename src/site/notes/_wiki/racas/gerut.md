@@ -5,7 +5,7 @@
 
 ### Origem
 
-Na [[_references/idade_esquecida\|Idade Esquecida]], quando humanos expandiam-se de tribos para reinos e pressionavam fronteiras élficas, os geruts recusaram a marcha. Originários das matas e pântanos do sudeste do continente, viviam como pescadores e cultivadores de arroz selvagem. Permaneceram nas florestas enquanto a maioria formava o [[_wiki/organizacoes/imperio_sombrio\|Império]] Central (futura [[_wiki/locais/myrgarde\|Myrgarde]]). Os [[_wiki/linguas/luminar\|Luminares]], reconhecendo a postura pacífica, autorizaram-nos a habitar as bordas de seus territórios. Com o tempo, os geruts adentraram as florestas e não mais saíram.
+Na [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]], quando humanos expandiam-se de tribos para reinos e pressionavam fronteiras élficas, os geruts recusaram a marcha. Originários das matas e pântanos do sudeste do continente, viviam como pescadores e cultivadores de arroz selvagem. Permaneceram nas florestas enquanto a maioria formava o [[_wiki/organizacoes/imperio_sombrio\|Império]] Central (futura [[_wiki/locais/myrgarde\|Myrgarde]]). Os [[_wiki/linguas/luminar\|Luminares]], reconhecendo a postura pacífica, autorizaram-nos a habitar as bordas de seus territórios. Com o tempo, os geruts adentraram as florestas e não mais saíram.
 
 A escolha primordial define tudo: são humanos que abraçaram o verde em vez do trono. Durante a [[_wiki/eventos/pax_alabastrina\|Pax Alabastrina]], tribos de fronteira mantiveram trocas com os reinos (peles e saberes florestais por ferramentas e sal), convivência pragmática sem submissão. Outras tribos, as que habitavam florestas remotas e espessas, permaneciam tão isoladas quanto os próprios [[_wiki/racas/sylvano\|sylvanos]].
 

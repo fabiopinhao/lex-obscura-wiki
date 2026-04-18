@@ -11,8 +11,8 @@ Nem homem, nem besta. Habitam o limiar entre civilização e selvageria. Conscie
 
 **As origens dos worgs são matéria de disputa entre sábios, sem consenso canônico:**
 
-**- Corrupção Druídica: antigos metamorfos que ficaram presos entre formas durante ritual corrompido na [[_references/primeira_era\|Primeira Era]]. A floresta os rejeitou, a civilização os temeu, restando apenas os espaços entre ambas.**
-**- Experimento Sombrio: criações deliberadas de arcanistas da [[_references/segunda_era\|Segunda Era]], tentando produzir soldados com força bestial e inteligência humana. Bem-sucedidos demais para serem controlados, não o suficiente para serem replicados.**
+**- Corrupção Druídica: antigos metamorfos que ficaram presos entre formas durante ritual corrompido na [[_wiki/conceitos/primeira_era\|Primeira Era]]. A floresta os rejeitou, a civilização os temeu, restando apenas os espaços entre ambas.**
+**- Experimento Sombrio: criações deliberadas de arcanistas da [[_wiki/conceitos/segunda_era\|Segunda Era]], tentando produzir soldados com força bestial e inteligência humana. Bem-sucedidos demais para serem controlados, não o suficiente para serem replicados.**
 **- Evolução Planar: lobos expostos a energias planares por gerações em regiões onde o véu entre planos é fino. Desenvolveram consciência, polegares opositores e amargura existencial.**
 
 **As três teorias não são mutuamente excludentes; diferentes linhagens de worgs podem ter origens distintas, convergindo para forma similar por pressão de sobrevivência.**
@@ -64,11 +64,11 @@ Nessas alcateias, worgs e [[_wiki/racas/varglin\|varglins]] coexistiam em simbio
 
 📝 *Para a ruptura worg-varglin e o destino dos [[_wiki/racas/varglin\|varglins]], ver [[_wiki/racas/vulfano\|vulfano]].*
 
-#### Alcateias Modernas ([[_references/terceira_era\|Terceira Era]])
+#### Alcateias Modernas ([[_wiki/conceitos/terceira_era\|Terceira Era]])
 
 Na prática, a alcateia como estrutura não existe mais. Worgs urbanos vivem em grupos fluidos, sem a formalidade tribal: agrupamentos de conveniência nos bairros periféricos, distritos de armazéns, esgotos e zonas portuárias. Quando uma cidade se torna hostil, migram. Não reivindicam terra porque reivindicar é chamar atenção, e atenção é morte.
 
-A população worg está em declínio. Na [[_references/terceira_era\|Terceira Era]], encontrar parceiros é difícil: a dispersão urbana separa indivíduos, a coleira mágica dificulta encontros clandestinos, e a expectativa de vida reduzida por violência (média real: 40 anos) impede a formação de vínculos duradouros. Os Encontros Lunares persistem, mas com números cada vez menores.
+A população worg está em declínio. Na [[_wiki/conceitos/terceira_era\|Terceira Era]], encontrar parceiros é difícil: a dispersão urbana separa indivíduos, a coleira mágica dificulta encontros clandestinos, e a expectativa de vida reduzida por violência (média real: 40 anos) impede a formação de vínculos duradouros. Os Encontros Lunares persistem, mas com números cada vez menores.
 
 ### Skuld — O Sistema de Dívidas
 
@@ -91,7 +91,7 @@ Quando um filhote de worg faz a primeira alternância voluntária entre bípede 
 
 Worgs sem grupo (como [[_wiki/personagens/tibaut\|Tibaut]]) não têm nome de corrida. É um [[_wiki/cosmologia/vazio\|vazio]] identitário que nenhuma sofisticação urbana preenche.
 
-Nas alcateias antigas, a Première Mue era rito comunitário com uivos de celebração. Na [[_references/terceira_era\|Terceira Era]], acontece em silêncio, em becos, sem testemunhas, se acontece.
+Nas alcateias antigas, a Première Mue era rito comunitário com uivos de celebração. Na [[_wiki/conceitos/terceira_era\|Terceira Era]], acontece em silêncio, em becos, sem testemunhas, se acontece.
 
 #### Costumes Fúnebres
 
@@ -103,7 +103,7 @@ Em cidades, onde uivar é proibido ou perigoso, worgs sussurram o nome numa garr
 
 Worgs que perdem a capacidade de alternar formas (por doença, mutilação ou trauma) são chamados *stákkr* (travados). A alcateia os tolera, porém o estigma é profundo: um worg que permanece fixo numa forma deixou de ser worg.
 
-Mais controverso: um worg que *escolhe* permanecer bípede permanentemente (para integrar-se à sociedade urbana, por exemplo) é visto com desconfiança. Está negando a dualidade que define a raça. Na prática, a maioria dos worgs urbanos da [[_references/terceira_era\|Terceira Era]] vive em forma bípede quase exclusivamente, o que torna o tabu uma ferida aberta: quase todos são stákkr voluntários, e quase todos sabem disso.
+Mais controverso: um worg que *escolhe* permanecer bípede permanentemente (para integrar-se à sociedade urbana, por exemplo) é visto com desconfiança. Está negando a dualidade que define a raça. Na prática, a maioria dos worgs urbanos da [[_wiki/conceitos/terceira_era\|Terceira Era]] vive em forma bípede quase exclusivamente, o que torna o tabu uma ferida aberta: quase todos são stákkr voluntários, e quase todos sabem disso.
 
 ### Papel no [[_wiki/organizacoes/imperio_sombrio\|Império]]
 
@@ -154,7 +154,7 @@ Worgs falam com pragmatismo e ironia cansada. Ficam entre [[_wiki/racas/orc\|orc
 
 **[[_wiki/personagens/tibaut\|Tibaut]] como exceção:** O charme cortês, o tom nostálgico, a galanteria são armaduras aprendidas para funcionar no mundo [[_wiki/racas/shadar\|shadar]]. Por baixo, o vocabulário transacional da skuld continua operando. Quando [[_wiki/personagens/tibaut\|Tibaut]] baixa a guarda, os ganchos reaparecem.
 
-### Conflitos Internos ([[_references/terceira_era\|Terceira Era]])
+### Conflitos Internos ([[_wiki/conceitos/terceira_era\|Terceira Era]])
 
 **Domesticados vs Selvagens.** Os *domesticados* (worgs urbanos que trabalham para o [[_wiki/organizacoes/imperio_sombrio\|império]], inclusive no Abatedouro) são desprezados pelos *selvagens* (worgs nômades que se recusam a servir). Para os selvagens, domesticados são cães de coleira que esqueceram o que são. Os domesticados retrucam que idealismo não alimenta filhotes. A tensão é irreconciliável porque ambos descrevem a mesma verdade.
 
@@ -168,4 +168,4 @@ Nascem em ninhadas de 2-4 filhotes. Amadurecem rapidamente: andam eretos aos 2 a
 
 **Fêmeas entram no cio duas vezes ao ano. Vínculos entre parceiros raramente duram além da criação dos filhotes. Filhotes abandonados são comuns; criar worg em cidade é quase impossível, na natureza é sentença de morte. Muitos acabam em fossas de luta ou experimentos mágicos.**
 
-Nas eras antigas, worgs se reproduziam com facilidade e as alcateias prosperavam. Na [[_references/terceira_era\|Terceira Era]], a dispersão urbana, a coleira mágica e a violência endêmica tornaram a reprodução difícil. A população worg está em declínio contínuo.
+Nas eras antigas, worgs se reproduziam com facilidade e as alcateias prosperavam. Na [[_wiki/conceitos/terceira_era\|Terceira Era]], a dispersão urbana, a coleira mágica e a violência endêmica tornaram a reprodução difícil. A população worg está em declínio contínuo.

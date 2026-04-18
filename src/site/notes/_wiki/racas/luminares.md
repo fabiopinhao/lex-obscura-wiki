@@ -7,7 +7,7 @@
 
 Dados fisiológicos diretos não sobreviveram à extinção da raça. O que se pode inferir vem dos descendentes mais próximos: [[_wiki/racas/elarino\|elarinos]] preservam traços delicados, pele clara com luminescência sutil, olhos em tons de prata, âmbar ou azul-celeste, orelhas alongadas e proporções esbeltas. É provável que os Luminares compartilhassem essas características em grau mais pronunciado, com afinidade arcana inata superior à de qualquer raça mortal conhecida.
 
-A longevidade dos Luminares é indefinida. Os textos da [[_references/idade_esquecida\|Idade Esquecida]] descrevem uma civilização que perdurou por eras incontáveis, mas não distinguem entre longevidade individual e continuidade geracional. Os descendentes mais longevos ([[_wiki/racas/elarino\|elarinos]], [[_wiki/racas/drul\|druls]], [[_wiki/racas/sylvano\|sylvanos]]) vivem aproximadamente 120 anos, o que pode representar uma degeneração acentuada ou simplesmente o limite natural de linhagens fragmentadas e enfraquecidas.
+A longevidade dos Luminares é indefinida. Os textos da [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]] descrevem uma civilização que perdurou por eras incontáveis, mas não distinguem entre longevidade individual e continuidade geracional. Os descendentes mais longevos ([[_wiki/racas/elarino\|elarinos]], [[_wiki/racas/drul\|druls]], [[_wiki/racas/sylvano\|sylvanos]]) vivem aproximadamente 120 anos, o que pode representar uma degeneração acentuada ou simplesmente o limite natural de linhagens fragmentadas e enfraquecidas.
 
 ### Civilização e Domínio
 
@@ -17,7 +17,7 @@ Os Luminares conviviam com os ciclos da superfície e com as raças que respeita
 
 ### Alinhamento Espiritual
 
-Os Luminares não possuíam [[_wiki/cosmologia/restricao_de_cor\|cor arcana]] definida no sentido moderno. Precediam o [[_wiki/cosmologia/restricao_de_cor\|sistema cromático]] que hoje organiza raças e deuses. Na [[_references/idade_esquecida\|Idade Esquecida]], entidades brancas, verdes e azuis exerciam influência mágica com intensidade muito maior que nos tempos atuais, e os Luminares transitavam entre essas influências sem a rigidez das linhagens posteriores.
+Os Luminares não possuíam [[_wiki/cosmologia/restricao_de_cor\|cor arcana]] definida no sentido moderno. Precediam o [[_wiki/cosmologia/restricao_de_cor\|sistema cromático]] que hoje organiza raças e deuses. Na [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]], entidades brancas, verdes e azuis exerciam influência mágica com intensidade muito maior que nos tempos atuais, e os Luminares transitavam entre essas influências sem a rigidez das linhagens posteriores.
 
 A cisão fundamental era entre [[_wiki/cosmologia/anjos\|anjos]] e [[_wiki/cosmologia/titas\|titãs]]. Os que se inclinavam para os [[_wiki/cosmologia/titas\|titãs]] valorizavam harmonia e adaptação; os que se inclinavam para os [[_wiki/cosmologia/anjos\|anjos]] valorizavam pureza e julgamento. Essa tensão espiritual antecedia a fragmentação racial e acabaria por determiná-la: a divisão dos Luminares em [[_wiki/racas/sylvano\|sylvanos]] (verdes) e [[_wiki/racas/elarino\|elarinos]] (brancos) não foi acidental. Refletia uma cisão que já existia antes da queda.
 

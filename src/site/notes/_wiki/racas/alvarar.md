@@ -9,7 +9,7 @@ Humanos angelicais, tocados por sangue celestial. Aasimar. Pele clara com lumino
 
 ### Origem
 
-Surgiram na [[_references/primeira_era\|Primeira Era]] como paladinos do panteão luminoso, braço militarizado da Igreja que adorava deuses angelicais. Lançaram Cruzadas contra elfos. Desenvolveram Sancta (magia por fé). São o oposto ontológico dos [[_wiki/racas/shadar\|shadars]]: onde [[_wiki/racas/shadar\|shadars]] pactuam com [[_wiki/cosmologia/diabos\|diabos]], álvarars recebem bênçãos celestiais.
+Surgiram na [[_wiki/conceitos/primeira_era\|Primeira Era]] como paladinos do panteão luminoso, braço militarizado da Igreja que adorava deuses angelicais. Lançaram Cruzadas contra elfos. Desenvolveram Sancta (magia por fé). São o oposto ontológico dos [[_wiki/racas/shadar\|shadars]]: onde [[_wiki/racas/shadar\|shadars]] pactuam com [[_wiki/cosmologia/diabos\|diabos]], álvarars recebem bênçãos celestiais.
 
 ### Cultura e Sociedade
 

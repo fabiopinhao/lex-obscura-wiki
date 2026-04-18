@@ -5,7 +5,7 @@
 
 ### Natureza e Fundação
 
-O Império Sombrio é o estado soberano que governa o continente de [[_wiki/locais/reinkard\|Reinkard]] sob a autoridade de [[_wiki/personagens/arothistar\|Arothistar]]. Não nasceu como monarquia: a estrutura estatal evoluiu a partir do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]], fundado por [[_wiki/personagens/xarn\|Xarn]] na [[_references/segunda_era\|Segunda Era]], quando templos diabólicos dispersos no planalto norte foram unificados em sistema institucional. A criação de [[_wiki/locais/morvgrad\|Morvgrad]] como capital política e religiosa selou a fusão entre fé e governo.
+O Império Sombrio é o estado soberano que governa o continente de [[_wiki/locais/reinkard\|Reinkard]] sob a autoridade de [[_wiki/personagens/arothistar\|Arothistar]]. Não nasceu como monarquia: a estrutura estatal evoluiu a partir do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]], fundado por [[_wiki/personagens/xarn\|Xarn]] na [[_wiki/conceitos/segunda_era\|Segunda Era]], quando templos diabólicos dispersos no planalto norte foram unificados em sistema institucional. A criação de [[_wiki/locais/morvgrad\|Morvgrad]] como capital política e religiosa selou a fusão entre fé e governo.
 
 A ascensão de [[_wiki/personagens/arothistar\|Arothistar]] transformou o Culto em instrumento de monarquia absoluta. O [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] não revogou a [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]], mas alinhou-se e sobrepôs-se a ela. Foi simultaneamente revolução e continuidade, mudança radical em corpo de reforma administrativa. [[_wiki/personagens/arothistar\|Arothistar]] compreendeu que destruir o sistema antigo geraria resistência; absorvê-lo garantiu submissão.
 
