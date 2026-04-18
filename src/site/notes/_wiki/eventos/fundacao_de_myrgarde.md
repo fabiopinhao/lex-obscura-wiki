@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/wiki/eventos/fundacao-de-myrgarde/"}
+---
+
+
+A vitória sobre os [[_wiki/racas/luminares\|Luminares]] trouxe um novo desequilíbrio. Com eles fora do caminho, houve uma desvirtuação interplanar, e a aliança entre humanos ambiciosos e [[_wiki/cosmologia/diabos\|deuses negros]], nascida no fim da [[_references/idade_esquecida\|Idade Esquecida]] (E-0004), proliferou nas cidades humanas. Os [[_wiki/racas/shadar\|Shadar]], frutos dos primeiros pactos profanos, começaram a surgir em número cada vez maior, e a humanidade se tornou o canal preferido das ambições sombrias que antes dependiam exclusivamente dos [[_wiki/racas/drul\|druls]].
+
+Ao longo da [[_references/primeira_era\|Primeira Era]], os [[_wiki/racas/shadar\|Shadar]] tornaram-se figuras temidas e indesejadas entre os próprios humanos. Sua origem, associada a alianças diabólicas e fanatismo herege, fez com que fossem rejeitados por todos os grandes reinos do continente. Considerados traidores da fé e ameaça à estabilidade, foram alvo de desconfiança, repulsa e perseguições crescentes. Para sobreviver, formavam cultos secretos, agindo nas sombras das cidades humanas, nas ruínas abandonadas, nas cavernas e catacumbas esquecidas. A igreja dominante, devota aos deuses celestiais, passou a persegui-los com rigor crescente, promovendo expurgos e santificações armadas.
+
+O embate ideológico entre [[_wiki/racas/alvarar\|álvarars]] e [[_wiki/racas/shadar\|shadars]] tornou-se uma das forças estruturantes da [[_references/primeira_era\|Primeira Era]]. Enquanto os [[_wiki/racas/alvarar\|álvarars]] se consolidavam como defensores do status quo, os [[_wiki/racas/shadar\|Shadar]] aprofundavam sua doutrina da superação absoluta. Alimentados por pactos sombrios e uma cultura de conquista e disciplina, passaram a ver em si uma nova espécie. Os elfos, embora mais abertos aos humanos em geral, jamais esqueceram o genocídio ancestral e olhavam os [[_wiki/racas/shadar\|Shadar]] com amargura silenciosa.
+
+Com a expulsão definitiva da raça sombria das terras centrais, as cinco cidadelas humanas que faziam fronteira entre si uniram-se e fundaram [[_wiki/locais/myrgarde\|Myrgarde]]. A cidade nasceu como selo de vitória: prova de que a luz havia prevalecido e de que as planícies centrais pertenciam à fé celestial. Ao longo de séculos, [[_wiki/locais/myrgarde\|Myrgarde]] cresceria até se tornar o maior reino do continente e o coração simbólico do mundo alabastrino.

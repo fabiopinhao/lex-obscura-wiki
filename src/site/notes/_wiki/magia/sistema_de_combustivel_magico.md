@@ -1,0 +1,66 @@
+---
+{"dg-publish":true,"permalink":"/wiki/magia/sistema-de-combustivel-magico/"}
+---
+
+
+Todo uso de magia possui duplo custo:
+1. **Custo Universal:** Combustível invisível ([[_wiki/cosmologia/magi\|magi]]) que precisa de recuperação
+2. **Custo Temático:** Efeito colateral relacionado à escola usada
+
+### Combustível Invisível - [[_wiki/cosmologia/magi\|Magi]]
+
+**Conceito:**
+- Todo conjurador possui reserva limitada de energia mágica ([[_wiki/cosmologia/magi\|magi]])
+- Cada feitiço consome dessa reserva
+- Reserva vazia = impossível conjurar (como arma sem munição)
+- Não há uso "ilimitado" - sempre há limite físico
+
+**Recuperação:**
+- Descanso leve (1 hora): ~10-20% recuperado
+- Sono completo (8 horas): ~80-100% recuperado
+- Meditação profunda: acelera recuperação (varia por praticante)
+- Rituais especiais: podem recuperar mais rapidamente (com custo próprio)
+
+**Sobrecarga (tentar conjurar com reserva vazia):**
+- Hemorragia severa
+- Colapso físico
+- Dano permanente aos canais mágicos
+- Possível morte
+
+**Analogia:** Assim como uma arma de fogo precisa de munição, magia precisa de [[_wiki/cosmologia/magi\|magi]]. Puxar o gatilho sem balas não faz nada - forçar magia sem [[_wiki/cosmologia/magi\|magi]] destrói o conjurador.
+
+### Custos Temáticos por Escola
+
+📋 **Consulte `2.6_custos_tematicos_escolas_REF.tsv` para tabela completa.**
+
+**Princípios dos Custos:**
+
+1. **Conexão Conceitual (não necessariamente oposto)**
+   - [[_wiki/escolas/umbra\|Umbra]] (cegar outro) → distorção da própria visão (mexer com percepção alheia afeta a sua)
+   - [[_wiki/escolas/hypno\|Hypno]] (exaurir outro) → exaustão própria (efeito espelhado - drena ambos)
+   - [[_wiki/escolas/phobos\|Phobos]] (causar medo) → ver aparições (medo "vaza" de volta para o usuário)
+   - [[_wiki/escolas/aegis\|Aegis]] (proteção física) → vulnerabilidade espiritual (balanceamento: ganho em uma área, perda em outra)
+   - [[_wiki/escolas/salvo\|Salvo]] (curar outro) → sentir a dor curada (transferência empática do sofrimento)
+
+2. **Escala do Custo = Escala do Feitiço**
+
+- **Menor** — Custo Temático: Leve (distorção visual leve, tontura breve) | Combustível: 10-20% | Duração do Custo: Segundos a minutos
+- **Médio** — Custo Temático: Moderado (cegueira parcial, confusão significativa) | Combustível: 30-50% | Duração do Custo: Minutos a horas
+- **Grande** — Custo Temático: Severo (cegueira total temporária, colapso) | Combustível: 60-80% | Duração do Custo: Horas a dias
+- **Lendário** — Custo Temático: Potencialmente permanente | Combustível: 90-100% + risco | Duração do Custo: Dias a permanente
+
+### Mitigação de Custos
+
+**Maestria reduz (mas não elimina) custos temáticos:**
+- Iniciante: Custo temático dura 100% do tempo base
+- Intermediário: Custo reduzido para ~70% do tempo
+- Avançado: Custo reduzido para ~50% do tempo
+- Mestre: Custo reduzido para ~30% do tempo, mas nunca zero
+
+**Exemplo:**
+- Iniciante usa [[_wiki/escolas/umbra\|Umbra]] → distorção visual por 60 segundos
+- Mestre usa [[_wiki/escolas/umbra\|Umbra]] → distorção visual por 20 segundos
+
+**MAS:** Custo de combustível é sempre o mesmo (feitiço menor = 15%, independente de nível)
+
+📋 Referência: 3.7_sistemas_magicos_LORE.md (escolas relevantes); 📋 Referência: 3.16_notas_sinergias_LORE.md (sinergias relevantes)
