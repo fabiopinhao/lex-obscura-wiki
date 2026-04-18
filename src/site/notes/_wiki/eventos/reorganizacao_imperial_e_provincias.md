@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/wiki/eventos/reorganizacao-imperial-e-provincias/"}
+---
+
+
+[[_wiki/personagens/arothistar\|Arothistar]] abandonou o [[_wiki/locais/salao_do_conselho\|Salão do Conselho]]. Governava por intermediários e pelo [[_wiki/artefatos/oculus_morvgradi\|Oculus]], e praticamente ninguém ousava desafiá-lo, nem mesmo de forma velada. O [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]] operava como instrumento da vontade do monarca, não como parceiro de governo. A filosofia era simples: a força conquista, mas apenas a ordem mantém.
+
+O sistema de lordes provinciais antecedia a monarquia de [[_wiki/personagens/arothistar\|Arothistar]]. Territórios conquistados eram alocados a lordes locais, responsáveis pela administração e controle das populações. Os territórios bem consolidados tornavam-se províncias formais. Nem todos sobreviveram às batalhas: alguns foram destruídos e dizimados durante as Guerras Reinkárdicas. Outros foram preservados e até reconstruídos.
+
+A [[_wiki/locais/ventrista\|Ventrista]] (E-0022), centro da agricultura imperial, foi dividida em três províncias e tornou-se o celeiro que alimentava [[_wiki/locais/morvgrad\|Morvgrad]] e suas legiões.
+
+[[_wiki/locais/myrgarde\|Myrgarde]] (E-0041), a antiga capital humana, foi reconstruída sob ocupação. A população [[_wiki/racas/pindoriar\|pindoriar]] vivia sob vigilância constante. A marca dos condenados era queimada nos que ousavam resistir. A fé luminosa foi empurrada para a clandestinidade: a [[_wiki/organizacoes/igreja_de_sao_lucian\|Igreja de São Lucian]] e a [[_wiki/organizacoes/ordem_de_azazel\|Ordem de Azazel]] sobreviviam nas sombras do próprio [[_wiki/organizacoes/imperio_sombrio\|império sombrio]].
+
+[[_wiki/locais/elenir\|Elenir]] (E-0039), a [[_wiki/locais/elenir\|Fortaleza de Cristal]], foi igualmente preservada e parcialmente reconstruída, mas por motivos distintos. Seus nexus arcanos, as maiores fontes brutas de reagentes mágicos do continente, representavam um recurso estratégico sem equivalente. Gnomos foram realocados para [[_wiki/locais/elenir\|Elenir]] em grande número, auxiliando os estudos [[_wiki/racas/shadar\|shadar]] sobre o uso e a concentração de [[_wiki/cosmologia/magi\|magi]] em cristais. A distribuição dessa energia mágica, quase uma industrialização incipiente, passou a fundamentar uma revolução tecnológica no [[_wiki/organizacoes/imperio_sombrio\|império]].
+
+Outras regiões foram transformadas em fortes órquicos provinciais, guarnições permanentes para as legiões que garantiam a ordem nas fronteiras.
+
+[[_wiki/locais/morvgrad\|Morvgrad]] não avançava sobre o continente oriental. [[_wiki/locais/neranthis\|Neranthis]] permanecia fora do alcance direto do [[_wiki/organizacoes/imperio_sombrio\|império]], não por fraqueza militar, mas por praticidade: o clima úmido e a geografia hostil de pântanos, lagos e rios tornavam a ocupação inviável para tropas [[_wiki/racas/shadar\|shadars]]. Os [[_wiki/racas/frenim\|frenims]], humanos [[_wiki/cosmologia/siderais\|siderais]] de [[_wiki/locais/neranthis\|Neranthis]], escolhiam manter distância. As sombras avançavam no continente vizinho, e os [[_wiki/racas/frenim\|frenims]] recuavam cada vez mais, evitando qualquer confronto.
+
+A oeste, [[_wiki/locais/dorsal\|a Dorsal]] separava [[_wiki/locais/reinkard\|Reinkard]] de [[_wiki/locais/veinkard\|Veinkard]], e [[_wiki/personagens/varna\|Varna]] era a razão pela qual [[_wiki/personagens/arothistar\|Arothistar]] não cruzava a cordilheira. O monarca poderia facilmente dominar os vales de [[_wiki/locais/varnak\|Varnak]], mas os [[_wiki/racas/draconideo\|draconídeos]] aliados de [[_wiki/personagens/varna\|Varna]] e a própria dragoa anciã não deixariam uma hipotética província de [[_wiki/locais/varnak\|Varnak]] em paz. E [[_wiki/locais/morvgrad\|Morvgrad]] temia, acima de quase tudo, perder batalhas.
