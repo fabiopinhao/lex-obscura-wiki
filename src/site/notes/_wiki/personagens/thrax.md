@@ -13,7 +13,7 @@ Filosofia dracônica: "Palavra nenhuma vale mais que sobrevivência. Quem morre 
 
 ### Papel Narrativo
 
-Acompanhou [[_wiki/personagens/yzmareth\|Yzmareth]] a [[_wiki/locais/mor_severith\|Mor'Severith]]. Capturado por [[_wiki/personagens/arothistar\|Arothistar]] como garantia/refém pelo [[grains/eventos/desaparecimento_de_draven-thol\|desaparecimento de Draven-Thol]]. Debate com [[_wiki/personagens/odran\|Odran]] sobre o Verbum: apresenta filosofia dracônica de pragmatismo brutal contra a inflexibilidade do [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]]. Odeia profundamente [[_wiki/personagens/wijmarv\|Wijmarv]].
+Acompanhou [[_wiki/personagens/yzmareth\|Yzmareth]] a [[_wiki/locais/mor_severith\|Mor'Severith]]. Capturado por [[_wiki/personagens/arothistar\|Arothistar]] como garantia/refém pelo desaparecimento de Draven-Thol. Debate com [[_wiki/personagens/odran\|Odran]] sobre o Verbum: apresenta filosofia dracônica de pragmatismo brutal contra a inflexibilidade do [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]]. Odeia profundamente [[_wiki/personagens/wijmarv\|Wijmarv]].
 
 ### Padrões de Voz
 

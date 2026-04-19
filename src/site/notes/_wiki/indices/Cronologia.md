@@ -60,9 +60,7 @@ Panoramas das Guerras Reinkárdicas: [[_wiki/conceitos/guerras_reinkardicas_a_so
 - [[_wiki/eventos/campanha_ocidental_de_dravhok\|Campanha Ocidental]] — Varreu a cordilheira de norte a sul; culminou na subjugação de Thandruk Varn
 - [[_wiki/eventos/subjugacao_de_thandruk_varn\|Subjugação de Thandruk Varn]] — Rendição negociada: forjas redirecionadas para Morvgrad em troca de sobrevivência
 - [[_wiki/eventos/campanha_oriental_e_queda_de_dernessal\|Campanha Oriental]] — Conquista das cidades do cinturão oriental de Myrgarde
-- [[grains/eventos/traicao_de_vozrador\|Traição de Vozrador]] — Malagoth e Velmorain aprisionaram Vozrador; Dravhok emergiu como servo de dois novos senhores
 - [[_wiki/eventos/purga_do_conselho_e_autodeclaracao_como_arothistar\|Purga do Conselho]] — Dravhok eliminou conselheiros rivais e declarou-se Arothistar
-- [[grains/eventos/pacto_com_kaelgrym\|Pacto com Kaelgrym]] — Terceiro pacto simultâneo (patrono dracônico); influência sobre varnakianos e draconídeos
 - [[_wiki/eventos/instituicao_do_verbum_arkhon\|Instituição do Verbum Arkhon]] — Constituição do Império; Lex Obscura absorvida sem alteração
 - [[_wiki/eventos/fundacao_dos_justiciars\|Fundação dos Justiciars]] — Braço judiciário com poder de vida e morte; Orum-Rahru foi o primeiro
 - [[_wiki/eventos/proibicao_do_rito_de_ossarium\|Proibição do Rito de Ossárium]] — Declarado heresia capital pelo monarca que passara pelo mesmo rito
@@ -71,3 +69,16 @@ Panoramas das Guerras Reinkárdicas: [[_wiki/conceitos/guerras_reinkardicas_a_so
 - [[_wiki/eventos/queda_de_elenir\|Queda de Elenir]] — Cidadela elarino conquistada; nexus arcanos incorporados à infraestrutura imperial
 - [[_wiki/eventos/cerco_de_myrgarde\|Cerco de Myrgarde]] — Três anos de cerco; fome, peste e silenciamento dos deuses luminosos
 - [[_wiki/eventos/queda_de_myrgarde_e_fim_das_guerras_reinkardicas\|Queda de Myrgarde]] — Última aparição de Arothistar no campo; fim das guerras
+
+## Terceira Era
+
+- [[_wiki/eventos/reorganizacao_imperial_e_provincias\|Reorganização Imperial]] — Arothistar governa por intermediários; Protocolo Iconográfico da Coroa
+- [[_wiki/eventos/tensoes_e_ameacas_da_terceira_era\|Tensões da Terceira Era]] — Aliança drul fragilizada; migração órquica; 20 de 27 Justiciars mortos
+- [[_wiki/eventos/cadeia_da_fendris\|Cadeia da Fendris]] — Roubo da adaga Luminar do museu particular de Dessian Broel; mandante e motivo permanecem desconhecidos publicamente
+- [[_wiki/eventos/sabotagem_nas_forjas_de_thandruk_varn\|Sabotagem nas Forjas]] — Queda de produção em Thandruk Varn; natureza e autoria desconhecidas
+- [[_wiki/eventos/uncao_de_milorsevogh\|Unção de Milorsevogh]] — Sétimo Justiciar vivo; recebeu Spina Lexis, Codex e Oculus no Templo de Azkaroth
+- [[_wiki/eventos/nexus_silenciados_na_fortaleza_de_cristal\|Nexus Silenciados]] — Cristais de Elenir ativos mas silenciados de dentro para fora; sabotagem deliberada
+
+---
+
+*Anais do [[_wiki/locais/arquivo_central\|Arquivo Central]]. Versões não autorizadas desta cronologia constituem crime de sedição.*

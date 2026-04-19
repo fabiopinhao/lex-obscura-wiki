@@ -33,7 +33,7 @@ Ao longo dos séculos, as duas raças desenvolveram uma coexistência pacífica,
 
 ### Relação com o [[_wiki/organizacoes/imperio_sombrio\|Império]]
 
-[[_wiki/locais/neranthis\|Neranthis]] permanece independente durante a [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]]. [[_wiki/personagens/arothistar\|Arothistar]] planejava transformá-la em estado vassalo via [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val'Kir]], evitando conquista direta ([[_wiki/racas/shadar\|shadars]] não habitariam terras úmidas). Com a morte de [[_wiki/personagens/lorvaq_val_kir\|Lorvaq]] e a [[grains/eventos/queda_de_arothistar\|queda de Arothistar]], o plano de vassalagem morre. Os frenims são isolacionistas por instinto e por cálculo: temem as sombras, e a distância geográfica sempre foi sua melhor defesa.
+[[_wiki/locais/neranthis\|Neranthis]] permanece independente durante a [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]]. [[_wiki/personagens/arothistar\|Arothistar]] planejava transformá-la em estado vassalo via [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val'Kir]], evitando conquista direta ([[_wiki/racas/shadar\|shadars]] não habitariam terras úmidas). Com a morte de [[_wiki/personagens/lorvaq_val_kir\|Lorvaq]] e a queda de Arothistar, o plano de vassalagem morre. Os frenims são isolacionistas por instinto e por cálculo: temem as sombras, e a distância geográfica sempre foi sua melhor defesa.
 
 ### Fraquezas
 
