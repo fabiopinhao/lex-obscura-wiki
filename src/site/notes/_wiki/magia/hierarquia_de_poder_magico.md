@@ -52,8 +52,6 @@
 - Corrupção progressiva
 - Perda de humanidade/sanidade
 
-**[[_wiki/personagens/arothistar\|Arothistar]] é único** com 3 pactos funcionais na história registrada.
-
 ### Notas Importantes
 
 **Limite Racial:**

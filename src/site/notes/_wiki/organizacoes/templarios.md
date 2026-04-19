@@ -31,9 +31,7 @@ Os templários, no sentido clássico de soldados e protetores dos templos, deixa
 
 Cinquenta ou mais remanescentes permaneceram ativos como clérigos subordinados, sem poder militar formal. Mas a identidade ideológica persistiu subterraneamente. A facção "templária" do Conselho ([[_wiki/personagens/jaakurs\|Jaakurs]], [[_wiki/personagens/nyx_ara\|Nyx'Ara]]) não busca restaurar a velha ordem armada, busca restaurar o princípio: supremacia religiosa sobre autoridade monárquica.
 
-**Pós-Arothistar:** Com a execução do monarca, os templários emergiram como facção conservadora. não é restauração militar: é golpe institucional religioso. O [[_wiki/organizacoes/ordo_zathar\|Ordo Zathar]] preparou o terreno; a morte de [[_wiki/personagens/arothistar\|Arothistar]] abriu a porta.
-
-**[[_wiki/personagens/orum-rahru\|Orum-Rahru]] como ponte:** Único templário a virar Justiciar, [[_wiki/personagens/orum-rahru\|Orum]] encarna a tensão entre as duas ordens. Sua armadura templária prateada (conservada desde a era pré-imperial, raramente removida) é símbolo físico de lealdade dividida. Na Primeira Trilogia, perde fé no [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] e alinha-se aos "templários ideológicos" ([[_wiki/personagens/jaakurs\|Jaakurs]], [[_wiki/personagens/nyx_ara\|Nyx'Ara]]), movimento de nostalgia, não de conspiração. Traído por [[_wiki/personagens/nidzina_avaroth\|Nidzina]] (peça de [[_wiki/personagens/arothistar\|Arothistar]] contra o Ordo).
+**[[_wiki/personagens/orum-rahru\|Orum-Rahru]] como ponte:** Único templário a virar Justiciar, [[_wiki/personagens/orum-rahru\|Orum]] encarna a tensão entre as duas ordens. Sua armadura templária prateada (conservada desde a era pré-imperial, raramente removida) é símbolo físico de lealdade dividida. Na Primeira Trilogia, perde fé no [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] e alinha-se aos "templários ideológicos" ([[_wiki/personagens/jaakurs\|Jaakurs]], [[_wiki/personagens/nyx_ara\|Nyx'Ara]]), movimento de nostalgia, não de conspiração.
 
 ### Legado Cultural
 

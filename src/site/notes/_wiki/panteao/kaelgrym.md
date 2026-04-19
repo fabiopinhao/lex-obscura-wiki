@@ -19,12 +19,6 @@ Kaelgrym é o deus-dragão dos drakhonins de [[_wiki/locais/varnak\|Varnak]] e [
 
 Essa vinculação universal tem consequência arcana direta: nenhum [[_wiki/racas/draconideo\|drakhonin]] pode empunhar artefatos [[_wiki/racas/luminares\|Luminares]]. A [[_wiki/artefatos/fendris\|Fendris]], forjada na [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]] para ferir dragões anciões, responde apenas a mãos livres de pacto.
 
-### Relação com [[_wiki/personagens/arothistar\|Arothistar]]
-
-As exigências de Kaelgrym são diretas: destruição contínua e expurgos políticos, com o terror como ferramenta de controle. Onde [[_wiki/panteao/malagoth\|Malagoth]] quer expansão territorial e [[_wiki/panteao/velmorain\|Velmorain]] sustenta a ilusão de ordem cósmica, Kaelgrym exige que o fogo arda e que alguém grite. Quando os expurgos cessam, Kaelgrym pressiona; quando recomeçam, o medo se propaga e reforça a obediência que [[_wiki/panteao/malagoth\|Malagoth]] exige e a estabilidade que [[_wiki/panteao/velmorain\|Velmorain]] simula.
-
-Na Torre de [[_wiki/locais/mor_severith\|Mor'Severith]], [[_wiki/personagens/arothistar\|Arothistar]] fala com Kaelgrym através do teto, sem genuflexão, sem invocação, como quem discute com um sócio pelo andar de cima. A relação é de dependência mútua temperada por desprezo recíproco.
-
 ### Proscrição
 
 Kaelgrym corrói lentamente quem não pode resistir. Os drakhonins demonstram o efeito geracional: queimadura interna progressiva que carboniza órgãos enquanto as escamas permanecem intactas. [[_wiki/racas/draconideo\|Draconídeos]] velhos morrem de colapso interno. O custo de Kaelgrym é fogo que consome de dentro para fora, e nenhuma lei imperial isenta o monarca desse preço.

@@ -17,10 +17,6 @@ O vínculo com Titãs opera por [[_wiki/magia/symbiosis_naturae\|Symbiosis Natur
 
 [[_wiki/racas/sylvano\|Sylvanos]], [[_wiki/racas/gerut\|gerut]] e rebeldes silvestres são os devotos naturais dos Titãs. [[_wiki/personagens/peredur\|Peredur]] (druida ancião de [[_wiki/locais/thal_serin\|Thal'Serin]]) é repositório de sabedoria titânica. [[_wiki/personagens/gaelwyn\|Gaelwyn]] carrega a [[_wiki/cosmologia/marca_das_luas_gemeas\|marca das luas gêmeas]] de [[_wiki/panteao/titania\|Titânia]]. A filosofia verde, tal como [[_wiki/personagens/peredur\|Peredur]] a formulou, explica por que os Titãs sobreviveram onde os [[_wiki/cosmologia/anjos\|anjos]] pereceram: escolheram compromissos pragmáticos com o mal em vez de pureza inflexível. "Até estrelas morrem"; os deuses verdes preferiram sobreviver a morrer corretos.
 
-### Relação com o [[_wiki/organizacoes/imperio_sombrio\|Império]]
-
-[[_wiki/personagens/arothistar\|Arothistar]] não invadia florestas titânicas diretamente, pois pactos antigos com os Titãs as protegiam. A estratégia imperial era a [[_wiki/magia/macula-sombria\|mácula-sombria]]: corrupção lenta das raízes, esperando que os Titãs eventualmente abandonassem os santuários. [[_wiki/panteao/titania\|Titânia]] e [[_wiki/panteao/morlgrund\|Morlgrund]] firmaram acordo com [[_wiki/panteao/vozrador\|Vozrador]] para proteger [[_wiki/locais/thal_serin\|Thal'Serin]]: um titã negociando com um diabo, exemplificando a filosofia verde de sobrevivência por adaptação.
-
 ### Titãs Nomeados
 
 **[[_wiki/panteao/titania\|Titânia]]**: Mãe Verde, patrona dos [[_wiki/racas/sylvano\|sylvanos]]. [[_wiki/personagens/gaelwyn\|Gaelwyn]] é devoto. **[[_wiki/panteao/morlgrund\|Morlgrund]]**: Titã da Terra, guardião de [[_wiki/locais/thal_serin\|Thal'Serin]]. **[[_wiki/panteao/durathain\|Durathain]]**: mencionado apenas em praga ("Pelos dedos sujos de [[_wiki/panteao/durathain\|Durathain]]!").

@@ -41,7 +41,7 @@ As ophideias não possuem hierarquia militar formal. A estrutura é religiosa: r
 
 **Missões matriarcais:** Servem interesses das Casas de [[_wiki/locais/ghilanna\|Ghilanna]]: diplomacia secreta (caravana de [[_wiki/personagens/nylothrae_duskryn\|Nylothrae Duskryn]] para [[_wiki/locais/xilaverth\|Xilaverth]]), eliminação interna ([[_wiki/personagens/shaezrith\|Shaezrith]]), proteção de ativos subterrâneos.
 
-**Dupla cobertura:** Ophideias como [[_wiki/personagens/syndrith_morghast\|Syndrith]] podem operar simultaneamente para o Culto (missão oficial) e para facções internas ([[_wiki/organizacoes/ordo_zathar\|Ordo Zathar]]). O selo púrpura autoriza acesso imperial; a agenda real pode ser outra. A disciplina ophideia, "olhos antes, lâminas depois" , não especifica para quem os olhos observam.
+**Dupla cobertura:** Ophideias podem operar simultaneamente para o Culto (missão oficial) e para facções internas. O selo púrpura autoriza acesso imperial; a agenda real pode ser outra. A disciplina ophideia, "olhos antes, lâminas depois", não especifica para quem os olhos observam.
 
 ### Relação com [[_wiki/organizacoes/justiciars\|Justiciars]]
 

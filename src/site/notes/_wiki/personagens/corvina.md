@@ -3,10 +3,6 @@
 ---
 
 
-### Perfil
-
-Humana. Madre da [[_wiki/organizacoes/igreja_de_sao_lucian\|Igreja de São Lucian]] em [[_wiki/locais/myrgarde\|Myrgarde]]. Anciã curvada pelo peso de décadas. Sobreviveu à queda de [[_wiki/locais/myrgarde\|Myrgarde]]: poupada por [[_wiki/personagens/arothistar\|Arothistar]], que a considerou inofensiva. Curou e observou [[_wiki/personagens/arothistar\|Dravmir]] durante algum período da infância dele.
-
 ### A Chegada de [[_wiki/personagens/arothistar\|Dravmir]]
 
 A primeira ligação de Corvina com [[_wiki/personagens/arothistar\|Dravmir]] antecede o jogo de [[_wiki/conceitos/korball\|Korball]] por décadas. Quando a avó do menino chegou a [[_wiki/locais/myrgarde\|Myrgarde]] vinda de [[_wiki/locais/valdris\|Valdris]], foi Corvina quem os recebeu no topo das escadarias da Catedral de [[_wiki/organizacoes/igreja_de_sao_lucian\|São Lucian]]. Nessa época, Corvina era uma mulher jovem de túnicas brancas e traços precisos, cuja beleza austera não oferecia calor.

@@ -26,14 +26,4 @@ As esferas não se comunicam diretamente entre si, mas através de um nexo centr
 
 **Limitações:**
 
-Proximidade a campos de magia selvagem distorce transmissões. Tempestades planares ocasionalmente interrompem conexões. Esferas negligenciadas gradualmente perdem luminosidade até se tornarem simples pedras, processo conhecido como "cegueira do olho". O encantamento do ranidan [[_wiki/personagens/babua\|Babua]] (servo de [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val'Kir]]) é capaz de romper vínculos do Oculus, conforme demonstrado no teste bem-sucedido de [[_wiki/personagens/arothistar\|Arothistar]] (Cap13).
-
-**[[_wiki/artefatos/oculus_maior\|Oculus Maior]]:**
-
-[[_wiki/personagens/arothistar\|Arothistar]] possui uma versão maior no [[_wiki/locais/oculario\|Oculário]] de [[_wiki/locais/mor_severith\|Mor'Severith]]. A cicatriz de servidão de [[_wiki/personagens/quaz_har\|Quaz'har]] ([[_wiki/racas/diabrete\|diabrete]] mensageira) pulsa em sincronia com este Oculus.
-
-**Significado Cultural:**
-
-Receber um oculus representa confiança absoluta do culto. É simultaneamente ferramenta e corrente: conecta o portador ao poder central, mas também o submete à vigilância constante.
-
-📌 **Aparições:** Cap1, Cap5 (roubo em [[_wiki/locais/niedellin\|Niedellin]]), Cap9, Cap12 (recuperação), Cap13 (ativação por [[_wiki/personagens/arothistar\|Arothistar]]).
+Proximidade a campos de magia selvagem distorce transmissões. Tempestades planares ocasionalmente interrompem conexões. Esferas negligenciadas gradualmente perdem luminosidade até se tornarem simples pedras, processo conhecido como "cegueira do olho". Encantamentos específicos de alta magia podem romper vínculos do Oculus.

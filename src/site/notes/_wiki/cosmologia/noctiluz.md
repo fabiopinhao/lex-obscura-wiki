@@ -17,7 +17,7 @@ Registrado desde a Queda dos [[_wiki/linguas/luminar\|Luminares]], quando as pri
 
 **Seção 7.4.** Fenda vertical abre-se sobre o [[_wiki/locais/pico_de_nethys\|Pico de Nethys]]. Cicatriz de luz que se rasga devagar. "Luz que não pertencia a astro algum, mas às profundezas entre mundos." [[_wiki/personagens/orum-rahru\|Orum]] e [[_wiki/personagens/vekraal\|Vekraal]] se encaram sob a luz cerúlea; a fenda se costura deixando cicatriz prateada.
 
-**Seção 13.3.** [[_wiki/personagens/arothistar\|Arothistar]] observa a noctiluz de [[_wiki/locais/mor_severith\|Mor'Severith]]. Pronuncia "[[_wiki/panteao/malagoth\|Malagoth]]" dirigido ao teto e "[[_wiki/panteao/velmorain\|Velmorain]]" dirigido à cicatriz celeste. A relação entre Velmorain e o fenômeno permanece inexplicada.
+**Seção 13.3.** [[_wiki/personagens/arothistar\|Arothistar]] observa a noctiluz de [[_wiki/locais/mor_severith\|Mor'Severith]].
 
 **Coda (Cena Final).** Rachadura de luz pálida abre-se no teto do Coração Oco. Do corte escorre sopro cerúleo que lava as cores do ambiente. O céu ferido se revela como aurora invertida, sangrando luz fria.
 
@@ -25,7 +25,7 @@ Registrado desde a Queda dos [[_wiki/linguas/luminar\|Luminares]], quando as pri
 
 **[[_wiki/personagens/fing\|Fing]]** (kobold, servo de Arothistar) lê a noctiluz como voz dos "papais" (divindades patronais). Rosa é bronca: alguém lá embaixo fez coisa errada. Azul cerúleo é choro: algum papai está triste. Rasgo em forma de olho é quando estão irritados demais, tristes demais, ou bisbilhotando para alguém. Até para [[_wiki/personagens/odran\|Odran]], noctiluz era difícil de explicar; para Fing, bastava olhar.
 
-**Culto Sombrio:** Trata o fenômeno como extensão do poder de Arothistar, evidência de que sua soberania alcança o firmamento. O comportamento de Arothistar na seção 13.3 (dirigindo nomes de patronos diferentes a direções diferentes) contradiz a versão oficial sem que ninguém abaixo do monarca perceba.
+**Culto Sombrio:** Trata o fenômeno como extensão do poder de Arothistar, evidência de que sua soberania alcança o firmamento.
 
 **Pindoriares e populações rurais:** Presságio. Abramis resumiu: quando os de cima mexem as peças, os de baixo sentem o tremor.
 

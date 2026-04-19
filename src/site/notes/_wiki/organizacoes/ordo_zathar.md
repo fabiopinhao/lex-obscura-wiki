@@ -62,14 +62,6 @@ Esta camada de segurança operacional protege o fundador do Culto enquanto permi
 - Sabotagem sutil em vez de golpe direto
 - Preparação ideológica ([[_wiki/personagens/jaakurs\|Jaakurs]] questiona fundamentos do [[_wiki/organizacoes/imperio_sombrio\|império]] publicamente)
 
-### Objetivo Final
-
-**Curto prazo:** Erosão da legitimidade monárquica; fortalecimento institucional dos templos
-
-**Médio prazo:** [[_wiki/eventos/queda_de_arothistar\|Queda de Arothistar]] (preferencialmente por contradições internas do sistema)
-
-**Longo prazo:** Estabelecimento de teocracia templária com [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]] como constituição suprema; [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]] subordinado aos Arcontes do Culto; possível divinização completa de [[_wiki/personagens/xarn\|Xarn]]
-
 ### Tensões e Conflitos
 
 **Interno ao Ordo:**

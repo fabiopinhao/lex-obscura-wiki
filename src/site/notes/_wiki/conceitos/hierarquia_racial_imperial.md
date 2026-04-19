@@ -36,4 +36,3 @@ O racismo do [[_wiki/organizacoes/imperio_sombrio\|império]] não é arbitrári
 
 - [[_wiki/personagens/syndrith_morghast\|Syndrith]] ([[_wiki/racas/drul\|drul]] leal) demonstra que lealdade individual transcende predisposição racial
 - [[_wiki/personagens/milorsevogh_velshard\|Milor]] (questionador) eventualmente percebe que sistema confunde controle com necessidade
-- [[_wiki/eventos/queda_de_arothistar\|Queda de Arothistar]] prova que hierarquia racial era escolha política, não lei natural

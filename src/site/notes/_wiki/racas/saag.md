@@ -25,14 +25,6 @@ A percepção temporal distendida explica a dificuldade de comunicação com ra�
 
 A unidade social básica é o charco: o corpo de água permanente ao redor do qual a comunidade se organiza. Perder o charco é perder a comunidade. Secas forçam migrações que dissolvem laços; enchentes criam charcos novos que atraem saags dispersos. A geografia dita a política mais do que qualquer decisão consciente.
 
-### Relação com o [[_wiki/organizacoes/imperio_sombrio\|Império]]
-
-Inexistente em termos formais. [[_wiki/locais/neranthis\|Neranthis]] permanece independente, e saags são desconhecidos da vasta maioria dos [[_wiki/racas/shadar\|shadars]]. O [[_wiki/organizacoes/imperio_sombrio\|Império]] registra [[_wiki/racas/ranidano\|ranidanos]] como curiosidade zoológica em relatórios de inteligência, quando os registra.
-
-A exceção é [[_wiki/personagens/babua\|Babua]]. Servo de [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val'Kir]], posicionado como vigia nas montanhas ocidentais do planalto de [[_wiki/locais/reinkard\|Reinkard]] por acordo entre [[_wiki/personagens/lorvaq_val_kir\|Lorvaq]] e [[_wiki/personagens/arothistar\|Arothistar]]. [[_wiki/personagens/babua\|Babua]] é, possivelmente, o único saag a pisar em solo [[_wiki/linguas/reinkardico\|reinkárdico]]. O arranjo revela a lógica imperial em relação a [[_wiki/locais/neranthis\|Neranthis]]: [[_wiki/personagens/arothistar\|Arothistar]] não invade (clima e terreno são proibitivos), mas coopta indivíduos úteis através de intermediários. O saag é instrumento do [[_wiki/racas/frenim\|frenim]] que é instrumento do imperador. Cada camada acrescenta distância e deniabilidade.
-
-Para [[_wiki/personagens/fandegarron\|Fandegarrón]], que perdeu a toca para [[_wiki/personagens/babua\|Babua]], o saag é "demônio vestido de sapo que empurrou o mundo". A descrição é mais precisa do que o [[_wiki/criaturas/gnoll\|gnoll]] imagina: o que [[_wiki/personagens/babua\|Babua]] fez ao deslocar-se para o [[_wiki/cosmologia/plano_etereo\|Aetherium]] e romper vínculos arcanos na região foi, efetivamente, empurrar a realidade local para o lado.
-
 ### Voz Narrativa (guia de escrita)
 
 Saags não falam com outras raças, salvo por telepatia. Quando a narrativa precisa transmitir comunicação de um saag, o registro deve ser sensorial, não verbal: pressão, imagem, direção, urgência. Sem frases completas. Sem sintaxe. A mente de um saag projeta o que sente, e o receptor traduz.

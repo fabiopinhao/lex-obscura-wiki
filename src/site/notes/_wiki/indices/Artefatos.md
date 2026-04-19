@@ -35,7 +35,7 @@ Objetos que sobreviveram a seus criadores raramente o fizeram por acidente.
 
 ## Artefatos Religiosos e Arcanos
 
-- [[_wiki/artefatos/estatueta_de_vozrador\|Estatueta de Vozrador]] — Ídolo de obsidiana que catalisou a transformação de Dravmir em Arothistar
+- [[_wiki/artefatos/estatueta_de_vozrador\|Estatueta de Vozrador]] — Ídolo de obsidiana de Morvgrad antiga
 
 ## Substâncias e Alquimia
 

@@ -22,13 +22,3 @@ Polidez falsa e ameaçadora: o sarcasmo como cortesia invertida. Raramente insul
 **Amostra 3** (a [[_wiki/personagens/milorsevogh_velshard\|Milor]], sobre jurisdição): *"Eres o oficial superior nesta missão."*: deferência que soa como aviso.
 
 **Amostra 4** (ao ler oração de [[_wiki/personagens/abramis\|Abramis]] em voz alta): *"Ó Luminosos, protegei vossos filhos na escuridão..."* com sarcasmo explícito: o sagrado como absurdo cômico.
-
-### Relações-Chave
-
-**[[_wiki/personagens/jaakurs\|Jaakurs]] (superior / mandante):** Enviada por ele em dupla missão. Lealdade ao [[_wiki/organizacoes/ordo_zathar\|Ordo Zathar]] mediada por [[_wiki/personagens/jaakurs\|Jaakurs]].
-
-**[[_wiki/personagens/milorsevogh_velshard\|Milorsevogh]] (relação de missão):** Supervisiona sem se subordinar. Inicialmente provocativa; depois de cobertura noturna, demonstra deferência inédita: "sem máscaras."
-
-**[[_wiki/personagens/vhraxil\|Vhraxil]] (infância):** Conhece-o desde criança; "besourinho" (apelido interno dela). Relação afetiva única num personagem que raramente demonstra afeto.
-
-**[[_wiki/personagens/zarae\|Zarae]] (rival / espelho):** Duas aprendizes "sob a mesma rocha": "dois escorpiões." Planejaram fazer [[_wiki/personagens/nidzina_avaroth\|Nidzina]] implorar pela mamãe em uma semana.

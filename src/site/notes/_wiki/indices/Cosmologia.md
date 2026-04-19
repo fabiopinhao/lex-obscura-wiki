@@ -52,7 +52,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 ### Diabos
 
-- [[_wiki/panteao/malagoth\|Malagoth]] — Coroa de Espinhos *(Crown of Thorns)* — Vampiro cravejado de obsidiana, único diabo com visão de dominação total; suas maldições se cravam no alvo e não se desprendem
+- [[_wiki/panteao/malagoth\|Malagoth]] — Coroa de Espinhos *(Crown of Thorns)* — Vampiro cravejado de obsidiana; suas maldições se cravam no alvo e não se desprendem
 
 - [[_wiki/panteao/azkaroth\|Azkaroth]] — Arquidiabo *(Archdevil)* — Corvo negro sobre Morvgrad, sede das cerimônias de unção onde cada Justiciar morre simbolicamente e renasce em sangue
 
@@ -60,7 +60,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/panteao/naelkur\|Naelkur]] — Cova Fecunda *(Fertile Grave)* — Redivivo enraizado que trata cada cadáver como semente; sua decomposição é agricultura, cada campo de morte é lavoura
 
-- [[_wiki/panteao/vozrador\|Vozrador]] — Relâmpago Cativo *(Captive Lightning)* — Gárgula tempestuosa selada há cinquenta e cinco anos por Malagoth e Velmorain; consciente em sua prisão, seu poder nasce de Thal'Serin e não dos domínios celestiais
+- [[_wiki/panteao/vozrador\|Vozrador]] — Relâmpago Cativo *(Captive Lightning)* — Gárgula tempestuosa cujo poder nasce de Thal'Serin e não dos domínios celestiais
 
 - [[_wiki/panteao/ulravaeth\|Ulravaeth]] — Custódio do Entre *(Vigil of the Between)* — Sombra gêmea que habita limiares entre a vida e a morte; suas ilusões funcionam por subtração, apagando referências em vez de criar miragens
 
@@ -68,7 +68,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/panteao/quelvorax\|Quelvorax]] — Terror Abissal *(The Abyssal Terror)* — Verme colossal que consome espaço; onde passa, a geometria se parte e a distância entre dois pontos perde sentido
 
-- [[_wiki/panteao/velmorain\|Velmorain]] — Véu Cósmico *(Cosmic Veil)* — Múmia mitrada de natureza dual entre diabo e sideral; sustenta o aprisionamento de Vozrador e é fonte exclusiva da imortalidade de Arothistar
+- [[_wiki/panteao/velmorain\|Velmorain]] — Véu Cósmico *(Cosmic Veil)* — Múmia mitrada de natureza dual entre diabo e sideral; seus véus separam o que nunca mais deve se tocar
 
 - [[_wiki/panteao/abbhal\|Abbhal]] — Graça Profanada *(Profaned Grace)* — Anjo caído de natureza dual entre diabo e anjo; a clemência se inverteu sem se extinguir, e o que era misericórdia tornou-se condenação automática
 
@@ -78,7 +78,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 ### Demônios
 
-- [[_wiki/panteao/kaelgrym\|Kaelgrym]] — Flagelo Alado *(Winged Scourge)* — Mantícora funérea pactuada com Arothistar; exige destruição contínua, expurgos e terror como método de governo
+- [[_wiki/panteao/kaelgrym\|Kaelgrym]] — Flagelo Alado *(Winged Scourge)* — Mantícora funérea; exige destruição contínua, expurgos e terror como método de governo
 
 - [[_wiki/panteao/tzarakul\|Tzarakul]] — Arquidemônio *(Archdemon)* — Autarca calcinante: figura humanóide soberana em combustão perpétua cuja força dissolve pactos arcanos na raiz; a ferida que Rupto abre, Anatho infecta, e qualquer tentativa de refazer o vínculo nasce corrompida
 
@@ -116,7 +116,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/panteao/brondakhar\|Brondakhar]] — Égide Iracunda *(Wrathful Aegis)* — Minotauro couraçado que protege destruindo; sua defesa é um contra-ataque perpétuo
 
-- [[_wiki/panteao/titania\|Titânia]] — Mãe das Raízes *(Mother of Roots)* — Dríade inviolada de natureza dual entre titã e anjo; patrona dos sylvanos, firmou acordo com [[_wiki/panteao/vozrador\|Vozrador]] pela proteção de [[_wiki/locais/thal_serin\|Thal'Serin]]
+- [[_wiki/panteao/titania\|Titânia]] — Mãe das Raízes *(Mother of Roots)* — Dríade inviolada de natureza dual entre titã e anjo; patrona dos sylvanos e guardiã de [[_wiki/locais/thal_serin\|Thal'Serin]]
 
 ### Anjos
 

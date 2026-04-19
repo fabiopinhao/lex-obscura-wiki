@@ -7,7 +7,7 @@
 
 O [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]] não é monoteísta. Favorece [[_wiki/cosmologia/diabos\|deuses negros]] ([[_wiki/cosmologia/diabos\|diabos]]) como alicerce institucional: mal ordeiro, hierarquia funcional, legalismo cruel. Tolera, mas desconfia, dos [[_wiki/cosmologia/demonios\|deuses vermelhos]] ([[_wiki/cosmologia/demonios\|demônios]]) porque caos e impulsividade são perigosos para a estabilidade do [[_wiki/organizacoes/imperio_sombrio\|império]].
 
-A tensão entre diabólicos e demoníacos é estrutural. Pactuados recebem comandos contraditórios de seus deuses. Um templário de [[_wiki/panteao/malagoth\|Malagoth]] (expansão ordenada) e um pactuado de [[_wiki/panteao/kaelgrym\|Kaelgrym]] (destruição caótica) servem ao mesmo [[_wiki/organizacoes/imperio_sombrio\|império]] mas obedecem a lógicas incompatíveis. [[_wiki/personagens/arothistar\|Arothistar]], como único ser com pactos em ambas as esferas, era a ponte entre as duas filosofias, e sua queda deixará esse conflito sem mediador.
+A tensão entre diabólicos e demoníacos é estrutural. Pactuados recebem comandos contraditórios de seus deuses. Um templário de [[_wiki/panteao/malagoth\|Malagoth]] (expansão ordenada) e um pactuado de [[_wiki/panteao/kaelgrym\|Kaelgrym]] (destruição caótica) servem ao mesmo [[_wiki/organizacoes/imperio_sombrio\|império]] mas obedecem a lógicas incompatíveis.
 
 ### [[_wiki/organizacoes/justiciars\|Justiciars]] e a Neutralidade Divina
 
@@ -17,9 +17,7 @@ Esta neutralidade é, paradoxalmente, o que permite a [[_wiki/personagens/milors
 
 ### A Proibição de Pactos Demoníacos
 
-[[_wiki/personagens/arothistar\|Arothistar]] proibiu pactos com [[_wiki/cosmologia/demonios\|deuses vermelhos]] ([[_wiki/cosmologia/demonios\|demônios]]), tipificando-os como crime de [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]]. A punição são os Fossos de [[_wiki/locais/drokh_malahar\|Drokh'Malahar]]. A proibição serve dois propósitos: primeiro, eliminar fontes de caos dentro do [[_wiki/organizacoes/imperio_sombrio\|império]]; segundo, concentrar todo acesso demoníaco em [[_wiki/personagens/arothistar\|Arothistar]] (via [[_wiki/panteao/kaelgrym\|Kaelgrym]]), mantendo o monopólio do medo.
-
-O caso de [[_wiki/personagens/maraxus\|Maraxus]]/[[_wiki/panteao/hazburim\|Hazburim]] demonstra a falha do sistema: pactos clandestinos existem apesar da proibição, e o Culto não possui mecanismo eficiente para detectá-los. A mesma magia que poderia identificar pactos ocultos ([[_wiki/magia/deteccao_de_alinhamento\|detecção de alinhamento]]) é politicamente perigosa porque revelaria também aliados inconvenientes.
+[[_wiki/personagens/arothistar\|Arothistar]] proibiu pactos com [[_wiki/cosmologia/demonios\|deuses vermelhos]] ([[_wiki/cosmologia/demonios\|demônios]]), tipificando-os como crime de [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]]. A punição são os Fossos de [[_wiki/locais/drokh_malahar\|Drokh'Malahar]]. A proibição serve ao propósito declarado de eliminar fontes de caos dentro do [[_wiki/organizacoes/imperio_sombrio\|império]].
 
 ### Facções Internas
 

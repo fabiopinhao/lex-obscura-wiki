@@ -15,14 +15,6 @@ As efígies não são mera decoração. Funcionam como conduítes de onipresenç
 
 No [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]], sede das cerimônias de unção dos [[_wiki/organizacoes/justiciars\|Justiciars]], uma pintura mural de [[_wiki/personagens/arothistar\|Arothistar]] emanou fulgor incomum durante a unção de [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh]]. A da sala de banhos de [[_wiki/locais/mor_severith\|Mor'Severith]] oferece vista direta para o templo.
 
-### A Anomalia do [[_wiki/locais/templo_de_vozrador\|Templo de Vozrador]]
-
-O [[_wiki/locais/templo_de_vozrador\|Templo de Vozrador]] em [[_wiki/locais/morvgrad\|Morvgrad]] foi selado e interditado por ordens do monarca. O templo já era ruína quando [[_wiki/personagens/arothistar\|Arothistar]] subiu à torre. [[_wiki/panteao/vozrador\|Vozrador]] havia abandonado o plano material antes da coroação. O Protocolo Iconográfico foi decretado após esses dois eventos. Portanto, nenhuma [[_wiki/artefatos/efigie_de_arothistar\|efígie de Arothistar]] deveria existir dentro do templo selado.
-
-No entanto, durante a investigação de [[_wiki/personagens/orum-rahru\|Orum-Rahru]] (seção 11.8), uma pintura de [[_wiki/personagens/arothistar\|Arothistar]] é encontrada no interior do templo. A anomalia é impossível pela cronologia oficial. [[_wiki/personagens/qaelun\|Qaelun]], o necromante que operava dentro do templo, olha para a pintura e insinua que "o Senhor das Sombras não precisa de convites para estar onde escolhe estar." Tentou revelar mais, mas uma cicatriz silenciadora na garganta o impediu. [[_wiki/personagens/orum-rahru\|Orum]] executa [[_wiki/personagens/qaelun\|Qaelun]] sem obter resposta.
-
-A pergunta permanece aberta: por que a efígie do monarca vigia a ruína do deus que ele aprisionou?
-
 ### Implicações Políticas
 
 O Protocolo é a expressão material de uma filosofia de governo: a força conquista, mas apenas a ordem mantém. A ausência física de [[_wiki/personagens/arothistar\|Arothistar]] é compensada por uma presença que não dorme, não se distrai e não negocia. As efígies são lembretes permanentes de que o olhar do monarca alcança cada esquina do [[_wiki/organizacoes/imperio_sombrio\|império]], (mesmo ou especialmente) onde ele nunca pisa.

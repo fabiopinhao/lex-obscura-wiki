@@ -7,7 +7,7 @@
 
 [[_wiki/racas/murano\|Murano]] (humanoide rato). Espião independente. Capturado por [[_wiki/personagens/orum-rahru\|Orum-Rahru]]. Enganado com coleira mágica falsa (algema de supressão arcana forçada no pescoço). Guia relutante de [[_wiki/personagens/orum-rahru\|Orum]] no [[_wiki/locais/templo_de_vozrador\|Templo de Vozrador]]. Autodenomina-se "Grande Devorador de [[_wiki/racas/shadar\|Shadars]]." Ex-empregado de [[_wiki/personagens/qaelun\|Qaelun]] (morto por [[_wiki/personagens/orum-rahru\|Orum]]). Status: vivo (fugitivo). Localização: [[_wiki/locais/vor-ghol\|Vor-Ghol]] / [[_wiki/locais/morvgrad\|Morvgrad]].
 
-Agora trabalha para [[_wiki/personagens/vyrensen\|Vyrensen]]: carrega [[_wiki/artefatos/caco_de_oculus\|caco de Oculus]] como rastreador com "maldição-garantia." Dívidas com a [[_wiki/organizacoes/guilda_dos_gnomos\|Guilda dos Gnomos]]. Memória da coleira falsa ainda o assombra.
+Memória da coleira falsa ainda o assombra.
 
 ### Padrões de Voz
 
@@ -22,5 +22,3 @@ Filosofia pragmática de sobrevivência, com autoironia sobre a própria espéci
 **[[_wiki/personagens/orum-rahru\|Orum-Rahru]] (captor / utilizador):** Capturado, enganado com coleira falsa, utilizado como guia. Relação de coerção que termina em libertação: rara entre [[_wiki/organizacoes/justiciars\|Justiciars]].
 
 **[[_wiki/personagens/qaelun\|Qaelun]] (ex-empregador / traído):** Trabalhou para o necromante; o traiu. Lealdade como mercadoria, não valor.
-
-**[[_wiki/personagens/vyrensen\|Vyrensen]] (novo empregador):** Carrega rastreador de [[_wiki/personagens/vyrensen\|Vyrensen]] como "maldição-garantia." A liberdade virou outra prisão.

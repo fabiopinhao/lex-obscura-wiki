@@ -29,7 +29,7 @@ Longevidade de 50 a 65 anos. A violência endêmica entre clãs reduz a média. 
 
 **Orgulho de linhagem.** Draconídeos consideram-se herdeiros legítimos dos dragões e guardiões de seu legado. A crença não é fé cega: é estrutura identitária que sustenta a coesão dos clãs. Questionar a linhagem é questionar a razão de existir do clã. O [[_wiki/artefatos/tratado_de_wijmarv\|tratado de Wijmarv]], ao revelar a vulnerabilidade compartilhada com dragões via [[_wiki/artefatos/fendris\|Fendris]], não desmentiu a linhagem, mas expôs que a herança inclui a fraqueza junto com a força.
 
-**Pragmatismo predatório.** A palavra dracônica tem peso variável: "Palavra nenhuma vale mais que sobrevivência. Quem morre por promessa é tolo. Quem vive, governa." Honra existe entre draconídeos, mas subordinada à continuidade do clã. Trair um aliado é aceitável se a alternativa é extinção. [[_wiki/personagens/yzmareth\|Yzmareth]] mantém acordo secreto com [[_wiki/personagens/arothistar\|Arothistar]] enquanto planeja a unificação de [[_wiki/locais/varnak\|Varnak]] contra tudo que o acordo implica.
+**Pragmatismo predatório.** A palavra dracônica tem peso variável: "Palavra nenhuma vale mais que sobrevivência. Quem morre por promessa é tolo. Quem vive, governa." Honra existe entre draconídeos, mas subordinada à continuidade do clã. Trair um aliado é aceitável se a alternativa é extinção.
 
 **Desprezo de escala.** Draconídeos medem o mundo por tamanho. Raças menores são tratadas com condescendência automática. [[_wiki/racas/shadar\|Shadars]] recebem respeito relutante (pelo poder, não pelo porte). [[_wiki/racas/kobold\|Kobolds]] provocam reação visceral: para draconídeos de [[_wiki/locais/varnak\|Varnak]], [[_wiki/racas/kobold\|kobolds]] são paródia ofensiva da linhagem dracônica, fabricada por [[_wiki/racas/shadar\|shadars]] a partir de ovos roubados. [[_wiki/personagens/thrax\|Thrax]] decepou a cauda de [[_wiki/personagens/fing\|Fing]] em [[_wiki/locais/mor_severith\|Mor'Severith]] como reflexo de nojo, não de crueldade calculada.
 
@@ -50,14 +50,6 @@ Hierarquia interna: draconídeos no topo, [[_wiki/racas/sauriano\|saurianos]] co
 **Troféus.** Draconídeos colecionam partes de inimigos derrotados. Dentes, garras, escamas de rivais. A prática é registro de feitos, não sadismo. [[_wiki/personagens/thrax\|Thrax]] decepou a cauda de [[_wiki/personagens/fing\|Fing]] como troféu instintivo; em [[_wiki/locais/varnak\|Varnak]], seria gesto ordinário. Em [[_wiki/locais/mor_severith\|Mor'Severith]], custou-lhe punição.
 
 **Tradição e sábios.** Os clãs mantêm cronistas que registram linhagens, batalhas e dívidas de sangue. A tradição é oral e escrita. Xamãs [[_wiki/racas/varnakiano\|varnakianos]], como [[_wiki/personagens/wijmarv\|Wijmarv]], servem em clãs drakhonins como estudiosos e produzem tratados que abalaram cosmologias inteiras.
-
-### Relação com o [[_wiki/organizacoes/imperio_sombrio\|Império]]
-
-Aliança pragmática com [[_wiki/personagens/arothistar\|Arothistar]], firmada quando este ainda era [[_wiki/personagens/arothistar\|Dravmir]]. O pacto com [[_wiki/panteao/kaelgrym\|Kaelgrym]] (patrono demoníaco dos drakhonins) deu a [[_wiki/personagens/arothistar\|Arothistar]] influência direta sobre [[_wiki/racas/varnakiano\|varnakianos]] e draconídeos. [[_wiki/personagens/yzmareth\|Yzmareth]] mantém acordo secreto: carregamentos de armas para as montanhas em troca de apoio para unificar [[_wiki/locais/varnak\|Varnak]]. A aliança só será oficial se os drakhonins vencerem.
-
-Draconídeos toleram [[_wiki/racas/shadar\|shadars]] como parceiros comerciais e militares. Consideram-nos inferiores em linhagem, superiores em organização. A relação é de respeito calculado: cada lado precisa do outro e planeja a traição quando deixar de precisar.
-
-[[_wiki/personagens/yzmareth\|Yzmareth]] é o único draconídeo autorizado a sobrevoar a [[_wiki/locais/dorsal\|Dorsal]], por acordo com entidades não divulgadas. [[_wiki/personagens/thrax\|Thrax]] foi capturado como refém pelo desaparecimento de [[_wiki/personagens/draven-thol\|Draven-Thol]] e acorrentado em [[_wiki/locais/mor_severith\|Mor'Severith]], pernas carbonizadas por fogo de [[_wiki/personagens/arothistar\|Arothistar]]. O tratamento do refém revela a temperatura real da aliança.
 
 ### Relação com Magia
 

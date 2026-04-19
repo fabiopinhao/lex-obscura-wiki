@@ -33,11 +33,7 @@ Ao longo dos séculos, as duas raças desenvolveram uma coexistência pacífica,
 
 ### Relação com o [[_wiki/organizacoes/imperio_sombrio\|Império]]
 
-[[_wiki/locais/neranthis\|Neranthis]] permanece independente durante a [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]]. [[_wiki/personagens/arothistar\|Arothistar]] planejava transformá-la em estado vassalo via [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val'Kir]], evitando conquista direta ([[_wiki/racas/shadar\|shadars]] não habitariam terras úmidas). Com a morte de [[_wiki/personagens/lorvaq_val_kir\|Lorvaq]] e a [[_wiki/eventos/queda_de_arothistar\|queda de Arothistar]], o plano de vassalagem morre. Os frenims são isolacionistas por instinto e por cálculo: temem as sombras, e a distância geográfica sempre foi sua melhor defesa.
-
-### Personagens Notáveis
-
-**[[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val'Kir]]:** Frenim de poder formidável, mago azul. Fez acordo secreto com [[_wiki/personagens/arothistar\|Arothistar]], calculando tornar-se o "número 2" do continente como elo indispensável. Aparece no capítulo 13 do Livro I, acompanhado pelo [[_wiki/racas/ranidano\|ranidano]] [[_wiki/personagens/babua\|Babua]], comunicando-se via [[_wiki/artefatos/oculus_morvgradi\|Oculus]]. [[_wiki/personagens/lorvaq_val_kir\|Lorvaq]] encarna a grande fraqueza frenim: a inteligência que calcula demais e acredita poder manipular forças maiores do que si.
+[[_wiki/locais/neranthis\|Neranthis]] permanece independente durante a [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]]. [[_wiki/personagens/arothistar\|Arothistar]] planejava transformá-la em estado vassalo via [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val'Kir]], evitando conquista direta ([[_wiki/racas/shadar\|shadars]] não habitariam terras úmidas). Com a morte de [[_wiki/personagens/lorvaq_val_kir\|Lorvaq]] e a [[grains/eventos/queda_de_arothistar\|queda de Arothistar]], o plano de vassalagem morre. Os frenims são isolacionistas por instinto e por cálculo: temem as sombras, e a distância geográfica sempre foi sua melhor defesa.
 
 ### Fraquezas
 

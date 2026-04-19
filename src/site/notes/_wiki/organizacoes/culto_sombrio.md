@@ -43,19 +43,10 @@ A **facção expansionista** (alinhada a [[_wiki/panteao/malagoth\|Malagoth]]) a
 
 [[_wiki/panteao/kaelgrym\|Kaelgrym]], como demônio proscrito ([[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]]), não patrona facção oficialmente. Sua influência existe de forma clandestina, alimentando impulsos de destruição e terror que ambas as facções utilizam quando conveniente.
 
-A tensão opera nos bastidores: rivalidades entre conselheiros, promoções seletivas de [[_wiki/organizacoes/templarios\|templários]], interpretação seletiva da [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]]. [[_wiki/personagens/arothistar\|Arothistar]], como único ser com pactos em ambas as esferas (diabólica e demoníaca), era a ponte entre as duas filosofias. Sua morte deixou o conflito sem mediador.
+A tensão opera nos bastidores: rivalidades entre conselheiros, promoções seletivas de [[_wiki/organizacoes/templarios\|templários]], interpretação seletiva da [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]].
 
 ### Proibição de Pactos Demoníacos
 
-[[_wiki/personagens/arothistar\|Arothistar]] tipificou pactos com [[_wiki/cosmologia/demonios\|deuses vermelhos]] como crime de [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], punido com os [[_wiki/locais/drokh_malahar\|Fossos de Drokh'Malahar]]. A proibição serve dois propósitos: eliminar fontes de caos dentro do [[_wiki/organizacoes/imperio_sombrio\|império]] e concentrar todo acesso demoníaco em [[_wiki/personagens/arothistar\|Arothistar]] (via [[_wiki/panteao/kaelgrym\|Kaelgrym]]), mantendo o monopólio do medo.
+[[_wiki/personagens/arothistar\|Arothistar]] tipificou pactos com [[_wiki/cosmologia/demonios\|deuses vermelhos]] como crime de [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], punido com os [[_wiki/locais/drokh_malahar\|Fossos de Drokh'Malahar]]. A proibição serve ao propósito declarado de eliminar fontes de caos dentro do [[_wiki/organizacoes/imperio_sombrio\|império]].
 
 O sistema não possui mecanismo eficiente para detectar pactos clandestinos. A mesma magia que poderia identificá-los ([[_wiki/magia/deteccao_de_alinhamento\|detecção de alinhamento]]) é politicamente perigosa porque revelaria também aliados inconvenientes. O caso [[_wiki/personagens/maraxus\|Maraxus]]/[[_wiki/panteao/hazburim\|Hazburim]] demonstra a falha: pactuado clandestino operou por anos em [[_wiki/locais/niedellin\|Niedellin]] sem detecção.
-
-### Relação com [[_wiki/personagens/arothistar\|Arothistar]]
-
-O Culto existia antes de [[_wiki/personagens/arothistar\|Arothistar]] e existirá depois dele. [[_wiki/personagens/xarn\|Xarn]] o fundou; [[_wiki/personagens/arothistar\|Arothistar]] o instrumentalizou. A distinção é relevante: o monarca não era líder religioso por devoção, mas por concentração de poder. Os três pactos simultâneos ([[_wiki/panteao/malagoth\|Malagoth]], [[_wiki/panteao/velmorain\|Velmorain]], [[_wiki/panteao/kaelgrym\|Kaelgrym]]) o colocavam acima de qualquer sacerdote, templário ou conselheiro: ninguém podia contestar quem negociava diretamente com três deuses.
-
-O [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] (Palavra do Soberano) não revogou a [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]], alinhou-se e sobrepôs-se a ela. Foi simultaneamente revolução e continuidade. Após a execução de [[_wiki/personagens/arothistar\|Arothistar]], a questão central é: o que prevalece? O Verbum de um homem morto, ou a Lex de um fundador vivo? Esta é a fissura que o [[_wiki/organizacoes/ordo_zathar\|Ordo Zathar]] explora.
-
-📋 Para [[_wiki/conceitos/politica_religiosa\|política religiosa]] detalhada: `3.5_panteao_LORE.md`, seções 2.1-2.4.
-📋 Para facções internas: `3.5_panteao_LORE.md`. ⚠️ Lacuna: §5.8 do antigo Cânone não foi localizada no arquivo de destino: conteúdo sobre facções internas pode precisar ser migrado.

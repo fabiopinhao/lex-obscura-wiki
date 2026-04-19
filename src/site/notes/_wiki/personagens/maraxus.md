@@ -3,10 +3,6 @@
 ---
 
 
-### Perfil
-
-[[_wiki/racas/pindoriar\|Pindoriar]]. Chefe da guarda de [[_wiki/locais/niedellin\|Niedellin]] (posição irregular para um [[_wiki/racas/pindoriar\|pindoriar]]). Pele bronzeada, lâmina curva. Cúmplice de [[_wiki/personagens/merari_d_khunvel\|Merari]]. Pactuado com [[_wiki/panteao/hazburim\|Hazburim]] sem autorização de [[_wiki/personagens/arothistar\|Arothistar]]. Arquitetou massacre em [[_wiki/locais/thal_serin\|Thal'Serin]] para acordar [[_wiki/panteao/vozrador\|Vozrador]]. Status: aprisionado em [[_wiki/locais/ghol_drokh\|Ghol'Drokh]] (masmorras). Localização: [[_wiki/locais/ghol_drokh\|Ghol'Drokh]].
-
 ### Padrões de Voz
 
 Intimidação calibrada: ameaça com olhares antes de palavras. Voz de quem está acostumado a ser obedecido sem autoridade formal.

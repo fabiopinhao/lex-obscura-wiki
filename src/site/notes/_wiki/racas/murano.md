@@ -45,7 +45,7 @@ Muranos processam o mundo em termos alimentares. Aliados são quem traz comida. 
 
 **Paranoia funcional.** Todo murano assume que será traído. A suposição acerta com frequência suficiente para valer a pena. Verificam saídas antes de entrar em qualquer espaço, dormem em turnos, jamais revelam a localização do esconderijo principal.
 
-**Inteligência subestimada.** A fala rápida, a aparência bestial e a obsessão alimentar fazem com que outras raças tratem muranos como animais espertas. [[_wiki/personagens/skanivik\|Skanivik]] manteve [[_wiki/personagens/orum-rahru\|Orum]] convencido de que era covarde oportunista enquanto operava como agente duplo para múltiplos contratantes. Quem espera pouco de um rato não vigia o rato.
+**Inteligência subestimada.** A fala rápida, a aparência bestial e a obsessão alimentar fazem com que outras raças tratem muranos como animais espertas. [[_wiki/personagens/skanivik\|Skanivik]] manteve [[_wiki/personagens/orum-rahru\|Orum]] convencido de que era covarde oportunista enquanto calculava cada movimento. Quem espera pouco de um rato não vigia o rato.
 
 **Grandiloquência compensatória.** Muranos se atribuem títulos desproporcionais à realidade. "Grande Devorador de [[_wiki/racas/shadar\|Shadars]]", enquanto pesava menos que a perna de [[_wiki/personagens/orum-rahru\|Orum]]. O hábito é a única forma de construir identidade numa raça onde ninguém se lembra dos mortos.
 
@@ -114,5 +114,3 @@ Nascem em ninhadas de 3 a 8. Amadurecem rápido: andam eretos aos 8 meses, falam
 Não há período de luto para filhotes mortos. Fêmeas que perderam ninhadas inteiras entram no cio seguinte como se nada tivesse acontecido. A aparente frieza é adaptação: parar por luto é morrer de fome.
 
 Muranos acima de 25 são raros. Chegaram a uma idade que ninguém esperava, o que significa ou que são muito espertos ou que alguma coisa está errada.
-
-📋 Referência: 3.12_personagens_principais_LORE.md (§[[_wiki/personagens/skanivik\|Skanivik]])

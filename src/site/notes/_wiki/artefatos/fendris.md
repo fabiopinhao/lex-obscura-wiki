@@ -23,13 +23,6 @@ A limitação, revelada pelo xamã [[_wiki/racas/varnakiano\|varnakiano]] [[_wik
 
 Localização anterior conhecida: museu particular do Conselheiro [[_wiki/personagens/dessian_broel\|Dessian Broel]]. Passou para a [[_wiki/organizacoes/serpente_purpura\|Serpente Púrpura]] (organização criminosa de [[_wiki/locais/morvgrad\|Morvgrad]]). Confiscada por [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]] após confronto (Cap6, Cap10). Objetivo central do [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr'vethan]]: [[_wiki/personagens/yzmareth\|Yzmareth]] busca a adaga para eliminar [[_wiki/personagens/varna\|Varna]] e unificar [[_wiki/locais/varnak\|Varnak]].
 
-**Importância Estratégica:**
-
-Quem detém a Fendris detém o poder de eliminar [[_wiki/personagens/varna\|Varna]], a dragão anciã que mantém o equilíbrio de poder em [[_wiki/locais/varnak\|Varnak]] através de ameaça individual apocalíptica. A adaga é peça-chave na geopolítica da região montanhosa e no acordo secreto entre [[_wiki/personagens/arothistar\|Arothistar]] e [[_wiki/personagens/yzmareth\|Yzmareth]].
-
-📌 **Aparições:** Cap6, Cap10, Cap12, Cap13 (discussão sobre o tratado).
-📋 **Ver também:** `3.6_locais_LORE.md` ([[_wiki/locais/veinkard\|Veinkard]]) para contexto geopolítico de [[_wiki/locais/varnak\|Varnak]]/[[_wiki/personagens/varna\|Varna]].
-
 ### Comportamento Anômalo
 
 Fendris desperta espontaneamente na presença de cristal, sem necessidade de receptáculo, inserção ou comando verbal. O fenômeno contradiz a mecânica padrão de artefatos forjados. [[_wiki/personagens/gorvam_threnk\|Gorvam Threnk]], [[_wiki/personagens/gorvam_threnk\|Mestre das Forjas]] e supervisor de [[_wiki/locais/thandruk_varn\|Thandruk Varn]], declarou nunca ter visto peça equivalente, confirmando que a adaga não tem origem nas forjas [[_wiki/racas/shadar\|shadar]]. A constatação corrobora a origem [[_wiki/linguas/luminar\|luminar]] do artefato.
