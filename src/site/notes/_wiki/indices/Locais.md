@@ -16,6 +16,7 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 - [[_wiki/locais/myrgarde\|Myrgarde]] — Ex-capital humana, subjugada, origem de Dravmir
 - [[_wiki/locais/valdris\|Valdris]] — Cidade-porto costeira, terra natal de Milorsevogh
 - [[_wiki/locais/varnak\|Varnak]] — Região montanhosa em Veinkard, tribos draconídeas
+- [[_wiki/locais/qadesh\|Qadesh]] — Cidade-estado vassala no deserto oriental, lâminas curvas de aço lunar
 
 ## Fortalezas e Sedes de Poder
 
@@ -49,6 +50,7 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 - [[_wiki/locais/reinkard\|Reinkard]] — Continente central, hegemonia shadar
 - [[_wiki/locais/veinkard\|Veinkard]] — Cordilheira e continente a oeste de Reinkard
 - [[_wiki/locais/ventrista\|Ventrista]] — Região agrícola na base do planalto Shadar
+- [[_wiki/locais/karanthia\|Karanthia]] — Província pobre na costa sul-oriental, a leste de Valdris, origem de Maraxus
 - [[_wiki/locais/rio_parveni\|Rio Parveni]] — Rio principal da Ventrista, corta Niedellin
 - [[_wiki/locais/dorsal\|Dorsal]] — Cordilheira, fronteira natural entre Reinkard e Veinkard
 - [[_wiki/locais/pico_de_nethys\|Pico de Nethys]] — Pico mais elevado da Dorsal, antigo ninho de dragão
