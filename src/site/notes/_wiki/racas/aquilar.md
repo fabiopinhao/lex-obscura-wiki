@@ -95,5 +95,3 @@ Aquilars falam com melancolia contida. O registro não é sombrio nem dramático
 ### Ciclo Vital
 
 Ovíparos. Fêmeas põem 1 a 2 ovos por ninhada. Incubação de 60 dias em calor moderado (diferente dos [[_wiki/racas/sauriano\|saurianos]], que exigem fornalhas; [[_wiki/racas/aviano\|avianos]] incubam com calor corporal e exposição solar). Filhotes nascem com penugem fina que se transforma em penas funcionais ao longo do primeiro ano. Asas parciais aos 8 anos; asas plenas de voo por volta dos 14. Adultos aos 16. Longevidade de 50-65 anos; sob domínio imperial, a média cai para 40.
-
-📋 Referência: 3.5_panteao_LORE.md (§[[_wiki/panteao/israfil\|Israfil]]); Personagens 3.13 (§[[_wiki/personagens/auren\|Auren]])

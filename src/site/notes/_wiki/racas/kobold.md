@@ -83,5 +83,3 @@ Kobolds falam pouco, baixo e em terceira pessoa quando se referem a si mesmos. "
 ### Ciclo Vital
 
 Ovíparos. Ninhadas de 4 a 8 ovos. Incubação de 30 dias em chocadeiras controladas. Filhotes andam nas primeiras horas, falam (palavras funcionais) aos 6 meses, adultos aos 4 anos. Longevidade de 30-40 anos; expectativa real de 20-25. Morrem por exaustão, acidente, descarte ou violência de outras raças. Funerais inexistem: corpos são removidos como resíduo.
-
-📋 Referência: 3.3_racas_bestiario_LORE.md (§[[_wiki/racas/sauriano\|Sauriano]]/Kobold)

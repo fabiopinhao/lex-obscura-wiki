@@ -5,7 +5,7 @@
 
 ### Fisiologia
 
-Híbridos hiena-humanoide, resultado de cruzamento entre linhagens de [[_wiki/racas/vulfano\|vulfano]] preto e vermelho. Focinhos negros, juba emaranhada, olhos amarelos esbugalhados. Massivos, mais altos que a maioria dos humanoides, com musculatura bruta e densa. Fedor avassalador e permanente, marca registrada da espécie. Longevidade curta (25-35 anos, modificador 30-40%). Cor arcana mista: preto + vermelho.
+Híbridos hiena-humanoide, resultado de cruzamento entre linhagens de [[_wiki/racas/vulfano\|vulfano]] preto e vermelho. Focinhos negros, juba emaranhada, olhos amarelos esbugalhados. Massivos, mais altos que a maioria dos humanoides, com musculatura bruta e densa. Fedor avassalador e permanente, marca registrada da espécie. Longevidade curta (25-35 anos, modificador 30-40%). [[_wiki/cosmologia/restricao_de_cor\|Cor arcana]] mista: preto + vermelho.
 
 ### Cultura e Sociedade
 

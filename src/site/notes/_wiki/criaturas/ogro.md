@@ -19,6 +19,4 @@ Brumgak, ogro guarda-costas da [[_wiki/organizacoes/guilda_dos_gnomos\|Guilda do
 
 ### Lacunas Canônicas
 
-Cor arcana, longevidade, reprodução, origem cosmogônica e detalhes fisiológicos precisos não estão documentados. A relação com outras raças de grande porte ([[_wiki/criaturas/troll\|trolls]], [[_wiki/racas/gerut\|geruts]]) não foi estabelecida. Nenhuma cena do Livro I coloca um ogro vivo em tela diretamente.
-
-📋 Referência: 3.3_racas_bestiario_LORE.md (§Ogro)
+[[_wiki/cosmologia/restricao_de_cor\|Cor arcana]], longevidade, reprodução, origem cosmogônica e detalhes fisiológicos precisos não estão documentados. A relação com outras raças de grande porte ([[_wiki/criaturas/troll\|trolls]], [[_wiki/racas/gerut\|geruts]]) não foi estabelecida. Nenhuma cena do Livro I coloca um ogro vivo em tela diretamente.

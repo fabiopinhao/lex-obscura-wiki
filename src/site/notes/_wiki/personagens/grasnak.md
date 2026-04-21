@@ -22,5 +22,3 @@ Grasnak não age, mas reverbera. [[_wiki/personagens/ghur\|Ghur]], irmão de [[_
 ### Lacunas Canônicas
 
 Era em que viveu, circunstâncias da defesa de Khaz-Ankor, conteúdo narrativo dos Cantos, número de variantes orais, e se Grasnak é nome real ou título honorífico não estão documentados. A relação histórica entre [[_wiki/racas/orc\|orcs]] e anões em Khaz-Ankor permanece aberta como setup para Livro 2+.
-
-📋 Referência: 3.3_racas_bestiario_LORE.md (§[[_wiki/racas/orc\|Orc]]), 3.8_linguas_LORE.md (§[[_wiki/linguas/orcanico\|Orcânico]]), 3.12_personagens_principais_LORE.md (§[[_wiki/personagens/grothar\|Grothar]], §[[_wiki/personagens/syndrith_morghast\|Syndrith]])

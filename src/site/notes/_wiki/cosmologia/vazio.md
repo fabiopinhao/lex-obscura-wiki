@@ -39,7 +39,7 @@ O [[_wiki/cosmologia/manto_das_sombras\|Manto das Sombras]] é o fenômeno regio
 
 A [[_wiki/magia/macula-sombria\|Mácula-Sombria]] é sua manifestação visível nas florestas: raízes corrompidas com veios negros, terra enegrecida, flora definhando. A praga precede os [[_wiki/racas/shadar\|shadars]], mas acelerou dramaticamente sob [[_wiki/personagens/arothistar\|Arothistar]].
 
-[[_wiki/personagens/gaelwyn\|Gaelwyn]], sylvano criado entre [[_wiki/racas/shadar\|shadars]], carrega em si a marca deste conflito: um fragmento de vazio dentro de alguém cuja natureza deveria ser verde. A floresta o rejeita parcialmente: árvores sussurram quando passa, raízes recuam de sua presença.
+[[_wiki/personagens/gaelwyn\|Gaelwyn]], [[_wiki/racas/sylvano\|sylvano]] criado entre [[_wiki/racas/shadar\|shadars]], carrega em si a marca deste conflito: um fragmento de vazio dentro de alguém cuja natureza deveria ser verde. A floresta o rejeita parcialmente: árvores sussurram quando passa, raízes recuam de sua presença.
 
 ### Camadas Simultâneas
 

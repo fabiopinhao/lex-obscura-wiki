@@ -99,5 +99,3 @@ Derros falam muito e cada palavra é transação. Verborrágicos como [[_wiki/ra
 ### Ciclo Vital
 
 Nascem individualmente ou em pares. Infância curta: derros trabalham na toca aos 8, operam sozinhos aos 15, adultos aos 20. Vivem até 100 anos em teoria; violência, veneno e traição reduzem a média para 60. Casamentos são contratos com cláusulas de dissolução. Filhos herdam a toca, as dívidas e os inimigos. Funerais são inventários: o corpo é cremado e os pertences divididos conforme o testamento (sempre contestado).
-
-📋 Referência: 3.11_organizacoes_LORE.md (§[[_wiki/organizacoes/guilda_dos_gnomos\|Guilda dos Gnomos]]); 3.12_personagens_principais_LORE.md (§[[_wiki/personagens/dribbel_olgund\|Dribbel]])

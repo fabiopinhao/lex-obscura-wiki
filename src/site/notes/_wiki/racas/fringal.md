@@ -69,5 +69,3 @@ Fringais falam pouco, rápido e sem ornamento. Cada palavra serve a uma função
 ### Ciclo Vital
 
 Ovíparos. Ninhadas de 2 a 4 ovos, menores que os de [[_wiki/racas/aquilar\|aquilars]]. Incubação de 30 a 40 dias. Filhotes nascem com penugem parda e mobilidade imediata (diferente dos filhotes [[_wiki/racas/aquilar\|aquilars]], que dependem de cuidado nas primeiras semanas). Asas vestigiais visíveis ao nascer, sem crescimento significativo posterior. Adultos aos 6 anos. Longevidade teórica de 40-50 anos; expectativa real de 20-30.
-
-📋 Referência: 3.3_racas_bestiario_LORE.md (§[[_wiki/racas/aviano\|Aviano]])

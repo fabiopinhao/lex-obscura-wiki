@@ -83,5 +83,3 @@ Draconídeos falam com peso e calor. Frases declarativas, afirmativas, raramente
 ### Ciclo Vital
 
 Ovíparos. Fêmeas põem 1 a 3 ovos por ninhada. Incubação de 90 dias em calor constante (fornalhas de clã ou solo vulcânico). Ritual de pacto aplicado ao ovo, não ao indivíduo. Filhotes nascem com escamas macias que endurecem ao longo do primeiro ano. Adultos aos 12. Longevidade de 50-65 anos; violência reduz a média para 40.
-
-📋 Referência: 3.5_panteao_LORE.md (§[[_wiki/panteao/kaelgrym\|Kaelgrym]])

@@ -5,7 +5,7 @@
 
 ### Natureza
 
-Montaria nobre de guerra e prestígio. Corpo de leão, asas e cabeça de águia. Domesticados por gerações de criadores humanos e álvarars. Grifos não são criaturas imperiais; serviram como montarias dos exércitos humanos e álvarars durante as Guerras Reinkárdicas contra os shadars. Shadars não usam grifos.
+Montaria nobre de guerra e prestígio. Corpo de leão, asas e cabeça de águia. Domesticados por gerações de criadores humanos e [[_wiki/racas/alvarar\|álvarars]]. Grifos não são criaturas imperiais; serviram como montarias dos exércitos humanos e [[_wiki/racas/alvarar\|álvarars]] durante as Guerras Reinkárdicas contra os [[_wiki/racas/shadar\|shadars]]. [[_wiki/racas/shadar\|Shadars]] não usam grifos.
 
 ### Uso
 
@@ -13,6 +13,4 @@ Transporte aéreo, reconhecimento e combate em altitude. A capacidade de sobrevo
 
 ### Lacunas Canônicas
 
-Detalhes sobre criação, treinamento, disponibilidade atual na Terceira Era e aparições narrativas específicas no Livro I não estão documentados. Nenhuma cena do Livro I mostra grifo em uso direto. Status pós-conquista shadar indefinido: possível extinção, populações selvagens remanescentes ou criadores clandestinos entre pindoriares e álvarars sobreviventes são todas possibilidades em aberto.
-
-📋 Referência: 3.3_racas_bestiario_LORE.md (§Grifo)
+Detalhes sobre criação, treinamento, disponibilidade atual na [[_wiki/conceitos/terceira_era\|Terceira Era]] e aparições narrativas específicas no Livro I não estão documentados. Nenhuma cena do Livro I mostra grifo em uso direto. Status pós-conquista [[_wiki/racas/shadar\|shadar]] indefinido: possível extinção, populações selvagens remanescentes ou criadores clandestinos entre pindoriares e [[_wiki/racas/alvarar\|álvarars]] sobreviventes são todas possibilidades em aberto.

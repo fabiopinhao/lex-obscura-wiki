@@ -28,5 +28,3 @@ A ophideia [[_wiki/personagens/xilvenneth\|Xilvenneth]], que estava presente no 
 Elzakar (adversário contido): O preceptor representa a hierarquia arcana formal; Zilvra representa o poder ophideia informal. O confronto entre ambos é disputa pelo controle da versão dos fatos que chegará ao Conselho. "Certas quedas começam antes da janela" é a matriarca dizendo que a verdade é matéria moldável, e que ela tem as ferramentas para moldá-la.
 
 [[_wiki/personagens/xilvenneth\|Xilvenneth]] (agente / extensão): Ophideia presente no corredor durante o conflito, cuja provocação a [[_wiki/personagens/rhazamir\|Rhazamir]] detonou a cadeia de eventos. A conexão com Zilvra sugere que a presença de [[_wiki/personagens/xilvenneth\|Xilvenneth]] na torre não era casual, mesmo que a escalada tenha saído do roteiro.
-
-📋 Referência: 3.11_organizacoes_LORE.md (§Casas Matriarcais, §[[_wiki/organizacoes/ophideias\|Ophideias]]); 3.12_personagens_principais_LORE.md (§[[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]])

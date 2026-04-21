@@ -30,5 +30,3 @@ Duas palavras que validam a morte de [[_wiki/personagens/zarae\|Zarae]] como ato
 [[_wiki/personagens/zarae\|Zarae]] (aprendiz / perda validada): Belarbreza validou a morte da própria aprendiz sem hesitação. Nas Câmaras de Provação, a regra é funcional: quem cai, caiu. A matriarca não protege: avalia.
 
 [[_wiki/personagens/nyssira_avaroth\|Nyssira Avaroth]] (negociadora / cliente): A aliança entre Casa Srune e Casa [[_wiki/personagens/nidzina_avaroth\|Avaroth]] foi selada na negociação do treinamento de [[_wiki/personagens/nidzina_avaroth\|Nidzina]]. [[_wiki/personagens/nyssira_avaroth\|Nyssira]] trouxe a proposta; [[_wiki/personagens/orum-rahru\|Orum-Rahru]] trouxe o argumento ("[[_wiki/locais/vor-ghol\|Vor-Ghol]] forja ou quebra"); Belarbreza forneceu a forja.
-
-📋 Referência: 3.13_personagens_secundarios_LORE.md (§[[_wiki/personagens/zarae\|Zarae]], §[[_wiki/personagens/nyssira_avaroth\|Nyssira Avaroth]]); 3.11_organizacoes_LORE.md (§Casas Matriarcais)

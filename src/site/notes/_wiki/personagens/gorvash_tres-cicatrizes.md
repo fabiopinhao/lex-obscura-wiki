@@ -20,5 +20,3 @@ O mistério registrado no Mapa de Mistérios ("Por que [[_wiki/personagens/vekra
 **[[_wiki/personagens/hugur_comedor-de-ferro\|Hugur Comedor-de-Ferro]] (par):** Ambos capitães [[_wiki/racas/orc\|orcs]] de [[_wiki/personagens/vekraal\|Vekraal]], posicionados juntos e à margem. Relação entre eles não documentada.
 
 **[[_wiki/personagens/orum-rahru\|Orum-Rahru]] (antagonismo indireto):** [[_wiki/personagens/orum-rahru\|Orum]] os usou como pretexto para humilhar [[_wiki/personagens/vekraal\|Vekraal]], questionando a presença de "raças inferiores" em [[_wiki/locais/khargoth\|Khargoth]].
-
-📋 Referência: 3.13_personagens_secundarios_LORE.md (§Gorvash Três-Cicatrizes)

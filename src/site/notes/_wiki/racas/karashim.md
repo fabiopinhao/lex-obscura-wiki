@@ -102,5 +102,3 @@ Karashins falam com peso. Frases medidas, vocabulário concreto, referências co
 Nascem individualmente (gêmeos são raríssimos). Infância longa: consideram-se adultos aos 25. Aprendizado de ofício começa aos 10 e dura décadas; mudar de guilda após os 40 é visto com desconfiança. Vivem até 120-150 anos. Casamentos são arranjos práticos entre clãs, frequentemente usados para selar alianças ou encerrar disputas (com sucesso variável). Filhos pertencem ao clã da mãe; o ofício segue o do pai. Separações são raras e estigmatizadas.
 
 Funerais são privados. O corpo é cremado na forja do clã, e as cinzas são misturadas ao próximo lote de metal fundido. O primeiro objeto forjado com esse metal é guardado pela família. Karashins carregam seus mortos nas ferramentas.
-
-📋 Referência: 3.10_cronologia_LORE.md (§[[_wiki/eventos/sopro_do_eclipse\|Sopro do Eclipse]], §Guerras Reinkárdicas)

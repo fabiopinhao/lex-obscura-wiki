@@ -32,5 +32,3 @@ A cena opera em três camadas simultâneas: julgamento formal ([[_wiki/organizac
 [[_wiki/personagens/arothistar\|Arothistar]] (monarca / captor): Reconhece o poder dele sem se submeter ideologicamente. Reivindica a primazia de [[_wiki/personagens/xarn\|Xarn]] como contrapeso retórico à autoridade imperial. No Livro II, torna-se sua prisioneira: a filósofa que questionava o poder reduzida a hóspede do poder.
 
 [[_wiki/personagens/kaedhras\|Kaedhras Morvil]] (peça descartável): O tenente é instrumento duplo: evidência de corrupção militar [[_wiki/racas/shadar\|shadar]] e isca para medir [[_wiki/personagens/orum-rahru\|Orum]]. Quavarra o entrega sabendo que a execução é inevitável.
-
-📋 Referência: 3.13_personagens_secundarios_LORE.md (§[[_wiki/personagens/kaedhras\|Kaedhras]] Morvil); 3.11_organizacoes_LORE.md (§Casas Matriarcais, §[[_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]])
