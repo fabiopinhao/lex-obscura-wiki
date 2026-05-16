@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/lunia.md","permalink":"/wiki/conceitos/lunia/"}
+{"dg-publish":true,"permalink":"/00-vault/wiki/conceitos/lunia/"}
 ---
 
 
@@ -13,6 +13,6 @@ As estações do [[00_VAULT/_wiki/conceitos/varnum\|Varnum]] são medidas em Lú
 
 ### Uso Narrativo
 
-A Lúnia funciona como marcador de ritmo para eventos recorrentes. [[00_VAULT/grains/personagens/tibaut\|Tibaut]] descreveu os roubos em [[00_VAULT/grains/locais/morvgrad\|Morvgrad]] como "metódicos como lua nova", vinculando a periodicidade criminosa ao ciclo lunar. A fáscia da Lua Nova (primeira semana de cada Lúnia) carrega conotação de escuridão e oportunismo, enquanto a Plena marca cerimônias do [[00_VAULT/_wiki/organizacoes/culto_sombrio\|Culto Sombrio]].
+A Lúnia funciona como marcador de ritmo para eventos recorrentes. [[00_VAULT/_wiki/personagens/tibaut\|Tibaut]] descreveu os roubos em [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]] como "metódicos como lua nova", vinculando a periodicidade criminosa ao ciclo lunar. A fáscia da Lua Nova (primeira semana de cada Lúnia) carrega conotação de escuridão e oportunismo, enquanto a Plena marca cerimônias do [[00_VAULT/_wiki/organizacoes/culto_sombrio\|Culto Sombrio]].
 
-A contagem em Lúnias é de uso cotidiano e militar. Contratos, prazos de serviço, ciclos de patrulha e rotações de guarda operam em fáscias e Lúnias. Para questões de Estado e sucessão, o [[00_VAULT/_wiki/conceitos/varnum\|Varnum]] prevalece como unidade de referência.
+A contagem em Lúnias é de uso cotidiano e militar. Contratos, prazos de serviço, ciclos de patrulha e rotações de guarda operam em fáscias e Lúnias. Para questões de Estado e sucessão, o [[00_VAULT/_wiki/conceitos/varnum\|Varnum]] prevalece como unidade de referência. 
