@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/sustentacao.md","permalink":"/wiki/feiticos/sustentacao/","dg-note-properties":{"tipo":"feitico","nome":"Sustentação","escola":"Aero","escala":"Menor","aliases":[],"tags":[],"ordem":43,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sustentacao.md","permalink":"/wiki/feiticos/sustentacao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Sustentação
 
-**Escola:** [[00_VAULT/_wiki/escolas/aero\|Aero]]
-**Escala:** Menor
+Sustentação é um feitiço de escala menor da escola do [[00_VAULT/_wiki/escolas/aero\|Aero]] que ergue correntes ascendentes para amortecer quedas, prolongar saltos e permitir uma planagem breve.
 
-Correntes ascendentes que amortecem quedas, prolongam saltos e permitem planagem breve. Diferente de Pluma ([[00_VAULT/_wiki/escolas/urano\|Urano]]), que transcende peso pela vontade: Sustentação usa vento real, o ar retarda a queda sem transcendência. Custo: vertigem ao cessar, sensação de queda fantasma
+Difere da [[00_VAULT/_wiki/feiticos/pluma\|Pluma]], da escola do [[00_VAULT/_wiki/escolas/urano\|Urano]], que transcende o peso pela vontade; a Sustentação recorre ao vento real, e o ar retarda a queda sem transcendê-la. Ao cessar, cobra vertigem e a sensação fantasma de continuar caindo.

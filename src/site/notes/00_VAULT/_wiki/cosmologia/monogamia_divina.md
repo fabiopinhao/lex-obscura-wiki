@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/monogamia_divina.md","permalink":"/wiki/cosmologia/monogamia-divina/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Monogamia Divina","subtipo":"cosmogonia_teologia","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":[],"tags":[],"ordem":10,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/monogamia_divina.md","permalink":"/wiki/cosmologia/monogamia-divina/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Monogamia Divina
+
+A monogamia divina é a tendência dos deuses à exclusividade no vínculo com mortais. Não é lei metafísica, mas inclinação proporcional ao valor de cada mortal, e aplica-se a todas as categorias divinas, não apenas aos [[00_VAULT/_wiki/cosmologia/diabos\|diabos]].
 
 ### Natureza
 
-A chamada "monogamia divina" não é lei metafísica, mas tendência proporcional ao valor do mortal. O princípio se aplica a todas as categorias divinas, não apenas a [[00_VAULT/_wiki/cosmologia/diabos\|diabos]]. Deuses preferem exclusividade: um mortal comum raramente obtém sequer um vínculo, e a maioria dos que obtêm não atrai interesse de um segundo deus.
-
-Mortais de alto valor, contudo, podem atrair múltiplos deuses dispostos a compartilhar, com custo exponencial para o mortal. Quanto mais vínculos, maior a exigência de cada deus. Na prática, ter dois vínculos simultâneos já é raríssimo (aproximadamente 2,5% dos que possuem magia). Três é aberração histórica sem precedente conhecido.
+Os deuses preferem a exclusividade. Um mortal comum raramente obtém sequer um vínculo, e a maioria dos que obtêm não desperta o interesse de um segundo deus. Mortais de valor excepcional podem atrair múltiplas divindades dispostas a compartilhá-los, mas a um custo crescente: quanto mais vínculos, maior a exigência que cada deus impõe sobre o portador. Na prática, dois vínculos simultâneos já são raríssimos, presentes em torno de 2,5% dos que possuem magia. Três é tido como aberração histórica, sem precedente conhecido.

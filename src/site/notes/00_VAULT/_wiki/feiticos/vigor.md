@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/vigor.md","permalink":"/wiki/feiticos/vigor/","dg-note-properties":{"tipo":"feitico","nome":"Vigor","escola":"Vita","escala":"Menor","aliases":[],"tags":[],"ordem":92,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/vigor.md","permalink":"/wiki/feiticos/vigor/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Vigor
 
-**Escola:** [[00_VAULT/_wiki/escolas/vita\|Vita]]
-**Escala:** Menor
+Vigor é um feitiço da escola de [[00_VAULT/_wiki/escolas/vita\|Vita]], de escala Menor. Infunde energia vital no alvo: a fadiga recua, os músculos respondem, a disposição retorna. Não cura ferimentos, mas faz o corpo funcionar como se não estivesse ferido.
 
-Infundir energia vital em alvo: fadiga recua, músculos respondem, disposição retorna. Não cura ferimentos, mas o corpo funciona como se não estivesse ferido. Diferente de Bálsamo ([[00_VAULT/_wiki/escolas/salvo\|Salvo]]), que suprime dor: Vigor restaura energia, não mascara dano. Custo: exaustão breve no conjurador, como se cedesse a própria reserva
+Diferencia-se do Bálsamo, da escola de [[00_VAULT/_wiki/escolas/salvo\|Salvo]], que suprime a dor. Vigor restaura energia em vez de mascarar o dano.
+
+### Custo
+
+O conjurador sofre uma exaustão breve, como se cedesse a própria reserva.

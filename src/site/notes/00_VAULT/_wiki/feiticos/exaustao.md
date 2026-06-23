@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/exaustao.md","permalink":"/wiki/feiticos/exaustao/","dg-note-properties":{"tipo":"feitico","nome":"Exaustão","escola":"Hypno","escala":"Média","aliases":[],"tags":[],"ordem":124,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/exaustao.md","permalink":"/wiki/feiticos/exaustao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Exaustão
 
-**Escola:** [[00_VAULT/_wiki/escolas/hypno\|Hypno]]
-**Escala:** Média
+Exaustão é um feitiço de escala média da escola [[00_VAULT/_wiki/escolas/hypno\|Hypno]]. Induz uma fadiga psicossomática na qual a mente ordena ao corpo que pare: os músculos amolecem, a coordenação falha e cada esforço custa o dobro.
 
-Induzir fadiga psicossomática: a mente ordena ao corpo que pare. Músculos amolecem, coordenação falha, cada esforço custa o dobro. Diferente de Enfraquecimento ([[00_VAULT/_wiki/escolas/anatho\|Anatho]]), que degrada por maldição: Exaustão é neurológica, o corpo obedece à desistência mental. Diferente de Febre ([[00_VAULT/_wiki/escolas/patho\|Patho]]), que drena por resposta imunológica: Exaustão é colapso de motivação. Custo: fadiga residual no conjurador, bocejos involuntários
+Diferente do Enfraquecimento, da escola [[00_VAULT/_wiki/escolas/anatho\|Anatho]], que degrada o alvo por maldição, a Exaustão é neurológica, e o corpo obedece à desistência mental. Diferente da [[00_VAULT/_wiki/feiticos/febre\|Febre]], da escola [[00_VAULT/_wiki/escolas/patho\|Patho]], que drena por resposta imunológica, a Exaustão é um colapso de motivação. O custo é uma fadiga residual no conjurador, acompanhada de bocejos involuntários.

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/miasma.md","permalink":"/wiki/feiticos/miasma/","dg-note-properties":{"tipo":"feitico","nome":"Miasma","escola":"Toxo","escala":"**Máxima**","aliases":[],"tags":[],"ordem":290,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/miasma.md","permalink":"/wiki/feiticos/miasma/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Miasma
 
-**Escola:** [[00_VAULT/_wiki/escolas/toxo\|Toxo]]
-**Escala:** **Máxima**
+Miasma é um feitiço de escala máxima da escola [[00_VAULT/_wiki/escolas/toxo\|Toxo]]. É uma nuvem de morte que funde veneno e ácido em escala ambiental: o ar envenena, as superfícies corroem, e solo e água ficam estéreis por dias. Autônoma e territorial, persiste sem sustentação do conjurador.
 
-Nuvem de morte que funde veneno e ácido em escala ambiental. O ar envenena, superfícies corroem, solo e água ficam estéreis por dias. Diferente de Exalação (centrada no corpo do conjurador), Miasma é autônoma e territorial: persiste sem sustentação. Diferente de Pestilência ([[00_VAULT/_wiki/escolas/patho\|Patho]]), que propaga doença orgânica: Miasma é química letal. Dispersar requer [[00_VAULT/_wiki/escolas/aero\|Aero]], [[00_VAULT/_wiki/escolas/sacro\|Sacro]]/Consagração ou Lacuna ([[00_VAULT/_wiki/escolas/abjuro\|Abjuro]]). Custo devastador: o conjurador absorve concentração letal da própria toxina. Órgãos falham em cascata, sem [[00_VAULT/_wiki/escolas/salvo\|Salvo]], morte certa
+Distingue-se de Exalação, centrada no corpo de quem a invoca, e de Pestilência, da escola [[00_VAULT/_wiki/escolas/patho\|Patho]], que propaga doença orgânica; Miasma é química letal. Dispersá-la exige [[00_VAULT/_wiki/escolas/aero\|Aero]], uma Consagração da escola do [[00_VAULT/_wiki/escolas/sacro\|Sacro]] ou uma Lacuna da escola [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]]. O preço é devastador: o conjurador absorve concentração letal da própria toxina, os órgãos falham em cascata e, sem [[00_VAULT/_wiki/escolas/salvo\|Salvo]], a morte é certa.

@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/remissao.md","permalink":"/wiki/feiticos/remissao/","dg-note-properties":{"tipo":"feitico","nome":"Remissão","escola":"Salvo","escala":"Média","aliases":[],"tags":[],"ordem":116,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/remissao.md","permalink":"/wiki/feiticos/remissao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Remissão
 
-**Escola:** [[00_VAULT/_wiki/escolas/salvo\|Salvo]]
-**Escala:** Média
+Remissão é um feitiço da escola do [[00_VAULT/_wiki/escolas/salvo\|Salvo]], de escala média, que elimina doença já instalada no corpo. Não trata sintomas: reverte o próprio processo patológico, de modo que a febre cede, a infecção recua e o tecido inflamado desincha.
 
-Eliminar doença instalada no corpo. Não trata sintomas: reverte o processo patológico: febre cede, infecção recua, tecido inflamado desincha. Contra doenças comuns, é resolução. Contra pragas mágicas ou infecções de [[00_VAULT/_wiki/escolas/patho\|Patho]], é contenção que estabiliza e compra tempo. Diferente de Depuração (que expulsa substância estranha), Remissão corrige o próprio corpo que adoeceu. Custo: fantasma da doença curada: tremor, suor frio, fraqueza proporcional
+### Alcance e limites
+
+Contra doenças comuns, é resolução plena. Contra pragas mágicas ou infecções da escola do [[00_VAULT/_wiki/escolas/patho\|Patho]], funciona como contenção: estabiliza o quadro e compra tempo, sem erradicar a causa. Distingue-se da [[00_VAULT/_wiki/feiticos/depuracao\|Depuração]], que expulsa substância estranha do corpo; a Remissão corrige o próprio corpo que adoeceu.
+
+### Custo
+
+Cobra o fantasma da doença curada: tremor, suor frio e fraqueza proporcionais ao mal revertido.

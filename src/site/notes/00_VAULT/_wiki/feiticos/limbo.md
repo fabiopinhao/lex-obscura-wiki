@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/limbo.md","permalink":"/wiki/feiticos/limbo/","dg-note-properties":{"tipo":"feitico","nome":"Limbo","escola":"Spectro","escala":"**Máxima**","aliases":[],"tags":[],"ordem":270,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/limbo.md","permalink":"/wiki/feiticos/limbo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Limbo
 
-**Escola:** [[00_VAULT/_wiki/escolas/spectro\|Spectro]]
-**Escala:** **Máxima**
+Limbo é um feitiço de escala máxima da escola do [[00_VAULT/_wiki/escolas/spectro\|Spectro]]. O conjurador força o alvo para o espaço entre os planos, nem material nem etéreo, onde nenhum plano reconhece a presença do banido. O mundo aparece como vidro fosco: as formas se movem, os sons chegam abafados e nada responde ao toque.
 
-O conjurador força o alvo para o espaço entre os planos, nem material nem etéreo. Diferente de Oubliette ([[00_VAULT/_wiki/escolas/nomos\|Nomos]]), que cria bolso dimensional selado: Limbo é o intervalo onde nenhum plano reconhece a presença do banido. O mundo aparece como vidro fosco: formas se movem, sons chegam abafados, nada responde ao toque. Retornar exige intervenção externa: [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]], [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]]/Portal, ou dissolução natural. Custo devastador: o conjurador sente o puxão da fronteira como translucidez nas próprias mãos, dúvida sobre qual lado ficou. Uso repetido acelera o Estágio IV
+Distingue-se da Oubliette, feitiço do [[00_VAULT/_wiki/escolas/nomos\|Nomos]] que cria um bolso dimensional selado: o Limbo é o intervalo, não um recinto. Retornar dele exige intervenção externa, seja um [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]], um Portal do [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]] ou a dissolução natural.
+
+### Custo
+
+Devastador. O conjurador sente o puxão da fronteira como translucidez nas próprias mãos e a dúvida sobre qual lado ficou. O uso repetido acelera o Estágio IV.

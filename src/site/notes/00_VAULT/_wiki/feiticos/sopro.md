@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/sopro.md","permalink":"/wiki/feiticos/sopro/","dg-note-properties":{"tipo":"feitico","nome":"Sopro","escola":"Aero","escala":"Menor","aliases":[],"tags":[],"ordem":42,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sopro.md","permalink":"/wiki/feiticos/sopro/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Sopro
 
-**Escola:** [[00_VAULT/_wiki/escolas/aero\|Aero]]
-**Escala:** Menor
+Sopro é um feitiço da escola [[00_VAULT/_wiki/escolas/aero\|Aero]], de escala menor. Produz uma rajada de ar direcional e única.
 
-Rajada direcional única: empurra objetos leves, dispersa fumaça e gases, apaga chamas expostas. Diferente de Pulso ([[00_VAULT/_wiki/escolas/cosmo\|Cosmo]]), que empurra por gravidade: Sopro usa ar real, afeta apenas o que o vento alcança. Custo: pressão reversa no peito, sensação de fôlego curto
+### Efeito
+
+A rajada empurra objetos leves, dispersa fumaça e gases e apaga chamas expostas. Usa ar real e afeta apenas o que o vento alcança, o que o distingue do Pulso ([[00_VAULT/_wiki/escolas/cosmo\|Cosmo]]), que empurra por gravidade.
+
+### Custo
+
+O conjurador sente uma pressão reversa no peito e uma sensação de fôlego curto.

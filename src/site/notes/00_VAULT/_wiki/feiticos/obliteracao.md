@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/obliteracao.md","permalink":"/wiki/feiticos/obliteracao/","dg-note-properties":{"tipo":"feitico","nome":"Obliteração","escola":"Rupto","escala":"Maior","aliases":[],"tags":[],"ordem":189,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/obliteracao.md","permalink":"/wiki/feiticos/obliteracao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Obliteração
 
-**Escola:** [[00_VAULT/_wiki/escolas/rupto\|Rupto]]
-**Escala:** Maior
+Obliteração é um feitiço da escola [[00_VAULT/_wiki/escolas/rupto\|Rupto]], de escala maior. Destrói por completo um único alvo: um objeto, uma barreira, uma seção de muro. A integridade estrutural cessa naquele volume preciso, e não resta fragmento nem pó.
 
-Destruir completamente um único alvo: objeto, barreira, seção de muro. A integridade estrutural cessa naquele volume preciso: não resta fragmento, não resta pó. Diferente de Detonação (área indiscriminada) e Demolição (colapso sequencial): Obliteração é ponto único, absoluto. A precisão exige concentração extrema. Custo: dor aguda nas articulações, como se os ossos lembrassem o que significa deixar de existir
+Distingue-se de Detonação, que atinge uma área indiscriminada, e de Demolição, que provoca colapso sequencial: Obliteração é ponto único e absoluto. Tamanha precisão exige concentração extrema.
+
+### Custo
+
+O preço é uma dor aguda nas articulações, como se os ossos lembrassem o que significa deixar de existir.

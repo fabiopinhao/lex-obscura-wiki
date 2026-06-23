@@ -1,58 +1,27 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/pactum_diaboli.md","permalink":"/wiki/magia/pactum-diaboli/","dg-note-properties":{"tipo":"sistema_acesso","nome":"Pactum Diaboli","cor":"Preto (B)","nome_latino":"Pactum Diaboli","entidade":"Diabos","tipo_acesso":"Contrato","dificuldade":"Média","estabilidade":"Alta","custo_principal":"Obrigações rígidas pré-negociadas","custo_recai_sobre":["alma","terceiros"],"pode_trair":"Sim","posicao_doutrinaria_imperial":"clandestino_utilitario","termo_canalizacao":"Outorga","aliases":[],"ordem":1,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/pactum_diaboli.md","permalink":"/wiki/magia/pactum-diaboli/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Pactum Diaboli
+
+O Pactum Diaboli é o sistema de acesso à magia preta firmado por contrato com os [[00_VAULT/_wiki/cosmologia/diabos\|diabos]], entidades legalistas dos Nove Infernos. É uma via de poder estável e previsível, paga com obrigações rígidas e, ao fim, com a própria alma.
 
 ### Natureza
 
-[[00_VAULT/_wiki/cosmologia/diabos\|Diabos]] são legalistas malignos que adoram contratos vinculantes, hierarquia e precisão jurídica.
+Os diabos são legalistas malignos que veneram contratos vinculantes, hierarquia e precisão jurídica. O pacto que oferecem existe simultaneamente no plano material e nos Nove Infernos, e a hierarquia infernal garante seu cumprimento, oferecendo inclusive proteção ao pactuado.
 
-### Canalização — Outorga
+### Outorga
 
-A transferência de [[00_VAULT/_wiki/cosmologia/magi\|magi]] no Pactum Diaboli é formal e contratual. O diabo concede poder conforme os termos do pacto; o fluxo é previsível, estável e proporcional à obediência. A Outorga amplifica os sentimentos-chave das escolas concedidas, aprofundando a exposição emocional e acelerando a [[00_VAULT/_wiki/magia/progressao_ontologica\|progressão ontológica]]. O diabo não substitui o sentimento — intensifica-o, sustenta-o e o torna mais difícil de desligar.
-
-Para a mecânica de [[00_VAULT/_wiki/cosmologia/magi\|Magi]] — reserva, recuperação e sobrecarga —, ver [[00_VAULT/_wiki/magia/sistema_de_combustivel_magico\|Sistema de Combustível Mágico]]; para os estágios da transformação ontológica, [[00_VAULT/_wiki/magia/progressao_ontologica\|Progressão Ontológica]].
+A canalização do Pactum Diaboli chama-se Outorga e é formal e contratual. O diabo concede poder conforme os termos do pacto, num fluxo previsível, estável e proporcional à obediência. A Outorga amplifica os sentimentos-chave das escolas concedidas, aprofundando a exposição emocional do pactuado; o diabo não substitui o sentimento, mas o intensifica, sustenta e torna mais difícil de desligar.
 
 ### Processo de Invocação
 
-1. **Ritual de Convocação:**
-   - Círculo de contenção com runas de invocação
-   - Oferenda inicial (sangue, alma de outro, conhecimento proibido)
-   - Nome verdadeiro do diabo deve ser pronunciado
-   - Testemunhas diabólicas menores observam (garantem cumprimento)
+A invocação começa por um ritual de convocação, com círculo de contenção, runas e uma oferenda inicial, e exige a pronúncia do nome verdadeiro do diabo, sob a observação de testemunhas diabólicas menores. Segue-se a negociação: o diabo apresenta um contrato formal, com cláusulas em língua antiga, e a tratativa pode durar horas ou dias, pois cada palavra importa e os diabos exploram brechas e ambiguidades. O selamento se dá pela assinatura do conjurador, e o contrato passa a valer ao mesmo tempo no plano material e nas regiões extraplanares.
 
-2. **Negociação:**
-   - Diabo apresenta contrato formal com cláusulas em língua antiga
-   - Negociação pode durar horas/dias
-   - Cada palavra importa - [[00_VAULT/_wiki/cosmologia/diabos\|diabos]] exploram brechas e ambiguidades
-   - Conjurador pode negociar termos, mas diabo sempre vence no longo prazo
+### Obrigações e Custos
 
-3. **Selamento:**
-   - Assinatura do conjurador
-   - Contrato existe simultaneamente no plano material e nas regiões extraplanares
-
-### Obrigações Típicas
-
-- Serviços específicos: "Assassinar uma pessoa"
-- Sacrifícios regulares: "Oferecer alma de pecador a ciclo lunar"
-- Proibições: "Nunca entrar em templo sagrado" ou "Nunca recusar pedido de superior"
-- Tributo de poder: Parte da força vital drenada constantemente
-
-### Vantagens e Desvantagens
-
-- ✅ Poder estável e previsível
-- ✅ Diabo cumpre sua parte do contrato (ao pé da letra)
-- ✅ Pode renegociar termos (com grande custo)
-- ✅ Oferece proteção contra outras entidades
-
-- ❌ Obrigações inflexíveis - falha = punição imediata
-- ❌ [[00_VAULT/_wiki/cosmologia/diabos\|Diabos]] traem via tecnicalidade (cumprem letra literal do pacto)
-- ❌ Marca diabólica é detectável por paladinos/sacerdotes
-- ❌ Alma está penhorada - após morte, pertence ao diabo
+As obrigações são pré-negociadas e inflexíveis: serviços específicos, sacrifícios regulares, proibições estritas ou tributo contínuo de força vital. A falha acarreta punição imediata. Os diabos honram a letra literal do pacto, e é por tecnicalidades e brechas que traem. A marca do pacto, uma runa infernal queimada na pele, é detectável por paladinos e sacerdotes. O custo recai sobre a alma e sobre terceiros: a alma do pactuado fica penhorada e, após a morte, pertence ao diabo. Em contrapartida, o poder é estável, o diabo cumpre sua parte e oferece proteção contra outras entidades.
 
 ### Quebra de Pacto
 
-- Diabo pode revogar poderes instantaneamente
-- Marca corrompe corpo do pactuado (dano severo)
-- Caçadores diabólicos (outros pactuados) enviados para capturar/punir
-- Alma pode ser reivindicada antes da morte
+A ruptura é severa e raramente recuperável. O diabo pode revogar os poderes instantaneamente, e a marca corrompe o corpo do pactuado. Caçadores diabólicos, outros pactuados a serviço da hierarquia, são enviados para capturar ou punir o faltoso, e a alma pode ser reivindicada antes mesmo da morte.

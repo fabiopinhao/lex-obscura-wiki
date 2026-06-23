@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/quimera.md","permalink":"/wiki/feiticos/quimera/","dg-note-properties":{"tipo":"feitico","nome":"Quimera","escola":"Morpho","escala":"**Máxima**","aliases":[],"tags":[],"ordem":280,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/quimera.md","permalink":"/wiki/feiticos/quimera/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Quimera
 
-**Escola:** [[00_VAULT/_wiki/escolas/morpho\|Morpho]]
-**Escala:** **Máxima**
+Quimera é um feitiço da escola [[00_VAULT/_wiki/escolas/morpho\|Morpho]], de escala máxima, que reescreve por completo a forma física de quem o conjura, de um alvo ou de uma área. Combina traços de múltiplas criaturas em uma anatomia sem precedente natural, fundindo formas em algo que nunca existiu. Tudo nasce funcional, tudo coeso: sob Quimera, a realidade biológica se curva à vontade do conjurador.
 
-Reescrever completamente a forma física de si, alvo ou área, combinando traços de múltiplas criaturas em anatomia sem precedente natural. Diferente de Reconstituir (que altera biologia mantendo um modelo base): Quimera funde múltiplas formas em algo que nunca existiu. Tudo funcional, tudo coeso. A realidade biológica se curva à vontade do conjurador. Custo devastador: identidade se dissolve. Espelhos se tornam perguntas sem resposta. Uso repetido produz metamorfos que não lembram o rosto com que nasceram, acelerando o Estágio IV
+### Alcance
+
+Distingue-se de Reconstituir, que altera a biologia mantendo um modelo base. Quimera não corrige nem adapta uma forma existente: ela inventa.
+
+### Custo
+
+O preço é devastador. A identidade se dissolve, e os espelhos se tornam perguntas sem resposta. O uso repetido produz metamorfos que já não lembram o rosto com que nasceram, acelerando o Estágio IV.

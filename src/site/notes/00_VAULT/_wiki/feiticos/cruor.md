@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/cruor.md","permalink":"/wiki/feiticos/cruor/","dg-note-properties":{"tipo":"feitico","nome":"Cruor","escola":"Belli","escala":"Média","aliases":[],"tags":[],"ordem":205,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/cruor.md","permalink":"/wiki/feiticos/cruor/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Cruor
 
-**Escola:** [[00_VAULT/_wiki/escolas/belli\|Belli]]
-**Escala:** Média
+Cruor é um feitiço da escola [[00_VAULT/_wiki/escolas/belli\|Belli]], de escala média, que converte o sangue derramado em combustível. Cada ferimento recebido amplifica a força, a velocidade e a resistência do conjurador: quanto mais ele sangra, mais perigoso se torna.
 
-Sangue derramado vira combustível: cada ferimento recebido amplifica força, velocidade e resistência. Diferente de Imolação (que queima reservas vitais por performance total): Cruor escala com dano sofrido, não com entrega total. Quanto mais sangra, mais perigoso. Custo: quando a magia cessa, a exaustão cobra tudo de volta, crash proporcional ao sangue perdido
+### Natureza
+
+Distingue-se da Imolação, que queima as reservas vitais por uma performance total: o Cruor escala com o dano sofrido, não com a entrega completa de si. É um poder que se alimenta da própria ferida.
+
+### Custo
+
+Quando a magia cessa, a exaustão cobra tudo de volta, num colapso proporcional ao sangue perdido.

@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/sifao.md","permalink":"/wiki/feiticos/sifao/","dg-note-properties":{"tipo":"feitico","nome":"Sifão","escola":"Necro","escala":"Média","aliases":[],"tags":[],"ordem":84,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sifao.md","permalink":"/wiki/feiticos/sifao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Sifão
 
-**Escola:** [[00_VAULT/_wiki/escolas/necro\|Necro]]
-**Escala:** Média
+Sifão é um feitiço de escala Média da escola do [[00_VAULT/_wiki/escolas/necro\|Necro]]. Suga a força vital de um ser vivo por proximidade ou contato e transfere parcela dela ao conjurador.
 
-Sugar força vital de ser vivo por proximidade ou contato, transferindo parcela ao conjurador. Alvo enfraquece; conjurador sente calor temporário. Diferente de Dessecação ([[00_VAULT/_wiki/escolas/hydro\|Hydro]]), que drena água do corpo: Sifão drena essência vital, o alvo não desidrata, definha. Diferente de Enxerto ([[00_VAULT/_wiki/escolas/vita\|Vita]]), que redistribui vitalidade entre voluntários: Sifão é parasitismo, não transferência. Custo: frio cadavérico ao cessar, como se o calor roubado cobrasse juros
+### Efeito
+
+Sob o feitiço, o alvo enfraquece enquanto o conjurador sente um calor temporário. O que se drena é a essência vital: o alvo não desidrata, definha. Isso o separa de práticas próximas. A Dessecação, da escola do [[00_VAULT/_wiki/escolas/hydro\|Hydro]], drena a água do corpo; o Enxerto, da escola do [[00_VAULT/_wiki/escolas/vita\|Vita]], redistribui vitalidade entre voluntários. O Sifão é parasitismo, não transferência consentida.
+
+### Custo
+
+Quando o efeito cessa, vem um frio cadavérico, como se o calor roubado cobrasse juros.

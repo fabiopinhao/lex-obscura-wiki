@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/bilis.md","permalink":"/wiki/feiticos/bilis/","dg-note-properties":{"tipo":"feitico","nome":"Bílis","escola":"Toxo","escala":"Média","aliases":[],"tags":[],"ordem":284,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/bilis.md","permalink":"/wiki/feiticos/bilis/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Bílis
 
-**Escola:** [[00_VAULT/_wiki/escolas/toxo\|Toxo]]
-**Escala:** Média
+Bílis é um feitiço de escala média da escola [[00_VAULT/_wiki/escolas/toxo\|Toxo]]. Conjura um líquido corrosivo que derrete matéria orgânica e metal, projetado de várias formas: cuspido, secretado pelas mãos ou condensado no ar. A pele bolha e se dissolve, o metal fino escorre como cera, e a substância continua corroendo até ser neutralizada por solvente, por Purga ou por diluição.
 
-Líquido corrosivo conjurado que derrete matéria orgânica e metal: cuspido, secretado pelas mãos ou condensado no ar. Diferente de Corrosão (degradação lenta por contato), Bílis é projetada e agressiva. Pele bolha e se dissolve, metal fino escorre como cera. Continua corroendo até neutralizada por solvente, Purga ou diluição. Custo: queimação no esôfago, uso repetido corrói esmalte e ulcera mucosas
+Diferente de Corrosão, que age por degradação lenta ao contato, Bílis é projetada e agressiva. O custo recai sobre o conjurador na forma de queimação no esôfago; o uso repetido corrói o esmalte e ulcera as mucosas.

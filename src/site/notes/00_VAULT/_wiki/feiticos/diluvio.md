@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/diluvio.md","permalink":"/wiki/feiticos/diluvio/","dg-note-properties":{"tipo":"feitico","nome":"Dilúvio","escola":"Hydro","escala":"Maior","aliases":[],"tags":[],"ordem":19,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/diluvio.md","permalink":"/wiki/feiticos/diluvio/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Dilúvio
 
-**Escola:** [[00_VAULT/_wiki/escolas/hydro\|Hydro]]
-**Escala:** Maior
+Dilúvio é um feitiço maior da escola do [[00_VAULT/_wiki/escolas/hydro\|Hydro]]: uma inundação em área. Ondas arrastam, a correnteza arranca e o nível da água sobe sem descer, de modo que um terreno plano vira lago em segundos.
 
-Inundação em área: ondas que arrastam, correnteza que arranca, nível que sobe e não desce. Terreno plano vira lago em segundos. Diferente de Nevasca ([[00_VAULT/_wiki/escolas/cryo\|Cryo]]), que sepulta em gelo: Dilúvio afoga em água. Diferente de Terremoto ([[00_VAULT/_wiki/escolas/geo\|Geo]]), que destrói solo: Dilúvio o submerge. Custo: desidratação paradoxal, o corpo cede água enquanto a conjura a multiplica
+Distingue-se da Nevasca, da escola do [[00_VAULT/_wiki/escolas/cryo\|Cryo]], que sepulta sob o gelo, e do Terremoto, da escola do [[00_VAULT/_wiki/escolas/geo\|Geo]], que destrói o solo: o Dilúvio afoga em água e submerge o que encontra. O custo é uma desidratação paradoxal, em que o corpo do conjurador cede água enquanto a conjura a multiplica.

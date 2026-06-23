@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/balsamo.md","permalink":"/wiki/feiticos/balsamo/","dg-note-properties":{"tipo":"feitico","nome":"Bálsamo","escola":"Salvo","escala":"Menor","aliases":[],"tags":[],"ordem":111,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/balsamo.md","permalink":"/wiki/feiticos/balsamo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Bálsamo
 
-**Escola:** [[00_VAULT/_wiki/escolas/salvo\|Salvo]]
-**Escala:** Menor
+Bálsamo é um feitiço menor da escola do [[00_VAULT/_wiki/escolas/salvo\|Salvo]], voltado ao alívio da dor física. Pelo toque do conjurador, a agonia do ferido recua e cede lugar a um calor úmido, embora o ferimento permaneça intacto sob o alívio: o feitiço amortece a dor sem tratar a causa. Distingue-se da Quietude, da escola do [[00_VAULT/_wiki/escolas/urano\|Urano]], que silencia a ansiedade mental em vez da dor do corpo.
 
-Amortecer dor sem tratar a causa: o conjurador toca o ferido e a agonia recua, substituída por calor úmido. Diferente de Quietude ([[00_VAULT/_wiki/escolas/urano\|Urano]]), que silencia ansiedade mental: Bálsamo suprime dor física. O ferimento persiste intacto sob o alívio. Custo: eco surdo da dor suprimida no corpo do curador
+### Custo
+
+Suprimir a dor não a dissolve. O conjurador carrega um eco surdo da dor calada no próprio corpo.

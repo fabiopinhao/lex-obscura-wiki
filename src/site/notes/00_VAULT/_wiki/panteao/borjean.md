@@ -4,7 +4,7 @@
 
 # Borjean
 
-Borjean manifesta-se como um cavaleiro de armadura selada montado num alicórnio que não toca o chão. Seus domínios são o [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]] e o [[00_VAULT/_wiki/escolas/urano\|Urano]]: a negação da magia e a libertação da alma daquilo que a magia lhe fez.
+Borjean, o Juramento Ascendente, é um anjo do panteão que se manifesta como um cavaleiro de armadura selada montado num alicórnio que não toca o chão. Cultuado como São Borjean, é venerado como protetor dos justos em batalha. Seus domínios são o [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]] e o [[00_VAULT/_wiki/escolas/urano\|Urano]]: a negação da magia e a libertação da alma daquilo que a magia lhe fez.
 
 ### Aparição
 

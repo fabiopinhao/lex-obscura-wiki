@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/transmorfose.md","permalink":"/wiki/feiticos/transmorfose/","dg-note-properties":{"tipo":"feitico","nome":"Transmorfose","escola":"Morpho","escala":"Maior","aliases":[],"tags":[],"ordem":278,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/transmorfose.md","permalink":"/wiki/feiticos/transmorfose/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Transmorfose
 
-**Escola:** [[00_VAULT/_wiki/escolas/morpho\|Morpho]]
-**Escala:** Maior
+Transmorfose é um feitiço da escola de [[00_VAULT/_wiki/escolas/morpho\|Morpho]], de escala Maior. Transforma o alvo por completo em animal ou criatura, reescrevendo-o por inteiro: o esqueleto se dissolve e se reconfigura, a massa se redistribui, os órgãos se reformam. A vida e a consciência se mantêm, presas em instintos alheios.
 
-Transformar alvo completamente em animal ou criatura. Diferente de Transmutação (parcial, deformação) e Pele-fera (transforma a si): Transmorfose reescreve o outro por inteiro. Esqueleto se dissolve e reconfigura, massa redistribui, órgãos se reformam. Diferente de Petrificação ([[00_VAULT/_wiki/escolas/anatho\|Anatho]]), que transmuta em matéria inerte: Transmorfose mantém vida, consciência presa em instintos alheios. Reversão exige o mesmo conjurador ou [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]] equivalente. Custo: o conjurador sente o corpo próprio como provisório por horas
+Distingue-se da Transmutação, que produz deformação parcial, e da Pele-fera, que transforma o próprio conjurador. Separa-se também da Petrificação, da escola de [[00_VAULT/_wiki/escolas/anatho\|Anatho]], que converte o alvo em matéria inerte. A reversão exige o mesmo conjurador ou um [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]] equivalente.
+
+### Custo
+
+Por horas após a invocação, o conjurador sente o próprio corpo como provisório.

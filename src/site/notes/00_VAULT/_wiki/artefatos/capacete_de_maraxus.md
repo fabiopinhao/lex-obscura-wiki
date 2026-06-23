@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/capacete_de_maraxus.md","permalink":"/wiki/artefatos/capacete-de-maraxus/","dg-note-properties":{"tipo":"artefato","nome":"Capacete de Maraxus","tipo_artefato":"Capacete (bronze e cobre)","categoria":"Pessoal","portador_atual":"Maraxus (aprisionado)","localizacao_atual":"Ghol'Drokh","status_atual":"Inativo (removido)","origem":"Dromos Draconis (arenas extintas)","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":7,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/capacete_de_maraxus.md","permalink":"/wiki/artefatos/capacete-de-maraxus/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Capacete de Maraxus
 
-Relíquia das arenas extintas do [[00_VAULT/_wiki/locais/dromos_draconis\|Dromos Draconis]]. Bronze e cobre, feitio exótico. [[00_VAULT/_wiki/personagens/maraxus\|Maraxus]] o vestiu durante a incursão em [[00_VAULT/_wiki/locais/thal_serin\|Thal'Serin]], ocultando completamente o rosto. A verdadeira função era esconder a transformação demoníaca em progresso (veias negras, proto-chifres, mandíbula projetada), revelada quando um raio celestial atingiu o capacete durante a batalha (Cap12.3).
+O Capacete de Maraxus é uma relíquia das arenas extintas do [[00_VAULT/_wiki/locais/dromos_draconis\|Dromos Draconis]], forjado em bronze e cobre, de feitio exótico. [[00_VAULT/_wiki/personagens/maraxus\|Maraxus]] o veste durante a incursão em [[00_VAULT/_wiki/locais/thal_serin\|Thal'Serin]], ocultando por completo o rosto. Sua verdadeira função é esconder a transformação demoníaca em progresso — veias negras, proto-chifres e mandíbula projetada.

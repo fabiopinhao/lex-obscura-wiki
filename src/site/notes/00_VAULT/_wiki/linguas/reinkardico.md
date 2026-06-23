@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/reinkardico.md","permalink":"/wiki/linguas/reinkardico/","dg-note-properties":{"tipo":"lingua","nome":"Reinkárdico","tipo_lingua":"Cotidiana","era":"Segunda","cor_racial":"Universal","raca_principal":"Pindoriares","funcao":"Língua franca do continente","fluencia_comum":"Universal","relacao_magica":"Nenhuma","registro_magico":"Não","descendente_de":"Dialetos humanos + Tenebraico + Aelarian + Luminar","aliases":[],"tags":[],"ordem":1,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/reinkardico.md","permalink":"/wiki/linguas/reinkardico/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Reinkárdico
 
-**Reinkárdico**: Equivale ao português no texto narrativo. Quando o narrador precisa marcar diferença entre Reinkárdico e outras línguas, o recurso é contextual (personagem nota o sotaque, muda de idioma, ou perde compreensão), nunca fonético.
+Reinkárdico é a língua franca do continente, o idioma comum que atravessa fronteiras e raças e serve de base ao entendimento entre povos que, de outro modo, mal se compreenderiam. Surgida na Segunda Era, não carrega poder mágico algum e é tida como a mais fácil de aprender entre as línguas conhecidas.
+
+### Origem e alcance
+
+O Reinkárdico se formou a partir de dialetos humanos, que pesam mais em sua estrutura, somados a heranças do [[00_VAULT/_wiki/linguas/tenebraico\|Tenebraico]], do [[00_VAULT/_wiki/linguas/aelarian\|Aelarian]] e do [[00_VAULT/_wiki/linguas/luminar\|Luminar]]. Seu alcance é universal: falado em toda parte, foi assimilado por completo pelos [[00_VAULT/_wiki/racas/shadar\|shadares]], enquanto os [[00_VAULT/_wiki/racas/orc\|orcs]] imperiais o falam com sotaque. A difusão o tornou menos a língua de um povo e mais o terreno comum em que o continente conversa consigo mesmo.

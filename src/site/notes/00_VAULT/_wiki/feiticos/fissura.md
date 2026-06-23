@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/fissura.md","permalink":"/wiki/feiticos/fissura/","dg-note-properties":{"tipo":"feitico","nome":"Fissura","escola":"Rupto","escala":"Menor","aliases":[],"tags":[],"ordem":181,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/fissura.md","permalink":"/wiki/feiticos/fissura/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Fissura
 
-**Escola:** [[00_VAULT/_wiki/escolas/rupto\|Rupto]]
-**Escala:** Menor
+Fissura é um feitiço da escola [[00_VAULT/_wiki/escolas/rupto\|Rupto]], de escala menor. Cria rachaduras em superfícies e enfraquece pontos de carga.
 
-Criar rachaduras em superfícies, enfraquecer pontos de carga. Não quebra, *prepara*: a próxima força encontra resistência reduzida. Diferente de Deterioração ([[00_VAULT/_wiki/escolas/anatho\|Anatho]]), que corrói gradualmente por maldição: Fissura é dano estrutural instantâneo. Armadura fissurada cede à lâmina; barreira fissurada resiste menos ao fogo. Custo: dor breve nas articulações, estalos nos dedos
+### Função
+
+A magia não quebra: prepara. A próxima força aplicada encontra resistência reduzida. Diferente de Deterioração, da escola [[00_VAULT/_wiki/escolas/anatho\|Anatho]], que corrói gradualmente por maldição, a Fissura é dano estrutural instantâneo. Uma armadura fissurada cede à lâmina; uma barreira fissurada resiste menos ao fogo.
+
+### Custo
+
+O conjurador sente dor breve nas articulações e estalos nos dedos.

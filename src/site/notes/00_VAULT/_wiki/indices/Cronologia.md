@@ -55,7 +55,6 @@ Panoramas das Guerras Reinkárdicas: [[00_VAULT/_wiki/conceitos/guerras_reinkard
 - [[00_VAULT/_wiki/eventos/frentes_de_guerra_e_destino_das_racas\|Destino das Raças]] — Sylvanos, humanos e gnomos escravizados; gerut sobreviveram pelo terreno titânico
 - [[00_VAULT/_wiki/eventos/formalizacao_militar_dos_orcs\|Formalização Militar dos Orcs]] — Ponto de inflexão: fúria tribal transformada em disciplina de campo
 - [[00_VAULT/_wiki/eventos/guerra_formal_e_impasse_continental\|Guerra Formal e Impasse]] — Myrgarde declarou guerra; coalizão continental contra Morvgrad
-- [[00_VAULT/_wiki/eventos/conversao_de_dravhok\|Conversão de Dravhok]] — General converso: humano transformado em shadar pelo Rito de Ossárium
 - [[00_VAULT/_wiki/eventos/campanha_ocidental_de_dravhok\|Campanha Ocidental]] — Varreu a cordilheira de norte a sul; culminou na subjugação de Thandruk Varn
 - [[00_VAULT/_wiki/eventos/subjugacao_de_thandruk_varn\|Subjugação de Thandruk Varn]] — Rendição negociada: forjas redirecionadas para Morvgrad em troca de sobrevivência
 - [[00_VAULT/_wiki/eventos/campanha_oriental_e_queda_de_dernessal\|Campanha Oriental]] — Conquista das cidades do cinturão oriental de Myrgarde

@@ -1,20 +1,19 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/orcanico.md","permalink":"/wiki/linguas/orcanico/","dg-note-properties":{"tipo":"lingua","nome":"Orcânico","tipo_lingua":"Cotidiana/Ritual","era":"Primeira Era","cor_racial":"Vermelho","raca_principal":"Orcs","funcao":"Língua cotidiana orc + ritual berserker/xamânico","fluencia_comum":"Nativa (orcs selvagens); funcional (orcs imperiais)","relacao_magica":"Vinculum Daemonis","registro_magico":"Sim (quase idêntico ao cotidiano)","descendente_de":"—","aliases":[],"tags":[],"ordem":8,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/orcanico.md","permalink":"/wiki/linguas/orcanico/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Orcânico
 
-**Orcânico**: Monossilábico por preferência, polissilábico por necessidade. Consoantes duras e aspiradas (*kh*, *gh*, *hrr*), vogais abertas e gritadas. Sem tom baixo: Orcânico foi desenhado para campos de batalha, não para conversas íntimas. A mesma língua serve como ritual quando xamãs a entoam em cadência específica: não há separação entre forma cotidiana e sagrada, apenas entre velocidade e intenção. No registro berserker, a gramática se desintegra conforme a fúria escala: frases completas se decompõem em monossílabos explosivos, como se a língua acompanhasse o falante de volta ao instinto. [[00_VAULT/_wiki/cosmologia/demonios\|Demônios]] que respondem ao Orcânico podem distorcer a língua durante o canal, forçando o conjurador a improvisar: a gramática muda entre uma invocação e a seguinte porque a entidade do outro lado não se importa com consistência.
+Orcânico é a língua dos [[00_VAULT/_wiki/racas/orc\|orcs]], usada tanto na fala cotidiana quanto nos rituais berserker e xamânicos. Monossilábica por preferência e polissilábica apenas por necessidade, é feita de consoantes duras e aspiradas (*kh*, *gh*, *hrr*) e vogais abertas e gritadas. Não possui tom baixo: foi moldada para campos de batalha, não para conversas íntimas.
 
-Inspiração sonora: sons guturais crus sem melodia. No registro cotidiano, soaria como ordens militares latidas em campo aberto. No registro berserker, soaria como uma briga mesmo pronunciando uma bênção.
+### Registro e ritual
 
-Exemplos canônicos: *Ghâsh krampûrz* (fúria berserker invocada por [[00_VAULT/_wiki/personagens/grothar\|Grothar]]).
+Não há separação real entre a forma cotidiana e a sagrada, apenas entre velocidade e intenção: a mesma língua serve para latir ordens e para canalizar [[00_VAULT/_wiki/cosmologia/demonios\|demônios]] sob o [[00_VAULT/_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], e a diferença mora na cadência. No registro berserker, a gramática se desintegra conforme a fúria escala, e frases inteiras se decompõem em monossílabos explosivos, como se a língua acompanhasse o falante de volta ao instinto. Os xamãs advertem que a exposição prolongada a esse registro corrói a estabilidade mental, custo que vem não da língua, mas da fúria que ela canaliza. Demônios que respondem ao chamado podem distorcer a língua durante o canal, forçando o conjurador a improvisar de uma invocação para a outra.
 
-### Perfil Linguístico
+### Escrita e gramática
 
-**Registro:** Quase indistinto entre cotidiano e mágico. A mesma língua serve para gritar ordens e para canalizar [[00_VAULT/_wiki/cosmologia/demonios\|demônios]]; a diferença está na cadência e na intenção, não na gramática. No registro berserker, a gramática se desintegra conforme a fúria escala: frases completas se decompõem em monossílabos explosivos, como se a língua acompanhasse o falante de volta ao instinto.
+A escrita orc é rudimentar: marcas talhadas em madeira, osso ou pedra para registros práticos como contagem, marcação de território e advertências. Não existe tradição literária em Orcânico, e épicos como os [[00_VAULT/_wiki/personagens/grasnak\|Cantos de Grasnak]] são transmitidos apenas pela voz; para um orc, escrever uma canção seria tão absurdo quanto engarrafar o vento. A gramática é imperativa por padrão, com o sujeito frequentemente omitido, artigos e preposições suprimidos por economia e o tempo verbal reduzido a dois estados, o "agora" e o "não-agora".
 
-**Escrita:** Rudimentar. [[00_VAULT/_wiki/racas/orc\|Orcs]] usam marcas talhadas em madeira, osso ou pedra para registros práticos (contagem, marcação territorial, advertências). Não existe tradição literária em Orcânico: os [[00_VAULT/_wiki/personagens/grasnak\|Cantos de Grasnak]] e demais épicos orais são transmitidos exclusivamente por voz. Escrever uma canção [[00_VAULT/_wiki/racas/orc\|orc]] seria, para um [[00_VAULT/_wiki/racas/orc\|orc]], tão absurdo quanto engarrafar o vento.
+### Relações
 
-**Gramática:** Imperativa por padrão. Sujeito frequentemente omitido (quem fala é quem age). Artigos e preposições suprimidos por economia. Tempo verbal reduzido a dois: "agora" e "não-agora". A exposição prolongada ao registro berserker, segundo xamãs, corrói a estabilidade mental do falante: o custo não é da língua em si, mas da fúria que a língua canaliza.
-
-**Uso no Livro I:** *Ghâsh krampûrz* (fúria berserker de [[00_VAULT/_wiki/personagens/grothar\|Grothar]]); diálogos de [[00_VAULT/_wiki/personagens/grub\|Grub]], [[00_VAULT/_wiki/personagens/mur\|Mur]] e outros [[00_VAULT/_wiki/racas/orc\|orcs]] imperiais em [[00_VAULT/_wiki/linguas/reinkardico\|Reinkárdico]] com interferência orcânica; referências ao [[00_VAULT/_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]].
+Orcs imperiais falam o [[00_VAULT/_wiki/linguas/reinkardico\|Reinkárdico]] com sotaque e deixam transparecer a interferência orcânica. Alguns demônios chegam a preferir o Orcânico ao [[00_VAULT/_wiki/linguas/draconico\|Dracônico]] como língua de canal. A invocação de fúria berserker *Ghâsh krampûrz*, atribuída a [[00_VAULT/_wiki/personagens/grothar\|Grothar]], é um exemplo de seu registro de combate.

@@ -1,9 +1,19 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/enfraquecimento.md","permalink":"/wiki/feiticos/enfraquecimento/","dg-note-properties":{"tipo":"feitico","nome":"Enfraquecimento","escola":"Anatho","escala":"Média","aliases":[],"tags":[],"ordem":165,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/enfraquecimento.md","permalink":"/wiki/feiticos/enfraquecimento/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Enfraquecimento
 
-**Escola:** [[00_VAULT/_wiki/escolas/anatho\|Anatho]]
-**Escala:** Média
+Enfraquecimento é um feitiço de escala média da escola [[00_VAULT/_wiki/escolas/anatho\|Anatho]]. Degrada diretamente a capacidade funcional do alvo: força, percepção, resistência. A vítima simplesmente falha, sem causa orgânica aparente.
 
-Degradação direta de capacidade funcional: força, percepção, resistência. Diferente de Supressão ([[00_VAULT/_wiki/escolas/abjuro\|Abjuro]]), que bloqueia magia: Enfraquecimento degrada o corpo sem tocar no arcano. O alvo não apodrece ([[00_VAULT/_wiki/escolas/patho\|Patho]]) nem adoece, simplesmente falha sem motivo orgânico. Diagnose detecta; reversível por Salvaguarda ([[00_VAULT/_wiki/escolas/sacro\|Sacro]]) ou Anulação ([[00_VAULT/_wiki/escolas/abjuro\|Abjuro]]). Custo: o conjurador sente a capacidade drenada como peso morto nos próprios membros
+### Distinção
+
+Diferente da Supressão, da escola [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]], que bloqueia o arcano, Enfraquecimento corrói o corpo sem tocar na magia. O alvo não apodrece, como sob [[00_VAULT/_wiki/escolas/patho\|Patho]], nem adoece: apenas perde capacidade.
+
+### Diagnóstico e reversão
+
+A Diagnose detecta o efeito. Salvaguarda, da escola [[00_VAULT/_wiki/escolas/sacro\|Sacro]], e Anulação, da escola Abjuro, podem revertê-lo.
+
+### Custo
+
+O conjurador sente a capacidade drenada como peso morto nos próprios membros.

@@ -1,6 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/serpente_purpura.md","permalink":"/wiki/organizacoes/serpente-purpura/","dg-note-properties":{"tipo":"organizacao","nome":"Serpente Púrpura","tipo_organizacao":"Crime organizado","cor_afiliacao":"Preto","lider_atual":"Desconhecido","sede":"Morvgrad/Vor-Ghol","status_atual":"Ativo","membros_aprox":"Desconhecido","funcao_principal":"Tráfico de artefatos e contrabando.","aliases":[],"tags":[],"ordem":7,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/serpente_purpura.md","permalink":"/wiki/organizacoes/serpente-purpura/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Serpente Púrpura
 
-Organização criminosa que opera em [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]] e [[00_VAULT/_wiki/locais/vor-ghol\|Vor-Ghol]]. Tráfico de artefatos e contrabando. Líder desconhecido. Tenentes marcados por cicatrizes planares (mutilações rituais de identificação). A [[00_VAULT/_wiki/artefatos/fendris\|Fendris]] (adaga [[00_VAULT/_wiki/linguas/luminar\|Luminar]] de [[00_VAULT/_wiki/locais/thandruk_varn\|Thandruk Varn]]) passou pela rede da Serpente após o desaparecimento de Draven-Thol, até ser tomada por [[00_VAULT/_wiki/personagens/nidzina_avaroth\|Nidzina]], que desmantelou parte da operação durante investigação. Conexão com mercado negro de [[00_VAULT/_wiki/locais/ghol_mournak\|Ghol'Mournak]]. No passado, a organização já foi ligada a alguns templos do [[00_VAULT/_wiki/organizacoes/culto_sombrio\|Culto]].
+A Serpente Púrpura é uma organização de crime organizado que opera entre [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]] e [[00_VAULT/_wiki/locais/vor-ghol\|Vor-Ghol]], dedicada ao tráfico de artefatos e ao contrabando. De liderança desconhecida, mantém-se ativa e enraizada no mercado negro da região.
+
+### Face Pública
+
+A rede tem conexão com o mercado negro de [[00_VAULT/_wiki/locais/ghol_mournak\|Ghol'Mournak]]. Seus tenentes são marcados por cicatrizes planares, mutilações rituais que servem de identificação. No passado, a organização já esteve ligada a alguns templos do [[00_VAULT/_wiki/organizacoes/culto_sombrio\|Culto]].
+
+### Atuação
+
+A [[00_VAULT/_wiki/artefatos/fendris\|Fendris]], adaga [[00_VAULT/_wiki/linguas/luminar\|Luminar]] de [[00_VAULT/_wiki/locais/thandruk_varn\|Thandruk Varn]], passou pela rede da Serpente até ser tomada por [[00_VAULT/_wiki/personagens/nidzina_avaroth\|Nidzina]], que desmantelou parte da operação durante a investigação.

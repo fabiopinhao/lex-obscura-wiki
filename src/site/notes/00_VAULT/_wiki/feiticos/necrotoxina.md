@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/necrotoxina.md","permalink":"/wiki/feiticos/necrotoxina/","dg-note-properties":{"tipo":"feitico","nome":"Necrotoxina","escola":"Toxo","escala":"Maior","aliases":[],"tags":[],"ordem":287,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/necrotoxina.md","permalink":"/wiki/feiticos/necrotoxina/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Necrotoxina
 
-**Escola:** [[00_VAULT/_wiki/escolas/toxo\|Toxo]]
-**Escala:** Maior
+Necrotoxina é um feitiço maior da escola [[00_VAULT/_wiki/escolas/toxo\|Toxo]]. Produz um ácido orgânico que ataca exclusivamente tecido vivo: apodrece carne, dissolve músculo e corrói cartilagem, mas ignora metal, pedra e madeira. É um líquido escuro que borbulha ao contato com a pele, escurecendo a carne, formando bolhas e desfazendo o tecido em pasta fétida. A especificidade é a sua arma: pode ser aplicada sobre armadura sem danificá-la, atingindo a carne por juntas e frestas. Distingue-se de Necrose, da escola [[00_VAULT/_wiki/escolas/patho\|Patho]], que apodrece de dentro como doença, enquanto a Necrotoxina corrói de fora como ácido.
 
-Ácido orgânico que ataca exclusivamente tecido vivo: apodrece carne, dissolve músculo, corrói cartilagem, mas ignora metal, pedra e madeira. Líquido escuro que borbulha ao contato com pele: carne negreja, bolhas se formam, tecido se desfaz em pasta fétida. A especificidade é a arma: pode ser aplicada em armadura sem danificá-la, atingindo carne por juntas e frestas. Diferente de Necrose ([[00_VAULT/_wiki/escolas/patho\|Patho]]), que apodrece de dentro como doença: Necrotoxina corrói de fora como ácido. Custo: pele escurece nos pontos de projeção, sensibilidade tátil diminui
+### Custo
+
+A pele do conjurador escurece nos pontos de projeção e a sensibilidade tátil diminui.

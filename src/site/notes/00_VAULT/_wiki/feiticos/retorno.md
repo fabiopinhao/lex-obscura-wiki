@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/retorno.md","permalink":"/wiki/feiticos/retorno/","dg-note-properties":{"tipo":"feitico","nome":"Retorno","escola":"Salvo","escala":"Maior","aliases":[],"tags":[],"ordem":119,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/retorno.md","permalink":"/wiki/feiticos/retorno/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Retorno
 
-**Escola:** [[00_VAULT/_wiki/escolas/salvo\|Salvo]]
-**Escala:** Maior
+Retorno é um feitiço da escola [[00_VAULT/_wiki/escolas/salvo\|Salvo]], de escala maior. Revoga uma morte recente, enquanto o corpo permanece presente e viável e o espírito ainda está próximo, questão de minutos e não de horas. O conjurador pressiona as mãos sobre o peito do morto e o coração retoma.
 
-Revogar morte recente: corpo presente e viável, espírito ainda próximo, minutos não horas. O conjurador pressiona as mãos sobre o peito do morto e o coração retoma. Diferente de Indulto ([[00_VAULT/_wiki/escolas/sacro\|Sacro]]), que é encantamento prévio que intercepta morte: Retorno é intervenção posterior, exige presença do curador. O ferimento letal persiste, exige Soldadura imediata. Custo: o curador cede anos de vida, envelhecimento real e irreversível
+Diferencia-se do Indulto, da escola [[00_VAULT/_wiki/escolas/sacro\|Sacro]], encantamento prévio que intercepta a morte: o Retorno é intervenção posterior e exige a presença do curador. O ferimento letal persiste e demanda Soldadura imediata.
+
+### Custo
+
+O curador cede anos da própria vida, em envelhecimento real e irreversível.

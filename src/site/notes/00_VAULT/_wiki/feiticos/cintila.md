@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/cintila.md","permalink":"/wiki/feiticos/cintila/","dg-note-properties":{"tipo":"feitico","nome":"Cintila","escola":"Plasma","escala":"Menor","aliases":[],"tags":[],"ordem":32,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/cintila.md","permalink":"/wiki/feiticos/cintila/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Cintila
 
-**Escola:** [[00_VAULT/_wiki/escolas/plasma\|Plasma]]
-**Escala:** Menor
+Cintila é um feitiço de escala menor da escola [[00_VAULT/_wiki/escolas/plasma\|Plasma]]. Produz descargas breves de plasma que saltam dos dedos como pontos brancos, estourando contra superfícies e deixando marcas vitrificadas.
 
-Descargas breves de plasma que saltam dos dedos: pontos brancos que estouram contra superfícies, deixando marcas vitrificadas. Diferente de Faísca ([[00_VAULT/_wiki/escolas/electro\|Electro]]), que choca nervos por eletricidade: Cintila funde o que toca por calor plasmático. Custo: queimadura fantasma nas pontas dos dedos, pele ressecada
+O feitiço se distingue de Faísca, da escola [[00_VAULT/_wiki/escolas/electro\|Electro]], que choca os nervos por eletricidade. Cintila funde o que toca por calor plasmático. O preço recai sobre quem conjura: queimadura fantasma nas pontas dos dedos e pele ressecada.

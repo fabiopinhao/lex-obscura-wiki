@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/negrume.md","permalink":"/wiki/feiticos/negrume/","dg-note-properties":{"tipo":"feitico","nome":"Negrume","escola":"Umbra","escala":"Maior","aliases":[],"tags":[],"ordem":67,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/negrume.md","permalink":"/wiki/feiticos/negrume/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Negrume
 
-**Escola:** [[00_VAULT/_wiki/escolas/umbra\|Umbra]]
-**Escala:** Maior
+O Negrume é um feitiço da escola [[00_VAULT/_wiki/escolas/umbra\|Umbra]], de escala Maior. Cria uma zona de trevas impenetráveis onde nenhuma luz, natural ou mágica comum, sobrevive. O conjurador enxerga dentro dela; todos os outros ficam cegos.
 
-Criar zona de trevas impenetráveis onde nenhuma luz natural ou mágica comum sobrevive. O conjurador enxerga dentro; todos os outros ficam cegos. Diferente de Lacuna ([[00_VAULT/_wiki/escolas/abjuro\|Abjuro]]), que anula toda magia: Negrume anula apenas luz, outras escolas funcionam normalmente. As trevas têm substância: o ar parece espesso, sons chegam abafados, o senso de direção se dissolve. Custo: distorção visual persistente, preferência por escuridão que se instala por horas
+### Funcionamento
+
+Diferente da [[00_VAULT/_wiki/feiticos/lacuna\|Lacuna]], da escola [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]], que anula toda magia, o Negrume anula apenas a luz: as demais escolas funcionam normalmente em seu interior. As trevas têm substância. O ar parece espesso, os sons chegam abafados e o senso de direção se dissolve.
+
+### Custo
+
+Ficam no conjurador uma distorção visual persistente e uma preferência por escuridão que se instala por horas.

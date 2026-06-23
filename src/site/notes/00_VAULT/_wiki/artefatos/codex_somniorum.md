@@ -1,40 +1,35 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/codex_somniorum.md","permalink":"/wiki/artefatos/codex-somniorum/","dg-note-properties":{"tipo":"artefato","nome":"Codex Somniorum","tipo_artefato":"Grimório","categoria":"Judicial; Conhecimento","portador_atual":"Milor (+ Orum, Nidzina)","localizacao_atual":"Cada Justiciar carrega cópia","status_atual":"Ativo","origem":"Sagrado (Arothistar/Xarn)","vinculacao_entregue_em":"Unção (Kit do Justiciar)","aliases":[],"tags":[],"ordem":4,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/codex_somniorum.md","permalink":"/wiki/artefatos/codex-somniorum/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Codex Somniorum
 
-### Nomenclatura
+O Codex Somniorum, o "Códice dos Sonhos", é o grimório sagrado padrão dos [[00_VAULT/_wiki/organizacoes/justiciars\|Justiciars]] do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Mais que um livro, apresenta-se como artefato vivo que pulsa com a autoridade condensada do reino sombrio, e cada Justiciar e membro do Alto Clero carrega o seu exemplar.
 
-"Códice dos Sonhos" , três teorias sobre o nome: as leis vieram a [[00_VAULT/_wiki/personagens/xarn\|Xarn]] através de sonhos proféticos; a justiça sombria é um "sonho" imposto sobre a realidade; o Codex permite acessar memórias oníricas de criminosos mortos.
+### Nome
 
-### Aparência
+Três teorias correm sobre a origem do nome. Uma diz que as leis vieram a [[00_VAULT/_wiki/personagens/xarn\|Xarn]] por meio de sonhos proféticos. Outra entende a justiça sombria como um sonho imposto sobre a realidade. A terceira atribui ao Codex o poder de acessar memórias oníricas de criminosos mortos.
 
-Encadernado em couro púrpura com fechos metálicos em forma de garras. Mais que um livro, é artefato vivo que pulsa com autoridade condensada do reino sombrio.
+### Forma
+
+É encadernado em couro púrpura, com fechos metálicos em forma de garras.
 
 ### Estrutura Tripartite
 
-- **[[00_VAULT/_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]]** ("Palavras do Soberano"): Pronunciamentos diretos de [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]]: visões, decretos, parábolas sombrias. Tinta dourada sobre pergaminho negro. Considerado infalível e imutável. Leitura obrigatória durante vigílias judiciais. Esta seção dá título ao Livro I da trilogia.
-- **[[00_VAULT/_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]]** ("Lei das Sombras"): Leis aprovadas pelo [[00_VAULT/_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], organizadas por categorias: traição, heresia, desobediência, negligência. Atualizada a cada década. Inclui precedentes e jurisprudências vinculantes. Define punições e exceções. Dá título à trilogia.
-- **[[00_VAULT/_wiki/conceitos/tabula_umbrae_codex\|Tabula Umbrae]]** ("Tábua das Sombras"): Grimório de magia negra contendo feitiços, receitas de venenos, soros da verdade, rituais de execução e sigilos para invocar testemunhas espectrais. Seção arcana e alquímica.
+O Codex divide-se em três partes. O [[00_VAULT/_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]], "Palavras do Soberano", reúne pronunciamentos diretos de [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] (visões, decretos e parábolas sombrias), grafados em tinta dourada sobre pergaminho negro, tidos por infalíveis e imutáveis e de leitura obrigatória durante as vigílias judiciais. A [[00_VAULT/_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]], "Lei das Sombras", traz as leis aprovadas pelo [[00_VAULT/_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], organizadas por categorias de crime (traição, heresia, desobediência, negligência), atualizadas a cada década, com precedentes e jurisprudências vinculantes que definem punições e exceções. A [[00_VAULT/_wiki/conceitos/tabula_umbrae_codex\|Tabula Umbrae]], "Tábua das Sombras", é a seção arcana e alquímica: feitiços, receitas de venenos, soros da verdade, rituais de execução e sigilos para invocar testemunhas espectrais.
 
-### Escolas de Interpretação
+### Hermenêutica
 
-Quatro correntes disputam a hermenêutica do Codex. **Literalistas** seguem cada palavra exatamente como escrita. **Contextualistas** consideram circunstâncias da promulgação. **Essencialistas** buscam o "espírito da sombra" por trás da lei. **Pragmáticos** adaptam interpretações conforme necessidade política. A tensão entre estas escolas alimenta conflitos internos no Culto e no [[00_VAULT/_wiki/organizacoes/tribunal_de_morvgrad\|Tribunal de Morvgrad]].
-
-### Citações Fundamentais
-
-- *"Onde a luz falha, a sombra julga."* ([[00_VAULT/_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]], 3:17)
-- *"Traição ao culto é traição a si mesmo."* ([[00_VAULT/_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]], Seção Prima)
-- *"O sangue do culpado clama, mas apenas o juiz ouve."* ([[00_VAULT/_wiki/conceitos/tabula_umbrae_codex\|Tabula Umbrae]], Ritual VII)
-
-### Lema
-
-*"In somniis veritas, in umbris lex, in codice imperium."* (Nos sonhos a verdade, nas sombras a lei, no códice o [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|império]].)
+Quatro correntes disputam a interpretação do Codex. Os literalistas seguem cada palavra como escrita. Os contextualistas pesam as circunstâncias da promulgação. Os essencialistas buscam o espírito da sombra por trás da lei. Os pragmáticos adaptam a leitura conforme a necessidade política. A tensão entre as escolas alimenta conflitos internos no Culto e no [[00_VAULT/_wiki/organizacoes/tribunal_de_morvgrad\|Tribunal de Morvgrad]].
 
 ### Indestrutibilidade
 
-Destruir um Codex é crime hediondo. Métodos tradicionais falham: fogo comum apenas o torna temporariamente ilegível; rasgar páginas faz com que se reconstituam; jogá-lo em água benta cria vapor tóxico. Destruições confirmadas foram consequências de magias empregadas especificamente para esse fim.
+Destruir um Codex é crime hediondo, e os métodos comuns falham: o fogo apenas o torna temporariamente ilegível, páginas rasgadas se reconstituem, e a imersão em água benta produz vapor tóxico. As destruições confirmadas foram resultado de magias empregadas especificamente para esse fim.
 
-### Produção — [[00_VAULT/_wiki/locais/scriptorium_de_morvgrad\|Scriptorium de Morvgrad]]
+### Produção
 
-Cada exemplar é reproduzido por copistas e exegetas juramentados sob tutela dos Arcontes no Scriptorium. Os códices são rubricados com cifra ritual e colofão consagrado, garantindo autenticidade e rastreabilidade. Falsificação de códices é crime capital. Apenas [[00_VAULT/_wiki/organizacoes/justiciars\|Justiciars]] e Alto Clero possuem exemplares.
+Cada exemplar é reproduzido no [[00_VAULT/_wiki/locais/scriptorium_de_morvgrad\|Scriptorium de Morvgrad]], por copistas e exegetas juramentados sob tutela dos Arcontes. Os códices recebem cifra ritual e colofão consagrado, que garantem autenticidade e rastreabilidade. Falsificar um códice é crime capital, e apenas Justiciars e o Alto Clero possuem exemplares.
+
+### Doutrina
+
+O Codex carrega máximas que sintetizam sua doutrina, como "Onde a luz falha, a sombra julga", do Verbum Arkhon, e "Traição ao culto é traição a si mesmo", da Lex Obscura. Seu lema condensa a hierarquia das três partes: *In somniis veritas, in umbris lex, in codice imperium*, isto é, nos sonhos a verdade, nas sombras a lei, no códice o império.

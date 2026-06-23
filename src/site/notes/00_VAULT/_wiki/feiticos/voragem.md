@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/voragem.md","permalink":"/wiki/feiticos/voragem/","dg-note-properties":{"tipo":"feitico","nome":"Voragem","escola":"Pyro","escala":"Maior","aliases":[],"tags":[],"ordem":8,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/voragem.md","permalink":"/wiki/feiticos/voragem/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Voragem
 
-**Escola:** [[00_VAULT/_wiki/escolas/pyro\|Pyro]]
-**Escala:** Maior
+Voragem é um feitiço maior da escola do [[00_VAULT/_wiki/escolas/pyro\|Pyro]]: chamas sencientes que perseguem alvos, contornam obstáculos e se alimentam do que consomem.
 
-Chamas sencientes que perseguem alvos, contornam obstáculos, alimentam-se do que consomem. Não apagam com água, apagam quando não há mais nada para devorar. Diferente de Consumo (seletivo por material), Voragem é seletiva por alvo: o fogo caça. Diferente de Bólido ([[00_VAULT/_wiki/escolas/plasma\|Plasma]]), que é projétil único: Voragem é predador persistente. Custo: febre alta, irritabilidade crescente, o temperamento do conjurador espelha a fome do fogo
+### Efeito
+
+O fogo não se apaga com água. Cessa apenas quando não resta mais nada para devorar. Distingue-se de Consumo, seletivo por material, porque Voragem é seletiva por alvo: o fogo caça. Distingue-se também de Bólido, da escola do [[00_VAULT/_wiki/escolas/plasma\|Plasma]], um projétil único; Voragem é predador persistente.
+
+### Custo
+
+O conjurador padece de febre alta e irritabilidade crescente, o temperamento espelhando a fome do fogo.

@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/fulmineo.md","permalink":"/wiki/feiticos/fulmineo/","dg-note-properties":{"tipo":"feitico","nome":"Fulmíneo","escola":"Electro","escala":"**Máxima**","aliases":[],"tags":[],"ordem":250,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/fulmineo.md","permalink":"/wiki/feiticos/fulmineo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Fulmíneo
 
-**Escola:** [[00_VAULT/_wiki/escolas/electro\|Electro]]
-**Escala:** **Máxima**
+Fulmíneo é um feitiço da escola [[00_VAULT/_wiki/escolas/electro\|Electro]], de escala Máxima. É uma descarga elétrica de proporção catastrófica: relâmpagos caem em sequência onde o conjurador aponta, arcos voltaicos saltam entre alvos metálicos e o ar ioniza e queima.
 
-Descarga elétrica de escala catastrófica: relâmpagos caem em sequência onde o conjurador aponta, arcos voltaicos saltam entre alvos metálicos, o ar ioniza e queima. Diferente de Borrasca ([[00_VAULT/_wiki/escolas/aero\|Aero]]), que destrói por vento: Fulmíneo destrói por eletricidade pura. O campo magnético gerado esmaga armaduras e arranca armas das mãos. Custo devastador: sobrecarga nervosa total, paralisia parcial temporária, risco de parada cardíaca. Uso repetido acelera o Estágio IV
+### Efeito
+
+O campo magnético gerado esmaga armaduras e arranca armas das mãos. Distingue-se da Borrasca, da escola [[00_VAULT/_wiki/escolas/aero\|Aero]], que destrói pela força do vento: Fulmíneo destrói por eletricidade pura.
+
+### Custo
+
+O preço é devastador: sobrecarga nervosa total, paralisia parcial temporária e risco de parada cardíaca. O uso repetido acelera o Estágio IV.

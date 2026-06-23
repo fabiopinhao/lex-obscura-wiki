@@ -24,6 +24,7 @@ As palavras que o Império usa para governar não foram escolhidas ao acaso. Cad
 - [[00_VAULT/_wiki/conceitos/protocolo_iconografico_da_coroa\|Protocolo Iconográfico da Coroa]] — Sistema de efígies para projeção da onipresença imperial
 - [[00_VAULT/_wiki/conceitos/politica_religiosa\|Política Religiosa]] — Favorecimento diabólico e tensão entre cultos no aparato imperial
 - [[00_VAULT/_wiki/conceitos/politica_linguistica\|Política Linguística do Império Sombrio]] — Hegemonia do Reinkárdico em três camadas de controle
+- [[00_VAULT/_wiki/conceitos/hierarquia_racial_imperial\|Hierarquia Racial Imperial]] — Premissa de que as raças têm predisposições ontológicas, base da política de Estado
 
 ## Glossários e Referência
 

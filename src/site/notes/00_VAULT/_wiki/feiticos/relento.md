@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/relento.md","permalink":"/wiki/feiticos/relento/","dg-note-properties":{"tipo":"feitico","nome":"Relento","escola":"Cryo","escala":"Menor","aliases":[],"tags":[],"ordem":22,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/relento.md","permalink":"/wiki/feiticos/relento/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Relento
 
-**Escola:** [[00_VAULT/_wiki/escolas/cryo\|Cryo]]
-**Escala:** Menor
+Relento é um feitiço da escola [[00_VAULT/_wiki/escolas/cryo\|Cryo]], de escala menor, que assenta uma camada fina de gelo sobre superfícies. O chão passa a trair o passo, as fechaduras travam, as cordas viram arame. É um efeito sutil, silencioso e traiçoeiro.
 
-Camada fina de gelo sobre superfícies: chão que trai o passo, fechaduras que travam, cordas que viram arame. Diferente de Resina ([[00_VAULT/_wiki/escolas/toxo\|Toxo]]), que prende por aderência: Relento trai por perda de atrito. Sutil, silencioso, traiçoeiro. Custo: frio nas extremidades, dedos rígidos
+### Alcance
+
+Distingue-se de Resina, da escola [[00_VAULT/_wiki/escolas/toxo\|Toxo]], que prende por aderência. Relento não cola: ele trai pela perda de atrito.
+
+### Custo
+
+O preço recai sobre as extremidades do conjurador, com frio e dedos rígidos.

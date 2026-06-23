@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/isopode.md","permalink":"/wiki/criaturas/isopode/","dg-note-properties":{"tipo":"criatura","nome":"Isópode","cor_arcana":"—","habitat":"Subterrâneo (Vor-Ghol)","aliases":["Isópodes"],"ordem":2,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/isopode.md","permalink":"/wiki/criaturas/isopode/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Isópode
 
-### Natureza
-
-Artrópode gigante de [[00_VAULT/_wiki/locais/vor-ghol\|Vor-Ghol]]. Carapaça quitinosa, múltiplas patas, movimento por trilhos naturais.
+O isópode é um artrópode gigante das profundezas de [[00_VAULT/_wiki/locais/vor-ghol\|Vor-Ghol]]. Tem carapaça quitinosa e múltiplas patas, e move-se pelos trilhos naturais das cavernas.
 
 ### Uso
 
-Usado como animal de carga por caravanas [[00_VAULT/_wiki/racas/karashim\|karashim]] e [[00_VAULT/_wiki/racas/derro\|derros]]. Plataformas de transporte são atreladas às carapaças. Guizos embrulhados em feltro para viagens silenciosas. Exemplo: Helk, isópode da caravana [[00_VAULT/_wiki/organizacoes/khelg_dur\|Khelg'Dur]].
+É empregado como animal de carga pelas caravanas [[00_VAULT/_wiki/racas/karashim\|karashim]] e [[00_VAULT/_wiki/racas/derro\|derros]], que atrelam plataformas de transporte às suas carapaças. Em viagens silenciosas, seus guizos são embrulhados em feltro. Um exemplo é Helk, isópode da caravana [[00_VAULT/_wiki/organizacoes/khelg_dur\|Khelg'Dur]].

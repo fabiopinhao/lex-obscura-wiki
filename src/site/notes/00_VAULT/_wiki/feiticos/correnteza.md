@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/correnteza.md","permalink":"/wiki/feiticos/correnteza/","dg-note-properties":{"tipo":"feitico","nome":"Correnteza","escola":"Hydro","escala":"Média","aliases":[],"tags":[],"ordem":15,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/correnteza.md","permalink":"/wiki/feiticos/correnteza/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Correnteza
 
-**Escola:** [[00_VAULT/_wiki/escolas/hydro\|Hydro]]
-**Escala:** Média
+Correnteza é um feitiço de escala média da escola da [[00_VAULT/_wiki/escolas/hydro\|Hydro]] que cria redemoinhos, marés artificiais e correntes que arrastam. A água não precisa ser profunda: um palmo basta para derrubar quem pisa. Diferente do Vendaval, da escola do [[00_VAULT/_wiki/escolas/aero\|Aero]], que empurra por vento, a Correnteza empurra por massa líquida, arrastando e submergindo.
 
-Criar redemoinhos, marés artificiais, correntes que arrastam. A água não precisa ser profunda: um palmo basta para derrubar quem pisa. Diferente de Vendaval ([[00_VAULT/_wiki/escolas/aero\|Aero]]), que empurra por vento: Correnteza empurra por massa líquida, arrastando e submergindo. Custo: tontura, sensação de maré interna
+### Custo
+
+O conjurador sofre tontura e uma sensação de maré interna.

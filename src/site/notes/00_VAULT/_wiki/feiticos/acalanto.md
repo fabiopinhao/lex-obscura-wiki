@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/acalanto.md","permalink":"/wiki/feiticos/acalanto/","dg-note-properties":{"tipo":"feitico","nome":"Acalanto","escola":"Hypno","escala":"Menor","aliases":[],"tags":[],"ordem":122,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/acalanto.md","permalink":"/wiki/feiticos/acalanto/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Acalanto
 
-**Escola:** [[00_VAULT/_wiki/escolas/hypno\|Hypno]]
-**Escala:** Menor
+Acalanto é um feitiço de escala menor da escola [[00_VAULT/_wiki/escolas/hypno\|Hypno]]. Manifesta-se como uma onda de calma que dissolve tensão muscular e agitação no alvo: os punhos relaxam, as mandíbulas cedem, as respirações se alongam.
 
-Onda de calma que dissolve tensão muscular e agitação: punhos relaxam, mandíbulas cedem, respirações se alongam. Diferente de Serenidade ([[00_VAULT/_wiki/escolas/urano\|Urano]]), que remove agressão por elevação espiritual: Acalanto relaxa o corpo para conduzir ao descanso. Custo: relaxamento excessivo no conjurador, reflexos amortecidos
+O efeito se distingue de Serenidade, da escola [[00_VAULT/_wiki/escolas/urano\|Urano]], que remove a agressão por elevação espiritual. Acalanto opera pelo corpo, relaxando-o para conduzi-lo ao descanso. O preço recai sobre quem conjura: um relaxamento excessivo que amortece os próprios reflexos.

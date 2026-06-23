@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/interregno.md","permalink":"/wiki/feiticos/interregno/","dg-note-properties":{"tipo":"feitico","nome":"Interregno","escola":"Chrono","escala":"Média","aliases":[],"tags":[],"ordem":256,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/interregno.md","permalink":"/wiki/feiticos/interregno/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Interregno
 
-**Escola:** [[00_VAULT/_wiki/escolas/chrono\|Chrono]]
-**Escala:** Média
+Interregno é um feitício de escala média da escola do [[00_VAULT/_wiki/escolas/chrono\|Chrono]], uma pausa temporal de alcance maior que a Pausa. Objetos detêm-se por minutos; seres vivos, por segundos agonizantes em que a consciência persiste mas o corpo não responde. O alvo ouve vozes e vê movimento, sem reagir.
 
-Pausa temporal de escala maior que Pausa. Objetos param por minutos; seres vivos, por segundos agonizantes em que a consciência persiste mas o corpo não responde. O alvo ouve vozes, vê movimento, mas não reage. Diferente de Estase (que remove consciência junto com o tempo), Interregno mantém o alvo acordado dentro da prisão. Custo: o presente se sente deslocado, "já aconteceu" e "vai acontecer" se confundem
+Distingue-se da Estase, que remove a consciência junto com o tempo: o Interregno mantém o alvo acordado dentro da própria prisão. Como custo, o presente se sente deslocado para o conjurador, e as noções de "já aconteceu" e "vai acontecer" se confundem.

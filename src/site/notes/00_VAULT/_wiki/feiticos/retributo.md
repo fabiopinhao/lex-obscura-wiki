@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/retributo/","dg-note-properties":{"tipo":"feitico","nome":"Retributo","escola":"Aegis","escala":"Média","aliases":[],"tags":[],"ordem":216,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/retributo.md","permalink":"/wiki/feiticos/retributo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Retributo
 
-**Escola:** [[00_VAULT/_wiki/escolas/aegis\|Aegis]]
-**Escala:** Média
+Retributo é um feitiço de escala média da escola [[00_VAULT/_wiki/escolas/aegis\|Aegis]]. Ergue um campo de força reativa que devolve ao agressor parte da energia do golpe: dor, choque, estilhaços de força. Contra ele, punhos trincam, lâminas vibram e maças reverberam nos pulsos de quem ataca.
 
-Campo de força reativa que devolve parte da energia ao agressor: dor, choque, estilhaços de força. Punhos trincam, lâminas vibram, maças reverberam nos pulsos. Diferente de Retribuição ([[00_VAULT/_wiki/escolas/abjuro\|Abjuro]]), que devolve magia inteira invertida: Retributo devolve impacto físico como retaliação proporcional. Proteção mais poderosa, retaliação mais violenta. Custo: o protegido sente ansiedade constante de que a proteção falhe no próximo golpe
+### Efeito
+
+Diferente da Retribuição, da escola [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]], que devolve a magia inteira invertida, Retributo devolve impacto físico como retaliação proporcional: quanto mais poderosa a proteção, mais violenta a resposta. O custo é uma ansiedade constante no protegido, o receio de que a defesa falhe no próximo golpe.

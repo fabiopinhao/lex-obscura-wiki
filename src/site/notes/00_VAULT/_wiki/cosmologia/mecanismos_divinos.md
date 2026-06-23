@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/mecanismos_divinos.md","permalink":"/wiki/cosmologia/mecanismos-divinos/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Mecanismos Divinos","subtipo":"teologia","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":[],"tags":[],"ordem":2,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/mecanismos_divinos.md","permalink":"/wiki/cosmologia/mecanismos-divinos/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Mecanismos Divinos
 
-Mapa comparativo dos cinco sistemas de vínculo divino — um por categoria/cor. Cada categoria é o **dono** da sua mecânica detalhada (grão na última coluna); aqui fica só o contraste lado a lado. O sexto sistema de acesso, o [[00_VAULT/_wiki/magia/teru\|Teru]], não envolve deus (ver [[00_VAULT/_wiki/cosmologia/cor_arcana\|Cor Arcana]]).
+Os Mecanismos Divinos são o mapa comparativo dos cinco sistemas de vínculo divino, um para cada categoria de entidade superior. Cada categoria é dona da sua própria mecânica, e o conjunto põe lado a lado os modos pelos quais um mortal acessa poder divino. Há ainda um sexto sistema de acesso, o [[00_VAULT/_wiki/magia/teru\|Teru]], que não envolve deus algum.
 
-- **[[00_VAULT/_wiki/cosmologia/diabos\|Diabos]] (preto)** — Sistema: [[00_VAULT/_wiki/magia/pactum_diaboli\|Pactum Diaboli]] | Mecânica em uma linha: contrato imutável; alma/serviço penhorados, poder proporcional | Detalhe: [[00_VAULT/_wiki/cosmologia/diabos\|Diabos]]
-- **[[00_VAULT/_wiki/cosmologia/demonios\|Demônios]] (vermelho)** — Sistema: [[00_VAULT/_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]] | Mecânica em uma linha: vínculo de força; acesso imediato, corrupção mental progressiva, marca grotesca | Detalhe: [[00_VAULT/_wiki/cosmologia/demonios\|Demônios]]
-- **[[00_VAULT/_wiki/cosmologia/titas\|Titãs]] (verde)** — Sistema: [[00_VAULT/_wiki/magia/symbiosis_naturae\|Symbiosis Naturae]] | Mecânica em uma linha: simbiose recíproca; tolerante a falhas, os mais "presentes" em [[00_VAULT/_wiki/locais/thamakard\|Thamakard]] | Detalhe: [[00_VAULT/_wiki/cosmologia/titas\|Titãs]]
-- **[[00_VAULT/_wiki/cosmologia/siderais\|Siderais]] (azul)** — Sistema: [[00_VAULT/_wiki/magia/meditatio_aetheris\|Meditatio Aetheris]] | Mecânica em uma linha: meditação etérea; sintonização mental, sem julgamento moral, inaprisionáveis | Detalhe: [[00_VAULT/_wiki/cosmologia/siderais\|Siderais]]
-- **[[00_VAULT/_wiki/cosmologia/anjos\|Anjos]] (branco)** — Sistema: [[00_VAULT/_wiki/magia/devotio_sancta\|Devotio Sancta]] | Mecânica em uma linha: devoção/fé; sem contrato, abandona quem transgride, vulnerável a crise de fé | Detalhe: [[00_VAULT/_wiki/cosmologia/anjos\|Anjos]]
+### Os cinco sistemas
 
-A distinção entre os dois sistemas **coercitivos** ([[00_VAULT/_wiki/magia/pactum_diaboli\|Pactum]]/[[00_VAULT/_wiki/magia/vinculum_daemonis\|Vinculum]] — únicos em que o mortal é "pactuado") e os três **não-coercitivos** ([[00_VAULT/_wiki/magia/symbiosis_naturae\|Symbiosis]]/[[00_VAULT/_wiki/magia/devotio_sancta\|Devotio]]/[[00_VAULT/_wiki/magia/meditatio_aetheris\|Meditatio]]) está em [[00_VAULT/_wiki/cosmologia/ontologia_divina\|Ontologia Divina]] §Vínculos.
+Os [[00_VAULT/_wiki/cosmologia/diabos\|Diabos]], da cor preta, operam pelo [[00_VAULT/_wiki/magia/pactum_diaboli\|Pactum Diaboli]]: um contrato imutável em que alma e serviço são penhorados, com poder concedido na proporção do que se entrega. Os [[00_VAULT/_wiki/cosmologia/demonios\|Demônios]], do vermelho, operam pelo [[00_VAULT/_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], um vínculo de força que dá acesso imediato ao custo de uma corrupção mental progressiva e de uma marca grotesca. Os [[00_VAULT/_wiki/cosmologia/titas\|Titãs]], do verde, operam pela [[00_VAULT/_wiki/magia/symbiosis_naturae\|Symbiosis Naturae]], simbiose recíproca e tolerante a falhas. Os [[00_VAULT/_wiki/cosmologia/siderais\|Siderais]], do azul, operam pela [[00_VAULT/_wiki/magia/meditatio_aetheris\|Meditatio Aetheris]], sintonização mental por meditação etérea, sem julgamento moral. Os [[00_VAULT/_wiki/cosmologia/anjos\|Anjos]], do branco, operam pela [[00_VAULT/_wiki/magia/devotio_sancta\|Devotio Sancta]], devoção e fé sem contrato, que abandona quem transgride e é vulnerável à crise de fé.
+
+### Coercitivos e não-coercitivos
+
+Os sistemas dividem-se em dois grupos. O Pactum Diaboli e o Vinculum Daemonis são coercitivos: são os únicos em que o mortal é propriamente "pactuado". A Symbiosis Naturae, a Devotio Sancta e a Meditatio Aetheris são não-coercitivos.

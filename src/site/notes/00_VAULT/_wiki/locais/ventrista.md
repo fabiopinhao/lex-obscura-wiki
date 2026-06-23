@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/ventrista.md","permalink":"/wiki/locais/ventrista/","dg-note-properties":{"tipo":"local","nome":"Ventrista","tipo_local":"Região (agrícola)","regiao":"Base do planalto Shadar","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Adjacente a Morvgrad","populacao_aprox":"~50.000","aliases":[],"tags":[],"ordem":18,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/ventrista.md","permalink":"/wiki/locais/ventrista/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Ventrista
 
-Faixa de terras férteis na base do planalto. Vilas agrícolas alimentam o [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|império]]. [[00_VAULT/_wiki/locais/rio_parveni\|Rio Parveni]] atravessa. [[00_VAULT/_wiki/locais/niedellin\|Niedellin]] está situada aqui.
+Ventrista é uma região agrícola na base do planalto [[00_VAULT/_wiki/racas/shadar\|shadar]], adjacente a [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]] e sob domínio do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Suas terras férteis e vilas camponesas alimentam o império.
+
+### Geografia
+
+Faixa de terras férteis na base do planalto, cortada pelo [[00_VAULT/_wiki/locais/rio_parveni\|Rio Parveni]]. Abriga cerca de cinquenta mil habitantes distribuídos por vilas agrícolas. A povoação de [[00_VAULT/_wiki/locais/niedellin\|Niedellin]] situa-se na região.

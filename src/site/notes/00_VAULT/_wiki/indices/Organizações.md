@@ -44,13 +44,14 @@ O Império funciona porque cada engrenagem acredita ser indispensável. Nenhuma 
 
 - [[00_VAULT/_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal'Serin]] — Sylvanos livres e humanos refugiados
 - [[00_VAULT/_wiki/organizacoes/serpente_purpura\|Serpente Púrpura]] — Crime organizado, tráfico de artefatos e contrabando
-- [[00_VAULT/_wiki/organizacoes/ordo_zathar\|Ordo Zathar]] — Conspiração templária para derrubar a monarquia, restaurar a Lex Obscura original e instaurar teocracia
+- [[00_VAULT/_wiki/organizacoes/ordo_zathar\|Ordo Zathar]] — Sociedade secreta de inspiração templária; bandeira de restauração de prerrogativas religiosas e de uma ordem menos subordinada ao monarca
 
 ## Guildas e Círculos
 
 - [[00_VAULT/_wiki/organizacoes/circulos_de_khargoth\|Círculos de Khargoth]] — Academia arcana, sistema hierárquico de conhecimento
 - [[00_VAULT/_wiki/organizacoes/guilda_dos_gnomos\|Guilda dos Gnomos]] — Crime organizado, mercado negro e falsificação
 - [[00_VAULT/_wiki/organizacoes/khelg_dur\|Khelg'Dur]] — Casa comercial karashim, caravanas de isópodes em Vor-Ghol
+- [[00_VAULT/_wiki/organizacoes/tradicao_de_sirana\|Tradição de Sirana]] — Disciplina contemplativa que forma as svirfins para o Meditatio Aetheris, nas cidadelas frenim
 
 ---
 

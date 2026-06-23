@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/couraca.md","permalink":"/wiki/feiticos/couraca/","dg-note-properties":{"tipo":"feitico","nome":"Couraça","escola":"Aegis","escala":"Maior","aliases":[],"tags":[],"ordem":217,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/couraca.md","permalink":"/wiki/feiticos/couraca/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Couraça
 
-**Escola:** [[00_VAULT/_wiki/escolas/aegis\|Aegis]]
-**Escala:** Maior
+Couraça é um feitiço de escala maior da escola [[00_VAULT/_wiki/escolas/aegis\|Aegis]]. Forma uma armadura completa de força arcana que envolve o corpo, acompanha o movimento e protege de todos os ângulos. Cada golpe absorvido aparece como uma rachadura luminosa na superfície translúcida, uma contagem regressiva visível até o colapso.
 
-Armadura completa de força arcana que envolve o corpo, acompanhando o movimento e protegendo de todos os ângulos. Diferente de Escudo (estático, frontal): Couraça permite combate corpo a corpo. Cada golpe absorvido aparece como rachadura luminosa na superfície translúcida, contagem regressiva visível até o colapso. Custo: vulnerabilidade emocional proporcional à proteção física, ansiedade que escala com cada rachadura nova
+O feitiço se distingue do Escudo, estático e frontal: Couraça permite o combate corpo a corpo. O preço recai sobre quem conjura: uma vulnerabilidade emocional proporcional à proteção física, uma ansiedade que escala a cada rachadura nova.

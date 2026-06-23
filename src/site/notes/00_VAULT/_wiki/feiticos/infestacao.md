@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/infestacao.md","permalink":"/wiki/feiticos/infestacao/","dg-note-properties":{"tipo":"feitico","nome":"Infestação","escola":"Patho","escala":"Maior","aliases":[],"tags":[],"ordem":108,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/infestacao.md","permalink":"/wiki/feiticos/infestacao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Infestação
 
-**Escola:** [[00_VAULT/_wiki/escolas/patho\|Patho]]
-**Escala:** Maior
+Infestação é um feitiço de escala maior da escola [[00_VAULT/_wiki/escolas/patho\|Patho]]. Invoca um enxame de insetos, vermes ou parasitas que atacam, devoram e se alojam na carne. Os organismos conjurados agem por fome, não por comando.
 
-Invocar enxame de insetos, vermes ou parasitas que atacam, devoram e se alojam na carne. Organismos conjurados agem por fome, não por comando. Diferente de Raízes ([[00_VAULT/_wiki/escolas/vita\|Vita]]), que usa vegetação com propósito: Infestação é caos biológico descontrolado. Diferente de Flagelo ([[00_VAULT/_wiki/escolas/anatho\|Anatho]]), que é maldição autônoma abstrata: Infestação é horror orgânico visível. Custo: coceira migratória e sensação de coisas rastejando sob a pele do conjurador
+O feitiço se distingue de Raízes, da escola [[00_VAULT/_wiki/escolas/vita\|Vita]], que usa a vegetação com propósito, e de Flagelo, da escola [[00_VAULT/_wiki/escolas/anatho\|Anatho]], que é uma maldição autônoma e abstrata. Infestação é caos biológico descontrolado, horror orgânico visível. O preço é uma coceira migratória e a sensação de coisas rastejando sob a pele do conjurador.

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/tormento.md","permalink":"/wiki/feiticos/tormento/","dg-note-properties":{"tipo":"feitico","nome":"Tormento","escola":"Psycho","escala":"Média","aliases":[],"tags":[],"ordem":135,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/tormento.md","permalink":"/wiki/feiticos/tormento/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Tormento
 
-**Escola:** [[00_VAULT/_wiki/escolas/psycho\|Psycho]]
-**Escala:** Média
+Tormento é um feitiço de escala média da escola do [[00_VAULT/_wiki/escolas/psycho\|Psycho]]. Impõe dor mental pura, sem correlato físico: o alvo sente lâminas, queimaduras, ossos partindo, enquanto o corpo permanece intacto.
 
-Dor mental pura sem correlato físico: o alvo sente lâminas, queimaduras, ossos partindo, mas o corpo permanece intacto. Diferente de Flagelo ([[00_VAULT/_wiki/escolas/anatho\|Anatho]]), que é autônomo: Tormento exige sustentação ativa. Diferente de Terror ([[00_VAULT/_wiki/escolas/phobos\|Phobos]]), que paralisa pelo medo: Tormento destrói pela dor. Ferramenta de interrogatório sem marcas. Custo: ecos atenuados da dor imposta, cefaleia crescente
+Distingue-se de feitiços vizinhos pela forma como fere. Flagelo, da escola do [[00_VAULT/_wiki/escolas/anatho\|Anatho]], age de modo autônomo depois de lançado; Tormento exige sustentação ativa do conjurador. Terror, da escola do [[00_VAULT/_wiki/escolas/phobos\|Phobos]], paralisa pela ameaça; Tormento destrói pela dor em si. Por não deixar marcas, presta-se a interrogatório. O custo retorna ao conjurador como ecos atenuados da dor que impôs e uma cefaleia crescente.

@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/suspensao.md","permalink":"/wiki/feiticos/suspensao/","dg-note-properties":{"tipo":"feitico","nome":"Suspensão","escola":"Cosmo","escala":"Média","aliases":[],"tags":[],"ordem":225,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/suspensao.md","permalink":"/wiki/feiticos/suspensao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Suspensão
 
-**Escola:** [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]]
-**Escala:** Média
+Suspensão é um feitiço de escala média da escola de [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]] que anula a gravidade sobre um alvo ou uma área localizada. O afetado flutua sem direção e sem apoio, incapaz de se impulsionar.
 
-Gravidade zero em alvo ou área localizada. O afetado flutua sem direção, sem apoio, sem capacidade de se impulsionar. Diferente de Bolha ([[00_VAULT/_wiki/escolas/hydro\|Hydro]]), que aprisiona em esfera de água: Suspensão remove gravidade, o alvo flutua em ar seco. Combatentes suspensos não desferem golpes (sem apoio não há força) nem se esquivam. Custo: vertigem, o senso de "baixo" oscila por minutos, dissociação espacial
+Como remove a gravidade e deixa o alvo flutuando em ar seco, distingue-se de Bolha, da escola de [[00_VAULT/_wiki/escolas/hydro\|Hydro]], que aprisiona em uma esfera de água. Em combate, o efeito é decisivo: sem apoio não há força, então o combatente suspenso não desfere golpes nem consegue se esquivar.
+
+### Custo
+
+Vem a vertigem. O senso de "baixo" oscila por minutos e instala uma dissociação espacial.

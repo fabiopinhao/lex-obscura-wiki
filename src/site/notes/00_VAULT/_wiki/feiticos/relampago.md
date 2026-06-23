@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/relampago.md","permalink":"/wiki/feiticos/relampago/","dg-note-properties":{"tipo":"feitico","nome":"Relâmpago","escola":"Electro","escala":"Média","aliases":[],"tags":[],"ordem":244,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/relampago.md","permalink":"/wiki/feiticos/relampago/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Relâmpago
 
-**Escola:** [[00_VAULT/_wiki/escolas/electro\|Electro]]
-**Escala:** Média
+Relâmpago é um feitiço de escala média da escola [[00_VAULT/_wiki/escolas/electro\|Electro]] que lança um arco elétrico direto contra um alvo único. Produz queimadura no ponto de entrada, espasmo muscular violento e sobrecarga dos nervos, e seu efeito é amplificado pela presença de metal e umidade no alvo.
 
-Arco elétrico direto contra alvo único: queimadura no ponto de entrada, espasmo muscular violento, nervos sobrecarregados. Diferente de Fulgor ([[00_VAULT/_wiki/escolas/helio\|Helio]]), que queima por luz: Relâmpago fere por eletricidade. Amplificado por metal e umidade no alvo. Custo: espasmo muscular no braço do conjurador, dormência temporária
+Distingue-se de Fulgor, da escola [[00_VAULT/_wiki/escolas/helio\|Helio]], que queima por luz: Relâmpago fere por eletricidade. O custo recai sobre o conjurador, que sofre espasmo muscular no braço e dormência temporária.

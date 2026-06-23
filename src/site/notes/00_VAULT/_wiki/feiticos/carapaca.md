@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/carapaca.md","permalink":"/wiki/feiticos/carapaca/","dg-note-properties":{"tipo":"feitico","nome":"Carapaça","escola":"Cryo","escala":"Média","aliases":[],"tags":[],"ordem":26,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/carapaca.md","permalink":"/wiki/feiticos/carapaca/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Carapaça
 
-**Escola:** [[00_VAULT/_wiki/escolas/cryo\|Cryo]]
-**Escala:** Média
+Carapaça é um feitiço da escola [[00_VAULT/_wiki/escolas/cryo\|Cryo]], de escala média, que reveste um corpo, objeto ou superfície com gelo protetor. Serve para erguer armaduras pessoais, muros, cúpulas e pontes temporárias.
 
-Revestir corpo, objeto ou superfície com gelo protetor: armaduras pessoais, muros, cúpulas, pontes temporárias. Diferente de Escudo ([[00_VAULT/_wiki/escolas/aegis\|Aegis]]), que bloqueia por força arcana: Carapaça protege por matéria sólida de gelo, e quem golpeia sente o frio subir pelo braço. Custo: rigidez nos membros cobertos, tremores ao cessar
+Distingue-se de Escudo, da escola [[00_VAULT/_wiki/escolas/aegis\|Aegis]], que bloqueia por força arcana: Carapaça protege por matéria sólida de gelo, e quem golpeia a barreira sente o frio subir pelo braço. O custo aparece no conjurador como rigidez nos membros cobertos e tremores quando o efeito cessa.

@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/lampejo.md","permalink":"/wiki/feiticos/lampejo/","dg-note-properties":{"tipo":"feitico","nome":"Lampejo","escola":"Helio","escala":"Menor","aliases":[],"tags":[],"ordem":72,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/lampejo.md","permalink":"/wiki/feiticos/lampejo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Lampejo
 
-**Escola:** [[00_VAULT/_wiki/escolas/helio\|Helio]]
-**Escala:** Menor
+Lampejo é um feitiço menor da escola do [[00_VAULT/_wiki/escolas/helio\|Helio]]. Produz uma explosão breve de radiância pura: os olhos se fecham por reflexo, as lágrimas escorrem e o mundo vira branco por alguns segundos. Não causa dano permanente. Distingue-se da Faísca, da escola do [[00_VAULT/_wiki/escolas/electro\|Electro]], que interrompe por choque; o Lampejo cega pela luz.
 
-Explosão breve de radiância pura: olhos se fecham por reflexo, lágrimas escorrem, o mundo vira branco por segundos preciosos. Diferente de Faísca ([[00_VAULT/_wiki/escolas/electro\|Electro]]), que interrompe por choque: Lampejo cega por luz. Não causa dano permanente. Custo: flash reverso, mancha escura na visão do conjurador
+### Custo
+
+O conjurador sofre um flash reverso, uma mancha escura que permanece em sua visão.

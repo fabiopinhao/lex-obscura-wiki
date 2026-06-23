@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/glaciacao.md","permalink":"/wiki/feiticos/glaciacao/","dg-note-properties":{"tipo":"feitico","nome":"Glaciação","escola":"Cryo","escala":"**Máxima**","aliases":[],"tags":[],"ordem":30,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/glaciacao.md","permalink":"/wiki/feiticos/glaciacao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Glaciação
 
-**Escola:** [[00_VAULT/_wiki/escolas/cryo\|Cryo]]
-**Escala:** **Máxima**
+Glaciação é um feitiço da escola do [[00_VAULT/_wiki/escolas/cryo\|Cryo]], de escala máxima. É o frio absoluto: tudo congela num raio devastador, o ar solidifica, o som desaparece e o movimento cessa.
 
-O frio absoluto. Tudo congela num raio devastador: ar solidifica, som desaparece, movimento cessa. Diferente de Estase ([[00_VAULT/_wiki/escolas/chrono\|Chrono]]), que congela o tempo: Glaciação congela a matéria, o mundo se torna gelo e silêncio. O que não morre fica preservado, intacto e eternamente preso. Custo devastador: hipotermia que ameaça a vida do conjurador, emoções resfriam por dias, uso repetido acelera o Estágio IV
+### Práticas
+
+Diferente de Estase, da escola do [[00_VAULT/_wiki/escolas/chrono\|Chrono]], que congela o tempo, Glaciação congela a matéria, e o mundo se torna gelo e silêncio. O que não morre fica preservado, intacto e eternamente preso.
+
+### Custos
+
+O custo é devastador: hipotermia que ameaça a vida do conjurador e emoções que resfriam por dias. O uso repetido acelera o Estágio IV.

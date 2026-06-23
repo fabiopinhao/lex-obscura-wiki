@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/vitraxil.md","permalink":"/wiki/criaturas/vitraxil/","dg-note-properties":{"tipo":"criatura","nome":"Vitraxil","cor_arcana":"—","habitat":"Subterrâneo (Vor-Ghol)","aliases":[],"tags":[],"ordem":5,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/vitraxil.md","permalink":"/wiki/criaturas/vitraxil/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Vitraxil
 
-Criatura pequena e frágil de [[00_VAULT/_wiki/locais/vor-ghol\|Vor-Ghol]]. Usada em comparações: "rostinho de vitraxil" (aparência delicada), "vitraxil fechado" (encolhido, diminuto). Possivelmente bioluminescente.
+O Vitraxil é uma criatura pequena e frágil dos subterrâneos de [[00_VAULT/_wiki/locais/vor-ghol\|Vor-Ghol]], possivelmente bioluminescente. Sua delicadeza rendeu expressões de uso corrente: "rostinho de vitraxil" descreve uma aparência delicada, e "vitraxil fechado" evoca algo encolhido e diminuto.

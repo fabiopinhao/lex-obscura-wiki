@@ -40,6 +40,7 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[00_VAULT/_wiki/personagens/eliakim\|Eliakim]] — Conselheiro, Arquiteto da Diplomacia Sombria
 - [[00_VAULT/_wiki/personagens/vyrensen\|Malachar Vyrensen]] — Conselheiro, Coletor de Dívidas
 - [[00_VAULT/_wiki/personagens/nyssira_avaroth\|Nyssira Avaroth]] — Mãe de Nidzina, nobreza imperial
+- [[00_VAULT/_wiki/personagens/zanzer\|Zanzer]] — Ex-conselheiro, o Veneno Púrpura, caído em desgraça
 
 ## Justiciars, Generais e Militares
 
@@ -124,6 +125,8 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[00_VAULT/_wiki/personagens/ulgorth\|Ulgorth]] — Orc, capataz imperial
 - [[00_VAULT/_wiki/personagens/ghur\|Ghur]] — Orc, irmão de Grothar
 - [[00_VAULT/_wiki/personagens/grasnak\|Grasnak]] — Orc lendário, herói dos Cantos de Grasnak
+- [[00_VAULT/_wiki/personagens/selene\|Selene]] — Mulher de Valdris, figura do passado da cidade-porto
+- [[00_VAULT/_wiki/personagens/svyarnov\|Svyarnov]] — Shadar, líder operacional da Serpente Púrpura no Oeste
 
 ---
 

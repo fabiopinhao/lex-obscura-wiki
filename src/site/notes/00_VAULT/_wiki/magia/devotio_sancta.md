@@ -1,62 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/devotio-sancta/","dg-note-properties":{"tipo":"sistema_acesso","nome":"Devotio Sancta","cor":"Branco (W)","nome_latino":"Devotio Sancta","entidade":"Anjos","tipo_acesso":"Fé Religiosa","dificuldade":"Média","estabilidade":"Alta","custo_principal":"Código moral rígido, rituais obrigatórios","custo_recai_sobre":["identidade"],"pode_trair":"Não","posicao_doutrinaria_imperial":"tolerado_condicional","termo_canalizacao":"Dádiva","aliases":[],"ordem":4,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/devotio_sancta.md","permalink":"/wiki/magia/devotio-sancta/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Devotio Sancta
 
-### Natureza
+A Devotio Sancta é o sistema de acesso mágico ancorado na fé religiosa: o poder vem da devoção genuína a entidades de luz, ordem e pureza, concedido pelos [[00_VAULT/_wiki/cosmologia/anjos\|anjos]] como bênção. De estabilidade alta e dificuldade média, é doutrinariamente tolerada de modo condicional no [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|Império Sombrio]].
 
-Poder vem de fé genuína e adoração a entidades de luz/ordem/pureza através de devoção religiosa.
+### Canalização
 
-### Canalização — Dádiva
+A transferência de [[00_VAULT/_wiki/cosmologia/magi\|magi]] na Devotio Sancta chama-se Dádiva, e é sagrada e condicional. O anjo concede poder em proporção à fé do devoto e amplifica os sentimentos-chave das escolas concedidas enquanto a devoção permanece pura. A dúvida estreita o canal; a transgressão o fecha. A resposta do anjo modula-se conforme o estado espiritual do devoto, por ressonância com a fé e não por capricho.
 
-A transferência de [[00_VAULT/_wiki/cosmologia/magi\|magi]] na Devotio Sancta é sagrada e condicional. O [[00_VAULT/_wiki/cosmologia/anjos\|anjo]] concede poder como bênção proporcional à fé genuína do devoto. A Dádiva amplifica os sentimentos-chave das escolas concedidas enquanto a devoção permanecer pura. Dúvida estreita o canal; transgressão o fecha. O [[00_VAULT/_wiki/cosmologia/anjos\|anjo]] modula a resposta conforme o estado espiritual do devoto — não por capricho, mas por ressonância com a fé.
+### Processo de devoção
 
-Para a mecânica de [[00_VAULT/_wiki/cosmologia/magi\|Magi]] — reserva, recuperação e sobrecarga —, ver [[00_VAULT/_wiki/magia/sistema_de_combustivel_magico\|Sistema de Combustível Mágico]]; para os estágios da transformação ontológica, [[00_VAULT/_wiki/magia/progressao_ontologica\|Progressão Ontológica]].
+O caminho começa pela iniciação sacerdotal: anos de estudo da doutrina, ordenação em templo por um clérigo superior, votos públicos que variam por divindade (castidade, pobreza, obediência) e unção com óleo sagrado ou luz divina. Segue-se a consagração, um período de provação por jejum, oração e testes de fé em que a divindade julga a pureza de intenção; aprovado o devoto, pode surgir uma marca divina (halo tênue, olhos luminosos, aura branca), confirmada por um primeiro milagre pequeno. A manutenção da fé exige orações diárias, rituais em templo e serviço aos desígnios da divindade.
 
-### Processo de Devoção
+### Obrigações e custos
 
-1. **Iniciação Sacerdotal:**
-   - Estudar doutrina sagrada (anos de aprendizado)
-   - Ordenação em templo por clérigo superior
-   - Votos públicos (castidade, pobreza, obediência - variam por divindade)
-   - Batismo/Unção com óleo sagrado ou luz divina
+O custo recai sobre a identidade. O devoto observa um código moral rígido (não mentir, não matar inocentes, proteger os fracos), cumpre rituais obrigatórios como missas, orações e confissões, e mantém pureza pessoal segundo os votos. Em troca, conta com poder confiável enquanto a fé permanecer, comunidade de apoio no templo ou ordem, proteção contra corrupção demoníaca e diabólica, e a possibilidade de ascender na hierarquia eclesiástica. As fragilidades são simétricas: o código é inflexível e a transgressão custa o poder de imediato, a dúvida enfraquece a magia, e milagres podem falhar em momentos de hesitação.
 
-2. **Consagração:**
-   - Período de provação (jejum, oração, testes de fé)
-   - Divindade julga a pureza de intenção
-   - Se aprovado: marca divina pode aparecer (halo tênue, olhos luminosos, aura branca)
-   - Primeiro milagre pequeno como confirmação (cura de ferimento, luz nas mãos)
+### Perda de devoção
 
-3. **Manutenção da Fé:**
-   - Orações diárias
-   - Rituais em templo
-   - Servir aos desígnios da divindade (missões, conversões)
-   - Fé genuína. Mentir para si mesmo = perda de poder
-
-### Obrigações Típicas
-
-- Código moral rígido: Não mentir, não matar inocentes, proteger fracos
-- Rituais obrigatórios: Missas, orações, confissões
-- Serviço ativo: Curar doentes, combater mal, converter infiéis
-- Pureza pessoal: Variam (celibato, abstinência)
-
-### Vantagens e Desvantagens
-
-- ✅ Poder confiável enquanto fé permanecer
-- ✅ Comunidade de apoio (templo, ordem religiosa)
-- ✅ Proteção divina contra corrupção demoníaca/diabólica
-- ✅ Marca divina inspira respeito/temor em fiéis
-- ✅ Pode crescer em hierarquia eclesiástica (mais poder)
-
-- ❌ Código moral inflexível. Transgressão = perda imediata de poder
-- ❌ Vulnerável a crise de fé (dúvida enfraquece magia)
-- ❌ Hierarquia religiosa pode ser corrupta/política
-- ❌ Alvo de adoradores de deuses rivais
-- ❌ Milagres podem falhar em momentos de dúvida
-
-### Perda de Devoção
-
-- Transgredir código moral = divindade retira bênção
-- Marca divina escurece/desaparece
-- Ex-sacerdote sente abandono absoluto ([[00_VAULT/_wiki/cosmologia/vazio\|vazio]] espiritual)
-- Pode ser restaurado com penitência sincera (ou não, se pecado grave)
+Transgredir o código faz a divindade retirar a bênção: a marca divina escurece ou desaparece e o ex-devoto experimenta um abandono absoluto, um vazio espiritual. A restauração é possível por penitência sincera, variável conforme a gravidade da falta, mas pode não vir quando o pecado é grave.

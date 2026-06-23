@@ -1,20 +1,17 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/alianca_subterranea.md","permalink":"/wiki/organizacoes/alianca-subterranea/","dg-note-properties":{"tipo":"organizacao","nome":"Aliança Subterrânea","tipo_organizacao":"Pacto político","cor_afiliacao":"Preto","lider_atual":"Morvgrad + Ghilanna","sede":"Morvgrad/Ghilanna","status_atual":"Ativo (tenso)","membros_aprox":"—","funcao_principal":"Pacto entre shadars e druls.","aliases":[],"tags":[],"ordem":10,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/alianca_subterranea.md","permalink":"/wiki/organizacoes/alianca-subterranea/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Aliança Subterrânea
 
-### Origem e Função
+A Aliança Subterrânea é o pacto político entre [[00_VAULT/_wiki/racas/shadar\|shadars]] e [[00_VAULT/_wiki/racas/drul\|druls]], arquitetado por [[00_VAULT/_wiki/personagens/xarn\|Xarn]] na [[00_VAULT/_wiki/conceitos/segunda_era\|Segunda Era]], quando ele unificou [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]] e estabeleceu relações formais com [[00_VAULT/_wiki/locais/ghilanna\|Ghilanna]]. O pacto abriu uma troca cultural inédita entre as raças: os shadars absorveram a cultura de segredo drul, base dos [[00_VAULT/_wiki/organizacoes/templarios\|templários]], enquanto os druls ganharam acesso aos recursos da superfície e proteção militar.
 
-Pacto político entre [[00_VAULT/_wiki/racas/shadar\|shadars]] e [[00_VAULT/_wiki/racas/drul\|druls]], arquitetado por [[00_VAULT/_wiki/personagens/xarn\|Xarn]] na [[00_VAULT/_wiki/conceitos/segunda_era\|Segunda Era]] quando unificou [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]] e estabeleceu relações formais com [[00_VAULT/_wiki/locais/ghilanna\|Ghilanna]]. A Aliança possibilitou troca cultural inédita entre raças: [[00_VAULT/_wiki/racas/shadar\|shadars]] absorveram cultura de segredo [[00_VAULT/_wiki/racas/drul\|drul]] (base dos [[00_VAULT/_wiki/organizacoes/templarios\|templários]]), [[00_VAULT/_wiki/racas/drul\|druls]] ganharam acesso a recursos da superfície e proteção militar.
+### Mecânica
 
-### Mecânica da Aliança
-
-Formalizada em dois eixos: político ([[00_VAULT/_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]] + Casas Matriarcais) e religioso (templos de [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]] + templos de [[00_VAULT/_wiki/locais/ghilanna\|Ghilanna]], unificados sob eparquias como [[00_VAULT/_wiki/locais/xarn_zareth\|Xarn'Zareth]]). A conexão física é o elevador de mil braças entre [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]] e [[00_VAULT/_wiki/locais/vor-ghol\|Vor-Ghol]]. Intercâmbios regulares: uma descida por ciclo de quatro luas para treinamento cruzado ([[00_VAULT/_wiki/racas/shadar\|shadars]] em Câmaras de Provação, [[00_VAULT/_wiki/racas/drul\|druls]] em academias de [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]]).
+A Aliança se formaliza em dois eixos. No político, articula o [[00_VAULT/_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]] e as Casas Matriarcais; no religioso, une os templos de Morvgrad aos de Ghilanna sob eparquias como [[00_VAULT/_wiki/locais/xarn_zareth\|Xarn'Zareth]]. Sua conexão física é o elevador de mil braças que liga Morvgrad ao [[00_VAULT/_wiki/locais/vor-ghol\|Vor-Ghol]]. Os intercâmbios são regulares: a cada ciclo de quatro luas há uma descida para treinamento cruzado, com shadars nas Câmaras de Provação e druls nas academias de Morvgrad.
 
 ### Tensão Permanente
 
-[[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] dominou o [[00_VAULT/_wiki/locais/vor-ghol\|Vor-Ghol]] após ascender ao poder, tensionando a Aliança de parceria para subordinação de facto. [[00_VAULT/_wiki/racas/drul\|Druls]] observavam o monarca "com a mesma cautela que dedicavam a qualquer poder excessivamente centralizado em uma vontade." Suas matriarcas aguardavam.
+A desconfiança entre as duas raças é mútua e ancestral. Os shadars consideram os druls imprevisíveis e leais em excesso às matriarcas; os druls veem os shadars como arrogantes e incapazes de honrar alianças sem dominá-las. A Aliança funciona apesar dessa tensão, não sem ela.
 
-A desconfiança é mútua e ancestral. [[00_VAULT/_wiki/racas/shadar\|Shadars]] consideram [[00_VAULT/_wiki/racas/drul\|druls]] imprevisíveis e excessivamente leais às matriarcas. [[00_VAULT/_wiki/racas/drul\|Druls]] consideram [[00_VAULT/_wiki/racas/shadar\|shadars]] arrogantes e incapazes de honrar alianças sem dominá-las. A Aliança funciona apesar da tensão, não sem ela.
-
-📋 Para contexto histórico: §10.3 e §10.6 do Cânone.
+O equilíbrio piorou quando [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] dominou o Vor-Ghol após ascender ao poder, deslocando a relação de parceria para subordinação de fato. Os druls passaram a observar o monarca com a mesma cautela que reservam a qualquer poder centralizado em excesso numa só vontade, e suas matriarcas aguardam.

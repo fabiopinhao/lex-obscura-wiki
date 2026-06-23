@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/injuncao.md","permalink":"/wiki/feiticos/injuncao/","dg-note-properties":{"tipo":"feitico","nome":"Injunção","escola":"Nomos","escala":"Menor","aliases":[],"tags":[],"ordem":192,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/injuncao.md","permalink":"/wiki/feiticos/injuncao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Injunção
 
-**Escola:** [[00_VAULT/_wiki/escolas/nomos\|Nomos]]
-**Escala:** Menor
+Injunção é um feitício menor da escola do [[00_VAULT/_wiki/escolas/nomos\|Nomos]]. Comprime um comando em palavra e vontade para compelir obediência orgânica: as pernas param, a mão solta a arma, a boca se fecha, o gesto hesita a meio caminho. O corpo obedece antes que a recusa se forme.
 
-Comando comprimido em palavra e vontade que compele obediência orgânica: pernas param, mão solta a arma, boca fecha, gesto hesita a meio caminho. Diferente de Provocação ([[00_VAULT/_wiki/escolas/belli\|Belli]]), que desperta instinto agressivo: Injunção impõe ação ou inação específica. O corpo obedece antes da recusa; comandos complexos falham. Custo: hesitação na próxima decisão própria
+Distingue-se da Provocação, da escola do [[00_VAULT/_wiki/escolas/belli\|Belli]], que desperta o instinto agressivo: a Injunção impõe ação ou inação específica, não um impulso. Seu alcance tem limite claro, e comandos complexos falham. Como custo, o conjurador carrega hesitação na própria decisão seguinte.

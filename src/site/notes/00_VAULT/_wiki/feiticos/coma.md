@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/coma.md","permalink":"/wiki/feiticos/coma/","dg-note-properties":{"tipo":"feitico","nome":"Coma","escola":"Hypno","escala":"Maior","aliases":[],"tags":[],"ordem":127,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/coma.md","permalink":"/wiki/feiticos/coma/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Coma
 
-**Escola:** [[00_VAULT/_wiki/escolas/hypno\|Hypno]]
-**Escala:** Maior
+Coma é um feitiço maior da escola do [[00_VAULT/_wiki/escolas/hypno\|Hypno]] que mergulha o alvo num sono sem fundo, do qual nenhum estímulo natural o desperta. Onde o Transe mantém o corpo funcional e obediente a comando, Coma impõe paralisia total: o alvo não age. Dentro desse sono, o conjurador pode erguer um sonho-prisão em que a vítima vive sem saber que dorme, e por isso prisioneiros em Coma dispensam grades.
 
-Sono sem fundo: o alvo adormece e não desperta por estímulo natural. Diferente de Transe (que mantém o corpo funcional sob comando): Coma é paralisia total, o alvo não age. Dentro do coma, o conjurador pode construir sonho-prisão onde o alvo vive sem saber que dorme. Prisioneiros em Coma não precisam de grades. Custo: o conjurador sente sonolência proporcional à duração, tendência a microcochilos involuntários
+### Custo
+
+A vigília alheia pesa sobre o conjurador como sonolência proporcional à duração do feitiço, com tendência a microcochilos involuntários.

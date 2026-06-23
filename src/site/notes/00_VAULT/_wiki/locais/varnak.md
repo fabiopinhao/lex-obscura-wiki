@@ -1,18 +1,19 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/varnak.md","permalink":"/wiki/locais/varnak/","dg-note-properties":{"tipo":"local","nome":"Varnak","tipo_local":"Região montanhosa","regiao":"Veinkard","controlador":"Tribos draconídeas (fragmentado)","status_atual":"Ativo (independente)","distancia_morvgrad_leguas":"~700","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":14,"heading_level":3,"parent":"veinkard","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/varnak.md","permalink":"/wiki/locais/varnak/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Varnak
 
-Área montanhosa central de [[00_VAULT/_wiki/locais/veinkard\|Veinkard]]. Múltiplas tribos draconídeas (saurianas) em conflito constante. Nenhuma unificação política duradoura. Território disputado continuamente. Recursos minerais significativos. Nome derivado de [[00_VAULT/_wiki/personagens/varna\|Varna]], a dragão anciã que habita a região.
+Varnak é uma região montanhosa no coração de [[00_VAULT/_wiki/locais/veinkard\|Veinkard]], marcada por conflito perpétuo entre tribos draconídeas. Nenhum poder conseguiu impor unificação política duradoura sobre seus vales, que permanecem em disputa contínua. A região guarda recursos minerais significativos e deve o nome a [[00_VAULT/_wiki/personagens/varna\|Varna]], a dragão anciã que a habita.
 
 ### Organização tribal
-Liderança baseada em força militar e linhagem dracônica. Alianças temporárias, traições frequentes, guerras constantes.
 
-### [[00_VAULT/_wiki/organizacoes/cla_myr_vethan\|Clã Myr'vethan]]
-Tribo draconídea militarmente dominante. Líder: [[00_VAULT/_wiki/personagens/yzmareth\|Yzmareth]] ([[00_VAULT/_wiki/racas/draconideo\|draconídeo]] vermelho, usuário de magia dracônica). Ambição: unificar todos os clãs sob seu comando. Obstáculo principal: [[00_VAULT/_wiki/personagens/varna\|Varna]] impede unificação forçada. Busca armas e alianças para eliminar [[00_VAULT/_wiki/personagens/varna\|Varna]] e subjugar tribos rivais.
+A liderança em Varnak se assenta em força militar e linhagem dracônica. As tribos saurianas firmam alianças temporárias, traem-se com frequência e guerreiam sem trégua. Essa fragmentação impede qualquer resistência ou governo unificado.
 
-### Tribos rivais
-Opõem-se à dominação do [[00_VAULT/_wiki/organizacoes/cla_myr_vethan\|Clã Myr'vethan]]. Usam [[00_VAULT/_wiki/personagens/varna\|Varna]] como arma estratégica contra [[00_VAULT/_wiki/personagens/yzmareth\|Yzmareth]]. Algumas a cultuam; outras apenas a invocam quando conveniente. Fragmentação impede resistência organizada.
+### Clã Myr'vethan
 
-### [[00_VAULT/_wiki/racas/varnakiano\|Varnakianos]] (Tieflings)
-Xamãs e feiticeiros vivem espalhados por Varnak. Intermediários entre [[00_VAULT/_wiki/racas/draconideo\|draconídeos]] e forças demoníacas. Vinculados aos [[00_VAULT/_wiki/cosmologia/demonios\|deuses vermelhos]] ([[00_VAULT/_wiki/cosmologia/demonios\|demônios]]), não aos [[00_VAULT/_wiki/cosmologia/diabos\|diabos]] negros. Relação com [[00_VAULT/_wiki/racas/draconideo\|draconídeos]]: comercial e pragmática, desconfiança mútua.
+O [[00_VAULT/_wiki/organizacoes/cla_myr_vethan\|Clã Myr'vethan]] é a tribo militarmente dominante da região. Seu líder é [[00_VAULT/_wiki/personagens/yzmareth\|Yzmareth]], um [[00_VAULT/_wiki/racas/draconideo\|draconídeo]] vermelho e usuário de magia dracônica, cuja ambição é subjugar todos os clãs sob seu comando. O obstáculo principal a essa unificação é Varna, cuja presença as tribos rivais invocam como arma estratégica contra Yzmareth. Algumas a cultuam; outras apenas recorrem a ela quando convém.
+
+### Varnakianos
+
+Os [[00_VAULT/_wiki/racas/varnakiano\|varnakianos]], de origem tiefling, vivem espalhados pela região como xamãs e feiticeiros. Servem de intermediários entre os draconídeos e as forças demoníacas, vinculados aos [[00_VAULT/_wiki/cosmologia/demonios\|deuses vermelhos]], os demônios, e não aos [[00_VAULT/_wiki/cosmologia/diabos\|diabos]] negros. Sua relação com os draconídeos é comercial e pragmática, atravessada por desconfiança mútua.

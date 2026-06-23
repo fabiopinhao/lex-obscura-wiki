@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/icor.md","permalink":"/wiki/feiticos/icor/","dg-note-properties":{"tipo":"feitico","nome":"Icor","escola":"Hydro","escala":"Maior","aliases":[],"tags":[],"ordem":18,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/icor.md","permalink":"/wiki/feiticos/icor/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Icor
 
-**Escola:** [[00_VAULT/_wiki/escolas/hydro\|Hydro]]
-**Escala:** Maior
+Icor é um feitiço de escala maior da escola [[00_VAULT/_wiki/escolas/hydro\|Hydro]]. Concede controle sobre os fluidos dentro de um corpo vivo: o sangue desacelera, as articulações travam e os músculos contraem contra a vontade do dono. O alvo é traído pela própria biologia.
 
-Controlar fluidos dentro de corpo vivo: sangue desacelera, articulações travam, músculos contraem contra a vontade do dono. Diferente de Clausura ([[00_VAULT/_wiki/escolas/nomos\|Nomos]]), que imobiliza por lei arcana: Icor imobiliza por domínio sobre os fluidos internos, o corpo é traído pela própria biologia. Custo: pressão sanguínea instável, tontura, sangramento nasal
+O feitiço se distingue de Clausura, da escola [[00_VAULT/_wiki/escolas/nomos\|Nomos]], que imobiliza por lei arcana. Icor imobiliza por domínio sobre os fluidos internos. O preço recai sobre quem conjura: pressão sanguínea instável, tontura e sangramento nasal.

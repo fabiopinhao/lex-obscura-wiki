@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/voo.md","permalink":"/wiki/feiticos/voo/","dg-note-properties":{"tipo":"feitico","nome":"Voo","escola":"Urano","escala":"Maior","aliases":[],"tags":[],"ordem":237,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/voo.md","permalink":"/wiki/feiticos/voo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Voo
 
-**Escola:** [[00_VAULT/_wiki/escolas/urano\|Urano]]
-**Escala:** Maior
+Voo é um feitiço maior da escola do [[00_VAULT/_wiki/escolas/urano\|Urano]] que concede deslocamento aéreo pleno, sustentado por transcendência. Não há asas, vento nem mecanismo: o corpo se move pelo ar em silêncio, estável, indiferente ao clima, e direção e velocidade respondem à intenção de quem voa.
 
-Deslocamento aéreo pleno sustentado por transcendência. Sem asas, sem vento, sem mecanismo. Diferente de Elevação (apenas vertical, contemplativa): Voo é deslocamento livre, direção e velocidade respondem à intenção. Silencioso, estável, indiferente a clima. Quanto mais desapegado das âncoras terrenas, mais natural o movimento; paixões fortes puxam para baixo. Custo ontológico: cada voo instala convicção de que o chão é prisão. Retornar ao solo começa a exigir motivo
+### Princípio
+
+O movimento nasce do desapego. Quanto mais solto das âncoras terrenas está o conjurador, mais natural se torna o voo; paixões fortes puxam o corpo de volta para baixo. Distingue-se da Elevação, restrita ao eixo vertical e de natureza contemplativa: o Voo é deslocamento livre.
+
+### Custo
+
+O preço é ontológico. Cada voo instala em quem o realiza a convicção de que o chão é uma prisão, e o retorno ao solo passa a exigir um motivo.

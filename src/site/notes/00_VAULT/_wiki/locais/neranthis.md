@@ -1,10 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/neranthis.md","permalink":"/wiki/locais/neranthis/","dg-note-properties":{"tipo":"local","nome":"Neranthis","tipo_local":"Continente","regiao":"Leste de Reinkard (além de pântanos)","controlador":"Raças Azuis (independente)","status_atual":"Ativo (independente)","distancia_morvgrad_leguas":"~1.000+","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":17,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/neranthis.md","permalink":"/wiki/locais/neranthis/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Neranthis
 
-### Geografia e povos
-Continente a leste de [[00_VAULT/_wiki/locais/reinkard\|Reinkard]], após região de pântanos. Geografia hostil: lagos em excesso, pântanos, rios que dificultam locomoção. Clima úmido demais para domínio [[00_VAULT/_wiki/racas/shadar\|shadar]] direto. Terra das raças azuis: [[00_VAULT/_wiki/racas/frenim\|frenim]], [[00_VAULT/_wiki/racas/undine\|undine]], [[00_VAULT/_wiki/racas/ranidano\|ranidano]]. Tom: misterioso, erudito, isolacionista. [[00_VAULT/_wiki/racas/frenim\|Frenims]] se distanciaram das sombras de [[00_VAULT/_wiki/locais/reinkard\|Reinkard]], temem dominação. [[00_VAULT/_wiki/racas/undine\|Undines]] vivem no extremo leste, nas costas oceânicas, desconhecidos dos [[00_VAULT/_wiki/racas/shadar\|shadars]].
+Neranthis é um continente a leste de [[00_VAULT/_wiki/locais/reinkard\|Reinkard]], além de uma região de pântanos, habitado pelas raças azuis e mantido independente do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Seu tom é misterioso, erudito e isolacionista.
 
-### Interesse imperial
-Plano de [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]]: transformar em estado vassalo via [[00_VAULT/_wiki/personagens/lorvaq_val_kir\|Lorvaq Val'Kir]] (não conquista direta).
+### Geografia
+
+A geografia é hostil: lagos em excesso, pântanos e rios que dificultam a locomoção. O clima é úmido demais para o domínio [[00_VAULT/_wiki/racas/shadar\|shadar]] direto, o que ajudou a preservar a independência do continente.
+
+### Povos
+
+Neranthis é a terra das raças azuis: os [[00_VAULT/_wiki/racas/frenim\|frenims]], os [[00_VAULT/_wiki/racas/undine\|undines]] e os [[00_VAULT/_wiki/racas/ranidano\|ranidanos]]. Os frenims se distanciaram das sombras de Reinkard, temendo a dominação. Os undines vivem no extremo leste, nas costas oceânicas, desconhecidos dos shadars.

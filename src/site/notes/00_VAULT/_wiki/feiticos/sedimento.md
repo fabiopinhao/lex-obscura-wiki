@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/sedimento.md","permalink":"/wiki/feiticos/sedimento/","dg-note-properties":{"tipo":"feitico","nome":"Sedimento","escola":"Geo","escala":"Menor","aliases":[],"tags":[],"ordem":53,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sedimento.md","permalink":"/wiki/feiticos/sedimento/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Sedimento
 
-**Escola:** [[00_VAULT/_wiki/escolas/geo\|Geo]]
-**Escala:** Menor
+Sedimento é um feitiço da escola do [[00_VAULT/_wiki/escolas/geo\|Geo]], de escala Menor. Altera a coesão de uma superfície: solo frouxo se compacta em rocha, lama endurece, pedra porosa torna-se densa. O efeito também se inverte, e rocha sólida passa a friável.
 
-Alterar coesão de superfície: solo frouxo compacta em rocha, lama endurece, pedra porosa se torna densa. Inversamente, rocha sólida se torna friável. Diferente de Fissura ([[00_VAULT/_wiki/escolas/rupto\|Rupto]]), que causa dano estrutural: Sedimento altera propriedade do material. Custo: rigidez articular, músculos endurecem brevemente
+### Efeito
+
+A magia atua sobre a propriedade do próprio material, não sobre sua integridade. Por isso Sedimento se distingue de Fissura, da escola do [[00_VAULT/_wiki/escolas/rupto\|Rupto]], que provoca dano estrutural: onde Fissura quebra, Sedimento muda a natureza da matéria.
+
+### Custo
+
+O preço recai sobre o corpo do conjurador como rigidez articular, com os músculos endurecendo por um breve instante.

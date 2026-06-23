@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/clamor.md","permalink":"/wiki/feiticos/clamor/","dg-note-properties":{"tipo":"feitico","nome":"Clamor","escola":"Belli","escala":"Média","aliases":[],"tags":[],"ordem":206,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/clamor.md","permalink":"/wiki/feiticos/clamor/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Clamor
 
-**Escola:** [[00_VAULT/_wiki/escolas/belli\|Belli]]
-**Escala:** Média
+Clamor é um feitiço da escola [[00_VAULT/_wiki/escolas/belli\|Belli]], de escala média. Funciona como um grito de guerra que infunde aliados com determinação marcial: os músculos sustentam mais esforço, o medo recua e a coordenação do grupo melhora.
 
-Grito de guerra que infunde aliados com determinação marcial: músculos sustentam mais, medo recua, coordenação melhora. Diferente de Coragem ([[00_VAULT/_wiki/escolas/sacro\|Sacro]]), que dissipa medo por fé: Clamor é adrenalina compartilhada, o corpo responde ao chamado do bando. Custo: rouquidão, a voz do conjurador falha proporcionalmente à potência
+### Funcionamento
+
+O efeito é o de uma adrenalina compartilhada, em que o corpo responde ao chamado do bando. Distingue-se de Coragem, da escola do [[00_VAULT/_wiki/escolas/sacro\|Sacro]], que dissipa o medo pela fé; onde Coragem age sobre a alma, Clamor age sobre o corpo.
+
+### Custo
+
+O conjurador paga em rouquidão. A voz falha proporcionalmente à potência do grito.

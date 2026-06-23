@@ -1,38 +1,23 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/hierarquia_racial_imperial.md","permalink":"/wiki/conceitos/hierarquia-racial-imperial/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Hierarquia Racial Aplicada: Premissa Operacional do Império","subtipo":"politica","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":[],"tags":[],"ordem":15,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/hierarquia_racial_imperial.md","permalink":"/wiki/conceitos/hierarquia-racial-imperial/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Hierarquia Racial Aplicada: Premissa Operacional do Império
 
-### Premissa Operacional
+A hierarquia racial do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] é a premissa de que as raças possuem predisposições ontológicas que determinam sua compatibilidade com uma ordem centralizada. [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] opera sob essa convicção, e dela deriva boa parte da política de Estado da monarquia.
 
-[[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] opera sob convicção de que raças possuem predisposições ontológicas que determinam compatibilidade com ordem centralizada.
+### A Premissa
 
-- **[[00_VAULT/_wiki/racas/shadar\|Shadars]]** — Predisposição: Humanos aperfeiçoados. Ordeiros, hierárquicos, adaptáveis ao poder vertical. | Compatibilidade Imperial: Ideal
-- **[[00_VAULT/_wiki/racas/drul\|Druls]]** — Predisposição: Elfos corrompidos. Matriarcais, tradicionalistas, autonomia perigosa. | Compatibilidade Imperial: Tolerados mas vigiados
-- **[[00_VAULT/_wiki/racas/orc\|Orcs]]** — Predisposição: Elfos demonizados. Força bruta, obediência direta, sem ambição política. | Compatibilidade Imperial: Úteis como instrumentos
-- **[[00_VAULT/_wiki/racas/sylvano\|Sylvanos]]** — Predisposição: Elfos preservados. Recusam submissão, ligados a [[00_VAULT/_wiki/cosmologia/titas\|titãs]]. | Compatibilidade Imperial: Inimigos irreconciliáveis
-- **[[00_VAULT/_wiki/racas/elarino\|Elarinos]]** — Predisposição: Elfos luminosos. Memória de grandeza, ressentimento, esperança de retorno. | Compatibilidade Imperial: Devem ser extintos
+Na leitura imperial, os [[00_VAULT/_wiki/racas/shadar\|shadars]] são humanos aperfeiçoados, ordeiros e adaptáveis ao poder vertical, e por isso o sujeito ideal do império. Os [[00_VAULT/_wiki/racas/drul\|druls]], elfos corrompidos de cultura matriarcal e tradicionalista, são tolerados mas vigiados pela autonomia que se lhes atribui. Os [[00_VAULT/_wiki/racas/orc\|orcs]], elfos demonizados de força bruta e obediência direta, são úteis como instrumentos. Já os [[00_VAULT/_wiki/racas/sylvano\|sylvanos]], elfos preservados e ligados aos [[00_VAULT/_wiki/cosmologia/titas\|titãs]], recusam a submissão e são tratados como inimigos irreconciliáveis, enquanto os [[00_VAULT/_wiki/racas/elarino\|elarinos]], elfos luminosos que guardam memória de grandeza, são vistos como uma raça a extinguir.
 
-### Tradução Operacional
+A tradução operacional é direta: elfos, em todas as variantes, seriam estruturalmente inadequados a um império centralizado, porque sua natureza privilegia autonomia sobre obediência, tradição sobre adaptação e vínculos horizontais sobre hierarquia vertical.
 
-Elfos (em todas as variantes) são estruturalmente inadequados para [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|império]] centralizado. Sua natureza privilegia autonomia sobre obediência, tradição sobre adaptação, e vínculos horizontais (clãs, casas, bosques) sobre hierarquia vertical.
+### Aplicação Política
 
-### Aplicação Política Concreta
-
-A desconfiança de [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] com [[00_VAULT/_wiki/racas/drul\|druls]] não é paranoia: é diagnóstico racial aplicado como política de Estado. Ele não pode exterminar os [[00_VAULT/_wiki/racas/drul\|druls]] ([[00_VAULT/_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]] é pilar militar), então os administra como risco controlado:
-
-- Matriarcas mantêm autonomia no [[00_VAULT/_wiki/locais/vor-ghol\|Vor-Ghol]]
-- Mas são excluídas de cargos-chave no [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|império]] de superfície
-- [[00_VAULT/_wiki/organizacoes/ophideias\|Ophideias]] ([[00_VAULT/_wiki/racas/drul\|druls]] leais) servem como ponte vigiada
-- [[00_VAULT/_wiki/organizacoes/justiciars\|Justiciars]] ([[00_VAULT/_wiki/racas/shadar\|shadars]] puros) fiscalizam sem depender de pactos [[00_VAULT/_wiki/racas/drul\|druls]]
+A desconfiança de Arothistar com os druls funciona como diagnóstico racial aplicado como política. Como não pode exterminá-los, sendo a [[00_VAULT/_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]] um pilar militar, ele os administra como risco controlado: as matriarcas mantêm autonomia no [[00_VAULT/_wiki/locais/vor-ghol\|Vor-Ghol]], mas são excluídas de cargos-chave no império de superfície; as [[00_VAULT/_wiki/organizacoes/ophideias\|ophideias]], druls leais, servem como ponte vigiada; e os [[00_VAULT/_wiki/organizacoes/justiciars\|Justiciars]], shadars puros, fiscalizam sem depender de pactos drul.
 
 ### Função Sistêmica
 
-O racismo do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|império]] não é arbitrário. É sistema funcional dentro de sua própria lógica interna: [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] genuinamente acredita que concentração de poder em [[00_VAULT/_wiki/racas/shadar\|shadars]] é necessária para estabilidade. Não é crueldade: é engenharia social baseada em premissas raciais.
+Dentro de sua própria lógica, o racismo imperial não é arbitrário, mas um sistema funcional. Arothistar acredita que a concentração de poder nos shadars é necessária à estabilidade, e trata a hierarquia racial como engenharia social, não como crueldade. Os Justiciars executam elarinos e sylvanos sem culpa porque operam num worldview em que elfos são tidos por incompatíveis com a ordem civilizada.
 
-[[00_VAULT/_wiki/organizacoes/justiciars\|Justiciars]] executam [[00_VAULT/_wiki/racas/elarino\|elarinos]] e [[00_VAULT/_wiki/racas/sylvano\|sylvanos]] sem culpa porque acreditam que elfos são ontologicamente incompatíveis com ordem civilizada. Personagens [[00_VAULT/_wiki/racas/shadar\|shadars]] operam dentro de worldview coerente onde hierarquia racial é fato natural, não escolha moral.
-
-### Contrapontos Narrativos
-
-- [[00_VAULT/_wiki/personagens/syndrith_morghast\|Syndrith]] ([[00_VAULT/_wiki/racas/drul\|drul]] leal) demonstra que lealdade individual transcende predisposição racial
-- [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milor]] (questionador) eventualmente percebe que sistema confunde controle com necessidade
+A própria estrutura, porém, abriga contrapontos: [[00_VAULT/_wiki/personagens/syndrith_morghast\|Syndrith]], drul leal, demonstra que a lealdade individual transcende a predisposição atribuída à raça, e [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milor]] questiona, de dentro, um sistema que confunde controle com necessidade.

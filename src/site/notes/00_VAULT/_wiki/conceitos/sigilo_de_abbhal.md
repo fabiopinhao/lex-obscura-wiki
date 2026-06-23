@@ -1,42 +1,29 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/sigilo_de_abbhal.md","permalink":"/wiki/conceitos/sigilo-de-abbhal/","dg-note-properties":{"tipo":"conceito","lore_target":"3.2","nome":"Sigilo de Abbhal","subtipo":"instrumento_juridico","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":["Marca de Abbhal"],"ordem":23,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/sigilo_de_abbhal.md","permalink":"/wiki/conceitos/sigilo-de-abbhal/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Sigilo de Abbhal
+
+O Sigilo de [[00_VAULT/_wiki/panteao/abbhal\|Abbhal]], também chamado Marca de Abbhal, é a sentença máxima do sistema judicial do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]: o aprisionamento eterno da alma dentro de um corpo vivo. Reservado aos traidores do mais alto escalão, marca o ponto em que a justiça imperial cede lugar à justiça divina. O nome deriva de Abbhal, o Juiz Cego, diabo de função diplomática e judicial no panteão sombrio.
 
 ### Natureza
 
-O Sigilo de [[00_VAULT/_wiki/panteao/abbhal\|Abbhal]] é a sentença máxima do sistema judicial do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]: aprisionamento eterno da alma em corpo vivo. Reservado exclusivamente para traidores do mais alto escalão, representa o ponto onde a justiça imperial cede lugar à justiça divina. O nome deriva de [[00_VAULT/_wiki/panteao/abbhal\|Abbhal]], o Juiz Cego, diabo com função diplomática e judicial no panteão sombrio, e único que negocia diretamente com [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]].
-
-Na hierarquia de punições do [[00_VAULT/_wiki/organizacoes/tribunal_de_morvgrad\|Tribunal de Morvgrad]], o Sigilo ocupa posição acima dos Crucitórios e de qualquer execução convencional. Não mata: condena a existência sem agência. O corpo respira, o coração bate, mas a consciência permanece presa em limbo: olhos vítreos, boca aberta em grito mudo, vida sem vida.
+Na hierarquia de punições do [[00_VAULT/_wiki/organizacoes/tribunal_de_morvgrad\|Tribunal de Morvgrad]], o Sigilo ocupa posição acima dos Crucitórios e de qualquer execução convencional. Não mata: condena à existência sem agência. O corpo respira e o coração bate, mas a consciência permanece presa em um limbo, com olhos vítreos e a boca aberta em grito mudo. É vida sem vida.
 
 ### Mecânica Arcana
 
-O Sigilo opera na interseção entre magia institucional e invocação divina direta. A inscrição ritual na carne do condenado funciona como gatilho para a manifestação de [[00_VAULT/_wiki/panteao/abbhal\|Abbhal]], que sela a sentença com autoridade divina. O executor prepara o veículo arcano; o diabo executa o aprisionamento.
-
-A escola [[00_VAULT/_wiki/escolas/nomos\|Nomos]] possui feitiços com efeitos parcialmente análogos (Sigilo, Oubliette, Clausura), mas nenhuma fonte canônica confirma que o Sigilo de [[00_VAULT/_wiki/panteao/abbhal\|Abbhal]] derive mecanicamente dessas escalas. A participação direta do diabo sugere que o processo transcende a magia convencional de [[00_VAULT/_wiki/escolas/nomos\|Nomos]].
+O Sigilo opera na interseção entre a magia institucional e a invocação divina direta. A inscrição ritual na carne do condenado funciona como gatilho para a manifestação de Abbhal, que sela a sentença com autoridade divina: o executor prepara o veículo arcano e o diabo executa o aprisionamento. A escola [[00_VAULT/_wiki/escolas/nomos\|Nomos]] possui feitiços de efeito parcialmente análogo, como Sigilo, Oubliette e Clausura, mas nenhuma fonte confirma que o Sigilo de Abbhal derive dessas escalas, e a participação direta do diabo sugere um processo que transcende a magia convencional.
 
 ### Procedimento Ritual
 
-O executor grava o sigilo diretamente na carne do condenado com lâmina: cortes precisos formando diagonais, cruz invertida, triângulos sobrepostos, círculos e espirais que não se fecham. O sangue transmuta em substância negra durante a inscrição. Concluído o padrão, o executor invoca [[00_VAULT/_wiki/panteao/abbhal\|Abbhal]] em latim ritual:
+O executor grava o sigilo diretamente na carne do condenado com uma lâmina, em cortes precisos que formam diagonais, cruz invertida, triângulos sobrepostos, círculos e espirais que não se fecham. O sangue transmuta em substância negra durante a inscrição. Concluído o padrão, o executor invoca Abbhal em latim ritual.
 
-*"[[00_VAULT/_wiki/panteao/abbhal\|Abbhal]] caecus iudex! Qui videt peccatum sine luce! Carcerem animae, claudite portas! Nec mors nec vita, sed poena aeterna!"*
+A manifestação do diabo é descrita como aterrorizante, oscilando entre um magistrado de chamas brancas com os olhos vendados por fogo negro, uma balança cujos pratos pingam substância víride e espessa, e uma ausência devoradora em forma humana. A presença divina força os presentes à prostração involuntária. O selamento ocorre quando tentáculos de antiluz penetram o sigilo inscrito e extraem a alma visível do condenado, sugada para dentro do corpo, mas não através dele. O sigilo permanece pulsando negro na pele depois que a projeção divina se dissolve.
 
-A manifestação de [[00_VAULT/_wiki/panteao/abbhal\|Abbhal]] é aterrorizante: forma oscilante entre magistrado de chamas brancas com olhos vendados por fogo negro, balança cujos pratos pingam substância víride e espessa, e ausência devoradora em forma humana. A presença divina força todos os presentes à prostração involuntária. O selamento ocorre quando tentáculos de antiluz penetram o sigilo inscrito e extraem a alma visível do condenado, que é sugada para dentro do corpo mas não através dele.
+### Aplicação
 
-O sigilo permanece pulsando negro na pele do condenado após a dissolução da projeção divina.
+O caso documentado de seu uso ocorre na capela de [[00_VAULT/_wiki/locais/niedellin\|Niedellin]], quando o Justiciar [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milor]] aplica o Sigilo em [[00_VAULT/_wiki/personagens/maraxus\|Maraxus]] após derrotá-lo em combate, condenando-o como pactuário clandestino de [[00_VAULT/_wiki/panteao/hazburim\|Hazburim]]. Durante o rito, a flecha élfica de [[00_VAULT/_wiki/personagens/gaelwyn\|Gaelwyn]] cravada nas costas de Maraxus ejeta-se sozinha da carne, sinal de duas divindades disputando o mesmo espaço, com Abbhal prevalecendo. Entre as testemunhas, [[00_VAULT/_wiki/personagens/merari_d_khunvel\|Merari]] reconhece os primeiros traços do ritual com horror e [[00_VAULT/_wiki/personagens/eralmir_vess\|Eralmir]] vomita ao compreender que existem destinos piores que a execução.
 
-### Aplicação Conhecida
+### Significado
 
-Na seção 12.8 do Livro I, [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milor]] aplica o Sigilo de [[00_VAULT/_wiki/panteao/abbhal\|Abbhal]] em [[00_VAULT/_wiki/personagens/maraxus\|Maraxus]] na praça da capela de [[00_VAULT/_wiki/locais/niedellin\|Niedellin]], após derrotá-lo em combate. [[00_VAULT/_wiki/personagens/maraxus\|Maraxus]] era pactuado clandestino de [[00_VAULT/_wiki/panteao/hazburim\|Hazburim]] (crime capital) e responsável pela desintegração institucional da administração provincial.
-
-Durante o ritual, a flecha élfica de [[00_VAULT/_wiki/personagens/gaelwyn\|Gaelwyn]] cravada nas costas de [[00_VAULT/_wiki/personagens/maraxus\|Maraxus]] ejetou-se sozinha da carne: duas divindades disputaram o mesmo espaço e [[00_VAULT/_wiki/panteao/abbhal\|Abbhal]] prevaleceu. [[00_VAULT/_wiki/personagens/levi\|Levi]], contaminado por resíduos demoníacos de [[00_VAULT/_wiki/panteao/hazburim\|Hazburim]], permaneceu de pé enquanto todos os demais caíram de joelhos, observando a manifestação divina com fascínio em vez de terror.
-
-[[00_VAULT/_wiki/personagens/merari_d_khunvel\|Merari]] reconheceu os primeiros traços do ritual e reagiu com horror. [[00_VAULT/_wiki/personagens/eralmir_vess\|Eralmir]] vomitou ao compreender que existem destinos piores que a execução.
-
-### Questões Abertas
-
-O condenado mantém consciência? Sente o que acontece ao corpo? O selamento pode ser revertido e, se sim, por quem: pelo executor, por outro Justiciar, pelo próprio [[00_VAULT/_wiki/panteao/abbhal\|Abbhal]]? Estas questões permanecem sem resposta canônica.
-
-### Significado Temático
-
-O Sigilo dramatiza o tema central do Livro I: justiça divina espelhando justiça humana. [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milor]], o Justiciar terreno, invoca [[00_VAULT/_wiki/panteao/abbhal\|Abbhal]], o Juiz divino, e ambos executam a mesma função em planos diferentes. A sentença é mais cruel que qualquer punição convencional, expondo a filosofia do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|império]]: a ordem não pune para corrigir, pune para demonstrar que a transgressão custa mais do que a obediência.
+O Sigilo condensa a filosofia penal do império: a ordem não pune para corrigir, mas para demonstrar que a transgressão custa mais do que a obediência. A sentença espelha, em plano divino, a função que o Justiciar exerce em plano terreno.

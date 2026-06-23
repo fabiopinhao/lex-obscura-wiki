@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/pesadelo.md","permalink":"/wiki/feiticos/pesadelo/","dg-note-properties":{"tipo":"feitico","nome":"Pesadelo","escola":"Hypno","escala":"Média","aliases":[],"tags":[],"ordem":126,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/pesadelo.md","permalink":"/wiki/feiticos/pesadelo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Pesadelo
 
-**Escola:** [[00_VAULT/_wiki/escolas/hypno\|Hypno]]
-**Escala:** Média
+Pesadelo é um feitiço de escala média da escola [[00_VAULT/_wiki/escolas/hypno\|Hypno]]. Por meio dele, o conjurador entra no sonho de um alvo adormecido como intruso consciente, capaz de interagir, interrogar ou torturar sem deixar marca no corpo. A dor onírica é real para a mente.
 
-O conjurador entra no sonho de alvo adormecido como intruso consciente: pode interagir, interrogar ou torturar sem marca no corpo. A dor onírica é real para a mente. Diferente de Sonho (mensagem passiva): Pesadelo é presença ativa dentro do inconsciente alheio. O alvo acorda exausto, incapaz de distinguir memória de sonho. Custo: fragmentos do pesadelo contaminam o sono do conjurador por dias
+Diferente de Sonho, que transmite uma mensagem passiva, Pesadelo é presença ativa dentro do inconsciente alheio. O alvo desperta exausto, incapaz de distinguir memória de sonho. O custo recai sobre o próprio conjurador: fragmentos do pesadelo contaminam seu sono por dias.

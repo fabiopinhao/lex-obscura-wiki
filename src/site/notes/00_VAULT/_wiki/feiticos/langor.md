@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/langor.md","permalink":"/wiki/feiticos/langor/","dg-note-properties":{"tipo":"feitico","nome":"Langor","escola":"Hypno","escala":"Menor","aliases":[],"tags":[],"ordem":121,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/langor.md","permalink":"/wiki/feiticos/langor/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Langor
 
-**Escola:** [[00_VAULT/_wiki/escolas/hypno\|Hypno]]
-**Escala:** Menor
+Langor é um feitiço menor da escola do [[00_VAULT/_wiki/escolas/hypno\|Hypno]]. Faz a mente do alvo pesar antes do corpo: as pálpebras cedem, os pensamentos viram algodão molhado e a atenção se esfrangalha. Sentinelas perdem o foco; negociadores esquecem o argumento. Distingue-se do Acalanto, que dissolve a tensão física; o Langor ataca a vigília mental.
 
-A mente do alvo pesa antes do corpo: pálpebras cedem, pensamentos viram algodão molhado, atenção se esfrangalha. Diferente de Acalanto (que dissolve tensão física): Langor ataca a vigília mental. Sentinelas perdem o foco; negociadores esquecem o argumento. Custo: sonolência residual no conjurador, bocejo reflexo
+### Custo
+
+Resta sonolência no conjurador, com bocejo reflexo.

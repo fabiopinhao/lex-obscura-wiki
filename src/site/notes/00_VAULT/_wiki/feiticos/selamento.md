@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/selamento.md","permalink":"/wiki/feiticos/selamento/","dg-note-properties":{"tipo":"feitico","nome":"Selamento","escola":"Abjuro","escala":"Maior","aliases":[],"tags":[],"ordem":297,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/selamento.md","permalink":"/wiki/feiticos/selamento/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Selamento
 
-**Escola:** [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]]
-**Escala:** Maior
+Selamento é um feitiço de escala Maior da escola do [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]]. Confere proteção permanente que torna um alvo (pessoa, objeto ou local) impenetrável a uma escola específica de magia.
 
-Proteção permanente que torna alvo (pessoa, objeto ou local) impenetrável a escola específica de magia. Selamento contra [[00_VAULT/_wiki/escolas/necro\|Necro]] impede reanimação; contra [[00_VAULT/_wiki/escolas/anatho\|Anatho]], maldições escorregam; contra [[00_VAULT/_wiki/escolas/pyro\|Pyro]], chamas se extinguem ao cruzar a fronteira. Ritual longo e preciso. Não é absoluto: escala máxima da escola selada pode forçar passagem. Cada Selamento protege contra uma escola apenas. Custo: ponto cego: o conjurador perde sensibilidade à escola selada enquanto o efeito existir
+### Efeito
+
+A barreira responde à escola contra a qual foi erguida. Um Selamento contra [[00_VAULT/_wiki/escolas/necro\|Necro]] impede reanimação; contra [[00_VAULT/_wiki/escolas/anatho\|Anatho]], as maldições escorregam; contra [[00_VAULT/_wiki/escolas/pyro\|Pyro]], as chamas se extinguem ao cruzar a fronteira. Sua conjuração exige um ritual longo e preciso, e cada Selamento protege contra uma única escola. A proteção não é absoluta: a escala máxima da escola selada ainda pode forçar passagem.
+
+### Custo
+
+Enquanto o efeito perdura, o conjurador carrega um ponto cego: perde a sensibilidade à própria escola que selou.

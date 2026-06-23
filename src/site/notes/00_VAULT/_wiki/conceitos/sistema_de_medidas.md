@@ -1,87 +1,51 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/sistema_de_medidas.md","permalink":"/wiki/conceitos/sistema-de-medidas/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Sistema de Medidas","subtipo":"medida","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":[],"tags":[],"ordem":10,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/sistema_de_medidas.md","permalink":"/wiki/conceitos/sistema-de-medidas/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Sistema de Medidas
 
-### Lema Imperial
-
-"Medir é dominar."
-
-A padronização de medidas é instrumento de controle imperial. Antes da conquista [[00_VAULT/_wiki/racas/shadar\|shadar]], cada povo media o mundo com o próprio corpo e os próprios ciclos. [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] impôs um sistema único a [[00_VAULT/_wiki/locais/reinkard\|Reinkard]]: as mesmas ampulhetas calibradas em [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]] distribuídas a cada província, os mesmos pesos aferidos nas balanças de [[00_VAULT/_wiki/locais/thandruk_varn\|Thandruk Varn]], as mesmas moedas cunhadas com seu perfil. Povos subjugados que persistem em medir com unidades próprias ([[00_VAULT/_wiki/racas/drul\|druls]] com o Drath, [[00_VAULT/_wiki/racas/sylvano\|sylvanos]] com o Sárn, [[00_VAULT/_wiki/racas/orc\|orcs]] com o Rûk) cometem, aos olhos do Culto, um ato de insubordinação silenciosa.
+O Sistema de Medidas é a padronização imperial de distância, tempo, peso, volume e moeda imposta a [[00_VAULT/_wiki/locais/reinkard\|Reinkard]] pelo [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Antes da conquista [[00_VAULT/_wiki/racas/shadar\|shadar]], cada povo media o mundo com o próprio corpo e os próprios ciclos. [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] impôs um padrão único, sintetizado no lema "Medir é dominar": as mesmas ampulhetas calibradas em [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]], os mesmos pesos aferidos em [[00_VAULT/_wiki/locais/thandruk_varn\|Thandruk Varn]], as mesmas moedas cunhadas com seu perfil. Persistir em medir por unidades próprias é, aos olhos do [[00_VAULT/_wiki/organizacoes/culto_sombrio\|Culto]], um ato de insubordinação silenciosa.
 
 ### Distância
 
-A unidade padrão de viagem é a légua (5 km). A escala imperial segue progressão corporal e ambiental: Grão (5 mm), Dedo (2,5 cm), Palmo (25 cm), Passo (1 m), Braça (2 m), Marn (200 m), Estirão (1 km), Légua (5 km). Conversões diretas: 1 Légua = 5 Estirões = 25 Marns = 5.000 Passos.
-
-A lógica é ascendente: do micro (corpo humano) ao macro (jornada de viagem). As unidades menores (Grão, Dedo, Palmo) servem a ofícios de precisão: ourives, boticários, alfaiates, envenenadores. O Marn (200 m) é a medida urbana por excelência, a distância padrão entre torres de vigia em [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]] e o limite prático do alcance de flecha. O Estirão (1 km) marca o limite de alcance visual em terreno aberto. A Braça (2 m) mede o que é vertical: profundidade de poço, altura de muralha, a distância entre o cadafalso e o chão.
-
-Variantes culturais resistem ao padrão imperial: [[00_VAULT/_wiki/racas/drul\|druls]] usam o Drath (1,5 m), ligeiramente menor que a Braça porque os túneis do [[00_VAULT/_wiki/locais/vor-ghol\|Vor-Ghol]] são mais baixos; [[00_VAULT/_wiki/racas/sylvano\|sylvanos]] medem em Sárns (500 m), a distância em que distinguem o canto de dois pássaros diferentes; [[00_VAULT/_wiki/racas/karashim\|anões]] usam o Braç'harn (1,8 m), medida padrão de galeria de mina em [[00_VAULT/_wiki/locais/thandruk_varn\|Thandruk Varn]]; [[00_VAULT/_wiki/racas/orc\|orcs]] usam o Rûk (50 m), distância de carga tática, embora no micro adotem unidades imperiais.
+A escala segue progressão corporal e ambiental, do micro ao macro: Grão (5 mm), Dedo (2,5 cm), Palmo (25 cm), Passo (1 m), Braça (2 m), Marn (200 m), Estirão (1 km) e Légua (5 km), a unidade padrão de viagem. As menores servem a ofícios de precisão (ourives, boticários, alfaiates, envenenadores). O Marn é a medida urbana por excelência, distância padrão entre torres de vigia em Morvgrad e limite prático do alcance de flecha; o Estirão marca o alcance visual em terreno aberto; a Braça mede o vertical, da profundidade de um poço à distância entre o cadafalso e o chão. Variantes culturais resistem ao padrão imperial: os [[00_VAULT/_wiki/racas/drul\|druls]] usam o Drath (1,5 m), mais curto porque os túneis do [[00_VAULT/_wiki/locais/vor-ghol\|Vor-Ghol]] são mais baixos; os [[00_VAULT/_wiki/racas/sylvano\|sylvanos]] o Sárn (500 m); os [[00_VAULT/_wiki/racas/karashim\|anões]] o Braç'harn (1,8 m), medida de galeria de mina; os [[00_VAULT/_wiki/racas/orc\|orcs]] o Rûk (50 m), distância de carga tática.
 
 ### Tempo
 
-O dia divide-se em quatro vigílias de seis horas. A unidade mínima é o Batimento (1 segundo), definido pelo pulso em repouso de um [[00_VAULT/_wiki/racas/shadar\|shadar]] adulto, seguida de Stilha (1 minuto) e Hora (60 minutos). [[00_VAULT/_wiki/organizacoes/ophideias\|Ophideias]] treinam para contar batimentos internos com precisão cirúrgica; a Stilha é a pausa ritual antes de sentenças dos [[00_VAULT/_wiki/organizacoes/justiciars\|Justiciars]].
+O dia divide-se em quatro vigílias de seis horas. A unidade mínima é o Batimento (1 segundo), definido pelo pulso em repouso de um shadar adulto, seguida da Stilha (1 minuto) e da Hora. As [[00_VAULT/_wiki/organizacoes/ophideias\|Ophideias]] treinam para contar batimentos internos com precisão cirúrgica, e a Stilha é a pausa ritual antes das sentenças dos [[00_VAULT/_wiki/organizacoes/justiciars\|Justiciars]]. Cada vigília carrega caráter próprio: a Prima (Sombra Profunda, 0h a 6h) é a hora dos interrogatórios e execuções, com patrulhas dobradas em Morvgrad; a Segunda (Ascensão, 6h a 12h) abre mercados e tribunais; a Tércia (Zênite, 12h a 18h) é o pico da atividade militar e comercial; a Quarta (Crepúsculo, 18h a 24h) impõe o toque de recolher aos pindoriares nas cidades imperiais.
 
-Cada vigília tem caráter próprio:
+### Calendário e estações
 
-- **Prima** (Sombra Profunda, 0h–6h): Hora dos interrogatórios e execuções. Patrulhas dobradas em [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]]. "Nascido na Prima" é presságio sombrio.
-- **Segunda** (Ascensão, 6h–12h): Abertura de mercados e tribunais. [[00_VAULT/_wiki/organizacoes/justiciars\|Justiciars]] recebem petições na Segunda. "Ascensão sem luz" (manhã nublada) é mau presságio em [[00_VAULT/_wiki/locais/myrgarde\|Myrgarde]].
-- **Tércia** (Zênite, 12h–18h): Pico de atividade militar e comercial. Hora de audiências militares e execuções públicas. Homônimo da estação Zênite (verão).
-- **Quarta** (Crepúsculo, 18h–24h): Toque de recolher para pindoriares em cidades imperiais. "Conversa de Quarta" é negócio feito às pressas antes do escuro.
+A [[00_VAULT/_wiki/conceitos/lunia\|Lúnia]] (28 dias) equivale ao mês e divide-se em quatro fáscias de sete dias, cada uma coincidindo com uma fase lunar. Contratos e prazos legais contam-se em lúnias, e vencimentos militares pagam-se por fáscia; a fáscia de lua nova é a "fáscia de sangue", período preferido para operações das Ophideias. O [[00_VAULT/_wiki/conceitos/varnum\|Varnum]] (365 dias) equivale ao ano, composto por treze lúnias mais o [[00_VAULT/_wiki/conceitos/nullis\|Nullis]], e é literalmente o ciclo completo do sol (a raiz *varn-* liga-se a calor, como em [[00_VAULT/_wiki/personagens/varna\|Varna]], [[00_VAULT/_wiki/locais/varnak\|Varnak]] e Thandruk Varn). A contagem imperial dos varnums começa na coroação de Arothistar, e "quantos varnums você carrega?" é a forma comum de perguntar a idade.
 
-### Calendário e Estações
+O ano tem quatro estações; os nomes formais são de uso erudito e cerimonial, enquanto no cotidiano prevalecem primavera, verão, outono e inverno.
 
-A [[00_VAULT/_wiki/conceitos/lunia\|Lúnia]] (28 dias) equivale ao mês e divide-se em quatro fáscias de sete dias, cada uma coincidindo com uma fase lunar: Nova, Crescente, Plena e Minguante. Contratos e prazos legais contam-se em lúnias. Vencimentos militares são pagos por fáscia. A fáscia de lua nova é chamada "fáscia de sangue", período preferido para operações das [[00_VAULT/_wiki/organizacoes/ophideias\|Ophideias]].
+- **Primavera** (Germa): 3 lúnias, 84 dias.
+- **Verão** (Zênite): 3 lúnias, 84 dias.
+- **Outono** (Quédia): 3 lúnias, 84 dias.
+- **Inverno** (Brûma): 4 lúnias, 112 dias.
 
-O [[00_VAULT/_wiki/conceitos/varnum\|Varnum]] (365 dias) equivale ao ano, composto por treze Lúnias (364 dias) mais o [[00_VAULT/_wiki/conceitos/nullis\|Nullis]]. A raiz *varn-* conecta-se a sol e calor (cf. [[00_VAULT/_wiki/personagens/varna\|Varna]], a dragão anciã; [[00_VAULT/_wiki/locais/varnak\|Varnak]], as cordilheiras vulcânicas; [[00_VAULT/_wiki/locais/thandruk_varn\|Thandruk Varn]], a fortaleza de forjas). O [[00_VAULT/_wiki/conceitos/varnum\|Varnum]] é, literalmente, o "ciclo completo do sol". "Quantos varnums você carrega?" é a forma comum de perguntar a idade de alguém. A contagem imperial dos varnums começa na coroação de [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]].
+O Nullis (Dia do [[00_VAULT/_wiki/cosmologia/vazio\|Vazio]]), coloquialmente "Dia do Vaz", é o dia avulso entre a última lúnia de um varnum e a primeira do seguinte. Não pertence a nenhuma lúnia nem estação: é dia de superstição e recolhimento, em que muitos pindoriares fecham a porta, apagam o fogo e não pronunciam o nome de ninguém que tenha morrido no ano anterior.
 
-O [[00_VAULT/_wiki/conceitos/varnum\|Varnum]] possui quatro estações. Os nomes formais (Germa, Zênite, Quédia, Brûma) são de uso erudito e cerimonial; no cotidiano, prevalece primavera, verão, outono e inverno.
+### Peso e volume
 
-- **Primavera** — Formal: Germa | Lúnias: 3 | Dias: 84
-- **Verão** — Formal: Zênite | Lúnias: 3 | Dias: 84
-- **Outono** — Formal: Quédia | Lúnias: 3 | Dias: 84
-- **Inverno** — Formal: Brûma | Lúnias: 4 | Dias: 112
-
-O [[00_VAULT/_wiki/conceitos/nullis\|Nullis]] (Dia do [[00_VAULT/_wiki/cosmologia/vazio\|Vazio]]), coloquialmente "Dia do Vaz", é o dia avulso entre a última [[00_VAULT/_wiki/conceitos/lunia\|Lúnia]] do [[00_VAULT/_wiki/conceitos/varnum\|Varnum]] e a primeira do seguinte. Não pertence a nenhuma [[00_VAULT/_wiki/conceitos/lunia\|Lúnia]] nem estação. Dia de superstição, recolhimento e rituais imperiais. Para a maioria dos pindoriares, o [[00_VAULT/_wiki/conceitos/nullis\|Nullis]] é o dia em que o mundo suspira entre um ano e outro: fecha-se a porta, apaga-se o fogo, não se pronuncia o nome de ninguém que tenha morrido no [[00_VAULT/_wiki/conceitos/varnum\|Varnum]] anterior.
-
-### Peso e Volume
-
-O [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|império]] padronizou peso e volume com a mesma lógica aplicada à distância: escala ascendente, do micro ao macro, com ancoragem no corpo e nos ofícios.
-
-O Grão (~0,05 g) cumpre dupla função como micro-distância e micro-peso, seguindo precedente histórico. Venenos, poções e dosagens alquímicas medem-se em grãos. A Onça (~30 g) é medida de alquimistas e boticários, padrão para comércio de reagentes mágicos. O Punho (~500 g), peso aproximado de um punho cerrado de grão seco, é a unidade de comércio cotidiano: "dois punhos de carne salgada por soldado" define a ração diária padrão. O Quintal (~50 kg) é medida de [[00_VAULT/_wiki/locais/thandruk_varn\|Thandruk Varn]] para minério bruto; tributos provinciais em espécie pesam-se em quintais.
-
-Para volume, a escala vai do Gole (~50 ml) ao Barril (~50 L). O Gole é a dose padrão de poções e antídotos; "cada gota de elixir negro custa um duende escravo" é referência corrente entre alquimistas. A Caneca (~300 ml) serve tavernas e quartéis. O Frasco (~500 ml) é o padrão alquímico imperial; frascos selados com cera negra indicam conteúdo regulado pelo Culto. Barris imperiais são marcados com glifo de origem provincial, permitindo rastreamento de carga.
+A mesma lógica ascendente rege peso e volume. O Grão (cerca de 0,05 g) cumpre dupla função como micro-distância e micro-peso, e mede venenos, poções e dosagens alquímicas; a Onça (cerca de 30 g) é padrão de boticários para reagentes mágicos; o Punho (cerca de 500 g) é a unidade do comércio cotidiano, base da ração diária de um soldado; o Quintal (cerca de 50 kg) mede minério bruto e tributos provinciais em espécie. Para volume, a escala vai do Gole (cerca de 50 ml), dose padrão de poções e antídotos, à Caneca (cerca de 300 ml) de tavernas e quartéis, ao Frasco (cerca de 500 ml), padrão alquímico imperial, e ao Barril (cerca de 50 L). Frascos selados com cera negra indicam conteúdo regulado pelo Culto, e barris imperiais trazem glifo de origem provincial para rastreamento de carga.
 
 ### Moeda
 
-O sistema monetário imperial é ternário: Coroa (ouro), Cunho (prata), Cravo (cobre). Uma Coroa vale dez Cunhos; um Cunho vale doze Cravos.
+O sistema monetário é ternário: Coroa (ouro), Cunho (prata) e Cravo (cobre). Uma Coroa vale dez Cunhos, e um Cunho vale doze Cravos. A Coroa leva o perfil de Arothistar cunhado em relevo e é produzida exclusivamente em Morvgrad; tesouros e tributos contam-se em coroas, e "quanto pesa uma coroa?" é pergunta filosófica shadar sobre o custo do poder, à qual ninguém espera resposta. O Cunho é a moeda mais comum no comércio formal e paga os vencimentos militares. O Cravo é a moeda do povo: "não vale um cravo" equivale a "não vale nada". Os gnomos do [[00_VAULT/_wiki/locais/mercado_oeste\|Mercado Oeste]] operam em cravos, e os [[00_VAULT/_wiki/racas/derro\|derros]] mantêm tocas-cambistas onde os trocam por favores e selos falsificados.
 
-A Coroa leva o perfil de [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] cunhado em relevo e é produzida exclusivamente em [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]]. Tesouros e tributos contam-se em coroas. "Quanto pesa uma coroa?" é pergunta filosófica [[00_VAULT/_wiki/racas/shadar\|shadar]] sobre o custo do poder. Ninguém espera resposta.
+### As eras
 
-O Cunho, cujo nome deriva do ato de cunhar, é a moeda mais comum no comércio formal. Vencimentos militares são pagos em cunhos por fáscia.
+As eras têm durações variáveis e não servem como unidade de medida; cada uma é recordada de forma diferente conforme a perspectiva.
 
-O Cravo é a moeda do povo. "Não vale um cravo" equivale a "não vale nada". Gnomos do [[00_VAULT/_wiki/locais/mercado_oeste\|Mercado Oeste]] operam em cravos. Mendigos de [[00_VAULT/_wiki/locais/ghol_mournak\|Ghol'Mournak]] cobram em cravos por informação; os [[00_VAULT/_wiki/racas/derro\|derros]] mantêm tocas-cambistas onde trocam cravos por favores e selos falsificados.
+- **[[00_VAULT/_wiki/conceitos/idade_esquecida\|Idade Esquecida]]** (*Aetas Lucis*): "O Tempo dos [[00_VAULT/_wiki/racas/luminares\|Luminares]]", nome partilhado pelo registro imperial e pelos subjugados.
+- **[[00_VAULT/_wiki/conceitos/primeira_era\|Primeira Era]]** (*Aetas Primaeva*): "O Êxodo" no registro imperial, "A Era das Alianças" entre os subjugados.
+- **[[00_VAULT/_wiki/conceitos/segunda_era\|Segunda Era]]** (*Aetas Duorum*): "A Era da Conquista" no registro imperial, "A Paz Iludida" entre os subjugados.
+- **[[00_VAULT/_wiki/conceitos/terceira_era\|Terceira Era]]** (*Aetas Umbrae*): "A Era de Arothistar" no registro imperial, "A Longa Noite" entre os subjugados.
 
-### Eras
+O apelido imperial da Terceira Era é debatido, pois nem todos os shadars concordam em nomear a era por um único monarca.
 
-As eras têm durações variáveis e não servem como unidade de medida. Cada era é recordada de forma diferente conforme a perspectiva.
+### Expressões idiomáticas
 
-- **[[00_VAULT/_wiki/conceitos/idade_esquecida\|Idade Esquecida]]** — Imperial: O Tempo dos [[00_VAULT/_wiki/racas/luminares\|Luminares]] | Subjugados: O Tempo dos [[00_VAULT/_wiki/racas/luminares\|Luminares]] | Erudito: *Aetas Lucis*
-- **[[00_VAULT/_wiki/conceitos/primeira_era\|Primeira Era]]** — Imperial: O Êxodo | Subjugados: A Era das Alianças | Erudito: *Aetas Primaeva*
-- **[[00_VAULT/_wiki/conceitos/segunda_era\|Segunda Era]]** — Imperial: A Era da Conquista | Subjugados: A Paz Iludida | Erudito: *Aetas Duorum*
-- **[[00_VAULT/_wiki/conceitos/terceira_era\|Terceira Era]]** — Imperial: A Era de [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] | Subjugados: A Longa Noite | Erudito: *Aetas Umbrae*
-
-O apelido imperial da [[00_VAULT/_wiki/conceitos/terceira_era\|Terceira Era]] é debatido: nem todos os [[00_VAULT/_wiki/racas/shadar\|shadars]] concordam em nomear a era por um único monarca.
-
-### Expressões de Medida
-
-Expressões idiomáticas derivadas do sistema de medidas permeiam a fala cotidiana de todas as castas:
-
-**Distância:** "A um passo da sombra" (à beira da morte). "A dois estirões daqui" (referência casual de distância). "Nem a um estirão se ouve a verdade" (provérbio [[00_VAULT/_wiki/racas/shadar\|shadar]]). "A duas braças do chão" (alusão ao cadafalso). "Um palmo de aço resolve o que um marn de palavras não alcança" (provérbio militar). "Três sárns de silêncio" (zona morta na floresta; perigo iminente entre [[00_VAULT/_wiki/racas/sylvano\|sylvanos]]). "Nem um grão de piedade" (expressão [[00_VAULT/_wiki/racas/shadar\|shadar]]).
-
-**Tempo:** "Entre duas vigílias" (período indefinido). "Treze lúnias e um [[00_VAULT/_wiki/cosmologia/vazio\|vazio]]" (forma poética de dizer "um ano"). "Quantos varnums você carrega?" (perguntar a idade).
-
-**Moeda:** "Não vale um cravo." "Quanto pesa uma coroa?"
-
-### Notas de Uso
-
-Velocidades de viagem, jornadas diárias e modificadores de terreno estão documentados exclusivamente no TSV. A referência padrão para infantaria é 4 léguas/dia (marcha comum) e 7 léguas/dia (marcha forçada). Um cavalo em trote sustentado cobre 10 léguas/dia em terreno bom.
+O sistema de medidas permeia a fala cotidiana de todas as castas. Na distância, "a um passo da sombra" significa estar à beira da morte, "a duas braças do chão" alude ao cadafalso, e "um palmo de aço resolve o que um marn de palavras não alcança" é provérbio militar. No tempo, "treze lúnias e um vazio" é forma poética de dizer um ano. Na moeda, "não vale um cravo" e "quanto pesa uma coroa?" correm em toda parte. A referência padrão de marcha é de quatro léguas por dia para infantaria comum e sete em marcha forçada, enquanto um cavalo em trote sustentado cobre dez léguas em terreno bom.

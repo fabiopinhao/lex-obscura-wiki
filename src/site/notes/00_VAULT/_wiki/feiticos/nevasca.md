@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/nevasca.md","permalink":"/wiki/feiticos/nevasca/","dg-note-properties":{"tipo":"feitico","nome":"Nevasca","escola":"Cryo","escala":"Maior","aliases":[],"tags":[],"ordem":29,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/nevasca.md","permalink":"/wiki/feiticos/nevasca/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Nevasca
 
-**Escola:** [[00_VAULT/_wiki/escolas/cryo\|Cryo]]
-**Escala:** Maior
+Nevasca é um feitiço da escola [[00_VAULT/_wiki/escolas/cryo\|Cryo]], de escala maior. Levanta uma tempestade de gelo e neve sobre uma área: a visibilidade cai a zero, o frio torna-se letal e o acúmulo enterra o que estava sob ele. O terreno deixa de existir sob metros de branco.
 
-Tempestade de gelo e neve em área: visibilidade zero, frio letal, acúmulo que enterra. O terreno deixa de existir sob metros de branco. Diferente de Ciclone ([[00_VAULT/_wiki/escolas/aero\|Aero]]), que destrói por vento: Nevasca mata por frio e sepultamento. Diferente de Negrume ([[00_VAULT/_wiki/escolas/umbra\|Umbra]]), que cega por trevas: Nevasca cega por brancura total. Custo: hipotermia severa, tremores que persistem horas
+Distingue-se de Ciclone, da escola [[00_VAULT/_wiki/escolas/aero\|Aero]], que destrói pelo vento, e de Negrume, da escola [[00_VAULT/_wiki/escolas/umbra\|Umbra]], que cega pelas trevas: Nevasca mata pelo frio e pelo sepultamento, e cega pela brancura total.
+
+### Custo
+
+O conjurador paga em hipotermia severa e em tremores que persistem por horas.

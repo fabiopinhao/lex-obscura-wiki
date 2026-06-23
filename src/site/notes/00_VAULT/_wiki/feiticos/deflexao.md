@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/deflexao.md","permalink":"/wiki/feiticos/deflexao/","dg-note-properties":{"tipo":"feitico","nome":"Deflexão","escola":"Aegis","escala":"Menor","aliases":[],"tags":[],"ordem":211,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/deflexao.md","permalink":"/wiki/feiticos/deflexao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Deflexão
 
-**Escola:** [[00_VAULT/_wiki/escolas/aegis\|Aegis]]
-**Escala:** Menor
+Deflexão é um feitiço menor da escola [[00_VAULT/_wiki/escolas/aegis\|Aegis]]. Funciona como desvio instintivo contra um golpe único: por um instante o ar endurece e a trajetória do ataque se altera, uma lâmina escorrega de lado, uma flecha muda de curso.
 
-Desvio instintivo de golpe único: o ar endurece por um instante, lâmina desvia, flecha muda de curso. Diferente de Escudo (fixo no espaço, absorve múltiplos golpes): Deflexão é reflexo, um impacto e se dissipa. Custo: tremor nos dedos, ansiedade tardia
+### Natureza
+
+Distingue-se de Escudo, que se fixa no espaço e absorve múltiplos golpes. Deflexão é reflexo: responde a um único impacto e se dissipa logo depois.
+
+### Custo
+
+Cobra do conjurador um tremor nos dedos e uma ansiedade que chega tardia.

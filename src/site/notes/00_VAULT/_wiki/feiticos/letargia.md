@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/letargia.md","permalink":"/wiki/feiticos/letargia/","dg-note-properties":{"tipo":"feitico","nome":"Letargia","escola":"Necro","escala":"Menor","aliases":[],"tags":[],"ordem":83,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/letargia.md","permalink":"/wiki/feiticos/letargia/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Letargia
 
-**Escola:** [[00_VAULT/_wiki/escolas/necro\|Necro]]
-**Escala:** Menor
+Letargia é um feitício menor da escola do [[00_VAULT/_wiki/escolas/necro\|Necro]] que simula o estado de morte no próprio corpo do conjurador ou em um alvo voluntário. O pulso cessa, a respiração se torna imperceptível, o corpo esfria.
 
-Simular estado de morte no próprio corpo ou em alvo voluntário: pulso cessa, respiração imperceptível, corpo esfria. Diferente de Acalanto ([[00_VAULT/_wiki/escolas/hypno\|Hypno]]), que induz relaxamento para dormir: Letargia simula morte, indistinguível de cadáver para observadores comuns. Custo: sensação de morte iminente, despertar desorientado
+Distingue-se do Acalanto, da escola do [[00_VAULT/_wiki/escolas/hypno\|Hypno]], que induz relaxamento para dormir: a Letargia imita a morte, indistinguível de um cadáver para observadores comuns. Como custo, vem a sensação de morte iminente e um despertar desorientado.

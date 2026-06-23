@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/bruma.md","permalink":"/wiki/feiticos/bruma/","dg-note-properties":{"tipo":"feitico","nome":"Bruma","escola":"Hydro","escala":"Menor","aliases":[],"tags":[],"ordem":12,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/bruma.md","permalink":"/wiki/feiticos/bruma/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Bruma
 
-**Escola:** [[00_VAULT/_wiki/escolas/hydro\|Hydro]]
-**Escala:** Menor
-
-Dispersar água em névoa que cobre área: visibilidade cai, sons se abafam, contornos somem. Não é ilusão ([[00_VAULT/_wiki/escolas/spectro\|Spectro]]), é água real suspensa no ar. Diferente de Penumbra ([[00_VAULT/_wiki/escolas/umbra\|Umbra]]), que oculta por escuridão: Bruma oculta por saturação, funciona até sob sol. Custo: pele úmida, calafrio breve
+Bruma é um feitiço da escola [[00_VAULT/_wiki/escolas/hydro\|Hydro]], de escala menor. Dispersa água em névoa que cobre uma área: a visibilidade cai, os sons se abafam, os contornos somem. Não é ilusão, como em [[00_VAULT/_wiki/escolas/spectro\|Spectro]], mas água real suspensa no ar. Diferente de Penumbra, da escola [[00_VAULT/_wiki/escolas/umbra\|Umbra]], que oculta pela escuridão, Bruma oculta por saturação e funciona até sob o sol. O custo é leve: pele úmida e um calafrio breve.

@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/senescencia.md","permalink":"/wiki/feiticos/senescencia/","dg-note-properties":{"tipo":"feitico","nome":"Senescência","escola":"Chrono","escala":"Maior","aliases":[],"tags":[],"ordem":258,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/senescencia.md","permalink":"/wiki/feiticos/senescencia/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Senescência
 
-**Escola:** [[00_VAULT/_wiki/escolas/chrono\|Chrono]]
-**Escala:** Maior
+Senescência é um feitiço maior da escola [[00_VAULT/_wiki/escolas/chrono\|Chrono]]. Acelera a entropia temporal do alvo: décadas passam em segundos. A pele enruga, os músculos atrofiam, os ossos se fragilizam, o cabelo embranquece e cai. Não é doença, como a Decrepitude da escola [[00_VAULT/_wiki/escolas/patho\|Patho]]: é tempo. O corpo envelhece de fato, e a Senescência apenas avança o relógio.
 
-Acelerar a entropia temporal do alvo. Décadas passam em segundos: pele enruga, músculos atrofiam, ossos fragilizam, cabelo embranquece e cai. Não é doença ([[00_VAULT/_wiki/escolas/patho\|Patho]]/Decrepitude): é tempo. O corpo envelhece legitimamente. Diferente de Decrepitude, que degrada estrutura biológica: Senescência avança o relógio. Parcialmente reversível por Retrocesso, nunca completamente: o corpo lembra os anos vividos. Custo espelhado: o conjurador sente os próprios ossos rangerem, visão turvar, juntas protestarem
+### Reversão
+
+O efeito é parcialmente reversível por Retrocesso, nunca por completo. O corpo lembra os anos que viveu.
+
+### Custo
+
+O preço é espelhado: enquanto envelhece o alvo, o conjurador sente os próprios ossos rangerem, a visão turvar e as juntas protestarem.

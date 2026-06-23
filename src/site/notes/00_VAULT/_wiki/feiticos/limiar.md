@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/limiar.md","permalink":"/wiki/feiticos/limiar/","dg-note-properties":{"tipo":"feitico","nome":"Limiar","escola":"Umbra","escala":"Média","aliases":[],"tags":[],"ordem":66,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/limiar.md","permalink":"/wiki/feiticos/limiar/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Limiar
 
-**Escola:** [[00_VAULT/_wiki/escolas/umbra\|Umbra]]
-**Escala:** Média
+Limiar é um feitiço de escala média da escola da [[00_VAULT/_wiki/escolas/umbra\|Umbra]]. Permite afundar na própria sombra e emergir de outra conectada, num raio que depende da escuridão disponível. O trânsito dura um instante, mas o viajante sente o frio e o silêncio absoluto do entre.
 
-Afundar na própria sombra e emergir de outra conectada, num raio que depende da escuridão disponível. Diferente de Portal ([[00_VAULT/_wiki/escolas/cosmo\|Cosmo]]), que dobra o espaço: Limiar transita pela dimensão de sombra, exigindo escuridão nas duas pontas. O trânsito dura um instante, mas o viajante sente o frio e o silêncio absoluto do entre. Custo: cegueira parcial ao emergir, fotofobia temporária
+Distingue-se do Portal, feitiço do [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]] que dobra o espaço: o Limiar transita pela dimensão de sombra e exige escuridão nas duas pontas.
+
+### Custo
+
+Cegueira parcial ao emergir e fotofobia temporária.

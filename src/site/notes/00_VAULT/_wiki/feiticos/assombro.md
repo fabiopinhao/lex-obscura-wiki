@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/assombro.md","permalink":"/wiki/feiticos/assombro/","dg-note-properties":{"tipo":"feitico","nome":"Assombro","escola":"Phobos","escala":"Maior","aliases":[],"tags":[],"ordem":149,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/assombro.md","permalink":"/wiki/feiticos/assombro/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Assombro
 
-**Escola:** [[00_VAULT/_wiki/escolas/phobos\|Phobos]]
-**Escala:** Maior
+Assombro é um feitiço de escala maior da escola [[00_VAULT/_wiki/escolas/phobos\|Phobos]]. A percepção do alvo se contamina por seus piores medos, e o mundo real se distorce até confirmar todo horror temido: sombras viram ameaças, rostos amigos parecem predadores, sons inócuos soam como prenúncio de morte.
 
-A percepção do alvo se contamina por seus piores medos. O mundo real se distorce até confirmar todo horror temido: sombras se tornam ameaças, rostos amigos parecem predadores, sons inócuos soam como prenúncio de morte. Diferente de Simulacro ([[00_VAULT/_wiki/escolas/spectro\|Spectro]]), que cria ilusão externa: Assombro reescreve a percepção interna, o alvo vê o real através de filtro de terror. Não há o que dissipar no ambiente porque a distorção é mental. Custo: o conjurador experimenta flashes da percepção contaminada do alvo, realidade brevemente tingida de horror alheio
+Diferente de Simulacro, da escola [[00_VAULT/_wiki/escolas/spectro\|Spectro]], que cria uma ilusão externa, Assombro reescreve a percepção interna. O alvo vê o real através de um filtro de terror, e não há o que dissipar no ambiente porque a distorção é mental. O custo alcança o conjurador, que experimenta flashes da percepção contaminada do alvo, com a realidade brevemente tingida de horror alheio.

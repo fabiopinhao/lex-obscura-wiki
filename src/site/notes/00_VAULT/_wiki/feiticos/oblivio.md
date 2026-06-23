@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/oblivio.md","permalink":"/wiki/feiticos/oblivio/","dg-note-properties":{"tipo":"feitico","nome":"Oblívio","escola":"Psycho","escala":"Maior","aliases":[],"tags":[],"ordem":137,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/oblivio.md","permalink":"/wiki/feiticos/oblivio/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Oblívio
 
-**Escola:** [[00_VAULT/_wiki/escolas/psycho\|Psycho]]
-**Escala:** Maior
+Oblívio é um feitiço da escola [[00_VAULT/_wiki/escolas/psycho\|Psycho]], de escala maior. Arranca memórias da mente do alvo: momentos específicos, rostos, habilidades aprendidas, anos inteiros.
 
-Arrancar memórias da mente do alvo: momentos específicos, rostos, habilidades aprendidas, anos inteiros. O esquecimento é cirúrgico: a lembrança existia e agora há [[00_VAULT/_wiki/cosmologia/vazio\|vazio]], buraco que o alvo sente sem nomear. Diferente de Fabulação (que substitui memória por falsa): Oblívio apenas esvazia. A precisão depende da habilidade: mestres retiram uma conversa sem tocar no dia ao redor. Custo: o conjurador absorve ecos das memórias arrancadas, fragmentos de vida alheia que assombram
+### Funcionamento
+
+O esquecimento é cirúrgico. A lembrança existia e, no lugar dela, passa a haver [[00_VAULT/_wiki/cosmologia/vazio\|vazio]], um buraco que o alvo sente sem conseguir nomear. Diferente da Fabulação, que substitui a memória por outra, falsa, o Oblívio apenas esvazia. A precisão depende da habilidade de quem conjura: mestres retiram uma conversa inteira sem tocar no dia que a cercava.
+
+### Custo
+
+O conjurador absorve ecos das memórias arrancadas, fragmentos de vida alheia que passam a assombrá-lo.

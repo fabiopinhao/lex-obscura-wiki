@@ -1,65 +1,23 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/sistema_de_combustivel_magico.md","permalink":"/wiki/magia/sistema-de-combustivel-magico/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Sistema de Combustível Mágico","aliases":[],"ordem":0,"subtipo":"mecanica","origem_arquivo":"3.14_custos_ontologicos_LORE.md","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/sistema_de_combustivel_magico.md","permalink":"/wiki/magia/sistema-de-combustivel-magico/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Sistema de Combustível Mágico
 
-Para a taxonomia dos três custos da magia, ver [[00_VAULT/_wiki/magia/principios_canonicos\|Princípios Canônicos]]. Este grão é o **dono** de dois deles — o **Custo Universal** ([[00_VAULT/_wiki/cosmologia/magi\|Magi]]) e o **Custo Temático** —, cobrindo recuperação, sobrecarga, escala e mitigação por maestria. O terceiro custo (ontológico) tem dono próprio em [[00_VAULT/_wiki/magia/progressao_ontologica\|Progressão Ontológica]].
+Toda magia cobra um preço, e o sistema de combustível mágico governa dois dos custos fundamentais da conjuração: o custo universal, pago em [[00_VAULT/_wiki/cosmologia/magi\|magi]], e o custo temático, próprio de cada escola. Nenhum conjurador acessa poder ilimitado; há sempre um limite físico.
 
-### Combustível Invisível - [[00_VAULT/_wiki/cosmologia/magi\|Magi]]
+### Magi, o Combustível Invisível
 
-#### Conceito
-- Todo conjurador possui reserva limitada de energia mágica ([[00_VAULT/_wiki/cosmologia/magi\|magi]])
-- Cada feitiço consome dessa reserva
-- Reserva vazia = impossível conjurar (como arma sem munição)
-- Não há uso "ilimitado" - sempre há limite físico
+Todo conjurador possui uma reserva limitada de energia mágica, o magi, e cada feitiço consome parte dela. Reserva vazia significa impossibilidade de conjurar, como uma arma sem munição. A reserva se recupera com descanso: cerca de dez a vinte por cento numa hora de repouso leve, e quase a totalidade após um sono completo de oito horas. A meditação profunda acelera o processo, e certos rituais especiais recuperam mais depressa, ao preço de um custo próprio.
 
-#### Recuperação
-- Descanso leve (1 hora): ~10-20% recuperado
-- Sono completo (8 horas): ~80-100% recuperado
-- Meditação profunda: acelera recuperação (varia por praticante)
-- Rituais especiais: podem recuperar mais rapidamente (com custo próprio)
+Forçar a conjuração com a reserva esgotada é a sobrecarga, e suas consequências são graves: hemorragia severa, colapso físico, dano permanente aos canais mágicos e, no limite, a morte. Puxar o gatilho sem balas não dispara; forçar magia sem magi destrói o conjurador.
 
-#### Sobrecarga (tentar conjurar com reserva vazia)
-- Hemorragia severa
-- Colapso físico
-- Dano permanente aos canais mágicos
-- Possível morte
+### Custo Temático
 
-#### Analogia
-Assim como uma arma de fogo precisa de munição, magia precisa de [[00_VAULT/_wiki/cosmologia/magi\|magi]]. Puxar o gatilho sem balas não faz nada - forçar magia sem [[00_VAULT/_wiki/cosmologia/magi\|magi]] destrói o conjurador.
+Além do combustível, cada escola impõe um custo temático ligado conceitualmente ao efeito do feitiço, nem sempre ao seu oposto. Cegar outro com [[00_VAULT/_wiki/escolas/umbra\|Umbra]] distorce a própria visão; exaurir um alvo com [[00_VAULT/_wiki/escolas/hypno\|Hypno]] devolve exaustão ao conjurador; semear medo com [[00_VAULT/_wiki/escolas/phobos\|Phobos]] faz o usuário ver aparições; a proteção física do [[00_VAULT/_wiki/escolas/aegis\|Aegis]] abre vulnerabilidade espiritual; e curar com [[00_VAULT/_wiki/escolas/salvo\|Salvo]] transfere ao curador a dor que se cura.
 
-### Custos Temáticos por Escola
+A intensidade do custo acompanha a escala do feitiço. Efeitos menores cobram um custo leve, de segundos a minutos, e consomem pouco combustível; efeitos lendários podem impor custos potencialmente permanentes e exigir a reserva quase inteira.
 
-📋 **Consulte `2.6_custos_tematicos_escolas_REF.tsv` para tabela completa.**
+### Mitigação por Maestria
 
-#### Princípios dos Custos
-
-1. **Conexão Conceitual (não necessariamente oposto)**
-   - [[00_VAULT/_wiki/escolas/umbra\|Umbra]] (cegar outro) → distorção da própria visão (mexer com percepção alheia afeta a sua)
-   - [[00_VAULT/_wiki/escolas/hypno\|Hypno]] (exaurir outro) → exaustão própria (efeito espelhado - drena ambos)
-   - [[00_VAULT/_wiki/escolas/phobos\|Phobos]] (causar medo) → ver aparições (medo "vaza" de volta para o usuário)
-   - [[00_VAULT/_wiki/escolas/aegis\|Aegis]] (proteção física) → vulnerabilidade espiritual (balanceamento: ganho em uma área, perda em outra)
-   - [[00_VAULT/_wiki/escolas/salvo\|Salvo]] (curar outro) → sentir a dor curada (transferência empática do sofrimento)
-
-2. **Escala do Custo = Escala do Feitiço**
-
-- **Menor** — Custo Temático: Leve (distorção visual leve, tontura breve) | Combustível: 10-20% | Duração do Custo: Segundos a minutos
-- **Médio** — Custo Temático: Moderado (cegueira parcial, confusão significativa) | Combustível: 30-50% | Duração do Custo: Minutos a horas
-- **Grande** — Custo Temático: Severo (cegueira total temporária, colapso) | Combustível: 60-80% | Duração do Custo: Horas a dias
-- **Lendário** — Custo Temático: Potencialmente permanente | Combustível: 90-100% + risco | Duração do Custo: Dias a permanente
-
-### Mitigação de Custos
-
-#### Redução por Maestria
-
-Maestria reduz (mas não elimina) custos temáticos:
-- Iniciante: Custo temático dura 100% do tempo base
-- Intermediário: Custo reduzido para ~70% do tempo
-- Avançado: Custo reduzido para ~50% do tempo
-- Mestre: Custo reduzido para ~30% do tempo, mas nunca zero
-
-#### Exemplo
-- Iniciante usa [[00_VAULT/_wiki/escolas/umbra\|Umbra]] → distorção visual por 60 segundos
-- Mestre usa [[00_VAULT/_wiki/escolas/umbra\|Umbra]] → distorção visual por 20 segundos
-
-**MAS:** Custo de combustível é sempre o mesmo (feitiço menor = 15%, independente de nível)
+A maestria reduz, mas nunca elimina, o custo temático. Um iniciante carrega o custo por todo o seu tempo base; um praticante intermediário o reduz a cerca de setenta por cento desse tempo, um avançado à metade, e um mestre a cerca de um terço, sem jamais zerá-lo. Um iniciante que use Umbra pode ficar com a visão distorcida por um minuto, enquanto um mestre reduz o mesmo efeito a um terço disso. O gasto de combustível, porém, não muda com a perícia: um feitiço menor custa a mesma fração da reserva, qualquer que seja o nível do conjurador.

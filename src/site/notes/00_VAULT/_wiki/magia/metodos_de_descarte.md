@@ -1,56 +1,23 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/metodos_de_descarte.md","permalink":"/wiki/magia/metodos-de-descarte/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Métodos De Descarte","subtipo":"mecanica","origem_arquivo":"3.14_custos_ontologicos_LORE.md","aliases":[],"ordem":4,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/metodos_de_descarte.md","permalink":"/wiki/magia/metodos-de-descarte/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Métodos de Descarte
+
+Métodos de Descarte é o nome do conjunto de procedimentos pelos quais o aparato imperial se livra de praticantes que se tornaram inconvenientes, perigosos ou descartáveis. Cada método carrega um termo oficial eufemístico que disfarça a realidade e um registro burocrático que encerra o caso sem deixar rastro de violência.
 
 ### Categorias
 
-- **Isolamento Funcional** — Termo Oficial: "Recolhimento" | Realidade: Confinamento permanente com utilidade residual | Aplicação Típica: [[00_VAULT/_wiki/escolas/gnosi\|Gnosi]] IV, [[00_VAULT/_wiki/escolas/spectro\|Spectro]] IV, [[00_VAULT/_wiki/escolas/chrono\|Chrono]] IV
-- **Redirecionamento Letal** — Termo Oficial: "Missão de Honra" | Realidade: Tarefa suicida disfarçada de privilégio | Aplicação Típica: [[00_VAULT/_wiki/escolas/belli\|Belli]] IV, [[00_VAULT/_wiki/escolas/pyro\|Pyro]] IV, [[00_VAULT/_wiki/escolas/rupto\|Rupto]] IV
-- **Neutralização Ritual** — Termo Oficial: "Consagração Final" | Realidade: Execução cerimonial com extração de [[00_VAULT/_wiki/cosmologia/magi\|magi]] | Aplicação Típica: [[00_VAULT/_wiki/escolas/salvo\|Salvo]] III, [[00_VAULT/_wiki/escolas/helio\|Helio]] III, [[00_VAULT/_wiki/escolas/urano\|Urano]] III
-- **Desaparecimento Administrativo** — Termo Oficial: "Transferência" | Realidade: Eliminação silenciosa, sem registro | Aplicação Típica: [[00_VAULT/_wiki/escolas/anatho\|Anatho]] IV, [[00_VAULT/_wiki/escolas/psycho\|Psycho]] IV, [[00_VAULT/_wiki/escolas/morpho\|Morpho]] IV
-- **Contenção Perpétua** — Termo Oficial: "Vigília Eterna" | Realidade: Suspensão mágica entre vida e morte | Aplicação Típica: [[00_VAULT/_wiki/escolas/necro\|Necro]] IV, [[00_VAULT/_wiki/escolas/vita\|Vita]] IV
+O Isolamento Funcional, registrado como "Recolhimento", é o confinamento permanente de um praticante que ainda guarda utilidade residual. O Redirecionamento Letal, a "Missão de Honra", é uma tarefa suicida disfarçada de privilégio. A Neutralização Ritual, ou "Consagração Final", é uma execução cerimonial com extração de [[00_VAULT/_wiki/cosmologia/magi\|magi]]. O Desaparecimento Administrativo, a "Transferência", é a eliminação silenciosa sem registro. A Contenção Perpétua, chamada "Vigília Eterna", suspende o praticante entre a vida e a morte.
 
-### Protocolos Detalhados
+### Protocolos
 
-#### Consagração Final
+A Consagração Final convoca o praticante ao templo sob pretexto cerimonial, impõe um jejum ritual de três dias enquanto ele acredita estar sendo elevado, drena seu magi por necromantes especializados e termina em morte por exsanguinação, com o sangue aproveitado em artefatos imperiais. O registro oficial fala em "ascensão espiritual" ou "martírio em serviço".
 
-1. **Convocação** — Praticante chamado ao Templo sob pretexto cerimonial
-2. **Preparação** — Jejum ritual de três dias; praticante acredita estar sendo "elevado"
-3. **Extração** — [[00_VAULT/_wiki/cosmologia/magi\|Magi]] drenado por necromantes especializados
-4. **Execução** — Morte por exsanguinação ritual; sangue usado em artefatos imperiais
-5. **Registro** — Causa oficial: "ascensão espiritual" ou "martírio em serviço"
+A Missão de Honra seleciona o praticante para uma missão de prestígio, entrega um briefing incompleto com objetivo aparentemente alcançável e o lança contra resistência desproporcional ou uma armadilha. O corpo raramente é recuperado, e o nome vai para um memorial como "caído em serviço com honra".
 
-#### Missão de Honra
+A Transferência notifica o praticante de uma realocação e o perde durante o trânsito, sob escolta. O corpo nunca é encontrado, e a investigação fica inconclusiva.
 
-1. **Seleção** — Praticante escolhido para "missão de prestígio"
-2. **Briefing** — Informações incompletas; objetivo parece alcançável
-3. **Execução** — Resistência desproporcional ou armadilha
-4. **Resultado** — Morte em combate; corpo raramente recuperado
-5. **Registro** — "Caído em serviço com honra"; nome em memorial
+O Recolhimento diagnostica o praticante como necessitado de cuidados e o interna em uma ala selada de torre ou templo, onde é mantido vivo e ocasionalmente consultado, com visitas proibidas.
 
-#### Transferência
-
-1. **Notificação** — Praticante recebe ordens de realocação
-2. **Trânsito** — Escolta "perde" o praticante durante viagem
-3. **Eliminação** — Corpo nunca encontrado
-4. **Registro** — "Desaparecido em trânsito"; investigação inconclusiva
-
-#### Recolhimento
-
-1. **Diagnóstico** — Praticante avaliado como "necessitando cuidados"
-2. **Internação** — Transferido para ala selada em torre ou templo
-3. **Manutenção** — Alimentado, mantido vivo, ocasionalmente consultado
-4. **Registro** — "Em tratamento prolongado"; visitas proibidas
-
-#### Vigília Eterna
-
-1. **Preparação** — Praticante sedado magicamente
-2. **Suspensão** — Corpo preservado entre vida e morte por necromancia
-3. **Armazenamento** — Câmara subterrânea
-4. **Uso** — Desperto apenas para consultas específicas; retorna à suspensão
-5. **Registro** — "Servindo em capacidade especial"; localização classificada
-
-**Nota:** Cada despertar da Vigília Eterna custa algo. O que acorda não é sempre o que dormiu.
-
----
+A Vigília Eterna seda o praticante por magia, preserva o corpo entre a vida e a morte por necromancia e o armazena em câmara subterrânea, desperto apenas para consultas específicas. Cada despertar cobra seu preço: o que acorda nem sempre é o que dormiu.

@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/selo.md","permalink":"/wiki/feiticos/selo/","dg-note-properties":{"tipo":"feitico","nome":"Selo","escola":"Nomos","escala":"Menor","aliases":[],"tags":[],"ordem":191,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/selo.md","permalink":"/wiki/feiticos/selo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Selo
 
-**Escola:** [[00_VAULT/_wiki/escolas/nomos\|Nomos]]
-**Escala:** Menor
+Selo é um feitiço menor da escola do [[00_VAULT/_wiki/escolas/nomos\|Nomos]] que tranca um objeto físico por toque: uma porta, um cofre, uma gaveta. Selada a matéria, recusa-se a abrir.
 
-Tranca arcana por toque: porta, cofre, gaveta. A matéria recusa abrir. Força bruta funciona contra a porta, não contra o selo. Diferente de Selamento ([[00_VAULT/_wiki/escolas/abjuro\|Abjuro]]), que bloqueia escola de magia: Selo tranca objetos físicos. Custo: rigidez nos dedos, como se a trava espelhasse no corpo
+### Efeito
+
+A trava é arcana, não mecânica. Força bruta age contra o objeto em si, nunca contra o selo: arromba-se a porta, não o feitiço que a prende. Distingue-se do Selamento, da escola do [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]], que bloqueia o acesso a uma escola de magia; Selo prende coisas físicas.
+
+### Custo
+
+O conjurador sente rigidez nos dedos, como se a própria trava se espelhasse no corpo.

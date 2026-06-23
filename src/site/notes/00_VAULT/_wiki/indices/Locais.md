@@ -80,6 +80,7 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 ## Locais Sombrios
 
 - [[00_VAULT/_wiki/locais/ghol_drokh\|Ghol'Drokh]] — Masmorras de Morvgrad, Coração Oco e Drokh'Malahar
+  - [[00_VAULT/_wiki/locais/coracao_oco\|Coração Oco]] — Cárcere e sala de interrogatório de acústica deformante
   - [[00_VAULT/_wiki/locais/drokh_malahar\|Drokh'Malahar]] — Pisos abissais de Ghol'Drokh, câmaras de tortura perpétua
 - [[00_VAULT/_wiki/locais/fossa_dos_suplicantes\|Fossa dos Suplicantes]] — Abismo urbano em Morvgrad
 - [[00_VAULT/_wiki/locais/fosso_da_purga\|Fosso da Purga]] — Local de execuções sumárias

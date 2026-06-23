@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/desvelar.md","permalink":"/wiki/feiticos/desvelar/","dg-note-properties":{"tipo":"feitico","nome":"Desvelar","escola":"Helio","escala":"Média","aliases":[],"tags":[],"ordem":75,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/desvelar.md","permalink":"/wiki/feiticos/desvelar/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Desvelar
 
-**Escola:** [[00_VAULT/_wiki/escolas/helio\|Helio]]
-**Escala:** Média
+Desvelar é um feitiço de escala média da escola do [[00_VAULT/_wiki/escolas/helio\|Helio]] que satura uma área com radiância capaz de dissolver ocultação. Sombras da [[00_VAULT/_wiki/escolas/umbra\|Umbra]] recuam, a invisibilidade se desfaz e as ilusões do [[00_VAULT/_wiki/escolas/spectro\|Spectro]] perdem opacidade; metamorfos sentem a forma falsa escorregar. Diferente da Diagnose, da escola do [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]], que detecta magia por leitura, o Desvelar revela por luz, forçando a verdade visual.
 
-Saturar área com radiância que dissolve ocultação: sombras de [[00_VAULT/_wiki/escolas/umbra\|Umbra]] recuam, invisibilidade se desfaz, ilusões de [[00_VAULT/_wiki/escolas/spectro\|Spectro]] perdem opacidade. Diferente de Diagnose ([[00_VAULT/_wiki/escolas/abjuro\|Abjuro]]), que detecta magia por leitura: Desvelar revela por luz, forçando verdade visual. Metamorfos sentem a forma falsa escorregar. Custo: hipersensibilidade visual, detalhes insignificantes distraem e sobrecarregam
+### Custo
+
+O conjurador paga com hipersensibilidade visual: detalhes insignificantes distraem e sobrecarregam.

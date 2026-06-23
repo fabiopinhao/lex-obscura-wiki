@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/baliza.md","permalink":"/wiki/feiticos/baliza/","dg-note-properties":{"tipo":"feitico","nome":"Baliza","escola":"Helio","escala":"Menor","aliases":[],"tags":[],"ordem":73,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/baliza.md","permalink":"/wiki/feiticos/baliza/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Baliza
 
-**Escola:** [[00_VAULT/_wiki/escolas/helio\|Helio]]
-**Escala:** Menor
+Baliza é um feitiço de escala menor da escola [[00_VAULT/_wiki/escolas/helio\|Helio]]. Envolve o alvo em um contorno de luz aderente que o faz brilhar mesmo atrás de cobertura e mesmo sob ilusão, de modo que aliados percebam onde golpear.
 
-Envolver alvo em contorno de luz aderente. O marcado brilha mesmo atrás de cobertura, mesmo sob ilusão. Diferente de Marca ([[00_VAULT/_wiki/escolas/anatho\|Anatho]]), que rastreia por vínculo arcano invisível: Baliza marca com luz visível a todos. Aliados percebem onde golpear. Custo: o brilho reflete nos olhos do conjurador, dificultando furtividade
+O feitiço se distingue de Marca, da escola [[00_VAULT/_wiki/escolas/anatho\|Anatho]], que rastreia o alvo por um vínculo arcano invisível. Baliza marca com luz visível a todos. O preço recai sobre quem conjura: o brilho reflete nos olhos do conjurador, o que dificulta a furtividade.

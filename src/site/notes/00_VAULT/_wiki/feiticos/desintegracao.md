@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/desintegracao.md","permalink":"/wiki/feiticos/desintegracao/","dg-note-properties":{"tipo":"feitico","nome":"Desintegração","escola":"Plasma","escala":"Maior","aliases":[],"tags":[],"ordem":38,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/desintegracao.md","permalink":"/wiki/feiticos/desintegracao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Desintegração
 
-**Escola:** [[00_VAULT/_wiki/escolas/plasma\|Plasma]]
-**Escala:** Maior
+Desintegração é um feitiço da escola [[00_VAULT/_wiki/escolas/plasma\|Plasma]], de escala maior. Converte matéria em energia pura.
 
-Converter matéria em energia pura. O alvo não é destruído: é dissolvido: as bordas brilham branco, o centro se torna translúcido, e em segundos não resta substância. Sem cinza, sem fragmento, sem resíduo orgânico. Apenas o contorno vitrificado de onde o objeto terminava e o [[00_VAULT/_wiki/cosmologia/vazio\|vazio]] começava. Funciona em matéria inanimada sem resistência; em seres vivos, exige contato prolongado e custo proporcional à massa
+### Funcionamento
+
+O alvo não é propriamente destruído: é dissolvido. As bordas brilham em branco, o centro se torna translúcido e, em segundos, não resta substância alguma, sem cinza, sem fragmento, sem resíduo orgânico. Sobra apenas o contorno vitrificado de onde o objeto terminava e o [[00_VAULT/_wiki/cosmologia/vazio\|vazio]] começava. O feitiço atua sobre matéria inanimada sem resistência; em seres vivos, exige contato prolongado, e o custo é proporcional à massa convertida.

@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/muralha.md","permalink":"/wiki/feiticos/muralha/","dg-note-properties":{"tipo":"feitico","nome":"Muralha","escola":"Geo","escala":"Média","aliases":[],"tags":[],"ordem":55,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/muralha.md","permalink":"/wiki/feiticos/muralha/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Muralha
 
-**Escola:** [[00_VAULT/_wiki/escolas/geo\|Geo]]
-**Escala:** Média
+Muralha é um feitiço de escala média da escola do [[00_VAULT/_wiki/escolas/geo\|Geo]]. Ergue uma barreira de terra ou pedra a partir do chão: parede, trincheira ou barricada improvisada. É pedra real, com peso e massa, e contra ela os projéteis ricocheteiam, as lâminas entortam e o fogo perde alcance. Distingue-se da Barreira, da escola do [[00_VAULT/_wiki/escolas/aegis\|Aegis]], que bloqueia por força arcana.
 
-Erguer barreira de terra ou pedra do chão: parede, trincheira, barricada improvisada. Diferente de Barreira ([[00_VAULT/_wiki/escolas/aegis\|Aegis]]), que bloqueia por força arcana: Muralha é pedra real, com peso e massa. Projéteis ricocheteiam, lâminas entortam, fogo perde alcance. Custo: peso nos ombros e costas, como se a massa erguida pressionasse o conjurador
+### Custo
+
+O conjurador sente peso nos ombros e nas costas, como se a massa erguida o pressionasse.

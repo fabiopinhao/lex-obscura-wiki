@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/magnetarca.md","permalink":"/wiki/feiticos/magnetarca/","dg-note-properties":{"tipo":"feitico","nome":"Magnetarca","escola":"Electro","escala":"Maior","aliases":[],"tags":[],"ordem":249,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/magnetarca.md","permalink":"/wiki/feiticos/magnetarca/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Magnetarca
 
-**Escola:** [[00_VAULT/_wiki/escolas/electro\|Electro]]
-**Escala:** Maior
+Magnetarca é um feitiço maior da escola do [[00_VAULT/_wiki/escolas/electro\|Electro]] que controla metal num raio amplo com precisão devastadora. Arranca armas das mãos, imobiliza guerreiros dentro das armaduras e ergue e arremessa objetos metálicos como projéteis. Quanto mais metal no ambiente, maior o poder: num arsenal ou numa forja é apocalíptica, numa floresta sem metal é inútil.
 
-Controlar metal em raio amplo com precisão devastadora. Arrancar armas das mãos, imobilizar guerreiros dentro das armaduras, erguer e arremessar objetos metálicos como projéteis. Quanto mais metal no ambiente, mais poder: em arsenal ou forja, Magnetarca é apocalíptica; em floresta sem metal, inútil. Diferente de Gravame ([[00_VAULT/_wiki/escolas/cosmo\|Cosmo]]), que controla qualquer matéria via gravidade: Magnetarca é limitada a metal, mas dentro dessa especialidade, superior em precisão e força. Custo severo e cumulativo: sobrecarga nervosa, tremores persistentes, perda temporária de motricidade fina
+Distingue-se do Gravame, feitiço do [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]] que controla qualquer matéria via gravidade: a Magnetarca limita-se ao metal, mas, dentro dessa especialidade, supera-o em precisão e força.
+
+### Custo
+
+Severo e cumulativo: sobrecarga nervosa, tremores persistentes e perda temporária de motricidade fina.

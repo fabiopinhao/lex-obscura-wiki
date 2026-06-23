@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/estandarte.md","permalink":"/wiki/feiticos/estandarte/","dg-note-properties":{"tipo":"feitico","nome":"Estandarte","escola":"Belli","escala":"Maior","aliases":[],"tags":[],"ordem":209,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/estandarte.md","permalink":"/wiki/feiticos/estandarte/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Estandarte
 
-**Escola:** [[00_VAULT/_wiki/escolas/belli\|Belli]]
-**Escala:** Maior
+Estandarte é um feitiço da escola [[00_VAULT/_wiki/escolas/belli\|Belli]], de escala Maior, pelo qual o conjurador projeta uma presença marcial que ancora os aliados ao campo de batalha. Enquanto ele permanece de pé, todos ao alcance resistem à fuga, ao medo, à dor e à exaustão. Se o conjurador cair, porém, o efeito se inverte: a moral colapsa, e aquilo que sustentava a tropa passa a quebrá-la.
 
-O conjurador projeta presença marcial que ancora aliados ao campo. Enquanto de pé, todos em alcance resistem a fuga, medo, dor e exaustão. Diferente de Clamor (impulso breve): Estandarte é presença sustentada. Se o conjurador cair, o efeito inverte: moral colapsa, o que sustentava vira o que quebra. Custo: o conjurador não pode recuar sem colapsar o efeito, mobilidade sacrificada pela ancoragem
+Difere do Clamor, que oferece apenas um impulso breve: o Estandarte é uma presença sustentada enquanto o conjurador se mantém firme.
+
+### Custo
+
+O conjurador não pode recuar sem desfazer o efeito; a mobilidade é sacrificada em troca da ancoragem.

@@ -1,20 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/wijmarv/","dg-note-properties":{"tipo":"personagem","nome_atual":"Wijmarv","raca":"Varnakiano","sexo":"M","relevancia":"Secundário","status_atual":"Desconhecido","localizacao_atual":"Varnak (presumido)","armas_principais":"—","afiliacao_primaria":"Ex-xamã de clã drakhonin","aliases":[],"ordem":30,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/wijmarv.md","permalink":"/wiki/personagens/wijmarv/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Wijmarv
 
-### Perfil
+Wijmarv é um xamã [[00_VAULT/_wiki/racas/varnakiano\|varnakiano]], tiefling, estudioso de [[00_VAULT/_wiki/racas/draconideo\|draconídeos]], dragões e [[00_VAULT/_wiki/racas/luminares\|Luminares]], e autor de um tratado sobre a [[00_VAULT/_wiki/artefatos/fendris\|Fendris]]. Foragido de um clã drakhonin que ele serviu e atraiçoou, é tido como refugiado em [[00_VAULT/_wiki/locais/varnak\|Varnak]].
 
-[[00_VAULT/_wiki/racas/varnakiano\|Varnakiano]] (tiefling). Xamã poderoso. Estudioso de [[00_VAULT/_wiki/racas/draconideo\|draconídeos]], dragões e [[00_VAULT/_wiki/racas/luminares\|Luminares]]. Localização: [[00_VAULT/_wiki/locais/varnak\|Varnak]] (presumido: fugiu segundo [[00_VAULT/_wiki/personagens/thrax\|Thrax]]). Status: fugitivo.
+### Origem e papel
 
-### Papel Narrativo
+Antes de fugir, Wijmarv serviu como feiticeiro de um clã drakhonin. Falhou com o clã e desertou, e dele guarda a alcunha *mraz'kor*, "Coração de Cinza": entre os drakhonins, o que perdeu a capacidade de produzir fogo, tido como morto-vivo a quem falta o calor da honra. A partida não encerrou a relação. Seus antigos empregadores [[00_VAULT/_wiki/personagens/yzmareth\|Yzmareth]] e [[00_VAULT/_wiki/personagens/thrax\|Thrax]] o procuram, e Thrax o odeia por duas razões distintas: a falha prática de quem deixou de proteger as rotas depois de pago, e a ameaça do tratado, que deslegitima o mito fundador [[00_VAULT/_wiki/linguas/draconico\|dracônico]] ao afirmar que a Fendris fere draconídeos tanto quanto dragões.
 
-Autor do tratado que revela função de [[00_VAULT/_wiki/artefatos/fendris\|Fendris]]: "A lâmina não reconhece juramento. Onde há pacto, há cegueira" (seção 13.7). Enfeitiçou [[00_VAULT/_wiki/racas/murano\|muranos]] para atacar invasores: foram esses [[00_VAULT/_wiki/racas/murano\|muranos]] que atacaram [[00_VAULT/_wiki/personagens/nidzina_avaroth\|Nidzina]], [[00_VAULT/_wiki/personagens/tibaut\|Tibaut]], [[00_VAULT/_wiki/personagens/dribbel_olgund\|Dribbel]] e [[00_VAULT/_wiki/personagens/fandegarron\|Fandegarrón]]. Quando [[00_VAULT/_wiki/personagens/nidzina_avaroth\|Nidzina]] atravessou a proteção, [[00_VAULT/_wiki/personagens/yzmareth\|Yzmareth]] foi exposto. Wijmarv declarou missão cumprida, recebeu pagamento final e desapareceu. [[00_VAULT/_wiki/personagens/thrax\|Thrax]] e [[00_VAULT/_wiki/personagens/yzmareth\|Yzmareth]] o procuravam antes de aparecerem em [[00_VAULT/_wiki/locais/mor_severith\|Mor'Severith]].
+O tratado é a obra que o define. Nele Wijmarv descreve uma limitação da Fendris: a lâmina não reconhece juramento, e onde há pacto há cegueira. A leitura é técnica e dirigida contra a própria casta que o produziu como arma. O texto alcançou o coração da Torre quando [[00_VAULT/_wiki/personagens/odran\|Odran]] o estudou e o leu a [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]], levando a doutrina varnakiana ao centro do poder.
 
-Odiado por [[00_VAULT/_wiki/personagens/thrax\|Thrax]] por duas razões: traição prática (falhou em proteger rotas após ser pago) e ameaça teórica (tratado deslegitima o mito fundador [[00_VAULT/_wiki/linguas/draconico\|dracônico]] ao revelar que [[00_VAULT/_wiki/artefatos/fendris\|Fendris]] mata [[00_VAULT/_wiki/racas/draconideo\|draconídeos]] também, não só dragões).
+### Magia
 
-### Relações-Chave
+A arte de Wijmarv é o enfeitiçamento de [[00_VAULT/_wiki/racas/murano\|muranos]], que ele dobra à sua vontade e lança contra invasores. Foram essas criaturas, possuídas por sua magia, que enfrentaram o grupo de [[00_VAULT/_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]], [[00_VAULT/_wiki/personagens/tibaut\|Tibaut]], [[00_VAULT/_wiki/personagens/dribbel_olgund\|Dribbel]] e [[00_VAULT/_wiki/personagens/fandegarron\|Fandegarrón]] na descida ao subsolo. A ele se atribui também o fechamento dos túneis ocidentais do [[00_VAULT/_wiki/locais/vor-ghol\|Vor-Ghol]].
 
-**[[00_VAULT/_wiki/personagens/yzmareth\|Yzmareth]] / [[00_VAULT/_wiki/personagens/thrax\|Thrax]] (empregadores traídos):** Recebeu pagamento; sumiu. Ambos o procuram.
+### Relações
 
-**[[00_VAULT/_wiki/personagens/odran\|Odran]] (estudioso do tratado):** [[00_VAULT/_wiki/personagens/odran\|Odran]] leu o tratado [[00_VAULT/_wiki/racas/varnakiano\|varnakiano]] de Wijmarv sobre [[00_VAULT/_wiki/artefatos/fendris\|Fendris]]: a teoria chegou ao coração da Torre.
+Yzmareth e Thrax foram seus empregadores e são hoje seus caçadores: Wijmarv recebeu o pagamento final, declarou a missão encerrada e desapareceu antes que pudessem alcançá-lo. Odran é o estudioso que trouxe o tratado para dentro da Torre, e por essa via a teoria de Wijmarv chegou a Arothistar.

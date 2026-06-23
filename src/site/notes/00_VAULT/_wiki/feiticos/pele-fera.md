@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/pele-fera.md","permalink":"/wiki/feiticos/pele-fera/","dg-note-properties":{"tipo":"feitico","nome":"Pele-fera","escola":"Morpho","escala":"Média","aliases":[],"tags":[],"ordem":275,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/pele-fera.md","permalink":"/wiki/feiticos/pele-fera/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Pele-fera
 
-**Escola:** [[00_VAULT/_wiki/escolas/morpho\|Morpho]]
-**Escala:** Média
+Pele-fera é um feitiço de escala média da escola [[00_VAULT/_wiki/escolas/morpho\|Morpho]]. Permite a transformação completa em um animal mundano de porte médio ou menor, como lobo, corvo, serpente ou cervo. O conjurador mantém a consciência, mas perde a fala, e os instintos do animal passam a influenciar seu comportamento. O processo é visceral: os ossos estalam ao se reconfigurar e a pele se estica. Diferencia-se da Transmorfose, que transforma outro e não a si mesmo, por ser transformação voluntária do próprio corpo. Predadores apex exigem escala Maior.
 
-Transformação completa em animal mundano de porte médio ou menor: lobo, corvo, serpente, cervo. Mantém consciência, perde fala. Diferente de Transmorfose (que transforma outro, não a si): Pele-fera é transformação voluntária do próprio corpo. O processo é visceral: ossos estalam ao se reconfigurar, pele se estica. Instintos do animal influenciam comportamento. Predadores apex exigem escala Maior. Custo: ao reverter, desorientação corporal e fome desproporcional
+### Custo
+
+Ao reverter à forma original, o conjurador sofre desorientação corporal e fome desproporcional.

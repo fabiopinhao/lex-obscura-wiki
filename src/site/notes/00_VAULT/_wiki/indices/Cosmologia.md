@@ -20,6 +20,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 - [[00_VAULT/_wiki/cosmologia/ontologia_divina\|Ontologia Divina]] — O que são, de fato, as entidades que os mortais chamam de deuses
 - [[00_VAULT/_wiki/cosmologia/diferencas_entre_tipos_de_entidades\|Diferenças Entre Categorias]] — Forma, motivação e marca deixada no conjurador por cada categoria divina
 - [[00_VAULT/_wiki/cosmologia/entidades_bicolores_e_cor_dominante\|Natureza Dual e Patrono Regente]] — Entidades de dupla ascendência e a regra que define qual face governa o vínculo
+- [[00_VAULT/_wiki/cosmologia/cor_arcana\|Cor Arcana]] — A afinidade estatística entre cada raça e os deuses de sua cor
 - [[00_VAULT/_wiki/cosmologia/monogamia_divina\|Monogamia Divina]] — Por que os deuses raramente compartilham seus servos
 - [[00_VAULT/_wiki/cosmologia/mecanismos_divinos\|Mecanismos Divinos]] — Como o poder divino cruza o véu e opera no plano material
 - [[00_VAULT/_wiki/cosmologia/noctiluz\|Noctiluz]] — A luz que emana de rupturas no véu celeste

@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/insignia_duskryn.md","permalink":"/wiki/artefatos/insignia-duskryn/","dg-note-properties":{"tipo":"artefato","nome":"Insígnia de Duskryn","tipo_artefato":"Anel","categoria":"Político","portador_atual":"—","localizacao_atual":"Escondida (fenda em Mor'Draconis)","status_atual":"Ativo","origem":"Casa Duskryn","vinculacao_entregue_em":"—","aliases":["Anel de Duskryn","Anel de Matriarca"],"ordem":null,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/insignia_duskryn.md","permalink":"/wiki/artefatos/insignia-duskryn/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Insígnia de Duskryn
 
-### Natureza
+A Insígnia de Duskryn, também chamada Anel de Duskryn ou Anel de Matriarca, é o anel de autoridade da matriarca [[00_VAULT/_wiki/personagens/nylothrae_duskryn\|Nylothrae Duskryn]], da [[00_VAULT/_wiki/organizacoes/casa_duskryn\|Casa Duskryn]]. É insígnia política, não bijuteria decorativa, e símbolo do comando da casa.
 
-Insígnia da matriarca [[00_VAULT/_wiki/personagens/nylothrae_duskryn\|Nylothrae Duskryn]], da [[00_VAULT/_wiki/organizacoes/casa_duskryn\|Casa Duskryn]]. Anel de autoridade política, não bijuteria decorativa. Pode estar encantado ou emanar [[00_VAULT/_wiki/cosmologia/magi\|magi]], o que tornaria perigoso portá-lo nas fronteiras de [[00_VAULT/_wiki/locais/ghilanna\|Ghilanna]], onde guardas [[00_VAULT/_wiki/racas/drul\|drul]] inspecionam visitantes em busca de artefatos arcanos.
+### Forma e Poder
+
+O anel pode estar encantado ou emanar [[00_VAULT/_wiki/cosmologia/magi\|magi]]. Essa possível carga arcana torna-o perigoso de portar nas fronteiras de [[00_VAULT/_wiki/locais/ghilanna\|Ghilanna]], onde guardas [[00_VAULT/_wiki/racas/drul\|drul]] inspecionam visitantes em busca de artefatos arcanos: exibir uma insígnia de matriarca sem autorização levanta interrogatórios letais.
 
 ### Cadeia de Custódia
 
-O anel pertencia à matriarca [[00_VAULT/_wiki/personagens/nylothrae_duskryn\|Nylothrae]]. [[00_VAULT/_wiki/personagens/dribbel_olgund\|Dribbel Olgund]] o portou durante os eventos do Cap. 6. Foi encontrado por [[00_VAULT/_wiki/personagens/tibaut\|Tibaut]] nos escombros da caverna-arsenal nas Montanhas do Oeste. [[00_VAULT/_wiki/personagens/tibaut\|Tibaut]] o escondeu numa fenda de pedra em [[00_VAULT/_wiki/locais/mor_draconis\|Mor’Draconis]], coberto de lodo seco e poeira, antes de descer para [[00_VAULT/_wiki/locais/ghilanna\|Ghilanna]] via elevador. A decisão sobre o destino final (devolver a [[00_VAULT/_wiki/personagens/nylothrae_duskryn\|Nylothrae]] como gesto diplomático ou usar como moeda de favor com outra parte) ficou adiada.
+O anel pertencia à matriarca Nylothrae Duskryn. [[00_VAULT/_wiki/personagens/dribbel_olgund\|Dribbel Olgund]] o portou durante um período, e mais tarde ele foi encontrado por [[00_VAULT/_wiki/personagens/tibaut\|Tibaut]] nos escombros de uma caverna nas Montanhas do Oeste. Um anel de matriarca não é objeto que simplesmente se perde, o que sugere que tenha sido plantado ou arrancado. Tibaut o escondeu numa fenda de pedra em [[00_VAULT/_wiki/locais/mor_draconis\|Mor'Draconis]], coberto de lodo e poeira, antes de descer para Ghilanna. A decisão sobre o destino do anel, devolvê-lo à matriarca como gesto diplomático ou guardá-lo como moeda de favor, ficou adiada.

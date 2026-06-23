@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/romper.md","permalink":"/wiki/feiticos/romper/","dg-note-properties":{"tipo":"feitico","nome":"Romper","escola":"Rupto","escala":"Menor","aliases":[],"tags":[],"ordem":183,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/romper.md","permalink":"/wiki/feiticos/romper/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Romper
 
-**Escola:** [[00_VAULT/_wiki/escolas/rupto\|Rupto]]
-**Escala:** Menor
+Romper é um feitiço da escola [[00_VAULT/_wiki/escolas/rupto\|Rupto]], de escala menor. Arrebenta aquilo que prende: cordas, correntes, fechaduras, algemas, lacres.
 
-Arrebentar aquilo que *prende*: cordas, correntes, fechaduras, algemas, lacres. Diferente de Selo ([[00_VAULT/_wiki/escolas/nomos\|Nomos]]), que tranca por vínculo arcano: Romper liberta por força destrutiva onde [[00_VAULT/_wiki/escolas/nomos\|Nomos]] sela. Custo: rigidez nas mãos por instantes, como se as articulações protestassem
+Diferencia-se do Selo, da escola [[00_VAULT/_wiki/escolas/nomos\|Nomos]], que tranca por vínculo arcano: onde Nomos sela, Romper liberta pela força destrutiva. O custo é uma rigidez momentânea nas mãos, como se as articulações protestassem.

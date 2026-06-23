@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/ardencia.md","permalink":"/wiki/feiticos/ardencia/","dg-note-properties":{"tipo":"feitico","nome":"Ardência","escola":"Pyro","escala":"Menor","aliases":[],"tags":[],"ordem":2,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/ardencia.md","permalink":"/wiki/feiticos/ardencia/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Ardência
 
-**Escola:** [[00_VAULT/_wiki/escolas/pyro\|Pyro]]
-**Escala:** Menor
+Ardência é um feitiço de escala menor da escola do [[00_VAULT/_wiki/escolas/pyro\|Pyro]]. Produz calor opressivo sem chama visível: o ar sufoca, o suor escorre, a pele resseca. Provoca febre e exaustão térmica sem que nada brilhe ou queime, e ainda assim o corpo cede.
 
-Calor opressivo sem chama visível: ar que sufoca, suor que escorre, pele que resseca. Febre provocada, exaustão térmica. Diferente de Incandescência ([[00_VAULT/_wiki/escolas/plasma\|Plasma]]), que aquece matéria sólida por energia: Ardência aquece o ar e os corpos. Nada brilha, nada queima, mas o corpo cede. Custo: rubor e suor no próprio rosto
+Distingue-se da Incandescência, feitiço do [[00_VAULT/_wiki/escolas/plasma\|Plasma]] que aquece a matéria sólida por energia. A Ardência aquece o ar e os corpos. Seu custo é o rubor e o suor no próprio rosto do conjurador.

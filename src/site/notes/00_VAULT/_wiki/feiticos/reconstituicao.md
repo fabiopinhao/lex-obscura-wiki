@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/reconstituicao.md","permalink":"/wiki/feiticos/reconstituicao/","dg-note-properties":{"tipo":"feitico","nome":"Reconstituição","escola":"Salvo","escala":"Maior","aliases":[],"tags":[],"ordem":117,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/reconstituicao.md","permalink":"/wiki/feiticos/reconstituicao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Reconstituição
 
-**Escola:** [[00_VAULT/_wiki/escolas/salvo\|Salvo]]
-**Escala:** Maior
+Reconstituição é um feitiço de escala Maior da escola do [[00_VAULT/_wiki/escolas/salvo\|Salvo]]. Regenera tecido que não existe mais: dedos decepados rebrotam, um olho destruído se reforma na órbita vazia, um órgão reconstrói a porção que lhe falta.
 
-Regenerar tecido que não existe mais: dedos decepados rebrotam, olho destruído se reforma na órbita vazia, órgão reconstrói a porção que falta. Diferente de Soldadura (que reconecta existente) e Restauração (que reativa função): Reconstituição cria matéria nova a partir da vitalidade do curador. Carne cresce rápida e rosada, nervos reconectam com espasmos. Custo: o curador drena própria vitalidade, envelhecimento visível, cabelos grisalhos prematuros
+### Efeito
+
+A magia cria matéria nova a partir da vitalidade do curador, e não apenas repara o que sobrou. A carne cresce rápida e rosada, e os nervos reconectam com espasmos. Por isso distingue-se de práticas vizinhas da mesma escola: a Soldadura reconecta o que ainda existe, e a Restauração reativa uma função perdida, enquanto a Reconstituição forma o que foi inteiramente destruído.
+
+### Custo
+
+O preço recai sobre o próprio curador, que drena a própria vitalidade para erguer a carne nova. O esforço deixa marca visível: envelhecimento aparente e cabelos grisalhos prematuros.

@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/juramento.md","permalink":"/wiki/feiticos/juramento/","dg-note-properties":{"tipo":"feitico","nome":"Juramento","escola":"Nomos","escala":"Maior","aliases":[],"tags":[],"ordem":198,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/juramento.md","permalink":"/wiki/feiticos/juramento/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Juramento
 
-**Escola:** [[00_VAULT/_wiki/escolas/nomos\|Nomos]]
-**Escala:** Maior
+Juramento é um feitiço de escala Maior da escola do [[00_VAULT/_wiki/escolas/nomos\|Nomos]]. É uma promessa inscrita na carne e na alma: a palavra empenhada vira lei sobre o próprio corpo de quem a profere, e a quebra do pacto aciona uma consequência proporcional, que vai da dor à doença, da debilidade à morte.
 
-Promessa inscrita na carne e na alma. Quebrar a palavra aciona consequência proporcional: dor, doença, debilidade, morte. O Juramento não verifica intenção, apenas ação; quem jura "nunca erguer arma" paga o mesmo preço por reflexo ou por traição. Diferente de Danação ([[00_VAULT/_wiki/escolas/anatho\|Anatho]]), que corrompe independente de ação: Juramento pune apenas a quebra do pacto. A letra da lei governa, não o espírito. Custo: o conjurador acumula rigidez, metáforas confundem, ambiguidade vira incômodo físico
+### Princípio
+
+A força do Juramento está na letra, não no espírito. O feitiço não verifica intenção, apenas ação. Quem jura "nunca erguer arma" paga o mesmo preço por reflexo ou por traição deliberada, pois o que conta é o ato consumado, não o motivo. Difere da Danação, da escola do [[00_VAULT/_wiki/escolas/anatho\|Anatho]], que corrompe independentemente de qualquer ação: o Juramento pune apenas a quebra do pacto que foi selado.
+
+### Custos
+
+O conjurador que recorre ao Juramento acumula rigidez. As metáforas passam a confundi-lo e a ambiguidade torna-se um incômodo físico, como se a mente endurecesse na mesma medida em que a palavra empenhada se torna absoluta.

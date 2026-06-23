@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/dromos_draconis.md","permalink":"/wiki/locais/dromos-draconis/","dg-note-properties":{"tipo":"local","nome":"Dromos Draconis","tipo_local":"Arena/Coliseu","regiao":"Morvgrad","controlador":"—","status_atual":"Extinto","distancia_morvgrad_leguas":"—","populacao_aprox":"0 (extinta)","aliases":["Coliseu Dromos Draconis","Arenas Extintas"],"ordem":29,"heading_level":3,"parent":"morvgrad","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/dromos_draconis.md","permalink":"/wiki/locais/dromos-draconis/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Dromos Draconis
 
-### Natureza
+O Dromos Draconis, também chamado Coliseu Dromos Draconis, foi um coliseu de combate gladiatorial na região de [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]]. Suas arenas estão extintas: foram suprimidas pelo [[00_VAULT/_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], e a ausência de qualquer registro vivo aponta para um ato político deliberado, não para simples abandono.
 
-O Dromos Draconis era um coliseu de combate gladiatorial cujas arenas foram extintas e deliberadamente suprimidas pelo [[00_VAULT/_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]]. O capacete descrito como "relíquia de tempos que o Conselho havia enterrado com as arenas" indica que a supressão foi ato político, não apenas abandono.
+### História
+
+As arenas do Dromos Draconis pertencem a um tempo que o Conselho Sombrio enterrou junto com elas. A supressão apagou a prática do combate gladiatorial daquela região, e o coliseu sobrevive hoje apenas como referência a uma era encerrada.
 
 ### Vestígios
 
-O único vestígio canônico do Dromos Draconis no Livro I é o capacete de bronze e cobre que [[00_VAULT/_wiki/personagens/maraxus\|Maraxus]] vestiu durante a incursão em [[00_VAULT/_wiki/locais/thal_serin\|Thal'Serin]]. A peça, de feitio exótico, oculta completamente o rosto e é descrita como relíquia antiga. [[00_VAULT/_wiki/personagens/maraxus\|Maraxus]] a usava para esconder a transformação demoníaca em progresso: veias negras, proto-chifres, mandíbula projetada.
+O único vestígio conhecido do Dromos Draconis é um capacete de bronze e cobre, de feitio exótico, que oculta por completo o rosto de quem o veste. A peça, descrita como relíquia daqueles tempos enterrados, foi usada por [[00_VAULT/_wiki/personagens/maraxus\|Maraxus]] durante a incursão em [[00_VAULT/_wiki/locais/thal_serin\|Thal'Serin]].

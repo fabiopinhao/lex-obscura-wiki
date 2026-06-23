@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/vortice.md","permalink":"/wiki/feiticos/vortice/","dg-note-properties":{"tipo":"feitico","nome":"Vórtice","escola":"Aero","escala":"Média","aliases":[],"tags":[],"ordem":45,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/vortice.md","permalink":"/wiki/feiticos/vortice/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Vórtice
 
-**Escola:** [[00_VAULT/_wiki/escolas/aero\|Aero]]
-**Escala:** Média
+Vórtice é um feitiço de escala média da escola do [[00_VAULT/_wiki/escolas/aero\|Aero]]: um redemoinho localizado que aprisiona o alvo em espiral de ar.
 
-Redemoinho localizado que aprisiona em espiral de ar. Detritos levantados obscurecem visão e cortam pele exposta. Diferente de Singularidade ([[00_VAULT/_wiki/escolas/cosmo\|Cosmo]]), que puxa por gravidade: Vórtice puxa por corrente de ar, funciona apenas onde há atmosfera. Quanto mais material solto, mais letal a rotação. Custo: pressão nos tímpanos, desorientação espacial ao cessar
+### Efeito
+
+Detritos levantados pela corrente obscurecem a visão e cortam a pele exposta. Quanto mais material solto há ao redor, mais letal fica a rotação. Distingue-se de Singularidade, da escola do [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]], que puxa por gravidade: Vórtice puxa por corrente de ar e só funciona onde há atmosfera.
+
+### Custo
+
+Ao cessar o feitiço, o conjurador sente pressão nos tímpanos e desorientação espacial.

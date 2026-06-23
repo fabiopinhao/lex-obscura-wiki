@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/semblante.md","permalink":"/wiki/feiticos/semblante/","dg-note-properties":{"tipo":"feitico","nome":"Semblante","escola":"Morpho","escala":"Menor","aliases":[],"tags":[],"ordem":271,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/semblante.md","permalink":"/wiki/feiticos/semblante/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Semblante
 
-**Escola:** [[00_VAULT/_wiki/escolas/morpho\|Morpho]]
-**Escala:** Menor
+Semblante é um feitiço de escala menor da escola do [[00_VAULT/_wiki/escolas/morpho\|Morpho]] que produz alterações cosméticas reais no próprio corpo do conjurador: traços faciais, cor dos olhos, cabelo, pele e cicatrizes que somem ou surgem. A mudança é física, não ilusória, e o toque a confirma.
 
-Alterações cosméticas reais no próprio corpo: traços faciais, cor de olhos, cabelo, pele, cicatrizes que somem ou surgem. Físico, não ilusório: toque confirma. Diferente de Disfarce ([[00_VAULT/_wiki/escolas/spectro\|Spectro]]), que projeta imagem sobre a forma. Custo: estranhamento ao se olhar no espelho
+Distingue-se do [[00_VAULT/_wiki/feiticos/disfarce\|Disfarce]], da escola do [[00_VAULT/_wiki/escolas/spectro\|Spectro]], que projeta uma imagem sobre a forma sem alterá-la. O custo é o estranhamento de não se reconhecer no espelho.

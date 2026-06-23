@@ -1,32 +1,23 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/consequencias_do_descarte.md","permalink":"/wiki/magia/consequencias-do-descarte/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Consequências Do Descarte","subtipo":"mecanica","origem_arquivo":"3.14_custos_ontologicos_LORE.md","aliases":[],"ordem":6,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/consequencias_do_descarte.md","permalink":"/wiki/magia/consequencias-do-descarte/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Consequências do Descarte
+
+O descarte é o modo como a instituição encerra a existência funcional de um de seus membros. Cada método deixa um resíduo distinto, redistribui o que o indivíduo possuía e ensina, a quem observa, uma lição sobre o próprio destino.
 
 ### O Que Sobra
 
-- **Consagração Final**: Artefatos imbuídos com [[00_VAULT/_wiki/cosmologia/magi\|magi]]; relíquias
-- **Missão de Honra**: Nome em memorial; lenda de heroísmo
-- **Transferência**: Nada; como se nunca tivesse existido
-- **Recolhimento**: Rumores sobre "alas proibidas"; medo institucional
-- **Vigília Eterna**: Mito sobre "os que dormem"; ameaça velada
+Cada forma de descarte produz um vestígio próprio. A Consagração Final deixa artefatos imbuídos de [[00_VAULT/_wiki/cosmologia/magi\|magi]] e relíquias. A Missão de Honra deixa um nome em memorial e uma lenda de heroísmo. A Transferência não deixa nada, como se a pessoa nunca tivesse existido. O Recolhimento deixa rumores sobre "alas proibidas" e um medo institucional difuso. A Vigília Eterna deixa o mito dos "que dormem", uma ameaça velada.
 
-### O Que É Herdado
+### Herança
 
-- **Equipamento**: Redistribuído sem cerimônia
-- **Conhecimento**: Extraído antes do descarte quando possível
-- **Posição**: Preenchida imediatamente; nenhum cargo fica vago
-- **Dívidas**: Assumidas pela instituição ou cobradas de família
+Nada do que pertencia ao descartado fica vago por muito tempo. O equipamento é redistribuído sem cerimônia. O conhecimento é extraído antes do descarte, quando possível. A posição é preenchida de imediato, e nenhum cargo permanece aberto. As dívidas são assumidas pela instituição ou cobradas da família.
 
-### Quem Aprende a Temer
+### A Lição do Medo
 
-- **Iniciantes**: "Promoções" nem sempre são boas notícias
-- **Veteranos**: Reconhecem os sinais; sabem quando alguém vai "ser transferido"
-- **Superiores**: Usam o sistema como ameaça velada
-- **Famílias**: Não fazem perguntas quando parentes "são promovidos ao Círculo Interior"
+O sistema funciona também como pedagogia do medo. Iniciantes aprendem que "promoções" nem sempre são boas notícias. Veteranos reconhecem os sinais e sabem quando alguém está prestes a "ser transferido". Superiores usam o mecanismo como ameaça velada. Famílias não fazem perguntas quando um parente "é promovido ao Círculo Interior".
 
 ### Transferidos Fantasmas
 
-Alguns "transferidos" reaparecem anos depois sob outros nomes, sem registro oficial. Isso cria fantasmas administrativos, personagens que "não deveriam existir" e paranoia institucional. Ninguém confirma. Ninguém nega.
-
----
+Alguns "transferidos" reaparecem anos depois sob outros nomes, sem registro oficial. Disso nascem fantasmas administrativos, pessoas que "não deveriam existir", e a paranoia institucional que as cerca. Ninguém confirma. Ninguém nega.

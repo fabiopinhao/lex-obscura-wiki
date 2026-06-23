@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/magnetizar.md","permalink":"/wiki/feiticos/magnetizar/","dg-note-properties":{"tipo":"feitico","nome":"Magnetizar","escola":"Electro","escala":"Menor","aliases":[],"tags":[],"ordem":242,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/magnetizar.md","permalink":"/wiki/feiticos/magnetizar/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Magnetizar
 
-**Escola:** [[00_VAULT/_wiki/escolas/electro\|Electro]]
-**Escala:** Menor
+Magnetizar é um feitiço menor da escola do [[00_VAULT/_wiki/escolas/electro\|Electro]] que atrai ou repele objetos metálicos pequenos à distância: lâminas deslizam pelo chão, chaves saltam de bolsos. Diferente da Atração, da escola do [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]], que puxa qualquer matéria pela gravidade, Magnetizar afeta apenas o metal. O alcance é limitado e a força, proporcional ao tamanho do objeto.
 
-Atrair ou repelir objetos metálicos pequenos à distância: lâminas deslizam, chaves saltam de bolsos. Diferente de Atração ([[00_VAULT/_wiki/escolas/cosmo\|Cosmo]]), que puxa qualquer matéria por gravidade: Magnetizar afeta apenas metal. Alcance limitado, força proporcional ao tamanho. Custo: bússolas enlouquecem perto do conjurador por horas
+### Custos
+
+Bússolas enlouquecem perto do conjurador por horas depois do feitiço.

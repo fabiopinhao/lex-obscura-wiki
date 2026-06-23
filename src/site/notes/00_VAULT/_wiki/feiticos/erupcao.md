@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/erupcao.md","permalink":"/wiki/feiticos/erupcao/","dg-note-properties":{"tipo":"feitico","nome":"Erupção","escola":"Plasma","escala":"**Máxima**","aliases":[],"tags":[],"ordem":40,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/erupcao.md","permalink":"/wiki/feiticos/erupcao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Erupção
 
-**Escola:** [[00_VAULT/_wiki/escolas/plasma\|Plasma]]
-**Escala:** **Máxima**
+Erupção é um feitiço da escola do [[00_VAULT/_wiki/escolas/plasma\|Plasma]], de escala máxima. O conjurador planta os pés e o solo obedece: a rocha se liquefaz num raio devastador, colunas de magma irrompem em gêiseres incandescentes e o ar ioniza até brilhar púrpura.
 
-O conjurador planta os pés e o solo obedece: rocha se liquefaz num raio devastador, colunas de magma irrompem em gêiseres incandescentes, o ar ioniza até brilhar púrpura. Diferente de Cataclismo ([[00_VAULT/_wiki/escolas/geo\|Geo]]), que redesenha terreno: Erupção o liquefaz. Tudo que é sólido se torna fluido. Erupção não é fogo, é o estado da matéria quando energia a excede. Custo devastador: a pele descama em placas, os olhos perdem o branco. Uso repetido acelera o Estágio IV
+### Práticas
+
+Tudo que é sólido se torna fluido. Diferente de Cataclismo, da escola do [[00_VAULT/_wiki/escolas/geo\|Geo]], que redesenha o terreno, Erupção o liquefaz. Não é fogo: é o estado da matéria quando a energia a excede.
+
+### Custos
+
+O custo é devastador. A pele descama em placas e os olhos perdem o branco. O uso repetido acelera o Estágio IV.

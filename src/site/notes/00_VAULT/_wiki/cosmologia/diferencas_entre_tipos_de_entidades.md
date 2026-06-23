@@ -1,15 +1,18 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/diferencas_entre_tipos_de_entidades.md","permalink":"/wiki/cosmologia/diferencas-entre-tipos-de-entidades/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Diferenças Entre Tipos de Entidades","aliases":[],"tags":[],"ordem":0,"subtipo":"cosmologia","origem_arquivo":"3.4_cosmologia_LORE.md","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/diferencas_entre_tipos_de_entidades.md","permalink":"/wiki/cosmologia/diferencas-entre-tipos-de-entidades/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Diferenças Entre Tipos de Entidades
+
+As entidades divinas de [[00_VAULT/_wiki/locais/thamakard\|Thamakard]] dividem-se em cinco categorias, distinguíveis pelo que o mortal percebe delas: forma, modo de comunicação, motivação, disposição à traição, temperamento e a marca que deixam em quem com elas pacta. O quadro abaixo resume os contrastes de superfície entre [[00_VAULT/_wiki/cosmologia/diabos\|Diabos]], [[00_VAULT/_wiki/cosmologia/demonios\|Demônios]], [[00_VAULT/_wiki/cosmologia/titas\|Titãs]], [[00_VAULT/_wiki/cosmologia/anjos\|Anjos]] e [[00_VAULT/_wiki/cosmologia/siderais\|Siderais]].
 
 ### Comparativo
 
-Comparação rápida das cinco categorias divinas pelo que o mortal percebe — forma, comunicação, marca, temperamento. Os contrastes aprofundados (por que cores vizinhas divergem no método) estão em [[00_VAULT/_wiki/cosmologia/ontologia_divina\|Ontologia Divina]] §Cor como Essência; os sistemas de vínculo, em [[00_VAULT/_wiki/cosmologia/mecanismos_divinos\|Mecanismos Divinos]].
+- **Forma** — Diabos: Humanoide corrupta | Demônios: Monstruosa caótica | Titãs: Elementos naturais | Anjos: Luz e forma majestosa | Siderais: Sem forma (padrões)
+- **Comunicação** — Diabos: Palavras (contratos) | Demônios: Gritos e rugidos | Titãs: Emoção e intuição | Anjos: Voz divina | Siderais: Conceitos puros
+- **Motivação** — Diabos: Poder e almas | Demônios: Destruição | Titãs: Equilíbrio | Anjos: Justiça e ordem | Siderais: Conhecimento e ordem
+- **Traição** — Diabos: Sim (por tecnicalidade) | Demônios: Sim (por capricho) | Titãs: Não (se fiel) | Anjos: Não (se justo) | Siderais: Não (sem ambição)
+- **Personalidade** — Diabos: Calculista | Demônios: Violenta | Titãs: Compassiva | Anjos: Imperativa | Siderais: Lógica e alienígena
+- **Marca no conjurador** — Diabos: Runa infernal | Demônios: Mutação grotesca | Titãs: Folhas, casca, natural | Anjos: Halo e luminosidade | Siderais: Olhos prateados
 
-- **Forma** — [[00_VAULT/_wiki/cosmologia/diabos\|Diabos]] (B): Humanoide corrupta | [[00_VAULT/_wiki/cosmologia/demonios\|Demônios]] (R): Monstruosa caótica | [[00_VAULT/_wiki/cosmologia/titas\|Titãs]] (G): Elementos naturais | [[00_VAULT/_wiki/cosmologia/anjos\|Anjos]] (W): Luz/forma majestosa | [[00_VAULT/_wiki/cosmologia/siderais\|Siderais]] (U): Sem forma (padrões)
-- **Comunicação** — [[00_VAULT/_wiki/cosmologia/diabos\|Diabos]] (B): Palavras (contratos) | [[00_VAULT/_wiki/cosmologia/demonios\|Demônios]] (R): Gritos/rugidos | [[00_VAULT/_wiki/cosmologia/titas\|Titãs]] (G): Emoção/intuição | [[00_VAULT/_wiki/cosmologia/anjos\|Anjos]] (W): Voz divina | [[00_VAULT/_wiki/cosmologia/siderais\|Siderais]] (U): Conceitos puros
-- **Motivação** — [[00_VAULT/_wiki/cosmologia/diabos\|Diabos]] (B): Poder/almas | [[00_VAULT/_wiki/cosmologia/demonios\|Demônios]] (R): Destruição | [[00_VAULT/_wiki/cosmologia/titas\|Titãs]] (G): Equilíbrio | [[00_VAULT/_wiki/cosmologia/anjos\|Anjos]] (W): Justiça/ordem | [[00_VAULT/_wiki/cosmologia/siderais\|Siderais]] (U): Conhecimento/ordem
-- **Traição** — [[00_VAULT/_wiki/cosmologia/diabos\|Diabos]] (B): Sim (tecnicalidade) | [[00_VAULT/_wiki/cosmologia/demonios\|Demônios]] (R): Sim (capricho) | [[00_VAULT/_wiki/cosmologia/titas\|Titãs]] (G): Não (se fiel) | [[00_VAULT/_wiki/cosmologia/anjos\|Anjos]] (W): Não (se justo) | [[00_VAULT/_wiki/cosmologia/siderais\|Siderais]] (U): Não (sem ambição)
-- **Personalidade** — [[00_VAULT/_wiki/cosmologia/diabos\|Diabos]] (B): Calculista | [[00_VAULT/_wiki/cosmologia/demonios\|Demônios]] (R): Violenta | [[00_VAULT/_wiki/cosmologia/titas\|Titãs]] (G): Compassiva | [[00_VAULT/_wiki/cosmologia/anjos\|Anjos]] (W): Imperativa | [[00_VAULT/_wiki/cosmologia/siderais\|Siderais]] (U): Alienígena/lógica
-- **Marca no Conjurador** — [[00_VAULT/_wiki/cosmologia/diabos\|Diabos]] (B): Runa infernal | [[00_VAULT/_wiki/cosmologia/demonios\|Demônios]] (R): Mutação grotesca | [[00_VAULT/_wiki/cosmologia/titas\|Titãs]] (G): Folhas/casca/natural | [[00_VAULT/_wiki/cosmologia/anjos\|Anjos]] (W): Halo/luminosidade | [[00_VAULT/_wiki/cosmologia/siderais\|Siderais]] (U): Olhos prateados
+Os contrastes mais profundos, a razão de cores vizinhas divergirem no método, pertencem à [[00_VAULT/_wiki/cosmologia/ontologia_divina\|Ontologia Divina]], e os sistemas de vínculo entre mortal e entidade, aos [[00_VAULT/_wiki/cosmologia/mecanismos_divinos\|Mecanismos Divinos]].

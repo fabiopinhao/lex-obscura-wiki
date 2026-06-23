@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/bolido.md","permalink":"/wiki/feiticos/bolido/","dg-note-properties":{"tipo":"feitico","nome":"Bólido","escola":"Plasma","escala":"Maior","aliases":[],"tags":[],"ordem":37,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/bolido.md","permalink":"/wiki/feiticos/bolido/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Bólido
 
-**Escola:** [[00_VAULT/_wiki/escolas/plasma\|Plasma]]
-**Escala:** Maior
+Bólido é um feitiço da escola do [[00_VAULT/_wiki/escolas/plasma\|Plasma]], de escala maior. O conjurador arranca do solo um projétil de rocha fundida, superaquece a matéria até a incandescência branca e a arremessa.
 
-Projétil de rocha fundida que o conjurador arranca do solo, superaquece até incandescência branca e arremessa. Diferente de Meteoro ([[00_VAULT/_wiki/escolas/cosmo\|Cosmo]]), que despenca por gravidade: Bólido é matéria fundida lançada por energia plasmática. No impacto, explode em estilhaços vitrificados e onda de calor que ignora armaduras. Crateras permanecem quentes por horas. Custo: queimaduras nos braços, exaustão térmica severa
+Diferente do Meteoro, da escola do [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]], que despenca por gravidade, o Bólido é matéria fundida lançada por energia plasmática. No impacto, explode em estilhaços vitrificados e em uma onda de calor que ignora armaduras. As crateras que deixa permanecem quentes por horas.
+
+### Custos
+
+O lançamento causa queimaduras nos braços do conjurador e uma exaustão térmica severa.

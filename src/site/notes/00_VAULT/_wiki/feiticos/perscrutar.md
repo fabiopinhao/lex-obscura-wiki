@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/perscrutar.md","permalink":"/wiki/feiticos/perscrutar/","dg-note-properties":{"tipo":"feitico","nome":"Perscrutar","escola":"Gnosi","escala":"Maior","aliases":[],"tags":[],"ordem":159,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/perscrutar.md","permalink":"/wiki/feiticos/perscrutar/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Perscrutar
 
-**Escola:** [[00_VAULT/_wiki/escolas/gnosi\|Gnosi]]
-**Escala:** Maior
+Perscrutar é um feitiço de escala Maior da escola [[00_VAULT/_wiki/escolas/gnosi\|Gnosi]]. Por acesso direto à verdade como substância arcana, o conjurador percebe a mentira, a emoção oculta e a intenção real de um alvo, sem penetrar seus pensamentos. O alvo pode nem perceber que foi lido.
 
-Verdade extraída sem invasão: o conjurador percebe mentira, emoção oculta e intenção real do alvo por acesso direto à verdade como substância arcana. Diferente de Intrusão ([[00_VAULT/_wiki/escolas/psycho\|Psycho]]), que invade a mente: Perscrutar lê a verdade da situação sem penetrar pensamentos. O alvo pode nem perceber que foi lido. Custo: incapacidade temporária de aceitar aparências, rostos parecem máscaras, cortesia parece cálculo
+Distingue-se da Intrusão, da escola [[00_VAULT/_wiki/escolas/psycho\|Psycho]], que invade a mente: Perscrutar lê a verdade da situação, não o pensamento em si.
+
+### Custo
+
+A prática deixa o conjurador temporariamente incapaz de aceitar aparências. Rostos passam a parecer máscaras e a cortesia, cálculo.

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/atrofia.md","permalink":"/wiki/feiticos/atrofia/","dg-note-properties":{"tipo":"feitico","nome":"Atrofia","escola":"Patho","escala":"Menor","aliases":[],"tags":[],"ordem":103,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/atrofia.md","permalink":"/wiki/feiticos/atrofia/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Atrofia
 
-**Escola:** [[00_VAULT/_wiki/escolas/patho\|Patho]]
-**Escala:** Menor
+Atrofia é um feitiço menor da escola de [[00_VAULT/_wiki/escolas/patho\|Patho]]. Degrada um músculo, tendão ou articulação específica: o membro enfraquece, o aperto frouxa, o passo vacila. O tecido murcha como se envelhecesse meses em minutos.
 
-Degradar músculo, tendão ou articulação específica: membro enfraquece, aperto frouxa, passo vacila. Diferente de Enfraquecimento ([[00_VAULT/_wiki/escolas/anatho\|Anatho]]), que drena capacidade geral por maldição: Atrofia é orgânica e localizada, o tecido murcha como se envelhecesse meses em minutos. Custo: rigidez simpática no membro correspondente do conjurador
+Distingue-se do Enfraquecimento, da escola de [[00_VAULT/_wiki/escolas/anatho\|Anatho]], que drena a capacidade geral por maldição. Atrofia é orgânica e localizada, age sobre o corpo e não sobre a vontade. O custo é uma rigidez simpática no membro correspondente do conjurador.

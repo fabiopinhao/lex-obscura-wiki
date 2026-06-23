@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/ressonancia.md","permalink":"/wiki/feiticos/ressonancia/","dg-note-properties":{"tipo":"feitico","nome":"Ressonância","escola":"Aero","escala":"Maior","aliases":[],"tags":[],"ordem":47,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/ressonancia.md","permalink":"/wiki/feiticos/ressonancia/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Ressonância
 
-**Escola:** [[00_VAULT/_wiki/escolas/aero\|Aero]]
-**Escala:** Maior
+Ressonância é um feitiço de escala Maior da escola [[00_VAULT/_wiki/escolas/aero\|Aero]], domínio sobre as ondas de pressão que o ar carrega. Em combate, manifesta-se como pulso concussivo que rompe tímpanos, desorienta e estilhaça superfícies frágeis. Em espionagem, carrega sussurros por distâncias absurdas. O ar é veículo de toda comunicação audível, e quem controla o meio controla a mensagem.
 
-Domínio sobre ondas de pressão que o ar carrega. Em combate: pulso concussivo que rompe tímpanos, desorienta e estilhaça superfícies frágeis. Em espionagem: carregar sussurros a distâncias absurdas. Diferente de Mordaça ([[00_VAULT/_wiki/escolas/nomos\|Nomos]]), que silencia por proibição arcana: Ressonância manipula o meio físico do som. O ar é veículo de toda comunicação audível: quem controla o meio, controla a mensagem. Custo: hiperacusia, sons comuns chegam amplificados e dolorosos por horas
+Distingue-se da Mordaça, da escola [[00_VAULT/_wiki/escolas/nomos\|Nomos]], que silencia por proibição arcana: Ressonância manipula o meio físico do som.
+
+### Custo
+
+A prática deixa hiperacusia: por horas, sons comuns chegam amplificados e dolorosos.

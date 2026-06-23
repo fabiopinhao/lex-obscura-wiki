@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/terremoto.md","permalink":"/wiki/feiticos/terremoto/","dg-note-properties":{"tipo":"feitico","nome":"Terremoto","escola":"Geo","escala":"Maior","aliases":[],"tags":[],"ordem":59,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/terremoto.md","permalink":"/wiki/feiticos/terremoto/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Terremoto
 
-**Escola:** [[00_VAULT/_wiki/escolas/geo\|Geo]]
-**Escala:** Maior
+Terremoto é um feitiço da escola [[00_VAULT/_wiki/escolas/geo\|Geo]], de escala Maior, que provoca um abalo sísmico em área ampla. O solo ondula, fissuras se abrem em padrão radial e estruturas colapsam quando seus alicerces se movem em direções opostas. Diferente de Demolição, feitiço da escola [[00_VAULT/_wiki/escolas/rupto\|Rupto]] que destrói por análise estrutural, o Terremoto é indiscriminado: a terra decide onde o dano será pior. Formações militares se desorganizam, a cavalaria cai, as torres desabam.
 
-Abalo sísmico em área ampla: solo ondula, fissuras se abrem em padrão radial, estruturas colapsam quando seus alicerces se movem em direções opostas. Diferente de Demolição ([[00_VAULT/_wiki/escolas/rupto\|Rupto]]), que destrói por análise estrutural: Terremoto é indiscriminado, a terra decide onde o dano é pior. Formações militares se desorganizam, cavalaria cai, torres desabam. Custo: perda de equilíbrio severa, pernas tremem, a sensação de solo instável persiste por dias
+O custo recai sobre o conjurador como uma perda severa de equilíbrio. As pernas tremem, e a sensação de solo instável persiste por dias.

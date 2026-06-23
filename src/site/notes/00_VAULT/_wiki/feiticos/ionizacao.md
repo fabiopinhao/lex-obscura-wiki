@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/ionizacao.md","permalink":"/wiki/feiticos/ionizacao/","dg-note-properties":{"tipo":"feitico","nome":"Ionização","escola":"Plasma","escala":"Menor","aliases":[],"tags":[],"ordem":31,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/ionizacao.md","permalink":"/wiki/feiticos/ionizacao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Ionização
 
-**Escola:** [[00_VAULT/_wiki/escolas/plasma\|Plasma]]
-**Escala:** Menor
+Ionização é um feitiço menor da escola do [[00_VAULT/_wiki/escolas/plasma\|Plasma]]. Satura o ar ou a matéria com energia até que o ambiente crepite: a estática serpenteia entre superfícies metálicas, os pelos se eriçam e o cheiro de ozônio anuncia o que vem.
 
-Saturar ar ou matéria com energia até que o ambiente crepite: estática serpenteia entre superfícies metálicas, pelos se eriçam, cheiro de ozônio anuncia o que vem. Diferente de Estática ([[00_VAULT/_wiki/escolas/electro\|Electro]]), que acumula carga elétrica: Ionização excita matéria com energia plasmática. Custo: formigamento nas pontas dos dedos, sensação de carga acumulada
+Distingue-se da Estática, feitiço do [[00_VAULT/_wiki/escolas/electro\|Electro]] que acumula carga elétrica: a Ionização excita a matéria com energia plasmática.
+
+### Custo
+
+Formigamento nas pontas dos dedos e a sensação de carga acumulada.

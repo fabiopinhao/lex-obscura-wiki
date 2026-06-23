@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/penumbra.md","permalink":"/wiki/feiticos/penumbra/","dg-note-properties":{"tipo":"feitico","nome":"Penumbra","escola":"Umbra","escala":"Menor","aliases":[],"tags":[],"ordem":61,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/penumbra.md","permalink":"/wiki/feiticos/penumbra/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Penumbra
 
-**Escola:** [[00_VAULT/_wiki/escolas/umbra\|Umbra]]
-**Escala:** Menor
+Penumbra é um feitiço menor da escola [[00_VAULT/_wiki/escolas/umbra\|Umbra]]. Escurece uma área restrita, sufoca chamas pequenas e reduz fontes de luz a ondulações trêmulas. Não age sobre quem está dentro dela: diferentemente da Cegueira, que ataca os olhos do alvo, a Penumbra escurece o ambiente, não a percepção de quem o atravessa.
 
-Escurecer área restrita, sufocar chamas pequenas, reduzir fontes de luz a ondulações trêmulas. Diferente de Cegueira (que ataca olhos do alvo): Penumbra escurece o ambiente, não a percepção. Custo: distorção visual breve, bordas do campo de visão escurecem
+### Custo
+
+Quem a conjura paga com uma distorção visual breve: as bordas do próprio campo de visão escurecem por instantes depois do uso.

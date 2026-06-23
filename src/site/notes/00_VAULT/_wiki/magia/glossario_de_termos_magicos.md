@@ -1,24 +1,27 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/glossario_de_termos_magicos.md","permalink":"/wiki/magia/glossario-de-termos-magicos/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Glossário de Termos Mágicos","aliases":[],"ordem":2,"subtipo":"glossario","origem_arquivo":"3.7_sistemas_magicos_LORE.md","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/glossario_de_termos_magicos.md","permalink":"/wiki/magia/glossario-de-termos-magicos/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Glossário de Termos Mágicos
 
-**[[00_VAULT/_wiki/cosmologia/magi\|Magi]]:** Energia mágica universal (combustível invisível). Reserva limitada que precisa ser recuperada após uso.
+Reunião dos termos básicos que organizam o estudo e a prática da magia. Cada verbete define um conceito recorrente, do combustível arcano às formas de acesso ao poder.
 
-**Marca:** Sinal físico/espiritual de vínculo com entidade. Varia conforme tipo de sistema.
+**[[00_VAULT/_wiki/cosmologia/magi\|Magi]]:** energia mágica universal, o combustível invisível de toda conjuração. É uma reserva limitada, que precisa ser recuperada depois do uso.
 
-**Pacto:** Acordo formal ([[00_VAULT/_wiki/cosmologia/diabos\|diabos]]) ou informal ([[00_VAULT/_wiki/cosmologia/demonios\|demônios]]) entre conjurador e entidade.
+**Marca:** sinal físico ou espiritual de vínculo com uma entidade. Varia conforme o tipo de sistema.
 
-**Simbiose:** Relacionamento mútuo com espírito natural baseado em equilíbrio e respeito.
+**Pacto:** acordo entre conjurador e entidade, formal no caso dos [[00_VAULT/_wiki/cosmologia/diabos\|diabos]] e informal no caso dos [[00_VAULT/_wiki/cosmologia/demonios\|demônios]].
 
-**Devoção:** Fé genuína em divindade. Poder baseado em pureza de intenção e código moral.
+**Simbiose:** relação mútua com um espírito natural, baseada em equilíbrio e respeito.
 
-**Meditação:** Disciplina mental para tocar [[00_VAULT/_wiki/cosmologia/plano_etereo\|Plano Etéreo]] e conectar-se com entidades de pura consciência.
+**Devoção:** fé genuína em uma divindade. O poder nasce da pureza de intenção e de um código moral.
 
-**[[00_VAULT/_wiki/magia/teru\|Teru]]:** Sistema técnico de estudo arcano sem necessidade de entidades. Versatilidade alta, profundidade moderada.
+**Meditação:** disciplina mental para tocar o [[00_VAULT/_wiki/cosmologia/plano_etereo\|Plano Etéreo]] e conectar-se a entidades de pura consciência.
 
-**Escola:** Especialização mágica. 30 escolas no total, 10 por [[00_VAULT/_wiki/cosmologia/cor_arcana\|cor arcana]].
+**[[00_VAULT/_wiki/magia/teru\|Teru]]:** sistema técnico de estudo arcano que dispensa entidades. Tem versatilidade alta e profundidade moderada.
 
-**Cor Dominante:** Aspecto primário de entidade bicolor que define sistema de acesso.
+**Escola:** especialização mágica. São trinta escolas no total, dez por [[00_VAULT/_wiki/cosmologia/cor_arcana\|cor arcana]].
 
-**Sobrecarga:** Tentar conjurar magia com reserva de [[00_VAULT/_wiki/cosmologia/magi\|magi]] vazia. Resulta em dano severo ou morte.
+**Cor Dominante:** aspecto primário de uma entidade bicolor, que define seu sistema de acesso.
+
+**Sobrecarga:** tentativa de conjurar com a reserva de magi esgotada. O resultado é dano severo ou morte.

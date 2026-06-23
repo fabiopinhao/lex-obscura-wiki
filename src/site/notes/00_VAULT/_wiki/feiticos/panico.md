@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/panico.md","permalink":"/wiki/feiticos/panico/","dg-note-properties":{"tipo":"feitico","nome":"Pânico","escola":"Phobos","escala":"Média","aliases":[],"tags":[],"ordem":145,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/panico.md","permalink":"/wiki/feiticos/panico/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Pânico
 
-**Escola:** [[00_VAULT/_wiki/escolas/phobos\|Phobos]]
-**Escala:** Média
+Pânico é um feitiço de escala média da escola [[00_VAULT/_wiki/escolas/phobos\|Phobos]]. Provoca o colapso do julgamento sob pressão: a mente do alvo não para, funciona errado. Comandantes dão ordens absurdas; soldados largam o escudo para sacar a arma errada.
 
-Colapso do julgamento sob pressão. Diferente de Pavor (que compele à fuga) e Terror (que paralisa): Pânico faz o alvo agir de forma errática e contraproducente. A mente funciona errado, não para. Comandantes dão ordens absurdas; soldados largam escudo para sacar arma errada. Custo: ecos de decisões irracionais, impulsos breves que precisam ser suprimidos conscientemente
+Distingue-se de Pavor, que compele à fuga, e de Terror, que paralisa; Pânico leva o alvo a agir de forma errática e contraproducente. O preço recai sobre o conjurador na forma de ecos de decisões irracionais, impulsos breves que precisam ser suprimidos conscientemente.

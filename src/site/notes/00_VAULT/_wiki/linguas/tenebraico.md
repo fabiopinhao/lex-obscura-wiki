@@ -1,22 +1,19 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/tenebraico.md","permalink":"/wiki/linguas/tenebraico/","dg-note-properties":{"tipo":"lingua","nome":"Tenebraico","tipo_lingua":"Ritual","era":"Primeira Era","cor_racial":"Preto","raca_principal":"Shadars","funcao":"Pactos diabólicos, maldições","fluencia_comum":"Frases rituais (maioria); necromantes estudam","relacao_magica":"Pactum Diaboli","registro_magico":"Sim (exclusivamente ritual)","descendente_de":"—","aliases":[],"tags":[],"ordem":7,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/tenebraico.md","permalink":"/wiki/linguas/tenebraico/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Tenebraico
 
-**Tenebraico**: Latim sombrio. Consoantes oclusivas duras (*k*, *t*, *d*) e fricativas sibilantes (*s*, *sh*, *th*). Vogais curtas e escuras (*o*, *u*), raramente abertas. Ritmo marcial, frases declarativas sem ambiguidade. Cada palavra é sentença; duplo sentido não existe porque contratos não permitem.
+O Tenebraico é uma língua ritual da Primeira Era, associada aos [[00_VAULT/_wiki/racas/shadar\|Shadars]] e voltada para pactos diabólicos e maldições. Por vezes é chamado de "Shadar antigo", denominação enganosa. É um latim sombrio, concebido para contratos e não para conversa: cada palavra é uma sentença, e o duplo sentido não existe porque os contratos não o permitem.
 
-Inspiração sonora: latim eclesiástico com a suavidade removida. Onde o latim da Igreja sobe em oração, o Tenebraico desce em decreto.
+### Som e ritmo
 
-Exemplos canônicos: *Veth-kalar mortem* (toque vampírico); *Khet-amn devoeth* (campo de trevas absolutas). Padrão: raiz verbal + modificador + domínio. Três palavras, sem artigos, sem cortesia.
+Predominam consoantes oclusivas duras (*k*, *t*, *d*) e fricativas sibilantes (*s*, *sh*, *th*), com vogais curtas e escuras (*o*, *u*), raramente abertas. O ritmo é marcial e as frases são declarativas, sem ambiguidade. A inspiração sonora é o latim eclesiástico com a suavidade removida: onde o latim da Igreja sobe em oração, o Tenebraico desce em decreto.
 
-### Perfil Linguístico
+### Estrutura
 
-**Registro:** Formal. Não existe registro informal em Tenebraico; a língua foi concebida para contratos, não para conversa.
+O registro é exclusivamente formal; não existe registro informal, pois a língua foi concebida para contratos. A escrita usa runas angulares de traços retos sem curvas, cada uma representando uma sílaba contratual, e os textos parecem cláusulas jurídicas mesmo quando descrevem fenômenos naturais. A gramática tem ordem fixa, com o verbo precedendo o objeto e o sujeito: o ato vem antes do alvo, que vem antes do agente. Não há conjunções condicionais, e a língua não expressa "se", apenas "quando" e "como".
 
-**Escrita:** Runas angulares, traços retos sem curvas. Cada runa representa uma sílaba contratual. Textos em Tenebraico parecem cláusulas jurídicas mesmo quando descrevem fenômenos naturais.
+### Vocabulário
 
-**Gramática:** Ordem fixa (verbo-objeto-sujeito: o ato precede o alvo que precede o agente). Sem conjunções condicionais: Tenebraico não expressa "se"; apenas "quando" e "como". Contratos diabólicos não admitem hipóteses.
-
-**Vocabulário de campo:** Extenso em termos de poder, dor, obrigação e morte. Pobreza extrema em termos de afeto, natureza ou abstração filosófica. Não existe palavra em Tenebraico para "perdão"; a mais próxima, *dolth-khem*, traduz-se literalmente como "dívida suspensa".
-
-**Uso no Livro I:** Invocações de [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milor]] (escola de [[00_VAULT/_wiki/escolas/umbra\|Umbra]], [[00_VAULT/_wiki/escolas/necro\|Necro]]); liturgias do [[00_VAULT/_wiki/organizacoes/culto_sombrio\|Culto Sombrio]]; [[00_VAULT/_wiki/magia/rito_de_ossarium\|Rito de Ossárium]] mencionado em Tenebraico arcaico.
+O campo lexical é extenso em termos de poder, dor, obrigação e morte, e de pobreza extrema em termos de afeto, natureza ou abstração filosófica. Não existe palavra para "perdão"; a mais próxima, *dolth-khem*, traduz-se literalmente como "dívida suspensa". Entre as fórmulas conhecidas estão *Veth-kalar mortem*, ligada ao toque vampírico, e *Khet-amn devoeth*, ligada a um campo de trevas absolutas. O padrão é raiz verbal seguida de modificador e domínio: três palavras, sem artigos, sem cortesia.

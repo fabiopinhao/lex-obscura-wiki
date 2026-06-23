@@ -1,34 +1,23 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/valdris.md","permalink":"/wiki/locais/valdris/","dg-note-properties":{"tipo":"local","nome":"Valdris","tipo_local":"Cidade-porto (costeira)","regiao":"Costa sul de Reinkard","controlador":"Império Sombrio (conquistado)","status_atual":"Ativo (guarnição imperial)","distancia_morvgrad_leguas":"—","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":45,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/valdris.md","permalink":"/wiki/locais/valdris/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Valdris
+
+Valdris é uma cidade-porto de pedra escura na costa sul de [[00_VAULT/_wiki/locais/reinkard\|Reinkard]], a única saída imperial para o oceano e atualmente a província mais distante do planalto de [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]]. Pedra alisada por eras de rebentação, vive sob o sal e hoje abriga uma guarnição do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|Império Sombrio]].
 
 ### A Cidade
 
-Valdris é uma cidade de pedra escura que passara eras esfregando o rosto contra a rebentação até perder as arestas. Porto sul de [[00_VAULT/_wiki/locais/reinkard\|Reinkard]], única saída imperial para o oceano, e atualmente a província mais distante do planalto de [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]]. O porto acordava antes do sol.
+O sal define Valdris como a sombra define Morvgrad. A brisa do mar deposita uma salmoura constante sobre pele, roupas e telhados, uma crosta cinzenta que ninguém remove. O porto acorda antes do sol, entre gaivotas, cordas estalando nos mastros e o vozerio dos pescadores. Para uma mulher sem marido, a liberdade dos becos do porto valia mais que prata.
 
-Antes da conquista, [[00_VAULT/_wiki/locais/myrgarde\|Myrgarde]] apertava o pescoço de Valdris como uma mão invisível, rachando a cidade entre o sal amargo da resistência e o brilho doce da rendição. Valdris não estava recrutando soldados: estava recolhendo lenha para uma fogueira que [[00_VAULT/_wiki/locais/myrgarde\|Myrgarde]] já havia aceso.
+### A Queda
+
+Antes da conquista, [[00_VAULT/_wiki/locais/myrgarde\|Myrgarde]] apertava o pescoço de Valdris como uma mão invisível, rachando a cidade entre o sal amargo da resistência e o brilho doce da rendição. A divisão corria pelas tavernas: de um lado os que sentiam o gosto da prata de Myrgarde na língua, de outro os que ainda preferiam o sal da cidade; os santos São Lucian e São [[00_VAULT/_wiki/panteao/borjean\|Borjean]] eram invocados pelas duas facções entre goles de vinho ralo. Quando os [[00_VAULT/_wiki/racas/alvarar\|álvarars]] partiram pelo portão de pedra, levaram consigo o brilho do aço e a ilusão de proteção. A fome então transformou a cidade: poços secaram, a água passou a ser medida em goles, e um conde anônimo selou os portões e reteve o pagamento dos soldados.
 
 ### Dravhok e as Ondas
 
-Cerca de cinquenta e sete anos antes do presente narrativo, a segunda grande campanha de Dravhok varreu o cinturão oriental de [[00_VAULT/_wiki/locais/myrgarde\|Myrgarde]], destruiu Dernessal e atingiu a costa. Quando as legiões alcançaram Valdris, o mar respondeu. Ondas de proporção que nenhuma tempestade natural explicava avançaram sobre a cidade e sobre a legião acampada nas proximidades. A água veio sem aviso e sem causa aparente, e carregou consigo soldados, equipamentos e qualquer pretensão de conquista costeira.
+Cerca de cinquenta e sete anos antes do presente, a segunda grande campanha do general Dravhok varreu o cinturão oriental de Myrgarde e atingiu a costa. Quando as legiões alcançaram Valdris, o mar respondeu: ondas de proporção que nenhuma tempestade natural explicava avançaram sobre a cidade e sobre a legião acampada, carregando soldados e equipamentos sem aviso e sem causa aparente. Dravhok ordenou a retirada, a única vez que recuou em toda a sua carreira militar.
 
-Dravhok ordenou a retirada. Foi a única vez que o general recuou em toda sua carreira militar.
+### Terra Natal de Milor
 
-Dravhok chamou todos os seus filhos de volta. Vestiu o couro curtido com a resignação de quem puxa uma rede cheia de pedras. Dessa vez, Valdris não devolveu ninguém. Nem mensageiros, nem feridos.
-
-### O Sal como Identidade
-
-O sal define Valdris como a sombra define [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]]. A brisa do mar deposita uma salmoura constante sobre pele, roupas e almas: crosta cinzenta que ninguém remove porque removê-la seria negar a cidade. O porto era uma sinfonia de atritos: gaivotas disputando vísceras, cordas estalando contra mastros, pescadores gritando para medir força e espantar o sono. A viuvez em Valdris trazia um tipo de paz que ninguém chama de paz, e a liberdade de uma mulher sem marido, em becos daqueles, valia mais que prata de [[00_VAULT/_wiki/locais/myrgarde\|Myrgarde]].
-
-### Terra Natal de [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milor]]
-
-[[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milorsevogh]] nasceu e cresceu em Valdris. O sal já estava nele antes de nascer. Estava em todos. Eram Valdris. A cidade e as pessoas que a habitavam se confundiam na memória de quem cresceu entre pedra escura e rebentação.
-
-### O Trauma Recente
-
-Algo aconteceu em Valdris cerca de quinze anos antes do presente narrativo que transformou soldados em veteranos mudos. [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milorsevogh]] e [[00_VAULT/_wiki/personagens/ravhor\|Ravhor]] estiveram presentes. [[00_VAULT/_wiki/personagens/ravhor\|Ravhor]] carrega cicatriz no pescoço que toca inconscientemente quando o nome de Valdris surge, e o tremor que percorre seu corpo é involuntário, memória física de terror que o corpo não esqueceu.
-
-[[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milor]] pediu a [[00_VAULT/_wiki/personagens/ravhor\|Ravhor]] que lembrasse de Valdris caso a marca de [[00_VAULT/_wiki/escolas/anatho\|Anatho]] em seu pulso despertasse, sugerindo que o local guarda algo, uma pessoa, um recurso ou um segredo, capaz de ajudar se a maldição se ativar.
-
-Os detalhes do evento permanecem não documentados. [[00_VAULT/_wiki/racas/shadar\|Shadars]] designados para a guarnição de Valdris consideram a designação punição pior que rebaixamento. O preço já estava pago em Valdris. O resto era apenas o troco.
+[[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milorsevogh]] nasceu e cresceu em Valdris; conta-se que o sal já estava nele antes de nascer. Cerca de quinze anos antes do presente, algo aconteceu na cidade que transformou soldados em veteranos mudos. Milor e [[00_VAULT/_wiki/personagens/ravhor\|Ravhor]] estiveram presentes, e Ravhor carrega no pescoço uma cicatriz que toca sem perceber quando o nome de Valdris surge. Os detalhes do evento permanecem não documentados. Entre os [[00_VAULT/_wiki/racas/shadar\|shadars]], ser designado para a guarnição de Valdris é tido por punição pior que rebaixamento.

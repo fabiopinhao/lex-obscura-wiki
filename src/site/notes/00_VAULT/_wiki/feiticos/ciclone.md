@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/ciclone.md","permalink":"/wiki/feiticos/ciclone/","dg-note-properties":{"tipo":"feitico","nome":"Ciclone","escola":"Aero","escala":"Maior","aliases":[],"tags":[],"ordem":48,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/ciclone.md","permalink":"/wiki/feiticos/ciclone/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Ciclone
 
-**Escola:** [[00_VAULT/_wiki/escolas/aero\|Aero]]
-**Escala:** Maior
+Ciclone é um feitiço de escala maior da escola do [[00_VAULT/_wiki/escolas/aero\|Aero]]: uma coluna de vento devastadora que arranca telhados, derruba árvores e arremessa criaturas e escombros em espiral ascendente. É localizado, mas de raio amplo. Diferente do Vórtice, horizontal e contido, o Ciclone é vertical, e seu dano vem de cima e dos lados ao mesmo tempo. Onde o Terremoto, da escola do [[00_VAULT/_wiki/escolas/geo\|Geo]], destrói por baixo, o Ciclone destrói por cima.
 
-Coluna de vento devastadora que arranca telhados, derruba árvores, arremessa criaturas e escombros em espiral ascendente. Diferente de Vórtice (localizado e horizontal): Ciclone é vertical, o dano vem de cima e dos lados ao mesmo tempo. Localizado mas com raio amplo. Diferente de Terremoto ([[00_VAULT/_wiki/escolas/geo\|Geo]]), que destrói por baixo: Ciclone destrói por cima. Custo: o conjurador é centro da tempestade, pressão no crânio, sangramento nasal, exaustão proporcional à duração
+### Custo
+
+O conjurador é o centro da própria tempestade: paga com pressão no crânio, sangramento nasal e exaustão proporcional à duração.

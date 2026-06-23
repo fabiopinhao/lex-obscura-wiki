@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/singularidade.md","permalink":"/wiki/feiticos/singularidade/","dg-note-properties":{"tipo":"feitico","nome":"Singularidade","escola":"Cosmo","escala":"Maior","aliases":[],"tags":[],"ordem":228,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/singularidade.md","permalink":"/wiki/feiticos/singularidade/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Singularidade
 
-**Escola:** [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]]
-**Escala:** Maior
+Singularidade é um feitiço da escola do [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]], de escala Maior. Fixa no espaço um ponto de atração gravitacional intensa: tudo dentro de um raio é puxado para o centro, corpos, objetos, projéteis e o próprio ar. O ponto não se move, é o mundo ao redor que se contrai sobre ele.
 
-Ponto de atração gravitacional intensa fixado no espaço. Tudo num raio é puxado para o centro: corpos, objetos, projéteis, ar. O ponto não se move: o mundo ao redor se contrai. Objetos leves voam primeiro; pesados deslizam, depois aceleram. Quem entra no raio interno não sai sem ajuda externa. Indiscriminado. Diferente de Voragem ([[00_VAULT/_wiki/escolas/hydro\|Hydro]]), que puxa por corrente: Singularidade puxa por gravidade, funciona em qualquer meio. Exige concentração total. Custo: o conjurador sente o próprio corpo como ponto de gravidade
+### Efeito
+
+Os objetos leves voam primeiro; os pesados deslizam e depois aceleram. Quem cruza para o raio interno não escapa sem ajuda externa. O efeito é indiscriminado, sem distinguir aliado de inimigo. Isso o separa de Voragem, da escola do [[00_VAULT/_wiki/escolas/hydro\|Hydro]], que puxa por corrente: Singularidade puxa por gravidade e funciona em qualquer meio. Sustentá-lo exige concentração total.
+
+### Custo
+
+O preço é uma distorção da própria percepção: o conjurador sente o próprio corpo como um ponto de gravidade.

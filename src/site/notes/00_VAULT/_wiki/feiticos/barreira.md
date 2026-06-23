@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/barreira.md","permalink":"/wiki/feiticos/barreira/","dg-note-properties":{"tipo":"feitico","nome":"Barreira","escola":"Aegis","escala":"Média","aliases":[],"tags":[],"ordem":214,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/barreira.md","permalink":"/wiki/feiticos/barreira/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Barreira
 
-**Escola:** [[00_VAULT/_wiki/escolas/aegis\|Aegis]]
-**Escala:** Média
+Barreira é um feitiço de escala média da escola [[00_VAULT/_wiki/escolas/aegis\|Aegis]]. Ergue uma parede de força semitransparente que bloqueia um corredor ou protege uma formação. É impenetrável a projéteis e apenas parcialmente permeável a magias de alta potência, e ondula sob impacto como água vertical.
 
-Parede de força semitransparente que bloqueia corredor ou protege formação. Impenetrável a projéteis, parcialmente permeável a magias de alta potência. Ondula sob impacto como água vertical. Diferente de Muralha ([[00_VAULT/_wiki/escolas/geo\|Geo]]), não tem substância: desaparece quando a [[00_VAULT/_wiki/cosmologia/magi\|magi]] cessa. Custo escala com pressão: bombardeio constante instala a certeza de que a proteção nunca é suficiente
+Diferente de Muralha, da escola [[00_VAULT/_wiki/escolas/geo\|Geo]], não tem substância: desaparece assim que a [[00_VAULT/_wiki/cosmologia/magi\|magi]] que a sustenta cessa. O custo escala com a pressão sofrida, e um bombardeio constante instala no conjurador a certeza de que a proteção nunca é suficiente.

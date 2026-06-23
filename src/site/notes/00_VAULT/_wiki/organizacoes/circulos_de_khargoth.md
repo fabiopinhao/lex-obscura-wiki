@@ -1,18 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/circulos_de_khargoth.md","permalink":"/wiki/organizacoes/circulos-de-khargoth/","dg-note-properties":{"tipo":"organizacao","nome":"Círculos de Khargoth","tipo_organizacao":"Academia arcana","cor_afiliacao":"Preto","lider_atual":"Desconhecido","sede":"Morvgrad (Torre de Khargoth)","status_atual":"Ativo","membros_aprox":"~200","funcao_principal":"Sistema hierárquico de conhecimento arcano.","aliases":[],"tags":[],"ordem":14,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/circulos_de_khargoth.md","permalink":"/wiki/organizacoes/circulos-de-khargoth/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Círculos de Khargoth
 
-### Natureza e Função
+Os Círculos de Khargoth são uma academia arcana sediada na Torre de [[00_VAULT/_wiki/locais/khargoth\|Khargoth]], em [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]], com cerca de duzentos membros. Funcionam ao mesmo tempo como universidade e tribunal arcano: nela as escolas de magia são estudadas, debatidas e praticadas sob supervisão, e a própria torre vigia quem a frequenta.
 
-Academia arcana sediada na Torre de [[00_VAULT/_wiki/locais/khargoth\|Khargoth]], em [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]], com cerca de 200 membros. Funciona como universidade e tribunal arcano ao mesmo tempo: nela as escolas de magia são estudadas, debatidas e praticadas sob supervisão — mas a torre também vigia quem a frequenta.
+### Estrutura
 
-### Estrutura e Hierarquia
-
-O sistema de "círculos" organiza o acesso ao conhecimento em níveis: a ascensão se dá por mérito, mas mérito, aqui, é definido por lealdade ao Culto, refletindo a lógica imperial mais ampla. [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milor]] estudou na torre antes de sua unção como [[00_VAULT/_wiki/organizacoes/justiciars\|Justiciar]].
+O sistema de "círculos" organiza o acesso ao conhecimento em níveis sucessivos. A ascensão se dá por mérito, mas mérito, ali, é medido por lealdade ao Culto, espelhando a lógica imperial mais ampla. Entre seus estudantes esteve [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milor]], que passou pela torre antes de sua unção como [[00_VAULT/_wiki/organizacoes/justiciars\|Justiciar]].
 
 ### Proibições
 
-A torre proíbe magias de [[00_VAULT/_wiki/panteao/malagoth\|Malagoth]] dentro de seus muros. (A origem da marca no pulso de [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milor]] não é afirmada aqui: ele próprio a atribui ao aprofundamento em [[00_VAULT/_wiki/escolas/anatho\|Anatho]] e nega ser pactuado — mistério **2.5-02-C**, Ativo.)
-
-📋 Para dados estruturais: `2.8_organizacoes_REF.tsv`.
+A torre proíbe as magias de [[00_VAULT/_wiki/panteao/malagoth\|Malagoth]] dentro de seus muros.

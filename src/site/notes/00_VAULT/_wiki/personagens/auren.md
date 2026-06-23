@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/auren/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/auren.md","permalink":"/wiki/personagens/auren/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Auren

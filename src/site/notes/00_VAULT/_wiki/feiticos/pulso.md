@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/pulso.md","permalink":"/wiki/feiticos/pulso/","dg-note-properties":{"tipo":"feitico","nome":"Pulso","escola":"Cosmo","escala":"Menor","aliases":[],"tags":[],"ordem":221,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/pulso.md","permalink":"/wiki/feiticos/pulso/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Pulso
 
-**Escola:** [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]]
-**Escala:** Menor
+Pulso é um feitiço da escola [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]], de escala menor. Produz uma onda gravitacional breve que empurra ou puxa: objetos deslizam, corpos tropeçam, escudos se deslocam.
 
-Onda gravitacional breve que empurra ou puxa: objetos deslizam, corpos tropeçam, escudos se deslocam. Diferente de Telecinese (controle fino e sustentado): Pulso é força bruta instantânea, imprecisa. Custo: aumento de peso momentâneo nos pés, como se a gravidade cobrasse o recuo
+Diferencia-se da Telecinese, de controle fino e sustentado: o Pulso é força bruta instantânea e imprecisa. O custo é um aumento momentâneo de peso nos pés, como se a gravidade cobrasse o recuo.

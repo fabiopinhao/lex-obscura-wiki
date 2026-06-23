@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/presa.md","permalink":"/wiki/feiticos/presa/","dg-note-properties":{"tipo":"feitico","nome":"Presa","escola":"Belli","escala":"Média","aliases":[],"tags":[],"ordem":204,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/presa.md","permalink":"/wiki/feiticos/presa/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Presa
 
-**Escola:** [[00_VAULT/_wiki/escolas/belli\|Belli]]
-**Escala:** Média
+Presa é um feitiço de escala média da escola [[00_VAULT/_wiki/escolas/belli\|Belli]] que designa um alvo como presa do grupo. Os aliados do conjurador passam a perceber o marcado como ameaça prioritária: os ataques convergem sobre ele, os golpes encontram as frestas, as flechas buscam as juntas da armadura.
 
-Designar alvo como presa do grupo. Aliados percebem o marcado como ameaça prioritária: ataques convergem, golpes encontram frestas, flechas buscam juntas de armadura. Diferente de Marca ([[00_VAULT/_wiki/escolas/anatho\|Anatho]]), que rastreia para maldição: Presa coordena ataque coletivo. O efeito não é telepatia, é instinto de matilha. Custo: o conjurador fixado no alvo perde percepção periférica
+O efeito não é telepatia, e sim um instinto de matilha que coordena o ataque coletivo. Distingue-se de Marca, da escola [[00_VAULT/_wiki/escolas/anatho\|Anatho]], que rastreia o alvo para fins de maldição: Presa serve à convergência do grupo, não ao encalço de um conjurador isolado. O custo recai sobre quem lança o feitiço, que fica fixado no alvo e perde a percepção periférica.

@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/dessecacao.md","permalink":"/wiki/feiticos/dessecacao/","dg-note-properties":{"tipo":"feitico","nome":"Dessecação","escola":"Hydro","escala":"Maior","aliases":[],"tags":[],"ordem":17,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/dessecacao.md","permalink":"/wiki/feiticos/dessecacao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Dessecação
 
-**Escola:** [[00_VAULT/_wiki/escolas/hydro\|Hydro]]
-**Escala:** Maior
+Dessecação é um feitiço maior da escola [[00_VAULT/_wiki/escolas/hydro\|Hydro]]. Extrai a água da matéria viva ou do ambiente: plantas enegrecem, o solo greta, a pele enruga como pergaminho. O alvo sente a boca secar, os olhos arderem e os músculos recusarem o esforço.
 
-Extrair água de matéria viva ou do ambiente: plantas enegrecem, solo greta, pele enruga como pergaminho. O alvo sente boca secar, olhos arderem, músculos recusarem contrair. Diferente de Sifão ([[00_VAULT/_wiki/escolas/necro\|Necro]]), que drena força vital: Dessecação drena água, a substância física, não a essência. Onde [[00_VAULT/_wiki/escolas/vita\|Vita]] nutre, Dessecação rouba. Custo: desidratação severa, pele do conjurador racha e descama
+### Distinção
+
+Diferente do Sifão, da escola [[00_VAULT/_wiki/escolas/necro\|Necro]], que drena a força vital, Dessecação rouba a água como substância física, não a essência. Onde [[00_VAULT/_wiki/escolas/vita\|Vita]] nutre, Dessecação subtrai.
+
+### Custo
+
+Provoca desidratação severa no conjurador, cuja pele racha e descama.

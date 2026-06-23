@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/dilaceracao.md","permalink":"/wiki/feiticos/dilaceracao/","dg-note-properties":{"tipo":"feitico","nome":"Dilaceração","escola":"Cosmo","escala":"Maior","aliases":[],"tags":[],"ordem":227,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/dilaceracao.md","permalink":"/wiki/feiticos/dilaceracao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Dilaceração
 
-**Escola:** [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]]
-**Escala:** Maior
+A Dilaceração é um feitiço da escola do [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]], de escala Maior, que aplica forças gravitacionais opostas sobre o mesmo alvo ao mesmo tempo. O corpo é puxado em direções contrárias: os membros se afastam do tronco, as articulações se separam e a matéria se desfaz em fragmentos que se distanciam sem explosão e sem calor. É um efeito silencioso, cirúrgico sobre objetos, em que uma armadura se desmonta peça por peça, e catastrófico sobre corpos vivos.
 
-Forças gravitacionais opostas aplicadas simultaneamente no mesmo alvo. O corpo é puxado em direções contrárias: membros se afastam do tronco, articulações separam, matéria se desfaz em fragmentos que se afastam sem explosão, sem calor. Silencioso. Cirúrgico em objetos (armaduras se desmontam peça por peça) e catastrófico em corpos vivos. Diferente de Obliteração ([[00_VAULT/_wiki/escolas/rupto\|Rupto]]), que nega coesão: Dilaceração a excede; matéria intacta, apenas no lugar errado. Custo: o conjurador sente o próprio corpo como peças mal encaixadas
+### Distinção e custo
+
+Difere da Obliteração ([[00_VAULT/_wiki/escolas/rupto\|Rupto]]), que nega a coesão da matéria. A Dilaceração a excede: a matéria permanece intacta, apenas deslocada para o lugar errado. O custo recai sobre o conjurador, que passa a sentir o próprio corpo como peças mal encaixadas.

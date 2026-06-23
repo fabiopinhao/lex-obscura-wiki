@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/elevacao.md","permalink":"/wiki/feiticos/elevacao/","dg-note-properties":{"tipo":"feitico","nome":"Elevação","escola":"Urano","escala":"Média","aliases":[],"tags":[],"ordem":234,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/elevacao.md","permalink":"/wiki/feiticos/elevacao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Elevação
 
-**Escola:** [[00_VAULT/_wiki/escolas/urano\|Urano]]
-**Escala:** Média
+A Elevação é um feitiço da escola do [[00_VAULT/_wiki/escolas/urano\|Urano]], de escala Média, pelo qual o conjurador se ergue do solo sem impulso e sem vento. Os pés deixam a superfície e o corpo flutua, de um palmo a poucos metros. O movimento é apenas vertical: subir e descer.
 
-O conjurador se ergue do solo sem impulso, sem vento. Pés deixam a superfície e o corpo flutua: um palmo, poucos metros. Apenas vertical: subir e descer. Diferente de Pluma (impulso com pouso suave) e Voo (deslocamento pleno): Elevação é contemplação suspensa. O corpo não sente leveza ([[00_VAULT/_wiki/escolas/cosmo\|Cosmo]]/Abrandamento); sente irrelevância: o chão deixa de importar. Custo: desapego sutil, assuntos terrenos parecem distantes
+### Natureza e custo
+
+Difere da Pluma, que dá impulso com pouso suave, e do Voo, que permite deslocamento pleno: a Elevação é contemplação suspensa. O corpo não sente a leveza do Abrandamento, da escola do [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]], mas irrelevância, como se o chão deixasse de importar. O custo é um desapego sutil, em que os assuntos terrenos parecem distantes.

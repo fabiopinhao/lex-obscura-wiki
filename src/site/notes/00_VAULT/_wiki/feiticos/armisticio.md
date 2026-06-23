@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/armisticio.md","permalink":"/wiki/feiticos/armisticio/","dg-note-properties":{"tipo":"feitico","nome":"Armistício","escola":"Urano","escala":"Maior","aliases":[],"tags":[],"ordem":239,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/armisticio.md","permalink":"/wiki/feiticos/armisticio/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Armistício
 
-**Escola:** [[00_VAULT/_wiki/escolas/urano\|Urano]]
-**Escala:** Maior
+Armistício é um feitiço de escala maior da escola do [[00_VAULT/_wiki/escolas/urano\|Urano]]. O conjurador declara uma zona de paz e o espaço obedece: a violência se torna impossível, mãos perdem força a meio golpe, armas erram, magias ofensivas se dissipam. Não distingue agressor de defensor, pois toda violência é proibida, inclusive a defensiva.
 
-O conjurador declara zona de paz e o espaço obedece. Violência se torna impossível: mãos perdem força a meio golpe, armas erram, magias ofensivas se dissipam. Não distingue agressor de defensor: toda violência é proibida, inclusive defensiva. Diferente de Édito ([[00_VAULT/_wiki/escolas/nomos\|Nomos]]), que impõe regra por lei arcana: Armistício impõe paz por elevação. [[00_VAULT/_wiki/escolas/nomos\|Nomos]] castiga quem viola; [[00_VAULT/_wiki/escolas/urano\|Urano]] remove a capacidade de violar. Funciona melhor sob céu aberto e em locais sagrados. Custo: cada golpe impedido pesa como exaustão espiritual
+Distingue-se do Édito, feitiço do [[00_VAULT/_wiki/escolas/nomos\|Nomos]] que impõe regra por lei arcana. Onde o Nomos castiga quem viola, o Urano remove a própria capacidade de violar, impondo a paz por elevação. Funciona melhor sob céu aberto e em locais sagrados. Seu custo é a exaustão espiritual, e cada golpe impedido pesa sobre o conjurador.

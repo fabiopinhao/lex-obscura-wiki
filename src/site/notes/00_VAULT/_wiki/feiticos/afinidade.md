@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/afinidade.md","permalink":"/wiki/feiticos/afinidade/","dg-note-properties":{"tipo":"feitico","nome":"Afinidade","escola":"Vita","escala":"Menor","aliases":[],"tags":[],"ordem":93,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/afinidade.md","permalink":"/wiki/feiticos/afinidade/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Afinidade
 
-**Escola:** [[00_VAULT/_wiki/escolas/vita\|Vita]]
-**Escala:** Menor
+Afinidade é um feitiço menor da escola [[00_VAULT/_wiki/escolas/vita\|Vita]]. Permite sentir a presença de seres vivos próximos e estabelecer comunicação rudimentar com fauna e flora: animais transmitem impressões, e plantas revelam o que tocou suas raízes.
 
-Sentir a presença de seres vivos próximos e comunicar-se com fauna e flora de forma rudimentar: animais transmitem impressões, plantas revelam o que tocou suas raízes. Diferente de Vigília ([[00_VAULT/_wiki/escolas/gnosi\|Gnosi]]), que detecta presenças por conhecimento arcano: Afinidade sente vida como frequência, não mente. Custo: hipersensibilidade à dor alheia
+### Princípio
+
+Diferente da Vigília, da escola [[00_VAULT/_wiki/escolas/gnosi\|Gnosi]], que detecta presenças por conhecimento arcano, a Afinidade sente a vida como frequência, não como mente.
+
+### Custo
+
+O preço do feitiço é a hipersensibilidade à dor alheia: quem sente a vida ao redor sente também o que ela sofre.

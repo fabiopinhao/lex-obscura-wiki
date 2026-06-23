@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/nausea.md","permalink":"/wiki/feiticos/nausea/","dg-note-properties":{"tipo":"feitico","nome":"Náusea","escola":"Patho","escala":"Menor","aliases":[],"tags":[],"ordem":101,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/nausea.md","permalink":"/wiki/feiticos/nausea/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Náusea
 
-**Escola:** [[00_VAULT/_wiki/escolas/patho\|Patho]]
-**Escala:** Menor
+Náusea é um feitiço menor da escola [[00_VAULT/_wiki/escolas/patho\|Patho]]. Consiste numa emanação pútrida que induz mal-estar, tontura e vômito: o alvo não adoece, apenas sente o próprio corpo rejeitar a si mesmo. Distingue-se de Desconforto, da escola [[00_VAULT/_wiki/escolas/anatho\|Anatho]], que irrita sem incapacitar, ao passo que a Náusea chega a derrubar o alvo.
 
-Emanação pútrida que induz mal-estar, tontura e vômito. O alvo não adoece, apenas sente o corpo rejeitar a si mesmo. Diferente de Desconforto ([[00_VAULT/_wiki/escolas/anatho\|Anatho]]), que irrita sem incapacitar: Náusea derruba. Custo: eco de mal-estar no estômago do conjurador
+### Custo
+
+O conjurador sofre um eco de mal-estar no próprio estômago.

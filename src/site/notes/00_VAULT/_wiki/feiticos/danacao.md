@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/danacao.md","permalink":"/wiki/feiticos/danacao/","dg-note-properties":{"tipo":"feitico","nome":"Danação","escola":"Anatho","escala":"Maior","aliases":[],"tags":[],"ordem":169,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/danacao.md","permalink":"/wiki/feiticos/danacao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Danação
 
-**Escola:** [[00_VAULT/_wiki/escolas/anatho\|Anatho]]
-**Escala:** Maior
+Danação é um feitiço de escala maior da escola [[00_VAULT/_wiki/escolas/anatho\|Anatho]]. É uma maldição que transcende corpo e tempo, marcando a alma, a linhagem ou o nome. Pode impedir a ressurreição, contaminar descendentes e transformar um legado em vergonha. Atinge o conceito da pessoa, e por isso o alvo pode estar vivo, morto ou ainda por nascer. Sua reversão exige um feitiço de [[00_VAULT/_wiki/escolas/sacro\|Sacro]] equivalente ou superior.
 
-Maldição que transcende corpo e tempo, marcando alma, linhagem ou nome. Pode impedir ressurreição, contaminar descendentes, transformar legado em vergonha. Diferente de Flagelo (que parasita o corpo de um alvo vivo): Danação atinge o conceito da pessoa, e o alvo pode estar vivo, morto, ou ainda por nascer. Reversão exige [[00_VAULT/_wiki/escolas/sacro\|Sacro]] equivalente ou superior. Custo: erosão do legado próprio, memórias de ancestrais se apagando como se a maldição cobrasse em espécie
+O feitiço se distingue de Flagelo, que parasita o corpo de um alvo vivo. O preço recai sobre quem conjura: a erosão do próprio legado, com memórias de ancestrais se apagando como se a maldição cobrasse em espécie.

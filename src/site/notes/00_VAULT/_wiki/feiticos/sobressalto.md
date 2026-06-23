@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/sobressalto.md","permalink":"/wiki/feiticos/sobressalto/","dg-note-properties":{"tipo":"feitico","nome":"Sobressalto","escola":"Phobos","escala":"Menor","aliases":[],"tags":[],"ordem":143,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sobressalto.md","permalink":"/wiki/feiticos/sobressalto/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Sobressalto
 
-**Escola:** [[00_VAULT/_wiki/escolas/phobos\|Phobos]]
-**Escala:** Menor
+Sobressalto é um feitiço menor da escola de [[00_VAULT/_wiki/escolas/phobos\|Phobos]] que despeja alarme puro no sistema nervoso do alvo. A vítima salta, abafa um grito, leva a mão à arma, sente o coração disparar: uma reação fisiológica genuína sem ameaça real para sustentá-la.
 
-Descarga de alarme puro no sistema nervoso: salto, grito abafado, mão na arma, coração disparado. Reação fisiológica genuína sem ameaça real. Diferente de Vertigem ([[00_VAULT/_wiki/escolas/psycho\|Psycho]]), que desorientação: Sobressalto é pânico instantâneo. Usado para quebrar furtividade ou como distração tática. Custo: sobressalto reflexo no conjurador
+É pânico instantâneo, e nisso difere de Vertigem, da escola de [[00_VAULT/_wiki/escolas/psycho\|Psycho]], que produz desorientação. Na prática, serve para quebrar a furtividade de um inimigo ou para criar distração tática no momento exato.
+
+### Custo
+
+O conjurador sofre um sobressalto reflexo próprio ao lançar o feitiço.

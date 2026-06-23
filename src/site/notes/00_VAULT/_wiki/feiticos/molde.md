@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/molde.md","permalink":"/wiki/feiticos/molde/","dg-note-properties":{"tipo":"feitico","nome":"Molde","escola":"Geo","escala":"Menor","aliases":[],"tags":[],"ordem":52,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/molde.md","permalink":"/wiki/feiticos/molde/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Molde
 
-**Escola:** [[00_VAULT/_wiki/escolas/geo\|Geo]]
-**Escala:** Menor
+Molde é um feitiço de escala menor da escola [[00_VAULT/_wiki/escolas/geo\|Geo]]. Manipula terra solta, argila, areia ou lama: escava, desloca e esculpe formas simples. Concede controle sobre onde a matéria está, não sobre o que ela é.
 
-Manipular terra solta, argila, areia ou lama: escavar, deslocar, esculpir formas simples. Diferente de Coágulo ([[00_VAULT/_wiki/escolas/umbra\|Umbra]]), que solidifica sombra: Molde trabalha matéria real. Controle sobre *onde* a terra está, não *o que* ela é. Custo: peso aumentado nas mãos, músculos enrijecidos
+Distingue-se de Coágulo, da escola [[00_VAULT/_wiki/escolas/umbra\|Umbra]], que solidifica sombra; Molde trabalha matéria real. O preço recai sobre o conjurador na forma de peso aumentado nas mãos e músculos enrijecidos.

@@ -1,18 +1,19 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/titanico.md","permalink":"/wiki/linguas/titanico/","dg-note-properties":{"tipo":"lingua","nome":"Titânico","tipo_lingua":"Primordial","era":"Idade Esquecida","cor_racial":"Verde","raca_principal":"Titãs","funcao":"Língua primordial dos titãs","fluencia_comum":"Extinta","relacao_magica":"Symbiosis Naturae","registro_magico":"Unificado","descendente_de":"—","aliases":[],"tags":[],"ordem":3,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/titanico.md","permalink":"/wiki/linguas/titanico/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Titânico
 
-**Titânico**: Sons orgânicos: vibrantes rascantes (*rr*), fricativas labiais suaves (*f*, *v*, *w*), nasais ressonantes (*m*, *n*, *ng*). Incorpora pausas significativas: silêncios que fazem parte da gramática, como espaços entre raízes. Ritmo lento, deliberado, com ênfase na última sílaba de cada frase (como se a terra respondesse com um eco).
+O Titânico é a língua primordial dos [[00_VAULT/_wiki/cosmologia/titas\|titãs]], hoje extinta como idioma vivo. Sobrevive como o nome acadêmico do registro mágico de duas línguas suas descendentes, o [[00_VAULT/_wiki/linguas/sylvaen\|Sylvaen]] e os [[00_VAULT/_wiki/linguas/dialetos_gerut\|Dialetos Gerut]]. Seu som é orgânico, feito de vibrantes rascantes, fricativas labiais suaves e nasais ressonantes, e incorpora pausas significativas: silêncios que fazem parte da gramática, como espaços entre raízes.
 
-Sensação auditiva: finlandês com cadência galesa. Palavras que parecem crescer do chão. Quem ouve fragmentos de Titânico reconstruídos por druidas relata não tanto um som quanto uma pressão: a sensação de que algo imenso se acomodou por perto.
+### Som e percepção
 
-### Perfil Linguístico
+O ritmo é lento e deliberado, com ênfase na última sílaba de cada frase, como se a terra respondesse com um eco. A sensação auditiva é a de uma língua de vogais longas e cadência cantada, palavras que parecem crescer do chão. Quem ouve fragmentos de Titânico reconstruídos por druidas relata menos um som que uma pressão, a impressão de que algo imenso se acomodou por perto.
 
-**Registro:** Unificado enquanto língua viva. Como primordial extinta, sobrevive apenas como nome acadêmico para o registro mágico de [[00_VAULT/_wiki/linguas/sylvaen\|Sylvaen]] e [[00_VAULT/_wiki/linguas/dialetos_gerut\|Dialetos Gerut]]. Nesse uso derivado, distinguem-se dois modos: canalização (formal, ritualístico) e comunhão (informal, meditativo). Druidas alternam entre os dois conforme a necessidade: canalizar poder dos [[00_VAULT/_wiki/cosmologia/titas\|titãs]] primordiais exige o primeiro; sentir a saúde de uma árvore usa o segundo.
+### Registro e gramática
 
-**Escrita:** Não possui sistema formal. O Titânico, vivo ou derivado, é inscrito na natureza: raízes que crescem em padrões significativos, formações rochosas que "dizem" algo a quem sabe ler. [[00_VAULT/_wiki/personagens/calel\|Calel]], o cartógrafo [[00_VAULT/_wiki/racas/sylvano\|sylvano]], mapeia o que são efetivamente "textos" naturais em registro titânico sem perceber que está fazendo linguística.
+Como língua viva, o Titânico tinha registro unificado. No uso derivado que sobrevive nos idiomas descendentes, distinguem-se dois modos: a canalização, formal e ritualística, e a comunhão, informal e meditativa. Druidas alternam entre eles conforme a necessidade, pois canalizar o poder dos titãs primordiais exige o primeiro modo, enquanto sentir a saúde de uma árvore pede o segundo. A gramática é baseada em estados, não em ações: onde o [[00_VAULT/_wiki/linguas/tenebraico\|Tenebraico]] diz "destrua" e o [[00_VAULT/_wiki/linguas/orcanico\|Orcânico]] ordena "queime", o registro titânico descreve "que esteja destruído" ou "queimando". A diferença é ontológica, pois o Titânico descreve realidades que deseja existentes, enquanto as demais línguas rituais ordenam ações que querem executadas.
 
-**Gramática:** Baseada em estados, não em ações. Onde o [[00_VAULT/_wiki/linguas/tenebraico\|Tenebraico]] diz "destrua", o registro titânico diz "que esteja destruído". Onde o [[00_VAULT/_wiki/linguas/orcanico\|Orcânico]] ordena "queime", o registro titânico descreve "queimando". A diferença é ontológica: o Titânico descreve realidades que deseja que existam; as demais línguas rituais ordenam ações que querem executadas.
+### Escrita e uso
 
-**Uso no Livro I:** Invocações de [[00_VAULT/_wiki/personagens/gaelwyn\|Gaelwyn]] e [[00_VAULT/_wiki/personagens/peredur\|Peredur]] em [[00_VAULT/_wiki/locais/thal_serin\|Thal'Serin]]; presença titânica percebida como ressonância (vibração, não fala).
+O idioma não possui sistema formal de escrita. Vivo ou derivado, é inscrito na própria natureza: raízes que crescem em padrões significativos, formações rochosas que dizem algo a quem sabe lê-las. O cartógrafo sylvano [[00_VAULT/_wiki/personagens/calel\|Calel]] mapeia esses textos naturais em registro titânico sem perceber que faz linguística. O Titânico comparece nas invocações de [[00_VAULT/_wiki/personagens/gaelwyn\|Gaelwyn]] e [[00_VAULT/_wiki/personagens/peredur\|Peredur]] em [[00_VAULT/_wiki/locais/thal_serin\|Thal'Serin]], percebido menos como fala que como ressonância, uma vibração no ar.

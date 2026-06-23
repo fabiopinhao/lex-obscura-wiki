@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/necrose.md","permalink":"/wiki/feiticos/necrose/","dg-note-properties":{"tipo":"feitico","nome":"Necrose","escola":"Patho","escala":"Maior","aliases":[],"tags":[],"ordem":107,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/necrose.md","permalink":"/wiki/feiticos/necrose/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Necrose
 
-**Escola:** [[00_VAULT/_wiki/escolas/patho\|Patho]]
-**Escala:** Maior
+A Necrose é um feitiço da escola [[00_VAULT/_wiki/escolas/patho\|Patho]], de escala Maior. Apodrece tecido vivo enquanto o corpo ainda funciona: uma gangrena localizada que avança da periferia ao centro, a carne escurecendo e morrendo em ondas.
 
-Apodrecer tecido vivo enquanto o corpo ainda funciona: gangrena localizada que avança da periferia ao centro, carne escurecendo e morrendo em ondas. Diferente de Necrotoxina ([[00_VAULT/_wiki/escolas/toxo\|Toxo]]), que corrói de fora como ácido: Necrose apodrece de dentro, o próprio organismo produzindo a decomposição. Diferente de Ceifar ([[00_VAULT/_wiki/escolas/necro\|Necro]]), que drena vida em área: Necrose é cirúrgica e progressiva. Custo: pontos de carne própria que escurecem e doem, mapeando o dano imposto
+### Funcionamento
+
+Distingue-se da [[00_VAULT/_wiki/feiticos/necrotoxina\|Necrotoxina]], da escola [[00_VAULT/_wiki/escolas/toxo\|Toxo]], que corrói de fora como ácido: a Necrose apodrece de dentro, com o próprio organismo produzindo a decomposição. Também difere de [[00_VAULT/_wiki/feiticos/ceifar\|Ceifar]], da escola [[00_VAULT/_wiki/escolas/necro\|Necro]], que drena vida em área; a Necrose é cirúrgica e progressiva.
+
+### Custo
+
+Surgem no conjurador pontos da própria carne que escurecem e doem, mapeando o dano imposto.

@@ -1,20 +1,23 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/fing.md","permalink":"/wiki/personagens/fing/","dg-note-properties":{"tipo":"personagem","nome_atual":"Fing","raca":"Kobold (sauriano)","sexo":"M","relevancia":"Secundário","status_atual":"Vivo","localizacao_atual":"Mor'Severith","armas_principais":"—","afiliacao_primaria":"Servo de Arothistar","aliases":[],"ordem":26,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/fing.md","permalink":"/wiki/personagens/fing/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Fing
 
-### Perfil
+Fing é um [[00_VAULT/_wiki/racas/kobold\|kobold]], servo de [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] em [[00_VAULT/_wiki/locais/mor_severith\|Mor'Severith]]. De olhos amarelos, vive confinado na torre do monarca, mutilado e devotado por inteiro ao serviço do mestre.
 
-[[00_VAULT/_wiki/racas/kobold\|Kobold]]. Servo de [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] em [[00_VAULT/_wiki/locais/mor_severith\|Mor'Severith]]. Olhos amarelos. Cauda decepada por [[00_VAULT/_wiki/personagens/thrax\|Thrax]] (seção 13.7). Afiliação: servo de [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]]. Localização: [[00_VAULT/_wiki/locais/mor_severith\|Mor'Severith]]. Status: vivo, mutilado, confinado.
+### Aparência
 
-### Papel Narrativo
+Kobold pequeno, de escamas que sentem o frio dos corredores da torre e olhos amarelos sempre atentos ao mestre. A cauda, que outrora usava para o equilíbrio e chicoteava o chão na pressa de servir, foi-lhe decepada; o coto roubou-lhe o aprumo dos movimentos.
 
-Devoto absoluto do "mestre": encontra conforto e propósito na servidão. Prepara banhos, busca livros, antecipa pedidos. Recebe raros elogios de [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] ("Fing, você é uma coisa"). Sofre trauma de identidade após mutilação: o elogio que o sustentava agora ressoa como verdade cruel: coisas quebram, sangram, são descartadas. Observa as conversas do mestre com os "papais" ([[00_VAULT/_wiki/cosmologia/diabos\|diabos]]) sem compreender. Interpreta [[00_VAULT/_wiki/cosmologia/noctiluz\|noctiluz]] como manifestação divina: rosa = bronca, azul cerúleo = choro divino, rasgo em forma de olho = deuses olhando para alguém.
+### Devoção
 
-### Relações-Chave
+Fing encontra na servidão conforto e propósito. Prepara banhos, busca livros e antecipa os pedidos do mestre antes que sejam ditos. Os raros elogios que recebe vêm em termos que o reduzem a objeto e, após a mutilação, esse reconhecimento que antes o sustentava passa a ressoar como verdade cruel: coisas quebram, sangram e são descartadas.
 
-**[[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] (mestre / absoluto):** A devoção total como única identidade. O elogio "você é uma coisa" que era glória e agora é ferida.
+### Cosmologia pessoal
 
-**[[00_VAULT/_wiki/personagens/thrax\|Thrax]] (mutilador):** Decepou a cauda num golpe reflexo. [[00_VAULT/_wiki/personagens/thrax\|Thrax]] mantém o pedaço como troféu.
+Fing lê o céu como linguagem divina. Interpreta o [[00_VAULT/_wiki/cosmologia/noctiluz\|noctiluz]] como manifestação dos deuses: o tom rosado é repreensão, o azul cerúleo é pranto divino, e um rasgo em forma de olho é sinal de que os deuses observam alguém.
 
-**[[00_VAULT/_wiki/personagens/quaz_har\|Quaz'har]] (inveja mútua):** Inveja e desprezo recíprocos entre os dois servos.
+### Relações
+
+Foi [[00_VAULT/_wiki/personagens/thrax\|Thrax]] quem lhe decepou a cauda, num golpe que custou a Fing o equilíbrio e o pedaço, guardado como troféu pelo agressor. Com [[00_VAULT/_wiki/personagens/quaz_har\|Quaz'har]], outro servo, troca inveja e desprezo recíprocos.

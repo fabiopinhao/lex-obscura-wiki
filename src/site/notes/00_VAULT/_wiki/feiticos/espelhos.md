@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/espelhos.md","permalink":"/wiki/feiticos/espelhos/","dg-note-properties":{"tipo":"feitico","nome":"Espelhos","escola":"Spectro","escala":"Média","aliases":[],"tags":[],"ordem":265,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/espelhos.md","permalink":"/wiki/feiticos/espelhos/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Espelhos
 
-**Escola:** [[00_VAULT/_wiki/escolas/spectro\|Spectro]]
-**Escala:** Média
+Espelhos é um feitiço da escola [[00_VAULT/_wiki/escolas/spectro\|Spectro]], de escala Média, que cerca o conjurador de múltiplas cópias ilusórias de si mesmo. Cada cópia replica o movimento do original, projeta sombra e emite som, mas não pesa no chão nem sangra ao ser golpeada. Um golpe que acerta uma cópia a desfaz em fragmentos de luz.
 
-Múltiplas cópias ilusórias do conjurador surgem ao redor, replicando movimento. Cada cópia projeta sombra e emite som, mas não pesa no chão nem sangra ao ser golpeada. Diferente de Eidolon ([[00_VAULT/_wiki/escolas/umbra\|Umbra]]), que é extensão real do conjurador: Espelhos são imagens descartáveis. Golpe que acerta uma cópia a desfaz em fragmentos de luz. Custo: desorientação sobre qual reflexo é o real, dúvida ontológica breve
+Difere do Eidolon, da escola [[00_VAULT/_wiki/escolas/umbra\|Umbra]], que é uma extensão real do conjurador: os Espelhos são imagens descartáveis.
+
+### Custo
+
+O conjurador experimenta desorientação sobre qual reflexo é o real, uma breve dúvida ontológica sobre a própria posição.

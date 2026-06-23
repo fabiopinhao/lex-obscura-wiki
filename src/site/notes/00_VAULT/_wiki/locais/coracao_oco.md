@@ -1,10 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/coracao_oco.md","permalink":"/wiki/locais/coracao-oco/","dg-note-properties":{"tipo":"local","nome":"Coração Oco","tipo_local":"Masmorras (área interna)","regiao":"Ghol'Drokh (profundezas)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Ghol'Drokh","populacao_aprox":"<50","aliases":[],"tags":[],"ordem":16,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/coracao_oco.md","permalink":"/wiki/locais/coracao-oco/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Coração Oco
+
+O Coração Oco é uma área de masmorras nas profundezas de [[00_VAULT/_wiki/locais/ghol_drokh\|Ghol'Drokh]], sob controle do Império Sombrio, dentro de [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]]. Funciona como cárcere e local de interrogatório, e é conhecido pela acústica que deforma todo som que o atravessa.
 
 ### Acústica
-Área profunda de [[00_VAULT/_wiki/locais/ghol_drokh\|Ghol'Drokh]]. Acústica distorcida: palavras e passos retornam atrasados e tortos. "Um sussurro ganha presas e volta para morder."
+
+Palavras e passos não retornam como foram emitidos: voltam atrasados e tortos, distorcidos pela geometria da câmara. Diz-se ali que um sussurro ganha presas e volta para morder.
 
 ### Celas gêmeas
-Celas gêmeas onde estão presos o [[00_VAULT/_wiki/personagens/coveiro-mor\|Coveiro-mor]] e [[00_VAULT/_wiki/personagens/maraxus\|Maraxus]]. [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milor]] trabalha aqui como carrasco ("[[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Tenente Velshard]]").
+
+Duas celas gêmeas guardam, cada uma, um prisioneiro: o [[00_VAULT/_wiki/personagens/coveiro-mor\|Coveiro-mor]] e [[00_VAULT/_wiki/personagens/maraxus\|Maraxus]]. É neste lugar que [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] atua como interrogador e carrasco, sob o tratamento de Tenente Velshard.

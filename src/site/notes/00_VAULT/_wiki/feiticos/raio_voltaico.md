@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/raio_voltaico.md","permalink":"/wiki/feiticos/raio-voltaico/","dg-note-properties":{"tipo":"feitico","nome":"Raio Voltaico","escola":"Electro","escala":"Maior","aliases":[],"tags":[],"ordem":247,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/raio_voltaico.md","permalink":"/wiki/feiticos/raio-voltaico/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Raio Voltaico
 
-**Escola:** [[00_VAULT/_wiki/escolas/electro\|Electro]]
-**Escala:** Maior
+Raio Voltaico é um feitiço de escala Maior da escola [[00_VAULT/_wiki/escolas/electro\|Electro]]. A descarga salta em cadeia entre alvos condutores, e cada salto aplica um espasmo muscular severo. A energia busca o caminho de menor resistência, atingindo preferencialmente alvos em armadura metálica, molhados ou próximos uns dos outros, e perde potência a cada salto.
 
-Descarga que salta entre alvos condutores em cadeia, cada salto aplicando espasmo muscular severo. Diferente de Relâmpago (alvo único): Raio Voltaico é múltiplo, busca caminho de menor resistência. Alvos em armadura metálica, molhados ou próximos são atingidos preferencialmente. Perde potência a cada salto. Custo: dormência no braço que projetou, espasmos involuntários proporcionais ao número de saltos
+Distingue-se do Relâmpago, de alvo único: o Raio Voltaico é múltiplo.
+
+### Custo
+
+O braço que projeta a descarga fica dormente, e os espasmos involuntários que tomam o conjurador são proporcionais ao número de saltos.

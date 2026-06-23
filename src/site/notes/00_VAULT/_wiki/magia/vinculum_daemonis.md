@@ -1,59 +1,23 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/vinculum_daemonis.md","permalink":"/wiki/magia/vinculum-daemonis/","dg-note-properties":{"tipo":"sistema_acesso","nome":"Vinculum Daemonis","cor":"Vermelho (R)","nome_latino":"Vinculum Daemonis","entidade":"Demônios","tipo_acesso":"Vínculo de Força","dificuldade":"Baixa","estabilidade":"Baixa","custo_principal":"Violência constante, atos destrutivos","custo_recai_sobre":["corpo","terceiros"],"pode_trair":"Sim","posicao_doutrinaria_imperial":"proscrito","termo_canalizacao":"Infusão","aliases":[],"ordem":2,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/vinculum_daemonis.md","permalink":"/wiki/magia/vinculum-daemonis/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Vinculum Daemonis
 
-### Natureza
+O Vinculum Daemonis é um dos sistemas de acesso à magia, um vínculo de força firmado com [[00_VAULT/_wiki/cosmologia/demonios\|demônios]] em troca de poder bruto, e proscrito pela doutrina imperial. Onde outros sistemas dependem de contrato ou hierarquia, este dispensa burocracia: os demônios são caos puro, violência e destruição sem lei, e não respeitam contratos, apenas força. O acesso é imediato, e o preço é a instabilidade.
 
-[[00_VAULT/_wiki/cosmologia/demonios\|Demônios]] são caos puro, violência e destruição sem lei. Não respeitam contratos - apenas força.
+### Canalização
 
-### Canalização — Infusão
+A transferência de [[00_VAULT/_wiki/cosmologia/magi\|magi]] no Vinculum Daemonis é visceral e invasiva. O demônio despeja poder bruto sem mediação contratual, num processo chamado Infusão, amplificando os sentimentos-chave das escolas com intensidade caprichosa. A Infusão pode flutuar pela vontade do demônio, que amplifica por diversão ou sabota por tédio. O vínculo é inerentemente instável: o praticante recebe mais poder, mas com menos controle sobre a dosagem.
 
-A transferência de [[00_VAULT/_wiki/cosmologia/magi\|magi]] no Vinculum Daemonis é visceral e invasiva. O demônio despeja poder bruto sem mediação contratual, amplificando os sentimentos-chave das escolas com intensidade caprichosa. A Infusão pode flutuar por vontade do demônio — amplificar por diversão, sabotar por tédio. O vínculo é inerentemente instável: o praticante recebe mais poder mas com menos controle sobre a dosagem emocional.
+### O Vínculo
 
-Para a mecânica de [[00_VAULT/_wiki/cosmologia/magi\|Magi]] — reserva, recuperação e sobrecarga —, ver [[00_VAULT/_wiki/magia/sistema_de_combustivel_magico\|Sistema de Combustível Mágico]]; para os estágios da transformação ontológica, [[00_VAULT/_wiki/magia/progressao_ontologica\|Progressão Ontológica]].
+O vínculo não se firma por convocação, mas por atração. A invocação dispensa círculo de contenção, que os demônios ignoram, e exige um ato de violência extrema como portal, com o conjurador em estado de fúria ou desespero; o demônio é atraído pelo caos. Segue-se uma provação física, em que o demônio testa o conjurador por combate ou tortura: sobreviver forma o vínculo, sucumbir entrega a alma. O selamento se dá por troca de sangue, e uma marca caótica aparece no corpo, queimadura, cicatriz irregular ou chifres brotando. O vínculo é empático, e o conjurador passa a sentir a fome destrutiva do demônio.
 
-### Processo de Vínculo
+### Obrigações e Custos
 
-1. **Invocação Sangrenta:**
-   - NÃO usa círculo de contenção ([[00_VAULT/_wiki/cosmologia/demonios\|demônios]] ignoram)
-   - Requer ato de violência extrema como portal (massacre, autoflagelação brutal)
-   - Conjurador deve estar em estado de fúria/desespero
-   - Demônio é atraído pelo caos, não convocado
+Não há termos fixos. O demônio muda as exigências por capricho, mas elas gravitam sempre em torno da destruição: queimar algo valioso, nunca passar um mês sem praticar violência, alimentar o caos com conflito e tumulto. O praticante pode crescer em poder pela própria violência, que alimenta o demônio, mas paga com corrupção mental progressiva, em fúria, paranoia e sadismo. A marca é grotesca e difícil de esconder, e o vínculo atrai outros demônios, que o veem como desafio ou presa.
 
-2. **"Negociação":**
-   - Não há documento, apenas acordo verbal
-   - Demônio testa o conjurador fisicamente (combate, tortura, provação)
-   - Sobreviver = vínculo formado
-   - Morrer = alma consumida imediatamente
+### Ruptura
 
-3. **Selamento:**
-   - Troca de sangue: demônio morde conjurador, conjurador ingere sangue demoníaco
-   - Marca caótica aparece (queimadura, cicatriz irregular, chifres brotando)
-   - Vínculo é empático - conjurador sente fome destrutiva do demônio
-
-### Obrigações Típicas
-
-- Destruição regular: "Queimar algo valioso"
-- Violência constante: "Nunca passar mês sem praticar violência"
-- Alimentar o caos: Criar conflito, guerra, tumulto
-- NÃO há termos fixos - demônio muda exigências por capricho
-
-### Vantagens e Desvantagens
-
-- ✅ Poder bruto e devastador
-- ✅ Sem burocracia - acesso imediato
-- ✅ Demônio não se importa com "detalhes" das obrigações
-- ✅ Pode crescer em poder através de violência (alimenta demônio)
-
-- ❌ Instável - demônio pode exigir mais a qualquer momento
-- ❌ Corrupção mental progressiva (fúria, paranoia, sadismo)
-- ❌ Demônio pode trair por diversão
-- ❌ Marca é fisicamente grotesca (difícil esconder)
-- ❌ Vínculo atrai outros [[00_VAULT/_wiki/cosmologia/demonios\|demônios]] (veem como desafio/presa)
-
-### Quebra de Vínculo
-
-- Não há "quebra" formal - demônio simplesmente ataca para matar ou deixar o corpo do pactuado inutilizável
-- Conjurador pode tentar dominar o demônio (extremamente perigoso)
-- Se demônio for banido, vínculo é quebrado
+Não existe quebra formal. O demônio simplesmente ataca para matar ou deixar o corpo inutilizável. O conjurador pode tentar dominá-lo, manobra extremamente perigosa, e o vínculo se rompe caso o demônio seja banido. A marca, porém, nunca desaparece.

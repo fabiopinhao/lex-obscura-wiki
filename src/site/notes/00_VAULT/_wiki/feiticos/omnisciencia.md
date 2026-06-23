@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/omnisciencia.md","permalink":"/wiki/feiticos/omnisciencia/","dg-note-properties":{"tipo":"feitico","nome":"Omnisciência","escola":"Gnosi","escala":"**Máxima**","aliases":[],"tags":[],"ordem":160,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/omnisciencia.md","permalink":"/wiki/feiticos/omnisciencia/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Omnisciência
 
-**Escola:** [[00_VAULT/_wiki/escolas/gnosi\|Gnosi]]
-**Escala:** **Máxima**
+Omnisciência é um feitiço de escala Máxima da escola do [[00_VAULT/_wiki/escolas/gnosi\|Gnosi]]. O conjurador formula uma pergunta e a resposta se revela: localização, mistério, memória alheia, passado remoto. Nenhuma barreira informacional resiste à indagação.
 
-Compreensão total: o conjurador formula pergunta e a resposta se revela. Localização, mistério, memória alheia, passado remoto. Diferente de Profecia (que mostra futuro simbólico): Omnisciência responde sobre o presente e o passado com precisão absoluta. Nenhuma barreira informacional resiste. Custo devastador: enxaquecas incapacitantes, perda de memórias recentes. Uso repetido acelera o Estágio IV: sabe tudo e não decide nada
+### Princípio
+
+A Omnisciência responde sobre o presente e o passado com precisão absoluta, e é nisso que se separa da [[00_VAULT/_wiki/feiticos/profecia\|Profecia]], que mostra um futuro simbólico e incerto. Onde a Profecia entrega imagens a interpretar, a Omnisciência entrega o fato.
+
+### Custos
+
+O preço da resposta é devastador. O conjurador sofre enxaquecas incapacitantes e perde memórias recentes, como se o conhecimento alheio expulsasse o próprio. O uso repetido acelera o Estágio IV, e leva à condição de quem sabe tudo e não decide nada.

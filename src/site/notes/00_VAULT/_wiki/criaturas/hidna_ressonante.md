@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/hidna_ressonante.md","permalink":"/wiki/criaturas/hidna-ressonante/","dg-note-properties":{"tipo":"criatura","nome":"Hidna Ressonante","cor_arcana":"—","habitat":"Subterrâneo (Vor-Ghol)","aliases":[],"tags":[],"ordem":4,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/hidna_ressonante.md","permalink":"/wiki/criaturas/hidna-ressonante/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Hidna Ressonante
 
-Criatura ou armadilha natural de [[00_VAULT/_wiki/locais/vor-ghol\|Vor-Ghol]]. "Explode com barulho de bota", sensível a vibrações sonoras. Razão para tropas [[00_VAULT/_wiki/racas/drul\|drul]] não marcharem em formação pelos corredores.
+A Hidna Ressonante é uma criatura, ou armadilha natural, dos corredores subterrâneos de [[00_VAULT/_wiki/locais/vor-ghol\|Vor-Ghol]]. Sensível a vibrações sonoras, "explode com barulho de bota" ao menor estímulo. É a razão pela qual as tropas [[00_VAULT/_wiki/racas/drul\|drul]] não marcham em formação por aquelas galerias.

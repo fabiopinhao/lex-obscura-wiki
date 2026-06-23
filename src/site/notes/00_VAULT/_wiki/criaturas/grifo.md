@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/grifo.md","permalink":"/wiki/criaturas/grifo/","dg-note-properties":{"tipo":"criatura","nome":"Grifo","cor_arcana":"—","habitat":"Reinkard (pré-conquista shadar)","aliases":["Grifos"],"tags":[],"ordem":9,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/grifo.md","permalink":"/wiki/criaturas/grifo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Grifo
+
+O grifo é uma montaria nobre de guerra e prestígio, criatura de corpo de leão com asas e cabeça de águia. Foi domesticado ao longo de gerações por criadores humanos e [[00_VAULT/_wiki/racas/alvarar\|álvarars]], e nunca esteve a serviço do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|Império]]: os [[00_VAULT/_wiki/racas/shadar\|shadars]] não montam grifos.
 
 ### Natureza
 
-Montaria nobre de guerra e prestígio. Corpo de leão, asas e cabeça de águia. Domesticados por gerações de criadores humanos e [[00_VAULT/_wiki/racas/alvarar\|álvarars]]. Grifos não são criaturas imperiais; serviram como montarias dos exércitos humanos e [[00_VAULT/_wiki/racas/alvarar\|álvarars]] durante as Guerras Reinkárdicas contra os [[00_VAULT/_wiki/racas/shadar\|shadars]]. [[00_VAULT/_wiki/racas/shadar\|Shadars]] não usam grifos.
+Reúne a força do leão à águia que lhe dá a cabeça e as asas. Não é criatura imperial nem selvagem por vocação: chegou ao campo de batalha pelas mãos de criadores humanos e álvarars, que o domesticaram durante gerações para a guerra e o prestígio.
 
-### Uso
+### Papel nas Guerras Reinkárdicas
 
-Transporte aéreo, reconhecimento e combate em altitude. A capacidade de sobrevoar terreno hostil sem depender de estradas ou túneis tornava grifos recurso estratégico nas campanhas de superfície das Guerras Reinkárdicas, particularmente onde legiões terrestres não alcançavam com rapidez suficiente.
-
-### Lacunas Canônicas
-
-Detalhes sobre criação, treinamento, disponibilidade atual na [[00_VAULT/_wiki/conceitos/terceira_era\|Terceira Era]] e aparições narrativas específicas no Livro I não estão documentados. Nenhuma cena do Livro I mostra grifo em uso direto. Status pós-conquista [[00_VAULT/_wiki/racas/shadar\|shadar]] indefinido: possível extinção, populações selvagens remanescentes ou criadores clandestinos entre pindoriares e [[00_VAULT/_wiki/racas/alvarar\|álvarars]] sobreviventes são todas possibilidades em aberto.
+Durante as Guerras Reinkárdicas contra os shadars, o grifo serviu como montaria dos exércitos humanos e álvarars. Foi empregado em transporte aéreo, reconhecimento e combate em altitude, permitindo sobrevoar terreno hostil sem depender de estradas ou túneis. Essa capacidade o tornava recurso estratégico nas campanhas de superfície, sobretudo onde as legiões terrestres não chegavam com rapidez suficiente.

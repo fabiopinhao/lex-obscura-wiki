@@ -1,16 +1,19 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/xarn.md","permalink":"/wiki/personagens/xarn/","dg-note-properties":{"tipo":"personagem","nome_atual":"Xarn","raca":"Shadar","sexo":"M","relevancia":"Secundário","status_atual":"Vivo","localizacao_atual":"Morvgrad","armas_principais":"—","afiliacao_primaria":"Culto Sombrio (líder espiritual)","aliases":[],"ordem":42,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/xarn.md","permalink":"/wiki/personagens/xarn/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Xarn
 
-### Perfil
+Xarn é um [[00_VAULT/_wiki/racas/shadar\|Shadar]] ancião, clérigo grão-mestre e líder espiritual do [[00_VAULT/_wiki/organizacoes/culto_sombrio\|Culto Sombrio]]. Autor do Codex que rege a [[00_VAULT/_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]] entre shadars e [[00_VAULT/_wiki/racas/drul\|druls]], escreveu as leis que outros agora recitam. Vive em [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]].
 
-[[00_VAULT/_wiki/racas/shadar\|Shadar]] ancião. Clérigo grão-mestre e líder espiritual do [[00_VAULT/_wiki/organizacoes/culto_sombrio\|Culto Sombrio]]. Líder das casas gêmeas: a eparquia de [[00_VAULT/_wiki/locais/xarn_zareth\|Xarn'Zareth]] na cidadela subterrânea de [[00_VAULT/_wiki/locais/ghilanna\|Ghilanna]] e a eparquia [[00_VAULT/_wiki/locais/xarn_aroth\|Xarn'Aroth]] na região sagrada de [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]]. Autor do Codex que rege a [[00_VAULT/_wiki/organizacoes/alianca_subterranea\|Aliança]]: escreveu as leis que outros agora recitam. Arquiteto da [[00_VAULT/_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]] entre [[00_VAULT/_wiki/racas/shadar\|shadars]] e [[00_VAULT/_wiki/racas/drul\|druls]]. Unificou templos diabólicos dispersos no [[00_VAULT/_wiki/organizacoes/culto_sombrio\|Culto Sombrio]]. Possivelmente divinizado (status incerto). Status: vivo. Localização: [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]] (declarado herege por [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]]).
+### Papel
 
-### Relações-Chave
+Lidera as casas gêmeas do culto: a eparquia de [[00_VAULT/_wiki/locais/xarn_zareth\|Xarn'Zareth]], na cidadela subterrânea de [[00_VAULT/_wiki/locais/ghilanna\|Ghilanna]], e a eparquia [[00_VAULT/_wiki/locais/xarn_aroth\|Xarn'Aroth]], na região sagrada de Morvgrad. Foi ele quem unificou os templos diabólicos dispersos sob o Culto Sombrio e arquitetou a aliança entre shadars e druls. Diz-se que pode ter sido divinizado, embora seu estado permaneça incerto.
 
-**[[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] (arquiteto vs. herdeiro):** Escreveu as leis e o Codex que [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] habita. Convoca [[00_VAULT/_wiki/panteao/velmorain\|Velmorain]] para precipitar a queda do monarca.
+### Voz
 
-**[[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milorsevogh]] (questionamento):** Pergunta a [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milor]] sobre sua identidade: o momento em que [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milor]] é visto antes de ver.
+Fala com o peso de séculos e questiona mais do que declara, mas suas perguntas carregam peso de veredito: é a autoridade de quem escreveu as leis da [[00_VAULT/_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]] que os outros apenas recitam.
 
-**[[00_VAULT/_wiki/personagens/jaakurs\|Jaakurs]] (jogo de espelhos):** [[00_VAULT/_wiki/personagens/jaakurs\|Jaakurs]] exclui Xarn por proteção. Xarn sabe. Xarn não informa [[00_VAULT/_wiki/personagens/jaakurs\|Jaakurs]]. Triangulação de conhecimento.
+### Relações
+
+Tem em [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] a relação entre arquiteto e herdeiro: escreveu as leis e o Codex que o monarca habita.

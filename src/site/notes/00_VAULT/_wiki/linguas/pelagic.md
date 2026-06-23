@@ -1,18 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/pelagic.md","permalink":"/wiki/linguas/pelagic/","dg-note-properties":{"tipo":"lingua","nome":"Pelagic","tipo_lingua":"Ritual","era":"Primeira Era","cor_racial":"Azul","raca_principal":"Frenims","funcao":"Comunicação ritual com siderais etéreos","fluencia_comum":"Magos fluentes; ritual (ranidanos próximos)","relacao_magica":"Meditatio Aetheris","registro_magico":"Sim (exclusivamente ritual)","descendente_de":"—","aliases":[],"tags":[],"ordem":12,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/pelagic.md","permalink":"/wiki/linguas/pelagic/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Pelagic
 
-**Pelagic**: Impossível de transcrever com precisão. Harmônicos sobrepostos, sílabas que parecem vibrar em duas frequências simultâneas. Sem pausas entre palavras: o discurso Pelagic é fluxo contínuo, como corrente sem margem. Mortais que tentam reproduzi-lo descrevem a experiência como "falar enquanto se afoga gentilmente".
-
-Inspiração sonora: nenhuma língua mortal serve como referência adequada. O mais próximo seria canto de baleias com estrutura silábica.
+Pelagic é uma língua ritual da Primeira Era, associada aos [[00_VAULT/_wiki/racas/frenim\|frenims]] e usada na comunicação com os [[00_VAULT/_wiki/cosmologia/siderais\|siderais]] etéreos. É praticamente impossível de transcrever com precisão: harmônicos sobrepostos, sílabas que parecem vibrar em duas frequências simultâneas e nenhuma pausa entre palavras, num fluxo contínuo como corrente sem margem. Mortais que tentam reproduzi-la descrevem a experiência como "falar enquanto se afoga gentilmente". Nenhuma língua mortal serve de referência adequada; o mais próximo seria o canto de baleias com estrutura silábica.
 
 ### Perfil Linguístico
 
-**Registro:** Indistinguível para ouvidos mortais. Estudiosos teorizam que [[00_VAULT/_wiki/cosmologia/siderais\|siderais]] possuem registros, mas a incapacidade humana de perceber as nuances harmônicas impede confirmação. Para [[00_VAULT/_wiki/racas/frenim\|frenims]] que canalizam em Pelagic, tudo soa como o mesmo fluxo contínuo.
+Para ouvidos mortais, o Pelagic é indistinguível. Estudiosos teorizam que os siderais possuem registros, mas a incapacidade humana de perceber as nuances harmônicas impede a confirmação; para os frenims que canalizam na língua pelo [[00_VAULT/_wiki/magia/meditatio_aetheris\|Meditatio Aetheris]], tudo soa como o mesmo fluxo contínuo. Não se conhece escrita: os siderais não registram, existem. A transcrição frenim usa notação musical adaptada, não alfabeto.
 
-**Escrita:** Nenhuma conhecida. [[00_VAULT/_wiki/cosmologia/siderais\|Siderais]] não registram; existem. A transcrição [[00_VAULT/_wiki/racas/frenim\|frenim]] do Pelagic usa notação musical adaptada, não alfabeto.
-
-**Gramática:** Resiste a qualquer análise convencional. Estudiosos que tentaram categorizá-lo concluíram que o Pelagic não distingue sujeito de objeto, nem presente de passado. Tudo é fluxo: o falante, o ouvinte, o momento e a mensagem existem simultaneamente. Isso é consistente com a natureza dos [[00_VAULT/_wiki/cosmologia/siderais\|siderais]], que transitam pelo [[00_VAULT/_wiki/cosmologia/plano_etereo\|Plano Etéreo]] sem noção de linearidade temporal.
-
-**Uso no Livro I:** Mínimo. A língua Pelagic não surge diretamente em cena. Expansão prevista para livros posteriores.
+A gramática resiste a qualquer análise convencional. O Pelagic não distingue sujeito de objeto nem presente de passado: o falante, o ouvinte, o momento e a mensagem existem simultaneamente, algo consistente com a natureza dos siderais, que transitam pelo [[00_VAULT/_wiki/cosmologia/plano_etereo\|Plano Etéreo]] sem noção de linearidade temporal. Alguns deuses azuis do plano etéreo preferem o Pelagic ao [[00_VAULT/_wiki/linguas/thalassic\|Thalassic]], preferência que contribuiu para a formação do [[00_VAULT/_wiki/linguas/neranthiano\|Neranthiano]].

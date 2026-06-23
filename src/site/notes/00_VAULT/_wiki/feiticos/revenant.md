@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/revenant.md","permalink":"/wiki/feiticos/revenant/","dg-note-properties":{"tipo":"feitico","nome":"Revenant","escola":"Necro","escala":"Maior","aliases":[],"tags":[],"ordem":87,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/revenant.md","permalink":"/wiki/feiticos/revenant/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Revenant
 
-**Escola:** [[00_VAULT/_wiki/escolas/necro\|Necro]]
-**Escala:** Maior
+Revenant é um feitiço de escala maior da escola do [[00_VAULT/_wiki/escolas/necro\|Necro]] que reanima um morto preservando fragmentos de memória e uma vontade limitada. A criatura reconhece rostos, segue instruções complexas e empunha armas com destreza.
 
-Reanimar morto com fragmentos de memória e vontade limitada: reconhece rostos, segue instruções complexas, empunha armas com destreza. Diferente de Servo (casca vazia, comandos simples), Revenant retém eco da pessoa que foi. Diferente de Transe ([[00_VAULT/_wiki/escolas/hypno\|Hypno]]), que controla vivos por sono: Revenant anima mortos por necromancia. Degrada em dias sem reforço. Custo: frio profundo, pesadelos com os rostos dos reanimados
+### O que a distingue
+
+Difere do [[00_VAULT/_wiki/feiticos/servo\|Servo]], casca vazia que só obedece a comandos simples: o Revenant retém um eco da pessoa que foi. Difere também do [[00_VAULT/_wiki/feiticos/transe\|Transe]], da escola do [[00_VAULT/_wiki/escolas/hypno\|Hypno]], que controla os vivos pelo sono; o Revenant anima os mortos por necromancia. Sem reforço, degrada em poucos dias.
+
+### Custo
+
+Cobra frio profundo e pesadelos povoados pelos rostos dos reanimados.

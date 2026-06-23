@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/sussurro.md","permalink":"/wiki/feiticos/sussurro/","dg-note-properties":{"tipo":"feitico","nome":"Sussurro","escola":"Necro","escala":"Menor","aliases":[],"tags":[],"ordem":82,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sussurro.md","permalink":"/wiki/feiticos/sussurro/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Sussurro
 
-**Escola:** [[00_VAULT/_wiki/escolas/necro\|Necro]]
-**Escala:** Menor
+Sussurro é um feitiço da escola do [[00_VAULT/_wiki/escolas/necro\|Necro]], de escala Menor. Extrai memórias fragmentárias de um cadáver recente. Não é um diálogo, é um eco: imagens borradas, a última emoção, um nome repetido em loop.
 
-Extrair memórias fragmentárias de cadáver recente: não é diálogo, é eco. Imagens borradas, última emoção, nome repetido em loop. Diferente de Perscrutar ([[00_VAULT/_wiki/escolas/gnosi\|Gnosi]]), que lê verdade em vivos: Sussurro lê resíduos em mortos, informação degrada com o tempo. Custo: frio na nuca, sensação de morte próxima
+### Efeito
+
+A informação se degrada com o tempo decorrido desde a morte, e o que se recupera é sempre resíduo, nunca testemunho. Isso separa Sussurro de Perscrutar, da escola do [[00_VAULT/_wiki/escolas/gnosi\|Gnosi]], que lê a verdade nos vivos: Sussurro lê apenas os restos deixados nos mortos.
+
+### Custo
+
+O preço é um frio na nuca e a sensação de morte próxima.

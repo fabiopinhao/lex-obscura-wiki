@@ -1,10 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/camara_de_othuun.md","permalink":"/wiki/locais/camara-de-othuun/","dg-note-properties":{"tipo":"local","nome":"Câmara de Othuun","tipo_local":"Câmara (subterrânea)","regiao":"Ghol'Mournak (Morvgrad, profundezas)","controlador":"Independente","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"<10","aliases":[],"tags":[],"ordem":27,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/camara_de_othuun.md","permalink":"/wiki/locais/camara-de-othuun/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Câmara de Othuun
 
-Residência de [[00_VAULT/_wiki/personagens/nyx_ara\|Nyx'Ara]] nas profundezas de [[00_VAULT/_wiki/locais/ghol_mournak\|Ghol'Mournak]]. Acesso via escadaria espiral de quinhentos degraus sussurrantes que descem de [[00_VAULT/_wiki/locais/xarn_aroth\|Xarn'Aroth]]. Os degraus sussurram nomes de segredos. Poços de piche pontuam as profundezas. Capacidade inferior a dez pessoas. Controlador independente: a Câmara não responde à hierarquia formal do Culto.
+A Câmara de Othuun é uma câmara subterrânea nas profundezas de [[00_VAULT/_wiki/locais/ghol_mournak\|Ghol'Mournak]], sob [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]]. Serve de residência a [[00_VAULT/_wiki/personagens/nyx_ara\|Nyx'Ara]] e não responde à hierarquia formal do Culto: é um ponto independente dentro da capital. Comporta menos de dez pessoas.
 
-[[00_VAULT/_wiki/personagens/nyx_ara\|Nyx'Ara]] é oráculo de aparência mutável cuja natureza exata permanece ambígua. [[00_VAULT/_wiki/personagens/jaakurs\|Jaakurs]] recomendou que [[00_VAULT/_wiki/personagens/orum-rahru\|Orum]] visitasse a Câmara, direcionamento cujo propósito ainda não é claro ao leitor.
+### Acesso
 
-A Câmara já é referenciada nas entradas de [[00_VAULT/_wiki/locais/ghol_mournak\|Ghol'Mournak]] e [[00_VAULT/_wiki/locais/xarn_aroth\|Xarn'Aroth]], mas seu papel narrativo concentra-se no Cap. 7. A relação entre [[00_VAULT/_wiki/personagens/nyx_ara\|Nyx'Ara]] e o [[00_VAULT/_wiki/organizacoes/ordo_zathar\|Ordo Zathar]] (facção secreta de [[00_VAULT/_wiki/personagens/jaakurs\|Jaakurs]]) permanece como mistério ativo.
+Chega-se à Câmara por uma escadaria espiral de quinhentos degraus que descem de [[00_VAULT/_wiki/locais/xarn_aroth\|Xarn'Aroth]]. Os degraus sussurram nomes de segredos durante a descida, e poços de piche pontuam as profundezas ao redor.
+
+### A oráculo
+
+Nyx'Ara, que habita a Câmara, é uma oráculo de aparência mutável e natureza ambígua. [[00_VAULT/_wiki/personagens/jaakurs\|Jaakurs]] recomendou a [[00_VAULT/_wiki/personagens/orum-rahru\|Orum]] que a visitasse.

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/eclipse.md","permalink":"/wiki/feiticos/eclipse/","dg-note-properties":{"tipo":"feitico","nome":"Eclipse","escola":"Umbra","escala":"**Máxima**","aliases":[],"tags":[],"ordem":70,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/eclipse.md","permalink":"/wiki/feiticos/eclipse/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Eclipse
 
-**Escola:** [[00_VAULT/_wiki/escolas/umbra\|Umbra]]
-**Escala:** **Máxima**
+Eclipse é um feitiço de escala máxima da escola da [[00_VAULT/_wiki/escolas/umbra\|Umbra]], escuridão em larga escala que consome a luz ativamente: sol, estrelas e tochas mágicas se apagam como se nunca tivessem existido. As trevas têm peso, pressionam o peito e dificultam o passo, e as fontes de vida enfraquecem sob elas, com plantas que murcham e animais que entram em torpor.
 
-Escuridão em larga escala que consome luz ativamente: sol, estrelas, tochas mágicas se apagam como se nunca tivessem existido. Diferente de Negrume (zona localizada): Eclipse cobre área vasta e as trevas têm peso, pressionam o peito, dificultam o passo. Fontes de vida enfraquecem: plantas murcham, animais entram em torpor. Custo devastador: o conjurador sangra pelos olhos e nariz enquanto sustenta, a área permanece fria e estéril por dias. Uso repetido acelera o Estágio IV: luz se torna agressão intolerável
+Onde o Negrume cria apenas uma zona localizada, o Eclipse cobre uma área vasta. O custo é devastador: o conjurador sangra pelos olhos e pelo nariz enquanto o sustenta, e a área fica fria e estéril por dias. O uso repetido acelera o Estágio IV, até que a luz se torne uma agressão intolerável.

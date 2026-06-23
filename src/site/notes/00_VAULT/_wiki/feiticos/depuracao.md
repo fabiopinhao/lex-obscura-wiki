@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/depuracao.md","permalink":"/wiki/feiticos/depuracao/","dg-note-properties":{"tipo":"feitico","nome":"Depuração","escola":"Salvo","escala":"Menor","aliases":[],"tags":[],"ordem":113,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/depuracao.md","permalink":"/wiki/feiticos/depuracao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Depuração
 
-**Escola:** [[00_VAULT/_wiki/escolas/salvo\|Salvo]]
-**Escala:** Menor
+Depuração é um feitiço menor da escola do [[00_VAULT/_wiki/escolas/salvo\|Salvo]] que extrai do organismo aquilo que não lhe pertence: toxinas, substâncias ingeridas, impurezas no sangue. O corpo as expele por suor, vômito ou urina. Onde a Remissão cura a doença já instalada, Depuração remove a substância estranha, e não distingue veneno de remédio: limpa tudo.
 
-Extrair do organismo o que não pertence: toxinas, substâncias ingeridas, impurezas no sangue. O corpo expele por suor, vômito ou urina. Diferente de Remissão (que cura doença instalada): Depuração remove substância estranha. Não distingue veneno de remédio, limpa tudo. Custo: náusea reflexa e gosto metálico no curador
+### Custo
+
+O processo cobra do curador uma náusea reflexa e um gosto metálico na boca.

@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/deflagracao.md","permalink":"/wiki/feiticos/deflagracao/","dg-note-properties":{"tipo":"feitico","nome":"Deflagração","escola":"Pyro","escala":"Média","aliases":[],"tags":[],"ordem":5,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/deflagracao.md","permalink":"/wiki/feiticos/deflagracao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Deflagração
 
-**Escola:** [[00_VAULT/_wiki/escolas/pyro\|Pyro]]
-**Escala:** Média
+Deflagração é a forma ofensiva padrão da escola do [[00_VAULT/_wiki/escolas/pyro\|Pyro]], um feitiço de escala média que lança jatos, esferas ou cones de fogo concentrado contra os alvos. Distingue-se da Fulgurita, da escola do [[00_VAULT/_wiki/escolas/plasma\|Plasma]], que dispara energia capaz de vitrificar: Deflagração é combustão projetada, que queima e carboniza, deixando cinzas e fumaça.
 
-Lançar jatos, esferas ou cones de fogo concentrado contra alvos. A forma ofensiva padrão de [[00_VAULT/_wiki/escolas/pyro\|Pyro]]. Diferente de Fulgurita ([[00_VAULT/_wiki/escolas/plasma\|Plasma]]), que dispara energia que vitrifica: Deflagração é combustão projetada, queima e carboniza, deixa cinzas e fumaça. Custo: febre súbita proporcional à intensidade, queimadura interna no peito
+### Custo
+
+O fogo arrancado para fora volta-se para dentro: febre súbita proporcional à intensidade e uma queimadura interna no peito.

@@ -1,25 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/deteccao_de_alinhamento.md","permalink":"/wiki/magia/deteccao-de-alinhamento/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Detecção de Alinhamento","aliases":[],"ordem":1,"subtipo":"mecanica","origem_arquivo":"3.7_sistemas_magicos_LORE.md","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/deteccao_de_alinhamento.md","permalink":"/wiki/magia/deteccao-de-alinhamento/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Detecção de Alinhamento
 
-### Detecção de Alinhamento — Aprofundamento
+A detecção de alinhamento é a magia especializada que revela a marca espiritual deixada por um pacto. Essa marca é invisível a olho nu, mas leituras arcanas dedicadas conseguem expor a existência de um vínculo ativo, a cor emocional predominante de um Ardorado e, em alguns casos, a natureza do deus patrono.
 
-A marca espiritual do pacto é invisível a olho nu, mas detectável por magia especializada. Magias de detecção permitem revelar:
+### Aplicações
 
-- Existência de pacto ativo
-- Cor emocional predominante (em Ardorados)
-- Natureza do deus patrono (em alguns casos)
+A capacidade é estratégica, e quem a domina vale muito. Sacerdotes e inquisidores treinados nela identificam traidores, espiões e falsos devotos. O [[00_VAULT/_wiki/organizacoes/culto_sombrio\|Culto Sombrio]] mantém detectores em postos-chave, e os Ardorados estão entre os alvos mais fáceis: sua cor é visível para quem sabe olhar.
 
-#### Implicações Políticas
+### Limitações
 
-- Sacerdotes e inquisidores com essa capacidade são extremamente valiosos
-- Podem identificar traidores, espiões ou falsos devotos
-- O [[00_VAULT/_wiki/organizacoes/culto_sombrio\|Culto Sombrio]] mantém detectores em postos-chave
-- Ardorados são facilmente identificáveis: sua cor é visível para quem sabe olhar
-
-#### Limitações
-
-- A detecção revela existência, não conteúdo das cláusulas
-- Pactos com deuses mortos ou aprisionados podem gerar leituras ambíguas
-- Alguns artefatos ou rituais podem mascarar temporariamente a marca
+A leitura tem fronteiras. Ela revela a existência de um pacto, não o conteúdo de suas cláusulas. Pactos firmados com deuses mortos ou aprisionados podem gerar leituras ambíguas, e certos artefatos ou rituais mascaram a marca por algum tempo.

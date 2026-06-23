@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/convulsao.md","permalink":"/wiki/feiticos/convulsao/","dg-note-properties":{"tipo":"feitico","nome":"Convulsão","escola":"Electro","escala":"Maior","aliases":[],"tags":[],"ordem":248,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/convulsao.md","permalink":"/wiki/feiticos/convulsao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Convulsão
 
-**Escola:** [[00_VAULT/_wiki/escolas/electro\|Electro]]
-**Escala:** Maior
+Convulsão é um feitiço de escala maior da escola [[00_VAULT/_wiki/escolas/electro\|Electro]]. Libera uma onda eletromagnética em área que sobrecarrega o sistema nervoso, causando perda de controle motor, espasmos violentos e desorientação. O pulso é invisível: o alvo sabe o que quer fazer, mas o corpo recusa obedecer.
 
-Onda eletromagnética em área que sobrecarrega o sistema nervoso: perda de controle motor, espasmos violentos, desorientação. Diferente de Exaustão ([[00_VAULT/_wiki/escolas/hypno\|Hypno]]), que drena por fadiga neurológica: Convulsão interfere na conexão nervo-músculo por eletricidade. O pulso é invisível, o alvo sabe o que quer fazer mas o corpo recusa obedecer. Custo: espasmo simpático, tremores que tornam precisão impossível por tempo proporcional à potência
+O feitiço se distingue de Exaustão, da escola [[00_VAULT/_wiki/escolas/hypno\|Hypno]], que drena por fadiga neurológica. Convulsão interfere na conexão entre nervo e músculo por eletricidade. O preço recai sobre quem conjura: um espasmo simpático, com tremores que tornam a precisão impossível por tempo proporcional à potência.

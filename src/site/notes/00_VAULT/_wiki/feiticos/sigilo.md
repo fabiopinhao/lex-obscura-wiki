@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/sigilo.md","permalink":"/wiki/feiticos/sigilo/","dg-note-properties":{"tipo":"feitico","nome":"Sigilo","escola":"Nomos","escala":"Média","aliases":[],"tags":[],"ordem":196,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sigilo.md","permalink":"/wiki/feiticos/sigilo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Sigilo
 
-**Escola:** [[00_VAULT/_wiki/escolas/nomos\|Nomos]]
-**Escala:** Média
+Sigilo é um feitiço da escola [[00_VAULT/_wiki/escolas/nomos\|Nomos]], de escala média, que inscreve uma lei em uma superfície e a deixa aguardando violação. O conjurador grava uma runa em uma porta, um limiar ou um objeto, e nela armazena um efeito Nomos de escala menor: um Selo que tranca, uma Injunção que compele, uma Mordaça que silencia. O Sigilo dorme até que a condição se cumpra e então dispara, sem que o conjurador precise estar presente.
 
-Lei inscrita em superfície que aguarda violação. O conjurador grava runa em porta, limiar ou objeto, armazenando efeito [[00_VAULT/_wiki/escolas/nomos\|Nomos]] de escala Menor: Selo que tranca, Injunção que compele, Mordaça que silencia. O Sigilo dorme até que a condição se cumpra, então dispara sem presença do conjurador. Diferente de Grilhão, que inscreve proibição no alvo: Sigilo inscreve a regra no espaço. Custo: cada Sigilo ativo pesa como obrigação pendente na nuca, rigidez mental proporcional ao número de inscrições
+### Alcance
+
+Distingue-se de Grilhão, que inscreve a proibição no próprio alvo. O Sigilo inscreve a regra no espaço, não na pessoa.
+
+### Custo
+
+Cada Sigilo ativo pesa como uma obrigação pendente na nuca do conjurador. A rigidez mental que ele impõe é proporcional ao número de inscrições mantidas.

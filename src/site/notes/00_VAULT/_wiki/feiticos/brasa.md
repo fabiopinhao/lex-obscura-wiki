@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/brasa.md","permalink":"/wiki/feiticos/brasa/","dg-note-properties":{"tipo":"feitico","nome":"Brasa","escola":"Pyro","escala":"Média","aliases":["Infusão (Pyro)"],"tags":[],"ordem":4,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/brasa.md","permalink":"/wiki/feiticos/brasa/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Brasa
 
-**Escola:** [[00_VAULT/_wiki/escolas/pyro\|Pyro]]
-**Escala:** Média
+Brasa, também chamada Infusão, é um feitiço de escala média da escola do [[00_VAULT/_wiki/escolas/pyro\|Pyro]] que envolve armas e objetos em chamas que ardem sem consumir o material base. O fio da lâmina queima ao cortar, o projétil incendeia ao cravar. Ao contrário da Candência, da escola do [[00_VAULT/_wiki/escolas/helio\|Helio]], que imbui o objeto de radiância, Brasa é fogo real: propaga e incendeia o que toca. Distingue-se também do Gládio, da escola do [[00_VAULT/_wiki/escolas/plasma\|Plasma]], que forja uma lâmina de pura energia, enquanto Brasa encanta uma arma que já existe.
 
-Envolver armas e objetos em chamas que ardem sem consumir o material base. O fio da lâmina queima ao cortar, o projétil incendeia ao cravar. Diferente de Candência ([[00_VAULT/_wiki/escolas/helio\|Helio]]), que imbui com radiância: Brasa é fogo real, propaga e incendeia o que toca. Diferente de Gládio ([[00_VAULT/_wiki/escolas/plasma\|Plasma]]), que cria lâmina de energia: Brasa encanta arma existente. Custo: queimadura interna no braço que empunha
+### Custo
+
+O fogo cobra de quem o carrega: uma queimadura interna no braço que empunha a arma.

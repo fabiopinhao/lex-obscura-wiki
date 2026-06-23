@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/meteoro.md","permalink":"/wiki/feiticos/meteoro/","dg-note-properties":{"tipo":"feitico","nome":"Meteoro","escola":"Cosmo","escala":"**Máxima**","aliases":[],"tags":[],"ordem":230,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/meteoro.md","permalink":"/wiki/feiticos/meteoro/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Meteoro
 
-**Escola:** [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]]
-**Escala:** **Máxima**
+Meteoro é um feitiço de escala máxima da escola do [[00_VAULT/_wiki/escolas/cosmo\|Cosmo]]. O conjurador aponta para o céu e uma rocha é arrancada da órbita, ou erguida da terra e fundida pela própria velocidade. O projétil não é controlado: uma vez invocado, desce em linha. O impacto é um colapso gravitacional, com a cratera se formando antes do contato e o chão cedendo sob a pressão do que se aproxima. A pedra vitrifica, as estruturas se achatam e os corpos são incorporados ao solo. O raio de destruição é vasto e a precisão, moderada.
 
-O conjurador aponta para o céu e rocha é arrancada da órbita (ou da terra, erguida e fundida pela velocidade). O projétil não é controlado: uma vez invocado, desce em linha. O impacto é colapso gravitacional: a cratera se forma antes do contato, chão cedendo sob a pressão do que se aproxima. Pedra vitrifica, estruturas se achatam, corpos são incorporados ao solo. Raio de destruição vasto, precisão moderada. Custo existencial: o conjurador sente o próprio corpo como objeto em queda. Por horas, caminhar exige lembrar que o chão é embaixo
+### Custo
+
+Existencial. O conjurador sente o próprio corpo como objeto em queda; por horas, caminhar exige lembrar que o chão é embaixo.

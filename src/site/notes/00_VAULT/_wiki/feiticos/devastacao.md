@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/devastacao/","dg-note-properties":{"tipo":"feitico","nome":"Devastação","escola":"Rupto","escala":"**Máxima**","aliases":[],"tags":[],"ordem":190,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/devastacao.md","permalink":"/wiki/feiticos/devastacao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Devastação
 
-**Escola:** [[00_VAULT/_wiki/escolas/rupto\|Rupto]]
-**Escala:** **Máxima**
+Devastação é um feitiço de escala máxima da escola do [[00_VAULT/_wiki/escolas/rupto\|Rupto]], ruptura levada à proporção catastrófica. O terreno racha, as estruturas desabam e os vínculos mágicos de toda a área se estilhaçam: tudo o que foi construído, imposto ou sustentado ali cessa de existir.
 
-Ruptura em escala catastrófica: terreno racha, estruturas desabam, vínculos mágicos em área se estilhaçam. Diferente de Édito ([[00_VAULT/_wiki/escolas/nomos\|Nomos]]), que impõe regra inviolável: Devastação declara que nenhuma regra sobrevive. Tudo o que é construído, imposto ou sustentado na área cessa de existir. Indiscriminada: infraestrutura aliada perece junto com a inimiga. Custo devastador: fraturas múltiplas, articulações deslocam, ossos racham. Sem [[00_VAULT/_wiki/escolas/salvo\|Salvo]] imediata, cripple permanente. Uso repetido acelera o Estágio IV
+Onde o Édito, da escola do [[00_VAULT/_wiki/escolas/nomos\|Nomos]], impõe uma regra inviolável, a Devastação declara que nenhuma regra sobrevive. É indiscriminada, e a infraestrutura aliada perece junto com a inimiga. O custo é devastador: fraturas múltiplas, articulações deslocadas, ossos rachados; sem uma [[00_VAULT/_wiki/escolas/salvo\|Salvo]] imediata, a lesão se torna permanente. O uso repetido acelera o Estágio IV.

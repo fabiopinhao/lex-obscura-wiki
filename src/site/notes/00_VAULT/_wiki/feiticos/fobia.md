@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/fobia.md","permalink":"/wiki/feiticos/fobia/","dg-note-properties":{"tipo":"feitico","nome":"Fobia","escola":"Phobos","escala":"Maior","aliases":[],"tags":[],"ordem":148,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/fobia.md","permalink":"/wiki/feiticos/fobia/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Fobia
 
-**Escola:** [[00_VAULT/_wiki/escolas/phobos\|Phobos]]
-**Escala:** Maior
+Fobia é um feitiço da escola [[00_VAULT/_wiki/escolas/phobos\|Phobos]], de escala Maior. Funciona como uma cicatriz arcana gravada na psique: o conjurador implanta no alvo um medo permanente de um estímulo específico, seja fogo, escuridão, lâminas ou o som de uma determinada voz.
 
-Cicatriz arcana na psique. O conjurador implanta medo permanente de estímulo específico: fogo, escuridão, lâminas, o som de determinada voz. A magia encerra, mas o medo fica. Cada exposição dispara pânico como se o feitiço acabasse de ser lançado. Diferente de Flagelo ([[00_VAULT/_wiki/escolas/anatho\|Anatho]]), que é aflição autônoma genérica: Fobia é medo cirúrgico e permanente. Removível por Catarse ([[00_VAULT/_wiki/escolas/salvo\|Salvo]]) ou Salvaguarda ([[00_VAULT/_wiki/escolas/sacro\|Sacro]]). Custo: o conjurador absorve fragmento do medo implantado como aversão leve ao mesmo estímulo
+### Efeito
+
+A magia em si encerra, mas o medo permanece. Cada nova exposição ao estímulo dispara o pânico como se o feitiço acabasse de ser lançado. Distingue-se do Flagelo, da escola [[00_VAULT/_wiki/escolas/anatho\|Anatho]], que é uma aflição autônoma e genérica: Fobia é um medo cirúrgico e permanente, ancorado num gatilho preciso. Pode ser removida por Catarse, da escola [[00_VAULT/_wiki/escolas/salvo\|Salvo]], ou por Salvaguarda, da escola [[00_VAULT/_wiki/escolas/sacro\|Sacro]].
+
+### Custo
+
+Ao implantar o medo, o conjurador absorve um fragmento dele, ficando com uma aversão leve ao mesmo estímulo.

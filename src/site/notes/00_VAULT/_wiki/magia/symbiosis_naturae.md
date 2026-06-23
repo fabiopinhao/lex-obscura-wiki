@@ -1,65 +1,31 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/symbiosis_naturae.md","permalink":"/wiki/magia/symbiosis-naturae/","dg-note-properties":{"tipo":"sistema_acesso","nome":"Symbiosis Naturae","cor":"Verde (G)","nome_latino":"Symbiosis Naturae","entidade":"Titãs","tipo_acesso":"Simbiose","dificuldade":"Média","estabilidade":"Média","custo_principal":"Manutenção regular, proteger natureza","custo_recai_sobre":["identidade"],"pode_trair":"Não","posicao_doutrinaria_imperial":"estruturalmente_hostil","termo_canalizacao":"Afluxo","aliases":[],"ordem":3,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/symbiosis_naturae.md","permalink":"/wiki/magia/symbiosis-naturae/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Symbiosis Naturae
+
+A Symbiosis Naturae é o sistema de acesso à magia verde, e não é pacto nem contrato, mas relacionamento simbiótico com os [[00_VAULT/_wiki/cosmologia/titas\|titãs]] e demais espíritos naturais, fundado no equilíbrio. O praticante recebe poder como seiva compartilhada entre raiz e copa, em troca de fidelidade aos ciclos da natureza.
 
 ### Natureza
 
-Não é pacto - é relacionamento simbiótico com espíritos/forças naturais baseado em equilíbrio.
+A Symbiosis não se firma por acordo, e sim por equilíbrio: é um relacionamento simbiótico com espíritos e forças naturais. Como os titãs não exigem submissão, não traem; retiram-se, apenas, quando o equilíbrio é violado.
 
-### Canalização — Afluxo
+### Afluxo
 
-A transferência de [[00_VAULT/_wiki/cosmologia/magi\|magi]] na Symbiosis Naturae é orgânica e recíproca. O [[00_VAULT/_wiki/cosmologia/titas\|titã]] compartilha poder como seiva compartilhada entre raiz e copa, num ritmo que acompanha os ciclos naturais. O Afluxo amplifica os sentimentos-chave das escolas concedidas de forma gradual e tolerante — [[00_VAULT/_wiki/cosmologia/titas\|titãs]] raramente interferem na resposta, e o canal opera por ressonância natural, tolerando falhas menores.
-
-Para a mecânica de [[00_VAULT/_wiki/cosmologia/magi\|Magi]] — reserva, recuperação e sobrecarga —, ver [[00_VAULT/_wiki/magia/sistema_de_combustivel_magico\|Sistema de Combustível Mágico]]; para os estágios da transformação ontológica, [[00_VAULT/_wiki/magia/progressao_ontologica\|Progressão Ontológica]].
+A canalização da Symbiosis Naturae chama-se Afluxo e é orgânica e recíproca. O titã compartilha poder como seiva entre raiz e copa, num ritmo que acompanha os ciclos naturais. O Afluxo amplifica os sentimentos-chave das escolas concedidas de forma gradual e tolerante: os titãs raramente interferem na resposta, e o canal opera por ressonância natural, tolerando falhas menores.
 
 ### Processo de Simbiose
 
-1. **Ritual de Harmonia:**
-   - Realizado em local sagrado natural (bosque antigo, cachoeira, caverna)
-   - Conjurador deve jejuar e meditar por longo período
-   - Oferenda não-violenta (sementes, mel, leite, canções)
-   - Espírito natural avalia se conjurador respeita equilíbrio e é capaz de ascender
+A simbiose começa por um ritual de harmonia, realizado em local sagrado natural, como um bosque antigo, uma cachoeira ou uma caverna, em que o conjurador jejua, medita e oferece dádivas não-violentas, como sementes, mel ou canções. O espírito avalia se ele respeita o equilíbrio. Segue-se a comunhão, sem acordo verbal: o espírito toca o conjurador, raízes crescem pelo corpo ou água corre nas veias, e surge a marca natural, folhas na pele e olhos que refletem a floresta. A conexão se mantém com retornos periódicos ao local sagrado e se fortalece com o tempo e o respeito, permitindo comunicação por sonhos e visões.
 
-2. **Comunhão:**
-   - Espírito toca o conjurador (raiz cresce através do corpo, água flui pelas veias)
-   - Experiência simbiótica - conjurador sente ciclos naturais
-   - Não há "acordo" verbal - é entendimento mútuo
-   - Marca natural aparece (folhas na pele, olhos refletem floresta, pele com textura de casca)
+### Obrigações e Custos
 
-3. **Conexão Contínua:**
-   - Conjurador deve retornar ao local sagrado periodicamente
-   - Simbiose se fortalece com tempo e respeito
-   - Pode se comunicar com espírito através de sonhos/visões
+O praticante deve proteger a natureza, jamais perverter a vida com magia, oferecer dádivas regulares e respeitar as leis naturais. O custo recai sobre a identidade, e o poder tem limites próprios: enfraquece longe da natureza, exige manutenção constante e é vulnerável à profanação do local sagrado; cidades e civilização drenam a força do conjurador. Em troca, a simbiose cura lentamente, cresce com a dedicação e conecta o praticante à rede natural, permitindo sentir florestas e falar com animais.
 
-### Obrigações Típicas
+### Hostilidade Imperial
 
-- Proteger natureza: Defender florestas, animais, equilíbrio
-- Não violar ciclo: Nunca usar magia para perverter vida natural
-- Oferendas regulares: Plantar árvores, limpar rios, cantar para a terra
-- Respeitar leis naturais: Caçar apenas o necessário, respeitar os mortos
-
-### Vantagens e Desvantagens
-
-- ✅ Poder regenerativo - simbiose cura conjurador lentamente
-- ✅ Sem traição - espírito não trai se conjurador permanece fiel
-- ✅ Crescimento orgânico - poder aumenta com dedicação
-- ✅ Conexão com rede natural (sentir florestas, falar com animais)
-
-- ❌ Poder limitado geograficamente (mais fraco longe de natureza)
-- ❌ Requer manutenção constante (rituais, visitas, oferendas)
-- ❌ Vulnerável a profanação (se local sagrado for destruído)
-- ❌ Conflito com civilização (cidades drenam poder)
-- ❌ Espírito pode dormir (hibernação, seca) = perda temporária de poder
-
-### Nota: Hostilidade Imperial em Curva Histórica
-
-A postura do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] frente a praticantes de Symbiosis é estruturalmente hostil, mas essa hostilidade não é constante no tempo. Durante as [[00_VAULT/_wiki/conceitos/guerras_reinkardicas_a_sombra_desce\|Guerras Reinkardianas]], a perseguição foi rígida e absoluta. Druidas e xamãs foram tratados como ameaça estratégica à expansão imperial sobre florestas sagradas; execuções sumárias eram a regra, e exceção só se concedia a vínculos negociados com o aparato militar. O período de paz vigente tem erodido progressivamente essa postura, por economia de atenção: com a fronteira estabilizada, perseguir praticantes rurais rende pouco ao [[00_VAULT/_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]]. A doutrina permanece intacta, apenas desatendida.
-
-A tolerância cresce onde a prática não confronta diretamente o avanço imperial. Em ambientação rural ou fronteiriça, um druida pode circular com discrição aceitável; em [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]] ou nas capitais provinciais, a prática segue sendo clandestinidade ou exceção explicitamente negociada. [[00_VAULT/_wiki/locais/thal_serin\|Thal'Serin]] permanece ponto de tensão agudo. Qualquer cena envolvendo praticante de Symbiosis ligado à floresta rebelde reativa o estado de guerra.
+A postura do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] diante dos praticantes de Symbiosis é estruturalmente hostil, mas essa hostilidade varia no tempo. Durante as [[00_VAULT/_wiki/conceitos/guerras_reinkardicas_a_sombra_desce\|Guerras Reinkardianas]], a perseguição foi rígida e absoluta: druidas e xamãs foram tratados como ameaça estratégica à expansão imperial sobre as florestas sagradas, e a execução sumária era a regra. O período de paz vigente erodiu progressivamente essa postura, por economia de atenção: com a fronteira estabilizada, perseguir praticantes rurais rende pouco ao [[00_VAULT/_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], e a doutrina permanece intacta, apenas desatendida. A tolerância cresce onde a prática não confronta o avanço imperial; em ambientes rurais ou fronteiriços, um druida circula com discrição, mas em [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]] e nas capitais provinciais a prática segue clandestina ou negociada. [[00_VAULT/_wiki/locais/thal_serin\|Thal'Serin]] permanece ponto de tensão agudo.
 
 ### Quebra de Simbiose
 
-- Violar equilíbrio natural = espírito retira-se tristemente
-- Conjurador sente [[00_VAULT/_wiki/cosmologia/vazio\|vazio]] profundo (depressão)
-- Pode ser reconstruída com esforço e arrependimento genuíno
+Violar o equilíbrio natural faz o espírito retirar-se com tristeza, e o conjurador mergulha num [[00_VAULT/_wiki/cosmologia/vazio\|vazio]] profundo. A simbiose pode ser reconstruída com esforço e arrependimento genuíno.

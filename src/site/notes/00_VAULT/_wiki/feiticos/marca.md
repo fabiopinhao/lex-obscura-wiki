@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/marca.md","permalink":"/wiki/feiticos/marca/","dg-note-properties":{"tipo":"feitico","nome":"Marca","escola":"Anatho","escala":"Menor","aliases":[],"tags":[],"ordem":162,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/marca.md","permalink":"/wiki/feiticos/marca/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Marca
 
-**Escola:** [[00_VAULT/_wiki/escolas/anatho\|Anatho]]
-**Escala:** Menor
+Marca é um feitiço de escala menor da escola [[00_VAULT/_wiki/escolas/anatho\|Anatho]]. Cria um vínculo arcano invisível que rastreia um alvo vivo ou um objeto: o conjurador sente sua direção e distância como um pulso surdo na nuca, persistente enquanto a marca dura.
 
-Vínculo arcano invisível que rastreia alvo vivo ou objeto: o conjurador sente direção e distância como pulso surdo na nuca. Diferente de Vigília ([[00_VAULT/_wiki/escolas/gnosi\|Gnosi]]), que detecta movimento em área: Marca rastreia alvo único, persistente. Maldições subsequentes ganham precisão sobre alvo Marcado. Custo: cada Marca ativa fragmenta a concentração
+Distingue-se de Vigília, da escola [[00_VAULT/_wiki/escolas/gnosi\|Gnosi]], que detecta movimento numa área inteira. Marca acompanha um alvo único e fixo, e maldições subsequentes ganham precisão sobre quem foi marcado. O preço recai sobre o conjurador: cada Marca ativa fragmenta a concentração.

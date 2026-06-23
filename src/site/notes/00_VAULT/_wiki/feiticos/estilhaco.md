@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/estilhaco.md","permalink":"/wiki/feiticos/estilhaco/","dg-note-properties":{"tipo":"feitico","nome":"Estilhaço","escola":"Rupto","escala":"Menor","aliases":[],"tags":[],"ordem":182,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/estilhaco.md","permalink":"/wiki/feiticos/estilhaco/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Estilhaço
 
-**Escola:** [[00_VAULT/_wiki/escolas/rupto\|Rupto]]
-**Escala:** Menor
+Estilhaço é um feitiço da escola [[00_VAULT/_wiki/escolas/rupto\|Rupto]], de escala Menor, voltado a quebrar objetos frágeis ou já comprometidos: vidro, cerâmica, gelo, osso exposto, corrente enferrujada. Os estilhaços projetados pela ruptura ferem quem estiver por perto.
 
-Quebrar objetos frágeis ou já comprometidos: vidro, cerâmica, gelo, osso exposto, corrente enferrujada. Estilhaços projetados ferem quem estiver perto. Diferente de Fragmentar (que exige concentração em linhas de tensão), Estilhaço é força bruta contra o que já cede. Custo: sensação de fratura fantasma nos dedos
+Difere de Fragmentar, que exige concentração nas linhas de tensão do alvo: o Estilhaço é força bruta contra aquilo que já cede.
+
+### Custo
+
+O conjurador sente uma fratura fantasma nos dedos.

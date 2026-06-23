@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/interdicao.md","permalink":"/wiki/feiticos/interdicao/","dg-note-properties":{"tipo":"feitico","nome":"Interdição","escola":"Abjuro","escala":"Média","aliases":[],"tags":[],"ordem":295,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/interdicao.md","permalink":"/wiki/feiticos/interdicao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Interdição
 
-**Escola:** [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]]
-**Escala:** Média
+Interdição é um feitiço de escala média da escola [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]]. Bloqueia uma conjuração em curso antes que ela se manifeste: o conjurador percebe o acúmulo de energia no adversário e interpõe uma negação que aborta o processo. O feitiço alvo falha, e o conjurador original arca com o custo sem colher resultado algum.
 
-Bloquear conjuração em curso antes que se manifeste: o conjurador percebe o acúmulo de energia e interpõe negação que aborta o processo. O feitiço falha, o conjurador original sofre o custo sem colher resultado. Diferente de Supressão (que bloqueia capacidade por tempo): Interdição anula feitiço único no instante exato. Contra efeitos já ativos, inútil. Custo: tensão antecipatória constante que desgasta
+Distingue-se da Supressão, que bloqueia a capacidade de conjurar por um tempo: Interdição anula um único feitiço no instante exato de sua formação. Contra efeitos já ativos, é inútil. O custo recai sobre quem a pratica na forma de uma tensão antecipatória constante, que desgasta com o tempo.

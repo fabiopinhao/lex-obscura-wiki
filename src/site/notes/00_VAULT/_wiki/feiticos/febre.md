@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/febre.md","permalink":"/wiki/feiticos/febre/","dg-note-properties":{"tipo":"feitico","nome":"Febre","escola":"Patho","escala":"Média","aliases":[],"tags":[],"ordem":104,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/febre.md","permalink":"/wiki/feiticos/febre/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Febre
 
-**Escola:** [[00_VAULT/_wiki/escolas/patho\|Patho]]
-**Escala:** Média
+Febre é um feitiço de escala média da escola [[00_VAULT/_wiki/escolas/patho\|Patho]]. Induz febre alta, delírios, sudorese e tremores: o corpo luta contra uma doença que não existe e consome as próprias reservas na defesa de uma ameaça fantasma.
 
-Induzir febre alta, delírios, sudorese e tremores. O corpo luta contra doença que não existe, consumindo reservas em defesa de ameaça fantasma. Diferente de Exaustão ([[00_VAULT/_wiki/escolas/hypno\|Hypno]]), que drena por fadiga neurológica: Febre drena por resposta imunológica forçada, o corpo se destrói combatendo nada. Custo: calafrios e suor frio proporcional à temperatura imposta
+Diferente da [[00_VAULT/_wiki/feiticos/exaustao\|Exaustão]], da escola [[00_VAULT/_wiki/escolas/hypno\|Hypno]], que drena por fadiga neurológica, a Febre drena por uma resposta imunológica forçada, levando o corpo a se destruir combatendo nada. O custo são calafrios e suor frio, proporcionais à temperatura imposta.

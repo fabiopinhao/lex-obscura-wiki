@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/espreita/","dg-note-properties":{"tipo":"feitico","nome":"Espreita","escola":"Psycho","escala":"Menor","aliases":[],"tags":[],"ordem":131,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/espreita.md","permalink":"/wiki/feiticos/espreita/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Espreita
 
-**Escola:** [[00_VAULT/_wiki/escolas/psycho\|Psycho]]
-**Escala:** Menor
+Espreita é um feitiço menor da escola [[00_VAULT/_wiki/escolas/psycho\|Psycho]] usado para varrer uma área em busca de mentes conscientes. Cada presença pensante registra-se como um ponto de calor, e o conjurador distingue intensidade, agitação e número.
 
-Varrer área em busca de mentes conscientes: cada presença pensante registra como ponto de calor, distinguindo intensidade, agitação e número. Diferente de Vigília ([[00_VAULT/_wiki/escolas/gnosi\|Gnosi]]), que detecta intenção hostil e movimento: Espreita lê a mente, não o corpo. Custo: murmúrio residual de pensamentos alheios
+Distingue-se de Vigília ([[00_VAULT/_wiki/feiticos/vigilia\|Vigília]]), da escola [[00_VAULT/_wiki/escolas/gnosi\|Gnosi]], que detecta intenção hostil e movimento: Espreita lê a mente, não o corpo. O custo é um murmúrio residual de pensamentos alheios.

@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/oubliette/","dg-note-properties":{"tipo":"feitico","nome":"Oubliette","escola":"Nomos","escala":"Maior","aliases":[],"tags":[],"ordem":197,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/oubliette.md","permalink":"/wiki/feiticos/oubliette/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Oubliette
 
-**Escola:** [[00_VAULT/_wiki/escolas/nomos\|Nomos]]
-**Escala:** Maior
+Oubliette é um feitiço da escola [[00_VAULT/_wiki/escolas/nomos\|Nomos]], de escala maior. Cria um bolso dimensional selado: uma câmara fora da geografia convencional, para a qual o alvo é puxado, e cuja entrada se fecha como uma cicatriz no ar.
 
-Bolso dimensional selado: câmara fora da geografia convencional onde o alvo é puxado e a entrada se fecha como cicatriz no ar. Espaço finito e [[00_VAULT/_wiki/cosmologia/vazio\|vazio]], sem porta, sem direção para fora. O tempo passa normalmente, crueldade refinada: o prisioneiro envelhece e enlouquece em ritmo humano. Diferente de Estase ([[00_VAULT/_wiki/escolas/chrono\|Chrono]]), que congela. Abrir exige [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]] de potência equivalente. Custo: peso literal na coluna do conjurador, crescente com a duração
+### Funcionamento
+
+O espaço interno é finito e [[00_VAULT/_wiki/cosmologia/vazio\|vazio]], sem porta e sem direção para fora. O tempo ali corre normalmente, e nisso está a crueldade refinada do feitiço: o prisioneiro envelhece e enlouquece em ritmo humano. Diferente da Estase, da escola [[00_VAULT/_wiki/escolas/chrono\|Chrono]], que congela o tempo, a Oubliette o mantém em curso. Abrir a câmara exige um [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]] de potência equivalente.
+
+### Custo
+
+O conjurador carrega um peso literal na coluna, que cresce com a duração do aprisionamento.

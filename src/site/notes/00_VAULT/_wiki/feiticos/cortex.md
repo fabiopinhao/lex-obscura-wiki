@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/cortex.md","permalink":"/wiki/feiticos/cortex/","dg-note-properties":{"tipo":"feitico","nome":"Córtex","escola":"Vita","escala":"Média","aliases":[],"tags":[],"ordem":94,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/cortex.md","permalink":"/wiki/feiticos/cortex/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Córtex
 
-**Escola:** [[00_VAULT/_wiki/escolas/vita\|Vita]]
-**Escala:** Média
+Córtex é um feitiço da escola da [[00_VAULT/_wiki/escolas/vita\|Vita]], de escala média, que endurece a superfície do corpo com um revestimento orgânico: a pele ganha textura de casca, escamas ou quitina. É uma proteção natural que absorve impacto sem restringir o movimento.
 
-Endurecer a superfície do corpo com revestimento orgânico: pele ganha textura de casca, escamas ou quitina. Proteção natural que absorve impacto sem restringir movimento. Diferente de Couraça ([[00_VAULT/_wiki/escolas/aegis\|Aegis]]), que protege por força arcana: Córtex é biológico, cresce da própria carne. Diferente de Carapaça ([[00_VAULT/_wiki/escolas/cryo\|Cryo]]), que reveste em gelo: Córtex é orgânico e quente. Custo: envelhecimento leve, rigidez ao cessar
+### Princípio
+
+O Córtex é biológico e quente, cresce da própria carne. Distingue-se da Couraça, da escola do [[00_VAULT/_wiki/escolas/aegis\|Aegis]], que protege por força arcana, e da Carapaça, da escola do [[00_VAULT/_wiki/escolas/cryo\|Cryo]], que reveste o corpo em gelo.
+
+### Custo
+
+Provoca envelhecimento leve e rigidez quando cessa.

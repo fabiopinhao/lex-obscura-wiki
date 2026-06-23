@@ -21,11 +21,13 @@ Objetos que sobreviveram a seus criadores raramente o fizeram por acidente.
 - [[00_VAULT/_wiki/artefatos/fendris\|Fendris]] — Adaga Luminar capaz de fender planos
 - [[00_VAULT/_wiki/artefatos/efigie_de_arothistar\|Efígie de Arothistar]] — Sentinela animada da ponte de Mor'Severith
 
-## Armas e Armaduras
+## Armas, Armaduras e Insígnias
 
 - [[00_VAULT/_wiki/artefatos/armadura_templaria_de_orum\|Armadura Templária de Orum]] — Encantada com força, resistência e vigor
 - [[00_VAULT/_wiki/artefatos/capacete_de_maraxus\|Capacete de Maraxus]] — Ocultava a face demoníaca de seu portador
 - [[00_VAULT/_wiki/artefatos/bombarda_ananica\|Bombarda Anânica]] — Artilharia híbrida anã-shadar
+- [[00_VAULT/_wiki/artefatos/tegmen\|Tegmen]] — Armadura padrão da aristocracia shadar, insígnia de status
+- [[00_VAULT/_wiki/artefatos/insignia_duskryn\|Insígnia de Duskryn]] — Anel de autoridade da matriarca da Casa Duskryn
 
 ## Artefatos de Contenção
 

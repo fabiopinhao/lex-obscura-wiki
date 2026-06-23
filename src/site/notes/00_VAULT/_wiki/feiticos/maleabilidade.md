@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/maleabilidade.md","permalink":"/wiki/feiticos/maleabilidade/","dg-note-properties":{"tipo":"feitico","nome":"Maleabilidade","escola":"Morpho","escala":"Menor","aliases":[],"tags":[],"ordem":273,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/maleabilidade.md","permalink":"/wiki/feiticos/maleabilidade/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Maleabilidade
 
-**Escola:** [[00_VAULT/_wiki/escolas/morpho\|Morpho]]
-**Escala:** Menor
+Maleabilidade é um feitiço menor da escola do [[00_VAULT/_wiki/escolas/morpho\|Morpho]] que confere plasticidade corporal temporária: articulações hiperflexíveis, compressão óssea e contorção extrema. Permite escapar de amarras e passar por espaços estreitos.
 
-Plasticidade corporal temporária: articulações hiperflexíveis, compressão óssea, contorção extrema. Permite escapar de amarras e passar por espaços estreitos. Diferente de Liberdade ([[00_VAULT/_wiki/escolas/urano\|Urano]]), que dissolve vínculos por transcendência: Maleabilidade altera o corpo fisicamente. Custo: descoordenação ao cessar, ossos que esqueceram onde ficam
+Distingue-se da Liberdade, feitiço do [[00_VAULT/_wiki/escolas/urano\|Urano]] que dissolve vínculos por transcendência: a Maleabilidade altera o corpo fisicamente.
+
+### Custo
+
+Descoordenação ao cessar e ossos que esqueceram onde ficam.

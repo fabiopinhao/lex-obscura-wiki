@@ -1,65 +1,19 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/teru.md","permalink":"/wiki/magia/teru/","dg-note-properties":{"tipo":"sistema_acesso","nome":"Teru","cor":"Universal","nome_latino":"—","entidade":"N/A","tipo_acesso":"Estudo Técnico","dificuldade":"Muito Alta","estabilidade":"Alta","custo_principal":"Décadas de estudo acadêmico","custo_recai_sobre":["identidade","tempo_academico"],"pode_trair":"N/A","posicao_doutrinaria_imperial":"oficial","termo_canalizacao":"N/A","aliases":[],"ordem":6,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/teru.md","permalink":"/wiki/magia/teru/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Teru
 
-### Natureza
+O Teru é um sistema de acesso à magia não-teocrático: alcança as escolas arcanas pela comunicação com os [[00_VAULT/_wiki/cosmologia/planos_divinos\|planos divinos]], sem exigir submissão, pacto ou devoção a entidade alguma. É a via dos [[00_VAULT/_wiki/organizacoes/justiciars\|Justiciars]] do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], aprendida em academias arcanas ao longo de décadas de estudo.
 
-Sistema não-teocrático que acessa escolas de magia por comunicação com [[00_VAULT/_wiki/cosmologia/planos_divinos\|planos divinos]], sem exigir submissão, pacto ou devoção a nenhuma entidade. O [[00_VAULT/_wiki/cosmologia/magi\|magi]] vem de dentro do praticante, acompanhado de um sentimento associado à cor e à escola. Sem o sentimento correto, a invocação correta na língua correta produz nada.
+### Princípio
 
-> **Caso especial de formato:** Teru não tem entidade-fonte nem termo de canalização (`N/A`). Por isso este grão não traz as subseções `Canalização`, `Obrigações` nem `Quebra` das demais vias — substituídas por `Características`, `Processo de Aprendizado` e `Comparação`, coerentes com a natureza autocontida do sistema.
+No Teru, o [[00_VAULT/_wiki/cosmologia/magi\|magi]] vem de dentro do próprio praticante, acompanhado de um sentimento associado à cor e à escola que se quer invocar. Sem o sentimento correto, mesmo a invocação certa na língua certa não produz nada. A comunicação com os planos divinos se dá sem vínculo: o plano responde de forma automática, sem escolha e possivelmente sem consciência. O acesso abrange as dez escolas da [[00_VAULT/_wiki/cosmologia/cor_arcana\|cor racial]] do praticante, o que faz do Teru uma via de alta versatilidade e profundidade moderada, a do generalista competente em vez do especialista.
 
-### Características
+### Práticas
 
-- Comunicação com [[00_VAULT/_wiki/cosmologia/planos_divinos\|planos divinos]] sem vínculo — o plano responde automaticamente, sem escolha e possivelmente sem consciência
-- [[00_VAULT/_wiki/cosmologia/magi\|Magi]] vem de dentro do praticante, não canalizado de entidade
-- Acesso às 10 escolas da [[00_VAULT/_wiki/cosmologia/cor_arcana\|cor racial]] do praticante
-- Versatilidade alta, profundidade moderada - generalista competente, não especialista
-- Usado primariamente por [[00_VAULT/_wiki/organizacoes/justiciars\|Justiciars]] do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]
-- Requer estudo em academias arcanas
+O aprendizado começa pelo ingresso numa academia ou universidade arcana, com anos de estudo de teoria dos padrões mágicos, geometria arcana e linguagens de poder, prática supervisionada de feitiços básicos e exames rigorosos de proficiência. Na maestria que se alcança, o praticante domina múltiplas escolas da própria cor, mas o poder em cada uma permanece moderado, voltado à versatilidade tática e não ao poder bruto. É um caminho longo e caro, que exige intelecto excepcional, mas pode ser ensinado e institucionalizado, e não carrega o estigma social dos pactos.
 
-Os custos ontológicos do Teru diluem-se pelo uso distribuído entre as escolas — não há atenuação automática, apenas distribuição (ver [[00_VAULT/_wiki/magia/progressao_ontologica\|Progressão Ontológica]]). Para a mecânica de [[00_VAULT/_wiki/cosmologia/magi\|Magi]] — reserva, recuperação e sobrecarga —, ver [[00_VAULT/_wiki/magia/sistema_de_combustivel_magico\|Sistema de Combustível Mágico]].
+### Custos
 
-### Processo de Aprendizado
-
-1. **Treinamento Acadêmico:**
-   - Ingresso em academia/universidade arcana (anos de estudo)
-   - Teoria dos padrões mágicos, geometria arcana, linguagens de poder
-   - Prática supervisionada com feitiços básicos
-   - Exames rigorosos de proficiência
-
-2. **Maestria Limitada:**
-   - Praticante domina múltiplas escolas de sua cor
-   - Poder em cada escola é moderado (não atinge maestria de pactuados)
-   - Útil para versatilidade tática, não para poder bruto
-
-### Vantagens e Desvantagens
-
-- ✅ Independência total - sem obrigações a entidades
-- ✅ Versatilidade máxima - acesso a 10 escolas diferentes
-- ✅ Sem marca física
-- ✅ Custos ontológicos diluídos pelo uso distribuído entre múltiplas escolas
-- ✅ Pode ser ensinado/institucionalizado
-- ✅ Socialmente respeitável (não estigma de pactos)
-
-- ❌ Poder limitado em cada escola (mediano, não profundo)
-- ❌ Treinamento extremamente longo (décadas)
-- ❌ Caro (academias, materiais, tutores)
-- ❌ Nunca atinge maestria de pactuados especializados
-- ❌ Requer intelecto excepcional
-
-### Comparação: Teru vs Pacto
-
-Exemplo usando Necromancia:
-
-**Necromante pactuado ([[00_VAULT/_wiki/magia/pactum_diaboli\|Pactum Diaboli]]):**
-- Acesso: [[00_VAULT/_wiki/escolas/necro\|Necro]] + [[00_VAULT/_wiki/escolas/umbra\|Umbra]] (2 escolas)
-- Profundidade: MESTRE - pode levantar centenas de mortos, criar liches
-- Custo: Alma penhorada, obrigações rígidas
-
-**Justiciar com Teru:**
-- Acesso: Todas 10 escolas pretas (incluindo [[00_VAULT/_wiki/escolas/necro\|Necro]])
-- Profundidade: COMPETENTE - pode levantar poucos mortos, zumbis básicos
-- Custo: Anos de estudo, sem obrigações
-
-**Conclusão:** Teru permite fazer "um pouco de tudo", pactos permitem maestria em "muito de pouco".
+O Teru não deixa marca física e não impõe obrigações a entidade alguma. Seus custos ontológicos diluem-se pelo uso distribuído entre as várias escolas: não há atenuação automática, apenas distribuição (ver [[00_VAULT/_wiki/magia/progressao_ontologica\|Progressão Ontológica]]). A contrapartida é o teto de poder. Onde um necromante pactuado pela via do [[00_VAULT/_wiki/magia/pactum_diaboli\|Pactum Diaboli]] acessa poucas escolas mas atinge maestria, capaz de levantar centenas de mortos, um Justiciar com Teru alcança todas as dez escolas de sua cor com profundidade apenas competente. O Teru permite fazer um pouco de tudo; o pacto permite a maestria de muito pouco. Para a mecânica de reserva, recuperação e sobrecarga do magi, ver o [[00_VAULT/_wiki/magia/sistema_de_combustivel_magico\|Sistema de Combustível Mágico]].

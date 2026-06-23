@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/provocacao.md","permalink":"/wiki/feiticos/provocacao/","dg-note-properties":{"tipo":"feitico","nome":"Provocação","escola":"Belli","escala":"Menor","aliases":[],"tags":[],"ordem":201,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/provocacao.md","permalink":"/wiki/feiticos/provocacao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Provocação
 
-**Escola:** [[00_VAULT/_wiki/escolas/belli\|Belli]]
-**Escala:** Menor
+Provocação é um feitiço da escola [[00_VAULT/_wiki/escolas/belli\|Belli]], de escala menor. Desperta o instinto agressivo do alvo, um estímulo primitivo que o compele a atacar a ameaça mais próxima.
 
-Despertar instinto agressivo no alvo: estímulo primitivo que compele a atacar a ameaça mais próxima. Diferente de Injunção ([[00_VAULT/_wiki/escolas/nomos\|Nomos]]), que impõe comando específico: Provocação libera agressão bruta sem direcionar. Oponentes disciplinados resistem; soldados comuns cedem. Custo: adrenalina seguida de irritabilidade residual
+Diferencia-se da Injunção, da escola [[00_VAULT/_wiki/escolas/nomos\|Nomos]], que impõe um comando específico: a Provocação libera agressão bruta, sem direcioná-la. Oponentes disciplinados resistem ao impulso; soldados comuns cedem a ele. O custo é uma descarga de adrenalina seguida de irritabilidade residual.

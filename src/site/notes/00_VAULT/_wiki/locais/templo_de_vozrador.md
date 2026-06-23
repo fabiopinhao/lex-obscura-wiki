@@ -1,10 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/templo_de_vozrador.md","permalink":"/wiki/locais/templo-de-vozrador/","dg-note-properties":{"tipo":"local","nome":"Templo de Vozrador","tipo_local":"Templo (abandonado)","regiao":"Morvgrad (distrito interditado)","controlador":"Abandonado/Interditado","status_atual":"Abandonado (infestado)","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"0 (mortos-vivos)","aliases":[],"tags":[],"ordem":8,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/templo_de_vozrador.md","permalink":"/wiki/locais/templo-de-vozrador/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Templo de Vozrador
 
-### Natureza e história
-Templo da [[00_VAULT/_wiki/conceitos/primeira_era\|Primeira Era]] (a pedra obedecia ao canto, não ao cinzel), em distrito hoje abandonado e interditado por ordem do monarca. Selado ANTES do [[00_VAULT/_wiki/conceitos/protocolo_iconografico_da_coroa\|Protocolo Iconográfico da Coroa]] — a efígie de [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] que vigia a ruína não deveria existir. Por que a efígie do monarca vigia a ruína de um deus que ele aprisionou?
+O Templo de [[00_VAULT/_wiki/panteao/vozrador\|Vozrador]] é uma ruína da [[00_VAULT/_wiki/conceitos/primeira_era\|Primeira Era]] num distrito de [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]] hoje abandonado e interditado por ordem do monarca. É construção de uma época em que a pedra obedecia ao canto, não ao cinzel, e guarda um enigma que ninguém soube explicar.
 
-### [[00_VAULT/_wiki/panteao/vozrador\|Vozrador]] e a investigação
-[[00_VAULT/_wiki/panteao/vozrador\|Vozrador]] só aceitava um [[00_VAULT/_wiki/organizacoes/templarios\|templário]] por vez — característica única entre os [[00_VAULT/_wiki/cosmologia/diabos\|diabos]] (os demais templos mantinham vários; alguns, sete ou oito). Quando [[00_VAULT/_wiki/personagens/orum-rahru\|Orum]] investigou, encontrou-o infestado de mortos-vivos: [[00_VAULT/_wiki/personagens/qaelun\|Qaelun]] operava necromancia ali.
+### O anacronismo
+
+O templo foi selado antes do [[00_VAULT/_wiki/conceitos/protocolo_iconografico_da_coroa\|Protocolo Iconográfico da Coroa]], e ainda assim uma efígie de [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] vigia a ruína. A imagem não deveria existir ali. Resta a pergunta de por que a efígie do monarca guarda o santuário de um deus que ele aprisionou.
+
+### Vozrador e a ruína
+
+Em vida de culto, Vozrador tinha uma característica única entre os [[00_VAULT/_wiki/cosmologia/diabos\|diabos]]: só aceitava um [[00_VAULT/_wiki/organizacoes/templarios\|templário]] por vez, enquanto os demais templos mantinham vários, alguns sete ou oito. Quando [[00_VAULT/_wiki/personagens/orum-rahru\|Orum-Rahru]] investigou o lugar, encontrou-o infestado de mortos-vivos, fruto da necromancia que [[00_VAULT/_wiki/personagens/qaelun\|Qaelun]] operava entre as ruínas.

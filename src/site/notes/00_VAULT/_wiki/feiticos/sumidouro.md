@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/sumidouro.md","permalink":"/wiki/feiticos/sumidouro/","dg-note-properties":{"tipo":"feitico","nome":"Sumidouro","escola":"Geo","escala":"Média","aliases":[],"tags":[],"ordem":56,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sumidouro.md","permalink":"/wiki/feiticos/sumidouro/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Sumidouro
 
-**Escola:** [[00_VAULT/_wiki/escolas/geo\|Geo]]
-**Escala:** Média
+Sumidouro é um feitiço de escala Média da escola do [[00_VAULT/_wiki/escolas/geo\|Geo]]. Faz o chão ceder sob os pés do alvo.
 
-O chão cede sob os pés do alvo: fendas que se abrem, solo que vira lama, areia que suga. Sumidouro aprisiona pela terra real, e as paredes se fecham sobre quem cai. Não é destruição, o terreno se *reorganiza*. Custo: pés do conjurador afundam levemente, sensação de solo instável por horas
+### Efeito
+
+A terra se abre em fendas, o solo vira lama, a areia suga. O feitiço aprisiona pela terra real, e as paredes se fecham sobre quem cai. Não é destruição: o terreno se reorganiza.
+
+### Custo
+
+Os pés do conjurador afundam levemente, e a sensação de solo instável persiste por horas.

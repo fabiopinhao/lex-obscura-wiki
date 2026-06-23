@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/insonia.md","permalink":"/wiki/feiticos/insonia/","dg-note-properties":{"tipo":"feitico","nome":"Insônia","escola":"Hypno","escala":"Média","aliases":[],"tags":[],"ordem":125,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/insonia.md","permalink":"/wiki/feiticos/insonia/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Insônia
 
-**Escola:** [[00_VAULT/_wiki/escolas/hypno\|Hypno]]
-**Escala:** Média
+Insônia é um feitício de escala média da escola do [[00_VAULT/_wiki/escolas/hypno\|Hypno]], e funciona como o inverso de seu dom. Onde o Hypno induz sono, este feitício o proíbe: o alvo permanece desperto contra toda vontade, a mente girando sem parar.
 
-O inverso do dom de [[00_VAULT/_wiki/escolas/hypno\|Hypno]]: em vez de induzir sono, o conjurador o proíbe. O alvo permanece desperto contra toda vontade, mente girando sem parar. Diferente de Tormento ([[00_VAULT/_wiki/escolas/psycho\|Psycho]]), que causa dor mental direta: Insônia é tortura passiva por privação. Após dias, alucinações emergem e o julgamento colapsa. Custo: o conjurador perde qualidade de sono por dias, vigília fragmentada
+Distingue-se do Tormento, da escola do [[00_VAULT/_wiki/escolas/psycho\|Psycho]], que causa dor mental direta: a Insônia é tortura passiva por privação. Depois de dias sem descanso, alucinações emergem e o julgamento colapsa. Como custo, o próprio conjurador perde qualidade de sono por dias, em vigília fragmentada.

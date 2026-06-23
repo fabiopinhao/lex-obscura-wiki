@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/legiao.md","permalink":"/wiki/feiticos/legiao/","dg-note-properties":{"tipo":"feitico","nome":"Legião","escola":"Necro","escala":"**Máxima**","aliases":[],"tags":[],"ordem":90,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/legiao.md","permalink":"/wiki/feiticos/legiao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Legião
 
-**Escola:** [[00_VAULT/_wiki/escolas/necro\|Necro]]
-**Escala:** **Máxima**
+Legião é um feitiço de escala máxima da escola do [[00_VAULT/_wiki/escolas/necro\|Necro]]. Reanima dezenas ou centenas de mortos ao mesmo tempo num campo de batalha: servos sem mente, presos por vínculo frágil, e exige proximidade de um local de morte em massa. O conjurador sustenta a rede inteira até o próprio colapso.
 
-Reanimar dezenas ou centenas de mortos simultaneamente em campo de batalha: servos sem mente, vínculo frágil, exige proximidade com local de morte em massa. Diferente de Hibernação ([[00_VAULT/_wiki/escolas/hypno\|Hypno]]), que derruba vivos em massa: Legião levanta mortos em massa. O conjurador sustenta a rede até colapsar. Custo devastador: frio cadavérico total, a distinção vivo/morto se dissolve na percepção do conjurador, uso repetido acelera o Estágio IV
+### Custo
+
+O preço é devastador. Um frio cadavérico toma o conjurador por inteiro, a distinção entre vivo e morto se dissolve em sua percepção, e o uso repetido acelera o Estágio IV.

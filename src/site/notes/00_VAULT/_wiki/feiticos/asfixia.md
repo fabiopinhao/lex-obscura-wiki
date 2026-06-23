@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/asfixia.md","permalink":"/wiki/feiticos/asfixia/","dg-note-properties":{"tipo":"feitico","nome":"Asfixia","escola":"Aero","escala":"Maior","aliases":[],"tags":[],"ordem":49,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/asfixia.md","permalink":"/wiki/feiticos/asfixia/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Asfixia
 
-**Escola:** [[00_VAULT/_wiki/escolas/aero\|Aero]]
-**Escala:** Maior
+Asfixia é um feitiço de escala maior da escola [[00_VAULT/_wiki/escolas/aero\|Aero]]. Extrai o ar dos pulmões do alvo e cria um bolsão de vácuo ao redor de sua cabeça, de modo silencioso e invisível: não há grito nem último suspiro. Em escala menor, a pressão concentrada esmaga tímpanos e colapsa cavidades internas.
 
-Extrair ar dos pulmões, criar bolsão de vácuo ao redor da cabeça do alvo. Diferente de Bolha ([[00_VAULT/_wiki/escolas/hydro\|Hydro]]), que sufoca por água: Asfixia remove o ar, silenciosa e invisível. Não há grito, não há último suspiro. Em escala menor, pressão concentrada esmaga tímpanos e colapsa cavidades internas. Custo: pressão no peito do conjurador, fôlego curto por minutos, sensação de sufocamento fantasma
+O feitiço se distingue de Bolha, da escola [[00_VAULT/_wiki/escolas/hydro\|Hydro]], que sufoca por água. Asfixia remove o próprio ar. O preço recai sobre o conjurador: uma pressão no peito, fôlego curto por minutos e uma sensação fantasma de sufocamento.
