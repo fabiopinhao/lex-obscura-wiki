@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/reinkard/","dg-note-properties":{"tipo":"local","nome":"Reinkard","tipo_local":"Continente","regiao":"Thamakard (plano material) — entre Veinkard (oeste) e Neranthis (leste)","controlador":"Império Sombrio (hegemonia shadar)","status_atual":"Ativo (dominado)","distancia_morvgrad_leguas":"0 (Morvgrad é a capital)","populacao_aprox":"Milhões (estimativa; sem censo canônico)","aliases":["continente central"],"tags":[],"ordem":15.1,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/reinkard.md","permalink":"/wiki/locais/reinkard/","dg-note-properties":{"tipo":"local","nome":"Reinkard","tipo_local":"Continente","regiao":"Thamakard (plano material) — entre Veinkard (oeste) e Neranthis (leste)","controlador":"Império Sombrio (hegemonia shadar)","status_atual":"Ativo (dominado)","distancia_morvgrad_leguas":"0 (Morvgrad é a capital)","populacao_aprox":"Milhões (estimativa; sem censo canônico)","aliases":["continente central"],"tags":[],"ordem":15.1,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

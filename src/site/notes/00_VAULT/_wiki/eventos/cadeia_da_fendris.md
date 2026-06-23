@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/cadeia-da-fendris/","dg-note-properties":{"tipo":"evento","nome":"Cadeia da Fendris (Roubo do Museu de Dessian Broel)","id":"E-0045","era":"Terceira_Era","ano_relativo":0,"tipo_evento":"politico","impacto":"alto","marco_yaml":"—","aliases":["Roubo da Fendris","Fendris e Serpente Púrpura"],"tags":[],"ordem":45,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/cadeia_da_fendris.md","permalink":"/wiki/eventos/cadeia-da-fendris/","dg-note-properties":{"tipo":"evento","nome":"Cadeia da Fendris (Roubo do Museu de Dessian Broel)","id":"E-0045","era":"Terceira_Era","ano_relativo":0,"tipo_evento":"politico","impacto":"alto","marco_yaml":"—","aliases":["Roubo da Fendris","Fendris e Serpente Púrpura"],"tags":[],"ordem":45,"generated_by":"strip_sistema"}}
 ---
 
 

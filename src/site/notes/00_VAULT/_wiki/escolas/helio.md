@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/helio/","dg-note-properties":{"tipo":"escola_magia","nome":"Helio","codigo":"WW","dominio":"Luz e Radiância","cor_primaria":"W","cor_secundaria":"W","tipo_escola":"Pura","par_antagonico":"Umbra","categoria_oposicao":"Elemental","aliases":[],"ordem":25,"sentimento_chave":"Necessidade de revelar; a convicção de que esconder é corromper.","custo_ontologico_resumo":"Exposição compulsiva. Segredos intoleráveis; transparência como imperativo.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/helio.md","permalink":"/wiki/escolas/helio/","dg-note-properties":{"tipo":"escola_magia","nome":"Helio","codigo":"WW","dominio":"Luz e Radiância","cor_primaria":"W","cor_secundaria":"W","tipo_escola":"Pura","par_antagonico":"Umbra","categoria_oposicao":"Elemental","aliases":[],"ordem":25,"sentimento_chave":"Necessidade de revelar; a convicção de que esconder é corromper.","custo_ontologico_resumo":"Exposição compulsiva. Segredos intoleráveis; transparência como imperativo.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

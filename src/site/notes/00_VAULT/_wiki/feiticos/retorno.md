@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/retorno/","dg-note-properties":{"tipo":"feitico","nome":"Retorno","escola":"Salvo","escala":"Maior","aliases":[],"tags":[],"ordem":119,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/retorno.md","permalink":"/wiki/feiticos/retorno/","dg-note-properties":{"tipo":"feitico","nome":"Retorno","escola":"Salvo","escala":"Maior","aliases":[],"tags":[],"ordem":119,"generated_by":"strip_sistema"}}
 ---
 
 

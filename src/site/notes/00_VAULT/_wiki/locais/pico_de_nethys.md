@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/pico-de-nethys/","dg-note-properties":{"tipo":"local","nome":"Pico de Nethys","tipo_local":"Pico (montanha)","regiao":"Dorsal (margem voltada para o planalto)","controlador":"Nenhum (abandonado)","status_atual":"Abandonado","distancia_morvgrad_leguas":"Adjacente a Morvgrad","populacao_aprox":0,"aliases":["Dente de Reinkard"],"ordem":57,"heading_level":3,"parent":"morvgrad","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/pico_de_nethys.md","permalink":"/wiki/locais/pico-de-nethys/","dg-note-properties":{"tipo":"local","nome":"Pico de Nethys","tipo_local":"Pico (montanha)","regiao":"Dorsal (margem voltada para o planalto)","controlador":"Nenhum (abandonado)","status_atual":"Abandonado","distancia_morvgrad_leguas":"Adjacente a Morvgrad","populacao_aprox":0,"aliases":["Dente de Reinkard"],"ordem":57,"heading_level":3,"parent":"morvgrad","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

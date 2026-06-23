@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/penumbra/","dg-note-properties":{"tipo":"feitico","nome":"Penumbra","escola":"Umbra","escala":"Menor","aliases":[],"tags":[],"ordem":61,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/penumbra.md","permalink":"/wiki/feiticos/penumbra/","dg-note-properties":{"tipo":"feitico","nome":"Penumbra","escola":"Umbra","escala":"Menor","aliases":[],"tags":[],"ordem":61,"generated_by":"strip_sistema"}}
 ---
 
 

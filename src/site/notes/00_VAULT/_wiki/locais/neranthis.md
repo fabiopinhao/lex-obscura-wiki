@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/neranthis/","dg-note-properties":{"tipo":"local","nome":"Neranthis","tipo_local":"Continente","regiao":"Leste de Reinkard (além de pântanos)","controlador":"Raças Azuis (independente)","status_atual":"Ativo (independente)","distancia_morvgrad_leguas":"~1.000+","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":17,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/neranthis.md","permalink":"/wiki/locais/neranthis/","dg-note-properties":{"tipo":"local","nome":"Neranthis","tipo_local":"Continente","regiao":"Leste de Reinkard (além de pântanos)","controlador":"Raças Azuis (independente)","status_atual":"Ativo (independente)","distancia_morvgrad_leguas":"~1.000+","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":17,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

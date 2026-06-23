@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/criaturas/grifo/","dg-note-properties":{"tipo":"criatura","nome":"Grifo","cor_arcana":"—","habitat":"Reinkard (pré-conquista shadar)","aliases":["Grifos"],"tags":[],"ordem":9,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/grifo.md","permalink":"/wiki/criaturas/grifo/","dg-note-properties":{"tipo":"criatura","nome":"Grifo","cor_arcana":"—","habitat":"Reinkard (pré-conquista shadar)","aliases":["Grifos"],"tags":[],"ordem":9,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

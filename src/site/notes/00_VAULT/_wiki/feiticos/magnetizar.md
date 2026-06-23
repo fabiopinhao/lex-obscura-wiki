@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/magnetizar/","dg-note-properties":{"tipo":"feitico","nome":"Magnetizar","escola":"Electro","escala":"Menor","aliases":[],"tags":[],"ordem":242,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/magnetizar.md","permalink":"/wiki/feiticos/magnetizar/","dg-note-properties":{"tipo":"feitico","nome":"Magnetizar","escola":"Electro","escala":"Menor","aliases":[],"tags":[],"ordem":242,"generated_by":"strip_sistema"}}
 ---
 
 

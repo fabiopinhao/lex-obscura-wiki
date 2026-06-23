@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/maleficariums/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Maleficariums","subtipo":"grimorio","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Maleficarium","Maleficariums de Myrgarde"],"ordem":31,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/maleficariums.md","permalink":"/wiki/cosmologia/maleficariums/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Maleficariums","subtipo":"grimorio","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Maleficarium","Maleficariums de Myrgarde"],"ordem":31,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

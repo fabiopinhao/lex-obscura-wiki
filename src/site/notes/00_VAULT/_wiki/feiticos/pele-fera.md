@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/pele-fera/","dg-note-properties":{"tipo":"feitico","nome":"Pele-fera","escola":"Morpho","escala":"Média","aliases":[],"tags":[],"ordem":275,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/pele-fera.md","permalink":"/wiki/feiticos/pele-fera/","dg-note-properties":{"tipo":"feitico","nome":"Pele-fera","escola":"Morpho","escala":"Média","aliases":[],"tags":[],"ordem":275,"generated_by":"strip_sistema"}}
 ---
 
 

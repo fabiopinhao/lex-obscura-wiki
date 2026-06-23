@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/portal/","dg-note-properties":{"tipo":"feitico","nome":"Portal","escola":"Cosmo","escala":"Maior","aliases":[],"tags":[],"ordem":229,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/portal.md","permalink":"/wiki/feiticos/portal/","dg-note-properties":{"tipo":"feitico","nome":"Portal","escola":"Cosmo","escala":"Maior","aliases":[],"tags":[],"ordem":229,"generated_by":"strip_sistema"}}
 ---
 
 

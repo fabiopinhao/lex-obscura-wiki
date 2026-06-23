@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/coletoria/","dg-note-properties":{"tipo":"organizacao","nome":"Coletoria","tipo_organizacao":"Braço administrativo","cor_afiliacao":"Preto","lider_atual":"Malachar Vyrensen","sede":"Morvgrad","status_atual":"Ativo","membros_aprox":"Dezenas","funcao_principal":"Cobrança de dívidas e tributos do império; rede de espionagem paralela.","aliases":[],"tags":[],"ordem":21,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/coletoria.md","permalink":"/wiki/organizacoes/coletoria/","dg-note-properties":{"tipo":"organizacao","nome":"Coletoria","tipo_organizacao":"Braço administrativo","cor_afiliacao":"Preto","lider_atual":"Malachar Vyrensen","sede":"Morvgrad","status_atual":"Ativo","membros_aprox":"Dezenas","funcao_principal":"Cobrança de dívidas e tributos do império; rede de espionagem paralela.","aliases":[],"tags":[],"ordem":21,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

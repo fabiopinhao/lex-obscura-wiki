@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/anatho/","dg-note-properties":{"tipo":"escola_magia","nome":"Anatho","codigo":"BR","dominio":"Maldição e Corrupção","cor_primaria":"B","cor_secundaria":"R","tipo_escola":"Híbrida","par_antagonico":"Sacro","categoria_oposicao":"Ordem/Caos","aliases":[],"ordem":3,"sentimento_chave":"Vontade calculada de degradar; enxergar fraquezas como pontos de pressão.","custo_ontologico_resumo":"Relações como vetores de dano. Toda conexão é ponto de ataque; incapacidade de confiar.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/anatho.md","permalink":"/wiki/escolas/anatho/","dg-note-properties":{"tipo":"escola_magia","nome":"Anatho","codigo":"BR","dominio":"Maldição e Corrupção","cor_primaria":"B","cor_secundaria":"R","tipo_escola":"Híbrida","par_antagonico":"Sacro","categoria_oposicao":"Ordem/Caos","aliases":[],"ordem":3,"sentimento_chave":"Vontade calculada de degradar; enxergar fraquezas como pontos de pressão.","custo_ontologico_resumo":"Relações como vetores de dano. Toda conexão é ponto de ataque; incapacidade de confiar.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

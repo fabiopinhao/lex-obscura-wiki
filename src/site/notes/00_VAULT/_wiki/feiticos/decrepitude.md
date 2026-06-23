@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/decrepitude/","dg-note-properties":{"tipo":"feitico","nome":"Decrepitude","escola":"Patho","escala":"Maior","aliases":[],"tags":[],"ordem":109,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/decrepitude.md","permalink":"/wiki/feiticos/decrepitude/","dg-note-properties":{"tipo":"feitico","nome":"Decrepitude","escola":"Patho","escala":"Maior","aliases":[],"tags":[],"ordem":109,"generated_by":"strip_sistema"}}
 ---
 
 

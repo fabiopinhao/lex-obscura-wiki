@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/fragmentar/","dg-note-properties":{"tipo":"feitico","nome":"Fragmentar","escola":"Rupto","escala":"Média","aliases":[],"tags":[],"ordem":184,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/fragmentar.md","permalink":"/wiki/feiticos/fragmentar/","dg-note-properties":{"tipo":"feitico","nome":"Fragmentar","escola":"Rupto","escala":"Média","aliases":[],"tags":[],"ordem":184,"generated_by":"strip_sistema"}}
 ---
 
 

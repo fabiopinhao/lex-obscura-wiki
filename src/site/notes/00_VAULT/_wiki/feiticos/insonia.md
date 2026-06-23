@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/insonia/","dg-note-properties":{"tipo":"feitico","nome":"Insônia","escola":"Hypno","escala":"Média","aliases":[],"tags":[],"ordem":125,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/insonia.md","permalink":"/wiki/feiticos/insonia/","dg-note-properties":{"tipo":"feitico","nome":"Insônia","escola":"Hypno","escala":"Média","aliases":[],"tags":[],"ordem":125,"generated_by":"strip_sistema"}}
 ---
 
 

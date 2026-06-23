@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/bal-hadut/","dg-note-properties":{"tipo":"divindade","nome":"Bal'Hadut","forma_divina":"Dragão Vulcânico","epiteto":"Trono Incandescente","epiteto_en-US":"The Incandescent Throne","categoria":"Demônio","cores":"RR","cor_dominante":"R","escola_1":"pyro","escola_2":"belli","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":15,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/bal_hadut.md","permalink":"/wiki/panteao/bal-hadut/","dg-note-properties":{"tipo":"divindade","nome":"Bal'Hadut","forma_divina":"Dragão Vulcânico","epiteto":"Trono Incandescente","epiteto_en-US":"The Incandescent Throne","categoria":"Demônio","cores":"RR","cor_dominante":"R","escola_1":"pyro","escola_2":"belli","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":15,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

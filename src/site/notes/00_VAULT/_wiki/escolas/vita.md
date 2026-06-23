@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/vita/","dg-note-properties":{"tipo":"escola_magia","nome":"Vita","codigo":"GG","dominio":"Vida e Crescimento","cor_primaria":"G","cor_secundaria":"G","tipo_escola":"Pura","par_antagonico":"Necro","categoria_oposicao":"Vital","aliases":[],"ordem":20,"sentimento_chave":"Alegria diante do que cresce; o impulso de nutrir o que ainda não atingiu seu potencial.","custo_ontologico_resumo":"Fome de vitalidade. Proximidade com jovens é compulsiva; sozinho, definha.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/vita.md","permalink":"/wiki/escolas/vita/","dg-note-properties":{"tipo":"escola_magia","nome":"Vita","codigo":"GG","dominio":"Vida e Crescimento","cor_primaria":"G","cor_secundaria":"G","tipo_escola":"Pura","par_antagonico":"Necro","categoria_oposicao":"Vital","aliases":[],"ordem":20,"sentimento_chave":"Alegria diante do que cresce; o impulso de nutrir o que ainda não atingiu seu potencial.","custo_ontologico_resumo":"Fome de vitalidade. Proximidade com jovens é compulsiva; sozinho, definha.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

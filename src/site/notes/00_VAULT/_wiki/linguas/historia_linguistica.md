@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/linguas/historia-linguistica/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"História Linguística de Reinkard","subtipo":"linguistica","origem_arquivo":"3.8_linguas_LORE.md","aliases":[],"tags":[],"ordem":0,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/historia_linguistica.md","permalink":"/wiki/linguas/historia-linguistica/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"História Linguística de Reinkard","subtipo":"linguistica","origem_arquivo":"3.8_linguas_LORE.md","aliases":[],"tags":[],"ordem":0,"generated_by":"strip_sistema"}}
 ---
 
 

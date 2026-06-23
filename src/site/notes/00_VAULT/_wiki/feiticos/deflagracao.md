@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/deflagracao/","dg-note-properties":{"tipo":"feitico","nome":"Deflagração","escola":"Pyro","escala":"Média","aliases":[],"tags":[],"ordem":5,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/deflagracao.md","permalink":"/wiki/feiticos/deflagracao/","dg-note-properties":{"tipo":"feitico","nome":"Deflagração","escola":"Pyro","escala":"Média","aliases":[],"tags":[],"ordem":5,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/flux-aetheria/","dg-note-properties":{"tipo":"conceito","lore_target":"3.7","nome":"Flux Aetheria","subtipo":"sistema_magico","origem_arquivo":"3.7_sistemas_magicos_LORE.md","aliases":["Manipulação Etérea Direta"],"ordem":13,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/flux_aetheria.md","permalink":"/wiki/magia/flux-aetheria/","dg-note-properties":{"tipo":"conceito","lore_target":"3.7","nome":"Flux Aetheria","subtipo":"sistema_magico","origem_arquivo":"3.7_sistemas_magicos_LORE.md","aliases":["Manipulação Etérea Direta"],"ordem":13,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

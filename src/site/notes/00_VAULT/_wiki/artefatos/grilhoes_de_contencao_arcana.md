@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/grilhoes-de-contencao-arcana/","dg-note-properties":{"tipo":"artefato","nome":"Grilhões de Contenção Arcana","tipo_artefato":"Correntes","categoria":"Contenção","portador_atual":"Mor'Severith","localizacao_atual":"Mor'Severith","status_atual":"Ativo","origem":"Culto Sombrio","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":15,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/grilhoes_de_contencao_arcana.md","permalink":"/wiki/artefatos/grilhoes-de-contencao-arcana/","dg-note-properties":{"tipo":"artefato","nome":"Grilhões de Contenção Arcana","tipo_artefato":"Correntes","categoria":"Contenção","portador_atual":"Mor'Severith","localizacao_atual":"Mor'Severith","status_atual":"Ativo","origem":"Culto Sombrio","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":15,"generated_by":"strip_sistema"}}
 ---
 
 

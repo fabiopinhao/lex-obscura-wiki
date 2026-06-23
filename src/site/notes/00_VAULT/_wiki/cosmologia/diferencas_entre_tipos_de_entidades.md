@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/diferencas-entre-tipos-de-entidades/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Diferenças Entre Tipos de Entidades","aliases":[],"tags":[],"ordem":0,"subtipo":"cosmologia","origem_arquivo":"3.4_cosmologia_LORE.md","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/diferencas_entre_tipos_de_entidades.md","permalink":"/wiki/cosmologia/diferencas-entre-tipos-de-entidades/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Diferenças Entre Tipos de Entidades","aliases":[],"tags":[],"ordem":0,"subtipo":"cosmologia","origem_arquivo":"3.4_cosmologia_LORE.md","generated_by":"strip_sistema"}}
 ---
 
 

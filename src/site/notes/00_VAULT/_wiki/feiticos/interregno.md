@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/interregno/","dg-note-properties":{"tipo":"feitico","nome":"Interregno","escola":"Chrono","escala":"Média","aliases":[],"tags":[],"ordem":256,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/interregno.md","permalink":"/wiki/feiticos/interregno/","dg-note-properties":{"tipo":"feitico","nome":"Interregno","escola":"Chrono","escala":"Média","aliases":[],"tags":[],"ordem":256,"generated_by":"strip_sistema"}}
 ---
 
 

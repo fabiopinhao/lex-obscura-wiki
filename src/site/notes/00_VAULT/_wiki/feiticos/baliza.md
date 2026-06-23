@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/baliza/","dg-note-properties":{"tipo":"feitico","nome":"Baliza","escola":"Helio","escala":"Menor","aliases":[],"tags":[],"ordem":73,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/baliza.md","permalink":"/wiki/feiticos/baliza/","dg-note-properties":{"tipo":"feitico","nome":"Baliza","escola":"Helio","escala":"Menor","aliases":[],"tags":[],"ordem":73,"generated_by":"strip_sistema"}}
 ---
 
 

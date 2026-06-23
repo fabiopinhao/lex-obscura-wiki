@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/tormento/","dg-note-properties":{"tipo":"feitico","nome":"Tormento","escola":"Psycho","escala":"Média","aliases":[],"tags":[],"ordem":135,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/tormento.md","permalink":"/wiki/feiticos/tormento/","dg-note-properties":{"tipo":"feitico","nome":"Tormento","escola":"Psycho","escala":"Média","aliases":[],"tags":[],"ordem":135,"generated_by":"strip_sistema"}}
 ---
 
 

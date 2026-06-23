@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/magi/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Magi","subtipo":"sistema_magico","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Força Alquímica"],"ordem":12,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/magi.md","permalink":"/wiki/cosmologia/magi/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Magi","subtipo":"sistema_magico","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Força Alquímica"],"ordem":12,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/tratado-de-wijmarv/","dg-note-properties":{"tipo":"artefato","nome":"Tratado de Wijmarv","tipo_artefato":"Pergaminho/Documento","categoria":"Conhecimento","portador_atual":"Arothistar","localizacao_atual":"Mor'Severith","status_atual":"Ativo","origem":"Varnakiano (Wijmarv)","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":12,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/tratado_de_wijmarv.md","permalink":"/wiki/artefatos/tratado-de-wijmarv/","dg-note-properties":{"tipo":"artefato","nome":"Tratado de Wijmarv","tipo_artefato":"Pergaminho/Documento","categoria":"Conhecimento","portador_atual":"Arothistar","localizacao_atual":"Mor'Severith","status_atual":"Ativo","origem":"Varnakiano (Wijmarv)","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":12,"generated_by":"strip_sistema"}}
 ---
 
 

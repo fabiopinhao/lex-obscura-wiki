@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/relento/","dg-note-properties":{"tipo":"feitico","nome":"Relento","escola":"Cryo","escala":"Menor","aliases":[],"tags":[],"ordem":22,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/relento.md","permalink":"/wiki/feiticos/relento/","dg-note-properties":{"tipo":"feitico","nome":"Relento","escola":"Cryo","escala":"Menor","aliases":[],"tags":[],"ordem":22,"generated_by":"strip_sistema"}}
 ---
 
 

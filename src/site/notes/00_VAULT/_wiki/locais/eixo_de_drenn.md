@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/eixo-de-drenn/","dg-note-properties":{"tipo":"local","nome":"Eixo de Drenn","tipo_local":"Rota (subterrânea)","regiao":"Vor-Ghol","controlador":"Nenhum (abandonado)","status_atual":"Ativo (rota de contorno)","distancia_morvgrad_leguas":"Via Vor-Ghol","populacao_aprox":"0 (desabitado)","aliases":[],"tags":[],"ordem":51,"heading_level":3,"parent":"vor-ghol","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/eixo_de_drenn.md","permalink":"/wiki/locais/eixo-de-drenn/","dg-note-properties":{"tipo":"local","nome":"Eixo de Drenn","tipo_local":"Rota (subterrânea)","regiao":"Vor-Ghol","controlador":"Nenhum (abandonado)","status_atual":"Ativo (rota de contorno)","distancia_morvgrad_leguas":"Via Vor-Ghol","populacao_aprox":"0 (desabitado)","aliases":[],"tags":[],"ordem":51,"heading_level":3,"parent":"vor-ghol","generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/bencao/","dg-note-properties":{"tipo":"feitico","nome":"Bênção","escola":"Sacro","escala":"Média","aliases":[],"tags":[],"ordem":174,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/bencao.md","permalink":"/wiki/feiticos/bencao/","dg-note-properties":{"tipo":"feitico","nome":"Bênção","escola":"Sacro","escala":"Média","aliases":[],"tags":[],"ordem":174,"generated_by":"strip_sistema"}}
 ---
 
 

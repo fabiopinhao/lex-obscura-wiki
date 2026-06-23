@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/lacuna/","dg-note-properties":{"tipo":"feitico","nome":"Lacuna","escola":"Abjuro","escala":"Maior","aliases":[],"tags":[],"ordem":299,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/lacuna.md","permalink":"/wiki/feiticos/lacuna/","dg-note-properties":{"tipo":"feitico","nome":"Lacuna","escola":"Abjuro","escala":"Maior","aliases":[],"tags":[],"ordem":299,"generated_by":"strip_sistema"}}
 ---
 
 

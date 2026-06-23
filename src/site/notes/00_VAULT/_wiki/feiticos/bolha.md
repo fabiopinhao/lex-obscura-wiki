@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/bolha/","dg-note-properties":{"tipo":"feitico","nome":"Bolha","escola":"Hydro","escala":"Média","aliases":[],"tags":[],"ordem":16,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/bolha.md","permalink":"/wiki/feiticos/bolha/","dg-note-properties":{"tipo":"feitico","nome":"Bolha","escola":"Hydro","escala":"Média","aliases":[],"tags":[],"ordem":16,"generated_by":"strip_sistema"}}
 ---
 
 

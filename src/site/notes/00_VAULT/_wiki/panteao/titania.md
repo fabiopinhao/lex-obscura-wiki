@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/titania/","dg-note-properties":{"tipo":"divindade","nome":"Titânia","forma_divina":"Dríade Inviolada","epiteto":"Mãe das Raízes","epiteto_en-US":"Mother of Roots","categoria":"Titã-Anjo","cores":"GW","cor_dominante":"G","escola_1":"abjuro","escola_2":"salvo","status":"Ativo","relevancia":"Central","aliases":[],"ordem":31,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/titania.md","permalink":"/wiki/panteao/titania/","dg-note-properties":{"tipo":"divindade","nome":"Titânia","forma_divina":"Dríade Inviolada","epiteto":"Mãe das Raízes","epiteto_en-US":"Mother of Roots","categoria":"Titã-Anjo","cores":"GW","cor_dominante":"G","escola_1":"abjuro","escola_2":"salvo","status":"Ativo","relevancia":"Central","aliases":[],"ordem":31,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/geo/","dg-note-properties":{"tipo":"escola_magia","nome":"Geo","codigo":"GG","dominio":"Terra e Pedra","cor_primaria":"G","cor_secundaria":"G","tipo_escola":"Pura","par_antagonico":"Aero","categoria_oposicao":"Elemental","aliases":[],"ordem":19,"sentimento_chave":"Obstinação; a recusa de ceder, sentida no corpo, como convicção de que permanecer é resistir.","custo_ontologico_resumo":"Imobilismo psicológico. Mudança é aversiva; rotinas calcificam; novidade ameaça.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/geo.md","permalink":"/wiki/escolas/geo/","dg-note-properties":{"tipo":"escola_magia","nome":"Geo","codigo":"GG","dominio":"Terra e Pedra","cor_primaria":"G","cor_secundaria":"G","tipo_escola":"Pura","par_antagonico":"Aero","categoria_oposicao":"Elemental","aliases":[],"ordem":19,"sentimento_chave":"Obstinação; a recusa de ceder, sentida no corpo, como convicção de que permanecer é resistir.","custo_ontologico_resumo":"Imobilismo psicológico. Mudança é aversiva; rotinas calcificam; novidade ameaça.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/vigor/","dg-note-properties":{"tipo":"feitico","nome":"Vigor","escola":"Vita","escala":"Menor","aliases":[],"tags":[],"ordem":92,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/vigor.md","permalink":"/wiki/feiticos/vigor/","dg-note-properties":{"tipo":"feitico","nome":"Vigor","escola":"Vita","escala":"Menor","aliases":[],"tags":[],"ordem":92,"generated_by":"strip_sistema"}}
 ---
 
 

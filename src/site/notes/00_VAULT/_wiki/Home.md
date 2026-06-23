@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/home/","tags":["gardenEntry"],"dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/Home.md","permalink":"/wiki/home/","tags":["gardenEntry"],"dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Lex Obscura

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/conceitos/sigilo-de-abbhal/","dg-note-properties":{"tipo":"conceito","lore_target":"3.2","nome":"Sigilo de Abbhal","subtipo":"instrumento_juridico","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":["Marca de Abbhal"],"ordem":23,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/sigilo_de_abbhal.md","permalink":"/wiki/conceitos/sigilo-de-abbhal/","dg-note-properties":{"tipo":"conceito","lore_target":"3.2","nome":"Sigilo de Abbhal","subtipo":"instrumento_juridico","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":["Marca de Abbhal"],"ordem":23,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

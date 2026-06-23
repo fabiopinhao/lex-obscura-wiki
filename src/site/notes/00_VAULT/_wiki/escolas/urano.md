@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/urano/","dg-note-properties":{"tipo":"escola_magia","nome":"Urano","codigo":"UW","dominio":"Transcendência e Elevação","cor_primaria":"U","cor_secundaria":"W","tipo_escola":"Híbrida","par_antagonico":"Cosmo","categoria_oposicao":"Espacial/Temporal","aliases":[],"ordem":28,"sentimento_chave":"Percepção de que o mundano é pequeno; a atração pelo que transcende o imediato.","custo_ontologico_resumo":"Desprezo pelo mundano. Assuntos terrenos pequenos; transcendência como único objetivo.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/urano.md","permalink":"/wiki/escolas/urano/","dg-note-properties":{"tipo":"escola_magia","nome":"Urano","codigo":"UW","dominio":"Transcendência e Elevação","cor_primaria":"U","cor_secundaria":"W","tipo_escola":"Híbrida","par_antagonico":"Cosmo","categoria_oposicao":"Espacial/Temporal","aliases":[],"ordem":28,"sentimento_chave":"Percepção de que o mundano é pequeno; a atração pelo que transcende o imediato.","custo_ontologico_resumo":"Desprezo pelo mundano. Assuntos terrenos pequenos; transcendência como único objetivo.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

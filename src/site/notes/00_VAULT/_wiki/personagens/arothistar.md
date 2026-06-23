@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/arothistar/","dg-note-properties":{"tipo":"personagem","nome_atual":"Arothistar","raca":"Shadar","sexo":"M","relevancia":"Protagonista","status_atual":"Vivo","localizacao_atual":"Mor'Severith","armas_principais":"—","afiliacao_primaria":"Império (fundador)","aliases":["Dravhok","Dravmir","General Dravhok","Aroth de Histar"],"ordem":2,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/arothistar.md","permalink":"/wiki/personagens/arothistar/","dg-note-properties":{"tipo":"personagem","nome_atual":"Arothistar","raca":"Shadar","sexo":"M","relevancia":"Protagonista","status_atual":"Vivo","localizacao_atual":"Mor'Severith","armas_principais":"—","afiliacao_primaria":"Império (fundador)","aliases":["Dravhok","Dravmir","General Dravhok","Aroth de Histar"],"ordem":2,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

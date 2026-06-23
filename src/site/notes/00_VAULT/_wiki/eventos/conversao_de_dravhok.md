@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/conversao-de-dravhok/","dg-note-properties":{"tipo":"evento","nome":"Conversão de Dravhok","id":"E-0027","era":"Guerras_Reinkardicas","ano_relativo":-80,"tipo_evento":"ritual","impacto":"alto","marco_yaml":"—","aliases":["Nascimento de Dravhok"],"tags":[],"ordem":27,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/conversao_de_dravhok.md","permalink":"/wiki/eventos/conversao-de-dravhok/","dg-note-properties":{"tipo":"evento","nome":"Conversão de Dravhok","id":"E-0027","era":"Guerras_Reinkardicas","ano_relativo":-80,"tipo_evento":"ritual","impacto":"alto","marco_yaml":"—","aliases":["Nascimento de Dravhok"],"tags":[],"ordem":27,"generated_by":"strip_sistema"}}
 ---
 
 

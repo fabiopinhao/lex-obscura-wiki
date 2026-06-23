@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/guilda-dos-gnomos/","dg-note-properties":{"tipo":"organizacao","nome":"Guilda dos Gnomos","tipo_organizacao":"Crime organizado","cor_afiliacao":"Preto","lider_atual":"Dribbel Olgund (Quebra-Trocas)","sede":"Morvgrad (Mercado Oeste)","status_atual":"Ativo","membros_aprox":"Centenas","funcao_principal":"Mercado negro, falsificação, informantes.","aliases":[],"tags":[],"ordem":8,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/guilda_dos_gnomos.md","permalink":"/wiki/organizacoes/guilda-dos-gnomos/","dg-note-properties":{"tipo":"organizacao","nome":"Guilda dos Gnomos","tipo_organizacao":"Crime organizado","cor_afiliacao":"Preto","lider_atual":"Dribbel Olgund (Quebra-Trocas)","sede":"Morvgrad (Mercado Oeste)","status_atual":"Ativo","membros_aprox":"Centenas","funcao_principal":"Mercado negro, falsificação, informantes.","aliases":[],"tags":[],"ordem":8,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/maledictus-fidejussor/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Maledictus Fidejussor","subtipo":"mecanica","origem_arquivo":"3.7_sistemas_magicos_LORE.md","aliases":["Maldição-garantia","Maldição-Garantia","Marca do Condenado","Stigma Damnati"],"ordem":7,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/maledictus_fidejussor.md","permalink":"/wiki/magia/maledictus-fidejussor/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Maledictus Fidejussor","subtipo":"mecanica","origem_arquivo":"3.7_sistemas_magicos_LORE.md","aliases":["Maldição-garantia","Maldição-Garantia","Marca do Condenado","Stigma Damnati"],"ordem":7,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

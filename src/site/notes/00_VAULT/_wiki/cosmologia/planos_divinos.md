@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/planos-divinos/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Planos Divinos","subtipo":"cosmogonia_teologia","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Planos Existenciais"],"ordem":9,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/planos_divinos.md","permalink":"/wiki/cosmologia/planos-divinos/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Planos Divinos","subtipo":"cosmogonia_teologia","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Planos Existenciais"],"ordem":9,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

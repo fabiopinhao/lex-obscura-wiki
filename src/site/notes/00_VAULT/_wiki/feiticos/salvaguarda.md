@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/salvaguarda/","dg-note-properties":{"tipo":"feitico","nome":"Salvaguarda","escola":"Sacro","escala":"Média","aliases":[],"tags":[],"ordem":175,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/salvaguarda.md","permalink":"/wiki/feiticos/salvaguarda/","dg-note-properties":{"tipo":"feitico","nome":"Salvaguarda","escola":"Sacro","escala":"Média","aliases":[],"tags":[],"ordem":175,"generated_by":"strip_sistema"}}
 ---
 
 

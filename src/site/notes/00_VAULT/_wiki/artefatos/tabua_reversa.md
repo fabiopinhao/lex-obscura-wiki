@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/tabua-reversa/","dg-note-properties":{"tipo":"artefato","nome":"Tábua Reversa","tipo_artefato":"Ardósia","categoria":"Judicial","portador_atual":"Milor (+ Orum, Nidzina)","localizacao_atual":"Cada Justiciar carrega uma","status_atual":"Ativo","origem":"Culto Sombrio","vinculacao_entregue_em":"Entrega separada (instrumento processual)","aliases":[],"tags":[],"ordem":5,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/tabua_reversa.md","permalink":"/wiki/artefatos/tabua-reversa/","dg-note-properties":{"tipo":"artefato","nome":"Tábua Reversa","tipo_artefato":"Ardósia","categoria":"Judicial","portador_atual":"Milor (+ Orum, Nidzina)","localizacao_atual":"Cada Justiciar carrega uma","status_atual":"Ativo","origem":"Culto Sombrio","vinculacao_entregue_em":"Entrega separada (instrumento processual)","aliases":[],"tags":[],"ordem":5,"generated_by":"strip_sistema"}}
 ---
 
 

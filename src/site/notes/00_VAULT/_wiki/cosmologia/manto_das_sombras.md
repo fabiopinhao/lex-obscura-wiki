@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/manto-das-sombras/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Manto das Sombras","subtipo":"fenomeno_magico","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Continente de Sombras"],"ordem":16,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/manto_das_sombras.md","permalink":"/wiki/cosmologia/manto-das-sombras/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Manto das Sombras","subtipo":"fenomeno_magico","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Continente de Sombras"],"ordem":16,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

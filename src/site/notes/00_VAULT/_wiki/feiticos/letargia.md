@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/letargia/","dg-note-properties":{"tipo":"feitico","nome":"Letargia","escola":"Necro","escala":"Menor","aliases":[],"tags":[],"ordem":83,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/letargia.md","permalink":"/wiki/feiticos/letargia/","dg-note-properties":{"tipo":"feitico","nome":"Letargia","escola":"Necro","escala":"Menor","aliases":[],"tags":[],"ordem":83,"generated_by":"strip_sistema"}}
 ---
 
 

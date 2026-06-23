@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/igreja-de-sao-lucian/","dg-note-properties":{"tipo":"organizacao","nome":"Igreja de São Lucian","tipo_organizacao":"Ordem religiosa","cor_afiliacao":"Branco","lider_atual":"Desconhecido","sede":"Myrgarde (Templo Maior)","status_atual":"Ativo (clandestino)","membros_aprox":"Desconhecido","funcao_principal":"Fé luminosa sobrevivente; preservação da memória pré-conquista.","aliases":[],"tags":[],"ordem":19,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/igreja_de_sao_lucian.md","permalink":"/wiki/organizacoes/igreja-de-sao-lucian/","dg-note-properties":{"tipo":"organizacao","nome":"Igreja de São Lucian","tipo_organizacao":"Ordem religiosa","cor_afiliacao":"Branco","lider_atual":"Desconhecido","sede":"Myrgarde (Templo Maior)","status_atual":"Ativo (clandestino)","membros_aprox":"Desconhecido","funcao_principal":"Fé luminosa sobrevivente; preservação da memória pré-conquista.","aliases":[],"tags":[],"ordem":19,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

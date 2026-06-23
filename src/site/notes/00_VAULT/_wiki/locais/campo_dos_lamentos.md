@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/campo-dos-lamentos/","dg-note-properties":{"tipo":"local","nome":"Campo dos Lamentos","tipo_local":"Descampado (ruínas ambientais)","regiao":"Sudoeste de Reinkard (antigo território de Lendalas)","controlador":"Nenhum (terra morta)","status_atual":"Abandonado","distancia_morvgrad_leguas":"—","populacao_aprox":0,"aliases":["Campo"],"ordem":50,"heading_level":3,"parent":"lendalas","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/campo_dos_lamentos.md","permalink":"/wiki/locais/campo-dos-lamentos/","dg-note-properties":{"tipo":"local","nome":"Campo dos Lamentos","tipo_local":"Descampado (ruínas ambientais)","regiao":"Sudoeste de Reinkard (antigo território de Lendalas)","controlador":"Nenhum (terra morta)","status_atual":"Abandonado","distancia_morvgrad_leguas":"—","populacao_aprox":0,"aliases":["Campo"],"ordem":50,"heading_level":3,"parent":"lendalas","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/linguas/dialetos-tribais/","dg-note-properties":{"tipo":"lingua","nome":"Dialetos Tribais","tipo_lingua":"Cotidiana","era":"Variada","cor_racial":"Variada","raca_principal":"Raças híbridas","funcao":"Comunicação intraespécie","fluencia_comum":"Tribal/local","relacao_magica":"Nenhuma","registro_magico":"Não","descendente_de":"Variada","aliases":[],"tags":[],"ordem":14,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/dialetos_tribais.md","permalink":"/wiki/linguas/dialetos-tribais/","dg-note-properties":{"tipo":"lingua","nome":"Dialetos Tribais","tipo_lingua":"Cotidiana","era":"Variada","cor_racial":"Variada","raca_principal":"Raças híbridas","funcao":"Comunicação intraespécie","fluencia_comum":"Tribal/local","relacao_magica":"Nenhuma","registro_magico":"Não","descendente_de":"Variada","aliases":[],"tags":[],"ordem":14,"generated_by":"strip_sistema"}}
 ---
 
 

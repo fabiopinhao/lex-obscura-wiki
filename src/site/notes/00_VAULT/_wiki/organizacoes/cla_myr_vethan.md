@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/cla-myr-vethan/","dg-note-properties":{"tipo":"organizacao","nome":"Clã Myr'vethan","tipo_organizacao":"Clã draconídeo","cor_afiliacao":"Vermelho","lider_atual":"Yzmareth","sede":"Varnak (Veinkard)","status_atual":"Ativo","membros_aprox":"Desconhecido","funcao_principal":"Busca Fendris para derrotar Varna.","aliases":[],"tags":[],"ordem":15,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/cla_myr_vethan.md","permalink":"/wiki/organizacoes/cla-myr-vethan/","dg-note-properties":{"tipo":"organizacao","nome":"Clã Myr'vethan","tipo_organizacao":"Clã draconídeo","cor_afiliacao":"Vermelho","lider_atual":"Yzmareth","sede":"Varnak (Veinkard)","status_atual":"Ativo","membros_aprox":"Desconhecido","funcao_principal":"Busca Fendris para derrotar Varna.","aliases":[],"tags":[],"ordem":15,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/egide/","dg-note-properties":{"tipo":"feitico","nome":"Égide","escola":"Aegis","escala":"Maior","aliases":[],"tags":[],"ordem":218,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/egide.md","permalink":"/wiki/feiticos/egide/","dg-note-properties":{"tipo":"feitico","nome":"Égide","escola":"Aegis","escala":"Maior","aliases":[],"tags":[],"ordem":218,"generated_by":"strip_sistema"}}
 ---
 
 

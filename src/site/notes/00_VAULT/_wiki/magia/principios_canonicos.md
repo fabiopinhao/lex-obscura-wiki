@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/principios-canonicos/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Princípios Canônicos","subtipo":"mecanica","origem_arquivo":"3.14_custos_ontologicos_LORE.md","aliases":[],"ordem":1,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/principios_canonicos.md","permalink":"/wiki/magia/principios-canonicos/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Princípios Canônicos","subtipo":"mecanica","origem_arquivo":"3.14_custos_ontologicos_LORE.md","aliases":[],"ordem":1,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

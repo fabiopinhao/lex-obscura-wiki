@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/cosmo/","dg-note-properties":{"tipo":"escola_magia","nome":"Cosmo","codigo":"UB","dominio":"Espaço e Gravidade","cor_primaria":"U","cor_secundaria":"B","tipo_escola":"Híbrida","par_antagonico":"Urano","categoria_oposicao":"Espacial/Temporal","aliases":[],"ordem":6,"sentimento_chave":"Vertigem diante do imenso; o impulso de responder à vastidão em vez de se render a ela.","custo_ontologico_resumo":"Dissociação espacial. Corpo não parece \"aqui\"; proximidade física parece errada.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/cosmo.md","permalink":"/wiki/escolas/cosmo/","dg-note-properties":{"tipo":"escola_magia","nome":"Cosmo","codigo":"UB","dominio":"Espaço e Gravidade","cor_primaria":"U","cor_secundaria":"B","tipo_escola":"Híbrida","par_antagonico":"Urano","categoria_oposicao":"Espacial/Temporal","aliases":[],"ordem":6,"sentimento_chave":"Vertigem diante do imenso; o impulso de responder à vastidão em vez de se render a ela.","custo_ontologico_resumo":"Dissociação espacial. Corpo não parece \"aqui\"; proximidade física parece errada.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

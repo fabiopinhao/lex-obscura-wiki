@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/ghol-mournak/","dg-note-properties":{"tipo":"local","nome":"Ghol'Mournak","tipo_local":"Câmara (subterrânea)","regiao":"Morvgrad (profundezas)","controlador":"Independente","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"<100","aliases":[],"tags":[],"ordem":26,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/ghol_mournak.md","permalink":"/wiki/locais/ghol-mournak/","dg-note-properties":{"tipo":"local","nome":"Ghol'Mournak","tipo_local":"Câmara (subterrânea)","regiao":"Morvgrad (profundezas)","controlador":"Independente","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"<100","aliases":[],"tags":[],"ordem":26,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

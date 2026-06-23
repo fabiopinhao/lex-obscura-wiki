@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/terror/","dg-note-properties":{"tipo":"feitico","nome":"Terror","escola":"Phobos","escala":"Maior","aliases":[],"tags":[],"ordem":147,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/terror.md","permalink":"/wiki/feiticos/terror/","dg-note-properties":{"tipo":"feitico","nome":"Terror","escola":"Phobos","escala":"Maior","aliases":[],"tags":[],"ordem":147,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/telecinese/","dg-note-properties":{"tipo":"feitico","nome":"Telecinese","escola":"Cosmo","escala":"Média","aliases":[],"tags":[],"ordem":226,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/telecinese.md","permalink":"/wiki/feiticos/telecinese/","dg-note-properties":{"tipo":"feitico","nome":"Telecinese","escola":"Cosmo","escala":"Média","aliases":[],"tags":[],"ordem":226,"generated_by":"strip_sistema"}}
 ---
 
 

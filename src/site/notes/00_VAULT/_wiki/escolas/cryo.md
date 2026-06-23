@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/cryo/","dg-note-properties":{"tipo":"escola_magia","nome":"Cryo","codigo":"UU","dominio":"Gelo e Glaciação","cor_primaria":"U","cor_secundaria":"U","tipo_escola":"Pura","par_antagonico":"Plasma","categoria_oposicao":"Elemental","aliases":[],"ordem":29,"sentimento_chave":"Distância emocional como clareza; a convicção de que sentir menos é ver melhor.","custo_ontologico_resumo":"Frieza emocional. Emoções resfriam; amor torna-se afeição distante; paixão é memória.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/cryo.md","permalink":"/wiki/escolas/cryo/","dg-note-properties":{"tipo":"escola_magia","nome":"Cryo","codigo":"UU","dominio":"Gelo e Glaciação","cor_primaria":"U","cor_secundaria":"U","tipo_escola":"Pura","par_antagonico":"Plasma","categoria_oposicao":"Elemental","aliases":[],"ordem":29,"sentimento_chave":"Distância emocional como clareza; a convicção de que sentir menos é ver melhor.","custo_ontologico_resumo":"Frieza emocional. Emoções resfriam; amor torna-se afeição distante; paixão é memória.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

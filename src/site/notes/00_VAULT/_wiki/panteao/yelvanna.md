@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/yelvanna/","dg-note-properties":{"tipo":"divindade","nome":"Yelvanna","forma_divina":"Siren Brumosa","epiteto":"Réquiem Consagrado","epiteto_en-US":"The Hallowed Requiem","categoria":"Anjo","cores":"Wu","cor_dominante":"W","escola_1":"aegis","escola_2":"sacro","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":34,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/yelvanna.md","permalink":"/wiki/panteao/yelvanna/","dg-note-properties":{"tipo":"divindade","nome":"Yelvanna","forma_divina":"Siren Brumosa","epiteto":"Réquiem Consagrado","epiteto_en-US":"The Hallowed Requiem","categoria":"Anjo","cores":"Wu","cor_dominante":"W","escola_1":"aegis","escola_2":"sacro","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":34,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

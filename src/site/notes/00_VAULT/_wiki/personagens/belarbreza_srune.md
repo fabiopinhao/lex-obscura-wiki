@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/belarbreza-srune/","dg-note-properties":{"tipo":"personagem","nome_atual":"Belarbreza Srune","raca":"Drul","sexo":"F","relevancia":"Secundário","status_atual":"Viva","localizacao_atual":"Xarn'Zareth (Câmaras de Provação)","armas_principais":"—","afiliacao_primaria":"Casa Srune (matriarca)","aliases":["Forja-Tormentos","Belarbreza","Srune"],"ordem":60.1,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/belarbreza_srune.md","permalink":"/wiki/personagens/belarbreza-srune/","dg-note-properties":{"tipo":"personagem","nome_atual":"Belarbreza Srune","raca":"Drul","sexo":"F","relevancia":"Secundário","status_atual":"Viva","localizacao_atual":"Xarn'Zareth (Câmaras de Provação)","armas_principais":"—","afiliacao_primaria":"Casa Srune (matriarca)","aliases":["Forja-Tormentos","Belarbreza","Srune"],"ordem":60.1,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/ixragor/","dg-note-properties":{"tipo":"divindade","nome":"Ixragor","forma_divina":"Quimera Gangrenosa","epiteto":"Ventre Abominável","epiteto_en-US":"The Abominable Womb","categoria":"Demônio","cores":"Rbg","cor_dominante":"R","escola_1":"anatho","escola_2":"morpho","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":20,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/ixragor.md","permalink":"/wiki/panteao/ixragor/","dg-note-properties":{"tipo":"divindade","nome":"Ixragor","forma_divina":"Quimera Gangrenosa","epiteto":"Ventre Abominável","epiteto_en-US":"The Abominable Womb","categoria":"Demônio","cores":"Rbg","cor_dominante":"R","escola_1":"anatho","escola_2":"morpho","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":20,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/diluvio/","dg-note-properties":{"tipo":"feitico","nome":"Dilúvio","escola":"Hydro","escala":"Maior","aliases":[],"tags":[],"ordem":19,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/diluvio.md","permalink":"/wiki/feiticos/diluvio/","dg-note-properties":{"tipo":"feitico","nome":"Dilúvio","escola":"Hydro","escala":"Maior","aliases":[],"tags":[],"ordem":19,"generated_by":"strip_sistema"}}
 ---
 
 

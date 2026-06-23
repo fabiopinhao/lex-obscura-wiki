@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/miasma/","dg-note-properties":{"tipo":"feitico","nome":"Miasma","escola":"Toxo","escala":"**Máxima**","aliases":[],"tags":[],"ordem":290,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/miasma.md","permalink":"/wiki/feiticos/miasma/","dg-note-properties":{"tipo":"feitico","nome":"Miasma","escola":"Toxo","escala":"**Máxima**","aliases":[],"tags":[],"ordem":290,"generated_by":"strip_sistema"}}
 ---
 
 

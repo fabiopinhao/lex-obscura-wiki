@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/qadesh/","dg-note-properties":{"tipo":"local","nome":"Qadesh","tipo_local":"Cidade-estado","regiao":"Deserto oriental (fronteira com Neranthis)","controlador":"Império Sombrio (vassalo)","status_atual":"Ativo (cidade-estado vassala)","distancia_morvgrad_leguas":"—","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":48,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/qadesh.md","permalink":"/wiki/locais/qadesh/","dg-note-properties":{"tipo":"local","nome":"Qadesh","tipo_local":"Cidade-estado","regiao":"Deserto oriental (fronteira com Neranthis)","controlador":"Império Sombrio (vassalo)","status_atual":"Ativo (cidade-estado vassala)","distancia_morvgrad_leguas":"—","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":48,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

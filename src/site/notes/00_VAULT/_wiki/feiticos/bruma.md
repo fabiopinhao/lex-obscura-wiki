@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/bruma/","dg-note-properties":{"tipo":"feitico","nome":"Bruma","escola":"Hydro","escala":"Menor","aliases":[],"tags":[],"ordem":12,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/bruma.md","permalink":"/wiki/feiticos/bruma/","dg-note-properties":{"tipo":"feitico","nome":"Bruma","escola":"Hydro","escala":"Menor","aliases":[],"tags":[],"ordem":12,"generated_by":"strip_sistema"}}
 ---
 
 

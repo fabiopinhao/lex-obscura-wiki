@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/frentes-de-guerra-e-destino-das-racas/","dg-note-properties":{"tipo":"evento","nome":"Frentes de Guerra e Destino das Raças","id":"E-0024","era":"Guerras_Reinkardicas","ano_relativo":"—","tipo_evento":"cenario","impacto":"alto","marco_yaml":"—","aliases":["Destino das Raças nas Guerras","Escravidão nas Guerras Reinkárdicas"],"tags":[],"ordem":24,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/frentes_de_guerra_e_destino_das_racas.md","permalink":"/wiki/eventos/frentes-de-guerra-e-destino-das-racas/","dg-note-properties":{"tipo":"evento","nome":"Frentes de Guerra e Destino das Raças","id":"E-0024","era":"Guerras_Reinkardicas","ano_relativo":"—","tipo_evento":"cenario","impacto":"alto","marco_yaml":"—","aliases":["Destino das Raças nas Guerras","Escravidão nas Guerras Reinkárdicas"],"tags":[],"ordem":24,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/garras/","dg-note-properties":{"tipo":"feitico","nome":"Garras","escola":"Morpho","escala":"Menor","aliases":[],"tags":[],"ordem":272,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/garras.md","permalink":"/wiki/feiticos/garras/","dg-note-properties":{"tipo":"feitico","nome":"Garras","escola":"Morpho","escala":"Menor","aliases":[],"tags":[],"ordem":272,"generated_by":"strip_sistema"}}
 ---
 
 

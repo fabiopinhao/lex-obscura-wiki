@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/estatueta-de-vozrador/","dg-note-properties":{"tipo":"artefato","nome":"Estatueta de Vozrador","tipo_artefato":"Estatueta (obsidiana)","categoria":"Religioso/Divino","portador_atual":"Abramis (versão vazia)","localizacao_atual":"Capela de Niedellin","status_atual":"Ativo (vazio)","origem":"Nyx'Ara (Câmara de Othuun)","vinculacao_entregue_em":"Dada por Nyx'Ara a Dravmir (15 anos)","aliases":[],"tags":[],"ordem":6,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/estatueta_de_vozrador.md","permalink":"/wiki/artefatos/estatueta-de-vozrador/","dg-note-properties":{"tipo":"artefato","nome":"Estatueta de Vozrador","tipo_artefato":"Estatueta (obsidiana)","categoria":"Religioso/Divino","portador_atual":"Abramis (versão vazia)","localizacao_atual":"Capela de Niedellin","status_atual":"Ativo (vazio)","origem":"Nyx'Ara (Câmara de Othuun)","vinculacao_entregue_em":"Dada por Nyx'Ara a Dravmir (15 anos)","aliases":[],"tags":[],"ordem":6,"generated_by":"strip_sistema"}}
 ---
 
 

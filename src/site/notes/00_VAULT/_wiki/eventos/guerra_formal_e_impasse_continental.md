@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/guerra-formal-e-impasse-continental/","dg-note-properties":{"tipo":"evento","nome":"Guerra Formal e Impasse Continental","id":"E-0026","era":"Guerras_Reinkardicas","ano_relativo":"—","tipo_evento":"cenario","impacto":"alto","marco_yaml":"—","aliases":["Declaração de Guerra de Myrgarde","Aliança das Planícies","Impasse Reinkárdico"],"tags":[],"ordem":26,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/guerra_formal_e_impasse_continental.md","permalink":"/wiki/eventos/guerra-formal-e-impasse-continental/","dg-note-properties":{"tipo":"evento","nome":"Guerra Formal e Impasse Continental","id":"E-0026","era":"Guerras_Reinkardicas","ano_relativo":"—","tipo_evento":"cenario","impacto":"alto","marco_yaml":"—","aliases":["Declaração de Guerra de Myrgarde","Aliança das Planícies","Impasse Reinkárdico"],"tags":[],"ordem":26,"generated_by":"strip_sistema"}}
 ---
 
 

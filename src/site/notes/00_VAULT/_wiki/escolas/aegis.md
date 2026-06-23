@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/aegis/","dg-note-properties":{"tipo":"escola_magia","nome":"Aegis","codigo":"WU","dominio":"Proteção e Barreira","cor_primaria":"W","cor_secundaria":"U","tipo_escola":"Híbrida","par_antagonico":"Belli","categoria_oposicao":"Ordem/Caos","aliases":[],"ordem":27,"sentimento_chave":"Vigília protetora; a percepção de que algo precisa ser defendido, agora.","custo_ontologico_resumo":"Hipervigilância. Ameaças em todo lugar; relaxar impossível; proteção vira obsessão.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/aegis.md","permalink":"/wiki/escolas/aegis/","dg-note-properties":{"tipo":"escola_magia","nome":"Aegis","codigo":"WU","dominio":"Proteção e Barreira","cor_primaria":"W","cor_secundaria":"U","tipo_escola":"Híbrida","par_antagonico":"Belli","categoria_oposicao":"Ordem/Caos","aliases":[],"ordem":27,"sentimento_chave":"Vigília protetora; a percepção de que algo precisa ser defendido, agora.","custo_ontologico_resumo":"Hipervigilância. Ameaças em todo lugar; relaxar impossível; proteção vira obsessão.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

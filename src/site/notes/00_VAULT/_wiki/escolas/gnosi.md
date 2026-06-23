@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/gnosi/","dg-note-properties":{"tipo":"escola_magia","nome":"Gnosi","codigo":"UU","dominio":"Conhecimento e Premonição","cor_primaria":"U","cor_secundaria":"U","tipo_escola":"Pura","par_antagonico":"Phobos","categoria_oposicao":"Mental","aliases":[],"ordem":30,"sentimento_chave":"Fome de compreender; o desconhecido como incômodo que exige resposta.","custo_ontologico_resumo":"Paralisia analítica. Conhecimento demais impede ação; toda decisão revela consequências.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/gnosi.md","permalink":"/wiki/escolas/gnosi/","dg-note-properties":{"tipo":"escola_magia","nome":"Gnosi","codigo":"UU","dominio":"Conhecimento e Premonição","cor_primaria":"U","cor_secundaria":"U","tipo_escola":"Pura","par_antagonico":"Phobos","categoria_oposicao":"Mental","aliases":[],"ordem":30,"sentimento_chave":"Fome de compreender; o desconhecido como incômodo que exige resposta.","custo_ontologico_resumo":"Paralisia analítica. Conhecimento demais impede ação; toda decisão revela consequências.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

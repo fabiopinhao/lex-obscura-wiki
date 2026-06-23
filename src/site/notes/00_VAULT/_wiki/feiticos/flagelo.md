@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/flagelo/","dg-note-properties":{"tipo":"feitico","nome":"Flagelo","escola":"Anatho","escala":"Maior","aliases":[],"tags":[],"ordem":167,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/flagelo.md","permalink":"/wiki/feiticos/flagelo/","dg-note-properties":{"tipo":"feitico","nome":"Flagelo","escola":"Anatho","escala":"Maior","aliases":[],"tags":[],"ordem":167,"generated_by":"strip_sistema"}}
 ---
 
 

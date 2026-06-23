@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/teia/","dg-note-properties":{"tipo":"feitico","nome":"Teia","escola":"Toxo","escala":"Média","aliases":[],"tags":[],"ordem":286,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/teia.md","permalink":"/wiki/feiticos/teia/","dg-note-properties":{"tipo":"feitico","nome":"Teia","escola":"Toxo","escala":"Média","aliases":[],"tags":[],"ordem":286,"generated_by":"strip_sistema"}}
 ---
 
 

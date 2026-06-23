@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/linguas/neranthiano/","dg-note-properties":{"tipo":"lingua","nome":"Neranthiano","tipo_lingua":"Cotidiana","era":"Segunda","cor_racial":"Azul","raca_principal":"Frenims/Undines/Ranidanos","funcao":"Língua franca do continente leste (Neranthis)","fluencia_comum":"Regional (Neranthis)","relacao_magica":"Nenhuma","registro_magico":"Não","descendente_de":"Pelagic + Reinkárdico + Thalassic + palavras ranidianas","aliases":[],"tags":[],"ordem":13,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/neranthiano.md","permalink":"/wiki/linguas/neranthiano/","dg-note-properties":{"tipo":"lingua","nome":"Neranthiano","tipo_lingua":"Cotidiana","era":"Segunda","cor_racial":"Azul","raca_principal":"Frenims/Undines/Ranidanos","funcao":"Língua franca do continente leste (Neranthis)","fluencia_comum":"Regional (Neranthis)","relacao_magica":"Nenhuma","registro_magico":"Não","descendente_de":"Pelagic + Reinkárdico + Thalassic + palavras ranidianas","aliases":[],"tags":[],"ordem":13,"generated_by":"strip_sistema"}}
 ---
 
 

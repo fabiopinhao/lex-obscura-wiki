@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/balsamo/","dg-note-properties":{"tipo":"feitico","nome":"Bálsamo","escola":"Salvo","escala":"Menor","aliases":[],"tags":[],"ordem":111,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/balsamo.md","permalink":"/wiki/feiticos/balsamo/","dg-note-properties":{"tipo":"feitico","nome":"Bálsamo","escola":"Salvo","escala":"Menor","aliases":[],"tags":[],"ordem":111,"generated_by":"strip_sistema"}}
 ---
 
 

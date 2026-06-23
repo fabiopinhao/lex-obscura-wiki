@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/linguas/reinkardico/","dg-note-properties":{"tipo":"lingua","nome":"Reinkárdico","tipo_lingua":"Cotidiana","era":"Segunda","cor_racial":"Universal","raca_principal":"Pindoriares","funcao":"Língua franca do continente","fluencia_comum":"Universal","relacao_magica":"Nenhuma","registro_magico":"Não","descendente_de":"Dialetos humanos + Tenebraico + Aelarian + Luminar","aliases":[],"tags":[],"ordem":1,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/reinkardico.md","permalink":"/wiki/linguas/reinkardico/","dg-note-properties":{"tipo":"lingua","nome":"Reinkárdico","tipo_lingua":"Cotidiana","era":"Segunda","cor_racial":"Universal","raca_principal":"Pindoriares","funcao":"Língua franca do continente","fluencia_comum":"Universal","relacao_magica":"Nenhuma","registro_magico":"Não","descendente_de":"Dialetos humanos + Tenebraico + Aelarian + Luminar","aliases":[],"tags":[],"ordem":1,"generated_by":"strip_sistema"}}
 ---
 
 

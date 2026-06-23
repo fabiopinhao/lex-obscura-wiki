@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/cortex/","dg-note-properties":{"tipo":"feitico","nome":"Córtex","escola":"Vita","escala":"Média","aliases":[],"tags":[],"ordem":94,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/cortex.md","permalink":"/wiki/feiticos/cortex/","dg-note-properties":{"tipo":"feitico","nome":"Córtex","escola":"Vita","escala":"Média","aliases":[],"tags":[],"ordem":94,"generated_by":"strip_sistema"}}
 ---
 
 

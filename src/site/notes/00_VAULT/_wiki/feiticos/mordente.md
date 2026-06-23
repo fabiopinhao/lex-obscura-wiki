@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/mordente/","dg-note-properties":{"tipo":"feitico","nome":"Mordente","escola":"Cryo","escala":"Média","aliases":[],"tags":[],"ordem":25,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/mordente.md","permalink":"/wiki/feiticos/mordente/","dg-note-properties":{"tipo":"feitico","nome":"Mordente","escola":"Cryo","escala":"Média","aliases":[],"tags":[],"ordem":25,"generated_by":"strip_sistema"}}
 ---
 
 

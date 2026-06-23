@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/meditatio-aetheris/","dg-note-properties":{"tipo":"sistema_acesso","nome":"Meditatio Aetheris","cor":"Azul (U)","nome_latino":"Meditatio Aetheris","entidade":"Siderais","tipo_acesso":"Disciplina Mental","dificuldade":"Muito Alta","estabilidade":"Média","custo_principal":"Treino contínuo, disciplina mental diária","custo_recai_sobre":["identidade"],"pode_trair":"Não","posicao_doutrinaria_imperial":"tolerado_condicional","termo_canalizacao":"Provimento","aliases":[],"ordem":5,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/meditatio_aetheris.md","permalink":"/wiki/magia/meditatio-aetheris/","dg-note-properties":{"tipo":"sistema_acesso","nome":"Meditatio Aetheris","cor":"Azul (U)","nome_latino":"Meditatio Aetheris","entidade":"Siderais","tipo_acesso":"Disciplina Mental","dificuldade":"Muito Alta","estabilidade":"Média","custo_principal":"Treino contínuo, disciplina mental diária","custo_recai_sobre":["identidade"],"pode_trair":"Não","posicao_doutrinaria_imperial":"tolerado_condicional","termo_canalizacao":"Provimento","aliases":[],"ordem":5,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

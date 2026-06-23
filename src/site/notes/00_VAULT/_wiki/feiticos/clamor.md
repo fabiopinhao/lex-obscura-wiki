@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/clamor/","dg-note-properties":{"tipo":"feitico","nome":"Clamor","escola":"Belli","escala":"Média","aliases":[],"tags":[],"ordem":206,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/clamor.md","permalink":"/wiki/feiticos/clamor/","dg-note-properties":{"tipo":"feitico","nome":"Clamor","escola":"Belli","escala":"Média","aliases":[],"tags":[],"ordem":206,"generated_by":"strip_sistema"}}
 ---
 
 

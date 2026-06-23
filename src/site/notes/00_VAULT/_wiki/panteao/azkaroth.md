@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/azkaroth/","dg-note-properties":{"tipo":"divindade","nome":"Azkaroth","forma_divina":"Diabo-Corvo","epiteto":"Arquidiabo","epiteto_en-US":"Archdevil","categoria":"Diabo","cores":"BB","cor_dominante":"B","escola_1":"necro","escola_2":"spectro","status":"Ativo","relevancia":"Livro I","aliases":[],"ordem":2,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/azkaroth.md","permalink":"/wiki/panteao/azkaroth/","dg-note-properties":{"tipo":"divindade","nome":"Azkaroth","forma_divina":"Diabo-Corvo","epiteto":"Arquidiabo","epiteto_en-US":"Archdevil","categoria":"Diabo","cores":"BB","cor_dominante":"B","escola_1":"necro","escola_2":"spectro","status":"Ativo","relevancia":"Livro I","aliases":[],"ordem":2,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

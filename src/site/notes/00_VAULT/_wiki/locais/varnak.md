@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/varnak/","dg-note-properties":{"tipo":"local","nome":"Varnak","tipo_local":"Região montanhosa","regiao":"Veinkard","controlador":"Tribos draconídeas (fragmentado)","status_atual":"Ativo (independente)","distancia_morvgrad_leguas":"~700","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":14,"heading_level":3,"parent":"veinkard","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/varnak.md","permalink":"/wiki/locais/varnak/","dg-note-properties":{"tipo":"local","nome":"Varnak","tipo_local":"Região montanhosa","regiao":"Veinkard","controlador":"Tribos draconídeas (fragmentado)","status_atual":"Ativo (independente)","distancia_morvgrad_leguas":"~700","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":14,"heading_level":3,"parent":"veinkard","generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/criaturas/isopode/","dg-note-properties":{"tipo":"criatura","nome":"Isópode","cor_arcana":"—","habitat":"Subterrâneo (Vor-Ghol)","aliases":["Isópodes"],"ordem":2,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/isopode.md","permalink":"/wiki/criaturas/isopode/","dg-note-properties":{"tipo":"criatura","nome":"Isópode","cor_arcana":"—","habitat":"Subterrâneo (Vor-Ghol)","aliases":["Isópodes"],"ordem":2,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

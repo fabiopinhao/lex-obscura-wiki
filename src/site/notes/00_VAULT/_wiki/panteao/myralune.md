@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/myralune/","dg-note-properties":{"tipo":"divindade","nome":"Myralune","forma_divina":"Leviatã Dormitante","epiteto":"Maré Dormente","epiteto_en-US":"The Dormant Tide","categoria":"Sideral-Titã","cores":"UG","cor_dominante":"U","escola_1":"hypno","escola_2":"hydro","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":50,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/myralune.md","permalink":"/wiki/panteao/myralune/","dg-note-properties":{"tipo":"divindade","nome":"Myralune","forma_divina":"Leviatã Dormitante","epiteto":"Maré Dormente","epiteto_en-US":"The Dormant Tide","categoria":"Sideral-Titã","cores":"UG","cor_dominante":"U","escola_1":"hypno","escola_2":"hydro","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":50,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

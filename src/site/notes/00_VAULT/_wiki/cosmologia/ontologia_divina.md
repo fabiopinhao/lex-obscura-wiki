@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/ontologia-divina/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Ontologia Divina","subtipo":"cosmogonia_teologia","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":[],"tags":[],"ordem":6,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/ontologia_divina.md","permalink":"/wiki/cosmologia/ontologia-divina/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Ontologia Divina","subtipo":"cosmogonia_teologia","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":[],"tags":[],"ordem":6,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/conceitos/terceira-era/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Terceira Era","subtipo":"era","origem_arquivo":"3.17_eras_panoramica_LORE.md","aliases":[],"tags":[],"ordem":7,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/terceira_era.md","permalink":"/wiki/conceitos/terceira-era/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Terceira Era","subtipo":"era","origem_arquivo":"3.17_eras_panoramica_LORE.md","aliases":[],"tags":[],"ordem":7,"generated_by":"strip_sistema"}}
 ---
 
 

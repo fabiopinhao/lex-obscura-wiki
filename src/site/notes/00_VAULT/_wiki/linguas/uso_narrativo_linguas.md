@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/linguas/uso-narrativo-linguas/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Uso Narrativo — Guia de Escrita","subtipo":"metanarrativa","origem_arquivo":"3.8_linguas_LORE.md","aliases":[],"tags":[],"ordem":100,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/uso_narrativo_linguas.md","permalink":"/wiki/linguas/uso-narrativo-linguas/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Uso Narrativo — Guia de Escrita","subtipo":"metanarrativa","origem_arquivo":"3.8_linguas_LORE.md","aliases":[],"tags":[],"ordem":100,"generated_by":"strip_sistema"}}
 ---
 
 

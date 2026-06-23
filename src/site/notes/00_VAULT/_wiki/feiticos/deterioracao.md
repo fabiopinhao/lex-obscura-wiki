@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/deterioracao/","dg-note-properties":{"tipo":"feitico","nome":"Deterioração","escola":"Anatho","escala":"Média","aliases":[],"tags":[],"ordem":166,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/deterioracao.md","permalink":"/wiki/feiticos/deterioracao/","dg-note-properties":{"tipo":"feitico","nome":"Deterioração","escola":"Anatho","escala":"Média","aliases":[],"tags":[],"ordem":166,"generated_by":"strip_sistema"}}
 ---
 
 

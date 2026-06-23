@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/coma/","dg-note-properties":{"tipo":"feitico","nome":"Coma","escola":"Hypno","escala":"Maior","aliases":[],"tags":[],"ordem":127,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/coma.md","permalink":"/wiki/feiticos/coma/","dg-note-properties":{"tipo":"feitico","nome":"Coma","escola":"Hypno","escala":"Maior","aliases":[],"tags":[],"ordem":127,"generated_by":"strip_sistema"}}
 ---
 
 

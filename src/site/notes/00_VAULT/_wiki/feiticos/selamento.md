@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/selamento/","dg-note-properties":{"tipo":"feitico","nome":"Selamento","escola":"Abjuro","escala":"Maior","aliases":[],"tags":[],"ordem":297,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/selamento.md","permalink":"/wiki/feiticos/selamento/","dg-note-properties":{"tipo":"feitico","nome":"Selamento","escola":"Abjuro","escala":"Maior","aliases":[],"tags":[],"ordem":297,"generated_by":"strip_sistema"}}
 ---
 
 

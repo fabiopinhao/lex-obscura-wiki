@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/cristal/","dg-note-properties":{"tipo":"feitico","nome":"Cristal","escola":"Cryo","escala":"Menor","aliases":[],"tags":[],"ordem":23,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/cristal.md","permalink":"/wiki/feiticos/cristal/","dg-note-properties":{"tipo":"feitico","nome":"Cristal","escola":"Cryo","escala":"Menor","aliases":[],"tags":[],"ordem":23,"generated_by":"strip_sistema"}}
 ---
 
 

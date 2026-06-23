@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/jardim-dos-inocentes/","dg-note-properties":{"tipo":"local","nome":"Jardim dos Inocentes","tipo_local":"Cemitério","regiao":"Myrgarde","controlador":"Igreja de São Lucian (pré-conquista)","status_atual":"Ativo (ocupado)","distancia_morvgrad_leguas":"~300","populacao_aprox":0,"aliases":[],"tags":[],"ordem":55.1,"heading_level":3,"parent":"myrgarde","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/jardim_dos_inocentes.md","permalink":"/wiki/locais/jardim-dos-inocentes/","dg-note-properties":{"tipo":"local","nome":"Jardim dos Inocentes","tipo_local":"Cemitério","regiao":"Myrgarde","controlador":"Igreja de São Lucian (pré-conquista)","status_atual":"Ativo (ocupado)","distancia_morvgrad_leguas":"~300","populacao_aprox":0,"aliases":[],"tags":[],"ordem":55.1,"heading_level":3,"parent":"myrgarde","generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/estase/","dg-note-properties":{"tipo":"feitico","nome":"Estase","escola":"Chrono","escala":"Maior","aliases":[],"tags":[],"ordem":257,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/estase.md","permalink":"/wiki/feiticos/estase/","dg-note-properties":{"tipo":"feitico","nome":"Estase","escola":"Chrono","escala":"Maior","aliases":[],"tags":[],"ordem":257,"generated_by":"strip_sistema"}}
 ---
 
 

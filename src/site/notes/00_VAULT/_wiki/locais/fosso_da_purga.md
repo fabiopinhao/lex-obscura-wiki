@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/fosso-da-purga/","dg-note-properties":{"tipo":"local","nome":"Fosso da Purga","tipo_local":"Local de execução","regiao":"Morvgrad","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":0,"aliases":[],"tags":[],"ordem":53,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/fosso_da_purga.md","permalink":"/wiki/locais/fosso-da-purga/","dg-note-properties":{"tipo":"local","nome":"Fosso da Purga","tipo_local":"Local de execução","regiao":"Morvgrad","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":0,"aliases":[],"tags":[],"ordem":53,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

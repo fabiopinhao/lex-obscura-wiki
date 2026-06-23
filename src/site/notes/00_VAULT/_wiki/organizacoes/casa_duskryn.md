@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/casa-duskryn/","dg-note-properties":{"tipo":"organizacao","nome":"Casa Duskryn","tipo_organizacao":"Casa Matriarcal","cor_afiliacao":"Preto","lider_atual":"Nylothrae Duskryn","sede":"Ghilanna (Xarn'Zareth)","status_atual":"Ativo","membros_aprox":"Milhares","funcao_principal":"Governança de Ghilanna.","aliases":[],"tags":[],"ordem":11,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/casa_duskryn.md","permalink":"/wiki/organizacoes/casa-duskryn/","dg-note-properties":{"tipo":"organizacao","nome":"Casa Duskryn","tipo_organizacao":"Casa Matriarcal","cor_afiliacao":"Preto","lider_atual":"Nylothrae Duskryn","sede":"Ghilanna (Xarn'Zareth)","status_atual":"Ativo","membros_aprox":"Milhares","funcao_principal":"Governança de Ghilanna.","aliases":[],"tags":[],"ordem":11,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

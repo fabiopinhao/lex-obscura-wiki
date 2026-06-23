@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/siderais/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Siderais","subtipo":"categoria_divina","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Deuses Azuis","Entidades Etéreas"],"ordem":21,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/siderais.md","permalink":"/wiki/cosmologia/siderais/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Siderais","subtipo":"categoria_divina","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Deuses Azuis","Entidades Etéreas"],"ordem":21,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/indices/artefatos/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/indices/Artefatos.md","permalink":"/wiki/indices/artefatos/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Artefatos

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/desconforto/","dg-note-properties":{"tipo":"feitico","nome":"Desconforto","escola":"Anatho","escala":"Menor","aliases":[],"tags":[],"ordem":163,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/desconforto.md","permalink":"/wiki/feiticos/desconforto/","dg-note-properties":{"tipo":"feitico","nome":"Desconforto","escola":"Anatho","escala":"Menor","aliases":[],"tags":[],"ordem":163,"generated_by":"strip_sistema"}}
 ---
 
 

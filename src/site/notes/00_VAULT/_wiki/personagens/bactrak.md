@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/bactrak/","dg-note-properties":{"tipo":"personagem","nome_atual":"Bactrak","raca":"Shadar","sexo":"M","relevancia":"Terciário","status_atual":"Morto","localizacao_atual":"Morto (Templo de Vozrador, Morvgrad)","armas_principais":"—","afiliacao_primaria":"Templários de Vozrador","aliases":[],"ordem":60,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/bactrak.md","permalink":"/wiki/personagens/bactrak/","dg-note-properties":{"tipo":"personagem","nome_atual":"Bactrak","raca":"Shadar","sexo":"M","relevancia":"Terciário","status_atual":"Morto","localizacao_atual":"Morto (Templo de Vozrador, Morvgrad)","armas_principais":"—","afiliacao_primaria":"Templários de Vozrador","aliases":[],"ordem":60,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

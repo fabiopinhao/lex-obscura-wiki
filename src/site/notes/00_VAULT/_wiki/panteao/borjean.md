@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/borjean/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/borjean.md","permalink":"/wiki/panteao/borjean/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Borjean

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/ionizacao/","dg-note-properties":{"tipo":"feitico","nome":"Ionização","escola":"Plasma","escala":"Menor","aliases":[],"tags":[],"ordem":31,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/ionizacao.md","permalink":"/wiki/feiticos/ionizacao/","dg-note-properties":{"tipo":"feitico","nome":"Ionização","escola":"Plasma","escala":"Menor","aliases":[],"tags":[],"ordem":31,"generated_by":"strip_sistema"}}
 ---
 
 

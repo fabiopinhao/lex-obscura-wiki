@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/icor/","dg-note-properties":{"tipo":"feitico","nome":"Icor","escola":"Hydro","escala":"Maior","aliases":[],"tags":[],"ordem":18,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/icor.md","permalink":"/wiki/feiticos/icor/","dg-note-properties":{"tipo":"feitico","nome":"Icor","escola":"Hydro","escala":"Maior","aliases":[],"tags":[],"ordem":18,"generated_by":"strip_sistema"}}
 ---
 
 

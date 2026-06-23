@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/fendris/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/fendris.md","permalink":"/wiki/artefatos/fendris/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Fendris

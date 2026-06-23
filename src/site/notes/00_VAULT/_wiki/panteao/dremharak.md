@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/dremharak/","dg-note-properties":{"tipo":"divindade","nome":"Dremharak","forma_divina":"Wendigo Febril","epiteto":"Febre Lúcida","epiteto_en-US":"Lucid Fever","categoria":"Sideral","cores":"Ugr","cor_dominante":"U","escola_1":"hypno","escola_2":"psycho","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":48,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/dremharak.md","permalink":"/wiki/panteao/dremharak/","dg-note-properties":{"tipo":"divindade","nome":"Dremharak","forma_divina":"Wendigo Febril","epiteto":"Febre Lúcida","epiteto_en-US":"Lucid Fever","categoria":"Sideral","cores":"Ugr","cor_dominante":"U","escola_1":"hypno","escola_2":"psycho","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":48,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

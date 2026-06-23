@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/drokh-malahar/","dg-note-properties":{"tipo":"local","nome":"Drokh'Malahar","tipo_local":"Prisão (câmaras de tortura)","regiao":"Ghol'Drokh (pisos abissais)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"—","aliases":["Fossos de Drokh'Malahar","Crucitórios de Drokh'Malahar","Crucitórios"],"ordem":15,"heading_level":3,"parent":"morvgrad","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/drokh_malahar.md","permalink":"/wiki/locais/drokh-malahar/","dg-note-properties":{"tipo":"local","nome":"Drokh'Malahar","tipo_local":"Prisão (câmaras de tortura)","regiao":"Ghol'Drokh (pisos abissais)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"—","aliases":["Fossos de Drokh'Malahar","Crucitórios de Drokh'Malahar","Crucitórios"],"ordem":15,"heading_level":3,"parent":"morvgrad","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

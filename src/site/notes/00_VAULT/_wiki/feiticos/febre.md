@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/febre/","dg-note-properties":{"tipo":"feitico","nome":"Febre","escola":"Patho","escala":"Média","aliases":[],"tags":[],"ordem":104,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/febre.md","permalink":"/wiki/feiticos/febre/","dg-note-properties":{"tipo":"feitico","nome":"Febre","escola":"Patho","escala":"Média","aliases":[],"tags":[],"ordem":104,"generated_by":"strip_sistema"}}
 ---
 
 

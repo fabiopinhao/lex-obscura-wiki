@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/expurgo/","dg-note-properties":{"tipo":"feitico","nome":"Expurgo","escola":"Helio","escala":"Maior","aliases":[],"tags":[],"ordem":77,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/expurgo.md","permalink":"/wiki/feiticos/expurgo/","dg-note-properties":{"tipo":"feitico","nome":"Expurgo","escola":"Helio","escala":"Maior","aliases":[],"tags":[],"ordem":77,"generated_by":"strip_sistema"}}
 ---
 
 

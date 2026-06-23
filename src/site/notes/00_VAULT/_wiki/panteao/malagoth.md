@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/malagoth/","dg-note-properties":{"tipo":"divindade","nome":"Malagoth","forma_divina":"Vampiro Cravejado","epiteto":"Coroa de Espinhos","epiteto_en-US":"Crown of Thorns","categoria":"Diabo","cores":"BB","cor_dominante":"B","escola_1":"umbra","escola_2":"anatho","status":"Ativo","relevancia":"Central","aliases":[],"ordem":1,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/malagoth.md","permalink":"/wiki/panteao/malagoth/","dg-note-properties":{"tipo":"divindade","nome":"Malagoth","forma_divina":"Vampiro Cravejado","epiteto":"Coroa de Espinhos","epiteto_en-US":"Crown of Thorns","categoria":"Diabo","cores":"BB","cor_dominante":"B","escola_1":"umbra","escola_2":"anatho","status":"Ativo","relevancia":"Central","aliases":[],"ordem":1,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

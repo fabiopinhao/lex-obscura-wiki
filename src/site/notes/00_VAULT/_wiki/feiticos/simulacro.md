@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/simulacro/","dg-note-properties":{"tipo":"feitico","nome":"Simulacro","escola":"Spectro","escala":"Menor","aliases":[],"tags":[],"ordem":262,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/simulacro.md","permalink":"/wiki/feiticos/simulacro/","dg-note-properties":{"tipo":"feitico","nome":"Simulacro","escola":"Spectro","escala":"Menor","aliases":[],"tags":[],"ordem":262,"generated_by":"strip_sistema"}}
 ---
 
 

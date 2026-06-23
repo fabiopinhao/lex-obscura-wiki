@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/senescencia/","dg-note-properties":{"tipo":"feitico","nome":"Senescência","escola":"Chrono","escala":"Maior","aliases":[],"tags":[],"ordem":258,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/senescencia.md","permalink":"/wiki/feiticos/senescencia/","dg-note-properties":{"tipo":"feitico","nome":"Senescência","escola":"Chrono","escala":"Maior","aliases":[],"tags":[],"ordem":258,"generated_by":"strip_sistema"}}
 ---
 
 

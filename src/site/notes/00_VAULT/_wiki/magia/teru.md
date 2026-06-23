@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/teru/","dg-note-properties":{"tipo":"sistema_acesso","nome":"Teru","cor":"Universal","nome_latino":"—","entidade":"N/A","tipo_acesso":"Estudo Técnico","dificuldade":"Muito Alta","estabilidade":"Alta","custo_principal":"Décadas de estudo acadêmico","custo_recai_sobre":["identidade","tempo_academico"],"pode_trair":"N/A","posicao_doutrinaria_imperial":"oficial","termo_canalizacao":"N/A","aliases":[],"ordem":6,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/teru.md","permalink":"/wiki/magia/teru/","dg-note-properties":{"tipo":"sistema_acesso","nome":"Teru","cor":"Universal","nome_latino":"—","entidade":"N/A","tipo_acesso":"Estudo Técnico","dificuldade":"Muito Alta","estabilidade":"Alta","custo_principal":"Décadas de estudo acadêmico","custo_recai_sobre":["identidade","tempo_academico"],"pode_trair":"N/A","posicao_doutrinaria_imperial":"oficial","termo_canalizacao":"N/A","aliases":[],"ordem":6,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

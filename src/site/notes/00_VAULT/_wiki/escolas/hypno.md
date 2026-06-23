@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/hypno/","dg-note-properties":{"tipo":"escola_magia","nome":"Hypno","codigo":"GU","dominio":"Sono e Hipnose","cor_primaria":"G","cor_secundaria":"U","tipo_escola":"Híbrida","par_antagonico":"Psycho","categoria_oposicao":"Mental","aliases":[],"ordem":23,"sentimento_chave":"Conforto no limiar entre vigília e sono; a fronteira como habitat, não como passagem.","custo_ontologico_resumo":"Fronteira sono-vigília borrada. Sonhos vívidos demais; vigília turva.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/hypno.md","permalink":"/wiki/escolas/hypno/","dg-note-properties":{"tipo":"escola_magia","nome":"Hypno","codigo":"GU","dominio":"Sono e Hipnose","cor_primaria":"G","cor_secundaria":"U","tipo_escola":"Híbrida","par_antagonico":"Psycho","categoria_oposicao":"Mental","aliases":[],"ordem":23,"sentimento_chave":"Conforto no limiar entre vigília e sono; a fronteira como habitat, não como passagem.","custo_ontologico_resumo":"Fronteira sono-vigília borrada. Sonhos vívidos demais; vigília turva.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

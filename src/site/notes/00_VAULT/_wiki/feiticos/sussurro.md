@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/sussurro/","dg-note-properties":{"tipo":"feitico","nome":"Sussurro","escola":"Necro","escala":"Menor","aliases":[],"tags":[],"ordem":82,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sussurro.md","permalink":"/wiki/feiticos/sussurro/","dg-note-properties":{"tipo":"feitico","nome":"Sussurro","escola":"Necro","escala":"Menor","aliases":[],"tags":[],"ordem":82,"generated_by":"strip_sistema"}}
 ---
 
 

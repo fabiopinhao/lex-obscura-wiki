@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/ciravok-tharumen/","dg-note-properties":{"tipo":"personagem","nome_atual":"Ciravok Tharumen","raca":"Shadar","sexo":"M","relevancia":"Terciário","status_atual":"Vivo","localizacao_atual":"Morvgrad","armas_principais":"—","afiliacao_primaria":"Conselho Sombrio","aliases":["Ciravok","Tharumen","Senhor dos Celeiros"],"ordem":50,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/ciravok_tharumen.md","permalink":"/wiki/personagens/ciravok-tharumen/","dg-note-properties":{"tipo":"personagem","nome_atual":"Ciravok Tharumen","raca":"Shadar","sexo":"M","relevancia":"Terciário","status_atual":"Vivo","localizacao_atual":"Morvgrad","armas_principais":"—","afiliacao_primaria":"Conselho Sombrio","aliases":["Ciravok","Tharumen","Senhor dos Celeiros"],"ordem":50,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

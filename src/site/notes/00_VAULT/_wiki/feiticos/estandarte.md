@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/estandarte/","dg-note-properties":{"tipo":"feitico","nome":"Estandarte","escola":"Belli","escala":"Maior","aliases":[],"tags":[],"ordem":209,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/estandarte.md","permalink":"/wiki/feiticos/estandarte/","dg-note-properties":{"tipo":"feitico","nome":"Estandarte","escola":"Belli","escala":"Maior","aliases":[],"tags":[],"ordem":209,"generated_by":"strip_sistema"}}
 ---
 
 

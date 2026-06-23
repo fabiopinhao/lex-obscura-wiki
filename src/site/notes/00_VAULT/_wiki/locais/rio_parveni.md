@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/rio-parveni/","dg-note-properties":{"tipo":"local","nome":"Rio Parveni","tipo_local":"Rio","regiao":"Ventrista","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"~180","populacao_aprox":0,"aliases":[],"tags":[],"ordem":61,"heading_level":3,"parent":"ventrista","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/rio_parveni.md","permalink":"/wiki/locais/rio-parveni/","dg-note-properties":{"tipo":"local","nome":"Rio Parveni","tipo_local":"Rio","regiao":"Ventrista","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"~180","populacao_aprox":0,"aliases":[],"tags":[],"ordem":61,"heading_level":3,"parent":"ventrista","generated_by":"strip_sistema"}}
 ---
 
 

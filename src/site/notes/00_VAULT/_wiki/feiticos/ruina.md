@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/ruina/","dg-note-properties":{"tipo":"feitico","nome":"Ruína","escola":"Anatho","escala":"**Máxima**","aliases":[],"tags":[],"ordem":170,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/ruina.md","permalink":"/wiki/feiticos/ruina/","dg-note-properties":{"tipo":"feitico","nome":"Ruína","escola":"Anatho","escala":"**Máxima**","aliases":[],"tags":[],"ordem":170,"generated_by":"strip_sistema"}}
 ---
 
 

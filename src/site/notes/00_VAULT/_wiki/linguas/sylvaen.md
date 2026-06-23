@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/linguas/sylvaen/","dg-note-properties":{"tipo":"lingua","nome":"Sylvaen","tipo_lingua":"Cotidiana/Ritual","era":"Primeira Era","cor_racial":"Verde","raca_principal":"Sylvanos","funcao":"Língua cotidiana sylvana + invocações druídicas","fluencia_comum":"Nativa (sylvanos); ritual (druidas)","relacao_magica":"Symbiosis Naturae","registro_magico":"Sim (distinto do cotidiano)","descendente_de":"Luminar + Titânico","aliases":[],"tags":[],"ordem":9,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/sylvaen.md","permalink":"/wiki/linguas/sylvaen/","dg-note-properties":{"tipo":"lingua","nome":"Sylvaen","tipo_lingua":"Cotidiana/Ritual","era":"Primeira Era","cor_racial":"Verde","raca_principal":"Sylvanos","funcao":"Língua cotidiana sylvana + invocações druídicas","fluencia_comum":"Nativa (sylvanos); ritual (druidas)","relacao_magica":"Symbiosis Naturae","registro_magico":"Sim (distinto do cotidiano)","descendente_de":"Luminar + Titânico","aliases":[],"tags":[],"ordem":9,"generated_by":"strip_sistema"}}
 ---
 
 

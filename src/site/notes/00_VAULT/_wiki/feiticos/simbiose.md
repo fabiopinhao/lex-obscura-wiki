@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/simbiose/","dg-note-properties":{"tipo":"feitico","nome":"Simbiose","escola":"Vita","escala":"Maior","aliases":[],"tags":[],"ordem":98,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/simbiose.md","permalink":"/wiki/feiticos/simbiose/","dg-note-properties":{"tipo":"feitico","nome":"Simbiose","escola":"Vita","escala":"Maior","aliases":[],"tags":[],"ordem":98,"generated_by":"strip_sistema"}}
 ---
 
 

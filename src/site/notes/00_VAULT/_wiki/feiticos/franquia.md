@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/franquia/","dg-note-properties":{"tipo":"feitico","nome":"Franquia","escola":"Nomos","escala":"Menor","aliases":[],"tags":[],"ordem":193,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/franquia.md","permalink":"/wiki/feiticos/franquia/","dg-note-properties":{"tipo":"feitico","nome":"Franquia","escola":"Nomos","escala":"Menor","aliases":[],"tags":[],"ordem":193,"generated_by":"strip_sistema"}}
 ---
 
 

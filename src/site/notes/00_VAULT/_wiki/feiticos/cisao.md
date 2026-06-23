@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/cisao/","dg-note-properties":{"tipo":"feitico","nome":"Cisão","escola":"Rupto","escala":"Média","aliases":[],"tags":[],"ordem":185,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/cisao.md","permalink":"/wiki/feiticos/cisao/","dg-note-properties":{"tipo":"feitico","nome":"Cisão","escola":"Rupto","escala":"Média","aliases":[],"tags":[],"ordem":185,"generated_by":"strip_sistema"}}
 ---
 
 

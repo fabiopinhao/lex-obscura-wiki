@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/restauracao/","dg-note-properties":{"tipo":"feitico","nome":"Restauração","escola":"Salvo","escala":"Média","aliases":[],"tags":[],"ordem":115,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/restauracao.md","permalink":"/wiki/feiticos/restauracao/","dg-note-properties":{"tipo":"feitico","nome":"Restauração","escola":"Salvo","escala":"Média","aliases":[],"tags":[],"ordem":115,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/templo-de-vozrador/","dg-note-properties":{"tipo":"local","nome":"Templo de Vozrador","tipo_local":"Templo (abandonado)","regiao":"Morvgrad (distrito interditado)","controlador":"Abandonado/Interditado","status_atual":"Abandonado (infestado)","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"0 (mortos-vivos)","aliases":[],"tags":[],"ordem":8,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/templo_de_vozrador.md","permalink":"/wiki/locais/templo-de-vozrador/","dg-note-properties":{"tipo":"local","nome":"Templo de Vozrador","tipo_local":"Templo (abandonado)","regiao":"Morvgrad (distrito interditado)","controlador":"Abandonado/Interditado","status_atual":"Abandonado (infestado)","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"0 (mortos-vivos)","aliases":[],"tags":[],"ordem":8,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/conceitos/hierarquia-imperial-niveis-complementares/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Hierarquia Imperial — Níveis Complementares","subtipo":"politica","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":[],"tags":[],"ordem":16,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/hierarquia_imperial_niveis_complementares.md","permalink":"/wiki/conceitos/hierarquia-imperial-niveis-complementares/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Hierarquia Imperial — Níveis Complementares","subtipo":"politica","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":[],"tags":[],"ordem":16,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/deflexao/","dg-note-properties":{"tipo":"feitico","nome":"Deflexão","escola":"Aegis","escala":"Menor","aliases":[],"tags":[],"ordem":211,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/deflexao.md","permalink":"/wiki/feiticos/deflexao/","dg-note-properties":{"tipo":"feitico","nome":"Deflexão","escola":"Aegis","escala":"Menor","aliases":[],"tags":[],"ordem":211,"generated_by":"strip_sistema"}}
 ---
 
 

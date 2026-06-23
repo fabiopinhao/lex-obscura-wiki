@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/entorpecimento/","dg-note-properties":{"tipo":"feitico","nome":"Entorpecimento","escola":"Cryo","escala":"Menor","aliases":[],"tags":[],"ordem":21,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/entorpecimento.md","permalink":"/wiki/feiticos/entorpecimento/","dg-note-properties":{"tipo":"feitico","nome":"Entorpecimento","escola":"Cryo","escala":"Menor","aliases":[],"tags":[],"ordem":21,"generated_by":"strip_sistema"}}
 ---
 
 

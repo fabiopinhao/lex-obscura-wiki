@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/metodos-de-descarte/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Métodos De Descarte","subtipo":"mecanica","origem_arquivo":"3.14_custos_ontologicos_LORE.md","aliases":[],"ordem":4,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/metodos_de_descarte.md","permalink":"/wiki/magia/metodos-de-descarte/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Métodos De Descarte","subtipo":"mecanica","origem_arquivo":"3.14_custos_ontologicos_LORE.md","aliases":[],"ordem":4,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/symbiosis-naturae/","dg-note-properties":{"tipo":"sistema_acesso","nome":"Symbiosis Naturae","cor":"Verde (G)","nome_latino":"Symbiosis Naturae","entidade":"Titãs","tipo_acesso":"Simbiose","dificuldade":"Média","estabilidade":"Média","custo_principal":"Manutenção regular, proteger natureza","custo_recai_sobre":["identidade"],"pode_trair":"Não","posicao_doutrinaria_imperial":"estruturalmente_hostil","termo_canalizacao":"Afluxo","aliases":[],"ordem":3,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/symbiosis_naturae.md","permalink":"/wiki/magia/symbiosis-naturae/","dg-note-properties":{"tipo":"sistema_acesso","nome":"Symbiosis Naturae","cor":"Verde (G)","nome_latino":"Symbiosis Naturae","entidade":"Titãs","tipo_acesso":"Simbiose","dificuldade":"Média","estabilidade":"Média","custo_principal":"Manutenção regular, proteger natureza","custo_recai_sobre":["identidade"],"pode_trair":"Não","posicao_doutrinaria_imperial":"estruturalmente_hostil","termo_canalizacao":"Afluxo","aliases":[],"ordem":3,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

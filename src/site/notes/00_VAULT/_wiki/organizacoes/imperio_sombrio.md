@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/imperio-sombrio/","dg-note-properties":{"tipo":"organizacao","nome":"Império Sombrio","tipo_organizacao":"Estado","cor_afiliacao":"Preto","lider_atual":"Arothistar","sede":"Morvgrad","status_atual":"Ativo","membros_aprox":"Milhões","funcao_principal":"Governo soberano do continente de Reinkard","aliases":["Império","Domínio Sombrio"],"ordem":1.1,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/imperio_sombrio.md","permalink":"/wiki/organizacoes/imperio-sombrio/","dg-note-properties":{"tipo":"organizacao","nome":"Império Sombrio","tipo_organizacao":"Estado","cor_afiliacao":"Preto","lider_atual":"Arothistar","sede":"Morvgrad","status_atual":"Ativo","membros_aprox":"Milhões","funcao_principal":"Governo soberano do continente de Reinkard","aliases":["Império","Domínio Sombrio"],"ordem":1.1,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

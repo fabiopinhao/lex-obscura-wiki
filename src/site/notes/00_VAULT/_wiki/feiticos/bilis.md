@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/bilis/","dg-note-properties":{"tipo":"feitico","nome":"Bílis","escola":"Toxo","escala":"Média","aliases":[],"tags":[],"ordem":284,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/bilis.md","permalink":"/wiki/feiticos/bilis/","dg-note-properties":{"tipo":"feitico","nome":"Bílis","escola":"Toxo","escala":"Média","aliases":[],"tags":[],"ordem":284,"generated_by":"strip_sistema"}}
 ---
 
 

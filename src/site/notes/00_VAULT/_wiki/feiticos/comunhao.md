@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/comunhao/","dg-note-properties":{"tipo":"feitico","nome":"Comunhão","escola":"Hypno","escala":"Maior","aliases":[],"tags":[],"ordem":129,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/comunhao.md","permalink":"/wiki/feiticos/comunhao/","dg-note-properties":{"tipo":"feitico","nome":"Comunhão","escola":"Hypno","escala":"Maior","aliases":[],"tags":[],"ordem":129,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/magnetarca/","dg-note-properties":{"tipo":"feitico","nome":"Magnetarca","escola":"Electro","escala":"Maior","aliases":[],"tags":[],"ordem":249,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/magnetarca.md","permalink":"/wiki/feiticos/magnetarca/","dg-note-properties":{"tipo":"feitico","nome":"Magnetarca","escola":"Electro","escala":"Maior","aliases":[],"tags":[],"ordem":249,"generated_by":"strip_sistema"}}
 ---
 
 

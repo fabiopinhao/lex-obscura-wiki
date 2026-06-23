@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/caco-de-oculus/","dg-note-properties":{"tipo":"artefato","nome":"Caco de Oculus","tipo_artefato":"Fragmento de ônix","categoria":"Comunicação","portador_atual":"Skanivik (forçado)","localizacao_atual":"Carregado por Skanivik","status_atual":"Ativo","origem":"Fragmento do Oculus","vinculacao_entregue_em":"Vyrensen → Skanivik (forçado)","aliases":[],"tags":[],"ordem":9,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/caco_de_oculus.md","permalink":"/wiki/artefatos/caco-de-oculus/","dg-note-properties":{"tipo":"artefato","nome":"Caco de Oculus","tipo_artefato":"Fragmento de ônix","categoria":"Comunicação","portador_atual":"Skanivik (forçado)","localizacao_atual":"Carregado por Skanivik","status_atual":"Ativo","origem":"Fragmento do Oculus","vinculacao_entregue_em":"Vyrensen → Skanivik (forçado)","aliases":[],"tags":[],"ordem":9,"generated_by":"strip_sistema"}}
 ---
 
 

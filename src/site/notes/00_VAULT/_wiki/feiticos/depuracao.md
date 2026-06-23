@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/depuracao/","dg-note-properties":{"tipo":"feitico","nome":"Depuração","escola":"Salvo","escala":"Menor","aliases":[],"tags":[],"ordem":113,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/depuracao.md","permalink":"/wiki/feiticos/depuracao/","dg-note-properties":{"tipo":"feitico","nome":"Depuração","escola":"Salvo","escala":"Menor","aliases":[],"tags":[],"ordem":113,"generated_by":"strip_sistema"}}
 ---
 
 

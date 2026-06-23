@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/limiar/","dg-note-properties":{"tipo":"feitico","nome":"Limiar","escola":"Umbra","escala":"Média","aliases":[],"tags":[],"ordem":66,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/limiar.md","permalink":"/wiki/feiticos/limiar/","dg-note-properties":{"tipo":"feitico","nome":"Limiar","escola":"Umbra","escala":"Média","aliases":[],"tags":[],"ordem":66,"generated_by":"strip_sistema"}}
 ---
 
 

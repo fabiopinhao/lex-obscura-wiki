@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/criaturas/ogro/","dg-note-properties":{"tipo":"criatura","nome":"Ogro","cor_arcana":"—","habitat":"Urbano (servidão), regiões selvagens","aliases":[],"ordem":13,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/ogro.md","permalink":"/wiki/criaturas/ogro/","dg-note-properties":{"tipo":"criatura","nome":"Ogro","cor_arcana":"—","habitat":"Urbano (servidão), regiões selvagens","aliases":[],"ordem":13,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

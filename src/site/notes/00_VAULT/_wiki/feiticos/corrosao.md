@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/corrosao/","dg-note-properties":{"tipo":"feitico","nome":"Corrosão","escola":"Toxo","escala":"Menor","aliases":[],"tags":[],"ordem":283,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/corrosao.md","permalink":"/wiki/feiticos/corrosao/","dg-note-properties":{"tipo":"feitico","nome":"Corrosão","escola":"Toxo","escala":"Menor","aliases":[],"tags":[],"ordem":283,"generated_by":"strip_sistema"}}
 ---
 
 

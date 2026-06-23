@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/politica-imperial-de-descarte/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Política Imperial De Descarte","subtipo":"politica","origem_arquivo":"3.14_custos_ontologicos_LORE.md","aliases":[],"ordem":3,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/politica_imperial_de_descarte.md","permalink":"/wiki/magia/politica-imperial-de-descarte/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Política Imperial De Descarte","subtipo":"politica","origem_arquivo":"3.14_custos_ontologicos_LORE.md","aliases":[],"ordem":3,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

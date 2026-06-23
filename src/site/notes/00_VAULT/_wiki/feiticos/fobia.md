@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/fobia/","dg-note-properties":{"tipo":"feitico","nome":"Fobia","escola":"Phobos","escala":"Maior","aliases":[],"tags":[],"ordem":148,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/fobia.md","permalink":"/wiki/feiticos/fobia/","dg-note-properties":{"tipo":"feitico","nome":"Fobia","escola":"Phobos","escala":"Maior","aliases":[],"tags":[],"ordem":148,"generated_by":"strip_sistema"}}
 ---
 
 

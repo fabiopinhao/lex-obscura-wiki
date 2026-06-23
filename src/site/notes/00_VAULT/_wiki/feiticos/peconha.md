@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/peconha/","dg-note-properties":{"tipo":"feitico","nome":"Peçonha","escola":"Toxo","escala":"Menor","aliases":[],"tags":[],"ordem":281,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/peconha.md","permalink":"/wiki/feiticos/peconha/","dg-note-properties":{"tipo":"feitico","nome":"Peçonha","escola":"Toxo","escala":"Menor","aliases":[],"tags":[],"ordem":281,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/campanha-ocidental-de-dravhok/","dg-note-properties":{"tipo":"evento","nome":"Campanha Ocidental de Dravhok (Cordilheira Anânica)","id":"E-0028","era":"Guerras_Reinkardicas","ano_relativo":-60,"tipo_evento":"guerra","impacto":"alto","marco_yaml":"—","aliases":["Campanha das Montanhas","Queda das Forjas Anânicas"],"tags":[],"ordem":28,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/campanha_ocidental_de_dravhok.md","permalink":"/wiki/eventos/campanha-ocidental-de-dravhok/","dg-note-properties":{"tipo":"evento","nome":"Campanha Ocidental de Dravhok (Cordilheira Anânica)","id":"E-0028","era":"Guerras_Reinkardicas","ano_relativo":-60,"tipo_evento":"guerra","impacto":"alto","marco_yaml":"—","aliases":["Campanha das Montanhas","Queda das Forjas Anânicas"],"tags":[],"ordem":28,"generated_by":"strip_sistema"}}
 ---
 
 

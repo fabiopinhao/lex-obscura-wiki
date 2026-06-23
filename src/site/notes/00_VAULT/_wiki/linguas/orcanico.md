@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/linguas/orcanico/","dg-note-properties":{"tipo":"lingua","nome":"Orcânico","tipo_lingua":"Cotidiana/Ritual","era":"Primeira Era","cor_racial":"Vermelho","raca_principal":"Orcs","funcao":"Língua cotidiana orc + ritual berserker/xamânico","fluencia_comum":"Nativa (orcs selvagens); funcional (orcs imperiais)","relacao_magica":"Vinculum Daemonis","registro_magico":"Sim (quase idêntico ao cotidiano)","descendente_de":"—","aliases":[],"tags":[],"ordem":8,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/orcanico.md","permalink":"/wiki/linguas/orcanico/","dg-note-properties":{"tipo":"lingua","nome":"Orcânico","tipo_lingua":"Cotidiana/Ritual","era":"Primeira Era","cor_racial":"Vermelho","raca_principal":"Orcs","funcao":"Língua cotidiana orc + ritual berserker/xamânico","fluencia_comum":"Nativa (orcs selvagens); funcional (orcs imperiais)","relacao_magica":"Vinculum Daemonis","registro_magico":"Sim (quase idêntico ao cotidiano)","descendente_de":"—","aliases":[],"tags":[],"ordem":8,"generated_by":"strip_sistema"}}
 ---
 
 

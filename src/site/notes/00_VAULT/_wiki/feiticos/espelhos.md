@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/espelhos/","dg-note-properties":{"tipo":"feitico","nome":"Espelhos","escola":"Spectro","escala":"Média","aliases":[],"tags":[],"ordem":265,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/espelhos.md","permalink":"/wiki/feiticos/espelhos/","dg-note-properties":{"tipo":"feitico","nome":"Espelhos","escola":"Spectro","escala":"Média","aliases":[],"tags":[],"ordem":265,"generated_by":"strip_sistema"}}
 ---
 
 

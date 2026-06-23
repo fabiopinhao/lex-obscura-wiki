@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/sudario/","dg-note-properties":{"tipo":"feitico","nome":"Sudário","escola":"Necro","escala":"Média","aliases":[],"tags":[],"ordem":86,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sudario.md","permalink":"/wiki/feiticos/sudario/","dg-note-properties":{"tipo":"feitico","nome":"Sudário","escola":"Necro","escala":"Média","aliases":[],"tags":[],"ordem":86,"generated_by":"strip_sistema"}}
 ---
 
 

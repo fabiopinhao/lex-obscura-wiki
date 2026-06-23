@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/reconstituicao/","dg-note-properties":{"tipo":"feitico","nome":"Reconstituição","escola":"Salvo","escala":"Maior","aliases":[],"tags":[],"ordem":117,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/reconstituicao.md","permalink":"/wiki/feiticos/reconstituicao/","dg-note-properties":{"tipo":"feitico","nome":"Reconstituição","escola":"Salvo","escala":"Maior","aliases":[],"tags":[],"ordem":117,"generated_by":"strip_sistema"}}
 ---
 
 

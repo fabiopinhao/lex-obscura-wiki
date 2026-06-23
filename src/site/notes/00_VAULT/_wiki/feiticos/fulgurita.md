@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/fulgurita/","dg-note-properties":{"tipo":"feitico","nome":"Fulgurita","escola":"Plasma","escala":"Média","aliases":[],"tags":[],"ordem":34,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/fulgurita.md","permalink":"/wiki/feiticos/fulgurita/","dg-note-properties":{"tipo":"feitico","nome":"Fulgurita","escola":"Plasma","escala":"Média","aliases":[],"tags":[],"ordem":34,"generated_by":"strip_sistema"}}
 ---
 
 

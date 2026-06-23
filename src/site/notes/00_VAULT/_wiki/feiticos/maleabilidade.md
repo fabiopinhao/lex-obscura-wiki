@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/maleabilidade/","dg-note-properties":{"tipo":"feitico","nome":"Maleabilidade","escola":"Morpho","escala":"Menor","aliases":[],"tags":[],"ordem":273,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/maleabilidade.md","permalink":"/wiki/feiticos/maleabilidade/","dg-note-properties":{"tipo":"feitico","nome":"Maleabilidade","escola":"Morpho","escala":"Menor","aliases":[],"tags":[],"ordem":273,"generated_by":"strip_sistema"}}
 ---
 
 

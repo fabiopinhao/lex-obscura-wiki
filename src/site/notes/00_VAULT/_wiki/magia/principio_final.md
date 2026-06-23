@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/principio-final/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Princípio Final","subtipo":"mecanica","origem_arquivo":"3.14_custos_ontologicos_LORE.md","aliases":[],"ordem":8,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/principio_final.md","permalink":"/wiki/magia/principio-final/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Princípio Final","subtipo":"mecanica","origem_arquivo":"3.14_custos_ontologicos_LORE.md","aliases":[],"ordem":8,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

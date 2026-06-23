@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/pesadelo/","dg-note-properties":{"tipo":"feitico","nome":"Pesadelo","escola":"Hypno","escala":"Média","aliases":[],"tags":[],"ordem":126,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/pesadelo.md","permalink":"/wiki/feiticos/pesadelo/","dg-note-properties":{"tipo":"feitico","nome":"Pesadelo","escola":"Hypno","escala":"Média","aliases":[],"tags":[],"ordem":126,"generated_by":"strip_sistema"}}
 ---
 
 

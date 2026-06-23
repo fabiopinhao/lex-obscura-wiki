@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/nomos/","dg-note-properties":{"tipo":"escola_magia","nome":"Nomos","codigo":"WB","dominio":"Vínculo e Restrição","cor_primaria":"W","cor_secundaria":"B","tipo_escola":"Híbrida","par_antagonico":"Rupto","categoria_oposicao":"Ordem/Caos","aliases":[],"ordem":10,"sentimento_chave":"Certeza de que o vínculo imposto é justo; posse legítima sobre o que foi selado.","custo_ontologico_resumo":"Literalismo patológico. Ambiguidade intolerável; regras reconfortam; exceções ameaçam.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/nomos.md","permalink":"/wiki/escolas/nomos/","dg-note-properties":{"tipo":"escola_magia","nome":"Nomos","codigo":"WB","dominio":"Vínculo e Restrição","cor_primaria":"W","cor_secundaria":"B","tipo_escola":"Híbrida","par_antagonico":"Rupto","categoria_oposicao":"Ordem/Caos","aliases":[],"ordem":10,"sentimento_chave":"Certeza de que o vínculo imposto é justo; posse legítima sobre o que foi selado.","custo_ontologico_resumo":"Literalismo patológico. Ambiguidade intolerável; regras reconfortam; exceções ameaçam.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/desintegracao/","dg-note-properties":{"tipo":"feitico","nome":"Desintegração","escola":"Plasma","escala":"Maior","aliases":[],"tags":[],"ordem":38,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/desintegracao.md","permalink":"/wiki/feiticos/desintegracao/","dg-note-properties":{"tipo":"feitico","nome":"Desintegração","escola":"Plasma","escala":"Maior","aliases":[],"tags":[],"ordem":38,"generated_by":"strip_sistema"}}
 ---
 
 

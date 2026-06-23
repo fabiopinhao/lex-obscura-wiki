@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/desvelar/","dg-note-properties":{"tipo":"feitico","nome":"Desvelar","escola":"Helio","escala":"Média","aliases":[],"tags":[],"ordem":75,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/desvelar.md","permalink":"/wiki/feiticos/desvelar/","dg-note-properties":{"tipo":"feitico","nome":"Desvelar","escola":"Helio","escala":"Média","aliases":[],"tags":[],"ordem":75,"generated_by":"strip_sistema"}}
 ---
 
 

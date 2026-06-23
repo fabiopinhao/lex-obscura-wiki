@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/bombarda-ananica/","dg-note-properties":{"tipo":"artefato","nome":"Bombarda Anânica","tipo_artefato":"Arma de fogo","categoria":"Armamento","portador_atual":"Nidzina","localizacao_atual":"Inventário de Nidzina","status_atual":"Ativo","origem":"Anã-Shadar (híbrida)","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":8,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/bombarda_ananica.md","permalink":"/wiki/artefatos/bombarda-ananica/","dg-note-properties":{"tipo":"artefato","nome":"Bombarda Anânica","tipo_artefato":"Arma de fogo","categoria":"Armamento","portador_atual":"Nidzina","localizacao_atual":"Inventário de Nidzina","status_atual":"Ativo","origem":"Anã-Shadar (híbrida)","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":8,"generated_by":"strip_sistema"}}
 ---
 
 

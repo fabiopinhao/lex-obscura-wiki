@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/singularidade/","dg-note-properties":{"tipo":"feitico","nome":"Singularidade","escola":"Cosmo","escala":"Maior","aliases":[],"tags":[],"ordem":228,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/singularidade.md","permalink":"/wiki/feiticos/singularidade/","dg-note-properties":{"tipo":"feitico","nome":"Singularidade","escola":"Cosmo","escala":"Maior","aliases":[],"tags":[],"ordem":228,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/criaturas/hidna-ressonante/","dg-note-properties":{"tipo":"criatura","nome":"Hidna Ressonante","cor_arcana":"—","habitat":"Subterrâneo (Vor-Ghol)","aliases":[],"tags":[],"ordem":4,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/hidna_ressonante.md","permalink":"/wiki/criaturas/hidna-ressonante/","dg-note-properties":{"tipo":"criatura","nome":"Hidna Ressonante","cor_arcana":"—","habitat":"Subterrâneo (Vor-Ghol)","aliases":[],"tags":[],"ordem":4,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

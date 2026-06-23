@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/broto/","dg-note-properties":{"tipo":"feitico","nome":"Broto","escola":"Vita","escala":"Menor","aliases":[],"tags":[],"ordem":91,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/broto.md","permalink":"/wiki/feiticos/broto/","dg-note-properties":{"tipo":"feitico","nome":"Broto","escola":"Vita","escala":"Menor","aliases":[],"tags":[],"ordem":91,"generated_by":"strip_sistema"}}
 ---
 
 

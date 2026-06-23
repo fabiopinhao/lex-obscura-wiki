@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/conceitos/sistema-de-medidas/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Sistema de Medidas","subtipo":"medida","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":[],"tags":[],"ordem":10,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/sistema_de_medidas.md","permalink":"/wiki/conceitos/sistema-de-medidas/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Sistema de Medidas","subtipo":"medida","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":[],"tags":[],"ordem":10,"generated_by":"strip_sistema"}}
 ---
 
 

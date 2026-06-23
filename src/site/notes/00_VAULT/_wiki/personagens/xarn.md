@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/xarn/","dg-note-properties":{"tipo":"personagem","nome_atual":"Xarn","raca":"Shadar","sexo":"M","relevancia":"Secundário","status_atual":"Vivo","localizacao_atual":"Morvgrad","armas_principais":"—","afiliacao_primaria":"Culto Sombrio (líder espiritual)","aliases":[],"ordem":42,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/xarn.md","permalink":"/wiki/personagens/xarn/","dg-note-properties":{"tipo":"personagem","nome_atual":"Xarn","raca":"Shadar","sexo":"M","relevancia":"Secundário","status_atual":"Vivo","localizacao_atual":"Morvgrad","armas_principais":"—","afiliacao_primaria":"Culto Sombrio (líder espiritual)","aliases":[],"ordem":42,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

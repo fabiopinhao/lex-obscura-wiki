@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/fevrazuni/","dg-note-properties":{"tipo":"divindade","nome":"Fevrazûni","forma_divina":"Succubus Lunática","epiteto":"Delírio Lacerante","epiteto_en-US":"Rending Delirium","categoria":"Demônio","cores":"Ru","cor_dominante":"R","escola_1":"psycho","escola_2":"rupto","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":18,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/fevrazuni.md","permalink":"/wiki/panteao/fevrazuni/","dg-note-properties":{"tipo":"divindade","nome":"Fevrazûni","forma_divina":"Succubus Lunática","epiteto":"Delírio Lacerante","epiteto_en-US":"Rending Delirium","categoria":"Demônio","cores":"Ru","cor_dominante":"R","escola_1":"psycho","escola_2":"rupto","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":18,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

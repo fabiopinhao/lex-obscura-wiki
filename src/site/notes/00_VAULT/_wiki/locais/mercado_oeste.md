@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/mercado-oeste/","dg-note-properties":{"tipo":"local","nome":"Mercado Oeste","tipo_local":"Mercado (negro)","regiao":"Morvgrad","controlador":"Guilda dos Gnomos (derros)","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"Variável","aliases":[],"tags":[],"ordem":22,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/mercado_oeste.md","permalink":"/wiki/locais/mercado-oeste/","dg-note-properties":{"tipo":"local","nome":"Mercado Oeste","tipo_local":"Mercado (negro)","regiao":"Morvgrad","controlador":"Guilda dos Gnomos (derros)","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"Variável","aliases":[],"tags":[],"ordem":22,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/abrogacao/","dg-note-properties":{"tipo":"feitico","nome":"Abrogação","escola":"Rupto","escala":"Média","aliases":[],"tags":[],"ordem":186,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/abrogacao.md","permalink":"/wiki/feiticos/abrogacao/","dg-note-properties":{"tipo":"feitico","nome":"Abrogação","escola":"Rupto","escala":"Média","aliases":[],"tags":[],"ordem":186,"generated_by":"strip_sistema"}}
 ---
 
 

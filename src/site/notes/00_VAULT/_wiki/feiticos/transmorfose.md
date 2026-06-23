@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/transmorfose/","dg-note-properties":{"tipo":"feitico","nome":"Transmorfose","escola":"Morpho","escala":"Maior","aliases":[],"tags":[],"ordem":278,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/transmorfose.md","permalink":"/wiki/feiticos/transmorfose/","dg-note-properties":{"tipo":"feitico","nome":"Transmorfose","escola":"Morpho","escala":"Maior","aliases":[],"tags":[],"ordem":278,"generated_by":"strip_sistema"}}
 ---
 
 

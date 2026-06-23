@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/bolido/","dg-note-properties":{"tipo":"feitico","nome":"Bólido","escola":"Plasma","escala":"Maior","aliases":[],"tags":[],"ordem":37,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/bolido.md","permalink":"/wiki/feiticos/bolido/","dg-note-properties":{"tipo":"feitico","nome":"Bólido","escola":"Plasma","escala":"Maior","aliases":[],"tags":[],"ordem":37,"generated_by":"strip_sistema"}}
 ---
 
 

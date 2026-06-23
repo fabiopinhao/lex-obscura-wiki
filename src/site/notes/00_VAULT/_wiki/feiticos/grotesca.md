@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/grotesca/","dg-note-properties":{"tipo":"feitico","nome":"Grotesca","escola":"Morpho","escala":"Maior","aliases":[],"tags":[],"ordem":277,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/grotesca.md","permalink":"/wiki/feiticos/grotesca/","dg-note-properties":{"tipo":"feitico","nome":"Grotesca","escola":"Morpho","escala":"Maior","aliases":[],"tags":[],"ordem":277,"generated_by":"strip_sistema"}}
 ---
 
 

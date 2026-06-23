@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/nevasca/","dg-note-properties":{"tipo":"feitico","nome":"Nevasca","escola":"Cryo","escala":"Maior","aliases":[],"tags":[],"ordem":29,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/nevasca.md","permalink":"/wiki/feiticos/nevasca/","dg-note-properties":{"tipo":"feitico","nome":"Nevasca","escola":"Cryo","escala":"Maior","aliases":[],"tags":[],"ordem":29,"generated_by":"strip_sistema"}}
 ---
 
 

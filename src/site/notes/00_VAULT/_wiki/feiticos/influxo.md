@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/influxo/","dg-note-properties":{"tipo":"feitico","nome":"Influxo","escola":"Psycho","escala":"Menor","aliases":[],"tags":[],"ordem":132,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/influxo.md","permalink":"/wiki/feiticos/influxo/","dg-note-properties":{"tipo":"feitico","nome":"Influxo","escola":"Psycho","escala":"Menor","aliases":[],"tags":[],"ordem":132,"generated_by":"strip_sistema"}}
 ---
 
 

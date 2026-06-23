@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/incandescencia/","dg-note-properties":{"tipo":"feitico","nome":"Incandescência","escola":"Plasma","escala":"Menor","aliases":[],"tags":[],"ordem":33,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/incandescencia.md","permalink":"/wiki/feiticos/incandescencia/","dg-note-properties":{"tipo":"feitico","nome":"Incandescência","escola":"Plasma","escala":"Menor","aliases":[],"tags":[],"ordem":33,"generated_by":"strip_sistema"}}
 ---
 
 

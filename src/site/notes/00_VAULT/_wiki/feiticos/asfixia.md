@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/asfixia/","dg-note-properties":{"tipo":"feitico","nome":"Asfixia","escola":"Aero","escala":"Maior","aliases":[],"tags":[],"ordem":49,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/asfixia.md","permalink":"/wiki/feiticos/asfixia/","dg-note-properties":{"tipo":"feitico","nome":"Asfixia","escola":"Aero","escala":"Maior","aliases":[],"tags":[],"ordem":49,"generated_by":"strip_sistema"}}
 ---
 
 

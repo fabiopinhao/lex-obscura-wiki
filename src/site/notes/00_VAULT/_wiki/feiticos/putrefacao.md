@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/putrefacao/","dg-note-properties":{"tipo":"feitico","nome":"Putrefação","escola":"Patho","escala":"Média","aliases":[],"tags":[],"ordem":105,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/putrefacao.md","permalink":"/wiki/feiticos/putrefacao/","dg-note-properties":{"tipo":"feitico","nome":"Putrefação","escola":"Patho","escala":"Média","aliases":[],"tags":[],"ordem":105,"generated_by":"strip_sistema"}}
 ---
 
 

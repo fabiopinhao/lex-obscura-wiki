@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/zephrak/","dg-note-properties":{"tipo":"divindade","nome":"Zephrak","forma_divina":"Grifo Ferino","epiteto":"Sopro Inclemente","epiteto_en-US":"Merciless Gust","categoria":"Anjo","cores":"Wr","cor_dominante":"W","escola_1":"aero","escola_2":"sacro","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":36,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/zephrak.md","permalink":"/wiki/panteao/zephrak/","dg-note-properties":{"tipo":"divindade","nome":"Zephrak","forma_divina":"Grifo Ferino","epiteto":"Sopro Inclemente","epiteto_en-US":"Merciless Gust","categoria":"Anjo","cores":"Wr","cor_dominante":"W","escola_1":"aero","escola_2":"sacro","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":36,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

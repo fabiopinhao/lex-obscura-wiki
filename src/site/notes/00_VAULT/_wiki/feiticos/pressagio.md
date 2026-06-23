@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/pressagio/","dg-note-properties":{"tipo":"feitico","nome":"Presságio","escola":"Gnosi","escala":"Média","aliases":[],"tags":[],"ordem":156,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/pressagio.md","permalink":"/wiki/feiticos/pressagio/","dg-note-properties":{"tipo":"feitico","nome":"Presságio","escola":"Gnosi","escala":"Média","aliases":[],"tags":[],"ordem":156,"generated_by":"strip_sistema"}}
 ---
 
 

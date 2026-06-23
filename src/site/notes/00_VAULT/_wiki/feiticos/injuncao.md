@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/injuncao/","dg-note-properties":{"tipo":"feitico","nome":"Injunção","escola":"Nomos","escala":"Menor","aliases":[],"tags":[],"ordem":192,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/injuncao.md","permalink":"/wiki/feiticos/injuncao/","dg-note-properties":{"tipo":"feitico","nome":"Injunção","escola":"Nomos","escala":"Menor","aliases":[],"tags":[],"ordem":192,"generated_by":"strip_sistema"}}
 ---
 
 

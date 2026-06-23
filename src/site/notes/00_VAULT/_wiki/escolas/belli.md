@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/belli/","dg-note-properties":{"tipo":"escola_magia","nome":"Belli","codigo":"RG","dominio":"Guerra e Combate","cor_primaria":"R","cor_secundaria":"G","tipo_escola":"Híbrida","par_antagonico":"Aegis","categoria_oposicao":"Ordem/Caos","aliases":[],"ordem":13,"sentimento_chave":"Excitação do confronto; a percepção do conflito como estado natural do corpo.","custo_ontologico_resumo":"Vício em conflito. Paz é entediante, depois insuportável; provoca brigas inconscientemente.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/belli.md","permalink":"/wiki/escolas/belli/","dg-note-properties":{"tipo":"escola_magia","nome":"Belli","codigo":"RG","dominio":"Guerra e Combate","cor_primaria":"R","cor_secundaria":"G","tipo_escola":"Híbrida","par_antagonico":"Aegis","categoria_oposicao":"Ordem/Caos","aliases":[],"ordem":13,"sentimento_chave":"Excitação do confronto; a percepção do conflito como estado natural do corpo.","custo_ontologico_resumo":"Vício em conflito. Paz é entediante, depois insuportável; provoca brigas inconscientemente.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

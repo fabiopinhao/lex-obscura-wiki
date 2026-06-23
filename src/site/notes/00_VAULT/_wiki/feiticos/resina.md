@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/resina/","dg-note-properties":{"tipo":"feitico","nome":"Resina","escola":"Toxo","escala":"Menor","aliases":[],"tags":[],"ordem":282,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/resina.md","permalink":"/wiki/feiticos/resina/","dg-note-properties":{"tipo":"feitico","nome":"Resina","escola":"Toxo","escala":"Menor","aliases":[],"tags":[],"ordem":282,"generated_by":"strip_sistema"}}
 ---
 
 

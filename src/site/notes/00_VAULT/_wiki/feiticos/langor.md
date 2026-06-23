@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/langor/","dg-note-properties":{"tipo":"feitico","nome":"Langor","escola":"Hypno","escala":"Menor","aliases":[],"tags":[],"ordem":121,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/langor.md","permalink":"/wiki/feiticos/langor/","dg-note-properties":{"tipo":"feitico","nome":"Langor","escola":"Hypno","escala":"Menor","aliases":[],"tags":[],"ordem":121,"generated_by":"strip_sistema"}}
 ---
 
 

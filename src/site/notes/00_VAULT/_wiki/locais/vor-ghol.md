@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/vor-ghol/","dg-note-properties":{"tipo":"local","nome":"Vor-Ghol","tipo_local":"Underdark (rede de cavernas)","regiao":"Subterrâneo de Reinkard","controlador":"Casas Matriarcais Drul + Império","status_atual":"Ativo (instável)","distancia_morvgrad_leguas":"Conectado por elevador","populacao_aprox":"Dezenas de milhares","aliases":[],"tags":[],"ordem":4,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/vor-ghol.md","permalink":"/wiki/locais/vor-ghol/","dg-note-properties":{"tipo":"local","nome":"Vor-Ghol","tipo_local":"Underdark (rede de cavernas)","regiao":"Subterrâneo de Reinkard","controlador":"Casas Matriarcais Drul + Império","status_atual":"Ativo (instável)","distancia_morvgrad_leguas":"Conectado por elevador","populacao_aprox":"Dezenas de milhares","aliases":[],"tags":[],"ordem":4,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

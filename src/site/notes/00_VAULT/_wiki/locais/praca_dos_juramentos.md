@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/praca-dos-juramentos/","dg-note-properties":{"tipo":"local","nome":"Praça dos Juramentos","tipo_local":"Praça (cerimonial)","regiao":"Xarn'Aroth (Morvgrad)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"Variável","aliases":[],"tags":[],"ordem":59,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/praca_dos_juramentos.md","permalink":"/wiki/locais/praca-dos-juramentos/","dg-note-properties":{"tipo":"local","nome":"Praça dos Juramentos","tipo_local":"Praça (cerimonial)","regiao":"Xarn'Aroth (Morvgrad)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"Variável","aliases":[],"tags":[],"ordem":59,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

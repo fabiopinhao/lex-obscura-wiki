@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/anulacao/","dg-note-properties":{"tipo":"feitico","nome":"Anulação","escola":"Abjuro","escala":"Média","aliases":[],"tags":[],"ordem":294,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/anulacao.md","permalink":"/wiki/feiticos/anulacao/","dg-note-properties":{"tipo":"feitico","nome":"Anulação","escola":"Abjuro","escala":"Média","aliases":[],"tags":[],"ordem":294,"generated_by":"strip_sistema"}}
 ---
 
 

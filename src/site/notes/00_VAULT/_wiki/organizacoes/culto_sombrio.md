@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/culto-sombrio/","dg-note-properties":{"tipo":"organizacao","nome":"Culto Sombrio","tipo_organizacao":"Religião oficial","cor_afiliacao":"Preto","lider_atual":"Arothistar","sede":"Morvgrad (Templo de Azkaroth)","status_atual":"Ativo","membros_aprox":"Milhões","funcao_principal":"Adoração aos deuses negros. Sistema cromático de selos.","aliases":[],"tags":[],"ordem":1,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/culto_sombrio.md","permalink":"/wiki/organizacoes/culto-sombrio/","dg-note-properties":{"tipo":"organizacao","nome":"Culto Sombrio","tipo_organizacao":"Religião oficial","cor_afiliacao":"Preto","lider_atual":"Arothistar","sede":"Morvgrad (Templo de Azkaroth)","status_atual":"Ativo","membros_aprox":"Milhões","funcao_principal":"Adoração aos deuses negros. Sistema cromático de selos.","aliases":[],"tags":[],"ordem":1,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

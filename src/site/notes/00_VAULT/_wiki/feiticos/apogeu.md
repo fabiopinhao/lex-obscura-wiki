@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/apogeu/","dg-note-properties":{"tipo":"feitico","nome":"Apogeu","escola":"Helio","escala":"**Máxima**","aliases":[],"tags":[],"ordem":80,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/apogeu.md","permalink":"/wiki/feiticos/apogeu/","dg-note-properties":{"tipo":"feitico","nome":"Apogeu","escola":"Helio","escala":"**Máxima**","aliases":[],"tags":[],"ordem":80,"generated_by":"strip_sistema"}}
 ---
 
 

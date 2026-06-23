@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/administracao-de-niedellin/","dg-note-properties":{"tipo":"organizacao","nome":"Administração de Niedellin","tipo_organizacao":"Governo local","cor_afiliacao":"Preto","lider_atual":"Merari (deposto)","sede":"Niedellin","status_atual":"Dissolvida","membros_aprox":"<50","funcao_principal":"Governança local de Niedellin; Merari como lorde, Maraxus como executor.","aliases":[],"tags":[],"ordem":18,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/administracao_de_niedellin.md","permalink":"/wiki/organizacoes/administracao-de-niedellin/","dg-note-properties":{"tipo":"organizacao","nome":"Administração de Niedellin","tipo_organizacao":"Governo local","cor_afiliacao":"Preto","lider_atual":"Merari (deposto)","sede":"Niedellin","status_atual":"Dissolvida","membros_aprox":"<50","funcao_principal":"Governança local de Niedellin; Merari como lorde, Maraxus como executor.","aliases":[],"tags":[],"ordem":18,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

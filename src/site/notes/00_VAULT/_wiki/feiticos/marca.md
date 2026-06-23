@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/marca/","dg-note-properties":{"tipo":"feitico","nome":"Marca","escola":"Anatho","escala":"Menor","aliases":[],"tags":[],"ordem":162,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/marca.md","permalink":"/wiki/feiticos/marca/","dg-note-properties":{"tipo":"feitico","nome":"Marca","escola":"Anatho","escala":"Menor","aliases":[],"tags":[],"ordem":162,"generated_by":"strip_sistema"}}
 ---
 
 

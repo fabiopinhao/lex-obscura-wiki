@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/servo/","dg-note-properties":{"tipo":"feitico","nome":"Servo","escola":"Necro","escala":"Média","aliases":[],"tags":[],"ordem":85,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/servo.md","permalink":"/wiki/feiticos/servo/","dg-note-properties":{"tipo":"feitico","nome":"Servo","escola":"Necro","escala":"Média","aliases":[],"tags":[],"ordem":85,"generated_by":"strip_sistema"}}
 ---
 
 

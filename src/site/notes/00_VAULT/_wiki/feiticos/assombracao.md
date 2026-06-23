@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/assombracao/","dg-note-properties":{"tipo":"feitico","nome":"Assombração","escola":"Spectro","escala":"Maior","aliases":[],"tags":[],"ordem":269,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/assombracao.md","permalink":"/wiki/feiticos/assombracao/","dg-note-properties":{"tipo":"feitico","nome":"Assombração","escola":"Spectro","escala":"Maior","aliases":[],"tags":[],"ordem":269,"generated_by":"strip_sistema"}}
 ---
 
 

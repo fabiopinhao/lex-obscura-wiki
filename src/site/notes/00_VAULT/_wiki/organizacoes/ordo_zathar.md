@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/ordo-zathar/","dg-note-properties":{"tipo":"organizacao","nome":"Ordo Zathar","tipo_organizacao":"Facção secreta","cor_afiliacao":"Preto","lider_atual":"Jaakurs (operacional); Nyx'Ara (estratégica)","sede":"Sem sede formal (operações: Xarn'Zareth, Ghol'Mournak)","status_atual":"Ativo (oculto)","membros_aprox":"4+ confirmados","funcao_principal":"Conspiração templária — bandeira: volta dos templários e descentralização pré-Arothistar; núcleo: teocracia da Lex Obscura (fim do Verbum Arkhon).","aliases":[],"tags":[],"ordem":22,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/ordo_zathar.md","permalink":"/wiki/organizacoes/ordo-zathar/","dg-note-properties":{"tipo":"organizacao","nome":"Ordo Zathar","tipo_organizacao":"Facção secreta","cor_afiliacao":"Preto","lider_atual":"Jaakurs (operacional); Nyx'Ara (estratégica)","sede":"Sem sede formal (operações: Xarn'Zareth, Ghol'Mournak)","status_atual":"Ativo (oculto)","membros_aprox":"4+ confirmados","funcao_principal":"Conspiração templária — bandeira: volta dos templários e descentralização pré-Arothistar; núcleo: teocracia da Lex Obscura (fim do Verbum Arkhon).","aliases":[],"tags":[],"ordem":22,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/durathain/","dg-note-properties":{"tipo":"divindade","nome":"Durathain","forma_divina":"Behemoth Pútrido","epiteto":"Mão Imunda","epiteto_en-US":"The Grimy Hand","categoria":"Titã","cores":"Gb","cor_dominante":"G","escola_1":"toxo","escola_2":"geo","status":"Ativo","relevancia":"Livro I","aliases":[],"ordem":27,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/durathain.md","permalink":"/wiki/panteao/durathain/","dg-note-properties":{"tipo":"divindade","nome":"Durathain","forma_divina":"Behemoth Pútrido","epiteto":"Mão Imunda","epiteto_en-US":"The Grimy Hand","categoria":"Titã","cores":"Gb","cor_dominante":"G","escola_1":"toxo","escola_2":"geo","status":"Ativo","relevancia":"Livro I","aliases":[],"ordem":27,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

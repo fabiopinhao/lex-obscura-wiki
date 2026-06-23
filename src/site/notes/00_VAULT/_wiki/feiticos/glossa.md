@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/glossa/","dg-note-properties":{"tipo":"feitico","nome":"Glossa","escola":"Gnosi","escala":"Menor","aliases":[],"tags":[],"ordem":153,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/glossa.md","permalink":"/wiki/feiticos/glossa/","dg-note-properties":{"tipo":"feitico","nome":"Glossa","escola":"Gnosi","escala":"Menor","aliases":[],"tags":[],"ordem":153,"generated_by":"strip_sistema"}}
 ---
 
 

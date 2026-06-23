@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/milorsevogh-velshard/","dg-note-properties":{"tipo":"personagem","nome_atual":"Milorsevogh Velshard","raca":"Shadar","sexo":"M","relevancia":"Protagonista","status_atual":"Vivo","localizacao_atual":"Retornando a Morvgrad","armas_principais":"Anatho","afiliacao_primaria":"Justiciars","aliases":["Milor","Tenente Velshard","Milorsevogh","Velshard"],"ordem":1,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/milorsevogh_velshard.md","permalink":"/wiki/personagens/milorsevogh-velshard/","dg-note-properties":{"tipo":"personagem","nome_atual":"Milorsevogh Velshard","raca":"Shadar","sexo":"M","relevancia":"Protagonista","status_atual":"Vivo","localizacao_atual":"Retornando a Morvgrad","armas_principais":"Anatho","afiliacao_primaria":"Justiciars","aliases":["Milor","Tenente Velshard","Milorsevogh","Velshard"],"ordem":1,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

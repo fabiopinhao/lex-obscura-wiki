@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/camara-de-othuun/","dg-note-properties":{"tipo":"local","nome":"Câmara de Othuun","tipo_local":"Câmara (subterrânea)","regiao":"Ghol'Mournak (Morvgrad, profundezas)","controlador":"Independente","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"<10","aliases":[],"tags":[],"ordem":27,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/camara_de_othuun.md","permalink":"/wiki/locais/camara-de-othuun/","dg-note-properties":{"tipo":"local","nome":"Câmara de Othuun","tipo_local":"Câmara (subterrânea)","regiao":"Ghol'Mournak (Morvgrad, profundezas)","controlador":"Independente","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"<10","aliases":[],"tags":[],"ordem":27,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

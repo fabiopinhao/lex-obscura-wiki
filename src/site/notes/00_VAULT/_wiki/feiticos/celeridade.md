@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/celeridade/","dg-note-properties":{"tipo":"feitico","nome":"Celeridade","escola":"Chrono","escala":"Média","aliases":[],"tags":[],"ordem":255,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/celeridade.md","permalink":"/wiki/feiticos/celeridade/","dg-note-properties":{"tipo":"feitico","nome":"Celeridade","escola":"Chrono","escala":"Média","aliases":[],"tags":[],"ordem":255,"generated_by":"strip_sistema"}}
 ---
 
 

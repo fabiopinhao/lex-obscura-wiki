@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/conceitos/politica-linguistica/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Política Linguística do Império Sombrio","subtipo":"politica","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":[],"tags":[],"ordem":9,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/politica_linguistica.md","permalink":"/wiki/conceitos/politica-linguistica/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Política Linguística do Império Sombrio","subtipo":"politica","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":[],"tags":[],"ordem":9,"generated_by":"strip_sistema"}}
 ---
 
 

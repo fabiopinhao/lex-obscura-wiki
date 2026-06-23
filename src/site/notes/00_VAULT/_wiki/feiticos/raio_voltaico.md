@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/raio-voltaico/","dg-note-properties":{"tipo":"feitico","nome":"Raio Voltaico","escola":"Electro","escala":"Maior","aliases":[],"tags":[],"ordem":247,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/raio_voltaico.md","permalink":"/wiki/feiticos/raio-voltaico/","dg-note-properties":{"tipo":"feitico","nome":"Raio Voltaico","escola":"Electro","escala":"Maior","aliases":[],"tags":[],"ordem":247,"generated_by":"strip_sistema"}}
 ---
 
 

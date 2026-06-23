@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/santuario/","dg-note-properties":{"tipo":"feitico","nome":"Santuário","escola":"Sacro","escala":"Maior","aliases":[],"tags":[],"ordem":179,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/santuario.md","permalink":"/wiki/feiticos/santuario/","dg-note-properties":{"tipo":"feitico","nome":"Santuário","escola":"Sacro","escala":"Maior","aliases":[],"tags":[],"ordem":179,"generated_by":"strip_sistema"}}
 ---
 
 

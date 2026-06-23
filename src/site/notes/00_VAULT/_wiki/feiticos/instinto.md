@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/instinto/","dg-note-properties":{"tipo":"feitico","nome":"Instinto","escola":"Belli","escala":"Menor","aliases":[],"tags":[],"ordem":203,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/instinto.md","permalink":"/wiki/feiticos/instinto/","dg-note-properties":{"tipo":"feitico","nome":"Instinto","escola":"Belli","escala":"Menor","aliases":[],"tags":[],"ordem":203,"generated_by":"strip_sistema"}}
 ---
 
 

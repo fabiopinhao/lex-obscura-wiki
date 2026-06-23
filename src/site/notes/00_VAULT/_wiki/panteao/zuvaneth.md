@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/zuvaneth/","dg-note-properties":{"tipo":"divindade","nome":"Zuvaneth","forma_divina":"Esfinge Oracular","epiteto":"Enigma Celeste","epiteto_en-US":"The Celestial Enigma","categoria":"Sideral","cores":"UU","cor_dominante":"U","escola_1":"gnosi","escola_2":"urano","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":43,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/zuvaneth.md","permalink":"/wiki/panteao/zuvaneth/","dg-note-properties":{"tipo":"divindade","nome":"Zuvaneth","forma_divina":"Esfinge Oracular","epiteto":"Enigma Celeste","epiteto_en-US":"The Celestial Enigma","categoria":"Sideral","cores":"UU","cor_dominante":"U","escola_1":"gnosi","escola_2":"urano","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":43,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

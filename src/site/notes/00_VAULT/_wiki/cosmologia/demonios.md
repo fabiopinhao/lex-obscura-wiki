@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/demonios/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Demônios","subtipo":"categoria_divina","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Deuses Vermelhos","Deuses do Caos"],"ordem":25,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/demonios.md","permalink":"/wiki/cosmologia/demonios/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Demônios","subtipo":"categoria_divina","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Deuses Vermelhos","Deuses do Caos"],"ordem":25,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

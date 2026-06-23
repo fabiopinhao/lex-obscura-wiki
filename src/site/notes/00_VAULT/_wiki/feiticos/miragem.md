@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/miragem/","dg-note-properties":{"tipo":"feitico","nome":"Miragem","escola":"Spectro","escala":"Maior","aliases":[],"tags":[],"ordem":267,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/miragem.md","permalink":"/wiki/feiticos/miragem/","dg-note-properties":{"tipo":"feitico","nome":"Miragem","escola":"Spectro","escala":"Maior","aliases":[],"tags":[],"ordem":267,"generated_by":"strip_sistema"}}
 ---
 
 

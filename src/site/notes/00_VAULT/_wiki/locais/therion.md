@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/therion/","dg-note-properties":{"tipo":"local","nome":"Therion","tipo_local":"Fortaleza","regiao":"—","controlador":"—","status_atual":"Extinto","distancia_morvgrad_leguas":"—","populacao_aprox":"0 (extinta)","aliases":[],"tags":[],"ordem":46,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/therion.md","permalink":"/wiki/locais/therion/","dg-note-properties":{"tipo":"local","nome":"Therion","tipo_local":"Fortaleza","regiao":"—","controlador":"—","status_atual":"Extinto","distancia_morvgrad_leguas":"—","populacao_aprox":"0 (extinta)","aliases":[],"tags":[],"ordem":46,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

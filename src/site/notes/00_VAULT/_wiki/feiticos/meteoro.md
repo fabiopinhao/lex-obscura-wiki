@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/meteoro/","dg-note-properties":{"tipo":"feitico","nome":"Meteoro","escola":"Cosmo","escala":"**Máxima**","aliases":[],"tags":[],"ordem":230,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/meteoro.md","permalink":"/wiki/feiticos/meteoro/","dg-note-properties":{"tipo":"feitico","nome":"Meteoro","escola":"Cosmo","escala":"**Máxima**","aliases":[],"tags":[],"ordem":230,"generated_by":"strip_sistema"}}
 ---
 
 

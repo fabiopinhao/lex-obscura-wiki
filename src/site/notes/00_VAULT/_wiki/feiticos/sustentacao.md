@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/sustentacao/","dg-note-properties":{"tipo":"feitico","nome":"Sustentação","escola":"Aero","escala":"Menor","aliases":[],"tags":[],"ordem":43,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sustentacao.md","permalink":"/wiki/feiticos/sustentacao/","dg-note-properties":{"tipo":"feitico","nome":"Sustentação","escola":"Aero","escala":"Menor","aliases":[],"tags":[],"ordem":43,"generated_by":"strip_sistema"}}
 ---
 
 

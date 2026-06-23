@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/candencia/","dg-note-properties":{"tipo":"feitico","nome":"Candência","escola":"Helio","escala":"Média","aliases":[],"tags":[],"ordem":76,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/candencia.md","permalink":"/wiki/feiticos/candencia/","dg-note-properties":{"tipo":"feitico","nome":"Candência","escola":"Helio","escala":"Média","aliases":[],"tags":[],"ordem":76,"generated_by":"strip_sistema"}}
 ---
 
 

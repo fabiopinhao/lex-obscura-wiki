@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/veu/","dg-note-properties":{"tipo":"feitico","nome":"Véu","escola":"Abjuro","escala":"Menor","aliases":[],"tags":[],"ordem":293,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/veu.md","permalink":"/wiki/feiticos/veu/","dg-note-properties":{"tipo":"feitico","nome":"Véu","escola":"Abjuro","escala":"Menor","aliases":[],"tags":[],"ordem":293,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/esmagamento/","dg-note-properties":{"tipo":"feitico","nome":"Esmagamento","escola":"Geo","escala":"Maior","aliases":[],"tags":[],"ordem":57,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/esmagamento.md","permalink":"/wiki/feiticos/esmagamento/","dg-note-properties":{"tipo":"feitico","nome":"Esmagamento","escola":"Geo","escala":"Maior","aliases":[],"tags":[],"ordem":57,"generated_by":"strip_sistema"}}
 ---
 
 

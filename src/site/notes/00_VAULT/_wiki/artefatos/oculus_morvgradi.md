@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/oculus-morvgradi/","dg-note-properties":{"tipo":"artefato","nome":"Oculus Morvgradi","tipo_artefato":"Esfera de ônix","categoria":"Comunicação","portador_atual":"Milor (+ Orum, Nidzina)","localizacao_atual":"Cada Justiciar carrega um","status_atual":"Ativo","origem":"Culto Sombrio","vinculacao_entregue_em":"Unção (Kit do Justiciar)","aliases":[],"tags":[],"ordem":2,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/oculus_morvgradi.md","permalink":"/wiki/artefatos/oculus-morvgradi/","dg-note-properties":{"tipo":"artefato","nome":"Oculus Morvgradi","tipo_artefato":"Esfera de ônix","categoria":"Comunicação","portador_atual":"Milor (+ Orum, Nidzina)","localizacao_atual":"Cada Justiciar carrega um","status_atual":"Ativo","origem":"Culto Sombrio","vinculacao_entregue_em":"Unção (Kit do Justiciar)","aliases":[],"tags":[],"ordem":2,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/resguardo/","dg-note-properties":{"tipo":"feitico","nome":"Resguardo","escola":"Aegis","escala":"Menor","aliases":[],"tags":[],"ordem":213,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/resguardo.md","permalink":"/wiki/feiticos/resguardo/","dg-note-properties":{"tipo":"feitico","nome":"Resguardo","escola":"Aegis","escala":"Menor","aliases":[],"tags":[],"ordem":213,"generated_by":"strip_sistema"}}
 ---
 
 

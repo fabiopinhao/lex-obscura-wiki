@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/crisol/","dg-note-properties":{"tipo":"feitico","nome":"Crisol","escola":"Pyro","escala":"Maior","aliases":[],"tags":[],"ordem":9,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/crisol.md","permalink":"/wiki/feiticos/crisol/","dg-note-properties":{"tipo":"feitico","nome":"Crisol","escola":"Pyro","escala":"Maior","aliases":[],"tags":[],"ordem":9,"generated_by":"strip_sistema"}}
 ---
 
 

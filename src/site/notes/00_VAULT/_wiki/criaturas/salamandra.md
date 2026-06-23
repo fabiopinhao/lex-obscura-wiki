@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/criaturas/salamandra/","dg-note-properties":{"tipo":"criatura","nome":"Salamandra","cor_arcana":"—","habitat":"Ambientes quentes e vulcânicos","aliases":["Salamandras"],"tags":[],"ordem":8,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/salamandra.md","permalink":"/wiki/criaturas/salamandra/","dg-note-properties":{"tipo":"criatura","nome":"Salamandra","cor_arcana":"—","habitat":"Ambientes quentes e vulcânicos","aliases":["Salamandras"],"tags":[],"ordem":8,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

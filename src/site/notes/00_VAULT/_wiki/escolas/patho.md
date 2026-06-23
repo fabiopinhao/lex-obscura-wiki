@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/patho/","dg-note-properties":{"tipo":"escola_magia","nome":"Patho","codigo":"BG","dominio":"Decaimento e Putrefação","cor_primaria":"B","cor_secundaria":"G","tipo_escola":"Híbrida","par_antagonico":"Salvo","categoria_oposicao":"Vital","aliases":[],"ordem":7,"sentimento_chave":"Percepção aguda de onde tudo começa a apodrecer; a intuição de que a decomposição já está em curso.","custo_ontologico_resumo":"Consciência da entropia. Tudo parece em decomposição; beleza entristece; melancolia crônica.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/patho.md","permalink":"/wiki/escolas/patho/","dg-note-properties":{"tipo":"escola_magia","nome":"Patho","codigo":"BG","dominio":"Decaimento e Putrefação","cor_primaria":"B","cor_secundaria":"G","tipo_escola":"Híbrida","par_antagonico":"Salvo","categoria_oposicao":"Vital","aliases":[],"ordem":7,"sentimento_chave":"Percepção aguda de onde tudo começa a apodrecer; a intuição de que a decomposição já está em curso.","custo_ontologico_resumo":"Consciência da entropia. Tudo parece em decomposição; beleza entristece; melancolia crônica.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/cosmogonia-tradicoes-orais-sobre-a-origem/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Cosmogonia — Tradições Orais Sobre A Origem","subtipo":"cosmogonia_teologia","aliases":[],"tags":[],"origem_arquivo":"3.4_cosmologia_LORE.md","ordem":8,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/cosmogonia__tradicoes_orais_sobre_a_origem.md","permalink":"/wiki/cosmologia/cosmogonia-tradicoes-orais-sobre-a-origem/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Cosmogonia — Tradições Orais Sobre A Origem","subtipo":"cosmogonia_teologia","aliases":[],"tags":[],"origem_arquivo":"3.4_cosmologia_LORE.md","ordem":8,"generated_by":"strip_sistema"}}
 ---
 
 

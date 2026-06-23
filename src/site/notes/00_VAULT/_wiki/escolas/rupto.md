@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/rupto/","dg-note-properties":{"tipo":"escola_magia","nome":"Rupto","codigo":"RR","dominio":"Destruição e Ruptura","cor_primaria":"R","cor_secundaria":"R","tipo_escola":"Pura","par_antagonico":"Nomos","categoria_oposicao":"Ordem/Caos","aliases":[],"ordem":12,"sentimento_chave":"Inquietação diante do intacto; a sensação de que o que ainda não quebrou simplesmente não foi testado.","custo_ontologico_resumo":"Impulso destrutivo. Construir é tedioso; quebrar é satisfatório.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/rupto.md","permalink":"/wiki/escolas/rupto/","dg-note-properties":{"tipo":"escola_magia","nome":"Rupto","codigo":"RR","dominio":"Destruição e Ruptura","cor_primaria":"R","cor_secundaria":"R","tipo_escola":"Pura","par_antagonico":"Nomos","categoria_oposicao":"Ordem/Caos","aliases":[],"ordem":12,"sentimento_chave":"Inquietação diante do intacto; a sensação de que o que ainda não quebrou simplesmente não foi testado.","custo_ontologico_resumo":"Impulso destrutivo. Construir é tedioso; quebrar é satisfatório.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

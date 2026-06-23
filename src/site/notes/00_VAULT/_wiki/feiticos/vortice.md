@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/vortice/","dg-note-properties":{"tipo":"feitico","nome":"Vórtice","escola":"Aero","escala":"Média","aliases":[],"tags":[],"ordem":45,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/vortice.md","permalink":"/wiki/feiticos/vortice/","dg-note-properties":{"tipo":"feitico","nome":"Vórtice","escola":"Aero","escala":"Média","aliases":[],"tags":[],"ordem":45,"generated_by":"strip_sistema"}}
 ---
 
 

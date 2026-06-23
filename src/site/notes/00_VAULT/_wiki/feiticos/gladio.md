@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/gladio/","dg-note-properties":{"tipo":"feitico","nome":"Gládio","escola":"Plasma","escala":"Média","aliases":[],"tags":[],"ordem":35,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/gladio.md","permalink":"/wiki/feiticos/gladio/","dg-note-properties":{"tipo":"feitico","nome":"Gládio","escola":"Plasma","escala":"Média","aliases":[],"tags":[],"ordem":35,"generated_by":"strip_sistema"}}
 ---
 
 

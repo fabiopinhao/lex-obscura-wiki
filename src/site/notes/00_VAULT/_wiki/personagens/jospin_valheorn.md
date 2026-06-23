@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/jospin-valheorn/","dg-note-properties":{"tipo":"personagem","nome_atual":"Jospin Valheorn","raca":"Shadar","sexo":"M","relevancia":"Terciário","status_atual":"Morto","localizacao_atual":"N/A (histórico)","armas_principais":"—","afiliacao_primaria":"—","aliases":["Jospin","Valheorn"],"ordem":53,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/jospin_valheorn.md","permalink":"/wiki/personagens/jospin-valheorn/","dg-note-properties":{"tipo":"personagem","nome_atual":"Jospin Valheorn","raca":"Shadar","sexo":"M","relevancia":"Terciário","status_atual":"Morto","localizacao_atual":"N/A (histórico)","armas_principais":"—","afiliacao_primaria":"—","aliases":["Jospin","Valheorn"],"ordem":53,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/intangibilidade/","dg-note-properties":{"tipo":"feitico","nome":"Intangibilidade","escola":"Spectro","escala":"Maior","aliases":[],"tags":[],"ordem":268,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/intangibilidade.md","permalink":"/wiki/feiticos/intangibilidade/","dg-note-properties":{"tipo":"feitico","nome":"Intangibilidade","escola":"Spectro","escala":"Maior","aliases":[],"tags":[],"ordem":268,"generated_by":"strip_sistema"}}
 ---
 
 

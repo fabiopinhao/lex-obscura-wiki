@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"dg-path":"_wiki/eventos/instituicao_do_verbum_arkhon.md","permalink":"/wiki/eventos/instituicao-do-verbum-arkhon/","dg-note-properties":{"tipo":"evento","nome":"Instituição do Verbum Arkhon","id":"E-0034","era":"Guerras_Reinkardicas","ano_relativo":-50,"tipo_evento":"politico","impacto":"alto","marco_yaml":"—","aliases":["Constituição do Império Sombrio","Verbum Arkhon"],"tags":[],"ordem":34,"generated_by":"strip_sistema"}}
+---
+
+
+Pouco depois do pacto com Kaelgrym (E-0033), o monarca instituiu o Verbum Arkhon, que passou a funcionar como a constituição do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Com o máximo respeito à tradição e a [[00_VAULT/_wiki/personagens/xarn\|Xarn]], a [[00_VAULT/_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]] foi recebida sem alteração, integral, para continuar compondo a estrutura jurídica da monarquia ao lado dos novos decretos soberanos.
+
+O pretexto oficial declarava que as vontades individuais dos [[00_VAULT/_wiki/cosmologia/diabos\|diabos]] não poderiam ser maiores do que a soma do poder coletivo do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|império]]. Na prática, o Verbum Arkhon unificou o martelo no punho da monarquia. Os [[00_VAULT/_wiki/organizacoes/templarios\|templários]] deixaram de existir como forças militares separadas; o termo sobreviveu apenas para [[00_VAULT/_wiki/organizacoes/ophideias\|ophideias]], feiticeiros e necromantes dos templos. O poder de decisão desconcentrado que cada sacerdócio exercia sobre suas tropas, seus tributos e seus territórios foi extinto.
+
+Abriu-se espaço para raças híbridas e raças do subterrâneo circularem em determinados espaços livres da capital, na superfície, como já circulavam em [[00_VAULT/_wiki/locais/ghilanna\|Ghilanna]] há milênios, exceto no distrito sagrado de [[00_VAULT/_wiki/locais/xarn_zareth\|Xarn'Zareth]]. Essa liberação foi amplamente questionada pela elite [[00_VAULT/_wiki/racas/shadar\|shadar]], especialmente a ala templária, mas o povo se adaptou, e as outras raças tornaram-se parte fundamental da vida da cidade.

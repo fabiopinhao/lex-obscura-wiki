@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/livro-vermelho-dos-dragoes/","dg-note-properties":{"tipo":"artefato","nome":"Livro Vermelho dos Dragões","tipo_artefato":"Grimório dracônico","categoria":"Conhecimento","portador_atual":"Arothistar","localizacao_atual":"Biblioteca de Mor'Severith","status_atual":"Ativo","origem":"Draconídeo (escamas de dragão)","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":10,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/livro_vermelho_dos_dragoes.md","permalink":"/wiki/artefatos/livro-vermelho-dos-dragoes/","dg-note-properties":{"tipo":"artefato","nome":"Livro Vermelho dos Dragões","tipo_artefato":"Grimório dracônico","categoria":"Conhecimento","portador_atual":"Arothistar","localizacao_atual":"Biblioteca de Mor'Severith","status_atual":"Ativo","origem":"Draconídeo (escamas de dragão)","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":10,"generated_by":"strip_sistema"}}
 ---
 
 

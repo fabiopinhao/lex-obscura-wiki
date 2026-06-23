@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/quebradico/","dg-note-properties":{"tipo":"feitico","nome":"Quebradiço","escola":"Cryo","escala":"Maior","aliases":[],"tags":[],"ordem":28,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/quebradico.md","permalink":"/wiki/feiticos/quebradico/","dg-note-properties":{"tipo":"feitico","nome":"Quebradiço","escola":"Cryo","escala":"Maior","aliases":[],"tags":[],"ordem":28,"generated_by":"strip_sistema"}}
 ---
 
 

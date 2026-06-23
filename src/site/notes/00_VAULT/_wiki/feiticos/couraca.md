@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/couraca/","dg-note-properties":{"tipo":"feitico","nome":"Couraça","escola":"Aegis","escala":"Maior","aliases":[],"tags":[],"ordem":217,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/couraca.md","permalink":"/wiki/feiticos/couraca/","dg-note-properties":{"tipo":"feitico","nome":"Couraça","escola":"Aegis","escala":"Maior","aliases":[],"tags":[],"ordem":217,"generated_by":"strip_sistema"}}
 ---
 
 

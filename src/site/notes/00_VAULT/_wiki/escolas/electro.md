@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/electro/","dg-note-properties":{"tipo":"escola_magia","nome":"Electro","codigo":"BW","dominio":"Eletricidade e Magnetismo","cor_primaria":"B","cor_secundaria":"W","tipo_escola":"Híbrida","par_antagonico":"Chrono","categoria_oposicao":"Espacial/Temporal","aliases":[],"ordem":9,"sentimento_chave":"Inquietação que precisa de descarga; a sensação de estar carregado demais para ficar parado.","custo_ontologico_resumo":"Inquietação crônica. Incapacidade de ficar parado; sono fragmentado; calmaria agita.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/electro.md","permalink":"/wiki/escolas/electro/","dg-note-properties":{"tipo":"escola_magia","nome":"Electro","codigo":"BW","dominio":"Eletricidade e Magnetismo","cor_primaria":"B","cor_secundaria":"W","tipo_escola":"Híbrida","par_antagonico":"Chrono","categoria_oposicao":"Espacial/Temporal","aliases":[],"ordem":9,"sentimento_chave":"Inquietação que precisa de descarga; a sensação de estar carregado demais para ficar parado.","custo_ontologico_resumo":"Inquietação crônica. Incapacidade de ficar parado; sono fragmentado; calmaria agita.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/glossario-de-termos-magicos/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Glossário de Termos Mágicos","aliases":[],"ordem":2,"subtipo":"glossario","origem_arquivo":"3.7_sistemas_magicos_LORE.md","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/glossario_de_termos_magicos.md","permalink":"/wiki/magia/glossario-de-termos-magicos/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Glossário de Termos Mágicos","aliases":[],"ordem":2,"subtipo":"glossario","origem_arquivo":"3.7_sistemas_magicos_LORE.md","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

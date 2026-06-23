@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/xarn-zareth/","dg-note-properties":{"tipo":"local","nome":"Xarn'Zareth","tipo_local":"Distrito (sagrado)","regiao":"Ghilanna (Vor-Ghol)","controlador":"Casa Duskryn","status_atual":"Ativo","distancia_morvgrad_leguas":"Via Vor-Ghol","populacao_aprox":"~3.000","aliases":[],"tags":[],"ordem":14.1,"heading_level":3,"parent":"vor-ghol","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/xarn_zareth.md","permalink":"/wiki/locais/xarn-zareth/","dg-note-properties":{"tipo":"local","nome":"Xarn'Zareth","tipo_local":"Distrito (sagrado)","regiao":"Ghilanna (Vor-Ghol)","controlador":"Casa Duskryn","status_atual":"Ativo","distancia_morvgrad_leguas":"Via Vor-Ghol","populacao_aprox":"~3.000","aliases":[],"tags":[],"ordem":14.1,"heading_level":3,"parent":"vor-ghol","generated_by":"strip_sistema"}}
 ---
 
 

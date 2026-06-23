@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/criaturas/sombralva/","dg-note-properties":{"tipo":"criatura","nome":"Sombralva","cor_arcana":"—","habitat":"Profundezas subterrâneas (Vor-Ghol)","aliases":["Sombralvas","Pantera Sombria","Panteras Sombrias"],"ordem":6,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/sombralva.md","permalink":"/wiki/criaturas/sombralva/","dg-note-properties":{"tipo":"criatura","nome":"Sombralva","cor_arcana":"—","habitat":"Profundezas subterrâneas (Vor-Ghol)","aliases":["Sombralvas","Pantera Sombria","Panteras Sombrias"],"ordem":6,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/inducao/","dg-note-properties":{"tipo":"feitico","nome":"Indução","escola":"Electro","escala":"Média","aliases":[],"tags":[],"ordem":245,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/inducao.md","permalink":"/wiki/feiticos/inducao/","dg-note-properties":{"tipo":"feitico","nome":"Indução","escola":"Electro","escala":"Média","aliases":[],"tags":[],"ordem":245,"generated_by":"strip_sistema"}}
 ---
 
 

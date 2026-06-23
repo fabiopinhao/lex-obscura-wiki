@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/dessecacao/","dg-note-properties":{"tipo":"feitico","nome":"Dessecação","escola":"Hydro","escala":"Maior","aliases":[],"tags":[],"ordem":17,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/dessecacao.md","permalink":"/wiki/feiticos/dessecacao/","dg-note-properties":{"tipo":"feitico","nome":"Dessecação","escola":"Hydro","escala":"Maior","aliases":[],"tags":[],"ordem":17,"generated_by":"strip_sistema"}}
 ---
 
 

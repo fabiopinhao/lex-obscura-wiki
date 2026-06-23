@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/ghilanna/","dg-note-properties":{"tipo":"local","nome":"Ghilanna","tipo_local":"Cidadela (subterrânea)","regiao":"Vor-Ghol","controlador":"Casa Duskryn (Matriarcal)","status_atual":"Ativo","distancia_morvgrad_leguas":"Via Vor-Ghol","populacao_aprox":"~50.000","aliases":[],"tags":[],"ordem":5,"heading_level":3,"parent":"vor-ghol","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/ghilanna.md","permalink":"/wiki/locais/ghilanna/","dg-note-properties":{"tipo":"local","nome":"Ghilanna","tipo_local":"Cidadela (subterrânea)","regiao":"Vor-Ghol","controlador":"Casa Duskryn (Matriarcal)","status_atual":"Ativo","distancia_morvgrad_leguas":"Via Vor-Ghol","populacao_aprox":"~50.000","aliases":[],"tags":[],"ordem":5,"heading_level":3,"parent":"vor-ghol","generated_by":"strip_sistema"}}
 ---
 
 

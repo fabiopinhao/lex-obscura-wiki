@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/inquietacao/","dg-note-properties":{"tipo":"feitico","nome":"Inquietação","escola":"Phobos","escala":"Menor","aliases":[],"tags":[],"ordem":141,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/inquietacao.md","permalink":"/wiki/feiticos/inquietacao/","dg-note-properties":{"tipo":"feitico","nome":"Inquietação","escola":"Phobos","escala":"Menor","aliases":[],"tags":[],"ordem":141,"generated_by":"strip_sistema"}}
 ---
 
 

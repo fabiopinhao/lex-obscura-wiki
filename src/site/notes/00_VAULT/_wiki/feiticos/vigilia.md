@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/vigilia/","dg-note-properties":{"tipo":"feitico","nome":"Vigília","escola":"Gnosi","escala":"Menor","aliases":[],"tags":[],"ordem":151,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/vigilia.md","permalink":"/wiki/feiticos/vigilia/","dg-note-properties":{"tipo":"feitico","nome":"Vigília","escola":"Gnosi","escala":"Menor","aliases":[],"tags":[],"ordem":151,"generated_by":"strip_sistema"}}
 ---
 
 

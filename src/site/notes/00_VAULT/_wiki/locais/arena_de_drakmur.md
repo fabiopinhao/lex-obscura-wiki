@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/arena-de-drakmur/","dg-note-properties":{"tipo":"local","nome":"Arena de Drakmur","tipo_local":"Arena (combate)","regiao":"Fronteira do Planalto","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Próximo a Morvgrad","populacao_aprox":"Variável","aliases":[],"tags":[],"ordem":21,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/arena_de_drakmur.md","permalink":"/wiki/locais/arena-de-drakmur/","dg-note-properties":{"tipo":"local","nome":"Arena de Drakmur","tipo_local":"Arena (combate)","regiao":"Fronteira do Planalto","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Próximo a Morvgrad","populacao_aprox":"Variável","aliases":[],"tags":[],"ordem":21,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

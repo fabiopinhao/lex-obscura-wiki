@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/plano-etereo/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Plano Etéreo","subtipo":"cosmologia","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Éter","Entre-Espaço"],"ordem":3,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/plano_etereo.md","permalink":"/wiki/cosmologia/plano-etereo/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Plano Etéreo","subtipo":"cosmologia","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Éter","Entre-Espaço"],"ordem":3,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

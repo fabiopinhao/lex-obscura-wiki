@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/criaturas/servo-hediondo/","dg-note-properties":{"tipo":"criatura","nome":"Servo Hediondo","cor_arcana":"—","habitat":"—","aliases":["Servos Hediondos"],"ordem":11,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/servo_hediondo.md","permalink":"/wiki/criaturas/servo-hediondo/","dg-note-properties":{"tipo":"criatura","nome":"Servo Hediondo","cor_arcana":"—","habitat":"—","aliases":["Servos Hediondos"],"ordem":11,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

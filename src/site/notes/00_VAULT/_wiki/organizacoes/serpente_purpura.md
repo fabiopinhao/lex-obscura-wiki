@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/serpente-purpura/","dg-note-properties":{"tipo":"organizacao","nome":"Serpente Púrpura","tipo_organizacao":"Crime organizado","cor_afiliacao":"Preto","lider_atual":"Desconhecido","sede":"Morvgrad/Vor-Ghol","status_atual":"Ativo","membros_aprox":"Desconhecido","funcao_principal":"Tráfico de artefatos e contrabando.","aliases":[],"tags":[],"ordem":7,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/serpente_purpura.md","permalink":"/wiki/organizacoes/serpente-purpura/","dg-note-properties":{"tipo":"organizacao","nome":"Serpente Púrpura","tipo_organizacao":"Crime organizado","cor_afiliacao":"Preto","lider_atual":"Desconhecido","sede":"Morvgrad/Vor-Ghol","status_atual":"Ativo","membros_aprox":"Desconhecido","funcao_principal":"Tráfico de artefatos e contrabando.","aliases":[],"tags":[],"ordem":7,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

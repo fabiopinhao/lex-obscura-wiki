@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/negrume/","dg-note-properties":{"tipo":"feitico","nome":"Negrume","escola":"Umbra","escala":"Maior","aliases":[],"tags":[],"ordem":67,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/negrume.md","permalink":"/wiki/feiticos/negrume/","dg-note-properties":{"tipo":"feitico","nome":"Negrume","escola":"Umbra","escala":"Maior","aliases":[],"tags":[],"ordem":67,"generated_by":"strip_sistema"}}
 ---
 
 

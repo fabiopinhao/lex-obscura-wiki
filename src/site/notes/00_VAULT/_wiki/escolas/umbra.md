@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/umbra/","dg-note-properties":{"tipo":"escola_magia","nome":"Umbra","codigo":"BB","dominio":"Trevas e Obscuridade","cor_primaria":"B","cor_secundaria":"B","tipo_escola":"Pura","par_antagonico":"Helio","categoria_oposicao":"Elemental","aliases":[],"ordem":1,"sentimento_chave":"Desejo de ocultar-se; a convicção de que o escuro protege.","custo_ontologico_resumo":"Fotofobia psicológica. Preferência crescente por escuridão; luz parece agressiva.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/umbra.md","permalink":"/wiki/escolas/umbra/","dg-note-properties":{"tipo":"escola_magia","nome":"Umbra","codigo":"BB","dominio":"Trevas e Obscuridade","cor_primaria":"B","cor_secundaria":"B","tipo_escola":"Pura","par_antagonico":"Helio","categoria_oposicao":"Elemental","aliases":[],"ordem":1,"sentimento_chave":"Desejo de ocultar-se; a convicção de que o escuro protege.","custo_ontologico_resumo":"Fotofobia psicológica. Preferência crescente por escuridão; luz parece agressiva.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

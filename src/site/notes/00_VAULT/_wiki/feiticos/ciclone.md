@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/ciclone/","dg-note-properties":{"tipo":"feitico","nome":"Ciclone","escola":"Aero","escala":"Maior","aliases":[],"tags":[],"ordem":48,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/ciclone.md","permalink":"/wiki/feiticos/ciclone/","dg-note-properties":{"tipo":"feitico","nome":"Ciclone","escola":"Aero","escala":"Maior","aliases":[],"tags":[],"ordem":48,"generated_by":"strip_sistema"}}
 ---
 
 

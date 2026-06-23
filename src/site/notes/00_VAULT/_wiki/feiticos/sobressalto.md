@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/sobressalto/","dg-note-properties":{"tipo":"feitico","nome":"Sobressalto","escola":"Phobos","escala":"Menor","aliases":[],"tags":[],"ordem":143,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sobressalto.md","permalink":"/wiki/feiticos/sobressalto/","dg-note-properties":{"tipo":"feitico","nome":"Sobressalto","escola":"Phobos","escala":"Menor","aliases":[],"tags":[],"ordem":143,"generated_by":"strip_sistema"}}
 ---
 
 

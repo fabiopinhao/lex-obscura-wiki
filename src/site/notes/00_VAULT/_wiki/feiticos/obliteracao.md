@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/obliteracao/","dg-note-properties":{"tipo":"feitico","nome":"Obliteração","escola":"Rupto","escala":"Maior","aliases":[],"tags":[],"ordem":189,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/obliteracao.md","permalink":"/wiki/feiticos/obliteracao/","dg-note-properties":{"tipo":"feitico","nome":"Obliteração","escola":"Rupto","escala":"Maior","aliases":[],"tags":[],"ordem":189,"generated_by":"strip_sistema"}}
 ---
 
 

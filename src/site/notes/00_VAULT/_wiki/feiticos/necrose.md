@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/necrose/","dg-note-properties":{"tipo":"feitico","nome":"Necrose","escola":"Patho","escala":"Maior","aliases":[],"tags":[],"ordem":107,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/necrose.md","permalink":"/wiki/feiticos/necrose/","dg-note-properties":{"tipo":"feitico","nome":"Necrose","escola":"Patho","escala":"Maior","aliases":[],"tags":[],"ordem":107,"generated_by":"strip_sistema"}}
 ---
 
 

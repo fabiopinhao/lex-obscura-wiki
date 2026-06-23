@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/perdicao/","dg-note-properties":{"tipo":"feitico","nome":"Perdição","escola":"Phobos","escala":"**Máxima**","aliases":[],"tags":[],"ordem":150,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/perdicao.md","permalink":"/wiki/feiticos/perdicao/","dg-note-properties":{"tipo":"feitico","nome":"Perdição","escola":"Phobos","escala":"**Máxima**","aliases":[],"tags":[],"ordem":150,"generated_by":"strip_sistema"}}
 ---
 
 

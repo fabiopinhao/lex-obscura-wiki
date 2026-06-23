@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/fissura/","dg-note-properties":{"tipo":"feitico","nome":"Fissura","escola":"Rupto","escala":"Menor","aliases":[],"tags":[],"ordem":181,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/fissura.md","permalink":"/wiki/feiticos/fissura/","dg-note-properties":{"tipo":"feitico","nome":"Fissura","escola":"Rupto","escala":"Menor","aliases":[],"tags":[],"ordem":181,"generated_by":"strip_sistema"}}
 ---
 
 

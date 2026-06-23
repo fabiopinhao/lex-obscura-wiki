@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/korbarakh/","dg-note-properties":{"tipo":"divindade","nome":"Korbarakh","forma_divina":"Salamandra Votiva","epiteto":"Crisol Intocado","epiteto_en-US":"Untouched Crucible","categoria":"Demônio","cores":"Rw","cor_dominante":"R","escola_1":"plasma","escola_2":"pyro","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":17,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/korbarakh.md","permalink":"/wiki/panteao/korbarakh/","dg-note-properties":{"tipo":"divindade","nome":"Korbarakh","forma_divina":"Salamandra Votiva","epiteto":"Crisol Intocado","epiteto_en-US":"Untouched Crucible","categoria":"Demônio","cores":"Rw","cor_dominante":"R","escola_1":"plasma","escola_2":"pyro","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":17,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

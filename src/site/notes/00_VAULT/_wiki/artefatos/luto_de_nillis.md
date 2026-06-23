@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/luto-de-nillis/","dg-note-properties":{"tipo":"artefato","nome":"Luto de Nillis","tipo_artefato":"Substância alquímica","categoria":"Alquímico","portador_atual":"—","localizacao_atual":"Consumível","status_atual":"Consumido","origem":"Destilada da flor Nillis","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":17,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/luto_de_nillis.md","permalink":"/wiki/artefatos/luto-de-nillis/","dg-note-properties":{"tipo":"artefato","nome":"Luto de Nillis","tipo_artefato":"Substância alquímica","categoria":"Alquímico","portador_atual":"—","localizacao_atual":"Consumível","status_atual":"Consumido","origem":"Destilada da flor Nillis","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":17,"generated_by":"strip_sistema"}}
 ---
 
 

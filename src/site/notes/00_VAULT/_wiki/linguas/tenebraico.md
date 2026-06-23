@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/linguas/tenebraico/","dg-note-properties":{"tipo":"lingua","nome":"Tenebraico","tipo_lingua":"Ritual","era":"Primeira Era","cor_racial":"Preto","raca_principal":"Shadars","funcao":"Pactos diabólicos, maldições","fluencia_comum":"Frases rituais (maioria); necromantes estudam","relacao_magica":"Pactum Diaboli","registro_magico":"Sim (exclusivamente ritual)","descendente_de":"—","aliases":[],"tags":[],"ordem":7,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/tenebraico.md","permalink":"/wiki/linguas/tenebraico/","dg-note-properties":{"tipo":"lingua","nome":"Tenebraico","tipo_lingua":"Ritual","era":"Primeira Era","cor_racial":"Preto","raca_principal":"Shadars","funcao":"Pactos diabólicos, maldições","fluencia_comum":"Frases rituais (maioria); necromantes estudam","relacao_magica":"Pactum Diaboli","registro_magico":"Sim (exclusivamente ritual)","descendente_de":"—","aliases":[],"tags":[],"ordem":7,"generated_by":"strip_sistema"}}
 ---
 
 

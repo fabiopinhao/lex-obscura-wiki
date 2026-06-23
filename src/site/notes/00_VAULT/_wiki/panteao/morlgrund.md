@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/morlgrund/","dg-note-properties":{"tipo":"divindade","nome":"Morlgrund","forma_divina":"Golem de Pedra","epiteto":"Osso do Mundo","epiteto_en-US":"Bone of the World","categoria":"Titã","cores":"GG","cor_dominante":"G","escola_1":"geo","escola_2":"morpho","status":"Ativo","relevancia":"Central","aliases":[],"ordem":24,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/morlgrund.md","permalink":"/wiki/panteao/morlgrund/","dg-note-properties":{"tipo":"divindade","nome":"Morlgrund","forma_divina":"Golem de Pedra","epiteto":"Osso do Mundo","epiteto_en-US":"Bone of the World","categoria":"Titã","cores":"GG","cor_dominante":"G","escola_1":"geo","escola_2":"morpho","status":"Ativo","relevancia":"Central","aliases":[],"ordem":24,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/perscrutar/","dg-note-properties":{"tipo":"feitico","nome":"Perscrutar","escola":"Gnosi","escala":"Maior","aliases":[],"tags":[],"ordem":159,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/perscrutar.md","permalink":"/wiki/feiticos/perscrutar/","dg-note-properties":{"tipo":"feitico","nome":"Perscrutar","escola":"Gnosi","escala":"Maior","aliases":[],"tags":[],"ordem":159,"generated_by":"strip_sistema"}}
 ---
 
 

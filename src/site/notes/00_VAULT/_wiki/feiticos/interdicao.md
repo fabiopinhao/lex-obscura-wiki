@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/interdicao/","dg-note-properties":{"tipo":"feitico","nome":"Interdição","escola":"Abjuro","escala":"Média","aliases":[],"tags":[],"ordem":295,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/interdicao.md","permalink":"/wiki/feiticos/interdicao/","dg-note-properties":{"tipo":"feitico","nome":"Interdição","escola":"Abjuro","escala":"Média","aliases":[],"tags":[],"ordem":295,"generated_by":"strip_sistema"}}
 ---
 
 

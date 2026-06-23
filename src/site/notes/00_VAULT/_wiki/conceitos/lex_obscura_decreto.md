@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/conceitos/lex-obscura-decreto/","dg-note-properties":{"tipo":"conceito","lore_target":"3.2","nome":"Lex Obscura","subtipo":"decreto_imperial","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":["Lei das Sombras","Lei Obscura"],"ordem":2,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/lex_obscura_decreto.md","permalink":"/wiki/conceitos/lex-obscura-decreto/","dg-note-properties":{"tipo":"conceito","lore_target":"3.2","nome":"Lex Obscura","subtipo":"decreto_imperial","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":["Lei das Sombras","Lei Obscura"],"ordem":2,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

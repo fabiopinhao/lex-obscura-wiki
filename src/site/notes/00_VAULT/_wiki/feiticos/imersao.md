@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/imersao/","dg-note-properties":{"tipo":"feitico","nome":"Imersão","escola":"Geo","escala":"Maior","aliases":[],"tags":[],"ordem":58,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/imersao.md","permalink":"/wiki/feiticos/imersao/","dg-note-properties":{"tipo":"feitico","nome":"Imersão","escola":"Geo","escala":"Maior","aliases":[],"tags":[],"ordem":58,"generated_by":"strip_sistema"}}
 ---
 
 

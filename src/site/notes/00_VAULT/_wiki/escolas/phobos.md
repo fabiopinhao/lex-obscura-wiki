@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/phobos/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/phobos.md","permalink":"/wiki/escolas/phobos/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Phobos

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/criaturas/dridar/","dg-note-properties":{"tipo":"criatura","nome":"Dridar","cor_arcana":"—","habitat":"Subterrâneo (Vor-Ghol)","aliases":["Dridars"],"ordem":1,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/dridar.md","permalink":"/wiki/criaturas/dridar/","dg-note-properties":{"tipo":"criatura","nome":"Dridar","cor_arcana":"—","habitat":"Subterrâneo (Vor-Ghol)","aliases":["Dridars"],"ordem":1,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

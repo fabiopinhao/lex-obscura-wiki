@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/conselho-sombrio/","dg-note-properties":{"tipo":"organizacao","nome":"Conselho Sombrio","tipo_organizacao":"Órgão legislativo","cor_afiliacao":"Preto","lider_atual":"Coletivo","sede":"Morvgrad (Salão do Conselho)","status_atual":"Ativo","membros_aprox":"Variável","funcao_principal":"Legislativo e administrativo do império.","aliases":[],"tags":[],"ordem":2,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/conselho_sombrio.md","permalink":"/wiki/organizacoes/conselho-sombrio/","dg-note-properties":{"tipo":"organizacao","nome":"Conselho Sombrio","tipo_organizacao":"Órgão legislativo","cor_afiliacao":"Preto","lider_atual":"Coletivo","sede":"Morvgrad (Salão do Conselho)","status_atual":"Ativo","membros_aprox":"Variável","funcao_principal":"Legislativo e administrativo do império.","aliases":[],"tags":[],"ordem":2,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

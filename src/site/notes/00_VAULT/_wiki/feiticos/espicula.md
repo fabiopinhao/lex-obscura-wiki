@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/espicula/","dg-note-properties":{"tipo":"feitico","nome":"Espícula","escola":"Cryo","escala":"Média","aliases":[],"tags":[],"ordem":24,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/espicula.md","permalink":"/wiki/feiticos/espicula/","dg-note-properties":{"tipo":"feitico","nome":"Espícula","escola":"Cryo","escala":"Média","aliases":[],"tags":[],"ordem":24,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/conceitos/verbum-arkhon-codex/","dg-note-properties":{"tipo":"conceito","lore_target":"3.2","nome":"Verbum Arkhon","subtipo":"decreto_imperial","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":["Palavra do Soberano","Palavras do Soberano"],"ordem":1,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/verbum_arkhon_codex.md","permalink":"/wiki/conceitos/verbum-arkhon-codex/","dg-note-properties":{"tipo":"conceito","lore_target":"3.2","nome":"Verbum Arkhon","subtipo":"decreto_imperial","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":["Palavra do Soberano","Palavras do Soberano"],"ordem":1,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

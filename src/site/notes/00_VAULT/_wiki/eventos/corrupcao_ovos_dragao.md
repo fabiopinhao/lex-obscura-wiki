@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/corrupcao-ovos-dragao/","dg-note-properties":{"tipo":"evento","nome":"Corrupção dos Ovos de Dragão (Origem dos Kobolds)","id":"E-0011","era":"Primeira_Era","ano_relativo":"—","tipo_evento":"magico","impacto":"medio","marco_yaml":"—","aliases":[],"tags":[],"ordem":11,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/corrupcao_ovos_dragao.md","permalink":"/wiki/eventos/corrupcao-ovos-dragao/","dg-note-properties":{"tipo":"evento","nome":"Corrupção dos Ovos de Dragão (Origem dos Kobolds)","id":"E-0011","era":"Primeira_Era","ano_relativo":"—","tipo_evento":"magico","impacto":"medio","marco_yaml":"—","aliases":[],"tags":[],"ordem":11,"generated_by":"strip_sistema"}}
 ---
 
 

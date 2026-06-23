@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/submissao-da-ventrista/","dg-note-properties":{"tipo":"evento","nome":"Submissão da Ventrista","id":"E-0022","era":"Guerras_Reinkardicas","ano_relativo":"—","tipo_evento":"conquista","impacto":"alto","marco_yaml":"—","aliases":["Queda da Ventrista","Extorsão da Ventrista"],"tags":[],"ordem":22,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/submissao_da_ventrista.md","permalink":"/wiki/eventos/submissao-da-ventrista/","dg-note-properties":{"tipo":"evento","nome":"Submissão da Ventrista","id":"E-0022","era":"Guerras_Reinkardicas","ano_relativo":"—","tipo_evento":"conquista","impacto":"alto","marco_yaml":"—","aliases":["Queda da Ventrista","Extorsão da Ventrista"],"tags":[],"ordem":22,"generated_by":"strip_sistema"}}
 ---
 
 

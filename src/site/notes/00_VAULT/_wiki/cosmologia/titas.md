@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/titas/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Titãs","subtipo":"categoria_divina","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Deuses Verdes","Guardiões Naturais"],"ordem":22,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/titas.md","permalink":"/wiki/cosmologia/titas/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Titãs","subtipo":"categoria_divina","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Deuses Verdes","Guardiões Naturais"],"ordem":22,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

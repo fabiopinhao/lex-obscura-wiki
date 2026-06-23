@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/ghur/","dg-note-properties":{"tipo":"personagem","nome_atual":"Ghur","raca":"Orc","sexo":"M","relevancia":"Terciário","status_atual":"Morto","localizacao_atual":"Morto (Lendalas)","armas_principais":"—","afiliacao_primaria":"Guarda imperial","aliases":[],"ordem":60.3,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/ghur.md","permalink":"/wiki/personagens/ghur/","dg-note-properties":{"tipo":"personagem","nome_atual":"Ghur","raca":"Orc","sexo":"M","relevancia":"Terciário","status_atual":"Morto","localizacao_atual":"Morto (Lendalas)","armas_principais":"—","afiliacao_primaria":"Guarda imperial","aliases":[],"ordem":60.3,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

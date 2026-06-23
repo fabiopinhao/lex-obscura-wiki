@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/algemas-de-supressao-arcana/","dg-note-properties":{"tipo":"artefato","nome":"Algemas de Supressão Arcana","tipo_artefato":"Pulseiras","categoria":"Contenção","portador_atual":"Orum-Rahru","localizacao_atual":"Inventário de Orum","status_atual":"Ativo","origem":"Culto Sombrio","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":16,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/algemas_de_supressao_arcana.md","permalink":"/wiki/artefatos/algemas-de-supressao-arcana/","dg-note-properties":{"tipo":"artefato","nome":"Algemas de Supressão Arcana","tipo_artefato":"Pulseiras","categoria":"Contenção","portador_atual":"Orum-Rahru","localizacao_atual":"Inventário de Orum","status_atual":"Ativo","origem":"Culto Sombrio","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":16,"generated_by":"strip_sistema"}}
 ---
 
 

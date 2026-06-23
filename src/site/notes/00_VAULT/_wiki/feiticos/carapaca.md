@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/carapaca/","dg-note-properties":{"tipo":"feitico","nome":"Carapaça","escola":"Cryo","escala":"Média","aliases":[],"tags":[],"ordem":26,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/carapaca.md","permalink":"/wiki/feiticos/carapaca/","dg-note-properties":{"tipo":"feitico","nome":"Carapaça","escola":"Cryo","escala":"Média","aliases":[],"tags":[],"ordem":26,"generated_by":"strip_sistema"}}
 ---
 
 

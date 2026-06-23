@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/veio-morto/","dg-note-properties":{"tipo":"local","nome":"Veio Morto","tipo_local":"Passagem (subterrânea)","regiao":"Vor-Ghol","controlador":"Nenhum (selvagem)","status_atual":"Ativo (perigoso)","distancia_morvgrad_leguas":"Via Vor-Ghol","populacao_aprox":0,"aliases":[],"tags":[],"ordem":64,"heading_level":3,"parent":"vor-ghol","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/veio_morto.md","permalink":"/wiki/locais/veio-morto/","dg-note-properties":{"tipo":"local","nome":"Veio Morto","tipo_local":"Passagem (subterrânea)","regiao":"Vor-Ghol","controlador":"Nenhum (selvagem)","status_atual":"Ativo (perigoso)","distancia_morvgrad_leguas":"Via Vor-Ghol","populacao_aprox":0,"aliases":[],"tags":[],"ordem":64,"heading_level":3,"parent":"vor-ghol","generated_by":"strip_sistema"}}
 ---
 
 

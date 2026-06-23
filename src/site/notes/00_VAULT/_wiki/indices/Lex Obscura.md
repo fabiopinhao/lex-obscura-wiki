@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/indices/lex-obscura/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/indices/Lex Obscura.md","permalink":"/wiki/indices/lex-obscura/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Lex Obscura

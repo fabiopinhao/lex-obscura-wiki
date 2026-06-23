@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/imantacao/","dg-note-properties":{"tipo":"feitico","nome":"Imantação","escola":"Electro","escala":"Média","aliases":[],"tags":[],"ordem":246,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/imantacao.md","permalink":"/wiki/feiticos/imantacao/","dg-note-properties":{"tipo":"feitico","nome":"Imantação","escola":"Electro","escala":"Média","aliases":[],"tags":[],"ordem":246,"generated_by":"strip_sistema"}}
 ---
 
 

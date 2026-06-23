@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/furia/","dg-note-properties":{"tipo":"feitico","nome":"Fúria","escola":"Belli","escala":"Menor","aliases":[],"tags":[],"ordem":202,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/furia.md","permalink":"/wiki/feiticos/furia/","dg-note-properties":{"tipo":"feitico","nome":"Fúria","escola":"Belli","escala":"Menor","aliases":[],"tags":[],"ordem":202,"generated_by":"strip_sistema"}}
 ---
 
 

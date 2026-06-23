@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/aethravos/","dg-note-properties":{"tipo":"divindade","nome":"Aethravos","forma_divina":"Wyvern Nacarada","epiteto":"Alento Vítreo","epiteto_en-US":"The Vitreous Breath","categoria":"Sideral","cores":"Uw","cor_dominante":"U","escola_1":"urano","escola_2":"cryo","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":47,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/aethravos.md","permalink":"/wiki/panteao/aethravos/","dg-note-properties":{"tipo":"divindade","nome":"Aethravos","forma_divina":"Wyvern Nacarada","epiteto":"Alento Vítreo","epiteto_en-US":"The Vitreous Breath","categoria":"Sideral","cores":"Uw","cor_dominante":"U","escola_1":"urano","escola_2":"cryo","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":47,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/murmurio/","dg-note-properties":{"tipo":"feitico","nome":"Murmúrio","escola":"Spectro","escala":"Menor","aliases":[],"tags":[],"ordem":263,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/murmurio.md","permalink":"/wiki/feiticos/murmurio/","dg-note-properties":{"tipo":"feitico","nome":"Murmúrio","escola":"Spectro","escala":"Menor","aliases":[],"tags":[],"ordem":263,"generated_by":"strip_sistema"}}
 ---
 
 

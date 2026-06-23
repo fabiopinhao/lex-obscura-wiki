@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/acalanto/","dg-note-properties":{"tipo":"feitico","nome":"Acalanto","escola":"Hypno","escala":"Menor","aliases":[],"tags":[],"ordem":122,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/acalanto.md","permalink":"/wiki/feiticos/acalanto/","dg-note-properties":{"tipo":"feitico","nome":"Acalanto","escola":"Hypno","escala":"Menor","aliases":[],"tags":[],"ordem":122,"generated_by":"strip_sistema"}}
 ---
 
 

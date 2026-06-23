@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/chrono/","dg-note-properties":{"tipo":"escola_magia","nome":"Chrono","codigo":"UR","dominio":"Tempo e Fluxo","cor_primaria":"U","cor_secundaria":"R","tipo_escola":"Híbrida","par_antagonico":"Electro","categoria_oposicao":"Espacial/Temporal","aliases":[],"ordem":18,"sentimento_chave":"Saudade do que foi ou do que poderia ter sido; a recusa de aceitar que o tempo só anda para frente.","custo_ontologico_resumo":"Dessincronização temporal. Presente parece deslocado; memória e previsão confundem-se.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/chrono.md","permalink":"/wiki/escolas/chrono/","dg-note-properties":{"tipo":"escola_magia","nome":"Chrono","codigo":"UR","dominio":"Tempo e Fluxo","cor_primaria":"U","cor_secundaria":"R","tipo_escola":"Híbrida","par_antagonico":"Electro","categoria_oposicao":"Espacial/Temporal","aliases":[],"ordem":18,"sentimento_chave":"Saudade do que foi ou do que poderia ter sido; a recusa de aceitar que o tempo só anda para frente.","custo_ontologico_resumo":"Dessincronização temporal. Presente parece deslocado; memória e previsão confundem-se.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

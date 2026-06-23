@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/quebra-da-barreira/","dg-note-properties":{"tipo":"evento","nome":"Quebra da Barreira Mágica Luminar","id":"E-0015","era":"Segunda_Era","ano_relativo":"—","tipo_evento":"magico","impacto":"alto","marco_yaml":"—","aliases":[],"tags":[],"ordem":15,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/quebra_da_barreira.md","permalink":"/wiki/eventos/quebra-da-barreira/","dg-note-properties":{"tipo":"evento","nome":"Quebra da Barreira Mágica Luminar","id":"E-0015","era":"Segunda_Era","ano_relativo":"—","tipo_evento":"magico","impacto":"alto","marco_yaml":"—","aliases":[],"tags":[],"ordem":15,"generated_by":"strip_sistema"}}
 ---
 
 

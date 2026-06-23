@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/tegmen/","dg-note-properties":{"tipo":"artefato","nome":"Tegmen","tipo_artefato":"Armadura (classe)","categoria":"Armamento; Pessoal; Símbolo de status","portador_atual":"—","localizacao_atual":"—","status_atual":"Ativo","origem":"Tradição imperial sombria","vinculacao_entregue_em":"—","aliases":["tegmens","placas negras"],"ordem":25,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/tegmen.md","permalink":"/wiki/artefatos/tegmen/","dg-note-properties":{"tipo":"artefato","nome":"Tegmen","tipo_artefato":"Armadura (classe)","categoria":"Armamento; Pessoal; Símbolo de status","portador_atual":"—","localizacao_atual":"—","status_atual":"Ativo","origem":"Tradição imperial sombria","vinculacao_entregue_em":"—","aliases":["tegmens","placas negras"],"ordem":25,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/molde/","dg-note-properties":{"tipo":"feitico","nome":"Molde","escola":"Geo","escala":"Menor","aliases":[],"tags":[],"ordem":52,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/molde.md","permalink":"/wiki/feiticos/molde/","dg-note-properties":{"tipo":"feitico","nome":"Molde","escola":"Geo","escala":"Menor","aliases":[],"tags":[],"ordem":52,"generated_by":"strip_sistema"}}
 ---
 
 

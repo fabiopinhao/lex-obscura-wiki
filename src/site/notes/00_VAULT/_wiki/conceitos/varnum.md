@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/conceitos/varnum/","dg-note-properties":{"tipo":"conceito","lore_target":"3.2","nome":"Varnum","subtipo":"calendario","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":["Ano"],"ordem":11,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/varnum.md","permalink":"/wiki/conceitos/varnum/","dg-note-properties":{"tipo":"conceito","lore_target":"3.2","nome":"Varnum","subtipo":"calendario","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":["Ano"],"ordem":11,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

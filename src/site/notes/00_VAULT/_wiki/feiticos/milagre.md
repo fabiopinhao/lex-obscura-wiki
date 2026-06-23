@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/milagre/","dg-note-properties":{"tipo":"feitico","nome":"Milagre","escola":"Salvo","escala":"**Máxima**","aliases":[],"tags":[],"ordem":120,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/milagre.md","permalink":"/wiki/feiticos/milagre/","dg-note-properties":{"tipo":"feitico","nome":"Milagre","escola":"Salvo","escala":"**Máxima**","aliases":[],"tags":[],"ordem":120,"generated_by":"strip_sistema"}}
 ---
 
 

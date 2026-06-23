@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/nocthydral/","dg-note-properties":{"tipo":"divindade","nome":"Nocthydral","forma_divina":"Kraken Caliginoso","epiteto":"Pupila Insondável","epiteto_en-US":"The Fathomless Gaze","categoria":"Sideral","cores":"Ub","cor_dominante":"U","escola_1":"cosmo","escola_2":"gnosi","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":44,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/nocthydral.md","permalink":"/wiki/panteao/nocthydral/","dg-note-properties":{"tipo":"divindade","nome":"Nocthydral","forma_divina":"Kraken Caliginoso","epiteto":"Pupila Insondável","epiteto_en-US":"The Fathomless Gaze","categoria":"Sideral","cores":"Ub","cor_dominante":"U","escola_1":"cosmo","escola_2":"gnosi","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":44,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

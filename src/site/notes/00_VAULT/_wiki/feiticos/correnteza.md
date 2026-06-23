@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/correnteza/","dg-note-properties":{"tipo":"feitico","nome":"Correnteza","escola":"Hydro","escala":"Média","aliases":[],"tags":[],"ordem":15,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/correnteza.md","permalink":"/wiki/feiticos/correnteza/","dg-note-properties":{"tipo":"feitico","nome":"Correnteza","escola":"Hydro","escala":"Média","aliases":[],"tags":[],"ordem":15,"generated_by":"strip_sistema"}}
 ---
 
 

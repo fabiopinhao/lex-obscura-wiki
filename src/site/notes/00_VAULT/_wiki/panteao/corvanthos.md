@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/corvanthos/","dg-note-properties":{"tipo":"divindade","nome":"Corvanthos","forma_divina":"Leão Sepulcral","epiteto":"Juízo do Zênite","epiteto_en-US":"Zenith Judgement","categoria":"Anjo","cores":"Wb","cor_dominante":"W","escola_1":"nomos","escola_2":"helio","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":35,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/corvanthos.md","permalink":"/wiki/panteao/corvanthos/","dg-note-properties":{"tipo":"divindade","nome":"Corvanthos","forma_divina":"Leão Sepulcral","epiteto":"Juízo do Zênite","epiteto_en-US":"Zenith Judgement","categoria":"Anjo","cores":"Wb","cor_dominante":"W","escola_1":"nomos","escola_2":"helio","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":35,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

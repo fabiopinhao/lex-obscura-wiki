@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/vulto/","dg-note-properties":{"tipo":"feitico","nome":"Vulto","escola":"Umbra","escala":"Menor","aliases":[],"tags":[],"ordem":62,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/vulto.md","permalink":"/wiki/feiticos/vulto/","dg-note-properties":{"tipo":"feitico","nome":"Vulto","escola":"Umbra","escala":"Menor","aliases":[],"tags":[],"ordem":62,"generated_by":"strip_sistema"}}
 ---
 
 

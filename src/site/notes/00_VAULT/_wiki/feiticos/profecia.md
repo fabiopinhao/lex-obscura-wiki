@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/profecia/","dg-note-properties":{"tipo":"feitico","nome":"Profecia","escola":"Gnosi","escala":"Maior","aliases":[],"tags":[],"ordem":158,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/profecia.md","permalink":"/wiki/feiticos/profecia/","dg-note-properties":{"tipo":"feitico","nome":"Profecia","escola":"Gnosi","escala":"Maior","aliases":[],"tags":[],"ordem":158,"generated_by":"strip_sistema"}}
 ---
 
 

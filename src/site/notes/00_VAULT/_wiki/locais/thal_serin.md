@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/thal-serin/","dg-note-properties":{"tipo":"local","nome":"Thal'Serin","tipo_local":"Floresta (sagrada)","regiao":"Norte de Ventrista","controlador":"Resistência (Sylvanos livres)","status_atual":"Ativo","distancia_morvgrad_leguas":"~200","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":3,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/thal_serin.md","permalink":"/wiki/locais/thal-serin/","dg-note-properties":{"tipo":"local","nome":"Thal'Serin","tipo_local":"Floresta (sagrada)","regiao":"Norte de Ventrista","controlador":"Resistência (Sylvanos livres)","status_atual":"Ativo","distancia_morvgrad_leguas":"~200","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":3,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

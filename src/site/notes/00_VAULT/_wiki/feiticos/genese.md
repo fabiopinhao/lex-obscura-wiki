@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/genese/","dg-note-properties":{"tipo":"feitico","nome":"Gênese","escola":"Vita","escala":"**Máxima**","aliases":[],"tags":[],"ordem":100,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/genese.md","permalink":"/wiki/feiticos/genese/","dg-note-properties":{"tipo":"feitico","nome":"Gênese","escola":"Vita","escala":"**Máxima**","aliases":[],"tags":[],"ordem":100,"generated_by":"strip_sistema"}}
 ---
 
 

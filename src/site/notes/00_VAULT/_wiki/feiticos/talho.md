@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/talho/","dg-note-properties":{"tipo":"feitico","nome":"Talho","escola":"Aero","escala":"Média","aliases":[],"tags":[],"ordem":46,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/talho.md","permalink":"/wiki/feiticos/talho/","dg-note-properties":{"tipo":"feitico","nome":"Talho","escola":"Aero","escala":"Média","aliases":[],"tags":[],"ordem":46,"generated_by":"strip_sistema"}}
 ---
 
 

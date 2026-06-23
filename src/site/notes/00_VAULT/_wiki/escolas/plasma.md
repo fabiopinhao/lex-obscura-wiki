@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/plasma/","dg-note-properties":{"tipo":"escola_magia","nome":"Plasma","codigo":"RW","dominio":"Energia e Fusão","cor_primaria":"R","cor_secundaria":"W","tipo_escola":"Híbrida","par_antagonico":"Cryo","categoria_oposicao":"Elemental","aliases":[],"ordem":15,"sentimento_chave":"Impaciência com a solidez das coisas; o impulso de reduzir tudo ao essencial.","custo_ontologico_resumo":"Desapego material. Objetos menos reais que energia; corpo parece descartável.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/plasma.md","permalink":"/wiki/escolas/plasma/","dg-note-properties":{"tipo":"escola_magia","nome":"Plasma","codigo":"RW","dominio":"Energia e Fusão","cor_primaria":"R","cor_secundaria":"W","tipo_escola":"Híbrida","par_antagonico":"Cryo","categoria_oposicao":"Elemental","aliases":[],"ordem":15,"sentimento_chave":"Impaciência com a solidez das coisas; o impulso de reduzir tudo ao essencial.","custo_ontologico_resumo":"Desapego material. Objetos menos reais que energia; corpo parece descartável.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

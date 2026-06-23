@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/borrasca/","dg-note-properties":{"tipo":"feitico","nome":"Borrasca","escola":"Aero","escala":"**Máxima**","aliases":[],"tags":[],"ordem":50,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/borrasca.md","permalink":"/wiki/feiticos/borrasca/","dg-note-properties":{"tipo":"feitico","nome":"Borrasca","escola":"Aero","escala":"**Máxima**","aliases":[],"tags":[],"ordem":50,"generated_by":"strip_sistema"}}
 ---
 
 

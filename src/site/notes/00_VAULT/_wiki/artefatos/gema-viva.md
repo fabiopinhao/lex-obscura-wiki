@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/gema-viva/","dg-note-properties":{"tipo":"artefato","nome":"Gema-Viva","tipo_artefato":"Ovo de dridar","categoria":"Biológico","portador_atual":"Tibaut","localizacao_atual":"Inventário de Tibaut","status_atual":"Ativo (incubando)","origem":"Drul (Casas Matriarcais)","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":11,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/gema-viva.md","permalink":"/wiki/artefatos/gema-viva/","dg-note-properties":{"tipo":"artefato","nome":"Gema-Viva","tipo_artefato":"Ovo de dridar","categoria":"Biológico","portador_atual":"Tibaut","localizacao_atual":"Inventário de Tibaut","status_atual":"Ativo (incubando)","origem":"Drul (Casas Matriarcais)","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":11,"generated_by":"strip_sistema"}}
 ---
 
 

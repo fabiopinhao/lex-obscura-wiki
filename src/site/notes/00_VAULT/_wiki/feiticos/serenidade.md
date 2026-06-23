@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/serenidade/","dg-note-properties":{"tipo":"feitico","nome":"Serenidade","escola":"Urano","escala":"Média","aliases":[],"tags":[],"ordem":236,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/serenidade.md","permalink":"/wiki/feiticos/serenidade/","dg-note-properties":{"tipo":"feitico","nome":"Serenidade","escola":"Urano","escala":"Média","aliases":[],"tags":[],"ordem":236,"generated_by":"strip_sistema"}}
 ---
 
 

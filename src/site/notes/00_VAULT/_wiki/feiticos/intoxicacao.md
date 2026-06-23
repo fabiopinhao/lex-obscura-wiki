@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/intoxicacao/","dg-note-properties":{"tipo":"feitico","nome":"Intoxicação","escola":"Toxo","escala":"Maior","aliases":[],"tags":[],"ordem":289,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/intoxicacao.md","permalink":"/wiki/feiticos/intoxicacao/","dg-note-properties":{"tipo":"feitico","nome":"Intoxicação","escola":"Toxo","escala":"Maior","aliases":[],"tags":[],"ordem":289,"generated_by":"strip_sistema"}}
 ---
 
 

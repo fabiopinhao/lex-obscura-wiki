@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/pyro/","dg-note-properties":{"tipo":"escola_magia","nome":"Pyro","codigo":"RR","dominio":"Fogo e Combustão","cor_primaria":"R","cor_secundaria":"R","tipo_escola":"Pura","par_antagonico":"Hydro","categoria_oposicao":"Elemental","aliases":[],"ordem":11,"sentimento_chave":"Raiva que exige saída; a convicção de que conter o fogo é pior do que soltá-lo.","custo_ontologico_resumo":"Temperamento incendiário. Irritabilidade crescente; raiva como resposta padrão.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/pyro.md","permalink":"/wiki/escolas/pyro/","dg-note-properties":{"tipo":"escola_magia","nome":"Pyro","codigo":"RR","dominio":"Fogo e Combustão","cor_primaria":"R","cor_secundaria":"R","tipo_escola":"Pura","par_antagonico":"Hydro","categoria_oposicao":"Elemental","aliases":[],"ordem":11,"sentimento_chave":"Raiva que exige saída; a convicção de que conter o fogo é pior do que soltá-lo.","custo_ontologico_resumo":"Temperamento incendiário. Irritabilidade crescente; raiva como resposta padrão.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

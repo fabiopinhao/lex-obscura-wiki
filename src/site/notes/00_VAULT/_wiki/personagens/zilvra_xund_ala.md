@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/zilvra-xund-ala/","dg-note-properties":{"tipo":"personagem","nome_atual":"Zilvra Xund'ala","raca":"Drul","sexo":"F","relevancia":"Secundário","status_atual":"Viva","localizacao_atual":"Morvgrad (Torre de Khargoth)","armas_principais":"—","afiliacao_primaria":"Casa Xund'ala (matriarca)","aliases":["Mão Envenenada","Zilvra","Xund'ala"],"ordem":62,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/zilvra_xund_ala.md","permalink":"/wiki/personagens/zilvra-xund-ala/","dg-note-properties":{"tipo":"personagem","nome_atual":"Zilvra Xund'ala","raca":"Drul","sexo":"F","relevancia":"Secundário","status_atual":"Viva","localizacao_atual":"Morvgrad (Torre de Khargoth)","armas_principais":"—","afiliacao_primaria":"Casa Xund'ala (matriarca)","aliases":["Mão Envenenada","Zilvra","Xund'ala"],"ordem":62,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

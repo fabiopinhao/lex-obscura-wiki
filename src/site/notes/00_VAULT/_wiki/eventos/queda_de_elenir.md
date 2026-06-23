@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/queda-de-elenir/","dg-note-properties":{"tipo":"evento","nome":"Queda de Elenir","id":"E-0039","era":"Guerras_Reinkardicas","ano_relativo":-33,"tipo_evento":"conquista","impacto":"alto","marco_yaml":"—","aliases":["Tomada da Fortaleza de Cristal","Queda da Fortaleza de Cristal"],"tags":[],"ordem":39,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/queda_de_elenir.md","permalink":"/wiki/eventos/queda-de-elenir/","dg-note-properties":{"tipo":"evento","nome":"Queda de Elenir","id":"E-0039","era":"Guerras_Reinkardicas","ano_relativo":-33,"tipo_evento":"conquista","impacto":"alto","marco_yaml":"—","aliases":["Tomada da Fortaleza de Cristal","Queda da Fortaleza de Cristal"],"tags":[],"ordem":39,"generated_by":"strip_sistema"}}
 ---
 
 

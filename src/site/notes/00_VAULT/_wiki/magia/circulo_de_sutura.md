@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/circulo-de-sutura/","dg-note-properties":{"tipo":"conceito","lore_target":"3.7","nome":"Círculo de Sutura","subtipo":"ritual_necromante","aliases":[],"ordem":10,"origem_arquivo":"3.7_sistemas_magicos_LORE.md","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/circulo_de_sutura.md","permalink":"/wiki/magia/circulo-de-sutura/","dg-note-properties":{"tipo":"conceito","lore_target":"3.7","nome":"Círculo de Sutura","subtipo":"ritual_necromante","aliases":[],"ordem":10,"origem_arquivo":"3.7_sistemas_magicos_LORE.md","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

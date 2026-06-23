@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/hugur-comedor-de-ferro/","dg-note-properties":{"tipo":"personagem","nome_atual":"Hugur Comedor-de-Ferro","raca":"Orc","sexo":"M","relevancia":"Terciário","status_atual":"Desconhecido","localizacao_atual":"Desconhecida (presumivelmente com Terceira Legião Oriental)","armas_principais":"—","afiliacao_primaria":"Terceira Legião Oriental (sob Vekraal)","aliases":["Hugur"],"ordem":72,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/hugur_comedor-de-ferro.md","permalink":"/wiki/personagens/hugur-comedor-de-ferro/","dg-note-properties":{"tipo":"personagem","nome_atual":"Hugur Comedor-de-Ferro","raca":"Orc","sexo":"M","relevancia":"Terciário","status_atual":"Desconhecido","localizacao_atual":"Desconhecida (presumivelmente com Terceira Legião Oriental)","armas_principais":"—","afiliacao_primaria":"Terceira Legião Oriental (sob Vekraal)","aliases":["Hugur"],"ordem":72,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

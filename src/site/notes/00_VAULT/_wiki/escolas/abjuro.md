@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/abjuro/","dg-note-properties":{"tipo":"escola_magia","nome":"Abjuro","codigo":"GW","dominio":"Negação e Dissipação","cor_primaria":"G","cor_secundaria":"W","tipo_escola":"Híbrida","par_antagonico":"Toxo","categoria_oposicao":"Substância","aliases":[],"ordem":21,"sentimento_chave":"Desconfiança instintiva de magia alheia; a percepção de que todo encantamento é uma imposição a ser removida.","custo_ontologico_resumo":"Negacionismo mágico. Dissipa antes de perguntar; magias alheias são ameaças.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/abjuro.md","permalink":"/wiki/escolas/abjuro/","dg-note-properties":{"tipo":"escola_magia","nome":"Abjuro","codigo":"GW","dominio":"Negação e Dissipação","cor_primaria":"G","cor_secundaria":"W","tipo_escola":"Híbrida","par_antagonico":"Toxo","categoria_oposicao":"Substância","aliases":[],"ordem":21,"sentimento_chave":"Desconfiança instintiva de magia alheia; a percepção de que todo encantamento é uma imposição a ser removida.","custo_ontologico_resumo":"Negacionismo mágico. Dissipa antes de perguntar; magias alheias são ameaças.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/elenir/","dg-note-properties":{"tipo":"local","nome":"Elenir","tipo_local":"Castelo (élfico)","regiao":"Leste de Reinkard","controlador":"Império Sombrio (conquistado)","status_atual":"Ativo (ocupado)","distancia_morvgrad_leguas":"~350","populacao_aprox":"20.000+","aliases":["Fortaleza de Cristal"],"ordem":9,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/elenir.md","permalink":"/wiki/locais/elenir/","dg-note-properties":{"tipo":"local","nome":"Elenir","tipo_local":"Castelo (élfico)","regiao":"Leste de Reinkard","controlador":"Império Sombrio (conquistado)","status_atual":"Ativo (ocupado)","distancia_morvgrad_leguas":"~350","populacao_aprox":"20.000+","aliases":["Fortaleza de Cristal"],"ordem":9,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/panico/","dg-note-properties":{"tipo":"feitico","nome":"Pânico","escola":"Phobos","escala":"Média","aliases":[],"tags":[],"ordem":145,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/panico.md","permalink":"/wiki/feiticos/panico/","dg-note-properties":{"tipo":"feitico","nome":"Pânico","escola":"Phobos","escala":"Média","aliases":[],"tags":[],"ordem":145,"generated_by":"strip_sistema"}}
 ---
 
 

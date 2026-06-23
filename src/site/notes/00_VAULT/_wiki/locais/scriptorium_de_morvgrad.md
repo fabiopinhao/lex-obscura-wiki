@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/scriptorium-de-morvgrad/","dg-note-properties":{"tipo":"local","nome":"Scriptorium de Morvgrad","tipo_local":"Ala institucional","regiao":"Morvgrad","controlador":"Culto Sombrio (Arcontes)","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"—","aliases":["Scriptorium"],"ordem":30.1,"heading_level":3,"parent":"morvgrad","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/scriptorium_de_morvgrad.md","permalink":"/wiki/locais/scriptorium-de-morvgrad/","dg-note-properties":{"tipo":"local","nome":"Scriptorium de Morvgrad","tipo_local":"Ala institucional","regiao":"Morvgrad","controlador":"Culto Sombrio (Arcontes)","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"—","aliases":["Scriptorium"],"ordem":30.1,"heading_level":3,"parent":"morvgrad","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

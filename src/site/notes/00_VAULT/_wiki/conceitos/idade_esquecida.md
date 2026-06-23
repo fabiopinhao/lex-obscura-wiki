@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/conceitos/idade-esquecida/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Idade Esquecida (Pré-Primeira Era)","subtipo":"era","origem_arquivo":"3.17_eras_panoramica_LORE.md","aliases":[],"tags":[],"ordem":1,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/idade_esquecida.md","permalink":"/wiki/conceitos/idade-esquecida/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Idade Esquecida (Pré-Primeira Era)","subtipo":"era","origem_arquivo":"3.17_eras_panoramica_LORE.md","aliases":[],"tags":[],"ordem":1,"generated_by":"strip_sistema"}}
 ---
 
 

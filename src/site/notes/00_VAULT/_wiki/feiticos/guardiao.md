@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/guardiao/","dg-note-properties":{"tipo":"feitico","nome":"Guardião","escola":"Aegis","escala":"Maior","aliases":[],"tags":[],"ordem":219,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/guardiao.md","permalink":"/wiki/feiticos/guardiao/","dg-note-properties":{"tipo":"feitico","nome":"Guardião","escola":"Aegis","escala":"Maior","aliases":[],"tags":[],"ordem":219,"generated_by":"strip_sistema"}}
 ---
 
 

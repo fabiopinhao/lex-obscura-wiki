@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/suspensao/","dg-note-properties":{"tipo":"feitico","nome":"Suspensão","escola":"Cosmo","escala":"Média","aliases":[],"tags":[],"ordem":225,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/suspensao.md","permalink":"/wiki/feiticos/suspensao/","dg-note-properties":{"tipo":"feitico","nome":"Suspensão","escola":"Cosmo","escala":"Média","aliases":[],"tags":[],"ordem":225,"generated_by":"strip_sistema"}}
 ---
 
 

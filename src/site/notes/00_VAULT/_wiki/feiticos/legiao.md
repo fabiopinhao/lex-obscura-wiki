@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/legiao/","dg-note-properties":{"tipo":"feitico","nome":"Legião","escola":"Necro","escala":"**Máxima**","aliases":[],"tags":[],"ordem":90,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/legiao.md","permalink":"/wiki/feiticos/legiao/","dg-note-properties":{"tipo":"feitico","nome":"Legião","escola":"Necro","escala":"**Máxima**","aliases":[],"tags":[],"ordem":90,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/coracao-oco/","dg-note-properties":{"tipo":"local","nome":"Coração Oco","tipo_local":"Masmorras (área interna)","regiao":"Ghol'Drokh (profundezas)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Ghol'Drokh","populacao_aprox":"<50","aliases":[],"tags":[],"ordem":16,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/coracao_oco.md","permalink":"/wiki/locais/coracao-oco/","dg-note-properties":{"tipo":"local","nome":"Coração Oco","tipo_local":"Masmorras (área interna)","regiao":"Ghol'Drokh (profundezas)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Ghol'Drokh","populacao_aprox":"<50","aliases":[],"tags":[],"ordem":16,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

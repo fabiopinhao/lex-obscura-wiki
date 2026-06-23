@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/templo-de-azkaroth/","dg-note-properties":{"tipo":"local","nome":"Templo de Azkaroth","tipo_local":"Templo","regiao":"Mor'Draconis (Morvgrad)","controlador":"Culto Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"Variável","aliases":[],"tags":[],"ordem":28,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/templo_de_azkaroth.md","permalink":"/wiki/locais/templo-de-azkaroth/","dg-note-properties":{"tipo":"local","nome":"Templo de Azkaroth","tipo_local":"Templo","regiao":"Mor'Draconis (Morvgrad)","controlador":"Culto Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"Variável","aliases":[],"tags":[],"ordem":28,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

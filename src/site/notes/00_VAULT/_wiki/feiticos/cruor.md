@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/cruor/","dg-note-properties":{"tipo":"feitico","nome":"Cruor","escola":"Belli","escala":"Média","aliases":[],"tags":[],"ordem":205,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/cruor.md","permalink":"/wiki/feiticos/cruor/","dg-note-properties":{"tipo":"feitico","nome":"Cruor","escola":"Belli","escala":"Média","aliases":[],"tags":[],"ordem":205,"generated_by":"strip_sistema"}}
 ---
 
 

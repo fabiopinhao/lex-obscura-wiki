@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/geldrion/","dg-note-properties":{"tipo":"divindade","nome":"Geldrion","forma_divina":"Colosso Estelar","epiteto":"Apogeu Glacial","epiteto_en-US":"The Glacial Apex","categoria":"Sideral","cores":"UU","cor_dominante":"U","escola_1":"cryo","escola_2":"cosmo","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":42,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/geldrion.md","permalink":"/wiki/panteao/geldrion/","dg-note-properties":{"tipo":"divindade","nome":"Geldrion","forma_divina":"Colosso Estelar","epiteto":"Apogeu Glacial","epiteto_en-US":"The Glacial Apex","categoria":"Sideral","cores":"UU","cor_dominante":"U","escola_1":"cryo","escola_2":"cosmo","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":42,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

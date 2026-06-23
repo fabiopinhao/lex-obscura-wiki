@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/doutrina-da-alma/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Doutrina da Alma","subtipo":"filosofia_magica","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Espiritualismo Arcano","Doutrina de Naiu'Wula"],"ordem":19,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/doutrina_da_alma.md","permalink":"/wiki/cosmologia/doutrina-da-alma/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Doutrina da Alma","subtipo":"filosofia_magica","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Espiritualismo Arcano","Doutrina de Naiu'Wula"],"ordem":19,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

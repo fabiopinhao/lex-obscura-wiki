@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/relampago/","dg-note-properties":{"tipo":"feitico","nome":"Relâmpago","escola":"Electro","escala":"Média","aliases":[],"tags":[],"ordem":244,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/relampago.md","permalink":"/wiki/feiticos/relampago/","dg-note-properties":{"tipo":"feitico","nome":"Relâmpago","escola":"Electro","escala":"Média","aliases":[],"tags":[],"ordem":244,"generated_by":"strip_sistema"}}
 ---
 
 

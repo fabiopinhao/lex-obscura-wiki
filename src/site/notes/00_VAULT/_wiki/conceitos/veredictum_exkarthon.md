@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/conceitos/veredictum-exkarthon/","dg-note-properties":{"tipo":"conceito","lore_target":"3.2","nome":"Veredictum Exkarthon","subtipo":"instrumento_juridico","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":[],"tags":[],"ordem":5,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/veredictum_exkarthon.md","permalink":"/wiki/conceitos/veredictum-exkarthon/","dg-note-properties":{"tipo":"conceito","lore_target":"3.2","nome":"Veredictum Exkarthon","subtipo":"instrumento_juridico","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":[],"tags":[],"ordem":5,"generated_by":"strip_sistema"}}
 ---
 
 

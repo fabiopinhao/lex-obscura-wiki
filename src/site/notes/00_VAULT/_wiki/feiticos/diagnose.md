@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/diagnose/","dg-note-properties":{"tipo":"feitico","nome":"Diagnose","escola":"Abjuro","escala":"Menor","aliases":[],"tags":[],"ordem":291,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/diagnose.md","permalink":"/wiki/feiticos/diagnose/","dg-note-properties":{"tipo":"feitico","nome":"Diagnose","escola":"Abjuro","escala":"Menor","aliases":[],"tags":[],"ordem":291,"generated_by":"strip_sistema"}}
 ---
 
 

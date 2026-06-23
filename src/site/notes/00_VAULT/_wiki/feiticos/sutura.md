@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/sutura/","dg-note-properties":{"tipo":"feitico","nome":"Sutura","escola":"Salvo","escala":"Menor","aliases":[],"tags":[],"ordem":112,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sutura.md","permalink":"/wiki/feiticos/sutura/","dg-note-properties":{"tipo":"feitico","nome":"Sutura","escola":"Salvo","escala":"Menor","aliases":[],"tags":[],"ordem":112,"generated_by":"strip_sistema"}}
 ---
 
 

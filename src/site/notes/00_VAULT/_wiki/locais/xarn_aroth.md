@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/xarn-aroth/","dg-note-properties":{"tipo":"local","nome":"Xarn'Aroth","tipo_local":"Distrito (sagrado)","regiao":"Morvgrad (planalto)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"~5.000","aliases":[],"tags":[],"ordem":15.2,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/xarn_aroth.md","permalink":"/wiki/locais/xarn-aroth/","dg-note-properties":{"tipo":"local","nome":"Xarn'Aroth","tipo_local":"Distrito (sagrado)","regiao":"Morvgrad (planalto)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"~5.000","aliases":[],"tags":[],"ordem":15.2,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

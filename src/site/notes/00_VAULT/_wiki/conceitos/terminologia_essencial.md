@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/conceitos/terminologia-essencial/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Terminologia Essencial","subtipo":"glossario","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":[],"tags":[],"ordem":6,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/terminologia_essencial.md","permalink":"/wiki/conceitos/terminologia-essencial/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Terminologia Essencial","subtipo":"glossario","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":[],"tags":[],"ordem":6,"generated_by":"strip_sistema"}}
 ---
 
 

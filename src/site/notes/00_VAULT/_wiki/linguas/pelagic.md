@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/linguas/pelagic/","dg-note-properties":{"tipo":"lingua","nome":"Pelagic","tipo_lingua":"Ritual","era":"Primeira Era","cor_racial":"Azul","raca_principal":"Frenims","funcao":"Comunicação ritual com siderais etéreos","fluencia_comum":"Magos fluentes; ritual (ranidanos próximos)","relacao_magica":"Meditatio Aetheris","registro_magico":"Sim (exclusivamente ritual)","descendente_de":"—","aliases":[],"tags":[],"ordem":12,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/pelagic.md","permalink":"/wiki/linguas/pelagic/","dg-note-properties":{"tipo":"lingua","nome":"Pelagic","tipo_lingua":"Ritual","era":"Primeira Era","cor_racial":"Azul","raca_principal":"Frenims","funcao":"Comunicação ritual com siderais etéreos","fluencia_comum":"Magos fluentes; ritual (ranidanos próximos)","relacao_magica":"Meditatio Aetheris","registro_magico":"Sim (exclusivamente ritual)","descendente_de":"—","aliases":[],"tags":[],"ordem":12,"generated_by":"strip_sistema"}}
 ---
 
 

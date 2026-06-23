@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/sifao/","dg-note-properties":{"tipo":"feitico","nome":"Sifão","escola":"Necro","escala":"Média","aliases":[],"tags":[],"ordem":84,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sifao.md","permalink":"/wiki/feiticos/sifao/","dg-note-properties":{"tipo":"feitico","nome":"Sifão","escola":"Necro","escala":"Média","aliases":[],"tags":[],"ordem":84,"generated_by":"strip_sistema"}}
 ---
 
 

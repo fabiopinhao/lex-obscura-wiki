@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/fing/","dg-note-properties":{"tipo":"personagem","nome_atual":"Fing","raca":"Kobold (sauriano)","sexo":"M","relevancia":"Secundário","status_atual":"Vivo","localizacao_atual":"Mor'Severith","armas_principais":"—","afiliacao_primaria":"Servo de Arothistar","aliases":[],"ordem":26,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/fing.md","permalink":"/wiki/personagens/fing/","dg-note-properties":{"tipo":"personagem","nome_atual":"Fing","raca":"Kobold (sauriano)","sexo":"M","relevancia":"Secundário","status_atual":"Vivo","localizacao_atual":"Mor'Severith","armas_principais":"—","afiliacao_primaria":"Servo de Arothistar","aliases":[],"ordem":26,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

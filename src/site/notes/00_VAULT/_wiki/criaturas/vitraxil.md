@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/criaturas/vitraxil/","dg-note-properties":{"tipo":"criatura","nome":"Vitraxil","cor_arcana":"—","habitat":"Subterrâneo (Vor-Ghol)","aliases":[],"tags":[],"ordem":5,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/vitraxil.md","permalink":"/wiki/criaturas/vitraxil/","dg-note-properties":{"tipo":"criatura","nome":"Vitraxil","cor_arcana":"—","habitat":"Subterrâneo (Vor-Ghol)","aliases":[],"tags":[],"ordem":5,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

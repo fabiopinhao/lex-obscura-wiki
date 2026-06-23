@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/sedimento/","dg-note-properties":{"tipo":"feitico","nome":"Sedimento","escola":"Geo","escala":"Menor","aliases":[],"tags":[],"ordem":53,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sedimento.md","permalink":"/wiki/feiticos/sedimento/","dg-note-properties":{"tipo":"feitico","nome":"Sedimento","escola":"Geo","escala":"Menor","aliases":[],"tags":[],"ordem":53,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/ghargash/","dg-note-properties":{"tipo":"local","nome":"Ghargash","tipo_local":"Forte (campo de batalha tribal)","regiao":"Terras gélidas ao noroeste do Planalto Shadar","controlador":"—","status_atual":"—","distancia_morvgrad_leguas":"—","populacao_aprox":"—","aliases":[],"tags":[],"ordem":55,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/ghargash.md","permalink":"/wiki/locais/ghargash/","dg-note-properties":{"tipo":"local","nome":"Ghargash","tipo_local":"Forte (campo de batalha tribal)","regiao":"Terras gélidas ao noroeste do Planalto Shadar","controlador":"—","status_atual":"—","distancia_morvgrad_leguas":"—","populacao_aprox":"—","aliases":[],"tags":[],"ordem":55,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/hecatombe/","dg-note-properties":{"tipo":"feitico","nome":"Hecatombe","escola":"Belli","escala":"**Máxima**","aliases":[],"tags":[],"ordem":210,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/hecatombe.md","permalink":"/wiki/feiticos/hecatombe/","dg-note-properties":{"tipo":"feitico","nome":"Hecatombe","escola":"Belli","escala":"**Máxima**","aliases":[],"tags":[],"ordem":210,"generated_by":"strip_sistema"}}
 ---
 
 

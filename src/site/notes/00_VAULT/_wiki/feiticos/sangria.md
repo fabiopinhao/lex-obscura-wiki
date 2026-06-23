@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/sangria/","dg-note-properties":{"tipo":"feitico","nome":"Sangria","escola":"Toxo","escala":"Média","aliases":[],"tags":[],"ordem":285,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sangria.md","permalink":"/wiki/feiticos/sangria/","dg-note-properties":{"tipo":"feitico","nome":"Sangria","escola":"Toxo","escala":"Média","aliases":[],"tags":[],"ordem":285,"generated_by":"strip_sistema"}}
 ---
 
 

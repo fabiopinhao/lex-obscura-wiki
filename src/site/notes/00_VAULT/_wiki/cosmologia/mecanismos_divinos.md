@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/mecanismos-divinos/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Mecanismos Divinos","subtipo":"teologia","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":[],"tags":[],"ordem":2,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/mecanismos_divinos.md","permalink":"/wiki/cosmologia/mecanismos-divinos/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Mecanismos Divinos","subtipo":"teologia","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":[],"tags":[],"ordem":2,"generated_by":"strip_sistema"}}
 ---
 
 

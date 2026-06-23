@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/fortuna/","dg-note-properties":{"tipo":"feitico","nome":"Fortuna","escola":"Sacro","escala":"Menor","aliases":[],"tags":[],"ordem":171,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/fortuna.md","permalink":"/wiki/feiticos/fortuna/","dg-note-properties":{"tipo":"feitico","nome":"Fortuna","escola":"Sacro","escala":"Menor","aliases":[],"tags":[],"ordem":171,"generated_by":"strip_sistema"}}
 ---
 
 

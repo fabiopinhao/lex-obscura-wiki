@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/omnisciencia/","dg-note-properties":{"tipo":"feitico","nome":"Omnisciência","escola":"Gnosi","escala":"**Máxima**","aliases":[],"tags":[],"ordem":160,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/omnisciencia.md","permalink":"/wiki/feiticos/omnisciencia/","dg-note-properties":{"tipo":"feitico","nome":"Omnisciência","escola":"Gnosi","escala":"**Máxima**","aliases":[],"tags":[],"ordem":160,"generated_by":"strip_sistema"}}
 ---
 
 

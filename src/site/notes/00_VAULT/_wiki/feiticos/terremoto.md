@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/terremoto/","dg-note-properties":{"tipo":"feitico","nome":"Terremoto","escola":"Geo","escala":"Maior","aliases":[],"tags":[],"ordem":59,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/terremoto.md","permalink":"/wiki/feiticos/terremoto/","dg-note-properties":{"tipo":"feitico","nome":"Terremoto","escola":"Geo","escala":"Maior","aliases":[],"tags":[],"ordem":59,"generated_by":"strip_sistema"}}
 ---
 
 

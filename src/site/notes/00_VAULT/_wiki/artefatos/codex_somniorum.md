@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/codex-somniorum/","dg-note-properties":{"tipo":"artefato","nome":"Codex Somniorum","tipo_artefato":"Grimório","categoria":"Judicial; Conhecimento","portador_atual":"Milor (+ Orum, Nidzina)","localizacao_atual":"Cada Justiciar carrega cópia","status_atual":"Ativo","origem":"Sagrado (Arothistar/Xarn)","vinculacao_entregue_em":"Unção (Kit do Justiciar)","aliases":[],"tags":[],"ordem":4,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/codex_somniorum.md","permalink":"/wiki/artefatos/codex-somniorum/","dg-note-properties":{"tipo":"artefato","nome":"Codex Somniorum","tipo_artefato":"Grimório","categoria":"Judicial; Conhecimento","portador_atual":"Milor (+ Orum, Nidzina)","localizacao_atual":"Cada Justiciar carrega cópia","status_atual":"Ativo","origem":"Sagrado (Arothistar/Xarn)","vinculacao_entregue_em":"Unção (Kit do Justiciar)","aliases":[],"tags":[],"ordem":4,"generated_by":"strip_sistema"}}
 ---
 
 

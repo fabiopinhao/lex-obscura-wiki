@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/custodia/","dg-note-properties":{"tipo":"feitico","nome":"Custódia","escola":"Aegis","escala":"Média","aliases":[],"tags":[],"ordem":215,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/custodia.md","permalink":"/wiki/feiticos/custodia/","dg-note-properties":{"tipo":"feitico","nome":"Custódia","escola":"Aegis","escala":"Média","aliases":[],"tags":[],"ordem":215,"generated_by":"strip_sistema"}}
 ---
 
 

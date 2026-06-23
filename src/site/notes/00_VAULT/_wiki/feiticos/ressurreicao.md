@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/ressurreicao/","dg-note-properties":{"tipo":"feitico","nome":"Ressurreição","escola":"Sacro","escala":"**Máxima**","aliases":[],"tags":[],"ordem":180,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/ressurreicao.md","permalink":"/wiki/feiticos/ressurreicao/","dg-note-properties":{"tipo":"feitico","nome":"Ressurreição","escola":"Sacro","escala":"**Máxima**","aliases":[],"tags":[],"ordem":180,"generated_by":"strip_sistema"}}
 ---
 
 

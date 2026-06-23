@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/eclipse/","dg-note-properties":{"tipo":"feitico","nome":"Eclipse","escola":"Umbra","escala":"**Máxima**","aliases":[],"tags":[],"ordem":70,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/eclipse.md","permalink":"/wiki/feiticos/eclipse/","dg-note-properties":{"tipo":"feitico","nome":"Eclipse","escola":"Umbra","escala":"**Máxima**","aliases":[],"tags":[],"ordem":70,"generated_by":"strip_sistema"}}
 ---
 
 

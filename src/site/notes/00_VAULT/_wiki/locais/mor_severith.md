@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/mor-severith/","dg-note-properties":{"tipo":"local","nome":"Mor'Severith","tipo_local":"Torre (Arothistar)","regiao":"Xarn'Aroth (fundida ao Pico de Nethys)","controlador":"Arothistar","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"<30","aliases":[],"tags":[],"ordem":6,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/mor_severith.md","permalink":"/wiki/locais/mor-severith/","dg-note-properties":{"tipo":"local","nome":"Mor'Severith","tipo_local":"Torre (Arothistar)","regiao":"Xarn'Aroth (fundida ao Pico de Nethys)","controlador":"Arothistar","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"<30","aliases":[],"tags":[],"ordem":6,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

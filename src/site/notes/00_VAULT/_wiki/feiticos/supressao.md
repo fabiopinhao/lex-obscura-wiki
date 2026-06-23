@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/supressao/","dg-note-properties":{"tipo":"feitico","nome":"Supressão","escola":"Abjuro","escala":"Média","aliases":[],"tags":[],"ordem":296,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/supressao.md","permalink":"/wiki/feiticos/supressao/","dg-note-properties":{"tipo":"feitico","nome":"Supressão","escola":"Abjuro","escala":"Média","aliases":[],"tags":[],"ordem":296,"generated_by":"strip_sistema"}}
 ---
 
 

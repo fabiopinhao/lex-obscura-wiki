@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/quintos-de-irkhal/","dg-note-properties":{"tipo":"local","nome":"Quintos de Irkhal","tipo_local":"Região (subterrânea)","regiao":"Vor-Ghol (profundezas remotas)","controlador":"Nenhum (desabitado)","status_atual":"Ativo","distancia_morvgrad_leguas":"Via Vor-Ghol (remoto)","populacao_aprox":0,"aliases":[],"tags":[],"ordem":60,"heading_level":3,"parent":"vor-ghol","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/quintos_de_irkhal.md","permalink":"/wiki/locais/quintos-de-irkhal/","dg-note-properties":{"tipo":"local","nome":"Quintos de Irkhal","tipo_local":"Região (subterrânea)","regiao":"Vor-Ghol (profundezas remotas)","controlador":"Nenhum (desabitado)","status_atual":"Ativo","distancia_morvgrad_leguas":"Via Vor-Ghol (remoto)","populacao_aprox":0,"aliases":[],"tags":[],"ordem":60,"heading_level":3,"parent":"vor-ghol","generated_by":"strip_sistema"}}
 ---
 
 

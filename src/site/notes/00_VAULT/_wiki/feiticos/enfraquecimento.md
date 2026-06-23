@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/enfraquecimento/","dg-note-properties":{"tipo":"feitico","nome":"Enfraquecimento","escola":"Anatho","escala":"Média","aliases":[],"tags":[],"ordem":165,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/enfraquecimento.md","permalink":"/wiki/feiticos/enfraquecimento/","dg-note-properties":{"tipo":"feitico","nome":"Enfraquecimento","escola":"Anatho","escala":"Média","aliases":[],"tags":[],"ordem":165,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/pactum-diaboli/","dg-note-properties":{"tipo":"sistema_acesso","nome":"Pactum Diaboli","cor":"Preto (B)","nome_latino":"Pactum Diaboli","entidade":"Diabos","tipo_acesso":"Contrato","dificuldade":"Média","estabilidade":"Alta","custo_principal":"Obrigações rígidas pré-negociadas","custo_recai_sobre":["alma","terceiros"],"pode_trair":"Sim","posicao_doutrinaria_imperial":"clandestino_utilitario","termo_canalizacao":"Outorga","aliases":[],"ordem":1,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/pactum_diaboli.md","permalink":"/wiki/magia/pactum-diaboli/","dg-note-properties":{"tipo":"sistema_acesso","nome":"Pactum Diaboli","cor":"Preto (B)","nome_latino":"Pactum Diaboli","entidade":"Diabos","tipo_acesso":"Contrato","dificuldade":"Média","estabilidade":"Alta","custo_principal":"Obrigações rígidas pré-negociadas","custo_recai_sobre":["alma","terceiros"],"pode_trair":"Sim","posicao_doutrinaria_imperial":"clandestino_utilitario","termo_canalizacao":"Outorga","aliases":[],"ordem":1,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

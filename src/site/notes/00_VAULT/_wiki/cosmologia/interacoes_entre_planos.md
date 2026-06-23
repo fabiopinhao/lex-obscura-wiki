@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/interacoes-entre-planos/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Interações Entre Planos","subtipo":"cosmologia","aliases":[],"tags":[],"origem_arquivo":"3.4_cosmologia_LORE.md","ordem":2,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/interacoes_entre_planos.md","permalink":"/wiki/cosmologia/interacoes-entre-planos/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Interações Entre Planos","subtipo":"cosmologia","aliases":[],"tags":[],"origem_arquivo":"3.4_cosmologia_LORE.md","ordem":2,"generated_by":"strip_sistema"}}
 ---
 
 

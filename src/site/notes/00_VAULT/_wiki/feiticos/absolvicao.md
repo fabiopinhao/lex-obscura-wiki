@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/absolvicao/","dg-note-properties":{"tipo":"feitico","nome":"Absolvição","escola":"Urano","escala":"Maior","aliases":[],"tags":[],"ordem":238,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/absolvicao.md","permalink":"/wiki/feiticos/absolvicao/","dg-note-properties":{"tipo":"feitico","nome":"Absolvição","escola":"Urano","escala":"Maior","aliases":[],"tags":[],"ordem":238,"generated_by":"strip_sistema"}}
 ---
 
 

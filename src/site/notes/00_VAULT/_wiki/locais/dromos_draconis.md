@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/dromos-draconis/","dg-note-properties":{"tipo":"local","nome":"Dromos Draconis","tipo_local":"Arena/Coliseu","regiao":"Morvgrad","controlador":"—","status_atual":"Extinto","distancia_morvgrad_leguas":"—","populacao_aprox":"0 (extinta)","aliases":["Coliseu Dromos Draconis","Arenas Extintas"],"ordem":29,"heading_level":3,"parent":"morvgrad","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/dromos_draconis.md","permalink":"/wiki/locais/dromos-draconis/","dg-note-properties":{"tipo":"local","nome":"Dromos Draconis","tipo_local":"Arena/Coliseu","regiao":"Morvgrad","controlador":"—","status_atual":"Extinto","distancia_morvgrad_leguas":"—","populacao_aprox":"0 (extinta)","aliases":["Coliseu Dromos Draconis","Arenas Extintas"],"ordem":29,"heading_level":3,"parent":"morvgrad","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

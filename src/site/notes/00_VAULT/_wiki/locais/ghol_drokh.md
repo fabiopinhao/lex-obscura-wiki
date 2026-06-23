@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/ghol-drokh/","dg-note-properties":{"tipo":"local","nome":"Ghol'Drokh","tipo_local":"Masmorras","regiao":"Morvgrad (subterrânea)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"Centenas (prisioneiros)","aliases":["Masmorra","Masmorras de Morvgrad"],"ordem":7,"heading_level":3,"parent":"morvgrad","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/ghol_drokh.md","permalink":"/wiki/locais/ghol-drokh/","dg-note-properties":{"tipo":"local","nome":"Ghol'Drokh","tipo_local":"Masmorras","regiao":"Morvgrad (subterrânea)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"Centenas (prisioneiros)","aliases":["Masmorra","Masmorras de Morvgrad"],"ordem":7,"heading_level":3,"parent":"morvgrad","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

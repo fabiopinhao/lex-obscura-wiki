@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/guerras-reinkardicas-inicio/","dg-note-properties":{"tipo":"evento","nome":"Guerras Reinkárdicas (início)","id":"E-0021","era":"Guerras_Reinkardicas","ano_relativo":"—","tipo_evento":"guerra","impacto":"critico","marco_yaml":"—","aliases":["Descida do Planalto","Início das Guerras Reinkárdicas"],"tags":[],"ordem":21,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/guerras_reinkardicas_inicio.md","permalink":"/wiki/eventos/guerras-reinkardicas-inicio/","dg-note-properties":{"tipo":"evento","nome":"Guerras Reinkárdicas (início)","id":"E-0021","era":"Guerras_Reinkardicas","ano_relativo":"—","tipo_evento":"guerra","impacto":"critico","marco_yaml":"—","aliases":["Descida do Planalto","Início das Guerras Reinkárdicas"],"tags":[],"ordem":21,"generated_by":"strip_sistema"}}
 ---
 
 

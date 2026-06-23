@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/conceitos/vocabulario-administrativo/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Vocabulário Administrativo","subtipo":"glossario","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":[],"tags":[],"ordem":7,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/vocabulario_administrativo.md","permalink":"/wiki/conceitos/vocabulario-administrativo/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Vocabulário Administrativo","subtipo":"glossario","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":[],"tags":[],"ordem":7,"generated_by":"strip_sistema"}}
 ---
 
 

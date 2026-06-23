@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/sacro/","dg-note-properties":{"tipo":"escola_magia","nome":"Sacro","codigo":"WW","dominio":"Graça e Santidade","cor_primaria":"W","cor_secundaria":"W","tipo_escola":"Pura","par_antagonico":"Anatho","categoria_oposicao":"Ordem/Caos","aliases":[],"ordem":26,"sentimento_chave":"Consciência da impureza; o impulso de consagrar o que é profano.","custo_ontologico_resumo":"Perfeccionismo espiritual. Impureza visível e intolerável; julgamento automático.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/sacro.md","permalink":"/wiki/escolas/sacro/","dg-note-properties":{"tipo":"escola_magia","nome":"Sacro","codigo":"WW","dominio":"Graça e Santidade","cor_primaria":"W","cor_secundaria":"W","tipo_escola":"Pura","par_antagonico":"Anatho","categoria_oposicao":"Ordem/Caos","aliases":[],"ordem":26,"sentimento_chave":"Consciência da impureza; o impulso de consagrar o que é profano.","custo_ontologico_resumo":"Perfeccionismo espiritual. Impureza visível e intolerável; julgamento automático.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

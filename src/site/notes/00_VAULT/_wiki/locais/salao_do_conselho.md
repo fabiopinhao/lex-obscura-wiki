@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/salao-do-conselho/","dg-note-properties":{"tipo":"local","nome":"Salão do Conselho","tipo_local":"Salão (político)","regiao":"Morvgrad (Mor'Draconis)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"~50","aliases":[],"tags":[],"ordem":24,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/salao_do_conselho.md","permalink":"/wiki/locais/salao-do-conselho/","dg-note-properties":{"tipo":"local","nome":"Salão do Conselho","tipo_local":"Salão (político)","regiao":"Morvgrad (Mor'Draconis)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"~50","aliases":[],"tags":[],"ordem":24,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

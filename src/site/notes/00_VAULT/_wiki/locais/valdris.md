@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/valdris/","dg-note-properties":{"tipo":"local","nome":"Valdris","tipo_local":"Cidade-porto (costeira)","regiao":"Costa sul de Reinkard","controlador":"Império Sombrio (conquistado)","status_atual":"Ativo (guarnição imperial)","distancia_morvgrad_leguas":"—","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":45,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/valdris.md","permalink":"/wiki/locais/valdris/","dg-note-properties":{"tipo":"local","nome":"Valdris","tipo_local":"Cidade-porto (costeira)","regiao":"Costa sul de Reinkard","controlador":"Império Sombrio (conquistado)","status_atual":"Ativo (guarnição imperial)","distancia_morvgrad_leguas":"—","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":45,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

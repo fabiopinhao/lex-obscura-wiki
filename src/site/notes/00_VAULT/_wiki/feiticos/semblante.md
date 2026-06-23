@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/semblante/","dg-note-properties":{"tipo":"feitico","nome":"Semblante","escola":"Morpho","escala":"Menor","aliases":[],"tags":[],"ordem":271,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/semblante.md","permalink":"/wiki/feiticos/semblante/","dg-note-properties":{"tipo":"feitico","nome":"Semblante","escola":"Morpho","escala":"Menor","aliases":[],"tags":[],"ordem":271,"generated_by":"strip_sistema"}}
 ---
 
 

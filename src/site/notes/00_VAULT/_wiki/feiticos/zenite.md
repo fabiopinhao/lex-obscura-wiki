@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/zenite/","dg-note-properties":{"tipo":"feitico","nome":"Zênite","escola":"Helio","escala":"Maior","aliases":[],"tags":[],"ordem":79,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/zenite.md","permalink":"/wiki/feiticos/zenite/","dg-note-properties":{"tipo":"feitico","nome":"Zênite","escola":"Helio","escala":"Maior","aliases":[],"tags":[],"ordem":79,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/subjugacao-de-thandruk-varn/","dg-note-properties":{"tipo":"evento","nome":"Subjugação de Thandruk Varn","id":"E-0029","era":"Guerras_Reinkardicas","ano_relativo":-60,"tipo_evento":"conquista","impacto":"medio","marco_yaml":"—","aliases":["Rendição de Thandruk Varn","Queda de Thandruk Varn"],"tags":[],"ordem":29,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/subjugacao_de_thandruk_varn.md","permalink":"/wiki/eventos/subjugacao-de-thandruk-varn/","dg-note-properties":{"tipo":"evento","nome":"Subjugação de Thandruk Varn","id":"E-0029","era":"Guerras_Reinkardicas","ano_relativo":-60,"tipo_evento":"conquista","impacto":"medio","marco_yaml":"—","aliases":["Rendição de Thandruk Varn","Queda de Thandruk Varn"],"tags":[],"ordem":29,"generated_by":"strip_sistema"}}
 ---
 
 

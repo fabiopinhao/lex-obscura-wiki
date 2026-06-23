@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/indices/verbum-arkhon/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/indices/Verbum Arkhon.md","permalink":"/wiki/indices/verbum-arkhon/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Verbum Arkhon

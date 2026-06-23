@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/ventrista/","dg-note-properties":{"tipo":"local","nome":"Ventrista","tipo_local":"Região (agrícola)","regiao":"Base do planalto Shadar","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Adjacente a Morvgrad","populacao_aprox":"~50.000","aliases":[],"tags":[],"ordem":18,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/ventrista.md","permalink":"/wiki/locais/ventrista/","dg-note-properties":{"tipo":"local","nome":"Ventrista","tipo_local":"Região (agrícola)","regiao":"Base do planalto Shadar","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Adjacente a Morvgrad","populacao_aprox":"~50.000","aliases":[],"tags":[],"ordem":18,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

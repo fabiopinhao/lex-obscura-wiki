@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/sigilo/","dg-note-properties":{"tipo":"feitico","nome":"Sigilo","escola":"Nomos","escala":"Média","aliases":[],"tags":[],"ordem":196,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/sigilo.md","permalink":"/wiki/feiticos/sigilo/","dg-note-properties":{"tipo":"feitico","nome":"Sigilo","escola":"Nomos","escala":"Média","aliases":[],"tags":[],"ordem":196,"generated_by":"strip_sistema"}}
 ---
 
 

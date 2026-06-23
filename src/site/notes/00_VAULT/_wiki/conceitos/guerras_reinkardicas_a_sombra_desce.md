@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/conceitos/guerras-reinkardicas-a-sombra-desce/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Guerras Reinkárdicas: A Sombra Desce","subtipo":"era","origem_arquivo":"3.17_eras_panoramica_LORE.md","aliases":[],"tags":[],"ordem":4,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/guerras_reinkardicas_a_sombra_desce.md","permalink":"/wiki/conceitos/guerras-reinkardicas-a-sombra-desce/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Guerras Reinkárdicas: A Sombra Desce","subtipo":"era","origem_arquivo":"3.17_eras_panoramica_LORE.md","aliases":[],"tags":[],"ordem":4,"generated_by":"strip_sistema"}}
 ---
 
 

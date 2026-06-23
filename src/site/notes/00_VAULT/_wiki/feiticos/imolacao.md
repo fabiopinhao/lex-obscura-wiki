@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/imolacao/","dg-note-properties":{"tipo":"feitico","nome":"Imolação","escola":"Belli","escala":"Maior","aliases":[],"tags":[],"ordem":207,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/imolacao.md","permalink":"/wiki/feiticos/imolacao/","dg-note-properties":{"tipo":"feitico","nome":"Imolação","escola":"Belli","escala":"Maior","aliases":[],"tags":[],"ordem":207,"generated_by":"strip_sistema"}}
 ---
 
 

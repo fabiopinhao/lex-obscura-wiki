@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/dilaceracao/","dg-note-properties":{"tipo":"feitico","nome":"Dilaceração","escola":"Cosmo","escala":"Maior","aliases":[],"tags":[],"ordem":227,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/dilaceracao.md","permalink":"/wiki/feiticos/dilaceracao/","dg-note-properties":{"tipo":"feitico","nome":"Dilaceração","escola":"Cosmo","escala":"Maior","aliases":[],"tags":[],"ordem":227,"generated_by":"strip_sistema"}}
 ---
 
 

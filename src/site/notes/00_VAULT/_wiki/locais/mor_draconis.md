@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/mor-draconis/","dg-note-properties":{"tipo":"local","nome":"Mor'Draconis","tipo_local":"Muralha (anel fortificado)","regiao":"Morvgrad (anel médio)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"~50.000","aliases":[],"tags":[],"ordem":25,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/mor_draconis.md","permalink":"/wiki/locais/mor-draconis/","dg-note-properties":{"tipo":"local","nome":"Mor'Draconis","tipo_local":"Muralha (anel fortificado)","regiao":"Morvgrad (anel médio)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"~50.000","aliases":[],"tags":[],"ordem":25,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

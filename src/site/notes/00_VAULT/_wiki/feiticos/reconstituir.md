@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/reconstituir/","dg-note-properties":{"tipo":"feitico","nome":"Reconstituir","escola":"Morpho","escala":"Maior","aliases":[],"tags":[],"ordem":279,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/reconstituir.md","permalink":"/wiki/feiticos/reconstituir/","dg-note-properties":{"tipo":"feitico","nome":"Reconstituir","escola":"Morpho","escala":"Maior","aliases":[],"tags":[],"ordem":279,"generated_by":"strip_sistema"}}
 ---
 
 

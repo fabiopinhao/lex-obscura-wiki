@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/noctiluz/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Noctiluz","subtipo":"fenomeno_magico","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":[],"tags":[],"ordem":41,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/noctiluz.md","permalink":"/wiki/cosmologia/noctiluz/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Noctiluz","subtipo":"fenomeno_magico","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":[],"tags":[],"ordem":41,"generated_by":"strip_sistema"}}
 ---
 
 

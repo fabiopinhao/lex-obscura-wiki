@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/indices/locais/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/indices/Locais.md","permalink":"/wiki/indices/locais/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Locais

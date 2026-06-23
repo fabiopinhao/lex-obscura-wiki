@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/armisticio/","dg-note-properties":{"tipo":"feitico","nome":"Armistício","escola":"Urano","escala":"Maior","aliases":[],"tags":[],"ordem":239,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/armisticio.md","permalink":"/wiki/feiticos/armisticio/","dg-note-properties":{"tipo":"feitico","nome":"Armistício","escola":"Urano","escala":"Maior","aliases":[],"tags":[],"ordem":239,"generated_by":"strip_sistema"}}
 ---
 
 

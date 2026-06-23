@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/salvo/","dg-note-properties":{"tipo":"escola_magia","nome":"Salvo","codigo":"WG","dominio":"Cura e Restauração","cor_primaria":"W","cor_secundaria":"G","tipo_escola":"Híbrida","par_antagonico":"Patho","categoria_oposicao":"Vital","aliases":[],"ordem":22,"sentimento_chave":"Impulso de restaurar o que está quebrado; a dor alheia como urgência pessoal.","custo_ontologico_resumo":"Codependência empática. Sofrimento alheio intolerável; curar vicia; limites inexistem.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/salvo.md","permalink":"/wiki/escolas/salvo/","dg-note-properties":{"tipo":"escola_magia","nome":"Salvo","codigo":"WG","dominio":"Cura e Restauração","cor_primaria":"W","cor_secundaria":"G","tipo_escola":"Híbrida","par_antagonico":"Patho","categoria_oposicao":"Vital","aliases":[],"ordem":22,"sentimento_chave":"Impulso de restaurar o que está quebrado; a dor alheia como urgência pessoal.","custo_ontologico_resumo":"Codependência empática. Sofrimento alheio intolerável; curar vicia; limites inexistem.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

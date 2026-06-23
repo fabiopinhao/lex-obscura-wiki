@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/faelyndre/","dg-note-properties":{"tipo":"divindade","nome":"Faelyndrë","forma_divina":"Nereida Coralina","epiteto":"Cifra Coralina","epiteto_en-US":"Coral Cipher","categoria":"Sideral","cores":"Ug","cor_dominante":"U","escola_1":"hydro","escola_2":"gnosi","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":46,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/faelyndre.md","permalink":"/wiki/panteao/faelyndre/","dg-note-properties":{"tipo":"divindade","nome":"Faelyndrë","forma_divina":"Nereida Coralina","epiteto":"Cifra Coralina","epiteto_en-US":"Coral Cipher","categoria":"Sideral","cores":"Ug","cor_dominante":"U","escola_1":"hydro","escola_2":"gnosi","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":46,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

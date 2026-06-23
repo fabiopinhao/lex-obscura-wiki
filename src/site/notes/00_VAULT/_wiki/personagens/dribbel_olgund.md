@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/dribbel-olgund/","dg-note-properties":{"tipo":"personagem","nome_atual":"Dribbel Olgund","raca":"Derro","sexo":"M","relevancia":"Principal","status_atual":"Vivo","localizacao_atual":"Morvgrad (Mercado Oeste)","armas_principais":"—","afiliacao_primaria":"Guilda dos Gnomos","aliases":["Quebra-Trocas","Dribbel","Olgund"],"ordem":9,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/dribbel_olgund.md","permalink":"/wiki/personagens/dribbel-olgund/","dg-note-properties":{"tipo":"personagem","nome_atual":"Dribbel Olgund","raca":"Derro","sexo":"M","relevancia":"Principal","status_atual":"Vivo","localizacao_atual":"Morvgrad (Mercado Oeste)","armas_principais":"—","afiliacao_primaria":"Guilda dos Gnomos","aliases":["Quebra-Trocas","Dribbel","Olgund"],"ordem":9,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

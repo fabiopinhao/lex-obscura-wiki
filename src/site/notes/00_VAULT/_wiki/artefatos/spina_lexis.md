@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/spina-lexis/","dg-note-properties":{"tipo":"artefato","nome":"Spina Lexis","tipo_artefato":"Cetro","categoria":"Judicial","portador_atual":"Milor (+ Orum, Nidzina)","localizacao_atual":"Cada Justiciar carrega um","status_atual":"Ativo","origem":"Culto Sombrio","vinculacao_entregue_em":"Unção (Kit do Justiciar)","aliases":[],"tags":[],"ordem":3,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/spina_lexis.md","permalink":"/wiki/artefatos/spina-lexis/","dg-note-properties":{"tipo":"artefato","nome":"Spina Lexis","tipo_artefato":"Cetro","categoria":"Judicial","portador_atual":"Milor (+ Orum, Nidzina)","localizacao_atual":"Cada Justiciar carrega um","status_atual":"Ativo","origem":"Culto Sombrio","vinculacao_entregue_em":"Unção (Kit do Justiciar)","aliases":[],"tags":[],"ordem":3,"generated_by":"strip_sistema"}}
 ---
 
 

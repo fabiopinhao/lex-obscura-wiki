@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/brondakhar/","dg-note-properties":{"tipo":"divindade","nome":"Brondakhar","forma_divina":"Minotauro Couraçado","epiteto":"Égide Iracunda","epiteto_en-US":"Wrathful Aegis","categoria":"Titã","cores":"Grw","cor_dominante":"G","escola_1":"belli","escola_2":"salvo","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":30,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/brondakhar.md","permalink":"/wiki/panteao/brondakhar/","dg-note-properties":{"tipo":"divindade","nome":"Brondakhar","forma_divina":"Minotauro Couraçado","epiteto":"Égide Iracunda","epiteto_en-US":"Wrathful Aegis","categoria":"Titã","cores":"Grw","cor_dominante":"G","escola_1":"belli","escola_2":"salvo","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":30,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

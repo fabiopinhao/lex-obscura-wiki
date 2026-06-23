@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/escrutinio/","dg-note-properties":{"tipo":"feitico","nome":"Escrutínio","escola":"Gnosi","escala":"Menor","aliases":[],"tags":[],"ordem":152,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/escrutinio.md","permalink":"/wiki/feiticos/escrutinio/","dg-note-properties":{"tipo":"feitico","nome":"Escrutínio","escola":"Gnosi","escala":"Menor","aliases":[],"tags":[],"ordem":152,"generated_by":"strip_sistema"}}
 ---
 
 

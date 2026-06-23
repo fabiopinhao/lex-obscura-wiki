@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/indices/organizacoes/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/indices/Organizações.md","permalink":"/wiki/indices/organizacoes/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Organizações

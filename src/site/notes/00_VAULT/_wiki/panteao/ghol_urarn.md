@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/ghol-urarn/","dg-note-properties":{"tipo":"divindade","nome":"Ghol-Urarn","forma_divina":"Hidra Supurante","epiteto":"Contágio Diluviano","epiteto_en-US":"The Diluvian Contagion","categoria":"Titã","cores":"Gbu","cor_dominante":"G","escola_1":"patho","escola_2":"hydro","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":29,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/ghol_urarn.md","permalink":"/wiki/panteao/ghol-urarn/","dg-note-properties":{"tipo":"divindade","nome":"Ghol-Urarn","forma_divina":"Hidra Supurante","epiteto":"Contágio Diluviano","epiteto_en-US":"The Diluvian Contagion","categoria":"Titã","cores":"Gbu","cor_dominante":"G","escola_1":"patho","escola_2":"hydro","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":29,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

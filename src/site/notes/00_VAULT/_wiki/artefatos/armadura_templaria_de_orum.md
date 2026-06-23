@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/armadura-templaria-de-orum/","dg-note-properties":{"tipo":"artefato","nome":"Armadura Templária de Orum","tipo_artefato":"Armadura (prateada)","categoria":"Armamento; Pessoal","portador_atual":"Orum-Rahru","localizacao_atual":"Vestida por Orum (raramente removida)","status_atual":"Ativo","origem":"Templários de Vozrador (era pré-imperial)","vinculacao_entregue_em":"Herança templária (conservada 76+ anos)","aliases":["armadura de Orum","couraça templária"],"ordem":18,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/armadura_templaria_de_orum.md","permalink":"/wiki/artefatos/armadura-templaria-de-orum/","dg-note-properties":{"tipo":"artefato","nome":"Armadura Templária de Orum","tipo_artefato":"Armadura (prateada)","categoria":"Armamento; Pessoal","portador_atual":"Orum-Rahru","localizacao_atual":"Vestida por Orum (raramente removida)","status_atual":"Ativo","origem":"Templários de Vozrador (era pré-imperial)","vinculacao_entregue_em":"Herança templária (conservada 76+ anos)","aliases":["armadura de Orum","couraça templária"],"ordem":18,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/barreira/","dg-note-properties":{"tipo":"feitico","nome":"Barreira","escola":"Aegis","escala":"Média","aliases":[],"tags":[],"ordem":214,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/barreira.md","permalink":"/wiki/feiticos/barreira/","dg-note-properties":{"tipo":"feitico","nome":"Barreira","escola":"Aegis","escala":"Média","aliases":[],"tags":[],"ordem":214,"generated_by":"strip_sistema"}}
 ---
 
 

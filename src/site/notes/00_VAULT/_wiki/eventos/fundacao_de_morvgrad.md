@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/fundacao-de-morvgrad/","dg-note-properties":{"tipo":"evento","nome":"Fundação de Morvgrad e Criação da Lex Obscura","id":"E-0018","era":"Segunda_Era","ano_relativo":"—","tipo_evento":"fundacao","impacto":"critico","marco_yaml":"—","aliases":[],"tags":[],"ordem":18,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/fundacao_de_morvgrad.md","permalink":"/wiki/eventos/fundacao-de-morvgrad/","dg-note-properties":{"tipo":"evento","nome":"Fundação de Morvgrad e Criação da Lex Obscura","id":"E-0018","era":"Segunda_Era","ano_relativo":"—","tipo_evento":"fundacao","impacto":"critico","marco_yaml":"—","aliases":[],"tags":[],"ordem":18,"generated_by":"strip_sistema"}}
 ---
 
 

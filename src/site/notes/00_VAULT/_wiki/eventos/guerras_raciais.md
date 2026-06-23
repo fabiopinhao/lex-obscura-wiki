@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/guerras-raciais/","dg-note-properties":{"tipo":"evento","nome":"Guerras Raciais","id":"E-0002","era":"Idade_Esquecida","ano_relativo":"—","tipo_evento":"cosmogonia","impacto":"critico","marco_yaml":"—","aliases":["Guerras Raciais","Guerra dos Deuses","Primeira Carnificina"],"ordem":2,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/guerras_raciais.md","permalink":"/wiki/eventos/guerras-raciais/","dg-note-properties":{"tipo":"evento","nome":"Guerras Raciais","id":"E-0002","era":"Idade_Esquecida","ano_relativo":"—","tipo_evento":"cosmogonia","impacto":"critico","marco_yaml":"—","aliases":["Guerras Raciais","Guerra dos Deuses","Primeira Carnificina"],"ordem":2,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

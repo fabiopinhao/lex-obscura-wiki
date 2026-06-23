@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/evanescencia/","dg-note-properties":{"tipo":"feitico","nome":"Evanescência","escola":"Spectro","escala":"Média","aliases":[],"tags":[],"ordem":264,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/evanescencia.md","permalink":"/wiki/feiticos/evanescencia/","dg-note-properties":{"tipo":"feitico","nome":"Evanescência","escola":"Spectro","escala":"Média","aliases":[],"tags":[],"ordem":264,"generated_by":"strip_sistema"}}
 ---
 
 

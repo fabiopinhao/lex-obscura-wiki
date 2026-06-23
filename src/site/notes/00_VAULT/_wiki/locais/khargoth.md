@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/khargoth/","dg-note-properties":{"tipo":"local","nome":"Khargoth","tipo_local":"Torre (arcana)","regiao":"Morvgrad","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"~500 (estudantes/magos)","aliases":[],"tags":[],"ordem":11,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/khargoth.md","permalink":"/wiki/locais/khargoth/","dg-note-properties":{"tipo":"local","nome":"Khargoth","tipo_local":"Torre (arcana)","regiao":"Morvgrad","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"~500 (estudantes/magos)","aliases":[],"tags":[],"ordem":11,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

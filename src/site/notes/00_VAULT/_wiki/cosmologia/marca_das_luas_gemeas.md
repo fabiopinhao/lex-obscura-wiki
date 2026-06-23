@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/marca-das-luas-gemeas/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Marca das Luas Gêmeas","subtipo":"marca_divina","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Luas Entrelaçadas"],"ordem":40,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/marca_das_luas_gemeas.md","permalink":"/wiki/cosmologia/marca-das-luas-gemeas/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Marca das Luas Gêmeas","subtipo":"marca_divina","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Luas Entrelaçadas"],"ordem":40,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

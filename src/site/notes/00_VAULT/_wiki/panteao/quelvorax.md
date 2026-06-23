@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/quelvorax/","dg-note-properties":{"tipo":"divindade","nome":"Quelvorax","forma_divina":"Verme Colossal","epiteto":"Terror Abissal","epiteto_en-US":"The Abyssal Terror","categoria":"Diabo","cores":"Bur","cor_dominante":"B","escola_1":"cosmo","escola_2":"phobos","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":8,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/quelvorax.md","permalink":"/wiki/panteao/quelvorax/","dg-note-properties":{"tipo":"divindade","nome":"Quelvorax","forma_divina":"Verme Colossal","epiteto":"Terror Abissal","epiteto_en-US":"The Abyssal Terror","categoria":"Diabo","cores":"Bur","cor_dominante":"B","escola_1":"cosmo","escola_2":"phobos","status":"Ativo","relevancia":"Panteão de fundo","aliases":[],"ordem":8,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

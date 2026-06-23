@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/abbhal/","dg-note-properties":{"tipo":"divindade","nome":"Abbhal","forma_divina":"Anjo Caído","epiteto":"Graça Profanada","epiteto_en-US":"Profaned Grace","categoria":"Diabo-Anjo","cores":"BW","cor_dominante":"B","escola_1":"nomos","escola_2":"electro","status":"Ativo","relevancia":"Livro I","aliases":[],"ordem":10,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/abbhal.md","permalink":"/wiki/panteao/abbhal/","dg-note-properties":{"tipo":"divindade","nome":"Abbhal","forma_divina":"Anjo Caído","epiteto":"Graça Profanada","epiteto_en-US":"Profaned Grace","categoria":"Diabo-Anjo","cores":"BW","cor_dominante":"B","escola_1":"nomos","escola_2":"electro","status":"Ativo","relevancia":"Livro I","aliases":[],"ordem":10,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

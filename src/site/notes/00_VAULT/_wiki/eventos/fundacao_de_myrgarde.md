@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/fundacao-de-myrgarde/","dg-note-properties":{"tipo":"evento","nome":"Fundação de Myrgarde","id":"E-0008","era":"Primeira_Era","ano_relativo":"—","tipo_evento":"fundacao","impacto":"critico","marco_yaml":"—","aliases":[],"tags":[],"ordem":8,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/fundacao_de_myrgarde.md","permalink":"/wiki/eventos/fundacao-de-myrgarde/","dg-note-properties":{"tipo":"evento","nome":"Fundação de Myrgarde","id":"E-0008","era":"Primeira_Era","ano_relativo":"—","tipo_evento":"fundacao","impacto":"critico","marco_yaml":"—","aliases":[],"tags":[],"ordem":8,"generated_by":"strip_sistema"}}
 ---
 
 

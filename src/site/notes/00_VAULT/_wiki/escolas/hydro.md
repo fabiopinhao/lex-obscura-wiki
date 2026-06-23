@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/hydro/","dg-note-properties":{"tipo":"escola_magia","nome":"Hydro","codigo":"UG","dominio":"Água e Corrente","cor_primaria":"U","cor_secundaria":"G","tipo_escola":"Híbrida","par_antagonico":"Pyro","categoria_oposicao":"Elemental","aliases":[],"ordem":24,"sentimento_chave":"Inclinação a ceder e contornar; a percepção de que a resistência é obstáculo a ser erodido, não enfrentado.","custo_ontologico_resumo":"Fluidez emocional. Emoções mudam como marés; estabilidade afetiva impossível.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/hydro.md","permalink":"/wiki/escolas/hydro/","dg-note-properties":{"tipo":"escola_magia","nome":"Hydro","codigo":"UG","dominio":"Água e Corrente","cor_primaria":"U","cor_secundaria":"G","tipo_escola":"Híbrida","par_antagonico":"Pyro","categoria_oposicao":"Elemental","aliases":[],"ordem":24,"sentimento_chave":"Inclinação a ceder e contornar; a percepção de que a resistência é obstáculo a ser erodido, não enfrentado.","custo_ontologico_resumo":"Fluidez emocional. Emoções mudam como marés; estabilidade afetiva impossível.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

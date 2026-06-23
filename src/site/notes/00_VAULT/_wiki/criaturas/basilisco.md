@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/criaturas/basilisco/","dg-note-properties":{"tipo":"criatura","nome":"Basilisco","cor_arcana":"—","habitat":"Subterrâneo (Vor-Ghol e cavernas profundas)","aliases":["Basiliscos"],"tags":[],"ordem":10,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/basilisco.md","permalink":"/wiki/criaturas/basilisco/","dg-note-properties":{"tipo":"criatura","nome":"Basilisco","cor_arcana":"—","habitat":"Subterrâneo (Vor-Ghol e cavernas profundas)","aliases":["Basiliscos"],"tags":[],"ordem":10,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

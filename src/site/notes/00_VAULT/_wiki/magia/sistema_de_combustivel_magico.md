@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/sistema-de-combustivel-magico/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Sistema de Combustível Mágico","aliases":[],"ordem":0,"subtipo":"mecanica","origem_arquivo":"3.14_custos_ontologicos_LORE.md","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/sistema_de_combustivel_magico.md","permalink":"/wiki/magia/sistema-de-combustivel-magico/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Sistema de Combustível Mágico","aliases":[],"ordem":0,"subtipo":"mecanica","origem_arquivo":"3.14_custos_ontologicos_LORE.md","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

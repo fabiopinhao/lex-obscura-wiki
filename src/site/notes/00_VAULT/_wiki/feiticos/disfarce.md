@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/disfarce/","dg-note-properties":{"tipo":"feitico","nome":"Disfarce","escola":"Spectro","escala":"Média","aliases":[],"tags":[],"ordem":266,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/disfarce.md","permalink":"/wiki/feiticos/disfarce/","dg-note-properties":{"tipo":"feitico","nome":"Disfarce","escola":"Spectro","escala":"Média","aliases":[],"tags":[],"ordem":266,"generated_by":"strip_sistema"}}
 ---
 
 

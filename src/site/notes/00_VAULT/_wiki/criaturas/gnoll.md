@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/criaturas/gnoll/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/gnoll.md","permalink":"/wiki/criaturas/gnoll/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Gnoll

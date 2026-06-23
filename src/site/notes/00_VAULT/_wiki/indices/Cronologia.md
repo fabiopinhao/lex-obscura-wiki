@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/indices/cronologia/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/indices/Cronologia.md","permalink":"/wiki/indices/cronologia/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Cronologia

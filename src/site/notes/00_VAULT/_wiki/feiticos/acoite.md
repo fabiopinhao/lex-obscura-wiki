@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/acoite/","dg-note-properties":{"tipo":"feitico","nome":"Açoite","escola":"Hydro","escala":"Média","aliases":[],"tags":[],"ordem":14,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/acoite.md","permalink":"/wiki/feiticos/acoite/","dg-note-properties":{"tipo":"feitico","nome":"Açoite","escola":"Hydro","escala":"Média","aliases":[],"tags":[],"ordem":14,"generated_by":"strip_sistema"}}
 ---
 
 

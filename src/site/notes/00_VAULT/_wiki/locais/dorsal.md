@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/dorsal/","dg-note-properties":{"tipo":"local","nome":"Dorsal","tipo_local":"Cordilheira","regiao":"Fronteira Reinkard–Veinkard","controlador":"Nenhum (zona de fronteira não-governada)","status_atual":"Ativo (barreira natural)","distancia_morvgrad_leguas":"~500-600 (fronteira oeste)","populacao_aprox":"Residual (tribos orcas em trânsito; sem assentamentos permanentes)","aliases":["cordilheira","fronteira oeste","Montanhas do Oeste"],"tags":[],"ordem":30,"heading_level":3,"parent":"veinkard","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/dorsal.md","permalink":"/wiki/locais/dorsal/","dg-note-properties":{"tipo":"local","nome":"Dorsal","tipo_local":"Cordilheira","regiao":"Fronteira Reinkard–Veinkard","controlador":"Nenhum (zona de fronteira não-governada)","status_atual":"Ativo (barreira natural)","distancia_morvgrad_leguas":"~500-600 (fronteira oeste)","populacao_aprox":"Residual (tribos orcas em trânsito; sem assentamentos permanentes)","aliases":["cordilheira","fronteira oeste","Montanhas do Oeste"],"tags":[],"ordem":30,"heading_level":3,"parent":"veinkard","generated_by":"strip_sistema"}}
 ---
 
 

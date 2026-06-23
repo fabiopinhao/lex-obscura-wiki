@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/alianca-subterranea/","dg-note-properties":{"tipo":"organizacao","nome":"Aliança Subterrânea","tipo_organizacao":"Pacto político","cor_afiliacao":"Preto","lider_atual":"Morvgrad + Ghilanna","sede":"Morvgrad/Ghilanna","status_atual":"Ativo (tenso)","membros_aprox":"—","funcao_principal":"Pacto entre shadars e druls.","aliases":[],"tags":[],"ordem":10,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/alianca_subterranea.md","permalink":"/wiki/organizacoes/alianca-subterranea/","dg-note-properties":{"tipo":"organizacao","nome":"Aliança Subterrânea","tipo_organizacao":"Pacto político","cor_afiliacao":"Preto","lider_atual":"Morvgrad + Ghilanna","sede":"Morvgrad/Ghilanna","status_atual":"Ativo (tenso)","membros_aprox":"—","funcao_principal":"Pacto entre shadars e druls.","aliases":[],"tags":[],"ordem":10,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

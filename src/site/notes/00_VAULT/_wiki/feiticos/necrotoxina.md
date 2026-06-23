@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/necrotoxina/","dg-note-properties":{"tipo":"feitico","nome":"Necrotoxina","escola":"Toxo","escala":"Maior","aliases":[],"tags":[],"ordem":287,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/necrotoxina.md","permalink":"/wiki/feiticos/necrotoxina/","dg-note-properties":{"tipo":"feitico","nome":"Necrotoxina","escola":"Toxo","escala":"Maior","aliases":[],"tags":[],"ordem":287,"generated_by":"strip_sistema"}}
 ---
 
 

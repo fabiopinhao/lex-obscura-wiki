@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/juramento/","dg-note-properties":{"tipo":"feitico","nome":"Juramento","escola":"Nomos","escala":"Maior","aliases":[],"tags":[],"ordem":198,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/juramento.md","permalink":"/wiki/feiticos/juramento/","dg-note-properties":{"tipo":"feitico","nome":"Juramento","escola":"Nomos","escala":"Maior","aliases":[],"tags":[],"ordem":198,"generated_by":"strip_sistema"}}
 ---
 
 

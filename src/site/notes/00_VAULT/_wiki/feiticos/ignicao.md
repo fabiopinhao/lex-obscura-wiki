@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/ignicao/","dg-note-properties":{"tipo":"feitico","nome":"Ignição","escola":"Pyro","escala":"Menor","aliases":[],"tags":[],"ordem":1,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/ignicao.md","permalink":"/wiki/feiticos/ignicao/","dg-note-properties":{"tipo":"feitico","nome":"Ignição","escola":"Pyro","escala":"Menor","aliases":[],"tags":[],"ordem":1,"generated_by":"strip_sistema"}}
 ---
 
 

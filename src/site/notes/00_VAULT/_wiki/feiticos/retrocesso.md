@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/retrocesso/","dg-note-properties":{"tipo":"feitico","nome":"Retrocesso","escola":"Chrono","escala":"Maior","aliases":[],"tags":[],"ordem":259,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/retrocesso.md","permalink":"/wiki/feiticos/retrocesso/","dg-note-properties":{"tipo":"feitico","nome":"Retrocesso","escola":"Chrono","escala":"Maior","aliases":[],"tags":[],"ordem":259,"generated_by":"strip_sistema"}}
 ---
 
 

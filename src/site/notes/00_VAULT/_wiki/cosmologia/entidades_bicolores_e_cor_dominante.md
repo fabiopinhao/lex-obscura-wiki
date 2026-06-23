@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/entidades-bicolores-e-cor-dominante/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Entidades Bicolores e Cor Dominante","aliases":[],"tags":[],"ordem":1,"subtipo":"cosmologia","origem_arquivo":"3.4_cosmologia_LORE.md","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/entidades_bicolores_e_cor_dominante.md","permalink":"/wiki/cosmologia/entidades-bicolores-e-cor-dominante/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Entidades Bicolores e Cor Dominante","aliases":[],"tags":[],"ordem":1,"subtipo":"cosmologia","origem_arquivo":"3.4_cosmologia_LORE.md","generated_by":"strip_sistema"}}
 ---
 
 

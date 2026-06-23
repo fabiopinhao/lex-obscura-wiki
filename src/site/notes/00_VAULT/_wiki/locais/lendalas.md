@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/lendalas/","dg-note-properties":{"tipo":"local","nome":"Lendalas","tipo_local":"Floresta (destruída)","regiao":"Sudoeste de Reinkard","controlador":"Nenhum (destruída)","status_atual":"Destruído","distancia_morvgrad_leguas":"—","populacao_aprox":0,"aliases":[],"tags":[],"ordem":50.2,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/lendalas.md","permalink":"/wiki/locais/lendalas/","dg-note-properties":{"tipo":"local","nome":"Lendalas","tipo_local":"Floresta (destruída)","regiao":"Sudoeste de Reinkard","controlador":"Nenhum (destruída)","status_atual":"Destruído","distancia_morvgrad_leguas":"—","populacao_aprox":0,"aliases":[],"tags":[],"ordem":50.2,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

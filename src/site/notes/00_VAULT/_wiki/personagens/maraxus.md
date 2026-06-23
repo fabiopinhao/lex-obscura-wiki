@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/maraxus/","dg-note-properties":{"tipo":"personagem","nome_atual":"Maraxus","raca":"Humano","sexo":"M","relevancia":"Principal","armas_principais":"Lâmina curva exótica","afiliacao_primaria":"Guarda de Niedellin","aliases":[],"ordem":14,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/maraxus.md","permalink":"/wiki/personagens/maraxus/","dg-note-properties":{"tipo":"personagem","nome_atual":"Maraxus","raca":"Humano","sexo":"M","relevancia":"Principal","armas_principais":"Lâmina curva exótica","afiliacao_primaria":"Guarda de Niedellin","aliases":[],"ordem":14,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

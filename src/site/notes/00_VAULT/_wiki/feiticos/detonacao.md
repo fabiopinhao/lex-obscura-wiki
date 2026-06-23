@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/detonacao/","dg-note-properties":{"tipo":"feitico","nome":"Detonação","escola":"Rupto","escala":"Maior","aliases":[],"tags":[],"ordem":188,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/detonacao.md","permalink":"/wiki/feiticos/detonacao/","dg-note-properties":{"tipo":"feitico","nome":"Detonação","escola":"Rupto","escala":"Maior","aliases":[],"tags":[],"ordem":188,"generated_by":"strip_sistema"}}
 ---
 
 

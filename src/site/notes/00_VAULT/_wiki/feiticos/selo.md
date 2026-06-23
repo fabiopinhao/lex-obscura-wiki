@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/selo/","dg-note-properties":{"tipo":"feitico","nome":"Selo","escola":"Nomos","escala":"Menor","aliases":[],"tags":[],"ordem":191,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/selo.md","permalink":"/wiki/feiticos/selo/","dg-note-properties":{"tipo":"feitico","nome":"Selo","escola":"Nomos","escala":"Menor","aliases":[],"tags":[],"ordem":191,"generated_by":"strip_sistema"}}
 ---
 
 

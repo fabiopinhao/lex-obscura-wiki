@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/linguas/thalassic/","dg-note-properties":{"tipo":"lingua","nome":"Thalassic","tipo_lingua":"Primordial/Cotidiana/Ritual","era":"Idade Esquecida","cor_racial":"Azul","raca_principal":"Undines","funcao":"Língua primordial dos proto-undines; cotidiana undine; comunicação com deuses dos mares","fluencia_comum":"Nativa (undines); ritual (ranidanos afastados)","relacao_magica":"Meditatio Aetheris","registro_magico":"Sim (distinto do cotidiano)","descendente_de":"—","aliases":[],"tags":[],"ordem":6,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/thalassic.md","permalink":"/wiki/linguas/thalassic/","dg-note-properties":{"tipo":"lingua","nome":"Thalassic","tipo_lingua":"Primordial/Cotidiana/Ritual","era":"Idade Esquecida","cor_racial":"Azul","raca_principal":"Undines","funcao":"Língua primordial dos proto-undines; cotidiana undine; comunicação com deuses dos mares","fluencia_comum":"Nativa (undines); ritual (ranidanos afastados)","relacao_magica":"Meditatio Aetheris","registro_magico":"Sim (distinto do cotidiano)","descendente_de":"—","aliases":[],"tags":[],"ordem":6,"generated_by":"strip_sistema"}}
 ---
 
 

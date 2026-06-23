@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/cegueira/","dg-note-properties":{"tipo":"feitico","nome":"Cegueira","escola":"Umbra","escala":"Média","aliases":[],"tags":[],"ordem":64,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/cegueira.md","permalink":"/wiki/feiticos/cegueira/","dg-note-properties":{"tipo":"feitico","nome":"Cegueira","escola":"Umbra","escala":"Média","aliases":[],"tags":[],"ordem":64,"generated_by":"strip_sistema"}}
 ---
 
 

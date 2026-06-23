@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/raizes/","dg-note-properties":{"tipo":"feitico","nome":"Raízes","escola":"Vita","escala":"Média","aliases":[],"tags":[],"ordem":95,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/raizes.md","permalink":"/wiki/feiticos/raizes/","dg-note-properties":{"tipo":"feitico","nome":"Raízes","escola":"Vita","escala":"Média","aliases":[],"tags":[],"ordem":95,"generated_by":"strip_sistema"}}
 ---
 
 

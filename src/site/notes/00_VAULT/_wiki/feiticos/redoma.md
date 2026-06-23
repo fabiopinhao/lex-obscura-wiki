@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/redoma/","dg-note-properties":{"tipo":"feitico","nome":"Redoma","escola":"Aegis","escala":"**Máxima**","aliases":[],"tags":[],"ordem":220,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/redoma.md","permalink":"/wiki/feiticos/redoma/","dg-note-properties":{"tipo":"feitico","nome":"Redoma","escola":"Aegis","escala":"**Máxima**","aliases":[],"tags":[],"ordem":220,"generated_by":"strip_sistema"}}
 ---
 
 

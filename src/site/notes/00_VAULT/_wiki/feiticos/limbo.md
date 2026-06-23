@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/limbo/","dg-note-properties":{"tipo":"feitico","nome":"Limbo","escola":"Spectro","escala":"**Máxima**","aliases":[],"tags":[],"ordem":270,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/limbo.md","permalink":"/wiki/feiticos/limbo/","dg-note-properties":{"tipo":"feitico","nome":"Limbo","escola":"Spectro","escala":"**Máxima**","aliases":[],"tags":[],"ordem":270,"generated_by":"strip_sistema"}}
 ---
 
 

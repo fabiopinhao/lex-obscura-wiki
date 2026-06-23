@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/incendio-primordial/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Incêndio Primordial","subtipo":"cosmogonia_teologia","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":[],"tags":[],"ordem":5,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/incendio_primordial.md","permalink":"/wiki/cosmologia/incendio-primordial/","dg-note-properties":{"tipo":"conceito","lore_target":"3.4","nome":"Incêndio Primordial","subtipo":"cosmogonia_teologia","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":[],"tags":[],"ordem":5,"generated_by":"strip_sistema"}}
 ---
 
 

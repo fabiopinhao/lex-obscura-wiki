@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/thandruk-varn/","dg-note-properties":{"tipo":"local","nome":"Thandruk Varn","tipo_local":"Cidadela (anã)","regiao":"Sudoeste de Reinkard","controlador":"Império Sombrio (custódia)","status_atual":"Ativo (ocupado)","distancia_morvgrad_leguas":"~450","populacao_aprox":"~5.000","aliases":[],"tags":[],"ordem":12,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/thandruk_varn.md","permalink":"/wiki/locais/thandruk-varn/","dg-note-properties":{"tipo":"local","nome":"Thandruk Varn","tipo_local":"Cidadela (anã)","regiao":"Sudoeste de Reinkard","controlador":"Império Sombrio (custódia)","status_atual":"Ativo (ocupado)","distancia_morvgrad_leguas":"~450","populacao_aprox":"~5.000","aliases":[],"tags":[],"ordem":12,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

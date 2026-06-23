@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/afinidade/","dg-note-properties":{"tipo":"feitico","nome":"Afinidade","escola":"Vita","escala":"Menor","aliases":[],"tags":[],"ordem":93,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/afinidade.md","permalink":"/wiki/feiticos/afinidade/","dg-note-properties":{"tipo":"feitico","nome":"Afinidade","escola":"Vita","escala":"Menor","aliases":[],"tags":[],"ordem":93,"generated_by":"strip_sistema"}}
 ---
 
 

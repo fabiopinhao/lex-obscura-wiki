@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/estilhaco/","dg-note-properties":{"tipo":"feitico","nome":"Estilhaço","escola":"Rupto","escala":"Menor","aliases":[],"tags":[],"ordem":182,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/estilhaco.md","permalink":"/wiki/feiticos/estilhaco/","dg-note-properties":{"tipo":"feitico","nome":"Estilhaço","escola":"Rupto","escala":"Menor","aliases":[],"tags":[],"ordem":182,"generated_by":"strip_sistema"}}
 ---
 
 

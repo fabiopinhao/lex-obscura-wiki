@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/remissao/","dg-note-properties":{"tipo":"feitico","nome":"Remissão","escola":"Salvo","escala":"Média","aliases":[],"tags":[],"ordem":116,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/remissao.md","permalink":"/wiki/feiticos/remissao/","dg-note-properties":{"tipo":"feitico","nome":"Remissão","escola":"Salvo","escala":"Média","aliases":[],"tags":[],"ordem":116,"generated_by":"strip_sistema"}}
 ---
 
 

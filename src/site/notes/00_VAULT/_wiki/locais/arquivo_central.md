@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/arquivo-central/","dg-note-properties":{"tipo":"local","nome":"Arquivo Central","tipo_local":"Edifício (arquivo judicial)","regiao":"Xarn'Aroth (Morvgrad)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":68,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/arquivo_central.md","permalink":"/wiki/locais/arquivo-central/","dg-note-properties":{"tipo":"local","nome":"Arquivo Central","tipo_local":"Edifício (arquivo judicial)","regiao":"Xarn'Aroth (Morvgrad)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":68,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

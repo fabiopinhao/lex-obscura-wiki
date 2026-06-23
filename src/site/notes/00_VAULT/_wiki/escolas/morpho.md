@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/morpho/","dg-note-properties":{"tipo":"escola_magia","nome":"Morpho","codigo":"GR","dominio":"Metamorfose e Transformação","cor_primaria":"G","cor_secundaria":"R","tipo_escola":"Híbrida","par_antagonico":"Spectro","categoria_oposicao":"Substância","aliases":[],"ordem":14,"sentimento_chave":"Fascínio por tornar-se outro; a forma como escolha, não como destino.","custo_ontologico_resumo":"Identidade fluida. \"Eu\" é categoria instável; espelhos provocam estranhamento.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/morpho.md","permalink":"/wiki/escolas/morpho/","dg-note-properties":{"tipo":"escola_magia","nome":"Morpho","codigo":"GR","dominio":"Metamorfose e Transformação","cor_primaria":"G","cor_secundaria":"R","tipo_escola":"Híbrida","par_antagonico":"Spectro","categoria_oposicao":"Substância","aliases":[],"ordem":14,"sentimento_chave":"Fascínio por tornar-se outro; a forma como escolha, não como destino.","custo_ontologico_resumo":"Identidade fluida. \"Eu\" é categoria instável; espelhos provocam estranhamento.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

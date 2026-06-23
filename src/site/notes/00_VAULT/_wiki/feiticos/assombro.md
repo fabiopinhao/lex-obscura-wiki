@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/assombro/","dg-note-properties":{"tipo":"feitico","nome":"Assombro","escola":"Phobos","escala":"Maior","aliases":[],"tags":[],"ordem":149,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/assombro.md","permalink":"/wiki/feiticos/assombro/","dg-note-properties":{"tipo":"feitico","nome":"Assombro","escola":"Phobos","escala":"Maior","aliases":[],"tags":[],"ordem":149,"generated_by":"strip_sistema"}}
 ---
 
 

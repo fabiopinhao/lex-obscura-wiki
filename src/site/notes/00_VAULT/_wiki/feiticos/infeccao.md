@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/infeccao/","dg-note-properties":{"tipo":"feitico","nome":"Infecção","escola":"Patho","escala":"Menor","aliases":[],"tags":[],"ordem":102,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/infeccao.md","permalink":"/wiki/feiticos/infeccao/","dg-note-properties":{"tipo":"feitico","nome":"Infecção","escola":"Patho","escala":"Menor","aliases":[],"tags":[],"ordem":102,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/vinculum-daemonis/","dg-note-properties":{"tipo":"sistema_acesso","nome":"Vinculum Daemonis","cor":"Vermelho (R)","nome_latino":"Vinculum Daemonis","entidade":"Demônios","tipo_acesso":"Vínculo de Força","dificuldade":"Baixa","estabilidade":"Baixa","custo_principal":"Violência constante, atos destrutivos","custo_recai_sobre":["corpo","terceiros"],"pode_trair":"Sim","posicao_doutrinaria_imperial":"proscrito","termo_canalizacao":"Infusão","aliases":[],"ordem":2,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/vinculum_daemonis.md","permalink":"/wiki/magia/vinculum-daemonis/","dg-note-properties":{"tipo":"sistema_acesso","nome":"Vinculum Daemonis","cor":"Vermelho (R)","nome_latino":"Vinculum Daemonis","entidade":"Demônios","tipo_acesso":"Vínculo de Força","dificuldade":"Baixa","estabilidade":"Baixa","custo_principal":"Violência constante, atos destrutivos","custo_recai_sobre":["corpo","terceiros"],"pode_trair":"Sim","posicao_doutrinaria_imperial":"proscrito","termo_canalizacao":"Infusão","aliases":[],"ordem":2,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

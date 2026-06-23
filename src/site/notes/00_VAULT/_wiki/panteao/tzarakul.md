@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/panteao/tzarakul/","dg-note-properties":{"tipo":"divindade","nome":"Tzarakul","forma_divina":"Autarca Calcinante","epiteto":"Arquidemônio","epiteto_en-US":"Archdemon","categoria":"Demônio","cores":"RR","cor_dominante":"R","escola_1":"rupto","escola_2":"phobos","status":"Ativo","relevancia":"Livro I","aliases":[],"ordem":14,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/tzarakul.md","permalink":"/wiki/panteao/tzarakul/","dg-note-properties":{"tipo":"divindade","nome":"Tzarakul","forma_divina":"Autarca Calcinante","epiteto":"Arquidemônio","epiteto_en-US":"Archdemon","categoria":"Demônio","cores":"RR","cor_dominante":"R","escola_1":"rupto","escola_2":"phobos","status":"Ativo","relevancia":"Livro I","aliases":[],"ordem":14,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

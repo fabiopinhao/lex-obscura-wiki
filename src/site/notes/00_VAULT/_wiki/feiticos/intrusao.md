@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/intrusao/","dg-note-properties":{"tipo":"feitico","nome":"Intrusão","escola":"Psycho","escala":"Média","aliases":[],"tags":[],"ordem":134,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/intrusao.md","permalink":"/wiki/feiticos/intrusao/","dg-note-properties":{"tipo":"feitico","nome":"Intrusão","escola":"Psycho","escala":"Média","aliases":[],"tags":[],"ordem":134,"generated_by":"strip_sistema"}}
 ---
 
 

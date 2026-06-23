@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/cintila/","dg-note-properties":{"tipo":"feitico","nome":"Cintila","escola":"Plasma","escala":"Menor","aliases":[],"tags":[],"ordem":32,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/cintila.md","permalink":"/wiki/feiticos/cintila/","dg-note-properties":{"tipo":"feitico","nome":"Cintila","escola":"Plasma","escala":"Menor","aliases":[],"tags":[],"ordem":32,"generated_by":"strip_sistema"}}
 ---
 
 

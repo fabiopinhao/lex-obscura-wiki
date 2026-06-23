@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/cosmologia/cor-arcana/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Cor Arcana","subtipo":"cosmologia","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Cores Arcanas"],"ordem":2,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/cor_arcana.md","permalink":"/wiki/cosmologia/cor-arcana/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Cor Arcana","subtipo":"cosmologia","origem_arquivo":"3.4_cosmologia_LORE.md","aliases":["Cores Arcanas"],"ordem":2,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/linguas/titanico/","dg-note-properties":{"tipo":"lingua","nome":"Titânico","tipo_lingua":"Primordial","era":"Idade Esquecida","cor_racial":"Verde","raca_principal":"Titãs","funcao":"Língua primordial dos titãs","fluencia_comum":"Extinta","relacao_magica":"Symbiosis Naturae","registro_magico":"Unificado","descendente_de":"—","aliases":[],"tags":[],"ordem":3,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/titanico.md","permalink":"/wiki/linguas/titanico/","dg-note-properties":{"tipo":"lingua","nome":"Titânico","tipo_lingua":"Primordial","era":"Idade Esquecida","cor_racial":"Verde","raca_principal":"Titãs","funcao":"Língua primordial dos titãs","fluencia_comum":"Extinta","relacao_magica":"Symbiosis Naturae","registro_magico":"Unificado","descendente_de":"—","aliases":[],"tags":[],"ordem":3,"generated_by":"strip_sistema"}}
 ---
 
 

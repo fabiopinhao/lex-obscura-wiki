@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/aplicacao-narrativa/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Aplicação Narrativa","subtipo":"metanarrativa","origem_arquivo":"3.14_custos_ontologicos_LORE.md","aliases":[],"ordem":7,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/aplicacao_narrativa.md","permalink":"/wiki/magia/aplicacao-narrativa/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Aplicação Narrativa","subtipo":"metanarrativa","origem_arquivo":"3.14_custos_ontologicos_LORE.md","aliases":[],"ordem":7,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/atracao/","dg-note-properties":{"tipo":"feitico","nome":"Atração","escola":"Cosmo","escala":"Menor","aliases":[],"tags":[],"ordem":222,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/atracao.md","permalink":"/wiki/feiticos/atracao/","dg-note-properties":{"tipo":"feitico","nome":"Atração","escola":"Cosmo","escala":"Menor","aliases":[],"tags":[],"ordem":222,"generated_by":"strip_sistema"}}
 ---
 
 

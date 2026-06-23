@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/dhar-morveth/","dg-note-properties":{"tipo":"local","nome":"Dhar-Morveth","tipo_local":"Planalto","regiao":"Norte de Reinkard","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"0 (Morvgrad está aqui)","populacao_aprox":"500.000+ (incluindo Morvgrad)","aliases":["Planalto Shadar"],"ordem":50.1,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/dhar-morveth.md","permalink":"/wiki/locais/dhar-morveth/","dg-note-properties":{"tipo":"local","nome":"Dhar-Morveth","tipo_local":"Planalto","regiao":"Norte de Reinkard","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"0 (Morvgrad está aqui)","populacao_aprox":"500.000+ (incluindo Morvgrad)","aliases":["Planalto Shadar"],"ordem":50.1,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/voragem/","dg-note-properties":{"tipo":"feitico","nome":"Voragem","escola":"Pyro","escala":"Maior","aliases":[],"tags":[],"ordem":8,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/voragem.md","permalink":"/wiki/feiticos/voragem/","dg-note-properties":{"tipo":"feitico","nome":"Voragem","escola":"Pyro","escala":"Maior","aliases":[],"tags":[],"ordem":8,"generated_by":"strip_sistema"}}
 ---
 
 

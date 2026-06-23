@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/culto-de-hazburim/","dg-note-properties":{"tipo":"organizacao","nome":"Culto de Hazburim","tipo_organizacao":"Culto demoníaco","cor_afiliacao":"Vermelho","lider_atual":"Desconhecido","sede":"Subterrâneo","status_atual":"Ativo (oculto)","membros_aprox":"Desconhecido","funcao_principal":"Culto demoníaco com altar sob capela de Niedellin.","aliases":[],"tags":[],"ordem":20,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/culto_de_hazburim.md","permalink":"/wiki/organizacoes/culto-de-hazburim/","dg-note-properties":{"tipo":"organizacao","nome":"Culto de Hazburim","tipo_organizacao":"Culto demoníaco","cor_afiliacao":"Vermelho","lider_atual":"Desconhecido","sede":"Subterrâneo","status_atual":"Ativo (oculto)","membros_aprox":"Desconhecido","funcao_principal":"Culto demoníaco com altar sob capela de Niedellin.","aliases":[],"tags":[],"ordem":20,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

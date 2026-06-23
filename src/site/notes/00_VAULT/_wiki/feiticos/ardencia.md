@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/ardencia/","dg-note-properties":{"tipo":"feitico","nome":"Ardência","escola":"Pyro","escala":"Menor","aliases":[],"tags":[],"ordem":2,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/ardencia.md","permalink":"/wiki/feiticos/ardencia/","dg-note-properties":{"tipo":"feitico","nome":"Ardência","escola":"Pyro","escala":"Menor","aliases":[],"tags":[],"ordem":2,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/aero/","dg-note-properties":{"tipo":"escola_magia","nome":"Aero","codigo":"WR","dominio":"Vento e Tempestade","cor_primaria":"W","cor_secundaria":"R","tipo_escola":"Híbrida","par_antagonico":"Geo","categoria_oposicao":"Elemental","aliases":[],"ordem":16,"sentimento_chave":"Necessidade de espaço aberto; enraizamento como sufocamento.","custo_ontologico_resumo":"Claustrofobia existencial. Compromissos são prisões; liberdade como necessidade patológica.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/aero.md","permalink":"/wiki/escolas/aero/","dg-note-properties":{"tipo":"escola_magia","nome":"Aero","codigo":"WR","dominio":"Vento e Tempestade","cor_primaria":"W","cor_secundaria":"R","tipo_escola":"Híbrida","par_antagonico":"Geo","categoria_oposicao":"Elemental","aliases":[],"ordem":16,"sentimento_chave":"Necessidade de espaço aberto; enraizamento como sufocamento.","custo_ontologico_resumo":"Claustrofobia existencial. Compromissos são prisões; liberdade como necessidade patológica.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

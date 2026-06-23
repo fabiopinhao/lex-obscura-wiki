@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/quimera/","dg-note-properties":{"tipo":"feitico","nome":"Quimera","escola":"Morpho","escala":"**Máxima**","aliases":[],"tags":[],"ordem":280,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/quimera.md","permalink":"/wiki/feiticos/quimera/","dg-note-properties":{"tipo":"feitico","nome":"Quimera","escola":"Morpho","escala":"**Máxima**","aliases":[],"tags":[],"ordem":280,"generated_by":"strip_sistema"}}
 ---
 
 

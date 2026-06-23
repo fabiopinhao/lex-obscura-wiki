@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/fulgor/","dg-note-properties":{"tipo":"feitico","nome":"Fulgor","escola":"Helio","escala":"Média","aliases":[],"tags":[],"ordem":74,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/fulgor.md","permalink":"/wiki/feiticos/fulgor/","dg-note-properties":{"tipo":"feitico","nome":"Fulgor","escola":"Helio","escala":"Média","aliases":[],"tags":[],"ordem":74,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/circulos-de-khargoth/","dg-note-properties":{"tipo":"organizacao","nome":"Círculos de Khargoth","tipo_organizacao":"Academia arcana","cor_afiliacao":"Preto","lider_atual":"Desconhecido","sede":"Morvgrad (Torre de Khargoth)","status_atual":"Ativo","membros_aprox":"~200","funcao_principal":"Sistema hierárquico de conhecimento arcano.","aliases":[],"tags":[],"ordem":14,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/circulos_de_khargoth.md","permalink":"/wiki/organizacoes/circulos-de-khargoth/","dg-note-properties":{"tipo":"organizacao","nome":"Círculos de Khargoth","tipo_organizacao":"Academia arcana","cor_afiliacao":"Preto","lider_atual":"Desconhecido","sede":"Morvgrad (Torre de Khargoth)","status_atual":"Ativo","membros_aprox":"~200","funcao_principal":"Sistema hierárquico de conhecimento arcano.","aliases":[],"tags":[],"ordem":14,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

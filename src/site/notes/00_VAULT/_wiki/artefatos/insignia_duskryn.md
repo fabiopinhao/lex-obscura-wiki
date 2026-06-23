@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/insignia-duskryn/","dg-note-properties":{"tipo":"artefato","nome":"Insígnia de Duskryn","tipo_artefato":"Anel","categoria":"Político","portador_atual":"—","localizacao_atual":"Escondida (fenda em Mor'Draconis)","status_atual":"Ativo","origem":"Casa Duskryn","vinculacao_entregue_em":"—","aliases":["Anel de Duskryn","Anel de Matriarca"],"ordem":null,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/insignia_duskryn.md","permalink":"/wiki/artefatos/insignia-duskryn/","dg-note-properties":{"tipo":"artefato","nome":"Insígnia de Duskryn","tipo_artefato":"Anel","categoria":"Político","portador_atual":"—","localizacao_atual":"Escondida (fenda em Mor'Draconis)","status_atual":"Ativo","origem":"Casa Duskryn","vinculacao_entregue_em":"—","aliases":["Anel de Duskryn","Anel de Matriarca"],"ordem":null,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

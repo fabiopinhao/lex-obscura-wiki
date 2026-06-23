@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/infestacao/","dg-note-properties":{"tipo":"feitico","nome":"Infestação","escola":"Patho","escala":"Maior","aliases":[],"tags":[],"ordem":108,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/infestacao.md","permalink":"/wiki/feiticos/infestacao/","dg-note-properties":{"tipo":"feitico","nome":"Infestação","escola":"Patho","escala":"Maior","aliases":[],"tags":[],"ordem":108,"generated_by":"strip_sistema"}}
 ---
 
 

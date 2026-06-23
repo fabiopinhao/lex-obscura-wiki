@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/presa/","dg-note-properties":{"tipo":"feitico","nome":"Presa","escola":"Belli","escala":"Média","aliases":[],"tags":[],"ordem":204,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/presa.md","permalink":"/wiki/feiticos/presa/","dg-note-properties":{"tipo":"feitico","nome":"Presa","escola":"Belli","escala":"Média","aliases":[],"tags":[],"ordem":204,"generated_by":"strip_sistema"}}
 ---
 
 

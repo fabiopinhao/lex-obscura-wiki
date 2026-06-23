@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/muralha/","dg-note-properties":{"tipo":"feitico","nome":"Muralha","escola":"Geo","escala":"Média","aliases":[],"tags":[],"ordem":55,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/muralha.md","permalink":"/wiki/feiticos/muralha/","dg-note-properties":{"tipo":"feitico","nome":"Muralha","escola":"Geo","escala":"Média","aliases":[],"tags":[],"ordem":55,"generated_by":"strip_sistema"}}
 ---
 
 

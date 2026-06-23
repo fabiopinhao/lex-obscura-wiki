@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/oculario/","dg-note-properties":{"tipo":"local","nome":"Oculário","tipo_local":"Sala (cerimonial)","regiao":"Mor'Severith (topo)","controlador":"Arothistar","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"<10","aliases":[],"tags":[],"ordem":56,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/oculario.md","permalink":"/wiki/locais/oculario/","dg-note-properties":{"tipo":"local","nome":"Oculário","tipo_local":"Sala (cerimonial)","regiao":"Mor'Severith (topo)","controlador":"Arothistar","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"<10","aliases":[],"tags":[],"ordem":56,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

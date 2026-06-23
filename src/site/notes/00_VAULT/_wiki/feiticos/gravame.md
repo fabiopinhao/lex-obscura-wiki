@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/gravame/","dg-note-properties":{"tipo":"feitico","nome":"Gravame","escola":"Cosmo","escala":"Média","aliases":[],"tags":[],"ordem":224,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/gravame.md","permalink":"/wiki/feiticos/gravame/","dg-note-properties":{"tipo":"feitico","nome":"Gravame","escola":"Cosmo","escala":"Média","aliases":[],"tags":[],"ordem":224,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/psycho/","dg-note-properties":{"tipo":"escola_magia","nome":"Psycho","codigo":"RU","dominio":"Mente e Psique","cor_primaria":"R","cor_secundaria":"U","tipo_escola":"Híbrida","par_antagonico":"Hypno","categoria_oposicao":"Mental","aliases":[],"ordem":17,"sentimento_chave":"Impulso de entrar; a mente alheia como porta que pode, e deve, ser aberta.","custo_ontologico_resumo":"Fronteiras mentais porosas. Pensamentos próprios confundem-se com captados.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/psycho.md","permalink":"/wiki/escolas/psycho/","dg-note-properties":{"tipo":"escola_magia","nome":"Psycho","codigo":"RU","dominio":"Mente e Psique","cor_primaria":"R","cor_secundaria":"U","tipo_escola":"Híbrida","par_antagonico":"Hypno","categoria_oposicao":"Mental","aliases":[],"ordem":17,"sentimento_chave":"Impulso de entrar; a mente alheia como porta que pode, e deve, ser aberta.","custo_ontologico_resumo":"Fronteiras mentais porosas. Pensamentos próprios confundem-se com captados.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

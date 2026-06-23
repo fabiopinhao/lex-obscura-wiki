@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/nausea/","dg-note-properties":{"tipo":"feitico","nome":"Náusea","escola":"Patho","escala":"Menor","aliases":[],"tags":[],"ordem":101,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/nausea.md","permalink":"/wiki/feiticos/nausea/","dg-note-properties":{"tipo":"feitico","nome":"Náusea","escola":"Patho","escala":"Menor","aliases":[],"tags":[],"ordem":101,"generated_by":"strip_sistema"}}
 ---
 
 

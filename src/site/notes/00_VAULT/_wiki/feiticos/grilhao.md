@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/grilhao/","dg-note-properties":{"tipo":"feitico","nome":"Grilhão","escola":"Nomos","escala":"Média","aliases":[],"tags":[],"ordem":195,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/grilhao.md","permalink":"/wiki/feiticos/grilhao/","dg-note-properties":{"tipo":"feitico","nome":"Grilhão","escola":"Nomos","escala":"Média","aliases":[],"tags":[],"ordem":195,"generated_by":"strip_sistema"}}
 ---
 
 

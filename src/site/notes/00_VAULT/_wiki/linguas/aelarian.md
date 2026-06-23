@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/linguas/aelarian/","dg-note-properties":{"tipo":"lingua","nome":"Aelarian","tipo_lingua":"Cotidiana/Ritual","era":"Primeira Era","cor_racial":"Branco","raca_principal":"Elarinos","funcao":"Língua cotidiana elarina + orações e bênçãos angelicais","fluencia_comum":"Nativa (elarinos); ritual (álvarars paladinos)","relacao_magica":"Devotio Sancta","registro_magico":"Sim (distinto do cotidiano)","descendente_de":"Luminar","aliases":[],"tags":[],"ordem":11,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/aelarian.md","permalink":"/wiki/linguas/aelarian/","dg-note-properties":{"tipo":"lingua","nome":"Aelarian","tipo_lingua":"Cotidiana/Ritual","era":"Primeira Era","cor_racial":"Branco","raca_principal":"Elarinos","funcao":"Língua cotidiana elarina + orações e bênçãos angelicais","fluencia_comum":"Nativa (elarinos); ritual (álvarars paladinos)","relacao_magica":"Devotio Sancta","registro_magico":"Sim (distinto do cotidiano)","descendente_de":"Luminar","aliases":[],"tags":[],"ordem":11,"generated_by":"strip_sistema"}}
 ---
 
 

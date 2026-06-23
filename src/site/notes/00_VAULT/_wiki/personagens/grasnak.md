@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/grasnak/","dg-note-properties":{"tipo":"personagem","nome_atual":"Grasnak","raca":"Orc","sexo":"M","relevancia":"Terciário","status_atual":"Morto","localizacao_atual":"—","armas_principais":"—","afiliacao_primaria":"—","aliases":["Cantos de Grasnak"],"ordem":73,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/grasnak.md","permalink":"/wiki/personagens/grasnak/","dg-note-properties":{"tipo":"personagem","nome_atual":"Grasnak","raca":"Orc","sexo":"M","relevancia":"Terciário","status_atual":"Morto","localizacao_atual":"—","armas_principais":"—","afiliacao_primaria":"—","aliases":["Cantos de Grasnak"],"ordem":73,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

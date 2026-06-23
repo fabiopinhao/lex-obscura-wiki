@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/erupcao/","dg-note-properties":{"tipo":"feitico","nome":"Erupção","escola":"Plasma","escala":"**Máxima**","aliases":[],"tags":[],"ordem":40,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/erupcao.md","permalink":"/wiki/feiticos/erupcao/","dg-note-properties":{"tipo":"feitico","nome":"Erupção","escola":"Plasma","escala":"**Máxima**","aliases":[],"tags":[],"ordem":40,"generated_by":"strip_sistema"}}
 ---
 
 

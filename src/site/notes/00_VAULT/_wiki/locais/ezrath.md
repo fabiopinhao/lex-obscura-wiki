@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/locais/ezrath/","dg-note-properties":{"tipo":"local","nome":"Ezrath","tipo_local":"Distrito (comercial nobre)","regiao":"Morvgrad","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":23,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/ezrath.md","permalink":"/wiki/locais/ezrath/","dg-note-properties":{"tipo":"local","nome":"Ezrath","tipo_local":"Distrito (comercial nobre)","regiao":"Morvgrad","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"Desconhecida","aliases":[],"tags":[],"ordem":23,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/oculus-maior/","dg-note-properties":{"tipo":"artefato","nome":"Oculus Maior","tipo_artefato":"Esfera de ônix (ampliada)","categoria":"Comunicação","portador_atual":"Arothistar","localizacao_atual":"Oculário de Mor'Severith","status_atual":"Ativo","origem":"Culto Sombrio","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":13,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/oculus_maior.md","permalink":"/wiki/artefatos/oculus-maior/","dg-note-properties":{"tipo":"artefato","nome":"Oculus Maior","tipo_artefato":"Esfera de ônix (ampliada)","categoria":"Comunicação","portador_atual":"Arothistar","localizacao_atual":"Oculário de Mor'Severith","status_atual":"Ativo","origem":"Culto Sombrio","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":13,"generated_by":"strip_sistema"}}
 ---
 
 

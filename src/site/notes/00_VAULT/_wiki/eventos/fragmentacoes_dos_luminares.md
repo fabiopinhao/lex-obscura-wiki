@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/fragmentacoes-dos-luminares/","dg-note-properties":{"tipo":"evento","nome":"Fragmentações dos Luminares (Origem de Druls, Orcs e Undines)","id":"E-0001","era":"Idade_Esquecida","ano_relativo":"—","tipo_evento":"cataclismo","impacto":"critico","marco_yaml":"—","aliases":[],"tags":[],"ordem":1,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/fragmentacoes_dos_luminares.md","permalink":"/wiki/eventos/fragmentacoes-dos-luminares/","dg-note-properties":{"tipo":"evento","nome":"Fragmentações dos Luminares (Origem de Druls, Orcs e Undines)","id":"E-0001","era":"Idade_Esquecida","ano_relativo":"—","tipo_evento":"cataclismo","impacto":"critico","marco_yaml":"—","aliases":[],"tags":[],"ordem":1,"generated_by":"strip_sistema"}}
 ---
 
 

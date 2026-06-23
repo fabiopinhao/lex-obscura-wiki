@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/coagulo/","dg-note-properties":{"tipo":"feitico","nome":"Coágulo","escola":"Umbra","escala":"Média","aliases":[],"tags":[],"ordem":65,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/coagulo.md","permalink":"/wiki/feiticos/coagulo/","dg-note-properties":{"tipo":"feitico","nome":"Coágulo","escola":"Umbra","escala":"Média","aliases":[],"tags":[],"ordem":65,"generated_by":"strip_sistema"}}
 ---
 
 

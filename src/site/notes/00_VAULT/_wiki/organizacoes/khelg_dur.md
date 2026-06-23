@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/khelg-dur/","dg-note-properties":{"tipo":"organizacao","nome":"Khelg'Dur","tipo_organizacao":"Casa comercial","cor_afiliacao":"Preto","lider_atual":"Coletivo karashim","sede":"Vor-Ghol","status_atual":"Ativo","membros_aprox":"Dezenas","funcao_principal":"Caravanas de isópodes. Transporte em Vor-Ghol.","aliases":[],"tags":[],"ordem":9,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/khelg_dur.md","permalink":"/wiki/organizacoes/khelg-dur/","dg-note-properties":{"tipo":"organizacao","nome":"Khelg'Dur","tipo_organizacao":"Casa comercial","cor_afiliacao":"Preto","lider_atual":"Coletivo karashim","sede":"Vor-Ghol","status_atual":"Ativo","membros_aprox":"Dezenas","funcao_principal":"Caravanas de isópodes. Transporte em Vor-Ghol.","aliases":[],"tags":[],"ordem":9,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

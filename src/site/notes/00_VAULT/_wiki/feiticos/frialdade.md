@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/frialdade/","dg-note-properties":{"tipo":"feitico","nome":"Frialdade","escola":"Cryo","escala":"Maior","aliases":[],"tags":[],"ordem":27,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/frialdade.md","permalink":"/wiki/feiticos/frialdade/","dg-note-properties":{"tipo":"feitico","nome":"Frialdade","escola":"Cryo","escala":"Maior","aliases":[],"tags":[],"ordem":27,"generated_by":"strip_sistema"}}
 ---
 
 

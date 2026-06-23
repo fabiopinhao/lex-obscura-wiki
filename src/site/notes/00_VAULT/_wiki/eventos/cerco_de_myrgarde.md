@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/cerco-de-myrgarde/","dg-note-properties":{"tipo":"evento","nome":"Cerco de Myrgarde","id":"E-0040","era":"Guerras_Reinkardicas","ano_relativo":-33,"tipo_evento":"guerra","impacto":"alto","marco_yaml":"—","aliases":["Cerco da Capital Humana","Último Cerco de Myrgarde"],"tags":[],"ordem":40,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/cerco_de_myrgarde.md","permalink":"/wiki/eventos/cerco-de-myrgarde/","dg-note-properties":{"tipo":"evento","nome":"Cerco de Myrgarde","id":"E-0040","era":"Guerras_Reinkardicas","ano_relativo":-33,"tipo_evento":"guerra","impacto":"alto","marco_yaml":"—","aliases":["Cerco da Capital Humana","Último Cerco de Myrgarde"],"tags":[],"ordem":40,"generated_by":"strip_sistema"}}
 ---
 
 

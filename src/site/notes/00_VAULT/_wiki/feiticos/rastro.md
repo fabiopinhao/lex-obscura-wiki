@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/rastro/","dg-note-properties":{"tipo":"feitico","nome":"Rastro","escola":"Chrono","escala":"Menor","aliases":[],"tags":[],"ordem":252,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/rastro.md","permalink":"/wiki/feiticos/rastro/","dg-note-properties":{"tipo":"feitico","nome":"Rastro","escola":"Chrono","escala":"Menor","aliases":[],"tags":[],"ordem":252,"generated_by":"strip_sistema"}}
 ---
 
 

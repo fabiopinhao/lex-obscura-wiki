@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/casa-morghast/","dg-note-properties":{"tipo":"organizacao","nome":"Casa Morghast","tipo_organizacao":"Casa Matriarcal (menor)","cor_afiliacao":"Preto","lider_atual":"Desconhecido","sede":"Ghilanna","status_atual":"Ativo","membros_aprox":"Desconhecido","funcao_principal":"Guarda dos Portões de Ghilanna.","aliases":[],"tags":[],"ordem":12,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/casa_morghast.md","permalink":"/wiki/organizacoes/casa-morghast/","dg-note-properties":{"tipo":"organizacao","nome":"Casa Morghast","tipo_organizacao":"Casa Matriarcal (menor)","cor_afiliacao":"Preto","lider_atual":"Desconhecido","sede":"Ghilanna","status_atual":"Ativo","membros_aprox":"Desconhecido","funcao_principal":"Guarda dos Portões de Ghilanna.","aliases":[],"tags":[],"ordem":12,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

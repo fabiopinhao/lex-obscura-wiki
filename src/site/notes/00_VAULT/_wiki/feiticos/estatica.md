@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/estatica/","dg-note-properties":{"tipo":"feitico","nome":"Estática","escola":"Electro","escala":"Menor","aliases":[],"tags":[],"ordem":243,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/estatica.md","permalink":"/wiki/feiticos/estatica/","dg-note-properties":{"tipo":"feitico","nome":"Estática","escola":"Electro","escala":"Menor","aliases":[],"tags":[],"ordem":243,"generated_by":"strip_sistema"}}
 ---
 
 

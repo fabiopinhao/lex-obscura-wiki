@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/eventos/formalizacao-militar-dos-orcs/","dg-note-properties":{"tipo":"evento","nome":"Formalização Militar dos Orcs","id":"E-0025","era":"Guerras_Reinkardicas","ano_relativo":"—","tipo_evento":"cenario","impacto":"alto","marco_yaml":"—","aliases":["Domesticação dos Goblinoides","Ponto de Inflexão Militar"],"tags":[],"ordem":25,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/formalizacao_militar_dos_orcs.md","permalink":"/wiki/eventos/formalizacao-militar-dos-orcs/","dg-note-properties":{"tipo":"evento","nome":"Formalização Militar dos Orcs","id":"E-0025","era":"Guerras_Reinkardicas","ano_relativo":"—","tipo_evento":"cenario","impacto":"alto","marco_yaml":"—","aliases":["Domesticação dos Goblinoides","Ponto de Inflexão Militar"],"tags":[],"ordem":25,"generated_by":"strip_sistema"}}
 ---
 
 

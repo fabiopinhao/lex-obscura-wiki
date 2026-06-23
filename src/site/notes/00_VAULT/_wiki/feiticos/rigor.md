@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/rigor/","dg-note-properties":{"tipo":"feitico","nome":"Rigor","escola":"Necro","escala":"Menor","aliases":[],"tags":[],"ordem":81,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/rigor.md","permalink":"/wiki/feiticos/rigor/","dg-note-properties":{"tipo":"feitico","nome":"Rigor","escola":"Necro","escala":"Menor","aliases":[],"tags":[],"ordem":81,"generated_by":"strip_sistema"}}
 ---
 
 

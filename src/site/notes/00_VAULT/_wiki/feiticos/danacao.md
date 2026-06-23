@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/danacao/","dg-note-properties":{"tipo":"feitico","nome":"Danação","escola":"Anatho","escala":"Maior","aliases":[],"tags":[],"ordem":169,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/danacao.md","permalink":"/wiki/feiticos/danacao/","dg-note-properties":{"tipo":"feitico","nome":"Danação","escola":"Anatho","escala":"Maior","aliases":[],"tags":[],"ordem":169,"generated_by":"strip_sistema"}}
 ---
 
 

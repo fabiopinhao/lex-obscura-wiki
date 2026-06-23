@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/artefatos/capacete-de-maraxus/","dg-note-properties":{"tipo":"artefato","nome":"Capacete de Maraxus","tipo_artefato":"Capacete (bronze e cobre)","categoria":"Pessoal","portador_atual":"Maraxus (aprisionado)","localizacao_atual":"Ghol'Drokh","status_atual":"Inativo (removido)","origem":"Dromos Draconis (arenas extintas)","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":7,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/capacete_de_maraxus.md","permalink":"/wiki/artefatos/capacete-de-maraxus/","dg-note-properties":{"tipo":"artefato","nome":"Capacete de Maraxus","tipo_artefato":"Capacete (bronze e cobre)","categoria":"Pessoal","portador_atual":"Maraxus (aprisionado)","localizacao_atual":"Ghol'Drokh","status_atual":"Inativo (removido)","origem":"Dromos Draconis (arenas extintas)","vinculacao_entregue_em":"—","aliases":[],"tags":[],"ordem":7,"generated_by":"strip_sistema"}}
 ---
 
 

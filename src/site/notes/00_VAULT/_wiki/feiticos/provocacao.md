@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/provocacao/","dg-note-properties":{"tipo":"feitico","nome":"Provocação","escola":"Belli","escala":"Menor","aliases":[],"tags":[],"ordem":201,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/provocacao.md","permalink":"/wiki/feiticos/provocacao/","dg-note-properties":{"tipo":"feitico","nome":"Provocação","escola":"Belli","escala":"Menor","aliases":[],"tags":[],"ordem":201,"generated_by":"strip_sistema"}}
 ---
 
 

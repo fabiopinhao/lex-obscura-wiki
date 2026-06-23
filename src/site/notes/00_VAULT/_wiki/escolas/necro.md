@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/escolas/necro/","dg-note-properties":{"tipo":"escola_magia","nome":"Necro","codigo":"BB","dominio":"Morte e Reanimação","cor_primaria":"B","cor_secundaria":"B","tipo_escola":"Pura","par_antagonico":"Vita","categoria_oposicao":"Vital","aliases":[],"ordem":2,"sentimento_chave":"Aceitação fria da morte como estado natural; equanimidade diante do que cessa.","custo_ontologico_resumo":"Dessensibilização à morte. Cadáveres são material, não pessoas; morte própria irrelevante.","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/necro.md","permalink":"/wiki/escolas/necro/","dg-note-properties":{"tipo":"escola_magia","nome":"Necro","codigo":"BB","dominio":"Morte e Reanimação","cor_primaria":"B","cor_secundaria":"B","tipo_escola":"Pura","par_antagonico":"Vita","categoria_oposicao":"Vital","aliases":[],"ordem":2,"sentimento_chave":"Aceitação fria da morte como estado natural; equanimidade diante do que cessa.","custo_ontologico_resumo":"Dessensibilização à morte. Cadáveres são material, não pessoas; morte própria irrelevante.","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

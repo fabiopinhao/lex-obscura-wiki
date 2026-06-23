@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/romper/","dg-note-properties":{"tipo":"feitico","nome":"Romper","escola":"Rupto","escala":"Menor","aliases":[],"tags":[],"ordem":183,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/romper.md","permalink":"/wiki/feiticos/romper/","dg-note-properties":{"tipo":"feitico","nome":"Romper","escola":"Rupto","escala":"Menor","aliases":[],"tags":[],"ordem":183,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/revenant/","dg-note-properties":{"tipo":"feitico","nome":"Revenant","escola":"Necro","escala":"Maior","aliases":[],"tags":[],"ordem":87,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/revenant.md","permalink":"/wiki/feiticos/revenant/","dg-note-properties":{"tipo":"feitico","nome":"Revenant","escola":"Necro","escala":"Maior","aliases":[],"tags":[],"ordem":87,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/pares-antagonicos/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Pares Antagônicos","subtipo":"mecanica","origem_arquivo":"3.16_notas_sinergias_LORE.md","aliases":[],"ordem":1,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/pares_antagonicos.md","permalink":"/wiki/magia/pares-antagonicos/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Pares Antagônicos","subtipo":"mecanica","origem_arquivo":"3.16_notas_sinergias_LORE.md","aliases":[],"ordem":1,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

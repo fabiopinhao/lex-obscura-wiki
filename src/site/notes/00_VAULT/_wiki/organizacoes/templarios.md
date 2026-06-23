@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/templarios/","dg-note-properties":{"tipo":"organizacao","nome":"Templários","tipo_organizacao":"Ordem militar-religiosa (extinta como força militar; remanescente sacerdotal)","cor_afiliacao":"Preto","lider_atual":"Cada templo tem um ou mais líderes templários","sede":"Morvgrad","status_atual":"Ativo (enfraquecido)","membros_aprox":"50+","funcao_principal":"Antiga ordem de guerreiros sagrados; hoje remanescente sacerdotal sem braço marcial.","aliases":[],"tags":[],"ordem":5,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/templarios.md","permalink":"/wiki/organizacoes/templarios/","dg-note-properties":{"tipo":"organizacao","nome":"Templários","tipo_organizacao":"Ordem militar-religiosa (extinta como força militar; remanescente sacerdotal)","cor_afiliacao":"Preto","lider_atual":"Cada templo tem um ou mais líderes templários","sede":"Morvgrad","status_atual":"Ativo (enfraquecido)","membros_aprox":"50+","funcao_principal":"Antiga ordem de guerreiros sagrados; hoje remanescente sacerdotal sem braço marcial.","aliases":[],"tags":[],"ordem":5,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
 ---
 
 

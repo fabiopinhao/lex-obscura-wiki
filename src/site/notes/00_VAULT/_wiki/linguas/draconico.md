@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/linguas/draconico/","dg-note-properties":{"tipo":"lingua","nome":"Dracônico","tipo_lingua":"Primordial/Cotidiana/Ritual","era":"Idade Esquecida","cor_racial":"Vermelho","raca_principal":"Saurianos","funcao":"Língua primordial dos dragões; cotidiana sauriana; mágica dracônica","fluencia_comum":"Nativa (saurianos); ritual (varnakianos xamãs)","relacao_magica":"Vinculum Daemonis","registro_magico":"Sim (distinto do cotidiano)","descendente_de":"—","aliases":[],"tags":[],"ordem":4,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/draconico.md","permalink":"/wiki/linguas/draconico/","dg-note-properties":{"tipo":"lingua","nome":"Dracônico","tipo_lingua":"Primordial/Cotidiana/Ritual","era":"Idade Esquecida","cor_racial":"Vermelho","raca_principal":"Saurianos","funcao":"Língua primordial dos dragões; cotidiana sauriana; mágica dracônica","fluencia_comum":"Nativa (saurianos); ritual (varnakianos xamãs)","relacao_magica":"Vinculum Daemonis","registro_magico":"Sim (distinto do cotidiano)","descendente_de":"—","aliases":[],"tags":[],"ordem":4,"generated_by":"strip_sistema"}}
 ---
 
 

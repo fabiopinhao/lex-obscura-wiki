@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/linguas/gholvyss/","dg-note-properties":{"tipo":"lingua","nome":"Gholvyss","tipo_lingua":"Primordial/Cotidiana/Ritual","era":"Idade Esquecida","cor_racial":"Preto","raca_principal":"Druls","funcao":"Língua primordial dos proto-druls; cotidiana drul; invocações diabólicas","fluencia_comum":"Nativa (druls); ophideias fluentes no registro mágico","relacao_magica":"Pactum Diaboli","registro_magico":"Sim (distinto do cotidiano); possui terceiro registro (acasalamento, exclusivo)","descendente_de":"Luminar (fragmentos corrompidos)","aliases":[],"tags":[],"ordem":5,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/gholvyss.md","permalink":"/wiki/linguas/gholvyss/","dg-note-properties":{"tipo":"lingua","nome":"Gholvyss","tipo_lingua":"Primordial/Cotidiana/Ritual","era":"Idade Esquecida","cor_racial":"Preto","raca_principal":"Druls","funcao":"Língua primordial dos proto-druls; cotidiana drul; invocações diabólicas","fluencia_comum":"Nativa (druls); ophideias fluentes no registro mágico","relacao_magica":"Pactum Diaboli","registro_magico":"Sim (distinto do cotidiano); possui terceiro registro (acasalamento, exclusivo)","descendente_de":"Luminar (fragmentos corrompidos)","aliases":[],"tags":[],"ordem":5,"generated_by":"strip_sistema"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/personagens/ravhor/","dg-note-properties":{"tipo":"personagem","nome_atual":"Ravhor","raca":"Shadar","sexo":"M","relevancia":"Terciário","status_atual":"Vivo","localizacao_atual":"Terceira Legião Oriental (convocado)","armas_principais":"—","afiliacao_primaria":"Exército Imperial (Terceira Legião)","aliases":[],"ordem":66.1,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/ravhor.md","permalink":"/wiki/personagens/ravhor/","dg-note-properties":{"tipo":"personagem","nome_atual":"Ravhor","raca":"Shadar","sexo":"M","relevancia":"Terciário","status_atual":"Vivo","localizacao_atual":"Terceira Legião Oriental (convocado)","armas_principais":"—","afiliacao_primaria":"Exército Imperial (Terceira Legião)","aliases":[],"ordem":66.1,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

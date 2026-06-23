@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/conceitos/politica-religiosa/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Política Religiosa","subtipo":"politica","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":[],"tags":[],"ordem":8,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/politica_religiosa.md","permalink":"/wiki/conceitos/politica-religiosa/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Política Religiosa","subtipo":"politica","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":[],"tags":[],"ordem":8,"generated_by":"strip_sistema"}}
 ---
 
 

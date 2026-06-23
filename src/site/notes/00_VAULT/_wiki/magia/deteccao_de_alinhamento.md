@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/magia/deteccao-de-alinhamento/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Detecção de Alinhamento","aliases":[],"ordem":1,"subtipo":"mecanica","origem_arquivo":"3.7_sistemas_magicos_LORE.md","tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/deteccao_de_alinhamento.md","permalink":"/wiki/magia/deteccao-de-alinhamento/","dg-note-properties":{"tipo":"conceito_sistemico","nome":"Detecção de Alinhamento","aliases":[],"ordem":1,"subtipo":"mecanica","origem_arquivo":"3.7_sistemas_magicos_LORE.md","tags":[],"generated_by":"strip_sistema"}}
 ---
 
 

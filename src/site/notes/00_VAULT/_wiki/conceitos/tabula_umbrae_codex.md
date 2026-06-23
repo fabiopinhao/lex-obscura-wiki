@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-vault/wiki/conceitos/tabula-umbrae-codex/","dg-note-properties":{"tipo":"conceito","lore_target":"3.2","nome":"Tabula Umbrae","subtipo":"metanarrativa","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":["Tábua das Sombras"],"ordem":3,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/tabula_umbrae_codex.md","permalink":"/wiki/conceitos/tabula-umbrae-codex/","dg-note-properties":{"tipo":"conceito","lore_target":"3.2","nome":"Tabula Umbrae","subtipo":"metanarrativa","origem_arquivo":"3.2_conceitos_gerais_LORE.md","aliases":["Tábua das Sombras"],"ordem":3,"tags":[],"generated_by":"strip_sistema"}}
 ---
 
 
