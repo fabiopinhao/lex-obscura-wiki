@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/00-vault/wiki/locais/arena-de-drakmur/","dg-note-properties":{"tipo":"local","nome":"Arena de Drakmur","tipo_local":"Arena (combate)","regiao":"Fronteira do Planalto","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Próximo a Morvgrad","populacao_aprox":"Variável","aliases":[],"tags":[],"ordem":21,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+---
+
+
+Abatedouro de Drakmur. Arena de combate na fronteira do planalto, próxima a [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]]. População variável conforme eventos. Onde [[00_VAULT/_wiki/racas/orc\|orcs]] e [[00_VAULT/_wiki/criaturas/gnoll\|gnolls]] lutam por esporte, dinheiro e glória efêmera. O torneio anual das Lanças de Três Crânios é o evento principal. [[00_VAULT/_wiki/personagens/fandegarron\|Fandegarrón]] foi campeão da arena antes de tornar-se guarda-costas da [[00_VAULT/_wiki/organizacoes/guilda_dos_gnomos\|Guilda dos Gnomos]] no [[00_VAULT/_wiki/locais/mercado_oeste\|Mercado Oeste]]. "Onde [[00_VAULT/_wiki/racas/orc\|orcs]] estripam por esporte."
+
+A arena funciona como uma das fortalezas órquicas que cercam a fronteira do planalto. Referenciada no Livro I através do passado de [[00_VAULT/_wiki/personagens/fandegarron\|Fandegarrón]]: [[00_VAULT/_wiki/criaturas/gnoll\|gnoll]] veterano com cicatrizes de arena, disfarçado sob manto de [[00_VAULT/_wiki/criaturas/ogro\|ogro]], que [[00_VAULT/_wiki/personagens/dribbel_olgund\|Dribbel]] apresentou como "demônio vestido de sapo" derrotado por criatura desconhecida que "empurrava o mundo."

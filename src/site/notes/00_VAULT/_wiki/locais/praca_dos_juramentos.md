@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/00-vault/wiki/locais/praca-dos-juramentos/","dg-note-properties":{"tipo":"local","nome":"Praça dos Juramentos","tipo_local":"Praça (cerimonial)","regiao":"Xarn'Aroth (Morvgrad)","controlador":"Império Sombrio","status_atual":"Ativo","distancia_morvgrad_leguas":"Dentro de Morvgrad","populacao_aprox":"Variável","aliases":[],"tags":[],"ordem":59,"heading_level":3,"parent":"morvgrad","generated_by":"strip_sistema"}}
+---
+
+
+Praça cerimonial no coração de [[00_VAULT/_wiki/locais/xarn_aroth\|Xarn'Aroth]], o distrito sagrado de [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]]. O portão leste conecta-se a [[00_VAULT/_wiki/locais/mor_severith\|Mor'Severith]], tornando a praça passagem obrigatória para quem sai de audiência com [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]].
+
+Na seção 7.4, [[00_VAULT/_wiki/personagens/orum-rahru\|Orum-Rahru]] cruza a praça quando avista o General [[00_VAULT/_wiki/personagens/vekraal\|Vekraal]] e sua comitiva (dois capitães [[00_VAULT/_wiki/racas/orc\|orcs]], cinco oficiais [[00_VAULT/_wiki/racas/shadar\|shadar]], porta-estandarte com foice lunar sobre campo de sangue) saindo do portão leste. [[00_VAULT/_wiki/personagens/vekraal\|Vekraal]] vinha da torre sagrada, confirmando audiência recente com o monarca e preparação de nova campanha. Uma fenda celestial abre-se sobre o [[00_VAULT/_wiki/locais/pico_de_nethys\|Pico de Nethys]] derramando [[00_VAULT/_wiki/cosmologia/noctiluz\|noctiluz]], e ambos se encaram sob luz cerúlea. [[00_VAULT/_wiki/personagens/vekraal\|Vekraal]] roça o pomo da espada em ameaça velada, enquanto um capitão [[00_VAULT/_wiki/racas/orc\|orc]] cospe nas pedras (sacrilégio em solo sagrado). A tensão entre o braço judiciário ([[00_VAULT/_wiki/personagens/orum-rahru\|Orum]]) e o militar ([[00_VAULT/_wiki/personagens/vekraal\|Vekraal]]) do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|império]] se cristaliza neste encontro silencioso.
+
+O nome "Juramentos" sugere função original como local de cerimônias de lealdade ou pactos formais.

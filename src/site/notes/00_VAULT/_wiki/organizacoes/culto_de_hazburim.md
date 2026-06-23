@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/00-vault/wiki/organizacoes/culto-de-hazburim/","dg-note-properties":{"tipo":"organizacao","nome":"Culto de Hazburim","tipo_organizacao":"Culto demoníaco","cor_afiliacao":"Vermelho","lider_atual":"Desconhecido","sede":"Subterrâneo","status_atual":"Ativo (oculto)","membros_aprox":"Desconhecido","funcao_principal":"Culto demoníaco com altar sob capela de Niedellin.","aliases":[],"tags":[],"ordem":20,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+---
+
+
+Culto demoníaco clandestino. [[00_VAULT/_wiki/panteao/hazburim\|Hazburim]] ([[00_VAULT/_wiki/panteao/hazburim\|Senhor das Moscas]], Pestilência) é demônio proscrito pelo [[00_VAULT/_wiki/organizacoes/culto_sombrio\|Culto Sombrio]] ([[00_VAULT/_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]]). Altar secreto no porão da capela de [[00_VAULT/_wiki/locais/niedellin\|Niedellin]]: receptáculo de presença extraplanar da [[00_VAULT/_wiki/conceitos/segunda_era\|Segunda Era]], "janela aberta para outro plano." [[00_VAULT/_wiki/personagens/maraxus\|Maraxus]] mantinha pacto clandestino.
+
+[[00_VAULT/_wiki/personagens/levi\|Levi]] (menino órfão de [[00_VAULT/_wiki/locais/niedellin\|Niedellin]]) foi atraído pelo altar enquanto [[00_VAULT/_wiki/personagens/berenice\|Berenice]] era repelida (barreira invisível), destruiu ampolas, estatuetas e crânio central. O confronto despertou algo sobrenatural nele. O caso demonstra a falha sistêmica na detecção de pactos clandestinos: [[00_VAULT/_wiki/personagens/maraxus\|Maraxus]] operou por anos sem que o Culto identificasse a infração.

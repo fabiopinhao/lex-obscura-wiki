@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/00-vault/wiki/locais/reinkard/","dg-note-properties":{"tipo":"local","nome":"Reinkard","tipo_local":"Continente","regiao":"Thamakard (plano material) — entre Veinkard (oeste) e Neranthis (leste)","controlador":"Império Sombrio (hegemonia shadar)","status_atual":"Ativo (dominado)","distancia_morvgrad_leguas":"0 (Morvgrad é a capital)","populacao_aprox":"Milhões (estimativa; sem censo canônico)","aliases":["continente central"],"tags":[],"ordem":15.1,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+---
+
+
+Domínio [[00_VAULT/_wiki/racas/shadar\|shadar]] consolidado após as Guerras Reinkárdicas. Antes da conquista, era continente fragmentado entre reinos humanos (centrados em [[00_VAULT/_wiki/locais/myrgarde\|Myrgarde]]), enclaves élficos ([[00_VAULT/_wiki/locais/elenir\|Elenir]], [[00_VAULT/_wiki/locais/thal_serin\|Thal'Serin]]), e o planalto [[00_VAULT/_wiki/racas/shadar\|shadar]] ao norte. A [[00_VAULT/_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]] entre [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]] e [[00_VAULT/_wiki/locais/ghilanna\|Ghilanna]] precedeu a expansão militar.
+
+Fronteiras naturais definem a geopolítica: [[00_VAULT/_wiki/locais/dorsal\|a Dorsal]] impede avanço sobre [[00_VAULT/_wiki/locais/veinkard\|Veinkard]]; pântanos e clima úmido barram conquista de [[00_VAULT/_wiki/locais/neranthis\|Neranthis]]; [[00_VAULT/_wiki/locais/thal_serin\|Thal'Serin]] resiste por proteção titânica (pacto Vozrador-Titãs). O selo púrpuro de [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] não cruza [[00_VAULT/_wiki/locais/dorsal\|a Dorsal]].

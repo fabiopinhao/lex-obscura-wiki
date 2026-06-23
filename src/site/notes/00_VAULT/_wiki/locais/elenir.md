@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/00-vault/wiki/locais/elenir/","dg-note-properties":{"tipo":"local","nome":"Elenir","tipo_local":"Castelo (élfico)","regiao":"Leste de Reinkard","controlador":"Império Sombrio (conquistado)","status_atual":"Ativo (ocupado)","distancia_morvgrad_leguas":"~350","populacao_aprox":"20.000+","aliases":["Fortaleza de Cristal"],"ordem":9,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
+---
+
+
+Castelo élfico [[00_VAULT/_wiki/racas/elarino\|elarino]] conquistado nas Guerras Reinkárdicas. Rico em [[00_VAULT/_wiki/cosmologia/magi\|magi]] extraído como reagente alquímico. Aliado de [[00_VAULT/_wiki/locais/myrgarde\|Myrgarde]] na [[00_VAULT/_wiki/conceitos/segunda_era\|Segunda Era]] antes da queda. [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milor]] participou da campanha. Símbolo da subjugação élfica pelo [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|império]]. Local do confronto entre [[00_VAULT/_wiki/personagens/milorsevogh_velshard\|Milor]] e [[00_VAULT/_wiki/personagens/lorvaq_val_kir\|Lorvaq Val'Kir]]. Conhecida como Fortaleza de Cristal (nexus arcanos). Nexus silenciados de dentro para fora; interferência deliberada detectada.

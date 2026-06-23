@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/00-vault/wiki/locais/dorsal/","dg-note-properties":{"tipo":"local","nome":"Dorsal","tipo_local":"Cordilheira","regiao":"Fronteira Reinkard–Veinkard","controlador":"Nenhum (zona de fronteira não-governada)","status_atual":"Ativo (barreira natural)","distancia_morvgrad_leguas":"~500-600 (fronteira oeste)","populacao_aprox":"Residual (tribos orcas em trânsito; sem assentamentos permanentes)","aliases":["cordilheira","fronteira oeste","Montanhas do Oeste"],"tags":[],"ordem":30,"heading_level":3,"parent":"veinkard","generated_by":"strip_sistema"}}
+---
+
+
+Cordilheira imponente com passagens limitadas e perigosas. Rotas de travessia controladas, poucas expedições [[00_VAULT/_wiki/racas/shadar\|shadares]] cruzam regularmente. [[00_VAULT/_wiki/personagens/yzmareth\|Yzmareth]] é o único [[00_VAULT/_wiki/racas/draconideo\|draconídeo]] permitido a sobrevoá-la (acordo com entidades desconhecidas).
+
+Na [[00_VAULT/_wiki/conceitos/idade_esquecida\|Idade Esquecida]] e [[00_VAULT/_wiki/conceitos/primeira_era\|Primeira Era]], a Dorsal serviu como barreira dupla: geográfica e arcana. Os [[00_VAULT/_wiki/racas/luminares\|Luminares]] impregnaram encantamentos na rocha, selando passagens e impedindo dragões de transpor as montanhas rumo às planícies de [[00_VAULT/_wiki/locais/reinkard\|Reinkard]]. A barreira não exigia manutenção ativa: o [[00_VAULT/_wiki/cosmologia/magi\|magi]] residual na rocha a sustentou por eras após a fragmentação dos [[00_VAULT/_wiki/racas/luminares\|Luminares]].
+
+Na [[00_VAULT/_wiki/conceitos/segunda_era\|Segunda Era]], a corrupção sombria acumulada no planalto [[00_VAULT/_wiki/racas/shadar\|shadar]] consumiu o [[00_VAULT/_wiki/cosmologia/magi\|magi]] residual. A barreira arcana se dissipou. Consequências imediatas limitadas (dragões já haviam migrado para [[00_VAULT/_wiki/locais/veinkard\|Veinkard]]), mas a longo prazo: [[00_VAULT/_wiki/racas/orc\|orcs]] passaram a cruzar livremente, fluxo migratório crescente para o planalto. As fortalezas órquicas [[00_VAULT/_wiki/racas/shadar\|shadar]] tornaram-se a única contenção real da fronteira norte.
+
+A corrupção [[00_VAULT/_wiki/racas/shadar\|shadar]] precedeu a quebra. A presença sombria no planalto contaminou progressivamente as vertentes voltadas para [[00_VAULT/_wiki/locais/reinkard\|Reinkard]], tornando-as inóspitas para dragões. As populações dracônicas migraram para [[00_VAULT/_wiki/locais/veinkard\|Veinkard]] ao longo de gerações.
+
+Na [[00_VAULT/_wiki/conceitos/terceira_era\|Terceira Era]], a Dorsal é exclusivamente barreira geográfica. A componente arcana não é detectável.
+
+[[00_VAULT/_wiki/personagens/varna\|Varna]] habitou o [[00_VAULT/_wiki/locais/pico_de_nethys\|Pico de Nethys]] durante a maior parte da [[00_VAULT/_wiki/conceitos/primeira_era\|Primeira Era]], caçando [[00_VAULT/_wiki/racas/orc\|orcs]] nas vertentes, funcionava como barreira viva involuntária. Migrou para [[00_VAULT/_wiki/locais/varnak\|Varnak]] ([[00_VAULT/_wiki/locais/veinkard\|Veinkard]]) na [[00_VAULT/_wiki/conceitos/segunda_era\|Segunda Era]] quando a corrupção tornou o pico insustentável. Desde então, o Pico está definitivamente [[00_VAULT/_wiki/cosmologia/vazio\|vazio]].
+
+A Dorsal define o limite funcional do [[00_VAULT/_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. [[00_VAULT/_wiki/personagens/arothistar\|Arothistar]] não a cruza por cálculo estratégico: poderia dominar os vales de [[00_VAULT/_wiki/locais/varnak\|Varnak]], mas [[00_VAULT/_wiki/personagens/varna\|Varna]] e os [[00_VAULT/_wiki/racas/draconideo\|draconídeos]] aliados impossibilitariam a manutenção de uma hipotética província. [[00_VAULT/_wiki/locais/morvgrad\|Morvgrad]] teme, acima de quase tudo, perder batalhas.

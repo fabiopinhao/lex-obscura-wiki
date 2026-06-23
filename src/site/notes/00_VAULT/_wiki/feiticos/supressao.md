@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/00-vault/wiki/feiticos/supressao/","dg-note-properties":{"tipo":"feitico","nome":"Supressão","escola":"Abjuro","escala":"Média","aliases":[],"tags":[],"ordem":296,"generated_by":"strip_sistema"}}
+---
+
+
+**Escola:** [[00_VAULT/_wiki/escolas/abjuro\|Abjuro]]
+**Escala:** Média
+
+Bloquear temporariamente a capacidade mágica de alvo vivo. Campo de negação que sufoca a conexão arcana: invocações falham, encantamentos saem fracos, energia escapa entre os dedos. Diferente de Mordaça ([[00_VAULT/_wiki/escolas/nomos\|Nomos]]), que silencia a voz e impede componente verbal: Supressão ataca a fonte arcana, não a emissão. Conjuradores fracos ficam mudos por minutos; poderosos sentem apenas engasgos momentâneos. Custo simpático: o conjurador sente a própria magia abafada proporcionalmente
