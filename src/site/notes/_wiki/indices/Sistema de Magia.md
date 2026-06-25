@@ -160,7 +160,6 @@ Trinta escolas, divididas pelas cinco cores do espectro arcano. Cada escola poss
 - [[_wiki/magia/consequencias_do_descarte\|Consequências do Descarte]] — O que acontece quando se abusa
 - [[_wiki/magia/metodos_de_descarte\|Métodos de Descarte]] — Como conjuradores lidam com resíduos
 - [[_wiki/magia/politica_imperial_de_descarte\|Política Imperial de Descarte]] — Regulamentação estatal
-- [[00_VAULT/grains/magia/aplicacao_narrativa\|Aplicação Narrativa]] — Como a magia serve a história
 
 ---
 
