@@ -4,7 +4,7 @@
 
 # Hugur Comedor-de-Ferro
 
-Hugur Comedor-de-Ferro é um capitão [[_wiki/racas/orc\|orc]] a serviço de [[_wiki/personagens/vekraal\|Vekraal]]. Seu epíteto evoca uma reputação ligada ao consumo ou à destruição de metal.
+Hugur Comedor-de-Ferro é um capitão [[_wiki/racas/orc\|orc]] da Terceira Legião Oriental, a serviço de [[_wiki/personagens/vekraal\|Vekraal]]. Seu epíteto evoca uma reputação ligada ao consumo ou à destruição de metal.
 
 ### Papel
 

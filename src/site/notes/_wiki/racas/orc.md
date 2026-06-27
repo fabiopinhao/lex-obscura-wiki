@@ -4,7 +4,7 @@
 
 # Orc
 
-Os orcs são elfos demoníacos: soldados de fúria berserker que descendem dos [[_wiki/racas/luminares\|Luminares]] e desprezam o termo "elfo". De [[_wiki/cosmologia/cor_arcana\|cor arcana]] vermelha, foram reformados ao longo das eras em máquinas de guerra, e hoje servem como ponta de lança dos exércitos do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], abundantes e descartáveis.
+Os orcs são elfos demoníacos: soldados de fúria berserker que descendem dos [[_wiki/racas/luminares\|Luminares]] e desprezam o termo "elfo". Foram reformados ao longo das eras em máquinas de guerra, e hoje servem como ponta de lança dos exércitos do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], abundantes e descartáveis.
 
 ### Origem
 
@@ -32,8 +32,12 @@ A cultura orc orbita combate e tradição oral. Não há literatura escrita, ape
 
 ### Magia
 
-Orcs acessam o poder arcano pelo [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], vínculo direto com [[_wiki/cosmologia/demonios\|demônios]] sem contrato nem negociação: sangue oferecido, poder recebido. A corrupção mental é progressiva, manifestando-se como fúria, paranoia e sadismo, e a marca nunca desaparece. Os que dominam o poder dividem-se em duas categorias. Os xamãs dominam escolas vermelhas de aplicação tática, [[_wiki/escolas/pyro\|Pyro]], [[_wiki/escolas/rupto\|Rupto]] e [[_wiki/escolas/plasma\|Plasma]], e são raros porque poucos orcs vivem o bastante para acumular domínio. Os berserkers canalizam escolas de combate e transformação, [[_wiki/escolas/belli\|Belli]], [[_wiki/escolas/morpho\|Morpho]] e [[_wiki/escolas/phobos\|Phobos]]; o transe berserker é a expressão máxima dessa canalização, em que a fúria ancestral dissolve a consciência, o corpo cresce e a dor desaparece, mas o preço é a sanidade. [[_wiki/panteao/thurgash\|Thûrgash]], o Senhor de Guerra Sangrento, é o demônio mais vinculado aos orcs.
+Orcs acessam o poder arcano pelo [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], vínculo direto com [[_wiki/cosmologia/demonios\|demônios]] sem contrato nem negociação: sangue oferecido, poder recebido. A corrupção mental é progressiva, manifestando-se como fúria, paranoia e sadismo, e a marca nunca desaparece. Os que dominam o poder dividem-se em duas categorias. Os xamãs dominam escolas de aplicação tática, [[_wiki/escolas/pyro\|Pyro]], [[_wiki/escolas/rupto\|Rupto]] e [[_wiki/escolas/plasma\|Plasma]], e são raros porque poucos orcs vivem o bastante para acumular domínio. Os berserkers canalizam escolas de combate e transformação, [[_wiki/escolas/belli\|Belli]], [[_wiki/escolas/morpho\|Morpho]] e [[_wiki/escolas/phobos\|Phobos]]; o transe berserker é a expressão máxima dessa canalização, em que a fúria ancestral dissolve a consciência, o corpo cresce e a dor desaparece, mas o preço é a sanidade. [[_wiki/panteao/thurgash\|Thûrgash]], o Senhor de Guerra Sangrento, é o demônio mais vinculado aos orcs.
 
 ### Conflitos
 
 A tensão central dos orcs é a fratura entre domesticados e selvagens. Os imperiais servem, obedecem e morrem dentro de uma estrutura que os alimenta e os descarta; os selvagens das cordilheiras mantêm a organização tribal, a liberdade e a fome. As migrações irregulares que pressionam o planalto são sintoma de uma crise demográfica nas montanhas, território esgotado e conflito entre tribos, e o [[_wiki/organizacoes/conselho_sombrio\|Conselho]] as trata como problema logístico. O descarte de veteranos corrói a lealdade de qualquer orc atento o bastante para contar os anos. E há a ferida que ninguém menciona: a ancestralidade luminar compartilhada com [[_wiki/racas/sylvano\|sylvanos]] e [[_wiki/racas/elarino\|elarinos]]. O ódio que orcs nutrem por elfos tem a intensidade específica de quem odeia um espelho.
+
+### Voz
+
+Os orcs falam como lutam: direto, sem floreio nem metáfora, cada palavra escolhida pelo peso e não pela beleza. As referências recorrem à força, à honra de combate, à hierarquia e ao sangue, e o silêncio é preferível a palavras inúteis: quando um orc elabora, é porque ameaça; quando simplifica, é porque já decidiu. O [[_wiki/linguas/orcanico\|Orcânico]] aflora na fala sempre que a disciplina imperial falha, em momentos de fúria, dor extrema ou ritual, e os orcs imperiais falam [[_wiki/linguas/reinkardico\|Reinkárdico]] com uma interferência orcânica constante, como um sotaque impossível de eliminar.

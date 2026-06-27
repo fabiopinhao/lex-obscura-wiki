@@ -4,7 +4,7 @@
 
 # Sauriano
 
-Os saurianos são uma família de humanoides híbridos répteis, alinhados à [[_wiki/cosmologia/cor_arcana\|cor arcana]] vermelha. Sob esse nome os eruditos imperiais agruparam dois povos de escamas que pouco têm em comum, os [[_wiki/racas/draconideo\|draconídeos]] e os [[_wiki/racas/kobold\|kobolds]], separados por continente, origem e propósito. O que os une é o sangue reptiliano e a marca de uma intervenção divina que os gerou.
+Os saurianos são uma família de humanoides híbridos répteis, alinhados aos demônios. Sob esse nome os eruditos imperiais agruparam dois povos de escamas que pouco têm em comum, os [[_wiki/racas/draconideo\|draconídeos]] e os [[_wiki/racas/kobold\|kobolds]], separados por continente, origem e propósito. O que os une é o sangue reptiliano e a marca de uma intervenção divina que os gerou.
 
 ### Origem Cosmogônica
 

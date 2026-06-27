@@ -4,7 +4,7 @@
 
 # Aero
 
-Aero é a escola híbrida de branco e vermelho cujo domínio é o vento e a tempestade. Cria e controla correntes de ar como força física real, limitada em ambientes confinados mas devastadora a céu aberto, manipulando o meio que todo ser vivo precisa para respirar. Seu par antagônico é [[_wiki/escolas/geo\|Geo]].
+Aero é a escola híbrida cujo domínio é o vento e a tempestade. Cria e controla correntes de ar como força física real, limitada em ambientes confinados mas devastadora a céu aberto, manipulando o meio que todo ser vivo precisa para respirar. Seu par antagônico é [[_wiki/escolas/geo\|Geo]].
 
 ### Princípio
 
@@ -16,7 +16,7 @@ A mecânica escala da brisa à borrasca regional. Brisa manipula correntes de ar
 
 ### Custos
 
-O custo temático é falta de ar e hiperventilação, que dura de trinta segundos a uma hora. O custo ontológico é uma claustrofobia existencial em que os compromissos viram prisões e a liberdade se torna necessidade patológica. No Estágio I, espaços fechados incomodam levemente; no II, compromissos longos provocam ansiedade; no III, qualquer permanência parece aprisionamento e o praticante é descartado; no IV, a liberdade é a única necessidade e os vínculos são correntes, estágio tratado como risco sistêmico irreversível. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes apenas como batedores e mensageiros até o Estágio II, em funções de curto prazo sem vínculo permanente.
+O custo temático é falta de ar e hiperventilação, que dura de trinta segundos a uma hora. O custo ontológico é uma claustrofobia existencial em que os compromissos viram prisões e a liberdade se torna necessidade patológica. No Estágio I, espaços fechados incomodam levemente; no II, compromissos longos provocam ansiedade; no III, qualquer permanência parece aprisionamento e o praticante é descartado; no IV, a liberdade é a única necessidade e os vínculos são correntes, estágio tratado como risco sistêmico irreversível, em que o praticante é executado numa Consagração Final antes que possa fugir do sistema. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes apenas como batedores e mensageiros até o Estágio II, em funções de curto prazo sem vínculo permanente.
 
 ### Combinações
 

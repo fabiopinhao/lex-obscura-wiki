@@ -4,7 +4,7 @@
 
 # Helio
 
-Helio é a escola de magia pura do domínio da luz e da radiância, alinhada ao branco do grimório. Cria e manipula luz como radiação física que revela, queima e purifica por exposição. Seu sentimento-chave é a necessidade de revelar, a convicção de que esconder é corromper.
+Helio é a escola de magia pura do domínio da luz e da radiância. Cria e manipula luz como radiação física que revela, queima e purifica por exposição. Seu sentimento-chave é a necessidade de revelar, a convicção de que esconder é corromper.
 
 ### Princípio
 
@@ -16,7 +16,7 @@ O grimório escala da iluminação à radiância absoluta. Clarão cria fonte de
 
 ### Custos
 
-O custo temático é cegueira temporária e pontos cegos na visão, de trinta segundos a uma hora. O custo ontológico é a exposição compulsiva: os segredos se tornam intoleráveis e a transparência vira imperativo. Começa como desconforto em guardar segredos e avança até que esconder qualquer coisa pareça moralmente errado. O estágio mais avançado é tratado como risco sistêmico irreversível, e o [[_wiki/organizacoes/imperio_sombrio\|Império]] só recruta praticantes para funções públicas e cerimoniais até o ponto em que a transparência não compromete; quem serve a [[_wiki/organizacoes/ophideias\|Ophideias]] ou à Inquisição e avança demais é descartado antes que exponha operações sigilosas.
+O custo temático é cegueira temporária e pontos cegos na visão, de trinta segundos a uma hora. O custo ontológico é a exposição compulsiva: os segredos se tornam intoleráveis e a transparência vira imperativo. Começa como desconforto em guardar segredos e avança até que esconder qualquer coisa pareça moralmente errado. O estágio mais avançado é tratado como risco sistêmico irreversível, e o [[_wiki/organizacoes/imperio_sombrio\|Império]] só recruta praticantes para funções públicas e cerimoniais até o ponto em que a transparência não compromete; quem serve a [[_wiki/organizacoes/ophideias\|Ophideias]] ou à Inquisição e avança demais é descartado numa Consagração Final antes que exponha operações sigilosas.
 
 ### Combinações e oposição
 

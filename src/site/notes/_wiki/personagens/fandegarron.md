@@ -8,7 +8,7 @@ Fandegarrón, também chamado Garrón, é um [[_wiki/criaturas/gnoll\|gnoll]] ve
 
 ### Aparência
 
-A silhueta sugere algo entre ogro e urso, embaralhada pelo excesso de panos. O focinho é úmido, negro e largo, narinas abrindo e fechando como fole descontrolado; a juba bege-marfim emaranha-se em nós que lembram ninhos de rato; os olhos, amarelos e esbugalhados, são inquietos, cada um buscando uma direção diferente. Veste um manto de ogro grande demais para ele, que sobra nos ombros, arrasta no chão e prende em tudo, e o pelo bege destaca-se contra o cinza da rocha.
+A silhueta sugere algo entre ogro e urso, embaralhada pelo excesso de panos. O focinho é úmido, negro e largo, narinas abrindo e fechando como fole descontrolado; a juba bege-marfim emaranha-se em nós que lembram ninhos de rato; os olhos, amarelos e esbugalhados, são inquietos, cada um buscando uma direção diferente. Veste um manto de ogro grande demais para ele, que sobra nos ombros, arrasta no chão e prende em tudo, e o pelo bege destaca-se contra o cinza da rocha. O exagero de panos cumpre função: com a postura curvada e o capuz, à distância ele passa por ogro, e gnolls não circulam livremente pelas cidades do Império. Sob o disfarce, a compleição contraria o padrão da raça — onde o gnoll comum é massivo e de musculatura bruta, Garrón é esguio e atlético, corpo afiado pelos anos de arena.
 
 ### Temperamento e combate
 

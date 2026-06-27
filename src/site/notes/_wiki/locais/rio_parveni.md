@@ -4,4 +4,4 @@
 
 # Rio Parveni
 
-O Rio Parveni é o curso d'água principal da [[_wiki/locais/ventrista\|Ventrista]], a faixa de terras férteis na base do planalto [[_wiki/racas/shadar\|Shadar]] que abastece o [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Corta o povoado de [[_wiki/locais/niedellin\|Niedellin]], onde acompanha o ritmo da vida ribeirinha, e integra a rede hidrográfica agrícola da região.
+O Rio Parveni é o curso d'água principal da [[_wiki/locais/ventrista\|Ventrista]], a faixa de terras férteis na base do planalto [[_wiki/racas/shadar\|Shadar]], a cerca de 180 léguas a sudeste de [[_wiki/locais/morvgrad\|Morvgrad]], que abastece o [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Corta o povoado de [[_wiki/locais/niedellin\|Niedellin]], onde acompanha o ritmo da vida ribeirinha, e integra a rede hidrográfica agrícola da região.

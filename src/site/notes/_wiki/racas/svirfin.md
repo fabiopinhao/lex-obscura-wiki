@@ -4,7 +4,7 @@
 
 # Svirfin
 
-Os svirfins são gnomos [[_wiki/cosmologia/siderais\|siderais]] de [[_wiki/cosmologia/cor_arcana\|cor arcana]] azul, arcanos diminutos restritos a [[_wiki/locais/neranthis\|Neranthis]]. Possuem a maior aptidão mágica entre as raças gnômicas e vivem em cidadelas [[_wiki/racas/frenim\|frenim]] como população auxiliar, praticamente desconhecidos no continente de [[_wiki/locais/reinkard\|Reinkard]].
+Os svirfins são gnomos [[_wiki/cosmologia/siderais\|siderais]], arcanos diminutos restritos a [[_wiki/locais/neranthis\|Neranthis]]. Possuem a maior aptidão mágica entre as raças gnômicas e vivem em cidadelas [[_wiki/racas/frenim\|frenim]] como população auxiliar, praticamente desconhecidos no continente de [[_wiki/locais/reinkard\|Reinkard]].
 
 ### Origem
 

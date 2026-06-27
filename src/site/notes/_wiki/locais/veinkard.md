@@ -4,7 +4,7 @@
 
 # Veinkard
 
-Veinkard é um continente montanhoso a oeste de [[_wiki/locais/reinkard\|Reinkard]], separado dele pela cordilheira conhecida como [[_wiki/locais/dorsal\|Dorsal]]. De clima severo e território caótico, sem unificação política, é a origem dos [[_wiki/racas/draconideo\|draconídeos]] e a região para onde os dragões foram empurrados eras atrás. Na prática, os nomes "Veinkard" e "[[_wiki/locais/varnak\|Varnak]]" (sua única região habitada por humanoides) são usados quase como sinônimos.
+Veinkard é um continente montanhoso a oeste de [[_wiki/locais/reinkard\|Reinkard]], a cerca de 600 léguas a oeste de [[_wiki/locais/morvgrad\|Morvgrad]] e separado dele pela cordilheira conhecida como [[_wiki/locais/dorsal\|Dorsal]]. De clima severo e território caótico, sem unificação política, é a origem dos [[_wiki/racas/draconideo\|draconídeos]] e a região para onde os dragões foram empurrados eras atrás. Na prática, os nomes "Veinkard" e "[[_wiki/locais/varnak\|Varnak]]" (sua única região habitada por humanoides) são usados quase como sinônimos.
 
 ### Geografia e Política
 

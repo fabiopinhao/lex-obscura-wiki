@@ -8,7 +8,7 @@ Os elarinos são elfos angelicais de [[_wiki/locais/elenir\|Elenir]], os descend
 
 ### Fisiologia
 
-Têm traços delicados e pele clara com luminescência sutil, visível sob luar ou em ambientes escuros. Os olhos surgem em tons de prata, âmbar ou azul-celeste; as orelhas são alongadas, as proporções esbeltas, e os cabelos frequentemente prateados ou loiros-platinados. A longevidade ronda os 120 anos e a [[_wiki/cosmologia/cor_arcana\|cor arcana]] é branca. A afinidade inata com a magia é visivelmente superior à de qualquer outra raça mortal.
+Têm traços delicados e pele clara com luminescência sutil, visível sob luar ou em ambientes escuros. Os olhos surgem em tons de prata, âmbar ou azul-celeste; as orelhas são alongadas, as proporções esbeltas, e os cabelos frequentemente prateados ou loiros-platinados. A longevidade ronda os 120 anos, e seu vínculo é com os anjos. A afinidade inata com a magia é visivelmente superior à de qualquer outra raça mortal.
 
 ### Cultura e Sociedade
 

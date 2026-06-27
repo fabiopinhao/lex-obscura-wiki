@@ -8,7 +8,7 @@ Grothar é um [[_wiki/racas/orc\|orc]] veterano, capitão da guarda de [[_wiki/p
 
 ### Aparência
 
-Tem a pele verde-oliva crestada pelo sol e a presa direita proeminente. Um dos olhos é cego e leitoso, perdido ainda jovem na carnificina de [[_wiki/locais/ghargash\|Ghargash]], quando servia ao antigo clã bárbaro das terras gélidas a noroeste do planalto. Veste armadura completa de placas, incomum entre orcs, marcada pelas batalhas e riscada pelas cicatrizes de Khaz-Ankor. Na mão carrega a "machadacha", um machado de duas lâminas com entalhes rúnicos malcuidados, apelido que ele mesmo deu à arma. Monta uma mula cinzenta resistente, e ai de quem fizer piada com isso: a mula é assunto sensível.
+Tem a pele verde-oliva crestada pelo sol e a presa direita proeminente. Um dos olhos é cego e leitoso, perdido ainda jovem na carnificina de [[_wiki/locais/ghargash\|Ghargash]], quando servia ao antigo clã bárbaro das terras gélidas a noroeste do planalto. Veste armadura de placas de alto padrão, mais coberta e fechada que a dos orcs comuns — incomum entre eles e condizente com seu posto de capitão, ainda que continue legível como equipamento orc e não como armadura de cavaleiro humano —, marcada pelas batalhas e riscada pelas cicatrizes de Khaz-Ankor. Na mão carrega a "machadacha", um machado de duas lâminas com entalhes rúnicos malcuidados, apelido que ele mesmo deu à arma. Monta uma mula cinzenta resistente, e ai de quem fizer piada com isso: a mula é assunto sensível.
 
 ### Método e voz
 

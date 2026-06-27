@@ -20,4 +20,4 @@ O custo temático é queimadura e formigamento intenso na pele, que dura de um m
 
 ### Combinações
 
-Com [[_wiki/escolas/geo\|Geo]], produz fortificação fundida, erguendo pedra e fundindo-lhe a superfície numa crosta vitrificada impermeável. Com [[_wiki/escolas/belli\|Belli]], gera uma lâmina que se alimenta de sangue: quanto mais o espadachim sangra, mais branco fica o fio e mais fundo o corte, recurso de [[_wiki/organizacoes/templarios\|Templários]] duelistas que recusam escudo. Seu par antagônico é Cryo, cujo gelo paralisa o que o plasma transforma, a preservação contra a dissolução.
+Com [[_wiki/escolas/geo\|Geo]], produz fortificação fundida, erguendo pedra e fundindo-lhe a superfície numa crosta vitrificada impermeável. Com [[_wiki/escolas/belli\|Belli]], gera uma lâmina que se alimenta de sangue: quanto mais o espadachim sangra, mais branco fica o fio e mais fundo o corte, recurso de [[_wiki/organizacoes/templarios\|Templários]] duelistas que recusam escudo. Seu par antagônico é Cryo, cujo gelo paralisa o que o plasma transforma, a preservação contra a dissolução: o frio extremo enfraquece a Corona como contra direta.

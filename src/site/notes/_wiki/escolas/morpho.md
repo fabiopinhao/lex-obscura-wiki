@@ -4,7 +4,7 @@
 
 # Morpho
 
-Morpho é a escola de magia híbrida do domínio da metamorfose e da transformação, cruzando o verde e o vermelho do grimório. Altera fisicamente o corpo, do próprio conjurador ou de um alvo, com mudanças reais e verificáveis que resistem ao toque e à inspeção. Seu sentimento-chave é o fascínio por tornar-se outro, a forma tomada como escolha e não como destino.
+Morpho é a escola de magia híbrida do domínio da metamorfose e da transformação. Altera fisicamente o corpo, do próprio conjurador ou de um alvo, com mudanças reais e verificáveis que resistem ao toque e à inspeção. Seu sentimento-chave é o fascínio por tornar-se outro, a forma tomada como escolha e não como destino.
 
 ### Princípio
 
@@ -16,7 +16,7 @@ O grimório escala do cosmético à reescrita biológica total. Semblante altera
 
 ### Custos
 
-O custo temático é desorientação corporal e dificuldade de coordenação, de dois minutos a duas horas. O custo ontológico é a identidade fluida: o eu se torna categoria instável e o espelho passa a provocar estranhamento. Começa como estranhamento ocasional e avança até que qualquer forma sirva e a forma original se perca. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como [[_wiki/organizacoes/ophideias\|Ophideias]] de infiltração de longo prazo, porque a lealdade fica inverificável quando a identidade deixa de ter âncora.
+O custo temático é desorientação corporal e dificuldade de coordenação, de dois minutos a duas horas. O custo ontológico é a identidade fluida: o eu se torna categoria instável e o espelho passa a provocar estranhamento. Começa como estranhamento ocasional e avança até que qualquer forma sirva e a forma original se perca. Nesse ponto, quando ninguém conhece sua forma original e a lealdade se torna inverificável, o praticante é descartado numa Transferência silenciosa. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como [[_wiki/organizacoes/ophideias\|Ophideias]] de infiltração de longo prazo, porque a identidade sem âncora torna o vínculo impossível de verificar.
 
 ### Combinações e oposição
 

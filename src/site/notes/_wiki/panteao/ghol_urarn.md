@@ -4,7 +4,7 @@
 
 # Ghol-Urarn
 
-Ghol-Urarn, o Contágio Diluviano, é um dos [[_wiki/cosmologia/titas\|Titãs]], divindade tricolor que governa a pestilência transportada pela água. Manifesta-se como uma hidra de corpo inchado e couro pustulento, e seu domínio combina a corrupção da matéria viva com a distribuição pelas correntes: a doença que outros semeiam por contato ou ar, Ghol-Urarn despeja na corrente.
+Ghol-Urarn, o Contágio Diluviano, é um dos [[_wiki/cosmologia/titas\|Titãs]], divindade de três essências que governa a pestilência transportada pela água. Manifesta-se como uma hidra de corpo inchado e couro pustulento, e seu domínio combina a corrupção da matéria viva com a distribuição pelas correntes: a doença que outros semeiam por contato ou ar, Ghol-Urarn despeja na corrente.
 
 ### Natureza
 

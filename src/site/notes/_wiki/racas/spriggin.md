@@ -4,7 +4,7 @@
 
 # Spriggin
 
-Os spriggins são gnomos silvestres, guardiões do estrato inferior das florestas e alinhados à [[_wiki/cosmologia/cor_arcana\|cor arcana]] verde. Habitantes do mundo rente ao solo, raízes, fungos, trilhas ocultas e tocas entre pedras, viveram em harmonia com os [[_wiki/cosmologia/titas\|titãs]] pela via da [[_wiki/magia/symbiosis_naturae\|Symbiosis Naturae]]. Na [[_wiki/conceitos/terceira_era\|Terceira Era]], são uma raça à beira da extinção.
+Os spriggins são gnomos silvestres, guardiões do estrato inferior das florestas e alinhados aos titãs. Habitantes do mundo rente ao solo, raízes, fungos, trilhas ocultas e tocas entre pedras, viveram em harmonia com os [[_wiki/cosmologia/titas\|titãs]] pela via da [[_wiki/magia/symbiosis_naturae\|Symbiosis Naturae]]. Na [[_wiki/conceitos/terceira_era\|Terceira Era]], são uma raça à beira da extinção.
 
 ### Origem
 
@@ -20,7 +20,7 @@ A cultura spriggin era indissociável do habitat. Sem escrita própria, a tradi�
 
 ### Relação com a Magia
 
-A magia spriggin segue a cor verde, acessada pela Symbiosis Naturae, uma relação simbiótica com espíritos naturais cujo poder é limitado geograficamente e ligado à rede natural do território. O alinhamento mágico é menor que o dos sylvanos e [[_wiki/racas/elarino\|elarinos]], como em toda raça gnômica. A maioria operava com percepção ambiental ampliada, sentir a saúde de uma floresta, detectar intrusão, localizar água subterrânea, e alguns indivíduos dominavam magias druídicas, incluindo o [[_wiki/escolas/morpho\|Morpho]] da metamorfose, embora isso nunca fosse um traço racial universal.
+A magia spriggin se dá pela Symbiosis Naturae, uma relação simbiótica com espíritos naturais cujo poder é limitado geograficamente e ligado à rede natural do território. O alinhamento mágico é menor que o dos sylvanos e [[_wiki/racas/elarino\|elarinos]], como em toda raça gnômica. A maioria operava com percepção ambiental ampliada, sentir a saúde de uma floresta, detectar intrusão, localizar água subterrânea, e alguns indivíduos dominavam magias druídicas, incluindo o [[_wiki/escolas/morpho\|Morpho]] da metamorfose, embora isso nunca fosse um traço racial universal.
 
 ### Extinção
 

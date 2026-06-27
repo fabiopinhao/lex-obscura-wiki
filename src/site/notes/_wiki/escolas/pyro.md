@@ -4,7 +4,7 @@
 
 # Pyro
 
-Pyro é a escola pura da cor vermelho, dedicada ao fogo e à combustão. Cria e manipula chamas, projeta jatos e bolas de fogo e ergue barreiras ígneas, podendo ferver sangue e derreter órgãos. Opera como combustão química real: o fogo precisa de combustível e consome o que toca, distinção fundamental em relação a [[_wiki/escolas/plasma\|Plasma]], cuja energia extrema funde a matéria sem combustível.
+Pyro é a escola dedicada ao fogo e à combustão. Cria e manipula chamas, projeta jatos e bolas de fogo e ergue barreiras ígneas, podendo ferver sangue e derreter órgãos. Opera como combustão química real: o fogo precisa de combustível e consome o que toca, distinção fundamental em relação a [[_wiki/escolas/plasma\|Plasma]], cuja energia extrema funde a matéria sem combustível.
 
 ### Princípio
 
@@ -18,7 +18,7 @@ A Pira ergue muros, círculos e gaiolas de fogo, bloqueando passagem pela ameaç
 
 ### Custos
 
-O custo temático é queimadura interna e febre alta passageira, durando de um minuto a duas horas. O custo ontológico é o temperamento incendiário: da irritabilidade crescente à raiva que surge rápido e dissipa devagar, até a serenidade se tornar impossível e a existência se medir apenas em graus de fúria. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como [[_wiki/organizacoes/templarios\|Templários]] até o terceiro estágio e como armas de cerco.
+O custo temático é queimadura interna e febre alta passageira, durando de um minuto a duas horas. O custo ontológico é o temperamento incendiário: da irritabilidade crescente à raiva que surge rápido e dissipa devagar, até a serenidade se tornar impossível e a existência se medir apenas em graus de fúria. No último estágio, o praticante cuja fúria se volta contra aliados ou superiores é descartado numa Missão de Honra: enviado como arma incendiária contra fortalezas inimigas, uma glória em chamas da qual não se espera retorno. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como [[_wiki/organizacoes/templarios\|Templários]] até o terceiro estágio e como armas de cerco.
 
 ### Combinações e oposição
 

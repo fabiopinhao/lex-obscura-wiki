@@ -4,7 +4,7 @@
 
 # Ranidano
 
-Os ranidanos são uma família de humanoides híbridos anfíbios de [[_wiki/locais/neranthis\|Neranthis]], de [[_wiki/cosmologia/cor_arcana\|cor arcana]] azul, divididos em duas sub-raças por linhagem: os [[_wiki/racas/saag\|saags]], de porte humanoide, e os [[_wiki/racas/boglin\|boglins]], de porte gnômico. Remontam às [[_wiki/eventos/guerras_raciais\|Guerras Raciais]], quando os [[_wiki/cosmologia/siderais\|siderais]] cruzaram humanos primitivos e anfíbios para produzir soldados alinhados ao azul, num experimento de guerra que originou duas linhagens, a sapiana e a queloniana.
+Os ranidanos são uma família de humanoides híbridos anfíbios de [[_wiki/locais/neranthis\|Neranthis]], divididos em duas sub-raças por linhagem: os [[_wiki/racas/saag\|saags]], de porte humanoide, e os [[_wiki/racas/boglin\|boglins]], de porte gnômico. Remontam às [[_wiki/eventos/guerras_raciais\|Guerras Raciais]], quando os [[_wiki/cosmologia/siderais\|siderais]] cruzaram humanos primitivos e anfíbios para produzir soldados alinhados aos siderais, num experimento de guerra que originou duas linhagens, a sapiana e a queloniana.
 
 ### Origem
 

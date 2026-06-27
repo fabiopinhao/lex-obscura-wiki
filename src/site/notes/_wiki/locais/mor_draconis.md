@@ -4,7 +4,7 @@
 
 # Mor'Draconis
 
-Mor'Draconis é o anel fortificado que serve de núcleo administrativo e religioso de [[_wiki/locais/morvgrad\|Morvgrad]], antigo lar de dragões hoje sob domínio do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Sua arquitetura impõe reverência: arcos angulares apontam para baixo, vitrais encantados retratam conquistas e execuções, e corredores ressonantes amplificam os ecos vindos das profundezas.
+Mor'Draconis é o anel fortificado que serve de núcleo administrativo e religioso de [[_wiki/locais/morvgrad\|Morvgrad]], antigo lar de dragões hoje sob domínio do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Sua arquitetura impõe reverência: arcos angulares apontam para baixo, vitrais encantados retratam conquistas e execuções, e corredores ressonantes amplificam os ecos vindos das profundezas. Cerca de cinquenta mil habitantes ocupam o anel.
 
 ### Estruturas
 
@@ -12,7 +12,7 @@ O Círculo Obsidiano, ou [[_wiki/locais/salao_do_conselho\|Salão do Conselho]],
 
 Outras estruturas compõem o anel:
 
-- O [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]], escavado na montanha, sede das cerimônias de unção.
+- O distrito sagrado de [[_wiki/locais/xarn_aroth\|Xarn'Aroth]], de acesso restrito ao alto clero, que abriga o [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]], sede do Culto e palco das unções, e [[_wiki/locais/mor_severith\|Mor'Severith]], a torre isolada de [[_wiki/personagens/arothistar\|Arothistar]].
 - A [[_wiki/locais/khar_tabreth\|Khar'Tabreth]], ou Torre das Tábuas, centro cartorial do Culto, cujo nome deriva das tabuletas de argila onde se gravavam as primeiras denúncias contra traidores. Guarda arquivos, registros, selos e lacres por gerações, e as [[_wiki/racas/diabrete\|diabretes]] são proibidas de entrar.
 - A [[_wiki/locais/khar_morthar\|Khar Morthar]], ou Torre da Morte, ao mesmo tempo bastião militar e necrópole vertical, com muralhas decoradas por estátuas de generais [[_wiki/racas/shadar\|shadar]] da [[_wiki/conceitos/segunda_era\|Segunda Era]], esculpidas em obsidiana nos momentos de suas mortes. Diz a lenda que, quando a guerra se aproxima, as estátuas escorrem sangue negro.
 
@@ -20,4 +20,4 @@ Completam o distrito os bairros nobres, onde shadars de alta linhagem residem e 
 
 ### Segurança e acessos
 
-Mor'Draconis protege-se por rotina: patrulhas de seis em seis e rotação dos pontos cegos a cada troca de turno. A interdição de [[_wiki/racas/worg\|worgs]] é antiga, anterior ao reinado de [[_wiki/personagens/arothistar\|Arothistar]], e nunca foi revogada. O elevador vertical para [[_wiki/locais/ghilanna\|Ghilanna]] fica no distrito, antes da entrada de [[_wiki/locais/xarn_aroth\|Xarn'Aroth]]; sua plataforma de carga opera com longas correntes de metal pesado, travas gravitacionais que gemem ao encaixar e manivelas acionadas por [[_wiki/racas/orc\|orcs]] acorrentados nos níveis inferiores.
+Mor'Draconis protege-se por rotina: patrulhas de seis em seis e rotação dos pontos cegos a cada troca de turno. A interdição de [[_wiki/racas/worg\|worgs]] é antiga, anterior ao reinado de Arothistar, e nunca foi revogada. O elevador vertical para [[_wiki/locais/ghilanna\|Ghilanna]] fica no distrito, antes da entrada de Xarn'Aroth; sua plataforma de carga opera com longas correntes de metal pesado, travas gravitacionais que gemem ao encaixar e manivelas acionadas por [[_wiki/racas/orc\|orcs]] acorrentados nos níveis inferiores.

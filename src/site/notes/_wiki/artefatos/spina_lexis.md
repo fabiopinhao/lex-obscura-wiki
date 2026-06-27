@@ -20,7 +20,7 @@ O núcleo é pedra lunar extraída das cavernas sagradas de [[_wiki/locais/xarn_
 
 ### Vinculação
 
-Durante a ordenação, o cetro é apresentado ao novo Justiciar com uma fórmula que o consagra como canal de vontade e nomeia a tríade de seus poderes. A partir daí, responde apenas ao toque de seu juiz designado; quem mais tente empunhá-lo experimenta dor lancinante e, em casos extremos, paralisia.
+Durante a ordenação, o cetro é apresentado ao novo Justiciar com a fórmula "Spina Lexis. Canalem voluntatis. Percute, dirige, sentencia.", que o consagra como canal de vontade e nomeia a tríade de seus poderes. A partir daí, responde apenas ao toque de seu juiz designado; quem mais tente empunhá-lo experimenta dor lancinante e, em casos extremos, paralisia.
 
 ### Poderes
 

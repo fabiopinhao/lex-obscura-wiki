@@ -4,7 +4,7 @@
 
 # Worg
 
-Os worgs são [[_wiki/racas/vulfano\|vulfanos]] de porte grande, presos para sempre numa dualidade entre homem e besta. Conscientes demais para serem feras e bestiais demais para serem aceitos como pessoas, habitam o limiar entre civilização e selvageria. Alinhados à [[_wiki/cosmologia/cor_arcana\|cor arcana]] preta como todos os vulfanos, vivem nas margens das cidades do [[_wiki/organizacoes/imperio_sombrio\|Império]], tolerados porque úteis e nunca aceitos.
+Os worgs são [[_wiki/racas/vulfano\|vulfanos]] de porte grande, presos para sempre numa dualidade entre homem e besta. Conscientes demais para serem feras e bestiais demais para serem aceitos como pessoas, habitam o limiar entre civilização e selvageria. Vivem nas margens das cidades do [[_wiki/organizacoes/imperio_sombrio\|Império]], tolerados porque úteis e nunca aceitos.
 
 ### Natureza Dual
 
@@ -38,7 +38,7 @@ O Império tolera os worgs porque são úteis, sem jamais aceitá-los. Diferem d
 
 ### Relação com a Magia
 
-Os worgs acessam a magia preta pelo [[_wiki/magia/pactum_diaboli\|Pactum Diaboli]], mas a dualidade física interfere na estabilidade das invocações, e a magia worg tende a ser instável, com custos imprevisíveis sobre o corpo. A maioria simplesmente não pratica, pois a longevidade curta e a vida nômade não favorecem o estudo arcano. Os poucos que praticam gravitam para a magia de rastreamento e a de sombra, extensões naturais do olfato e da furtividade canina. Worgs raramente produzem magos de combate, e a cultura vê um worg que lança bolas de fogo como alguém que não entendeu o que significa ser worg.
+Os worgs acessam a magia pelo [[_wiki/magia/pactum_diaboli\|Pactum Diaboli]], mas a dualidade física interfere na estabilidade das invocações, e a magia worg tende a ser instável, com custos imprevisíveis sobre o corpo. A maioria simplesmente não pratica, pois a longevidade curta e a vida nômade não favorecem o estudo arcano. Os poucos que praticam gravitam para a magia de rastreamento e a de sombra, extensões naturais do olfato e da furtividade canina. Worgs raramente produzem magos de combate, e a cultura vê um worg que lança bolas de fogo como alguém que não entendeu o que significa ser worg.
 
 ### Voz
 

@@ -8,7 +8,7 @@ Dhar-Morveth é o planalto negro do norte de [[_wiki/locais/reinkard\|Reinkard]]
 
 ### Geografia
 
-O Dhar-Morveth domina o norte do continente, elevando-se acima das planícies da [[_wiki/locais/ventrista\|Ventrista]] como uma coroa de obsidiana. A [[_wiki/locais/dorsal\|Dorsal]] marca sua fronteira ocidental. No subterrâneo, o planalto conecta-se ao [[_wiki/locais/vor-ghol\|Vor-Ghol]] por um elevador vertical de mil braças que liga Morvgrad a [[_wiki/locais/ghilanna\|Ghilanna]].
+O Dhar-Morveth domina o norte do continente, elevando-se acima das planícies da [[_wiki/locais/ventrista\|Ventrista]] como uma coroa de obsidiana. A [[_wiki/locais/dorsal\|Dorsal]] marca sua fronteira ocidental. No subterrâneo, o planalto conecta-se ao [[_wiki/locais/vor-ghol\|Vor-Ghol]] por um elevador vertical de mil braças que liga Morvgrad a [[_wiki/locais/ghilanna\|Ghilanna]]. Praticamente toda a população do planalto, mais de meio milhão de almas, concentra-se em Morvgrad.
 
 ### História
 

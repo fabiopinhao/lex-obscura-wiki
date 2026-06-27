@@ -16,7 +16,7 @@ As ophideias são escolhidas entre meninas drul das Casas Matriarcais, em geral 
 
 ### Especialização Mágica
 
-A maioria das ophideias opera com magia preta via [[_wiki/magia/pactum_diaboli\|Pactum Diaboli]], em escolas compatíveis com a espionagem. O Spectro é a escola primária: permite atravessar a matéria, projetar-se de forma espectral para sondar corpos e espaços e alcançar invisibilidade parcial. O Umbra manipula sombras e ampara a invocação de [[_wiki/panteao/ulravaeth\|Ulravaeth]], que projeta a própria sombra em "contravento espectral". Nas invocações ligadas aos [[_wiki/cosmologia/diabos\|diabos]] do panteão matriarcal, as fluentes usam o [[_wiki/linguas/gholvyss\|Gholvyss]], língua diabólica matriarcal extremamente secreta, distinta do [[_wiki/linguas/tenebraico\|Tenebraico]] comum.
+A maioria das ophideias opera com magia preta via [[_wiki/magia/pactum_diaboli\|Pactum Diaboli]], em escolas compatíveis com a espionagem. O Spectro é a escola primária: permite atravessar a matéria, projetar-se de forma espectral para sondar corpos e espaços e alcançar invisibilidade parcial. O Umbra manipula sombras e ampara a invocação de [[_wiki/panteao/ulravaeth\|Ulravaeth]], o Custódio do Entre, que projeta a própria sombra em "contravento espectral". Nas invocações ligadas aos [[_wiki/cosmologia/diabos\|diabos]] do panteão matriarcal, as fluentes usam o [[_wiki/linguas/gholvyss\|Gholvyss]], língua diabólica matriarcal extremamente secreta, distinta do [[_wiki/linguas/tenebraico\|Tenebraico]] comum.
 
 ### Ritos
 

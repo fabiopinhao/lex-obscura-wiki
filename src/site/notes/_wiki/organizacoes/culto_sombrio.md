@@ -12,7 +12,7 @@ A unificação foi pragmática. Antes de Xarn, cada templo mantinha seu próprio
 
 ### Percepção Pública
 
-Para muitos, o Culto representa liberdade, progresso e justiça histórica contra a antiga opressão dos [[_wiki/cosmologia/anjos\|deuses brancos]]. Estudiosos, ambiciosos e renegados encontraram no império um refúgio para o que o mundo antigo proibia: a magia negra, antes temida, tornou-se símbolo de status. Na prática, trocou-se um tipo de repressão por outro. A submissão é o preço da proteção, e o medo substitui a fé como adesivo social.
+Para muitos, o Culto representa liberdade, progresso e justiça histórica contra a antiga opressão dos [[_wiki/cosmologia/anjos\|deuses brancos]]. Estudiosos, ambiciosos e renegados encontraram no império um refúgio para o que o mundo antigo proibia: a magia negra, antes temida, tornou-se símbolo de status. O próprio império funciona como uma universidade perversa de magia totalitária, com escolas organizadas, especializações doutrinárias e competições formais de perícia mágica entre discípulos de ordens diferentes; a promessa de ascensão pelo mérito arcano, porém, mascara que o acesso ao poder depende de lealdade ao sistema, não de talento isolado. Na prática, trocou-se um tipo de repressão por outro: a submissão é o preço da proteção, e o medo substitui a fé como adesivo social.
 
 ### Sistema Cromático de Selos
 
@@ -24,7 +24,7 @@ A organização opera em três camadas. As eparquias são divisões territoriais
 
 ### Facções Internas
 
-Duas facções disputam a direção filosófica do império sem confronto público. A facção ordeira, alinhada a [[_wiki/panteao/velmorain\|Velmorain]], defende a consolidação por legalismo, burocracia e ordem rigorosa, e teve papel na criação dos Justiciars e na codificação da Lex Obscura. A facção expansionista, alinhada a [[_wiki/panteao/malagoth\|Malagoth]], prioriza a conquista territorial a qualquer custo e a subjugação total. A tensão entre elas opera nos bastidores, em rivalidades entre conselheiros e na interpretação seletiva da Lex.
+Duas facções disputam a direção filosófica do império sem confronto público. A facção ordeira, alinhada a [[_wiki/panteao/velmorain\|Velmorain]], defende a consolidação por legalismo, burocracia e ordem rigorosa, e teve papel na criação dos Justiciars e na codificação da Lex Obscura. A facção expansionista, alinhada a [[_wiki/panteao/malagoth\|Malagoth]], prioriza a conquista territorial a qualquer custo e a subjugação total. A tensão entre elas opera nos bastidores, em rivalidades entre conselheiros e na interpretação seletiva da Lex. Fora dessas duas, [[_wiki/panteao/kaelgrym\|Kaelgrym]], como demônio proscrito, não patrona facção oficialmente: sua influência existe de forma clandestina, alimentando impulsos de destruição e terror que ambas as facções utilizam quando lhes convém.
 
 ### Proibição de Pactos Demoníacos
 

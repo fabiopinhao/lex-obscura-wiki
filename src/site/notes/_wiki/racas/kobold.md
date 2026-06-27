@@ -34,7 +34,7 @@ Os kobolds são listados como bens móveis nos inventários de lordes shadars, a
 
 ### Relação com Magia
 
-De [[_wiki/cosmologia/cor_arcana\|cor arcana]] vermelha por herança dracônica corrompida, os kobolds não praticam magia: a capacidade foi eliminada junto com o sopro e a agressividade durante a seleção. O que resta é sensibilidade residual, a percepção de flutuações arcanas e a agitação diante de presenças sobrenaturais ou artefatos poderosos. Fing interpreta o [[_wiki/cosmologia/noctiluz\|noctiluz]] instintivamente, sinal de que a herança dracônica ainda pulsa sob a docilidade imposta.
+Embora de linhagem demoníaca por herança dracônica corrompida, os kobolds não praticam magia: a capacidade foi eliminada junto com o sopro e a agressividade durante a seleção. O que resta é sensibilidade residual, a percepção de flutuações arcanas e a agitação diante de presenças sobrenaturais ou artefatos poderosos. Fing interpreta o [[_wiki/cosmologia/noctiluz\|noctiluz]] instintivamente, sinal de que a herança dracônica ainda pulsa sob a docilidade imposta.
 
 ### Voz
 

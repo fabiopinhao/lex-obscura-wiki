@@ -8,7 +8,7 @@ Tibaut é um [[_wiki/racas/worg\|worg]] informante de [[_wiki/locais/morvgrad\|M
 
 ### Aparência
 
-Alto e esguio, move-se com a economia de quem aprendeu a não desperdiçar nem um gesto. Veste um sobretudo de couro negro forrado de bolsos secretos, onde guarda lâminas e venenos ao alcance dos dedos. Quando o trabalho exige aço, empunha katana, tanto e ninjato.
+Alto e esguio, move-se com a economia de quem aprendeu a não desperdiçar nem um gesto, e há nele a carga de um predador, não a brandura de um bicho de estimação. Veste um sobretudo de couro negro de capuz fundo, forrado de bolsos secretos onde guarda lâminas e venenos ao alcance dos dedos. O capuz não é só estilo: mergulha a face na sombra e oculta o focinho, de modo que, à distância, ninguém o identifica como worg — disfarce conveniente numa cidade que interdita worgs em distritos inteiros. Quando o trabalho exige aço, empunha katana, tanto e ninjato.
 
 ### Ofício
 

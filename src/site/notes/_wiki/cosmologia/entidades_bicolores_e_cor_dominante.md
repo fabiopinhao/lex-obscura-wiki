@@ -8,16 +8,16 @@ Metade das entidades divinas são bicolores, isto é, representam duas das cores
 
 ### Regra de Cor Dominante
 
-Toda entidade tem uma cor dominante que determina três coisas: qual sistema é usado para acessá-la, sua filosofia primária e o tipo de relacionamento que estabelece com o conjurador. A cor dominante não indica poder superior, apenas o sistema de vínculo necessário para alcançar a entidade. Numa entidade de duas cores, é a dominância que decide se o acesso se dá por [[_wiki/magia/pactum_diaboli\|Pactum Diaboli]], [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], [[_wiki/magia/symbiosis_naturae\|Symbiosis Naturae]], [[_wiki/magia/devotio_sancta\|Devotio Sancta]] ou [[_wiki/magia/meditatio_aetheris\|Meditatio Aetheris]]. Cada deus concede exatamente duas escolas de magia, sem exceção; na notação de escolas híbridas, a primeira letra indica a cor de maior impacto.
+Toda entidade tem uma cor dominante que determina três coisas: qual sistema é usado para acessá-la, sua filosofia primária e o tipo de relacionamento que estabelece com o conjurador. A cor dominante não indica poder superior, apenas o sistema de vínculo necessário para alcançar a entidade. Numa entidade de duas cores, é a dominância que decide se o acesso se dá por [[_wiki/magia/pactum_diaboli\|Pactum Diaboli]], [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], [[_wiki/magia/symbiosis_naturae\|Symbiosis Naturae]], [[_wiki/magia/devotio_sancta\|Devotio Sancta]] ou [[_wiki/magia/meditatio_aetheris\|Meditatio Aetheris]]. Cada deus concede exatamente duas escolas de magia, sem exceção.
 
 ### Compatibilidade Racial
 
 Cada raça tem uma afinidade primária por um sistema e uma cor, que é o vínculo mais comum, mas não uma exclusividade:
 
-- [[_wiki/racas/shadar\|Shadars]] (preto): Pactum Diaboli ou [[_wiki/magia/teru\|Teru]]
-- [[_wiki/locais/varnak\|Varnak]] (vermelho): Vinculum Daemonis ou Teru
-- [[_wiki/racas/sylvano\|Sylvanos]] (verde): Symbiosis Naturae ou Teru
-- [[_wiki/racas/elarino\|Elarinos]] (branco): Devotio Sancta ou Teru
-- [[_wiki/racas/frenim\|Frenim]] (azul): Meditatio Aetheris ou Teru
+- [[_wiki/racas/shadar\|Shadars]]: Pactum Diaboli ou [[_wiki/magia/teru\|Teru]]
+- [[_wiki/racas/varnakiano\|Varnakianos]]: Vinculum Daemonis ou Teru
+- [[_wiki/racas/sylvano\|Sylvanos]]: Symbiosis Naturae ou Teru
+- [[_wiki/racas/elarino\|Elarinos]]: Devotio Sancta ou Teru
+- [[_wiki/racas/frenim\|Frenim]]: Meditatio Aetheris ou Teru
 
-Vínculos de outras cores são possíveis, não vedados. Um shadar liga-se mais facilmente a deuses de cores aliadas, como [[_wiki/cosmologia/demonios\|demônios]] (vermelho) e [[_wiki/cosmologia/siderais\|siderais]] (azul), quase sempre como vínculo secundário a um diabo primário, e quase nunca a cores opostas, como [[_wiki/cosmologia/titas\|titãs]] (verde) e [[_wiki/cosmologia/anjos\|anjos]] (branco). A restrição que impede pactos entre shadar e demônio é lei imperial, não incompatibilidade natural de cor.
+Vínculos de outras naturezas são possíveis, não vedados. Um shadar liga-se mais facilmente a [[_wiki/cosmologia/demonios\|demônios]] e [[_wiki/cosmologia/siderais\|siderais]] (naturezas próximas), quase sempre como vínculo secundário a um diabo primário, e quase nunca a [[_wiki/cosmologia/titas\|titãs]] e [[_wiki/cosmologia/anjos\|anjos]] (naturezas opostas). A restrição que impede pactos entre shadar e demônio é lei imperial, não incompatibilidade natural de cor.

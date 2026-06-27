@@ -21,3 +21,7 @@ O Vendaval Profético é título e fenômeno. Onde Arikhandis passa, a atmosfera
 ### Pacto
 
 O acesso a Arikhandis se dá pelo [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], vínculo de força sem contrato e sem cláusulas: o demônio testa o conjurador e o aceita ou o devora. Seus pactuados carregam os custos de Aero e Chrono amplificados pelo vínculo, numa claustrofobia existencial que transforma qualquer permanência em prisão. A dessincronização do Chrono agrava o quadro: memória e antecipação se fundem, e o pactuado perde a noção de qual visão pertence ao passado e qual ao futuro. O resultado são videntes exilados do presente, incapazes de permanecer parados.
+
+### Filosofia
+
+Para Arikhandis, o tempo linear é a maior mentira que os mortais contam a si mesmos. Passado e futuro coexistem, e o presente não passa da fração que a mente consegue processar sem colapsar. O vendaval remove esse filtro: as visões que impõe não são profecias fabricadas, mas o tempo real e inteiro, forçado por uma percepção que só comporta um instante de cada vez. Nessa concepção, o horror não está no que se vê, e sim em perceber o quanto se perde a cada instante de olhos fechados.

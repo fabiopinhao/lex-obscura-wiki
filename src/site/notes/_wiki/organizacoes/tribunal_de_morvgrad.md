@@ -24,7 +24,7 @@ O Tribunal mantém instrumentos próprios. A [[_wiki/artefatos/tabua_reversa\|T�
 
 ### Relação com os Justiciars
 
-Tribunal e Justiciars funcionam como sistemas complementares: os Justiciars investigam, julgam em campo e executam com rapidez, enquanto o Tribunal conduz os julgamentos formais, os casos complexos e os precedentes vinculantes. Há tensão latente, pois os Justiciars veem a corte como lenta e política, e os Arcontes consideram os Justiciars impulsivos. Na prática cooperam, porque o sistema exige ambos. Entre os precedentes notáveis estão a Heresia de [[_wiki/personagens/qaelun\|Qaelun]], necromante julgado postumamente após sua eliminação por [[_wiki/personagens/orum-rahru\|Orum-Rahru]], e o Protocolo Iconográfico, que fixou regras sobre as representações de Arothistar.
+Tribunal e Justiciars funcionam como sistemas complementares: os Justiciars investigam, julgam em campo e executam com rapidez, enquanto o Tribunal conduz os julgamentos formais, os casos complexos e os precedentes vinculantes. Há tensão latente, pois os Justiciars veem a corte como lenta e política, e os Arcontes consideram os Justiciars impulsivos. Na prática cooperam, porque o sistema exige ambos. Entre os precedentes notáveis estão o Caso Velshard, julgamento in absentia de [[_wiki/personagens/milorsevogh_velshard\|Milor]] durante um período de espionagem em [[_wiki/locais/myrgarde\|Myrgarde]], depois arquivado; a Heresia de [[_wiki/personagens/qaelun\|Qaelun]], necromante julgado postumamente após sua eliminação por [[_wiki/personagens/orum-rahru\|Orum-Rahru]]; e o Protocolo Iconográfico, que fixou regras sobre as representações de Arothistar.
 
 ### Raças Menores e Criaturas
 

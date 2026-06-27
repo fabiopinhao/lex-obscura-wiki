@@ -4,7 +4,7 @@
 
 # Varnak
 
-Varnak é uma região montanhosa no coração de [[_wiki/locais/veinkard\|Veinkard]], marcada por conflito perpétuo entre tribos draconídeas. Nenhum poder conseguiu impor unificação política duradoura sobre seus vales, que permanecem em disputa contínua. A região guarda recursos minerais significativos e deve o nome a [[_wiki/personagens/varna\|Varna]], a dragão anciã que a habita.
+Varnak é uma região montanhosa no coração de [[_wiki/locais/veinkard\|Veinkard]], marcada por conflito perpétuo entre tribos draconídeas. Nenhum poder conseguiu impor unificação política duradoura sobre seus vales, que permanecem em disputa contínua. A região guarda recursos minerais significativos e deve o nome a [[_wiki/personagens/varna\|Varna]], a dragão anciã que a habita. Situa-se a cerca de 700 léguas a oeste de [[_wiki/locais/morvgrad\|Morvgrad]], além da [[_wiki/locais/dorsal\|Dorsal]].
 
 ### Organização tribal
 

@@ -4,7 +4,7 @@
 
 # Frenim
 
-Os frenims são humanos [[_wiki/cosmologia/siderais\|siderais]] de [[_wiki/locais/neranthis\|Neranthis]], conhecidos fora de seu continente como "magos azuis". Povo erudito e isolacionista, distingue-se por habitar ao mesmo tempo o mundo material e as bordas do [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]], um trânsito que se tornou a marca identitária da raça. Sua [[_wiki/cosmologia/cor_arcana\|cor arcana]] é o azul, e sua magia flui dos deuses siderais que vagam pelo etéreo: Mysthar, Zephyrion e Aestron.
+Os frenims são humanos [[_wiki/cosmologia/siderais\|siderais]] de [[_wiki/locais/neranthis\|Neranthis]], conhecidos fora de seu continente como "magos azuis". Povo erudito e isolacionista, distingue-se por habitar ao mesmo tempo o mundo material e as bordas do [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]], um trânsito que se tornou a marca identitária da raça. Sua magia flui dos deuses siderais que vagam pelo etéreo: Mysthar, Zephyrion e Aestron.
 
 ### Fisiologia
 
@@ -28,7 +28,7 @@ Seu sistema de acesso mágico é o [[_wiki/magia/meditatio_aetheris\|Meditatio A
 
 A relação entre frenims e undines é fundadora e assimétrica. Os undines possuíam o conhecimento que os primeiros frenims cobiçaram, mas recusaram transmiti-lo nos termos humanos, por considerarem que a comunhão com os siderais exigia um sacrifício que os humanos não fariam. Não houve animosidade, e ao longo dos séculos as duas raças desenvolveram uma coexistência pacífica, ainda que pouco íntima.
 
-Os undines recuaram para as costas oceânicas do extremo leste, cada vez mais etéreos e remotos, enquanto os frenims se consolidaram nas terras interiores, nos pântanos e lagos. Compartilham a cor arcana e os mesmos deuses siderais, mas seus caminhos para alcançá-los são opostos: entrega total de um lado, compreensão racional do outro.
+Os undines recuaram para as costas oceânicas do extremo leste, cada vez mais etéreos e remotos, enquanto os frenims se consolidaram nas terras interiores, nos pântanos e lagos. Compartilham os mesmos deuses siderais, mas seus caminhos para alcançá-los são opostos: entrega total de um lado, compreensão racional do outro.
 
 ### Relação com o Império
 

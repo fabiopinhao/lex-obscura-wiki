@@ -16,7 +16,7 @@ A canalização da Meditatio Aetheris chama-se Provimento, e é neutra e impesso
 
 ### Tipos de Entidades
 
-As entidades azuis variam entre monocolor e bicolor. Entre as monocolor estão os Arquitetos Etéreos, ligados ao [[_wiki/escolas/gnosi\|Gnosi]], e as Geleiras Conscientes, ligadas ao [[_wiki/escolas/cryo\|Cryo]]. Entre as bicolor figuram Observadores Cósmicos, Espectros Mentais, Guardiões Celestiais, Profetas do Fluxo, Psique Coletiva, Correntes Pensantes e Sonhos da Floresta, cada uma combinando o azul a outra cor.
+As entidades azuis variam em afinidade. Algumas se ligam a uma única escola, como os Arquitetos Etéreos, ligados ao [[_wiki/escolas/gnosi\|Gnosi]], e as Geleiras Conscientes, ligadas ao [[_wiki/escolas/cryo\|Cryo]]. Outras combinam o azul a uma segunda essência: Observadores Cósmicos, Espectros Mentais, Guardiões Celestiais, Profetas do Fluxo, Psique Coletiva, Correntes Pensantes e Sonhos da Floresta.
 
 ### Processo de Meditação
 

@@ -4,7 +4,7 @@
 
 # Dorsal
 
-A Dorsal é uma cordilheira imponente que separa [[_wiki/locais/reinkard\|Reinkard]] de [[_wiki/locais/veinkard\|Veinkard]], também chamada fronteira oeste ou Montanhas do Oeste. Suas passagens são limitadas e perigosas, as rotas de travessia controladas, e poucas expedições [[_wiki/racas/shadar\|shadares]] a cruzam com regularidade. [[_wiki/personagens/yzmareth\|Yzmareth]] é o único [[_wiki/racas/draconideo\|draconídeo]] autorizado a sobrevoá-la, por um acordo cujas partes não são divulgadas.
+A Dorsal é uma cordilheira imponente que separa [[_wiki/locais/reinkard\|Reinkard]] de [[_wiki/locais/veinkard\|Veinkard]], também chamada fronteira oeste ou Montanhas do Oeste, a cerca de 500 a 600 léguas a oeste de [[_wiki/locais/morvgrad\|Morvgrad]]. Suas passagens são limitadas e perigosas, as rotas de travessia controladas, e poucas expedições [[_wiki/racas/shadar\|shadares]] a cruzam com regularidade. [[_wiki/personagens/yzmareth\|Yzmareth]] é o único [[_wiki/racas/draconideo\|draconídeo]] autorizado a sobrevoá-la, por um acordo cujas partes não são divulgadas.
 
 ### Barreira dupla
 

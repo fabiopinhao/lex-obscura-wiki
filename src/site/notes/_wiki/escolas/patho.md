@@ -18,7 +18,7 @@ O Contágio transforma o alvo infectado em vetor: quem o toca, respira perto ou 
 
 ### Custos
 
-O custo temático é náusea, febre leve e mal-estar físico, durando de cinco minutos a quatro horas. O custo ontológico é a consciência da entropia: dos sinais de decadência que outros ignoram à melancolia diante de toda beleza, até o ponto em que tudo parece em decomposição ativa e construir qualquer coisa parece absurdo. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como necromantes de apoio e avaliadores de deterioração.
+O custo temático é náusea, febre leve e mal-estar físico, durando de cinco minutos a quatro horas. O custo ontológico é a consciência da entropia: dos sinais de decadência que outros ignoram à melancolia diante de toda beleza, até o ponto em que tudo parece em decomposição ativa e construir qualquer coisa parece absurdo. A distinção com [[_wiki/escolas/cryo\|Cryo]] é fundamental: Patho faz sentir demais, em melancolia ativa e depressão, enquanto Cryo faz sentir de menos, em anestesia emocional. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como necromantes de apoio e avaliadores de deterioração.
 
 ### Combinações e oposição
 

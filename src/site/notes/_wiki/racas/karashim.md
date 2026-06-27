@@ -8,7 +8,7 @@ Os karashins são os anões de [[_wiki/locais/reinkard\|Reinkard]], mineradores,
 
 ### Posição Cosmogônica
 
-Os karashins não possuem [[_wiki/cosmologia/cor_arcana\|cor arcana]] dominante, e a ausência não é deficiência, mas posição singular no espectro das raças. A magia convencional os ignora e eles ignoram a magia convencional. Alguns são devotos de anjos, outros pragmáticos sem filiação, e a maioria trata os deuses com o mesmo respeito que dedica a um cliente, educado enquanto paga e esquecido quando para. "Karashim" é o nome próprio da raça dos anões; os [[_wiki/racas/derro\|derros]] compartilham o habitat subterrâneo e as mesmas rotas de caravana, mas são raça distinta, gnomos e não anões.
+Os karashins não possuem vínculo divino dominante, e a ausência não é deficiência, mas posição singular no espectro das raças. A magia convencional os ignora e eles ignoram a magia convencional. Alguns são devotos de anjos, outros pragmáticos sem filiação, e a maioria trata os deuses com o mesmo respeito que dedica a um cliente, educado enquanto paga e esquecido quando para. "Karashim" é o nome próprio da raça dos anões; os [[_wiki/racas/derro\|derros]] compartilham o habitat subterrâneo e as mesmas rotas de caravana, mas são raça distinta, gnomos e não anões.
 
 ### Fisiologia
 
@@ -42,7 +42,7 @@ O erro estratégico imperial foi reunir clãs rivais. Ao tomar as cidadelas meno
 
 ### Magia e Maestria Material
 
-Sem cor arcana, os karashins não acessam de forma consistente nenhum dos seis sistemas reconhecidos. Magos karashim existem como exceção individual, adotando o sistema da região onde vivem, mas a raça como um todo não tem tradição arcana. O que os karashins possuem é maestria material: artefatos forjados por seus mestres exibem propriedades que transcendem a metalurgia mundana, e os eruditos imperiais debatem se são mágicas ou puramente técnicas. Os karashins não participam do debate; chamam de trabalho bem feito e não elaboram.
+Sem vínculo divino, os karashins não acessam de forma consistente nenhum dos seis sistemas reconhecidos. Magos karashim existem como exceção individual, adotando o sistema da região onde vivem, mas a raça como um todo não tem tradição arcana. O que os karashins possuem é maestria material: artefatos forjados por seus mestres exibem propriedades que transcendem a metalurgia mundana, e os eruditos imperiais debatem se são mágicas ou puramente técnicas. Os karashins não participam do debate; chamam de trabalho bem feito e não elaboram.
 
 ### Conflitos Internos
 

@@ -4,7 +4,7 @@
 
 # Gnoll
 
-Os gnolls são híbridos humanoides de hiena, resultado do cruzamento entre as linhagens de [[_wiki/racas/vulfano\|vulfano]] preto e vermelho. São massivos, mais altos que a maioria dos humanoides, de musculatura bruta, focinho negro, juba emaranhada e olhos amarelos esbugalhados. Um fedor avassalador e permanente é a marca da espécie, e sua [[_wiki/cosmologia/cor_arcana\|cor arcana]] é mista, preto e vermelho. Vivem pouco, entre vinte e cinco e trinta e cinco anos.
+Os gnolls são híbridos humanoides de hiena, resultado do cruzamento entre as linhagens de [[_wiki/racas/vulfano\|vulfano]] preto e vermelho. São massivos, mais altos que a maioria dos humanoides, de musculatura bruta, focinho negro, juba emaranhada e olhos amarelos esbugalhados. Um fedor avassalador e permanente é a marca da espécie, e vinculam-se aos diabos e aos demônios. Vivem pouco, entre vinte e cinco e trinta e cinco anos.
 
 ### Cultura
 

@@ -4,7 +4,7 @@
 
 # Serpente Púrpura
 
-A Serpente Púrpura é uma organização de crime organizado que opera entre [[_wiki/locais/morvgrad\|Morvgrad]] e [[_wiki/locais/vor-ghol\|Vor-Ghol]], dedicada ao tráfico de artefatos e ao contrabando. De liderança desconhecida, mantém-se ativa e enraizada no mercado negro da região.
+A Serpente Púrpura é uma organização de crime organizado que opera entre [[_wiki/locais/morvgrad\|Morvgrad]] e [[_wiki/locais/vor-ghol\|Vor-Ghol]], dedicada ao tráfico de artefatos, ao tráfico de pessoas e ao contrabando. De liderança desconhecida, mantém-se ativa e enraizada no mercado negro da região.
 
 ### Face Pública
 
@@ -12,4 +12,4 @@ A rede tem conexão com o mercado negro de [[_wiki/locais/ghol_mournak\|Ghol'Mou
 
 ### Atuação
 
-A [[_wiki/artefatos/fendris\|Fendris]], adaga [[_wiki/linguas/luminar\|Luminar]] de [[_wiki/locais/thandruk_varn\|Thandruk Varn]], passou pela rede da Serpente até ser tomada por [[_wiki/personagens/nidzina_avaroth\|Nidzina]], que desmantelou parte da operação durante a investigação.
+A [[_wiki/artefatos/fendris\|Fendris]], adaga [[_wiki/linguas/luminar\|Luminar]] de [[_wiki/locais/thandruk_varn\|Thandruk Varn]], passou pela rede da Serpente após o desaparecimento de [[_wiki/personagens/draven-thol\|Draven-Thol]], até ser tomada por [[_wiki/personagens/nidzina_avaroth\|Nidzina]], que desmantelou parte da operação durante a investigação.

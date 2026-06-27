@@ -4,7 +4,7 @@
 
 # Belli
 
-Belli é a escola de magia híbrida do domínio da guerra e do combate, cruzando o vermelho e o verde do grimório. Onde outras escolas atacam de fora, Belli trabalha o corpo do conjurador e dos que o cercam: amplifica a capacidade marcial em escala crescente, do reforço individual à amplificação de um campo de batalha inteiro. Seu sentimento-chave é a excitação do confronto, a percepção do conflito como estado natural do corpo.
+Belli é a escola de magia híbrida do domínio da guerra e do combate. Onde outras escolas atacam de fora, Belli trabalha o corpo do conjurador e dos que o cercam: amplifica a capacidade marcial em escala crescente, do reforço individual à amplificação de um campo de batalha inteiro. Seu sentimento-chave é a excitação do confronto, a percepção do conflito como estado natural do corpo.
 
 ### Princípio
 
@@ -16,7 +16,7 @@ O grimório de Belli escala da provocação à transcendência marcial. Provoca�
 
 ### Custos
 
-O custo temático é uma onda de adrenalina seguida de crash severo e tremores, de cinco minutos a seis horas. O custo ontológico é o vício em conflito: a paz primeiro entedia, depois se torna insuportável. Nos estágios iniciais, a discussão energiza em vez de drenar; mais adiante, a paz prolongada gera inquietação e busca de atrito; no extremo, o conflito vira necessidade fisiológica e o praticante provoca brigas sem perceber, até que a guerra seja o único estado tolerável. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como [[_wiki/organizacoes/templarios\|Templários]] de frente e vanguarda permanente.
+O custo temático é uma onda de adrenalina seguida de crash severo e tremores, de cinco minutos a seis horas. O custo ontológico é o vício em conflito: a paz primeiro entedia, depois se torna insuportável. Nos estágios iniciais, a discussão energiza em vez de drenar; mais adiante, a paz prolongada gera inquietação e busca de atrito; no extremo, o conflito vira necessidade fisiológica e o praticante provoca brigas sem perceber, até que a guerra seja o único estado tolerável. Nesse ponto ele é descartado numa Missão de Honra, lançado numa frente de batalha sem recuo possível, morrendo lutando como sempre quis. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como [[_wiki/organizacoes/templarios\|Templários]] de frente e vanguarda permanente.
 
 ### Combinações e oposição
 

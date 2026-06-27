@@ -4,7 +4,7 @@
 
 # Casa Duskryn
 
-A Casa Duskryn é a casa matriarcal dominante de [[_wiki/locais/ghilanna\|Ghilanna]], com milhares de membros e sede na Casa-Catedral de [[_wiki/locais/xarn_zareth\|Xarn'Zareth]], o distrito sagrado que serve de equivalente subterrâneo a [[_wiki/locais/xarn_aroth\|Xarn'Aroth]], em [[_wiki/locais/morvgrad\|Morvgrad]]. Sua matriarca é [[_wiki/personagens/nylothrae_duskryn\|Nylothrae Duskryn]].
+A Casa Duskryn é a casa matriarcal dominante de [[_wiki/locais/ghilanna\|Ghilanna]], com milhares de membros e sede na Casa-Catedral de [[_wiki/locais/xarn_zareth\|Xarn'Zareth]], o distrito sagrado que serve de equivalente subterrâneo a [[_wiki/locais/xarn_aroth\|Xarn'Aroth]], em [[_wiki/locais/morvgrad\|Morvgrad]]. Sua matriarca é [[_wiki/personagens/nylothrae_duskryn\|Nylothrae Duskryn]], e suas matriarcas têm em especial apreço as gemas-vivas.
 
 ### Diplomacia
 

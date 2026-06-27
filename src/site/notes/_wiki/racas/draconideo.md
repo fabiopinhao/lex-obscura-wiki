@@ -4,7 +4,7 @@
 
 # Draconídeo
 
-Os draconídeos, ou drakhonins, são o subgrupo de elite dos [[_wiki/racas/sauriano\|saurianos]]: os maiores, mais fortes e mais orgulhosos dos humanoides répteis. De [[_wiki/cosmologia/cor_arcana\|cor arcana]] vermelha, reivindicam herança divina dos dragões e agem conforme essa crença. Seu porte excede o dos [[_wiki/racas/shadar\|shadars]] em massa e altura, suas escamas deflectem aço temperado, e seu sopro elemental transforma emboscada em cremação. São as criaturas mais próximas de dragões que o mundo ainda produz, e nunca deixam ninguém esquecer.
+Os draconídeos, ou drakhonins, são o subgrupo de elite dos [[_wiki/racas/sauriano\|saurianos]]: os maiores, mais fortes e mais orgulhosos dos humanoides répteis. Vinculados aos demônios, reivindicam herança divina dos dragões e agem conforme essa crença. Seu porte excede o dos [[_wiki/racas/shadar\|shadars]] em massa e altura, suas escamas deflectem aço temperado, e seu sopro elemental transforma emboscada em cremação. São as criaturas mais próximas de dragões que o mundo ainda produz, e nunca deixam ninguém esquecer.
 
 ### Origem
 
@@ -29,6 +29,10 @@ O ritual de pacto drakhonin vincula cada indivíduo ao deus-dragão do clã desd
 ### Magia
 
 Draconídeos acessam a magia pelo [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], vínculo demoníaco firmado desde o ovo, e sua magia tende ao fogo, à destruição e ao medo, nas escolas de [[_wiki/escolas/pyro\|Pyro]] e [[_wiki/escolas/phobos\|Phobos]]. O sopro elemental é a manifestação mágica mais visível, inscrita na própria fisiologia. O custo se manifesta como queimadura interna progressiva: draconídeos que abusam do sopro ou de invocações de fogo desenvolvem necrose nos tecidos internos, e as escamas permanecem intactas enquanto os órgãos carbonizam por dentro. Os velhos e poderosos frequentemente morrem de colapso interno, não de combate.
+
+### Ciclo Vital
+
+Os draconídeos são ovíparos: as fêmeas põem de um a três ovos por ninhada, incubados por cerca de noventa dias em calor constante, nas fornalhas do clã ou em solo vulcânico. Os filhotes nascem com escamas macias, que endurecem ao longo do primeiro ano, e alcançam a idade adulta por volta dos doze anos.
 
 ### Conflitos
 

@@ -8,7 +8,7 @@ Vor-Ghol é o Underdark de [[_wiki/locais/reinkard\|Reinkard]]: uma vasta rede d
 
 ### Geografia
 
-Arquitetura de torres espirais de obsidiana erguidas entre cogumelos gigantes e líquens bioluminescentes, o limo-luz. Berço geológico compartilhado por [[_wiki/racas/orc\|orcs]] e drul, abriga também [[_wiki/racas/karashim\|karashim]], [[_wiki/racas/murano\|muranos]] e gnomos das profundezas. Marés subterrâneas sobem e bloqueiam galerias inteiras.
+Arquitetura de torres espirais de obsidiana erguidas entre cogumelos gigantes e líquens bioluminescentes, o limo-luz. Berço geológico compartilhado por [[_wiki/racas/orc\|orcs]] e drul, abriga também [[_wiki/racas/karashim\|karashim]], [[_wiki/racas/murano\|muranos]] e gnomos das profundezas, dezenas de milhares de criaturas ao todo. Marés subterrâneas sobem e bloqueiam galerias inteiras.
 
 ### Sociedade
 

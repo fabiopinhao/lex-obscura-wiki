@@ -15,4 +15,4 @@ As entidades divinas de [[_wiki/locais/thamakard\|Thamakard]] dividem-se em cinc
 - **Personalidade** — Diabos: Calculista | Demônios: Violenta | Titãs: Compassiva | Anjos: Imperativa | Siderais: Lógica e alienígena
 - **Marca no conjurador** — Diabos: Runa infernal | Demônios: Mutação grotesca | Titãs: Folhas, casca, natural | Anjos: Halo e luminosidade | Siderais: Olhos prateados
 
-Os contrastes mais profundos, a razão de cores vizinhas divergirem no método, pertencem à [[_wiki/cosmologia/ontologia_divina\|Ontologia Divina]], e os sistemas de vínculo entre mortal e entidade, aos [[_wiki/cosmologia/mecanismos_divinos\|Mecanismos Divinos]].
+Os contrastes mais profundos, a razão de categorias próximas divergirem no método, pertencem à [[_wiki/cosmologia/ontologia_divina\|Ontologia Divina]], e os sistemas de vínculo entre mortal e entidade, aos [[_wiki/cosmologia/mecanismos_divinos\|Mecanismos Divinos]].

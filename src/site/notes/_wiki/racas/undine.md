@@ -4,7 +4,7 @@
 
 # Undine
 
-Os undines são elfos [[_wiki/cosmologia/siderais\|siderais]] alinhados aos oceanos, rios e lagos, de [[_wiki/cosmologia/cor_arcana\|cor arcana]] azul. Habitam o extremo leste de [[_wiki/locais/neranthis\|Neranthis]], em costas oceânicas e ilhas do arquipélago oriental, e estão entre as raças mais remotas e misteriosas do mundo: são desconhecidos dos [[_wiki/racas/shadar\|shadars]] e praticamente invisíveis ao restante de [[_wiki/locais/reinkard\|Reinkard]].
+Os undines são elfos [[_wiki/cosmologia/siderais\|siderais]] alinhados aos oceanos, rios e lagos. Habitam o extremo leste de [[_wiki/locais/neranthis\|Neranthis]], em costas oceânicas e ilhas do arquipélago oriental, e estão entre as raças mais remotas e misteriosas do mundo: são desconhecidos dos [[_wiki/racas/shadar\|shadars]] e praticamente invisíveis ao restante de [[_wiki/locais/reinkard\|Reinkard]].
 
 ### Fisiologia
 

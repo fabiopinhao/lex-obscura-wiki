@@ -4,7 +4,7 @@
 
 # Aviano
 
-Os avianos são uma família de humanoides híbridos de aves, de [[_wiki/cosmologia/cor_arcana\|cor arcana]] branca, dividida em duas sub-raças naturais de origem comum: os [[_wiki/racas/aquilar\|aquilars]], de porte humanoide, e os [[_wiki/racas/fringal\|fringais]], de porte gnômico. Ovíparos e de habitat originalmente urbano, têm acesso mágico exclusivo pela [[_wiki/magia/devotio_sancta\|Devotio Sancta]].
+Os avianos são uma família de humanoides híbridos de aves, ligados aos anjos, dividida em duas sub-raças naturais de origem comum: os [[_wiki/racas/aquilar\|aquilars]], de porte humanoide, e os [[_wiki/racas/fringal\|fringais]], de porte gnômico. Ovíparos e de habitat originalmente urbano, têm acesso mágico exclusivo pela [[_wiki/magia/devotio_sancta\|Devotio Sancta]].
 
 ### Origem Cosmogônica
 

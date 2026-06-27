@@ -4,7 +4,7 @@
 
 # Anatho
 
-Anatho é a escola de magia híbrida de preto e vermelho, dedicada à maldição e à corrupção. Impõe degradação sobrenatural sem causa orgânica: o alvo enfraquece, adoece ou se desfaz sem motivo visível. Seu sentimento-chave é a vontade calculada de degradar, enxergar fraquezas como pontos de pressão. É a escola oposta ao [[_wiki/escolas/sacro\|Sacro]], graça contra maldição.
+Anatho é a escola de magia híbrida dedicada à maldição e à corrupção. Impõe degradação sobrenatural sem causa orgânica: o alvo enfraquece, adoece ou se desfaz sem motivo visível. Seu sentimento-chave é a vontade calculada de degradar, enxergar fraquezas como pontos de pressão. É a escola oposta ao [[_wiki/escolas/sacro\|Sacro]], graça contra maldição.
 
 ### Práticas
 
@@ -12,7 +12,7 @@ A escola escala do incômodo à inversão existencial. Azar inclina a probabilid
 
 ### Custos
 
-O custo temático são marcas temporárias de corrupção na própria carne, e o vínculo com o alvo é bidirecional: fragmentos da aflição imposta vazam de volta para o conjurador. O custo ontológico transforma toda relação em vetor de dano: começa em desconfiança instintiva de elogios e gentilezas e avança até a incapacidade de intimidade genuína, quando todo afeto parece tática.
+O custo temático são marcas temporárias de corrupção na própria carne, e o vínculo com o alvo é bidirecional: fragmentos da aflição imposta vazam de volta para o conjurador. O custo ontológico transforma toda relação em vetor de dano: começa em desconfiança instintiva de elogios e gentilezas e avança até a incapacidade de intimidade genuína, quando todo afeto parece tática. No estágio extremo, quando a manipulação se volta contra superiores na própria cadeia de comando, o descarte vem por uma Transferência silenciosa.
 
 ### No Império
 

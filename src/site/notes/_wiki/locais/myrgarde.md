@@ -8,7 +8,7 @@ Myrgarde é a antiga capital humana de [[_wiki/locais/reinkard\|Reinkard]], que 
 
 ### A cidade
 
-Cidade de pedra clara e encruzilhada de povos, reunia humanos, anões e gnomos antes da conquista. A vida cívica girava em torno do mercado, do campo de [[_wiki/conceitos/korball\|Korball]] e do Scholarium anexo à [[_wiki/organizacoes/igreja_de_sao_lucian\|Igreja de São Lucian]], onde os meninos aprendiam letras sagradas.
+Cidade de pedra clara e encruzilhada de povos, reunia humanos, anões e gnomos antes da conquista, e ainda hoje abriga mais de cinquenta mil almas sob jugo imperial. A vida cívica girava em torno do mercado, do campo de [[_wiki/conceitos/korball\|Korball]] e do Scholarium anexo à [[_wiki/organizacoes/igreja_de_sao_lucian\|Igreja de São Lucian]], onde os meninos aprendiam letras sagradas.
 
 ### Fé e conquista
 

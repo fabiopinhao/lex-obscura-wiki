@@ -4,11 +4,11 @@
 
 # Thandruk Varn
 
-Thandruk Varn é uma cidade-fortaleza anânica na fronteira entre os territórios shadares de [[_wiki/locais/reinkard\|Reinkard]] e a região varnakiana de [[_wiki/locais/veinkard\|Veinkard]]. Erguida sobre uma antiga caverna de dragão que guardava riquezas minerais, está hoje sob custódia do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] e controle do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]].
+Thandruk Varn é uma cidade-fortaleza anânica na fronteira entre os territórios shadares de [[_wiki/locais/reinkard\|Reinkard]] e a região varnakiana de [[_wiki/locais/veinkard\|Veinkard]], a cerca de 450 léguas a sudoeste de [[_wiki/locais/morvgrad\|Morvgrad]]. Erguida sobre uma antiga caverna de dragão que guardava riquezas minerais, está hoje sob custódia do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] e controle do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]].
 
 ### Geografia e função
 
-A cidadela serve de ponte entre Reinkard e Veinkard e abriga forjas mestras que formam o esteio dos arsenais imperiais. Sua localização isolada torna a defesa desafiadora. Os anões [[_wiki/racas/karashim\|karashim]] da cidade vivem escravizados sob domínio [[_wiki/racas/shadar\|shadar]], e os clãs confinados alimentam disputas internas frequentes. É também a procedência de uma adaga misteriosa que [[_wiki/personagens/yzmareth\|Yzmareth]] busca.
+A cidadela serve de ponte entre Reinkard e Veinkard e abriga forjas mestras que formam o esteio dos arsenais imperiais. Sua localização isolada torna a defesa desafiadora. Os anões [[_wiki/racas/karashim\|karashim]] da cidade, cerca de cinco mil ao todo, vivem escravizados sob domínio [[_wiki/racas/shadar\|shadar]], e os clãs confinados alimentam disputas internas frequentes. É também a procedência de uma adaga misteriosa que [[_wiki/personagens/yzmareth\|Yzmareth]] busca.
 
 ### Estrutura atual
 

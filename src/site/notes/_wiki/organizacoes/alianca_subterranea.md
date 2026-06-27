@@ -4,7 +4,7 @@
 
 # Aliança Subterrânea
 
-A Aliança Subterrânea é o pacto político entre [[_wiki/racas/shadar\|shadars]] e [[_wiki/racas/drul\|druls]], arquitetado por [[_wiki/personagens/xarn\|Xarn]] na [[_wiki/conceitos/segunda_era\|Segunda Era]], quando ele unificou [[_wiki/locais/morvgrad\|Morvgrad]] e estabeleceu relações formais com [[_wiki/locais/ghilanna\|Ghilanna]]. O pacto abriu uma troca cultural inédita entre as raças: os shadars absorveram a cultura de segredo drul, base dos [[_wiki/organizacoes/templarios\|templários]], enquanto os druls ganharam acesso aos recursos da superfície e proteção militar.
+A Aliança Subterrânea é o pacto político entre [[_wiki/racas/shadar\|shadars]] e [[_wiki/racas/drul\|druls]], arquitetado por [[_wiki/personagens/xarn\|Xarn]], que serviu como seu embaixador, na [[_wiki/conceitos/segunda_era\|Segunda Era]], quando ele unificou [[_wiki/locais/morvgrad\|Morvgrad]] e estabeleceu relações formais com [[_wiki/locais/ghilanna\|Ghilanna]]. O pacto abriu uma troca cultural inédita entre as raças: os shadars absorveram a cultura de segredo drul, base dos [[_wiki/organizacoes/templarios\|templários]], enquanto os druls ganharam acesso aos recursos da superfície e proteção militar.
 
 ### Mecânica
 

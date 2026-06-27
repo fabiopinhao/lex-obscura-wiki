@@ -4,7 +4,7 @@
 
 # Sylvano
 
-Os sylvanos são elfos titânicos das florestas, devotos de [[_wiki/panteao/titania\|Titânia]] e alinhados à [[_wiki/cosmologia/cor_arcana\|cor arcana]] verde. Fragmentos de um povo élfico antigo que se voltou para os [[_wiki/cosmologia/titas\|titãs]] primordiais e os ciclos da natureza, fizeram de [[_wiki/locais/thal_serin\|Thal'Serin]] o coração de sua resistência e servem ao verde com uma devoção que os mantém à sombra das árvores, distantes dos palácios e dos impérios.
+Os sylvanos são elfos titânicos das florestas, devotos de [[_wiki/panteao/titania\|Titânia]]. Fragmentos de um povo élfico antigo que se voltou para os [[_wiki/cosmologia/titas\|titãs]] primordiais e os ciclos da natureza, fizeram de [[_wiki/locais/thal_serin\|Thal'Serin]] o coração de sua resistência e servem ao verde com uma devoção que os mantém à sombra das árvores, distantes dos palácios e dos impérios.
 
 ### Fisiologia
 

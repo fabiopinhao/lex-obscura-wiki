@@ -4,7 +4,7 @@
 
 # Abjuro
 
-Abjuro é a escola híbrida das cores verde e branco, dedicada à negação e à dissipação do arcano. Detecta, dissipa, bloqueia e extingue magia: remove encantamentos, suprime a capacidade arcana, cria zonas antimagia e redireciona feitiços ao conjurador original. Onde [[_wiki/escolas/sacro\|Sacro]] purifica por autoridade moral, [[_wiki/escolas/rupto\|Rupto]] quebra pela força e [[_wiki/escolas/urano\|Urano]] transcende por elevação, Abjuro simplesmente nega, desligando o encantamento sem violência nem ritual.
+Abjuro é a escola híbrida dedicada à negação e à dissipação do arcano. Detecta, dissipa, bloqueia e extingue magia: remove encantamentos, suprime a capacidade arcana, cria zonas antimagia e redireciona feitiços ao conjurador original. Onde [[_wiki/escolas/sacro\|Sacro]] purifica por autoridade moral, [[_wiki/escolas/rupto\|Rupto]] quebra pela força e [[_wiki/escolas/urano\|Urano]] transcende por elevação, Abjuro simplesmente nega, desligando o encantamento sem violência nem ritual.
 
 ### Princípio
 
@@ -18,7 +18,7 @@ A Interdição bloqueia uma conjuração em curso antes que se manifeste, fazend
 
 ### Custos
 
-O custo temático é uma vulnerabilidade mágica passageira, com resistência reduzida por algo entre dois minutos e duas horas. O custo ontológico é o negacionismo mágico, que progride por estágios: da desconfiança constante de proteções alheias à tendência de dissipar antes de perguntar, até a cooperação arcana se tornar impossível e toda magia externa virar ameaça. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como [[_wiki/organizacoes/templarios\|Templários]] de anulação e contra-magia defensiva até o terceiro estágio.
+O custo temático é uma vulnerabilidade mágica passageira, com resistência reduzida por algo entre dois minutos e duas horas. O custo ontológico é o negacionismo mágico, que progride por estágios: da desconfiança constante de proteções alheias à tendência de dissipar antes de perguntar, até a cooperação arcana se tornar impossível e toda magia externa virar ameaça. No último estágio, quando o praticante passa a dissipar até as proteções imperiais e ameaça comprometer operações conjuntas, é descartado numa Transferência silenciosa. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como [[_wiki/organizacoes/templarios\|Templários]] de anulação e contra-magia defensiva até o terceiro estágio.
 
 ### Combinações e oposição
 

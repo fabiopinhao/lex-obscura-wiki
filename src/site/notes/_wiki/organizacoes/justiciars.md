@@ -14,11 +14,15 @@ A reforma também carregava uma convicção racial explícita de Arothistar: os 
 
 ### Ordenação
 
-Não há nascimento que garanta o manto negro. A seleção exige excelência em três pilares: domínio marcial e arcano, erudição jurídica e devoção ao culto, com preferência por veteranos de guerra. A unção ocorre no [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]], onde o candidato se ajoelha diante da [[_wiki/artefatos/efigie_de_arothistar\|efígie de Arothistar]] e recebe três símbolos de autoridade: a [[_wiki/artefatos/spina_lexis\|Spina Lexis]], cetro da sentença; o Codex Somniorum, grimório tripartite; e o [[_wiki/artefatos/oculus_morvgradi\|Oculus]], esfera de comunicação.
+Não há nascimento que garanta o manto negro. A seleção exige excelência em três pilares: domínio marcial e arcano, erudição jurídica e devoção ao culto, com preferência por veteranos de guerra. A unção ocorre no [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]], onde o candidato se ajoelha diante da [[_wiki/artefatos/efigie_de_arothistar\|efígie de Arothistar]] e recebe três símbolos de autoridade: a [[_wiki/artefatos/spina_lexis\|Spina Lexis]], cetro da sentença; o Codex Somniorum, grimório tripartite; e o [[_wiki/artefatos/oculus_morvgradi\|Oculus]], esfera de comunicação. Ao fim do rito, pronuncia-se a fórmula da unção: *Arothistar est lex. Abbhal est vox. Tu est martelo.*
 
 ### Poderes
 
 Operam com autonomia quase absoluta dentro do culto: investigam qualquer membro independentemente de posto, sobrepõem-se às autoridades locais, requisitam recursos militares e podem sentenciar em campo. Sua ênfase mágica recai sobre [[_wiki/escolas/necro\|Necro]] (extrair verdades de mortos e moribundos), [[_wiki/escolas/nomos\|Nomos]] (contenção) e [[_wiki/escolas/anatho\|Anatho]] (maldições punitivas). O protocolo inquisitorial vai da denúncia recebida pelo Conselho ao relatório codificado na [[_wiki/artefatos/tabua_reversa\|Tábua Reversa]]. O [[_wiki/conceitos/veredictum_exkarthon\|Veredictum Exkarthon]] é uma das poucas proteções processuais: permite ao investigado exigir provas antes da sentença.
+
+### Subordinação e estrutura
+
+A única subordinação de um Justiciar é aos interesses coletivos de Morvgrad, o eixo formado por Arothistar e o Conselho Sombrio; nenhum responde a um templo ou a um [[_wiki/cosmologia/diabos\|diabo]] particular. É essa moldura que sustenta o aparente paradoxo de servirem ao Conselho e, ainda assim, poderem julgar conselheiros corruptos quando o interesse de Arothistar e de Morvgrad o exige. Entre os próprios Justiciars não há hierarquia formal: tempo de serviço e reputação criam distinções tácitas, e eles operam sozinhos ou em pequenos grupos, por vezes acompanhados de auxiliares especializados, como [[_wiki/organizacoes/ophideias\|ophideias]] que somam a espionagem sacerdotal à execução.
 
 ### O peso do cargo
 

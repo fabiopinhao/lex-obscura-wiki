@@ -8,7 +8,7 @@ Os minotauros são híbridos bovinos de porte monumental, uma raça hoje quase e
 
 ### Fisiologia
 
-Híbridos bovinos de grande porte, os minotauros têm chifres curvados e musculatura densa sob pelagem castanho-escura, com mãos articuladas capazes de manipulação fina apesar do tamanho. Odran é descrito com os chifres quase raspando os batentes. A longevidade de sessenta a oitenta anos é a mais alta entre os híbridos. Não possuem cor arcana definida, o que sugere desconexão dos sistemas mágicos convencionais ou a perda dessa classificação com a quase-extinção.
+Híbridos bovinos de grande porte, os minotauros têm chifres curvados e musculatura densa sob pelagem castanho-escura, com mãos articuladas capazes de manipulação fina apesar do tamanho. Odran é descrito com os chifres quase raspando os batentes. A longevidade de sessenta a oitenta anos é a mais alta entre os híbridos. Não têm vínculo divino definido, o que sugere desconexão dos sistemas mágicos convencionais ou a perda dessa classificação com a quase-extinção.
 
 ### Cultura e História
 

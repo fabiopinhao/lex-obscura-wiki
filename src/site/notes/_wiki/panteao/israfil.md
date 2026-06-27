@@ -8,7 +8,7 @@ Israfil, o Arauto da Aurora, é um Anjo da tradição luminosa cujo domínio une
 
 ### Natureza
 
-Sob a pele translúcida do Arauto circula uma rede de veias incandescentes por onde corre algo mais quente que sangue. As presas são longas, feitas de osso vitrificado que emite calor constante; tocá-las fecha feridas no ponto de contato e cauteriza o tecido ao redor, deixando cicatriz esbranquiçada. Vegetação pálida brota sob cada passo do Arauto e murcha em estilhas quando a presença se afasta. A tromba se ramifica na ponta em filamentos que localizam ferimentos pela temperatura, convergindo para a lesão antes que o ferido perceba. Quando Israfil bramia, o som se propagava como onda de calor seco que clareava o horizonte, e quem estivesse ferido dentro do alcance sentia os cortes arderem e se contraírem como lábios de ferida costurados por agulha invisível.
+Sob a pele translúcida do Arauto circula uma rede de veias incandescentes por onde corre algo mais quente que sangue. As presas são longas, feitas de osso vitrificado que emite calor constante; tocá-las fecha feridas no ponto de contato e cauteriza o tecido ao redor, deixando cicatriz esbranquiçada. Vegetação pálida brota sob cada passo do Arauto e murcha em estilhas quando a presença se afasta, efeito colateral de seu poder restaurador e não um domínio sobre a flora. A tromba se ramifica na ponta em filamentos que localizam ferimentos pela temperatura, convergindo para a lesão antes que o ferido perceba. Quando Israfil bramia, o som se propagava como onda de calor seco que clareava o horizonte, e quem estivesse ferido dentro do alcance sentia os cortes arderem e se contraírem como lábios de ferida costurados por agulha invisível.
 
 ### Domínio
 

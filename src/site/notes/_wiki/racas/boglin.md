@@ -4,7 +4,7 @@
 
 # Boglin
 
-Os boglins são [[_wiki/racas/ranidano\|ranidanos]] de porte gnômico, descendentes da linhagem queloniana: tartarugas humanoides protegidas por um casco dorsal, de [[_wiki/cosmologia/cor_arcana\|cor arcana]] azul. São os menores e mais reclusos habitantes de [[_wiki/locais/neranthis\|Neranthis]], avistados com menos frequência que qualquer outra raça do continente.
+Os boglins são [[_wiki/racas/ranidano\|ranidanos]] de porte gnômico, descendentes da linhagem queloniana: tartarugas humanoides protegidas por um casco dorsal. São os menores e mais reclusos habitantes de [[_wiki/locais/neranthis\|Neranthis]], avistados com menos frequência que qualquer outra raça do continente.
 
 ### Natureza
 

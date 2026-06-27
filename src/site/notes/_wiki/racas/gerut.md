@@ -12,7 +12,7 @@ A escolha primordial define tudo: são humanos que se ligaram à terra. Durante 
 
 ### Fisiologia
 
-A [[_wiki/cosmologia/cor_arcana\|cor arcana]] gerut é verde. A pele tem tons terrosos, de oliva escuro a castanho-argila, marcada por veios esverdeados que se adensam com a idade num padrão semelhante a estrias de madeira. A constituição é robusta, moldada por gerações de vida em florestas e pântanos: mãos largas e calosas, dedos que parecem feitos para cavar, olfato apurado para fungos e podridão vegetal. Muitos exibem cabelos entremeados de musgo seco e fibras de casca, uma simbiose acidental, nunca ornamento.
+Os geruts vinculam-se aos titãs. A pele tem tons terrosos, de oliva escuro a castanho-argila, marcada por veios esverdeados que se adensam com a idade num padrão semelhante a estrias de madeira. A constituição é robusta, moldada por gerações de vida em florestas e pântanos: mãos largas e calosas, dedos que parecem feitos para cavar, olfato apurado para fungos e podridão vegetal. Muitos exibem cabelos entremeados de musgo seco e fibras de casca, uma simbiose acidental, nunca ornamento.
 
 A longevidade vai de noventa e seis a cem anos. O envelhecimento segue padrão humano até os sessenta, quando a pele engrossa e escurece como couro curtido ao sol; nos últimos anos, as articulações endurecem e o gerut perde mobilidade de dentro para fora. Em indivíduos que ultrapassam o ciclo natural por simbiose prolongada com os titãs, relata-se uma transformação terminal de outra ordem: os ossos convertem-se em madeira, o músculo endurece em fibra lenhosa, e o indivíduo funde-se ao solo onde se enraizou. [[_wiki/personagens/peredur\|Peredur]] descreve o processo como irreversível; sua extensão e seu preço completos permanecem desconhecidos.
 

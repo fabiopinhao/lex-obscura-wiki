@@ -4,7 +4,7 @@
 
 # Salvo
 
-Salvo é a escola híbrida de branco e verde dedicada à cura e à restauração. Repara ferimentos, estabiliza feridos, neutraliza toxinas e doenças e regenera tecido por via médico-arcana. É reativa por natureza, porque responde ao dano já feito, e essa é a distinção que a separa de [[_wiki/escolas/vita\|Vita]], que fortalece o corpo antes do golpe, e de [[_wiki/escolas/sacro\|Sacro]], que opera por milagre divino em vez de técnica.
+Salvo é a escola híbrida dedicada à cura e à restauração. Repara ferimentos, estabiliza feridos, neutraliza toxinas e doenças e regenera tecido por via médico-arcana. É reativa por natureza, porque responde ao dano já feito, e essa é a distinção que a separa de [[_wiki/escolas/vita\|Vita]], que fortalece o corpo antes do golpe, e de [[_wiki/escolas/sacro\|Sacro]], que opera por milagre divino em vez de técnica.
 
 ### Princípio
 
@@ -24,7 +24,7 @@ Com Vita, o Enxerto drena vitalidade de uma fonte voluntária e a Soldadura dire
 
 ### Custos
 
-O custo temático é a transferência de dor: curar outro significa sentir a dor curada, de forma imediata e proporcional. O custo ontológico é a codependência empática, em que o sofrimento alheio se torna intolerável e curar vicia. No primeiro estágio, a dor dos outros incomoda mais que o normal; no segundo, curar produz satisfação desproporcional; no terceiro, deixar alguém sofrer parece crueldade ativa, os limites pessoais desaparecem e o praticante passa a absorver dor alheia de forma compulsiva, a ponto de sabotar violência legítima. O quarto estágio é tido como risco sistêmico irreversível. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como Curandeiros Imperiais apenas até o segundo estágio, com descarte obrigatório antes do terceiro.
+O custo temático é a transferência de dor: curar outro significa sentir a dor curada, de forma imediata e proporcional. O custo ontológico é a codependência empática, em que o sofrimento alheio se torna intolerável e curar vicia. No primeiro estágio, a dor dos outros incomoda mais que o normal; no segundo, curar produz satisfação desproporcional; no terceiro, deixar alguém sofrer parece crueldade ativa, os limites pessoais desaparecem e o praticante passa a absorver dor alheia de forma compulsiva, a ponto de sabotar violência legítima. O quarto estágio é tido como risco sistêmico irreversível, e o praticante que chega a ele é executado numa Consagração Final, pois a empatia compulsiva sabota funções essenciais do [[_wiki/organizacoes/imperio_sombrio\|Império]]. O Império recruta praticantes como Curandeiros Imperiais apenas até o segundo estágio, com descarte obrigatório antes do terceiro.
 
 ### Par antagônico
 

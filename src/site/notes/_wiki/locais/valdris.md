@@ -8,7 +8,7 @@ Valdris é uma cidade-porto de pedra escura na costa sul de [[_wiki/locais/reink
 
 ### A Cidade
 
-O sal define Valdris como a sombra define Morvgrad. A brisa do mar deposita uma salmoura constante sobre pele, roupas e telhados, uma crosta cinzenta que ninguém remove. O porto acorda antes do sol, entre gaivotas, cordas estalando nos mastros e o vozerio dos pescadores. Para uma mulher sem marido, a liberdade dos becos do porto valia mais que prata.
+O sal define Valdris como a sombra define Morvgrad. A brisa do mar deposita uma salmoura constante sobre pele, roupas e telhados, uma crosta cinzenta que ninguém remove. O porto acorda antes do sol, entre gaivotas, cordas estalando nos mastros e o vozerio dos pescadores.
 
 ### A Queda
 
@@ -18,6 +18,6 @@ Antes da conquista, [[_wiki/locais/myrgarde\|Myrgarde]] apertava o pescoço de V
 
 Cerca de cinquenta e sete anos antes do presente, a segunda grande campanha do general Dravhok varreu o cinturão oriental de Myrgarde e atingiu a costa. Quando as legiões alcançaram Valdris, o mar respondeu: ondas de proporção que nenhuma tempestade natural explicava avançaram sobre a cidade e sobre a legião acampada, carregando soldados e equipamentos sem aviso e sem causa aparente. Dravhok ordenou a retirada, a única vez que recuou em toda a sua carreira militar.
 
-### Terra Natal de Milor
+### O Trauma de Valdris
 
-[[_wiki/personagens/milorsevogh_velshard\|Milorsevogh]] nasceu e cresceu em Valdris; conta-se que o sal já estava nele antes de nascer. Cerca de quinze anos antes do presente, algo aconteceu na cidade que transformou soldados em veteranos mudos. Milor e [[_wiki/personagens/ravhor\|Ravhor]] estiveram presentes, e Ravhor carrega no pescoço uma cicatriz que toca sem perceber quando o nome de Valdris surge. Os detalhes do evento permanecem não documentados. Entre os [[_wiki/racas/shadar\|shadars]], ser designado para a guarnição de Valdris é tido por punição pior que rebaixamento.
+Cerca de quinze anos antes do presente, algo aconteceu em Valdris que transformou soldados em veteranos mudos. [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh]] e [[_wiki/personagens/ravhor\|Ravhor]] estiveram presentes, e Ravhor carrega no pescoço uma cicatriz que toca sem perceber quando o nome de Valdris surge. Milor pediu a Ravhor que se lembrasse de Valdris caso a marca de [[_wiki/escolas/anatho\|Anatho]] em seu pulso despertasse, sugerindo que a cidade guarda algo, uma pessoa, um recurso ou um segredo, capaz de ajudar se a maldição se ativar. Os detalhes do evento permanecem não documentados. Entre os [[_wiki/racas/shadar\|shadars]], ser designado para a guarnição de Valdris é tido por punição pior que rebaixamento.

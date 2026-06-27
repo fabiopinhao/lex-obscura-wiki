@@ -8,11 +8,11 @@ Os vulfanos são uma família de humanoides híbridos caninos de marca arcana pr
 
 ### Origem Cosmogônica
 
-Como todos os humanoides híbridos, os vulfanos remontam às [[_wiki/eventos/guerras_raciais\|Guerras Raciais]], evento da [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]] anterior à fragmentação dos [[_wiki/linguas/luminar\|Luminares]]. Nesse período os deuses intervieram diretamente no plano material, cruzando humanos e animais para produzir soldados alinhados às suas [[_wiki/cosmologia/cor_arcana\|cores arcanas]], e os vulfanos, de cor preta, são atribuídos a entidades diabólicas que fundiram sangue humano e canino selvagem. As Guerras Raciais não foram conflitos organizados: as raças híbridas não construíam cidades nem reivindicavam territórios, eram forças brutas no campo de disputa entre deuses, mais hábeis na luta direta que os humanos puros e alinhadas por instinto aos seus patronos. Quando as Guerras se encerraram e os deuses recuaram, os híbridos ficaram, abandonados pelos patronos e desprovidos de instrução ou território, restando-lhes apenas a forma e o instinto.
+Como todos os humanoides híbridos, os vulfanos remontam às [[_wiki/eventos/guerras_raciais\|Guerras Raciais]], evento da [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]] anterior à fragmentação dos [[_wiki/linguas/luminar\|Luminares]]. Nesse período os deuses intervieram diretamente no plano material, cruzando humanos e animais para produzir soldados alinhados aos seus panteões, e os vulfanos, atribuídos a entidades diabólicas que fundiram sangue humano e canino selvagem. As Guerras Raciais não foram conflitos organizados: as raças híbridas não construíam cidades nem reivindicavam territórios, eram forças brutas no campo de disputa entre deuses, mais hábeis na luta direta que os humanos puros e alinhadas por instinto aos seus patronos. Quando as Guerras se encerraram e os deuses recuaram, os híbridos ficaram, abandonados pelos patronos e desprovidos de instrução ou território, restando-lhes apenas a forma e o instinto.
 
 ### Natureza Familiar
 
-As duas sub-raças compartilham a ascendência canina, a cor arcana preta e a alternância de postura, mas a distância entre elas é grande. Os worgs herdaram o porte e a força; os varglins, a pequenez e a função de batedores. O que um dia foi complementaridade tornou-se separação quase completa.
+As duas sub-raças compartilham a ascendência canina, o vínculo com os diabos e a alternância de postura, mas a distância entre elas é grande. Os worgs herdaram o porte e a força; os varglins, a pequenez e a função de batedores. O que um dia foi complementaridade tornou-se separação quase completa.
 
 ### A Ruptura Interna
 
