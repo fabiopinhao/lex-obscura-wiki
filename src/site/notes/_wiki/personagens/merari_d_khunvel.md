@@ -16,7 +16,7 @@ Sob seu governo, Niedellin manteve uma prosperidade anômala para uma província
 
 ### Queda
 
-Quando a comitiva do Justiciar [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] chegou a Niedellin, Merari estava ausente. Ao perder o controle direto da situação, recorreu ao [[_wiki/conceitos/veredictum_exkarthon\|Veredictum Exkarthon]], invocando o instrumento legal como último recurso de poder para forçar uma investigação da floresta. Cercou a capela com cerca de duas dúzias de [[_wiki/racas/orc\|orcs]] e, ao fim do confronto, foi capturado. Aguarda agora a decisão do Círculo Interior, prisioneiro em [[_wiki/locais/ghol_drokh\|Ghol'Drokh]].
+Quando a comitiva do Justiciar [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] chegou a Niedellin, Merari estava ausente. Ao perder o controle direto da situação, recorreu ao [[_wiki/conceitos/veredictum_exkarthon\|Veredictum Exkarthon]], invocando o instrumento legal como último recurso de poder para forçar uma investigação da floresta. Cercou a capela com cerca de duas dúzias de [[_wiki/racas/orc\|orcs]] e, ao fim do confronto, foi capturado. Aguarda agora a decisão do Círculo Interior, prisioneiro em [[_wiki/locais/morvgrad\|Morvgrad]].
 
 ### Voz
 

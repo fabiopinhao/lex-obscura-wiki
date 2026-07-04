@@ -12,7 +12,7 @@ Carrega a barriga protuberante de quem nunca recusa uma refeição e o porte de 
 
 ### Origem e papel
 
-Veterano da guarda de Milor, Grub serve menos por convicção do que por hábito e lealdade simples. Segue Grothar, segue Milor, segue Mur, e nesse cardápio de fidelidades não procura motivos abstratos. É soldado de presença, não de comando: vale pelo que aguenta e pelo que derruba.
+Veterano da guarda de Milor, Grub serve menos por convicção do que por hábito e lealdade simples. Segue Grothar, segue Milor, segue Mur, e nesse cardápio de fidelidades não procura motivos abstratos. É soldado de presença, não de comando: vale pelo que aguenta e pelo que derruba. Venera [[_wiki/panteao/thurgash\|Thûrgash]], o deus dos berserkers órquicos, e aspira a um dia conquistar o vínculo ([[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]]) e os poderes de combate que Grothar já possui; até agora segue sem vínculo.
 
 ### Voz e método
 

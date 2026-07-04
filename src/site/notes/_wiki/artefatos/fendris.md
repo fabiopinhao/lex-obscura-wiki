@@ -19,3 +19,7 @@ A restrição foi deliberadamente concebida. Os artífices Luminares sabiam que 
 ### História recente
 
 A adaga esteve no museu particular do Conselheiro [[_wiki/personagens/dessian_broel\|Dessian Broel]], passou às mãos da [[_wiki/organizacoes/serpente_purpura\|Serpente Púrpura]] e foi confiscada por [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]] após confronto. É o objetivo central do [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr'vethan]]: [[_wiki/personagens/yzmareth\|Yzmareth]] busca a adaga para eliminar [[_wiki/personagens/varna\|Varna]] e unificar [[_wiki/locais/varnak\|Varnak]]. Fendris desperta espontaneamente na presença de cristal, sem necessidade de receptáculo ou comando verbal, fenômeno que contradiz a mecânica padrão dos artefatos forjados: [[_wiki/personagens/gorvam_threnk\|Gorvam Threnk]], Mestre das Forjas, declarou nunca ter visto peça equivalente, o que corrobora sua origem luminar.
+
+### Importância estratégica
+
+Quem detém a Fendris detém o poder de eliminar Varna, a dragão anciã cuja presença mantém o equilíbrio de poder em Varnak por meio de uma ameaça individual de escala apocalíptica. A adaga é, por isso, peça-chave na geopolítica da região montanhosa.

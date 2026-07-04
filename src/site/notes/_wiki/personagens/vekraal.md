@@ -8,7 +8,7 @@ Vekraal é um [[_wiki/racas/shadar\|Shadar]] general do [[_wiki/organizacoes/imp
 
 ### Comando
 
-Ordenou o fogo alquímico sobre [[_wiki/locais/lendalas\|Lendalas]] e, durante uma crise, executou um general shadar tido como traidor. Mais tarde é enviado por Arothistar a [[_wiki/locais/elenir\|Elenir]]. Por fim, sua figura é vislumbrada à distância pelo [[_wiki/artefatos/oculus_morvgradi\|Oculus]], sempre associada ao templo selado de [[_wiki/panteao/vozrador\|Vozrador]].
+Ordenou o fogo alquímico sobre [[_wiki/locais/lendalas\|Lendalas]] e, durante uma crise, executou um general shadar tido como traidor. Mais tarde é enviado por Arothistar a [[_wiki/locais/elenir\|Elenir]].
 
 ### Voz
 

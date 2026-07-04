@@ -9,3 +9,7 @@ A Cadeia da [[_wiki/artefatos/fendris\|Fendris]] designa a sequência de eventos
 ### O Roubo
 
 O assalto à galeria foi executado sem deixar rastro, e a investigação oficial jamais o esclareceu. O destino imediato da lâmina permaneceu objeto de boatos contraditórios entre os poucos círculos que dela tomaram conhecimento.
+
+### A Cadeia de Custódia
+
+Depois do assalto, a lâmina passou pela rede da [[_wiki/organizacoes/serpente_purpura\|Serpente Púrpura]] até ser confiscada pela [[_wiki/organizacoes/justiciars\|Justiciar]] [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]], que desconhecia a origem e o propósito original da adaga: uma arma capaz de matar a dragoa [[_wiki/personagens/varna\|Varna]]. A cadeia de custódia, iniciada em forjas anânicas milenares, atravessou museus aristocráticos e redes criminosas antes de terminar nas mãos de quem ninguém havia planejado.

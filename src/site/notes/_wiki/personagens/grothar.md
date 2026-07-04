@@ -16,7 +16,7 @@ Fala direto e fala pouco. Sob a brutalidade corre uma veia irônica que aparece 
 
 ### Magia
 
-O pacto com [[_wiki/panteao/thurgash\|Thûrgash]] é dele, e só dele. Mur e Grub reverenciam Thûrgash como deus, mas não são pactuados: a ligação que importa passa por Grothar.
+O vínculo com [[_wiki/panteao/thurgash\|Thûrgash]] é dele, e só dele. Mur e Grub reverenciam Thûrgash como deus, mas não são vinculados: a ligação que importa passa por Grothar.
 
 ### Relações
 

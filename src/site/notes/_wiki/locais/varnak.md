@@ -17,3 +17,7 @@ O [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr'vethan]] é a tribo militarmente
 ### Varnakianos
 
 Os [[_wiki/racas/varnakiano\|varnakianos]], de origem tiefling, vivem espalhados pela região como xamãs e feiticeiros. Servem de intermediários entre os draconídeos e as forças demoníacas, vinculados aos [[_wiki/cosmologia/demonios\|deuses vermelhos]], os demônios, e não aos [[_wiki/cosmologia/diabos\|diabos]] negros. Sua relação com os draconídeos é comercial e pragmática, atravessada por desconfiança mútua.
+
+### Abertura Imperial
+
+Por volta de cinquenta anos atrás, [[_wiki/personagens/arothistar\|Arothistar]] abriu o [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] aos varnakianos: tieflings e draconídeos passaram a transitar pelo império, decisão que provocou indignação aberta entre os [[_wiki/organizacoes/templarios\|templários]]. Em contrapartida, o monarca garantiu proteção à população do vale contra draconídeos selvagens, armando comunidades locais e permitindo que a região se expandisse para o que é hoje oficialmente conhecido como Varnak.

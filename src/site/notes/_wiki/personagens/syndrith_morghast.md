@@ -20,7 +20,7 @@ Syndrith raramente improvisa. Lê o ambiente antes de agir e prefere deixar o er
 
 ### Magia
 
-Especializada em [[_wiki/escolas/spectro\|Spectro]], a escola de atravessar a matéria, move-se por onde paredes deteriam qualquer outro. Invoca [[_wiki/panteao/ulravaeth\|Ulravaeth]] para dobrar e manipular a própria sombra, ferramenta de quem trabalha no escuro e raramente quer ser vista chegando.
+Especializada em [[_wiki/escolas/spectro\|Spectro]], a escola de atravessar a matéria, move-se por onde paredes deteriam qualquer outro. Invoca [[_wiki/panteao/ulravaeth\|Ulravaeth]] para dobrar e manipular a própria sombra, ferramenta de quem trabalha no escuro e raramente quer ser vista chegando. O Spectro avançado cobra seu preço: a ilusão de atravessar a matéria corrói a confiança dela na própria percepção, e ela volta e meia toca os objetos para confirmar que existem.
 
 ### Relações
 

@@ -16,7 +16,7 @@ Eralmir aprendeu o seu lugar entre tinta e pedra. Estudou na torre de Khargoth, 
 
 ### Método e voz
 
-Eralmir é a precisão feita pessoa. Pensa em registros, em fórmulas exatas, em cláusulas que abrem e fecham, e por isso é meticuloso, burocrático, incapaz de improviso. O que sabe fazer, faz com rigor de ourives; o que não está previsto o desarma. Quando a fórmula falha e o mundo cobra uma resposta que não cabe num livro, a compostura se desfaz e a voz sobe ao agudo. É um cúmplice por conveniência, não por convicção: não há paixão em sua traição, apenas o cálculo frio de quem aprendeu cedo que servir ao mais forte é a aritmética mais simples de todas.
+Eralmir é a precisão feita pessoa. Pensa em registros, em fórmulas exatas, em cláusulas que abrem e fecham, e por isso é meticuloso e burocrático em tempos de ordem. O que sabe fazer, faz com rigor de ourives; mas a imagem de funcionário servil e inofensivo é, em parte, máscara de sobrevivência. Sob ameaça, essa fachada cede a um pragmatismo frio, capaz de decisão rápida quando a sobrevivência o exige. Quando a fórmula falha e o mundo cobra uma resposta que não cabe num livro, a compostura se desfaz e a voz sobe ao agudo. É um cúmplice por conveniência, não por convicção: não há paixão em sua traição, apenas o cálculo frio de quem aprendeu cedo que servir ao mais forte é a aritmética mais simples de todas.
 
 ### Magia
 

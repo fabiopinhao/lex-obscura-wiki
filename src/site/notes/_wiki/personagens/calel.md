@@ -4,7 +4,7 @@
 
 # Calel
 
-Calel é um jovem ranger [[_wiki/racas/sylvano\|sylvano]] de quinze verões, irmão de [[_wiki/personagens/mirin\|Mirin]] e integrante da [[_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal'Serin]]. Órfão e aprendiz de [[_wiki/personagens/gaelwyn\|Gaelwyn]], é o mais veloz do grupo depois do próprio mestre. Onde os outros veem mato e sombra, ele vê rotas, e é assim que sobrevive: lendo o mundo como um sistema de caminhos e riscos antes de pisar nele.
+Calel é um jovem ranger [[_wiki/racas/sylvano\|sylvano]] de catorze verões, irmão de [[_wiki/personagens/mirin\|Mirin]] e integrante da [[_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal'Serin]]. Órfão e aprendiz de [[_wiki/personagens/gaelwyn\|Gaelwyn]], é o mais veloz do grupo depois do próprio mestre. Onde os outros veem mato e sombra, ele vê rotas, e é assim que sobrevive: lendo o mundo como um sistema de caminhos e riscos antes de pisar nele.
 
 ### Aparência
 

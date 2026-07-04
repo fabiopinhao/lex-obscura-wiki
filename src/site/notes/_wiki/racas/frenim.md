@@ -4,7 +4,7 @@
 
 # Frenim
 
-Os frenims são humanos [[_wiki/cosmologia/siderais\|siderais]] de [[_wiki/locais/neranthis\|Neranthis]], conhecidos fora de seu continente como "magos azuis". Povo erudito e isolacionista, distingue-se por habitar ao mesmo tempo o mundo material e as bordas do [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]], um trânsito que se tornou a marca identitária da raça. Sua magia flui dos deuses siderais que vagam pelo etéreo: Mysthar, Zephyrion e Aestron.
+Os frenims são humanos [[_wiki/cosmologia/siderais\|siderais]] de [[_wiki/locais/neranthis\|Neranthis]], conhecidos fora de seu continente como "magos azuis". Povo erudito e isolacionista, distingue-se por habitar ao mesmo tempo o mundo material e as bordas do [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]], um trânsito que se tornou a marca identitária da raça. Sua magia flui dos deuses siderais que vagam pelo etéreo, como Zuvaneth, Aethravos e Nocthydral.
 
 ### Fisiologia
 

@@ -4,7 +4,7 @@
 
 # Talin
 
-Talin é um rapaz [[_wiki/racas/pindoriar\|pindoriar]] de [[_wiki/locais/niedellin\|Niedellin]], batedor da [[_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal'Serin]]. A coragem nele não passa pela razão: onde outros pesam as palavras, ele já agiu — uma pressa do coração que o torna útil e o expõe na mesma medida.
+Talin é um rapaz [[_wiki/racas/pindoriar\|pindoriar]] de [[_wiki/locais/niedellin\|Niedellin]], batedor da [[_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal'Serin]]. A coragem nele não passa pela razão: onde outros pesam as palavras, ele já agiu, uma pressa do coração que o torna útil e o expõe na mesma medida.
 
 ### Aparência
 
@@ -20,4 +20,4 @@ Garoto comum de Niedellin, atira-se à resistência pelo caminho mais curto entr
 
 ### Relações
 
-A devoção a [[_wiki/personagens/koliah\|Koliah]] o move e o condena: tudo que ele faz de mais corajoso e de mais imprudente nasce dela. Mais tarde, [[_wiki/personagens/berenice\|Berenice]] o escolhe como protetor, depositando nele uma confiança que sua coragem desordenada não consegue honrar a tempo.
+A devoção a [[_wiki/personagens/koliah\|Koliah]] o move e o condena: tudo que ele faz de mais corajoso e de mais imprudente nasce dela. Mais tarde, [[_wiki/personagens/berenice\|Berenice]] o escolhe como protetor, depositando nele uma confiança que sua coragem desordenada não consegue honrar a tempo: morre pelas mãos de [[_wiki/personagens/maraxus\|Maraxus]] antes de poder protegê-la.

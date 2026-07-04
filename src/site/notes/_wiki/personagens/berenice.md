@@ -12,7 +12,7 @@ A pele de Berenice é muito pálida, de uma brancura que lembra boneca de porcel
 
 ### Origem e papel
 
-Órfã, Berenice cresce na capela de Niedellin ao lado de Levi, os dois um para o outro o único laço de família que resta. É ela quem testemunha o fenômeno celeste que abre a história, e é por perto quando passa [[_wiki/personagens/syndrith_morghast\|Syndrith Morghast]] pela aldeia. No porão da capela, diante do altar de [[_wiki/panteao/hazburim\|Hazburim]], uma barreira invisível a repele, recusa o seu corpo como se a quisesse longe daquela pedra. Assustada, foge gritando por socorro, e mais tarde é descoberta escondida com o irmão. Quando os [[_wiki/racas/orc\|orcs]] caem sobre Niedellin, é [[_wiki/personagens/koliah\|Koliah]] quem a arranca do massacre.
+Órfã, Berenice cresce na capela de Niedellin ao lado de Levi, os dois um para o outro o único laço de família que resta. É ela quem testemunha o fenômeno celeste que abre a história, e é por perto quando passa [[_wiki/personagens/syndrith_morghast\|Syndrith Morghast]] pela aldeia. No porão da capela, diante do altar de [[_wiki/panteao/hazburim\|Hazburim]], uma barreira invisível a repele, recusa o seu corpo como se a quisesse longe daquela pedra. Assustada, foge gritando por socorro, e mais tarde é descoberta escondida com o irmão. Quando os [[_wiki/racas/orc\|orcs]] caem sobre Niedellin, ela foge sozinha pela vila, gritando por socorro.
 
 ### Método e voz
 

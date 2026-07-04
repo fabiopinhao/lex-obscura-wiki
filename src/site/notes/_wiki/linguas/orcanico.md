@@ -16,4 +16,4 @@ A escrita orc é rudimentar: marcas talhadas em madeira, osso ou pedra para regi
 
 ### Relações
 
-Orcs imperiais falam o [[_wiki/linguas/reinkardico\|Reinkárdico]] com sotaque e deixam transparecer a interferência orcânica. Alguns demônios chegam a preferir o Orcânico ao [[_wiki/linguas/draconico\|Dracônico]] como língua de canal. A invocação de fúria berserker *Ghâsh krampûrz*, atribuída a [[_wiki/personagens/grothar\|Grothar]], é um exemplo de seu registro de combate.
+Orcs imperiais falam o [[_wiki/linguas/reinkardico\|Reinkárdico]] com sotaque e deixam transparecer a interferência orcânica. Alguns demônios chegam a preferir o Orcânico ao [[_wiki/linguas/draconico\|Dracônico]] como língua de canal. A invocação de fúria berserker *Vrokh gûm-ûrz*, atribuída a [[_wiki/personagens/grothar\|Grothar]], é um exemplo de seu registro de combate.

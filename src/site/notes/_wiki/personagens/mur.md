@@ -12,7 +12,7 @@ Tem o tronco largo, coberto de cicatrizes que contam campanhas antigas. Empunha 
 
 ### Papel
 
-Serve na guarda de Milor como força de impacto, leal a Grothar e ao chefe. No trio, ele é a parte que abre caminho à força: arromba o que está selado, esmaga o que resiste. Grub corta, Grothar dá a palavra final, e Mur é o primeiro a entrar. A função é simples e ele a cumpre sem hesitar.
+Serve na guarda de Milor como força de impacto, leal a Grothar e ao chefe. No trio, ele é a parte que abre caminho à força: arromba o que está selado, esmaga o que resiste. Grub corta, Grothar dá a palavra final, e Mur é o primeiro a entrar. A função é simples e ele a cumpre sem hesitar. Venera [[_wiki/panteao/thurgash\|Thûrgash]], o deus dos berserkers órquicos, e aspira a um dia conquistar o vínculo ([[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]]) e o frenesi de combate que Grothar já possui; ainda não é vinculado.
 
 ### Voz
 

@@ -24,4 +24,4 @@ Serve sobretudo de rastreador. Nos túneis do [[_wiki/locais/vor-ghol\|Vor-Ghol]
 
 ### Relações
 
-Desenvolveu lealdade inesperada por [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]] depois que ela o ajudou, e hoje viaja a seu lado; para um gnoll sem covil, a lealdade pessoal substitui o território perdido. Tem no primo [[_wiki/personagens/tibaut\|Tibaut]] um intermediário entre sua brutalidade e o mundo mais sutil, e serve a Dribbel, o Quebra-Trocas, com orgulho genuíno de ter patrão.
+Desenvolveu lealdade inesperada por [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]] depois que ela o ajudou; para um gnoll sem covil, a lealdade pessoal substitui o território perdido. Por fim, voltou a servir de guarda-costas no Mercado Negro de [[_wiki/locais/morvgrad\|Morvgrad]], ao lado de Dribbel. Tem no primo [[_wiki/personagens/tibaut\|Tibaut]] um intermediário entre sua brutalidade e o mundo mais sutil, e serve a Dribbel, o Quebra-Trocas, com orgulho genuíno de ter patrão.
