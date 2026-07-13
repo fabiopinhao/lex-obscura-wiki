@@ -14,7 +14,7 @@ Tem cabelo cor de cobre escuro e veste uma armadura de casca-viva, peça moldada
 
 Órfã, perdeu os pais cedo e cresceu na resistência ao lado de [[_wiki/personagens/calel\|Calel]], dois anos mais novo. Gaelwyn a recolheu aos onze anos e a transformou em ranger, e foi nesse ofício que ela encontrou o propósito que a morte havia tirado. A floresta de Thal'Serin é, para Mirin, casa e mestra ao mesmo tempo, e ela a percorre com a familiaridade de quem nunca conheceu outra coisa.
 
-O peso de seu papel chega no círculo druídico. É Mirin quem relata a reação da mata a Gael: as árvores sussurram quando ele passa, as raízes recuam de sua presença. Dizendo isso, traz à tona a marca [[_wiki/racas/shadar\|shadar]] que o mestre carrega, o sinal que a própria floresta denuncia ainda que nenhuma boca o confesse. Devastada pela captura de Gael, ela não se recolhe no luto: acompanha Calel até a fronteira da floresta quando ele parte para entregar a mensagem cifrada a [[_wiki/locais/niedellin\|Niedellin]], e segue de pé até a batalha final, onde a nova geração defende o que resta de Thal'Serin.
+O peso de seu papel chega no círculo druídico. É Mirin quem relata a reação da mata a Gael: as árvores sussurram quando ele passa, as raízes recuam de sua presença. Dizendo isso, traz à tona a marca [[_wiki/racas/shadar\|shadar]] que o mestre carrega, o sinal que a própria floresta denuncia ainda que nenhuma boca o confesse.
 
 ### Método e voz
 
@@ -22,4 +22,4 @@ O método de Mirin é o do impulso. Ela age enquanto outros pesam, dispara enqua
 
 ### Relações
 
-Gaelwyn é o mentor que a fez ranger e lhe devolveu um chão depois da morte dos pais, e a captura dele a marca como nenhuma outra perda desde a infância. Com Calel forma uma dupla de contraste que sustenta os dois: ela é a flecha em disparo, ele é a armadilha que espera o passo errado; ela age, ele planeja. Onde Mirin avança sem olhar para trás, Calel arma o terreno e aguarda, e é nessa tensão entre o ímpeto da irmã e a paciência do irmão que a nova geração de Thal'Serin aprende a sobreviver.
+Gaelwyn é o mentor que a fez ranger e lhe devolveu um chão depois da morte dos pais. Com Calel forma uma dupla de contraste que sustenta os dois: ela é a flecha em disparo, ele é a armadilha que espera o passo errado; ela age, ele planeja. Onde Mirin avança sem olhar para trás, Calel arma o terreno e aguarda, e é nessa tensão entre o ímpeto da irmã e a paciência do irmão que a nova geração de Thal'Serin aprende a sobreviver.

@@ -17,3 +17,7 @@ O poder de Sulkavrim une [[_wiki/escolas/abjuro\|Abjuro]], que cancela magia ao 
 ### A Muralha
 
 O epíteto é rastro e herança. Quando Sulkavrim se enrosca ao redor de algo e depois se afasta, os anéis externos permanecem como estrutura petrificada. Passagens de montanha foram fechadas por um único circuito do corpo, e vales inteiros existem dentro de muralhas circulares que ninguém construiu e que nenhum exército conseguiu derrubar. A pedra não erode, e feitiços de ruptura se dissipam ao tocar a superfície, devolvidos ao silêncio pela camada de negação que Sulkavrim imprimiu na rocha antes de partir. Cartógrafos antigos registraram essas formações como acidentes naturais até perceberem o padrão: circulares, de mármore branco veiado, impermeáveis a qualquer escola arcana sem exceção. O que Sulkavrim protegeu uma vez permanece protegido, e nenhum registro documenta uma muralha sua derrubada.
+
+### Manifestação
+
+Quando alguém abre uma brecha na muralha à força, o dano não permanece. Ao amanhecer seguinte, a fenda aparece fechada por veios de mármore que nenhum pedreiro assentou, dispostos em baixo-relevo que repete o padrão de escamas do corpo da serpe.
