@@ -8,7 +8,7 @@ As Guerras Raciais, também chamadas Guerra dos Deuses ou Primeira Carnificina, 
 
 ### Natureza do Evento
 
-O termo "guerra" é impreciso. Os deuses intervieram diretamente no plano material, cruzando humanos primitivos e animais selvagens para produzir soldados alinhados às suas [[_wiki/cosmologia/cor_arcana\|cores arcanas]]. O resultado foram os humanoides híbridos: raças com força bestial, instinto de combate e alinhamento divino inato. A interferência não foi sutil nem gradual, mas manipulação direta de sangue e forma, fundindo humano e animal numa única geração.
+O termo “guerra” é impreciso. Os deuses intervieram diretamente no plano material, cruzando humanos primitivos e animais selvagens para produzir soldados alinhados às suas [[_wiki/cosmologia/cor_arcana\|cores arcanas]]. O resultado foram os humanoides híbridos: raças com força bestial, instinto de combate e alinhamento divino inato. A interferência não foi sutil nem gradual, mas manipulação direta de sangue e forma, fundindo humano e animal numa única geração.
 
 ### As Cores e suas Raças
 
@@ -36,4 +36,4 @@ Nenhuma raça possui registro direto do evento. Ele sobrevive na tradição oral
 
 ### Lugar na História
 
-A ascensão dos [[_wiki/linguas/luminar\|Luminares]], a fragmentação élfica e as três eras conhecidas construíram-se todas sobre o legado das Guerras Raciais. Os Luminares não participaram do evento, que é anterior à sua ascensão. As raças que ficaram ainda carregam as cores dos deuses que as abandonaram.
+A ascensão dos [[_wiki/racas/luminares\|Luminares]], a fragmentação élfica e as três eras conhecidas construíram-se todas sobre o legado das Guerras Raciais. Os Luminares não participaram do evento, que é anterior à sua ascensão. As raças que ficaram ainda carregam as cores dos deuses que as abandonaram.

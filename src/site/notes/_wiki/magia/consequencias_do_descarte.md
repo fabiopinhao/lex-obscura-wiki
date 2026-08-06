@@ -8,7 +8,7 @@ O descarte é o modo como a instituição encerra a existência funcional de um 
 
 ### O Que Sobra
 
-Cada forma de descarte produz um vestígio próprio. A Consagração Final deixa artefatos imbuídos de [[_wiki/cosmologia/magi\|magi]] e relíquias. A Missão de Honra deixa um nome em memorial e uma lenda de heroísmo. A Transferência não deixa nada, como se a pessoa nunca tivesse existido. O Recolhimento deixa rumores sobre "alas proibidas" e um medo institucional difuso. A Vigília Eterna deixa o mito dos "que dormem", uma ameaça velada.
+Cada forma de descarte produz um vestígio próprio. A Consagração Final deixa artefatos imbuídos de [[_wiki/cosmologia/magi\|magi]] e relíquias. A Missão de Honra deixa um nome em memorial e uma lenda de heroísmo. A Transferência não deixa nada, como se a pessoa nunca tivesse existido. O Recolhimento deixa rumores sobre “alas proibidas” e um medo institucional difuso. A Vigília Eterna deixa o mito dos “que dormem”, uma ameaça velada.
 
 ### Herança
 
@@ -16,8 +16,8 @@ Nada do que pertencia ao descartado fica vago por muito tempo. O equipamento é 
 
 ### A Lição do Medo
 
-O sistema funciona também como pedagogia do medo. Iniciantes aprendem que "promoções" nem sempre são boas notícias. Veteranos reconhecem os sinais e sabem quando alguém está prestes a "ser transferido". Superiores usam o mecanismo como ameaça velada. Famílias não fazem perguntas quando um parente "é promovido ao Círculo Interior".
+O sistema funciona também como pedagogia do medo. Iniciantes aprendem que “promoções” nem sempre são boas notícias. Veteranos reconhecem os sinais e sabem quando alguém está prestes a “ser transferido”. Superiores usam o mecanismo como ameaça velada. Famílias não fazem perguntas quando um parente “é promovido ao Círculo Interior”.
 
 ### Transferidos Fantasmas
 
-Alguns "transferidos" reaparecem anos depois sob outros nomes, sem registro oficial. Disso nascem fantasmas administrativos, pessoas que "não deveriam existir", e a paranoia institucional que as cerca. Ninguém confirma. Ninguém nega.
+Alguns “transferidos” reaparecem anos depois sob outros nomes, sem registro oficial. Disso nascem fantasmas administrativos, pessoas que “não deveriam existir”, e a paranoia institucional que as cerca. Ninguém confirma. Ninguém nega.

@@ -8,7 +8,7 @@ O Vinculum Daemonis é um dos sistemas de acesso à magia, um vínculo de força
 
 ### Nomenclatura
 
-Na linguagem comum, mortais raramente distinguem o Vinculum Daemonis do [[_wiki/magia/pactum_diaboli\|Pactum Diaboli]]. Chama-se "pacto" tanto o contrato firmado com um [[_wiki/cosmologia/diabos\|diabo]] quanto o vínculo de força firmado com um [[_wiki/cosmologia/demonios\|demônio]], num uso informal e impreciso. Em sentido estrito, o pacto é o instrumento legalista dos diabos, com cláusula, assinatura e alma penhorada por contrato; o vínculo demoníaco não tem contrato nem termo fixo, apenas a troca de sangue e a fome do demônio. O povo sente a diferença prática, a instabilidade caótica de um e a previsibilidade fria do outro, sem nomeá-la com rigor, e cabe a inquisidores e juristas mantê-la, porque dela dependem as sentenças.
+Na linguagem comum, mortais raramente distinguem o Vinculum Daemonis do [[_wiki/magia/pactum_diaboli\|Pactum Diaboli]]. Chama-se “pacto” tanto o contrato firmado com um [[_wiki/cosmologia/diabos\|diabo]] quanto o vínculo de força firmado com um [[_wiki/cosmologia/demonios\|demônio]], num uso informal e impreciso. Em sentido estrito, o pacto é o instrumento legalista dos diabos, com cláusula, assinatura e alma penhorada por contrato; o vínculo demoníaco não tem contrato nem termo fixo, apenas a troca de sangue e a fome do demônio. O povo sente a diferença prática, a instabilidade caótica de um e a previsibilidade fria do outro, sem nomeá-la com rigor, e cabe a inquisidores e juristas mantê-la, porque dela dependem as sentenças.
 
 ### Canalização
 

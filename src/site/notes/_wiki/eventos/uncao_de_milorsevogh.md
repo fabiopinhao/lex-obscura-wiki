@@ -6,6 +6,10 @@
 
 A Unção de Milorsevogh foi a cerimônia em que [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] foi ungido Justiciar no [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]], em [[_wiki/locais/morvgrad\|Morvgrad]], no início do presente. O rito foi conduzido pelo feiticeiro [[_wiki/personagens/jaakurs\|Jaakurs]], e nele Milorsevogh recebeu os três instrumentos do ofício: a [[_wiki/artefatos/spina_lexis\|Spina Lexis]], o [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]] e o [[_wiki/artefatos/oculus_morvgradi\|Oculus]].
 
+### O gesto da espada
+
+No gesto central da cerimônia, Jaakurs deitou a espada consagrada sobre as palmas abertas de Milorsevogh, com o fio voltado para o próprio ungido. A lei chega às mãos do Justiciar como peso sustentado, sem que ele a tome pelo punho.
+
 ### O Sétimo Justiciar
 
 Milorsevogh era o sétimo Justiciar vivo, de vinte e sete ordenados ao longo de quatro décadas e meia, desde a fundação da ordem. Os vinte que o precederam na morte não caíram por velhice: caíram no campo, nas províncias, nas missões que a instituição exigia de cada membro.

@@ -4,11 +4,11 @@
 
 # Peredur
 
-Peredur é um druida ancião [[_wiki/racas/sylvano\|sylvano]] de [[_wiki/locais/thal_serin\|Thal'Serin]] e devoto de [[_wiki/panteao/titania\|Titânia]]. Lidera o conselho druídico da floresta e é tido como detentor de grande sabedoria sobre os tempos antigos, em especial sobre os [[_wiki/cosmologia/titas\|titãs]].
+Peredur é um druida ancião [[_wiki/racas/sylvano\|sylvano]] de [[_wiki/locais/thal_serin\|Thal’Serin]] e devoto de [[_wiki/panteao/titania\|Titânia]]. Lidera o conselho druídico da floresta e é tido como detentor de grande sabedoria sobre os tempos antigos, em especial sobre os [[_wiki/cosmologia/titas\|titãs]].
 
 ### Papel
 
-No conselho de Thal'Serin é a autoridade que se impõe sem elevar a voz: fala medida, enigmática, povoada de referências aos tempos de antes. Guarda cautela ao pronunciar certos nomes em voz alta, como se o próprio chão pudesse traí-lo.
+No conselho de Thal’Serin é a autoridade que se impõe sem elevar a voz: fala medida, enigmática, povoada de referências aos tempos de antes. Guarda cautela ao pronunciar certos nomes em voz alta, como se o próprio chão pudesse traí-lo.
 
 ### Reputação
 

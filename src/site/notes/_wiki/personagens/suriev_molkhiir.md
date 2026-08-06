@@ -12,7 +12,7 @@ Veste o manto que oscila entre o negro e o púrpura, as cores do Conselho. Tem o
 
 ### Papel no Conselho
 
-Na sessão do Conselho Sombrio, Suriev defende que os pactos não falham e que o poder não precisa de alquimia, apenas de fé e devoção. Sustenta a doutrina religiosa contra os pragmatistas, para quem os recursos materiais pesam mais que a crença. A fala "Arothistar guia os fiéis" pertence a essa convicção pública, professada diante do Conselho.
+Na sessão do Conselho Sombrio, Suriev defende que os pactos não falham e que o poder não precisa de alquimia, apenas de fé e devoção. Sustenta a doutrina religiosa contra os pragmatistas, para quem os recursos materiais pesam mais que a crença. A fala “Arothistar guia os fiéis” pertence a essa convicção pública, professada diante do Conselho.
 
 ### Voz
 

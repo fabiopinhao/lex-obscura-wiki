@@ -12,7 +12,7 @@ Eralmir Vess é o intendente e escriba que mantém os livros de [[_wiki/locais/n
 
 ### Origem e papel
 
-Eralmir aprendeu o seu lugar entre tinta e pedra. Estudou na torre de Khargoth, onde recebeu os três anéis e a disciplina que lhe moldou a mão, e desceu desse estudo para a função de intendente, o homem que conta, registra e administra em nome de quem manda. Em Niedellin, serve sob o lorde provincial [[_wiki/personagens/merari_d_khunvel\|Merari d'Khunvel]]. Os demais intendentes da vila foram mortos; Eralmir permaneceu, e permaneceu porque servia: um escriba que conhece cada conta e cada selo de uma cidade vale mais vivo do que silenciado.
+Eralmir aprendeu o seu lugar entre tinta e pedra. Estudou na torre de Khargoth, onde recebeu os três anéis e a disciplina que lhe moldou a mão, e desceu desse estudo para a função de intendente, o homem que conta, registra e administra em nome de quem manda. Em Niedellin, serve sob o lorde provincial [[_wiki/personagens/merari_d_khunvel\|Merari d’Khunvel]]. Os demais intendentes da vila foram mortos; Eralmir permaneceu, e permaneceu porque servia: um escriba que conhece cada conta e cada selo de uma cidade vale mais vivo do que silenciado.
 
 ### Método e voz
 

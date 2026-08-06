@@ -4,7 +4,7 @@
 
 # Teru
 
-O Teru é um sistema de acesso à magia não-teocrático: alcança as escolas arcanas pela comunicação com os [[_wiki/cosmologia/planos_divinos\|planos divinos]], sem exigir submissão, pacto ou devoção a entidade alguma. É a via dos [[_wiki/organizacoes/justiciars\|Justiciars]] do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], aprendida em academias arcanas ao longo de décadas de estudo.
+O Teru é um sistema de acesso à magia não-teocrático: alcança as escolas arcanas pela comunicação com os [[_wiki/cosmologia/planos_divinos\|planos divinos]], sem exigir submissão, pacto ou devoção a entidade alguma. É a via dos [[_wiki/organizacoes/justiciares\|Justiciares]] do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], aprendida em academias arcanas ao longo de décadas de estudo.
 
 ### Princípio
 

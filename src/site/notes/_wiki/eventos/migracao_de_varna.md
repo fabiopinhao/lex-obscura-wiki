@@ -12,7 +12,7 @@ Varna resistiu ao planalto por mais tempo do que qualquer outro dragão. Jovem e
 
 ### Chegada a Varnak
 
-Nos vales de Varnak, em Veinkard, Varna foi recebida com veneração e com medo, e de lá não tornou a partir. O próprio nome é uma imposição externa: não se sabe ao certo se foram os [[_wiki/racas/varnakiano\|varnakianos]] dos vales ou os [[_wiki/racas/draconideo\|draconídeos]] dos picos que o cunharam. Os dragões não usam nomes entre si; "Varna" é a designação imposta por raças que precisam nomear aquilo que temem.
+Nos vales de Varnak, em Veinkard, Varna foi recebida com veneração e com medo, e de lá não tornou a partir. O próprio nome é uma imposição externa: não se sabe ao certo se foram os [[_wiki/racas/varnakiano\|varnakianos]] dos vales ou os [[_wiki/racas/draconideo\|draconídeos]] dos picos que o cunharam. Os dragões não usam nomes entre si; “Varna” é a designação imposta por raças que precisam nomear aquilo que temem.
 
 ### Consequências na Dorsal
 

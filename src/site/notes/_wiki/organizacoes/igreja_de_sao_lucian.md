@@ -14,4 +14,6 @@ Os remanescentes da fé luminosa em Reinkard se organizam em duas estruturas dis
 
 O coração da Igreja está em [[_wiki/locais/myrgarde\|Myrgarde]], onde funciona na clandestinidade. [[_wiki/personagens/abramis\|Abramis]] mantém uma capela funcional em [[_wiki/locais/niedellin\|Niedellin]] como extensão dessa fé. Entre suas figuras estão Sir [[_wiki/personagens/grimald\|Grimald]], paladino conhecido como Lâmina Dourada, e [[_wiki/personagens/corvina\|Madre Corvina]], anciã que sobreviveu à queda de Myrgarde.
 
+A **Casa de São Lucian** é o orfanato anexo ao templo, dirigido por [[_wiki/personagens/corvina\|Madre Corvina]]: o nome designa a instituição de acolhimento, não o edifício de culto.
+
 A antiga igreja em Myrgarde foi selada, e suas atividades transferidas para o Templo Maior, que hoje acumula duas funções: serve de centro de recrutamento, com filas de recrutas na rua, e de último bastião da fé luminosa organizada. O Arquidiácono Mahakai administra o Templo Maior, enquanto o Frater Darnel controla o acesso burocrático.

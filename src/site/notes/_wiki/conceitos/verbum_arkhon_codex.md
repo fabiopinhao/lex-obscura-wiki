@@ -10,9 +10,9 @@ O Verbum Arkhon, ou Palavra do Soberano, é a primeira e mais sagrada seção do
 
 O Verbum Arkhon não revogou a [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]]: alinhou-se a ela e sobrepôs-se a ela, sendo ao mesmo tempo revolução e continuidade, mudança radical em corpo de reforma administrativa. Na prática, qualquer decreto do Verbum pode suspender ou sobrepor qualquer cláusula da Lex quando o soberano assim decide. A dinâmica encena uma noção de soberania em que o soberano não é quem aplica a lei, mas quem decide quando a lei não se aplica: Arothistar pode declarar herege até [[_wiki/personagens/xarn\|Xarn]], o próprio criador da Lex, porque a decisão soberana precede a norma.
 
-### Relação com os Justiciars
+### Relação com os Justiciares
 
-Para os [[_wiki/organizacoes/justiciars\|Justiciars]], o Verbum Arkhon é ao mesmo tempo fonte de autoridade e limitação absoluta. Sua palavra justifica cada interrogatório, cada execução e cada sentença, mas essa mesma palavra pode revogá-los, destituí-los ou condená-los sem recurso. A fórmula pronunciada durante a Unção expressa essa subordinação: "Arothistar est lex. [[_wiki/panteao/abbhal\|Abbhal]] est vox. Tu est martellus."
+Para os [[_wiki/organizacoes/justiciares\|Justiciares]], o Verbum Arkhon é ao mesmo tempo fonte de autoridade e limitação absoluta. Sua palavra justifica cada interrogatório, cada execução e cada sentença, mas essa mesma palavra pode revogá-los, destituí-los ou condená-los sem recurso. A fórmula pronunciada durante a Unção expressa essa subordinação: “Arothistar est lex. [[_wiki/panteao/abbhal\|Abbhal]] est vox. Tu est martellus.”
 
 ### A língua da exceção
 
@@ -20,4 +20,4 @@ A soberania que o Verbum Arkhon encarna tem um correlato linguístico. Assim com
 
 ### Palavra Registrada
 
-Entre as sentenças atribuídas ao soberano figura a máxima que dá tom ao seu corpo doutrinário: "Onde a luz falha, a sombra julga." (Verbum Arkhon, 3:17)
+Entre as sentenças atribuídas ao soberano figura a máxima que dá tom ao seu corpo doutrinário: “Onde a luz falha, a sombra julga.” (Verbum Arkhon, 3:17)

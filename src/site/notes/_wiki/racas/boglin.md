@@ -16,7 +16,7 @@ A estatura fica entre 0,80m e 1,10m, com membros curtos e robustos e mãos de ci
 
 ### Telepatia Limitada
 
-Os boglins compartilham a capacidade telepática ranidana, mas em grau atenuado. O alcance é curto, funcional dentro do mesmo corpo de água e impreciso além dele, e as projeções são vagas, mais próximas de impressões emocionais do que das imagens sensoriais nítidas que os saags transmitem. Os [[_wiki/racas/frenim\|frenims]] descrevem a telepatia boglin como ouvir alguém falar debaixo d'água: a intenção chega, e as nuances se perdem. A limitação reforça o isolamento, pois os boglins operam em raio reduzido, vinculados ao entorno imediato, e não servem como intermediários de longa distância, o que os exclui da função de ponte entre frenims e [[_wiki/racas/undine\|undines]] que define a utilidade dos saags.
+Os boglins compartilham a capacidade telepática ranidana, mas em grau atenuado. O alcance é curto, funcional dentro do mesmo corpo de água e impreciso além dele, e as projeções são vagas, mais próximas de impressões emocionais do que das imagens sensoriais nítidas que os saags transmitem. Os [[_wiki/racas/frenim\|frenins]] descrevem a telepatia boglin como ouvir alguém falar debaixo d’água: a intenção chega, e as nuances se perdem. A limitação reforça o isolamento, pois os boglins operam em raio reduzido, vinculados ao entorno imediato, e não servem como intermediários de longa distância, o que os exclui da função de ponte entre frenins e [[_wiki/racas/undine\|undines]] que define a utilidade dos saags.
 
 ### Comportamento e Papel
 

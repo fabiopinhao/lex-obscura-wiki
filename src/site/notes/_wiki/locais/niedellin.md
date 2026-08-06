@@ -4,7 +4,7 @@
 
 # Niedellin
 
-Niedellin é uma pequena vila agrícola na [[_wiki/locais/ventrista\|Ventrista]], a faixa de terras férteis na base do planalto de [[_wiki/locais/morvgrad\|Morvgrad]] que produz grãos e gado para o [[_wiki/organizacoes/imperio_sombrio\|império]]. Fica isolada das rotas principais, ao sudeste do planalto [[_wiki/racas/shadar\|Shadar]] e perto da floresta de [[_wiki/locais/thal_serin\|Thal'Serin]], com cerca de mil habitantes. Está subordinada ao Culto das Sombras, e os estandartes de [[_wiki/personagens/arothistar\|Arothistar]] pendem sobre suas torres.
+Niedellin é uma pequena vila agrícola na [[_wiki/locais/ventrista\|Ventrista]], a faixa de terras férteis na base do planalto de [[_wiki/locais/morvgrad\|Morvgrad]] que produz grãos e gado para o [[_wiki/organizacoes/imperio_sombrio\|império]]. Fica isolada das rotas principais, ao sudeste do planalto [[_wiki/racas/shadar\|Shadar]] e perto da floresta de [[_wiki/locais/thal_serin\|Thal’Serin]], com cerca de mil habitantes. Da vila até os pés do planalto vai um dia de cavalgada, e dali mais dois dias até o primeiro portão de Morvgrad, somando três dias de estrada. Está subordinada ao Culto das Sombras, e os estandartes de [[_wiki/personagens/arothistar\|Arothistar]] pendem sobre suas torres.
 
 ### Geografia
 
@@ -16,4 +16,4 @@ A vila está sob o lorde provincial [[_wiki/personagens/merari_d_khunvel\|Merari
 
 ### Resistência
 
-Há resistência ativa na região: rebeldes como [[_wiki/personagens/koliah\|Koliah]] e refugiados [[_wiki/racas/sylvano\|sylvanos]] e humanos operam a partir de Thal'Serin, dependendo de suprimentos da vila. Niedellin é o ponto de partida da investigação de [[_wiki/personagens/milorsevogh_velshard\|Milor]].
+Há resistência ativa na região: rebeldes como [[_wiki/personagens/koliah\|Koliah]] e refugiados [[_wiki/racas/sylvano\|sylvanos]] e humanos operam a partir de Thal’Serin, dependendo de suprimentos da vila. Niedellin é o ponto de partida da investigação de [[_wiki/personagens/milorsevogh_velshard\|Milor]].

@@ -4,19 +4,19 @@
 
 # Nidzina Avaroth
 
-Nidzina Avaroth é uma [[_wiki/organizacoes/justiciars\|Justiciar]] [[_wiki/racas/shadar\|shadar]] de [[_wiki/locais/morvgrad\|Morvgrad]] e a mais jovem de sua época a alcançar o cargo. Pertence à Casa Avaroth, de alta linhagem nobre, que [[_wiki/personagens/tibaut\|Tibaut]] diz descender direta da Primeira Égide. Recusa que o nome a defina: insiste que chegou ao manto por mérito e conquista, não pelos ancestrais.
+Nidzina Avaroth é uma [[_wiki/organizacoes/justiciares\|Justiciar]] [[_wiki/racas/shadar\|shadar]] de [[_wiki/locais/morvgrad\|Morvgrad]] e a mais jovem de sua época a alcançar o cargo. Pertence à Casa Avaroth, de alta linhagem nobre, que [[_wiki/personagens/tibaut\|Tibaut]] diz descender direta da Primeira Égide. Recusa que o nome a defina: insiste que chegou ao manto por mérito e conquista, não pelos ancestrais.
 
 ### Aparência
 
-Tem olhos dourados, de um âmbar que marca o sangue puro shadar, e pele pálida. Veste a couraça negra com a insígnia justiceira e manoplas de metal. Uma cicatriz antiga na têmpora é sequela do caso "[[_wiki/personagens/zanzer\|Zanzer]]". Quando conjura, o custo da magia aflora no corpo: veias negras sob a pele, lágrimas de obsidiana e uma exaustão que parece envelhecê-la.
+Tem olhos dourados, de um âmbar que marca o sangue puro shadar, e pele pálida. Veste o [[_wiki/artefatos/tegmen\|tegmen]] de Justiciar, de couraça negra, e manoplas de metal. Uma cicatriz antiga na têmpora é sequela do caso “[[_wiki/personagens/zanzer\|Zanzer]]”. Quando conjura, o custo da magia aflora no corpo: veias negras sob a pele, lágrimas de obsidiana e uma exaustão que parece envelhecê-la.
 
 ### Origem
 
-Foi pupila de [[_wiki/personagens/orum-rahru\|Orum-Rahru]] desde a infância. Sua mãe, [[_wiki/personagens/nyssira_avaroth\|Nyssira Avaroth]], arranjou-lhe um treinamento brutal em [[_wiki/locais/vor-ghol\|Vor-Ghol]], nas Câmaras de Provação das matriarcas [[_wiki/racas/drul\|drul]] de [[_wiki/locais/xarn_zareth\|Xarn'Zareth]]. Ali, além da disciplina, passou a dominar a língua e a magia de sombras drul, feito incomum para alguém de sangue de superfície. Aos dezesseis anos, num duelo validado pela matriarca, matou a drul [[_wiki/personagens/zarae\|Zarae]]: foi sua primeira morte, e subiu de volta à luz sem olhar para trás.
+Foi pupila de [[_wiki/personagens/orum-rahru\|Orum-Rahru]] desde a infância. Sua mãe, [[_wiki/personagens/nyssira_avaroth\|Nyssira Avaroth]], arranjou-lhe um treinamento brutal em [[_wiki/locais/vor-ghol\|Vor-Ghol]], nas Câmaras de Provação das matriarcas [[_wiki/racas/drul\|drul]] de [[_wiki/locais/xarn_zareth\|Xarn’Zareth]]. Ali, além da disciplina, passou a dominar a língua e a magia de sombras drul, feito incomum para alguém de sangue de superfície. Aos dezesseis anos, num duelo validado pela matriarca, matou a drul [[_wiki/personagens/zarae\|Zarae]]: foi sua primeira morte, e subiu de volta à luz sem olhar para trás.
 
 ### Método
 
-Investigadora legalista, opera estritamente pela Lex: cadeia de custódia, jurisdição, o decreto de prisão "Em nome da Lex e de [[_wiki/personagens/arothistar\|Arothistar]]". Transforma cena em mapa e lê mentiras no interrogatório, embora aja com frequência por conta própria, fora dos canais oficiais. Há tensão em seu método: aos olhos do aliado Tibaut, usa o terror como ferramenta e não como prazer, e caminha entre a justiça e a vingança tentando fingir que são a mesma coisa; ela mesma teme que a linha entre justiça e massacre se borre. Sob a frieza, há uma autocrítica constante e uma autoridade gelada que intimida sem esforço.
+Investigadora legalista, opera estritamente pela Lex: cadeia de custódia, jurisdição, o decreto de prisão “Em nome da Lex e de [[_wiki/personagens/arothistar\|Arothistar]]”. Transforma cena em mapa e lê mentiras no interrogatório, embora aja com frequência por conta própria, fora dos canais oficiais. Há tensão em seu método: aos olhos do aliado Tibaut, usa o terror como ferramenta e não como prazer, e caminha entre a justiça e a vingança tentando fingir que são a mesma coisa; ela mesma teme que a linha entre justiça e massacre se borre. Sob a frieza, há uma autocrítica constante e uma autoridade gelada que intimida sem esforço.
 
 ### Trajetória
 
@@ -24,7 +24,7 @@ Investiga com Tibaut uma série de roubos metódicos que sangram o Mercado Negro
 
 ### Armas e magia
 
-Carrega uma [[_wiki/artefatos/bombarda_ananica\|bombarda anânica]] forjada em [[_wiki/locais/thandruk_varn\|Thandruk Varn]], com fogo anão e encantamento de [[_wiki/locais/elenir\|Elenir]], arma rara no planalto. Empunha também uma espada longa [[_wiki/cosmologia/magi\|magi]], de lâmina infundida por cristais intercambiáveis que respondem a uma palavra de comando, e a adaga [[_wiki/artefatos/fendris\|Fendris]], artefato [[_wiki/linguas/luminar\|luminar]] que desperta sozinho perto de magi. Seu foco de conjuração é a [[_wiki/artefatos/spina_lexis\|Spina Lexis]], cetro de pedra lunar. Conjura magia de sombras drul, da Escola de [[_wiki/escolas/umbra\|Umbra]] pelo rito de [[_wiki/panteao/ulravaeth\|Ulravaeth]]: teias que selam túneis, maldição de cegueira e um Eidolon predador.
+Carrega uma [[_wiki/artefatos/bombarda_ananica\|bombarda anânica]] forjada em [[_wiki/locais/thandruk_varn\|Thandruk Varn]], com fogo anão e encantamento de [[_wiki/locais/elenir\|Elenir]], arma rara no planalto. Empunha também uma espada longa [[_wiki/cosmologia/magi\|magi]], de lâmina infundida por cristais intercambiáveis que respondem a uma palavra de comando, e a adaga [[_wiki/artefatos/fendris\|Fendris]], artefato [[_wiki/racas/luminares\|luminar]] que desperta sozinho perto de magi. Seu foco de conjuração é a [[_wiki/artefatos/spina_lexis\|Spina Lexis]], cetro de pedra lunar. Conjura magia de sombras drul, da Escola de [[_wiki/escolas/umbra\|Umbra]] pelo rito de [[_wiki/panteao/ulravaeth\|Ulravaeth]]: teias que selam túneis, maldição de cegueira e um Eidolon predador.
 
 ### Relações
 

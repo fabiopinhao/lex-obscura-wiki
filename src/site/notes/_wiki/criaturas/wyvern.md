@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/wyvern.md","permalink":"/wiki/criaturas/wyvern/","dg-note-properties":{"tipo":"criatura","nome":"Wyvern","cor_arcana":"—","habitat":"Montanhas","aliases":["Wyverns"],"ordem":17,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/wyvern.md","permalink":"/wiki/criaturas/wyvern/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Wyvern
 
-Dragão menor, bípede e de asas membranosas: primo distante e degenerado dos dragões verdadeiros.
+O wyvern é um dragão menor, bípede e de asas membranosas, primo distante e degenerado dos dragões verdadeiros. Habita as montanhas.
 
 ### Comportamento
 
-Predador oportunista das montanhas, de apetite sem critério. Carrega um ferrão venenoso na cauda.
+Predador oportunista, de apetite sem critério. Carrega um ferrão venenoso na cauda.
 
-### Distinção
+### Forma divina
 
-O wyvern também existe como forma divina de [[_wiki/panteao/aethravos\|Aethravos]]. Este grão trata da criatura mundana.
+A wyvern dá figura à manifestação de [[_wiki/panteao/aethravos\|Aethravos]], a Wyvern Nacarada, que é ordem de ser distinta da besta das montanhas.

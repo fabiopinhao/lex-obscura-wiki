@@ -4,11 +4,11 @@
 
 # Babua
 
-Nas montanhas ocidentais, onde o planalto se afina em cumes que só as wyverns conhecem, vive um [[_wiki/racas/saag\|saag]] da linhagem [[_wiki/racas/ranidano\|ranidana]] que atende pelo nome de Babua. Não é guerreiro nem orador. É vigia, e serve a um único senhor: o mago azul [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val'Kir]]. O posto que ocupa fica longe de tudo, num ermo de pedra e vento, e é exatamente essa distância que o torna útil. Quem precisa de um sentinela que ninguém alcance põe-no onde ninguém vai.
+Nas montanhas ocidentais, onde o planalto se afina em cumes que só as wyverns conhecem, vive um [[_wiki/racas/saag\|saag]] da linhagem [[_wiki/racas/ranidano\|ranidana]] que atende pelo nome de Babua. Não é guerreiro nem orador. É vigia, e serve a um único senhor: o mago azul [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val’Kir]]. O posto que ocupa fica longe de tudo, num ermo de pedra e vento, e é exatamente essa distância que o torna útil. Quem precisa de um sentinela que ninguém alcance põe-no onde ninguém vai.
 
 ### Posto e papel
 
-Babua guarda. Sua função é a vigilância de um ponto remoto, alto, batido por wyverns, e sua presença ali é menos a de um soldado do que a de um olho que não fecha. Trabalha em silêncio, sem voz documentada, sem proclamação. O que faz por Lorvaq Val'Kir não se mede em palavras ditas mas em coisas que deixam de acontecer porque ele está atento. Suas capacidades completam as do mestre como uma fechadura completa uma chave.
+Babua guarda. Sua função é a vigilância de um ponto remoto, alto, batido por wyverns, e sua presença ali é menos a de um soldado do que a de um olho que não fecha. Trabalha em silêncio, sem voz documentada, sem proclamação. O que faz por Lorvaq Val’Kir não se mede em palavras ditas mas em coisas que deixam de acontecer porque ele está atento. Suas capacidades completam as do mestre como uma fechadura completa uma chave.
 
 ### O véu e a ruptura
 

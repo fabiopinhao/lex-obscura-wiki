@@ -4,7 +4,7 @@
 
 # Pip
 
-Pip é um [[_wiki/racas/hallirin\|Hallirin]], gnomo de superfície e ex-comerciante de [[_wiki/locais/myrgarde\|Myrgarde]], onde mantinha a loja "Pip's Conveniências" antes da queda da cidade. Capturado depois da queda, vive escravizado nas profundezas, sob controle forçado do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]], entre [[_wiki/locais/vor-ghol\|Vor-Ghol]] e [[_wiki/locais/thandruk_varn\|Thandruk Varn]].
+Pip é um [[_wiki/racas/hallirin\|Hallirin]], gnomo de superfície e ex-comerciante de [[_wiki/locais/myrgarde\|Myrgarde]], onde mantinha a loja “Pip’s Conveniências” antes da queda da cidade. Capturado depois da queda, vive escravizado nas profundezas, sob controle forçado do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]], entre [[_wiki/locais/vor-ghol\|Vor-Ghol]] e [[_wiki/locais/thandruk_varn\|Thandruk Varn]].
 
 ### Aparência
 
@@ -12,7 +12,7 @@ De baixa estatura, mesmo para um gnomo, é miúdo e veloz. Na juventude passava 
 
 ### Origem
 
-Na infância em Myrgarde foi figura constante nos jogos de [[_wiki/conceitos/korball\|Korball]] das praças da cidade, onde a agilidade compensava o tamanho. Da loja "Pip's Conveniências" vendia velas, cordas, ervas secas e amuletos de proteção, necessidades para quem precisa, até a queda da cidade dispersar tudo o que conhecia.
+Na infância em Myrgarde foi figura constante nos jogos de [[_wiki/conceitos/aroada\|Aroada]] das praças da cidade, onde a agilidade compensava o tamanho. Da loja “Pip’s Conveniências” vendia velas, cordas, ervas secas e amuletos de proteção, necessidades para quem precisa, até a queda da cidade dispersar tudo o que conhecia.
 
 ### Papel
 

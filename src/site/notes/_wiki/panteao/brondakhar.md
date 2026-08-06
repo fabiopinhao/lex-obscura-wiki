@@ -16,4 +16,4 @@ A égide de Brondakhar se ativa pela raiva, e a raiva escala com a ameaça perce
 
 ### Manifestação
 
-Nas fileiras de combate ao lado de Brondakhar, o calor sob as placas se propaga: feridas de aliados coagulam depressa, quase em febre, enquanto o suor do inimigo próximo chega antes do golpe. Soldados chamam o efeito de "febre de vanguarda".
+Nas fileiras de combate ao lado de Brondakhar, o calor sob as placas se propaga: feridas de aliados coagulam depressa, quase em febre, enquanto o suor do inimigo próximo chega antes do golpe. Soldados chamam o efeito de “febre de vanguarda”.

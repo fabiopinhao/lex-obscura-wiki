@@ -14,7 +14,7 @@ Uma parte dos humanos, frustrada com as limitações da doutrina ou sufocada pel
 
 ### Os deuses negros e os druls
 
-Os pactos diabólicos revelaram-se devastadoramente eficazes. Os deuses negros, há muito contidos nos recessos do [[_wiki/locais/vor-ghol\|Vor-Ghol]], viram nos humanos uma oportunidade inesperada. Por eras, haviam considerado os humanos fracos demais e tão resistentes à corrupção quanto os anões, que rejeitavam com obstinação qualquer vínculo profano. Por isso os [[_wiki/racas/drul\|druls]] haviam sido, até então, seus principais canais no mundo material. Agora surgia uma geração humana aberta à transgressão, pronta para canalizar os caprichos de divindades obscuras.
+Os pactos diabólicos revelaram-se devastadoramente eficazes. Os deuses negros, há muito contidos nos recessos de [[_wiki/locais/vor-ghol\|Vor-Ghol]], viram nos humanos uma oportunidade inesperada. Por eras, haviam considerado os humanos fracos demais e tão resistentes à corrupção quanto os anões, que rejeitavam com obstinação qualquer vínculo profano. Por isso os [[_wiki/racas/drul\|druls]] haviam sido, até então, seus principais canais no mundo material. Agora surgia uma geração humana aberta à transgressão, pronta para canalizar os caprichos de divindades obscuras.
 
 ### Quebra do monopólio
 

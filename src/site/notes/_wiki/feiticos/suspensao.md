@@ -10,4 +10,4 @@ Como remove a gravidade e deixa o alvo flutuando em ar seco, distingue-se de Bol
 
 ### Custo
 
-Vem a vertigem. O senso de "baixo" oscila por minutos e instala uma dissociação espacial.
+Vem a vertigem. O senso de “baixo” oscila por minutos e instala uma dissociação espacial.

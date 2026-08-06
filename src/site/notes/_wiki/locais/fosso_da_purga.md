@@ -4,7 +4,7 @@
 
 # Fosso da Purga
 
-O Fosso da Purga é um local de execução em [[_wiki/locais/morvgrad\|Morvgrad]], sob controle do Império Sombrio. É o destino padrão de [[_wiki/racas/murano\|muranos]] e criminosos menores: "expedição sumária" é o termo administrativo para execução sem julgamento formal, e o Fosso é onde essas sentenças terminam. O nome é funcional, não metafórico.
+O Fosso da Purga é um local de execução em [[_wiki/locais/morvgrad\|Morvgrad]], sob controle do Império Sombrio. É o destino padrão de [[_wiki/racas/murano\|muranos]] e criminosos menores: “expedição sumária” é o termo administrativo para execução sem julgamento formal, e o Fosso é onde essas sentenças terminam. O nome é funcional, não metafórico.
 
 ### Função
 

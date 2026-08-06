@@ -12,7 +12,7 @@ Thûrgash se manifesta como um gigante de cerco, um humanoide colossal de pedra 
 
 ### Domínio
 
-Do Belli vem a fúria marcial, a agressividade canalizada e o sangue como combustível, o instinto de matilha que transforma cerco em caçada coletiva. Do Rupto vem o método: a fissura na muralha seguida do colapso em cadeia, a rachadura que transforma torre em entulho. A combinação produz o cerco perfeito, onde a paciência do sapador encontra a fome do berserker. Onde [[_wiki/panteao/bal_hadut\|Bal'Hadut]] queima para fundar e [[_wiki/panteao/tzarakul\|Tzarakul]] quebra por entropia, Thûrgash derruba pelo prazer de ver cair. A ruína é o produto final e a recompensa.
+Do Belli vem a fúria marcial, a agressividade canalizada e o sangue como combustível, o instinto de matilha que transforma cerco em caçada coletiva. Do Rupto vem o método: a fissura na muralha seguida do colapso em cadeia, a rachadura que transforma torre em entulho. A combinação produz o cerco perfeito, onde a paciência do sapador encontra a fome do berserker. Onde [[_wiki/panteao/bal_hadut\|Bal’Hadut]] queima para fundar e [[_wiki/panteao/tzarakul\|Tzarakul]] quebra por entropia, Thûrgash derruba pelo prazer de ver cair. A ruína é o produto final e a recompensa.
 
 ### Apetite
 

@@ -26,7 +26,7 @@ A vida ritual saag orbita o Afogado Abaixo (the Drowned Below), a presença que 
 
 ### Comunicação
 
-Os saags não falam com outras raças, salvo por telepatia. Mesmo para os frenims que lhes acessam a mente, a comunicação não é diálogo, mas corrente: avança, recua, deposita informação e retira-se, sentida pelo receptor como variação de pressão. A mente de um saag projeta o que sente (pressão, imagem, direção, urgência) e o outro traduz. O silêncio é parte de sua caracterização: o saag costuma ser o objeto da conversa, raramente o sujeito.
+Os saags não falam com outras raças, salvo por telepatia. Mesmo para os frenins que lhes acessam a mente, a comunicação não é diálogo, mas corrente: avança, recua, deposita informação e retira-se, sentida pelo receptor como variação de pressão. A mente de um saag projeta o que sente (pressão, imagem, direção, urgência) e o outro traduz. O silêncio é parte de sua caracterização: o saag costuma ser o objeto da conversa, raramente o sujeito.
 
 ### Relação com o mundo
 

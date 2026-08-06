@@ -8,7 +8,7 @@ Qaelun é um [[_wiki/racas/shadar\|Shadar]] necromante que operava no [[_wiki/lo
 
 ### Práticas
 
-Usava o [[_wiki/magia/circulo_de_sutura\|Círculo de Sutura]], um heptagrama necromântico, para animar os mortos. Sua necromancia derivava de um pacto com [[_wiki/panteao/naelkur\|Naelkur]], o diabo de [[_wiki/escolas/necro\|Necro]] que colhe legiões de mortos-vivos. Empunhou o [[_wiki/artefatos/luto_de_nillis\|Luto de Nillis]], um instrumento de antimagia, contra o Justiciar que o investigava.
+Usava o [[_wiki/magia/circulo_de_sutura\|Círculo de Sutura]], um heptagrama necromântico, para animar os mortos. Sua necromancia derivava de um pacto com [[_wiki/panteao/naelkur\|Naelkur]], o diabo de [[_wiki/escolas/necro\|Necro]] que colhe legiões de mortos-vivos. Empunhou o [[_wiki/artefatos/luto_de_nyssis\|Luto de Nyssis]], um instrumento de antimagia, contra o Justiciar que o investigava.
 
 ### Fim
 

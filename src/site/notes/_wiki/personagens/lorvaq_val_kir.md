@@ -2,9 +2,9 @@
 {"dg-publish":true,"dg-path":"_wiki/personagens/lorvaq_val_kir.md","permalink":"/wiki/personagens/lorvaq-val-kir/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
-# Lorvaq Val'Kir
+# Lorvaq Val’Kir
 
-Lorvaq Val'Kir é um [[_wiki/racas/frenim\|Frenim]], humano sideral de [[_wiki/locais/neranthis\|Neranthis]], e um místico formidável. É um calculista que confia nos próprios cálculos, dado a planos cuja grandiosidade funciona como substituto da grandiosidade real.
+Lorvaq Val’Kir é um [[_wiki/racas/frenim\|Frenim]], humano sideral de [[_wiki/locais/neranthis\|Neranthis]], e um místico formidável. É um calculista que confia nos próprios cálculos, dado a planos cuja grandiosidade funciona como substituto da grandiosidade real.
 
 ### Aparência
 

@@ -4,11 +4,17 @@
 
 # Dhar-Morveth
 
-Dhar-Morveth é o planalto negro do norte de [[_wiki/locais/reinkard\|Reinkard]] sobre o qual [[_wiki/locais/morvgrad\|Morvgrad]] foi erguida. O nome é a forma élfica original, ainda usada em registros formais e por observadores distantes, como o padre [[_wiki/personagens/abramis\|Abramis]] em [[_wiki/locais/niedellin\|Niedellin]]; os [[_wiki/racas/shadar\|shadars]] o chamam apenas de "planalto" ou "planalto Shadar".
+Dhar-Morveth é o planalto negro do norte de [[_wiki/locais/reinkard\|Reinkard]] sobre o qual [[_wiki/locais/morvgrad\|Morvgrad]] foi erguida. O nome é a forma élfica original, ainda usada em registros formais e por observadores distantes, como o padre [[_wiki/personagens/abramis\|Abramis]] em [[_wiki/locais/niedellin\|Niedellin]]; os [[_wiki/racas/shadar\|shadars]] o chamam apenas de “planalto” ou “planalto Shadar”.
 
 ### Geografia
 
-O Dhar-Morveth domina o norte do continente, elevando-se acima das planícies da [[_wiki/locais/ventrista\|Ventrista]] como uma coroa de obsidiana. A [[_wiki/locais/dorsal\|Dorsal]] marca sua fronteira ocidental. No subterrâneo, o planalto conecta-se ao [[_wiki/locais/vor-ghol\|Vor-Ghol]] por um elevador vertical de mil braças que liga Morvgrad a [[_wiki/locais/ghilanna\|Ghilanna]]. Praticamente toda a população do planalto, mais de meio milhão de almas, concentra-se em Morvgrad.
+Dhar-Morveth domina o norte do continente, elevando-se acima das planícies da [[_wiki/locais/ventrista\|Ventrista]] como uma coroa de obsidiana. A [[_wiki/locais/dorsal\|Dorsal]] marca sua fronteira ocidental. No subterrâneo, o planalto conecta-se a [[_wiki/locais/vor-ghol\|Vor-Ghol]] por um elevador vertical de mil braças que liga Morvgrad a [[_wiki/locais/ghilanna\|Ghilanna]]. Praticamente toda a população do planalto, mais de meio milhão de almas, concentra-se em Morvgrad.
+
+### Matéria do planalto
+
+Madeira quase não sobe ao planalto. A construção shadar é de pedra e obsidiana, e um cômodo forrado de madeira em Morvgrad seria excentricidade cara, além de material que os shadars não apreciam. Fora do planalto, nas vilas de vertente como Niedellin, a madeira é o material comum.
+
+Sob a capa vulcânica das encostas há bolsões de calcário, e a hidrologia desse relevo cárstico sustenta o terroir das vinícolas das vertentes.
 
 ### História
 

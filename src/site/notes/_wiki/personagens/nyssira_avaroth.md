@@ -8,7 +8,7 @@
 
 ### Trajetória
 
-Sua decisão de enviar a filha ao [[_wiki/locais/vor-ghol\|Vor-Ghol]], convencida pelo Justiciar [[_wiki/personagens/orum-rahru\|Orum-Rahru]], que argumentou que Nidzina precisava provar ferro verdadeiro, levou ao treinamento brutal, à aquisição de magia espectral e da língua [[_wiki/racas/drul\|drul]]. Em [[_wiki/locais/xarn_zareth\|Xarn'Zareth]], esteve ao lado de Orum-Rahru para negociar esse treinamento com a matriarca [[_wiki/personagens/belarbreza_srune\|Belarbreza Srune]]. O comentário de [[_wiki/personagens/vekraal\|Vekraal]], tio de Nidzina, sobre escolhas que nunca deixam de surpreender, sugere uma mulher cujas decisões desafiam as expectativas da nobreza shadar.
+Sua decisão de enviar a filha a [[_wiki/locais/vor-ghol\|Vor-Ghol]], convencida pelo Justiciar [[_wiki/personagens/orum-rahru\|Orum-Rahru]], que argumentou que Nidzina precisava provar ferro verdadeiro, levou ao treinamento brutal, à aquisição de magia espectral e da língua [[_wiki/racas/drul\|drul]]. Em [[_wiki/locais/xarn_zareth\|Xarn’Zareth]], esteve ao lado de Orum-Rahru para negociar esse treinamento com a matriarca [[_wiki/personagens/belarbreza_vhaskrith\|Belarbreza Vhaskrith]]. O comentário de [[_wiki/personagens/vekraal\|Vekraal]], tio de Nidzina, sobre escolhas que nunca deixam de surpreender, sugere uma mulher cujas decisões desafiam as expectativas da nobreza shadar.
 
 ### Relações
 

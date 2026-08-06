@@ -8,7 +8,7 @@ Koliah é uma humana, filha adotiva do padre [[_wiki/personagens/abramis\|Abrami
 
 ### Aparência
 
-Veste couro trabalhado que abraça o corpo, a proteção de quem conhece a mata: armadura de caçadora. É lembrada como a "bela caçadora" e como "a menina da cicatriz", marca que carrega desde jovem.
+Veste couro trabalhado que abraça o corpo, a proteção de quem conhece a mata: armadura de caçadora. É lembrada como a “bela caçadora” e como “a menina da cicatriz”, marca que carrega desde jovem.
 
 ### Papel
 

@@ -20,6 +20,6 @@ Tibaut é econômico, no aço e na palavra. As frases são curtas, funcionais, t
 
 ### Relações
 
-Tibaut é informante pago de [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]], a quem chama de "a melhor pagadora da minha vida". A relação começa como utilidade mútua e amadurece em algo que beira a amizade que nenhum dos dois admite por inteiro; mesmo quando o contrato esfria, ele continua a vigiá-la à distância, atento ao que ela não vê.
+Tibaut é informante pago de [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]], a quem chama de “a melhor pagadora da minha vida”. A relação começa como utilidade mútua e amadurece em algo que beira a amizade que nenhum dos dois admite por inteiro; mesmo quando o contrato esfria, ele continua a vigiá-la à distância, atento ao que ela não vê.
 
-Apresenta [[_wiki/personagens/fandegarron\|Fandegarrón]] como "primo legítimo do lado da mãe da matilha", e a fórmula vale mais como laço de honra do que como genealogia. Worg e [[_wiki/criaturas/gnoll\|gnoll]] são raças distintas; o parentesco é convenção de matilha, não sangue. Ainda assim, Tibaut o trata como família: contém o ímpeto do gnoll quando o ruído pode custar caro e lembra, sempre, que em Morvgrad toda parede tem olhos.
+Apresenta [[_wiki/personagens/fandegarron\|Fandegarrón]] como “primo legítimo do lado da mãe da matilha”, e a fórmula vale mais como laço de honra do que como genealogia. Worg e [[_wiki/criaturas/gnoll\|gnoll]] são raças distintas; o parentesco é convenção de matilha, não sangue. Ainda assim, Tibaut o trata como família: contém o ímpeto do gnoll quando o ruído pode custar caro e lembra, sempre, que em Morvgrad toda parede tem olhos.

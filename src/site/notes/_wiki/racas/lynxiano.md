@@ -20,7 +20,7 @@ Os margáus, de porte gnômico, são felinos compactos e arborícolas, simbióti
 
 ### A Não-Ruptura
 
-A relação entre rajhars e margáus é a ausência de relação. Não houve coexistência primordial para se romper, nem simbiose para degenerar, nem hierarquia para se inverter. Os [[_wiki/racas/vulfano\|vulfanos]] tiveram alcateias antes da predação, os [[_wiki/racas/sauriano\|saurianos]] têm a rejeição ativa dos draconídeos pelos [[_wiki/racas/kobold\|kobolds]]; os lynxianos não têm sequer a energia do conflito. Rajhars e margáus se cruzam nas florestas e seguem adiante, sem se reconhecer como família nem se rejeitar como intrusos. A classificação "lynxiana" é imposição de naturalistas imperiais que agruparam tudo que tem pelagem e pupilas verticais sob o mesmo verbete.
+A relação entre rajhars e margáus é a ausência de relação. Não houve coexistência primordial para se romper, nem simbiose para degenerar, nem hierarquia para se inverter. Os [[_wiki/racas/vulfano\|vulfanos]] tiveram alcateias antes da predação, os [[_wiki/racas/sauriano\|saurianos]] têm a rejeição ativa dos draconídeos pelos [[_wiki/racas/kobold\|kobolds]]; os lynxianos não têm sequer a energia do conflito. Rajhars e margáus se cruzam nas florestas e seguem adiante, sem se reconhecer como família nem se rejeitar como intrusos. A classificação “lynxiana” é imposição de naturalistas imperiais que agruparam tudo que tem pelagem e pupilas verticais sob o mesmo verbete.
 
 ### Declínio
 

@@ -4,7 +4,7 @@
 
 # Lex Obscura
 
-A Lex Obscura, ou "Lei das Sombras", é o código legal do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], criado por [[_wiki/personagens/xarn\|Xarn]] na [[_wiki/conceitos/segunda_era\|Segunda Era]] como fundamento jurídico-religioso comum que subordinou os cultos locais a uma estrutura central. Constitui a segunda seção do [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]].
+A Lex Obscura, ou “Lei das Sombras”, é o código legal do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], criado por [[_wiki/personagens/xarn\|Xarn]] na [[_wiki/conceitos/segunda_era\|Segunda Era]] como fundamento jurídico-religioso comum que subordinou os cultos locais a uma estrutura central. Constitui a segunda seção do [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]].
 
 ### Natureza
 
@@ -16,4 +16,4 @@ A Lex Obscura e o [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] não s�
 
 Essa tensão entre a lei fundacional de Xarn e a palavra do soberano é a fissura que o [[_wiki/organizacoes/ordo_zathar\|Ordo Zathar]] explora. A facção defende prerrogativas templárias e uma ordem política menos subordinada ao monarca.
 
-A própria Lex condensa seu princípio na Seção Prima: "Traição ao culto é traição a si mesmo."
+A própria Lex condensa seu princípio na Seção Prima: “Traição ao culto é traição a si mesmo.”

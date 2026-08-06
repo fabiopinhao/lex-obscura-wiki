@@ -2,9 +2,9 @@
 {"dg-publish":true,"dg-path":"_wiki/personagens/nyx_ara.md","permalink":"/wiki/personagens/nyx-ara/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
-# Nyx'Ara
+# Nyx’Ara
 
-Nyx'Ara é uma bruxa de idade desconhecida, possivelmente de centenas de anos, conhecida como a Oráculo da [[_wiki/locais/camara_de_othuun\|Câmara de Othuun]]. Oráculo do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]], é consultada por diversos lordes sombrios em busca de presságios e cultiva uma fala deliberadamente ambígua. Habita as profundezas de [[_wiki/locais/ghol_mournak\|Ghol'Mournak]].
+Nyx’Ara é uma bruxa de idade desconhecida, possivelmente de centenas de anos, conhecida como a Oráculo da [[_wiki/locais/camara_de_othuun\|Câmara de Othuun]]. Oráculo do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]], é consultada por diversos lordes sombrios em busca de presságios e cultiva uma fala deliberadamente ambígua. Habita as profundezas de [[_wiki/locais/ghol_mournak\|Ghol’Mournak]].
 
 ### Aparência
 
@@ -12,7 +12,7 @@ Sua forma verdadeira é desconhecida. Diante de quem a consulta, ergue-se num mo
 
 ### A Câmara de Othuun
 
-A Câmara de Othuun ocupa as profundezas sob o distrito sagrado de [[_wiki/locais/xarn_aroth\|Xarn'Aroth]], em [[_wiki/locais/morvgrad\|Morvgrad]], onde o culto mantém vigilância total e o ar carrega uma pureza artificial. Quem busca seus presságios desce os quinhentos degraus sussurrantes, de que se diz guardar cada um o seu segredo, ou toma o elevador que poupa a penitência. Para além dos lordes que a procuram, o complexo abriga um núcleo de noviços e o Salão dos Ecos, onde coros ensaiam hinos fúnebres.
+A Câmara de Othuun ocupa as profundezas sob o distrito sagrado de [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], em [[_wiki/locais/morvgrad\|Morvgrad]], onde o culto mantém vigilância total e o ar carrega uma pureza artificial. Quem busca seus presságios desce os quinhentos degraus sussurrantes, de que se diz guardar cada um o seu segredo, ou toma o elevador que poupa a penitência. Para além dos lordes que a procuram, o complexo abriga um núcleo de noviços e o Salão dos Ecos, onde coros ensaiam hinos fúnebres.
 
 ### A Oráculo
 

@@ -8,7 +8,7 @@ Hypno é a escola híbrida de magia do sono e da hipnose. Combinação de verde 
 
 ### Princípio
 
-A pergunta central da escola é "estou acordado?". Isso a separa das vizinhas mentais: [[_wiki/escolas/spectro\|Spectro]] pergunta "isso é real?" e [[_wiki/escolas/psycho\|Psycho]] pergunta "isso é meu pensamento?". Onde Psycho invade a consciência, Hypno a suprime; é dominação contra adormecimento. A escola atua sobre a fronteira entre sono e vigília, e quem a domina aprende a habitar esse limiar.
+A pergunta central da escola é “estou acordado?”. Isso a separa das vizinhas mentais: [[_wiki/escolas/spectro\|Spectro]] pergunta “isso é real?” e [[_wiki/escolas/psycho\|Psycho]] pergunta “isso é meu pensamento?”. Onde Psycho invade a consciência, Hypno a suprime; é dominação contra adormecimento. A escola atua sobre a fronteira entre sono e vigília, e quem a domina aprende a habitar esse limiar.
 
 ### Práticas
 

@@ -4,7 +4,7 @@
 
 # Thandruk Varn
 
-Thandruk Varn é uma cidade-fortaleza anânica na fronteira entre os territórios shadares de [[_wiki/locais/reinkard\|Reinkard]] e a região varnakiana de [[_wiki/locais/veinkard\|Veinkard]], a cerca de 450 léguas a sudoeste de [[_wiki/locais/morvgrad\|Morvgrad]]. Erguida sobre uma antiga caverna de dragão que guardava riquezas minerais, está hoje sob custódia do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] e controle do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]].
+Thandruk Varn é uma cidade-fortaleza anânica no sudoeste de [[_wiki/locais/reinkard\|Reinkard]], na fronteira entre os territórios shadares e a região varnakiana de [[_wiki/locais/veinkard\|Veinkard]], a cerca de 450 léguas de [[_wiki/locais/morvgrad\|Morvgrad]]. Erguida sobre uma antiga caverna de dragão que guardava riquezas minerais, está hoje sob custódia do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] e controle do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]].
 
 ### Geografia e função
 
@@ -12,7 +12,7 @@ A cidadela serve de ponte entre Reinkard e Veinkard e abriga forjas mestras que 
 
 ### Estrutura atual
 
-A produção de armas e equipamentos militares ocupa as forjas, supervisionada pelo conselheiro [[_wiki/personagens/gorvam_threnk\|Gorvam]], que responde como Administrador de Recursos. Uma guarnição militar shadar permanente mantém a ordem na cidadela.
+A produção de armas e equipamentos militares ocupa as forjas, supervisionada pelo conselheiro [[_wiki/personagens/gorvam_threnk\|Gorvam]], que responde como Mestre das Forjas. Uma guarnição militar shadar permanente mantém a ordem na cidadela.
 
 ### Relação com os draconídeos
 
@@ -20,4 +20,4 @@ Antes da conquista shadar, tribos [[_wiki/racas/draconideo\|draconídeas]] ataca
 
 ### Crise recente
 
-As forjas estão paralisadas há três luas, sem explicação pública, e o abastecimento militar ficou comprometido. Ainda assim, novas legiões shadares continuam a surgir apesar das forjas paradas, com armas de origem desconhecida. Gorvam trata a resolução da crise como prioridade absoluta.
+As forjas estão paralisadas há duas luas, sem explicação pública, e o abastecimento militar ficou comprometido. Ainda assim, novas legiões shadares continuam a surgir apesar das forjas paradas, com armas de origem desconhecida. Gorvam trata a resolução da crise como prioridade absoluta.

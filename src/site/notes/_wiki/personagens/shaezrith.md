@@ -12,7 +12,7 @@ Veste o véu de sacerdotisa e a túnica púrpura da ordem. O Sopro de Lúrio mar
 
 ### Origem e papel
 
-Pertence às ophideias e atua ao lado de Syndrith na missão à superfície. Pouco antes de morrer, atravessa o Sopro de Lúrio, rito que debilita de modo progressivo quem o suporta. É encontrada morta nos corredores de Ghilanna; o colar ritual lhe é removido post-mortem.
+Pertence às ophideias e atua ao lado de Syndrith na missão à superfície. Pouco antes de morrer, atravessa o Sopro de Lúrio, rito que debilita de modo progressivo quem o suporta. É encontrada morta nos corredores de Ghilanna, o corpo sereno e sem sinal de luta, o véu rasgado no canto.
 
 Acredita que o fardo da missão à superfície é só dela, e diz isso a Syndrith: deveria ir sozinha, o peso era seu, não da companheira. Mas curva-se ao destino com fé fatalista, na convicção de que [[_wiki/personagens/jaakurs\|Jaakurs]] escolhe certo.
 

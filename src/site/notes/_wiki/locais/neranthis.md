@@ -12,7 +12,7 @@ A geografia é hostil: lagos em excesso, pântanos e rios que dificultam a locom
 
 ### Povos
 
-Neranthis é a terra de três povos ligados aos [[_wiki/cosmologia/siderais\|siderais]]: os [[_wiki/racas/frenim\|frenims]], os [[_wiki/racas/undine\|undines]] e os [[_wiki/racas/ranidano\|ranidanos]]. Os frenims se distanciaram das sombras de Reinkard, temendo a dominação. Os undines vivem no extremo leste, nas costas oceânicas, desconhecidos dos shadars.
+Neranthis é a terra de três povos ligados aos [[_wiki/cosmologia/siderais\|siderais]]: os [[_wiki/racas/frenim\|frenins]], os [[_wiki/racas/undine\|undines]] e os [[_wiki/racas/ranidano\|ranidanos]]. Os frenins se distanciaram das sombras de Reinkard, temendo a dominação. Os undines vivem no extremo leste, nas costas oceânicas, desconhecidos dos shadars.
 
 ### Interesse Imperial
 

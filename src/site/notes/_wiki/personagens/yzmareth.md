@@ -4,7 +4,7 @@
 
 # Yzmareth
 
-Yzmareth é um [[_wiki/racas/draconideo\|draconídeo]] [[_wiki/racas/sauriano\|sauriano]] do [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr'vethan]], usuário de magia vermelha dracônica e único de sua espécie visto a sobrevoar [[_wiki/locais/dorsal\|a Dorsal]]. Aparece no planalto em busca da adaga [[_wiki/artefatos/fendris\|Fendris]] e a perde para a [[_wiki/organizacoes/justiciars\|Justiciar]] [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]].
+Yzmareth é um [[_wiki/racas/draconideo\|draconídeo]] [[_wiki/racas/sauriano\|sauriano]] do [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr’vethan]], usuário de magia vermelha dracônica e único de sua espécie visto a sobrevoar [[_wiki/locais/dorsal\|a Dorsal]]. Aparece no planalto em busca da adaga [[_wiki/artefatos/fendris\|Fendris]] e a perde para a [[_wiki/organizacoes/justiciares\|Justiciar]] [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]].
 
 ### Aparência
 
@@ -12,7 +12,7 @@ Yzmareth é um [[_wiki/racas/draconideo\|draconídeo]] [[_wiki/racas/sauriano\|s
 
 ### Origem e papel
 
-Vem de [[_wiki/locais/veinkard\|Veinkard]] e [[_wiki/locais/varnak\|Varnak]], terras dos draconídeos além da Dorsal, e pertence ao Clã Myr'vethan. É o único que se vê cruzar a Dorsal em voo, singularidade entre os de sua espécie. Chega a [[_wiki/locais/reinkard\|Reinkard]] com uma missão estreita: encontrar a Fendris, a adaga [[_wiki/linguas/luminar\|Luminar]] forjada em [[_wiki/locais/thandruk_varn\|Thandruk Varn]]. É na cidade subterrânea de [[_wiki/locais/vor-ghol\|Vor-Ghol]] que negocia a lâmina com [[_wiki/personagens/svyarnov\|Svyarnov]], da [[_wiki/organizacoes/serpente_purpura\|Serpente Púrpura]].
+Vem de [[_wiki/locais/veinkard\|Veinkard]] e [[_wiki/locais/varnak\|Varnak]], terras dos draconídeos além da Dorsal, e pertence ao Clã Myr’vethan. É o único que se vê cruzar a Dorsal em voo, singularidade entre os de sua espécie. Chega a [[_wiki/locais/reinkard\|Reinkard]] com uma missão estreita: encontrar a Fendris, a adaga [[_wiki/racas/luminares\|Luminar]] forjada em [[_wiki/locais/thandruk_varn\|Thandruk Varn]]. É na cidade subterrânea de [[_wiki/locais/vor-ghol\|Vor-Ghol]] que negocia a lâmina com [[_wiki/personagens/svyarnov\|Svyarnov]], da [[_wiki/organizacoes/serpente_purpura\|Serpente Púrpura]].
 
 ### Método e voz
 

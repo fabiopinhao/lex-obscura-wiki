@@ -31,9 +31,9 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 - [[_wiki/cosmologia/cosmogonia__tradicoes_orais_sobre_a_origem\|Cosmogonia — Tradições Orais]] — Versões contraditórias sobre a origem de Thamakard, nenhuma confirmada
 - [[_wiki/cosmologia/incendio_primordial\|Incêndio Primordial]] — A tradição vermelha: o universo nasceu do excesso, da combustão sem limite
 - [[_wiki/cosmologia/vazio\|Vazio]] — A tradição sombria: um negrume consciente que precedeu toda existência
-- [[_wiki/cosmologia/doutrina_da_alma\|Doutrina da Alma]] — Toda magia nasce da alma (*Naiu'Wula*)
+- [[_wiki/cosmologia/doutrina_da_alma\|Doutrina da Alma]] — Toda magia nasce da alma (*Naiu’Wula*)
 - [[_wiki/cosmologia/teoria_materialista\|Teoria Materialista]] — Magi como força alquímica mensurável (Jospin Valheorn)
-- [[_wiki/cosmologia/maleficariums\|Maleficariums]] — As escrituras demonológicas do antigo império
+- [[_wiki/cosmologia/maleficarios\|Maleficários]] — As escrituras demonológicas do antigo império
 
 ## Fundamentos Arcanos
 
@@ -60,11 +60,11 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/panteao/naelkur\|Naelkur]] — Cova Fecunda *(Fertile Grave)* — Redivivo enraizado que trata cada cadáver como semente; sua decomposição é agricultura, cada campo de morte é lavoura
 
-- [[_wiki/panteao/vozrador\|Vozrador]] — Relâmpago Cativo *(Captive Lightning)* — Gárgula tempestuosa cujo poder nasce de Thal'Serin e não dos domínios celestiais
+- [[_wiki/panteao/vozrador\|Vozrador]] — Relâmpago Cativo *(Captive Lightning)* — Gárgula tempestuosa cujo poder nasce de Thal’Serin e não dos domínios celestiais
 
 - [[_wiki/panteao/ulravaeth\|Ulravaeth]] — Custódio do Entre *(Vigil of the Between)* — Sombra gêmea que habita limiares entre a vida e a morte; suas ilusões funcionam por subtração, apagando referências em vez de criar miragens
 
-- [[_wiki/panteao/gul_vakresh\|Gul'Vakresh]] — Ordem Cáustica *(Caustic Order)* — Bode expiatório encharcado em bile; seus grilhões obrigam o portador a permanecer parado enquanto o ácido da lei o dissolve
+- [[_wiki/panteao/gul_vakresh\|Gul’Vakresh]] — Ordem Cáustica *(Caustic Order)* — Bode expiatório encharcado em bile; seus grilhões obrigam o portador a permanecer parado enquanto o ácido da lei o dissolve
 
 - [[_wiki/panteao/quelvorax\|Quelvorax]] — Terror Abissal *(The Abyssal Terror)* — Verme colossal que consome espaço; onde passa, a geometria se parte e a distância entre dois pontos perde sentido
 
@@ -82,7 +82,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/panteao/tzarakul\|Tzarakul]] — Arquidemônio *(Archdemon)* — Autarca calcinante: figura humanóide soberana em combustão perpétua cuja força dissolve pactos arcanos na raiz; a ferida que Rupto abre, Anatho infecta, e qualquer tentativa de refazer o vínculo nasce corrompida
 
-- [[_wiki/panteao/bal_hadut\|Bal'Hadut]] — Trono Incandescente *(The Incandescent Throne)* — Dragão vulcânico cujo fogo não ilumina: calcina, e o trono sobre o qual se senta são as cinzas de quem se aproximou
+- [[_wiki/panteao/bal_hadut\|Bal’Hadut]] — Trono Incandescente *(The Incandescent Throne)* — Dragão vulcânico cujo fogo não ilumina: calcina, e o trono sobre o qual se senta são as cinzas de quem se aproximou
 
 - [[_wiki/panteao/thurgash\|Thûrgash]] — Devorador de Bastiões *(The Devourer of Bastions)* — Gigante de cerco que existe para a guerra eterna; onde outros demônios incendeiam, Thûrgash esmaga até que não reste estrutura de pé
 
@@ -94,7 +94,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/panteao/ixragor\|Ixragor]] — Ventre Abominável *(The Abominable Womb)* — Quimera gangrenosa que gera formas impossíveis; cada cria é anatomia reescrita sem respeito pela original
 
-- [[_wiki/panteao/hazburim\|Hazburim]] — Senhor das Moscas *(Lord of the Flies)* — Insetóide larvário de natureza dual entre demônio e titã; proscrito pelo Culto, seu altar secreto apodrecia sob a capela de Niedellin
+- [[_wiki/panteao/hazburim\|Hazburim]] — Senhor das Moscas *(Lord of the Flies)* — Insetóide larvário de natureza dual entre demônio e titã; proscrito pelo Culto, alcança o mundo por altares consagrados que funcionam como janela entre planos
 
 - [[_wiki/panteao/solvara\|Solvara]] — Cinza Imortal *(Ash Undying)* — Fênix imolada de natureza dual entre demônio e anjo; arde e renasce, mas cada renascimento preserva a queimadura anterior
 
@@ -102,7 +102,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/panteao/orendhal\|Orendhal]] — Cerne Selado *(The Sealed Heartwood)* — Treante ancião cujas raízes sustentam e aprisionam ao mesmo tempo; a proteção que oferece é uma jaula viva
 
-- [[_wiki/panteao/morlgrund\|Morlgrund]] — Osso do Mundo *(Bone of the World)* — Golem de pedra, guardião de Thal'Serin; cada manifestação de avatar exige sacrifício do próprio domínio
+- [[_wiki/panteao/morlgrund\|Morlgrund]] — Osso do Mundo *(Bone of the World)* — Golem de pedra, guardião de Thal’Serin; cada manifestação de avatar exige sacrifício do próprio domínio
 
 - [[_wiki/panteao/sulkavrim\|Sulkavrim]] — Muralha Perene *(The Unyielding Bulwark)* — Serpe marmórea que se petrifica para proteger; defesa absoluta ao custo da imobilidade total
 
@@ -116,7 +116,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/panteao/brondakhar\|Brondakhar]] — Égide Iracunda *(Wrathful Aegis)* — Minotauro couraçado que protege destruindo; sua defesa é um contra-ataque perpétuo
 
-- [[_wiki/panteao/titania\|Titânia]] — Mãe das Raízes *(Mother of Roots)* — Dríade inviolada de natureza dual entre titã e anjo; patrona dos sylvanos e guardiã de [[_wiki/locais/thal_serin\|Thal'Serin]]
+- [[_wiki/panteao/titania\|Titânia]] — Mãe das Raízes *(Mother of Roots)* — Dríade inviolada de natureza dual entre titã e anjo; patrona dos sylvanos e guardiã de [[_wiki/locais/thal_serin\|Thal’Serin]]
 
 ### Anjos
 

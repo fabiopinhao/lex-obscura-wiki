@@ -18,7 +18,7 @@ Surgiram na Primeira Era como paladinos do panteão luminoso, braço militarizad
 
 No período pré-conquista, os álvarares ocupavam o topo da hierarquia militar e religiosa de [[_wiki/locais/myrgarde\|Myrgarde]]: uma força organizada, visível e militante. A conquista de Myrgarde e de [[_wiki/locais/elenir\|Elenir]] desmontou essa estrutura pública. No presente, não estão extintos, mas tornaram-se raros e reclusos: mantêm cultura, hierarquia e prática religiosa em santuários ocultos, comunidades pequenas em vales protegidos por geografia inóspita e ordens contemplativas em fortalezas semi-abandonadas. A reclusão preservou a linhagem, a prática do Sancta e a transmissão geracional, ao custo da invisibilidade política e da perda da projeção militar histórica.
 
-Sir [[_wiki/personagens/grimald\|Grimald]], a Lâmina Dourada, é hoje o álvarar mais proeminente: armadura dourada e a presença esmagadora característica da linhagem.
+Sir [[_wiki/personagens/grimald\|Grimald]], a Lâmina Dourada, é hoje o álvarar mais proeminente: armadura dourada e a presença esmagadora característica da linhagem. Detectou uma entidade oculta no bolso de um recruta humano de [[_wiki/locais/myrgarde\|Myrgarde]] e recusou seu alistamento, dizendo não ver nele o que procurava.
 
 ### Fraquezas
 

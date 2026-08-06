@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/manticora.md","permalink":"/wiki/criaturas/manticora/","dg-note-properties":{"tipo":"criatura","nome":"Mantícora","cor_arcana":"—","habitat":"—","aliases":["Mantícoras"],"ordem":15,"heading_level":2,"parent":null,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/manticora.md","permalink":"/wiki/criaturas/manticora/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Mantícora
 
-Besta de corpo de leão, cauda de escorpião e rosto que parodia feições humanas. O veneno paralisa a vítima antes de dissolver os órgãos.
+A mantícora é uma besta de corpo de leão, cauda de escorpião e rosto que parodia feições humanas. Seu veneno paralisa a vítima antes de dissolver os órgãos.
 
 ### Comportamento
 
@@ -11,8 +12,8 @@ Algumas mantícoras aprendem a imitar choro de criança ou pedidos de socorro pa
 
 ### Uso na Linguagem
 
-"Beijo de mantícora" é expressão comum para traições fatais: o tipo que sorri antes de matar.
+“Beijo de mantícora” é expressão comum para traições fatais, do tipo que sorri antes de matar.
 
-### Distinção
+### Forma divina
 
-A mantícora também existe como forma divina de [[_wiki/panteao/kaelgrym\|Kaelgrym]]. Este grão trata da besta mundana.
+A mantícora dá figura à manifestação de [[_wiki/panteao/kaelgrym\|Kaelgrym]], a Mantícora Funérea, que é ordem de ser distinta da besta descrita acima.

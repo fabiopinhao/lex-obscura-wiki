@@ -20,7 +20,7 @@ Reservado a ponto de parecer mudo ao lado de Mur, Grub responde mais do que inic
 
 ### Combate
 
-Em [[_wiki/locais/thal_serin\|Thal'Serin]], coube a Grub o trabalho que ninguém mais quis: queimar os [[_wiki/criaturas/troll\|trolls]] que se regeneravam mais rápido do que se podia cortá-los. Fê-lo com fogo alquímico, frascos de sangue de [[_wiki/criaturas/salamandra\|salamandra]] que Milor lhe pôs nas mãos, e o que voltava a fechar não fechou mais. A eficácia convive com a índole literal: o mesmo orc que incinera o que se recusa a morrer é o que debate placar de mortes como quem conta moedas.
+Em [[_wiki/locais/thal_serin\|Thal’Serin]], coube a Grub o trabalho que ninguém mais quis: queimar os [[_wiki/criaturas/troll\|trolls]] que se regeneravam mais rápido do que se podia cortá-los. Fê-lo com fogo alquímico, frascos de sangue de [[_wiki/criaturas/salamandra\|salamandra]] que Milor lhe pôs nas mãos, e o que voltava a fechar não fechou mais. A eficácia convive com a índole literal: o mesmo orc que incinera o que se recusa a morrer é o que debate placar de mortes como quem conta moedas.
 
 ### Relações
 

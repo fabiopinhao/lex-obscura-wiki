@@ -10,9 +10,9 @@ Varnak é uma região montanhosa no coração de [[_wiki/locais/veinkard\|Veinka
 
 A liderança em Varnak se assenta em força militar e linhagem dracônica. As tribos saurianas firmam alianças temporárias, traem-se com frequência e guerreiam sem trégua. Essa fragmentação impede qualquer resistência ou governo unificado.
 
-### Clã Myr'vethan
+### Clã Myr’vethan
 
-O [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr'vethan]] é a tribo militarmente dominante da região. Seu líder é [[_wiki/personagens/yzmareth\|Yzmareth]], um [[_wiki/racas/draconideo\|draconídeo]] vermelho e usuário de magia dracônica, cuja ambição é subjugar todos os clãs sob seu comando. O obstáculo principal a essa unificação é Varna, cuja presença as tribos rivais invocam como arma estratégica contra Yzmareth. Algumas a cultuam; outras apenas recorrem a ela quando convém.
+O [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr’vethan]] é a tribo militarmente dominante da região. Seu líder é [[_wiki/personagens/yzmareth\|Yzmareth]], um [[_wiki/racas/draconideo\|draconídeo]] vermelho e usuário de magia dracônica, cuja ambição é subjugar todos os clãs sob seu comando. O obstáculo principal a essa unificação é Varna, cuja presença as tribos rivais invocam como arma estratégica contra Yzmareth. Algumas a cultuam; outras apenas recorrem a ela quando convém.
 
 ### Varnakianos
 

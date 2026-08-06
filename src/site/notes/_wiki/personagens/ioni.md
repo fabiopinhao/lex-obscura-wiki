@@ -12,4 +12,4 @@ Menino de olhos sempre um pouco desalinhados, que se balançava de um pé para o
 
 ### Papel
 
-Viveu um momento de heroísmo num jogo de [[_wiki/conceitos/korball\|Korball]], quando marcou um gol decisivo numa cobrança de penalidade. Até o fim, falava daquele dia em que foi herói. Morreu no inverno do terceiro ano do Cerco de Myrgarde. Anos depois, ressurge como uma espécie de fantasma no delírio do pai, então prisioneiro em [[_wiki/locais/ghol_drokh\|Ghol'Drokh]], que o invoca e o vê surgir pela fenda da cela. Ioni permanece como eco de uma Myrgarde que já não existe.
+Viveu um momento de heroísmo num jogo de [[_wiki/conceitos/aroada\|Aroada]], quando marcou um gol decisivo numa cobrança de penalidade. Até o fim, falava daquele dia em que foi herói. Morreu de febre no inverno seguinte ao jogo, na Myrgarde ainda em paz. Anos depois, ressurge como uma espécie de fantasma no delírio do pai, então prisioneiro em [[_wiki/locais/ghol_drokh\|Ghol’Drokh]], que o invoca e o vê surgir pela fenda da cela. Ioni permanece como eco de uma Myrgarde que já não existe.

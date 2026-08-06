@@ -4,7 +4,7 @@
 
 # Nullis
 
-O Nullis é o dia avulso que separa a última [[_wiki/conceitos/lunia\|Lúnia]] de um [[_wiki/conceitos/varnum\|Varnum]] da primeira do seguinte. Não pertence a nenhuma Lúnia nem a nenhuma estação: é o resíduo aritmético do calendário, o dia que completa os 365 do Varnum depois que as treze Lúnias somam 364. É chamado coloquialmente de "Dia do Vaz", corruptela que o liga ao [[_wiki/cosmologia/vazio\|Vazio]] e ao vocabulário de pragas do [[_wiki/organizacoes/imperio_sombrio\|império]].
+O Nullis é o dia avulso que separa a última [[_wiki/conceitos/lunia\|Lúnia]] de um [[_wiki/conceitos/varnum\|Varnum]] da primeira do seguinte. Não pertence a nenhuma Lúnia nem a nenhuma estação: é o resíduo aritmético do calendário, o dia que completa os 365 do Varnum depois que as treze Lúnias somam 364. É chamado coloquialmente de “Dia do Vaz”, corruptela que o liga ao [[_wiki/cosmologia/vazio\|Vazio]] e ao vocabulário de pragas do [[_wiki/organizacoes/imperio_sombrio\|império]].
 
 ### Significado cultural
 

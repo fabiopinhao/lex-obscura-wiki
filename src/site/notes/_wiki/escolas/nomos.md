@@ -16,7 +16,7 @@ A mecânica escala da tranca ao édito cósmico. Selo tranca por toque uma porta
 
 ### Custos
 
-O custo temático é rigidez mental e dificuldade de questionar ou improvisar, durando de cinco minutos a quatro horas. O custo ontológico é um literalismo patológico. Primeiro vem o desconforto com a ambiguidade e a preferência por regras claras; depois piadas e metáforas confundem genuinamente; em seguida as exceções parecem ameaças à ordem; por fim a realidade só existe onde há lei, e o caos torna-se literalmente invisível. Nesse estágio o praticante é recolhido das funções de campo, mas mantido em funções jurídicas e administrativas, onde a rigidez absoluta é desejável. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes de Nomos como [[_wiki/organizacoes/justiciars\|Justiciars]], Magistrados, Conselheiros e árbitros de última instância.
+O custo temático é rigidez mental e dificuldade de questionar ou improvisar, durando de cinco minutos a quatro horas. O custo ontológico é um literalismo patológico. Primeiro vem o desconforto com a ambiguidade e a preferência por regras claras; depois piadas e metáforas confundem genuinamente; em seguida as exceções parecem ameaças à ordem; por fim a realidade só existe onde há lei, e o caos torna-se literalmente invisível. Nesse estágio o praticante é recolhido das funções de campo, mas mantido em funções jurídicas e administrativas, onde a rigidez absoluta é desejável. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes de Nomos como [[_wiki/organizacoes/justiciares\|Justiciares]], Magistrados, Conselheiros e árbitros de última instância.
 
 ### Combinações
 

@@ -12,4 +12,4 @@ Os [[_wiki/cosmologia/diabos\|Diabos]], da cor preta, operam pelo [[_wiki/magia/
 
 ### Coercitivos e não-coercitivos
 
-Os sistemas dividem-se em dois grupos. O Pactum Diaboli e o Vinculum Daemonis são coercitivos: são os únicos em que o mortal é propriamente "pactuado". A Symbiosis Naturae, a Devotio Sancta e a Meditatio Aetheris são não-coercitivos.
+Os sistemas dividem-se em dois grupos. O Pactum Diaboli e o Vinculum Daemonis são coercitivos: são os únicos em que o mortal é propriamente “pactuado”. A Symbiosis Naturae, a Devotio Sancta e a Meditatio Aetheris são não-coercitivos.

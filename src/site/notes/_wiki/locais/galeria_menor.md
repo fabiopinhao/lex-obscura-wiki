@@ -4,7 +4,7 @@
 
 # Galeria Menor
 
-A Galeria Menor é um corredor subterrâneo do [[_wiki/locais/vor-ghol\|Vor-Ghol]]. Quando transitável, é rota preferida de caravanas; sua imprevisibilidade, porém, faz dela parte do cálculo logístico de qualquer operação de transporte nas profundezas.
+A Galeria Menor é um corredor subterrâneo de [[_wiki/locais/vor-ghol\|Vor-Ghol]]. Quando transitável, é rota preferida de caravanas; sua imprevisibilidade, porém, faz dela parte do cálculo logístico de qualquer operação de transporte nas profundezas.
 
 ### Geografia
 

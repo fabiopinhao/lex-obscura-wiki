@@ -16,7 +16,7 @@ Durante as Guerras Reinkárdicas, a submissão da [[_wiki/locais/ventrista\|Vent
 
 ### Proibição
 
-Cerca de quarenta e quatro anos atrás, [[_wiki/personagens/arothistar\|Arothistar]] proibiu o Rito de Ossárium e o classificou como heresia capital. A proibição coincidiu com a fundação do sistema de [[_wiki/organizacoes/justiciars\|Justiciars]] e a nomeação de [[_wiki/personagens/orum-rahru\|Orum-Rahru]] como primeiro Justiciar. A motivação mais provável é política: impedir que humanos percorressem o caminho da conversão e se tornassem rivais em potencial ao trono.
+Cerca de quarenta e quatro anos atrás, [[_wiki/personagens/arothistar\|Arothistar]] proibiu o Rito de Ossárium e o classificou como heresia capital. A proibição coincidiu com a fundação do sistema de [[_wiki/organizacoes/justiciares\|Justiciares]] e a nomeação de [[_wiki/personagens/orum-rahru\|Orum-Rahru]] como primeiro Justiciar. A motivação mais provável é política: impedir que humanos percorressem o caminho da conversão e se tornassem rivais em potencial ao trono.
 
 ### Implicações
 

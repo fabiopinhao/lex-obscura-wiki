@@ -8,8 +8,8 @@ O Tratado de Wijmarv é um documento de autoria do xamã [[_wiki/racas/varnakian
 
 ### Conteúdo
 
-A tese central do tratado está condensada numa única sentença: "A lâmina não reconhece juramento. Onde há pacto, há cegueira. Fendris responde apenas à mão que nada deve."
+A tese central do tratado está condensada numa única sentença: “A lâmina não reconhece juramento. Onde há pacto, há cegueira. Fendris responde apenas à mão que nada deve.”
 
 ### Circulação
 
-Escrito em varnakiano, o tratado é legível apenas por eruditos. O documento é guardado na biblioteca de [[_wiki/locais/mor_severith\|Mor'Severith]]. [[_wiki/personagens/odran\|Odran]], um [[_wiki/racas/minotauro\|minotauro]], lê tratados varnakianos, este incluído. [[_wiki/personagens/thrax\|Thrax]] odeia Wijmarv profundamente e o considera um traidor.
+Escrito em varnakiano, o tratado é legível apenas por eruditos. O documento é guardado na biblioteca de [[_wiki/locais/mor_severith\|Mor’Severith]]. [[_wiki/personagens/odran\|Odran]], um [[_wiki/racas/minotauro\|minotauro]], lê tratados varnakianos, este incluído. [[_wiki/personagens/thrax\|Thrax]] odeia Wijmarv profundamente e o considera um traidor.

@@ -16,7 +16,7 @@ Refugiaram-se em Elenir após a destruição dos Luminares na [[_wiki/conceitos/
 
 ### Relação com o Império
 
-Após as Guerras Reinkárdicas, Elenir foi conquistada e seus nexus arcanos foram parcialmente incorporados à infraestrutura imperial. Nexus elarinos na Fortaleza de Cristal chegaram a ser silenciados de dentro para fora, interferência deliberada que os relatórios imperiais registram como de origem não identificada. Os elarinos sobrevivem em condições variáveis: alguns como prisioneiros de valor, outros como exilados dispersos. [[_wiki/personagens/iluvrae\|Ilúvrae]] é uma elarina prisioneira em [[_wiki/locais/mor_severith\|Mor'Severith]], dotada de conhecimento profundo sobre os [[_wiki/cosmologia/titas\|titãs]] e a cosmologia do mundo; seu dom de cura élfica a mantém útil aos captores, que a exploram no cativeiro.
+Após as Guerras Reinkárdicas, Elenir foi conquistada e seus nexus arcanos foram parcialmente incorporados à infraestrutura imperial. Nexus elarinos na Fortaleza de Cristal chegaram a ser silenciados de dentro para fora, interferência deliberada que os relatórios imperiais registram como de origem não identificada. Os elarinos sobrevivem em condições variáveis: alguns como prisioneiros de valor, outros como exilados dispersos. [[_wiki/personagens/iluvrae\|Ilúvrae]] é uma elarina prisioneira em [[_wiki/locais/mor_severith\|Mor’Severith]], dotada de conhecimento profundo sobre os [[_wiki/cosmologia/titas\|titãs]] e a cosmologia do mundo; seu dom de cura élfica a mantém útil aos captores, que a exploram no cativeiro.
 
 ### Fraquezas
 

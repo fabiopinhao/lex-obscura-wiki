@@ -16,7 +16,7 @@ O Aero desloca matéria no espaço; o Chrono desloca a percepção no tempo. Sep
 
 ### O Vendaval
 
-O Vendaval Profético é título e fenômeno. Onde Arikhandis passa, a atmosfera se enche de resíduos cronológicos: as rajadas mais leves provocam déjà-vu em cascata, e as mais fortes colapsam a percepção temporal, fazendo o alvo viver segundos que duram horas ou décadas comprimidas num único fôlego. Guerreiros atingidos param de reagir porque seus corpos respondem a ameaças que ainda não existem ou que já passaram. Navegadores e cartógrafos descrevem as zonas sopradas como regiões de "tempo espesso", onde relógios de areia correm para cima e sombras apontam para sóis que se puseram há gerações. O vento passa, mas as cicatrizes temporais que deixa levam décadas para se fechar. Na rajada, vozes de uma conversa se ouvem: uma que ainda vai acontecer, ou uma que já aconteceu há décadas no mesmo lugar.
+O Vendaval Profético é título e fenômeno. Onde Arikhandis passa, a atmosfera se enche de resíduos cronológicos: as rajadas mais leves provocam déjà-vu em cascata, e as mais fortes colapsam a percepção temporal, fazendo o alvo viver segundos que duram horas ou décadas comprimidas num único fôlego. Guerreiros atingidos param de reagir porque seus corpos respondem a ameaças que ainda não existem ou que já passaram. Navegadores e cartógrafos descrevem as zonas sopradas como regiões de “tempo espesso”, onde relógios de areia correm para cima e sombras apontam para sóis que se puseram há gerações. O vento passa, mas as cicatrizes temporais que deixa levam décadas para se fechar. Na rajada, vozes de uma conversa se ouvem: uma que ainda vai acontecer, ou uma que já aconteceu há décadas no mesmo lugar.
 
 ### Vínculo
 

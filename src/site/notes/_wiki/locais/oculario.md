@@ -4,7 +4,7 @@
 
 # Oculário
 
-O Oculário é uma sala cerimonial no topo de [[_wiki/locais/mor_severith\|Mor'Severith]], em [[_wiki/locais/morvgrad\|Morvgrad]], e funciona como centro de poder pessoal de [[_wiki/personagens/arothistar\|Arothistar]]. Reúne os instrumentos de comunicação imperial, estátuas de entidades sombrias e uma cúpula pintada que serve de interface para os ritos do monarca.
+O Oculário é uma sala cerimonial no topo de [[_wiki/locais/mor_severith\|Mor’Severith]], em [[_wiki/locais/morvgrad\|Morvgrad]], e funciona como centro de poder pessoal de [[_wiki/personagens/arothistar\|Arothistar]]. Reúne os instrumentos de comunicação imperial, estátuas de entidades sombrias e uma cúpula pintada que serve de interface para os ritos do monarca.
 
 ### O recinto
 
@@ -12,7 +12,7 @@ Ao centro está o [[_wiki/artefatos/oculus_morvgradi\|Oculus]], esfera gigante d
 
 ### A cúpula celeste
 
-O teto traz uma cúpula celeste pintada que funciona como interface visual. Arothistar dirige-se às divindades olhando para cima, nunca para as estátuas. Linhas luminosas acendem no teto em padrões de mapas, runas e constelações, que Fing acredita serem comunicação dos "papais".
+O teto traz uma cúpula celeste pintada que funciona como interface visual. Arothistar dirige-se às divindades olhando para cima, nunca para as estátuas. Linhas luminosas acendem no teto em padrões de mapas, runas e constelações, que Fing acredita serem comunicação dos “papais”.
 
 ### A ponte e a efígie
 

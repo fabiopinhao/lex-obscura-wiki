@@ -144,7 +144,7 @@ Trinta escolas, divididas pelas cinco cores do espectro arcano. Cada escola poss
 - [[_wiki/magia/principio_final\|Princípio Final]] — O custo último
 - [[_wiki/magia/pares_antagonicos\|Pares Antagônicos]] — Escolas que se opõem
 - [[_wiki/magia/estrutura_padrao_de_magias\|Estrutura Padrão de Magias]] — Anatomia de um feitiço
-- [[_wiki/magia/flux_aetheria\|Flux Aetheria]] — Fluxo de energia arcana
+- [[_wiki/magia/fluxus_aetheris\|Fluxus Aetheris]] — Manipulação direta dos condutos do Plano Etéreo
 - [[_wiki/magia/glossario_de_termos_magicos\|Glossário de Termos Mágicos]] — Terminologia
 
 ## Práticas e Rituais

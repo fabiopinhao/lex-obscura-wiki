@@ -12,7 +12,7 @@ Azazel se manifesta como um serafim de seis asas feitas de lâminas sobrepostas 
 
 ### Domínio
 
-Os teólogos pré-conquista chamavam a radiância de Azazel de "a espada e o escudo do mesmo braço". Helio penetra a matéria sombria, decompõe encantamentos de [[_wiki/escolas/umbra\|Umbra]] e arranca disfarces. Aegis opera por crença: cada devoto carrega um eco de barreira que absorve agressões na proporção da sinceridade da fé, e o agressor sente uma repulsa física, como se a realidade se recusasse a deixar o dano acontecer. A justiça que seus devotos professavam não admitia matiz: os culpados não eram punidos, eram expostos, e a punição vinha do que a exposição mostrava. Em [[_wiki/locais/myrgarde\|Myrgarde]], cada capela de Azazel era ao mesmo tempo hospital e fortaleza.
+Os teólogos pré-conquista chamavam a radiância de Azazel de “a espada e o escudo do mesmo braço”. Helio penetra a matéria sombria, decompõe encantamentos de [[_wiki/escolas/umbra\|Umbra]] e arranca disfarces. Aegis opera por crença: cada devoto carrega um eco de barreira que absorve agressões na proporção da sinceridade da fé, e o agressor sente uma repulsa física, como se a realidade se recusasse a deixar o dano acontecer. A justiça que seus devotos professavam não admitia matiz: os culpados não eram punidos, eram expostos, e a punição vinha do que a exposição mostrava. Em [[_wiki/locais/myrgarde\|Myrgarde]], cada capela de Azazel era ao mesmo tempo hospital e fortaleza.
 
 ### Declínio
 

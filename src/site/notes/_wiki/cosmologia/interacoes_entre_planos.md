@@ -8,7 +8,7 @@ As interações entre planos existenciais regem como deuses e mortais alcançam 
 
 ### O Canal Magi
 
-Toda magia interplanária atravessa o [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]] por meio do [[_wiki/cosmologia/canal_magi\|canal magi]], a interface temporária entre a entidade extradimensional e o mortal. A manipulação direta do Etéreo cabe às escolas [[_wiki/escolas/cosmo\|Cosmo]] e [[_wiki/escolas/spectro\|Spectro]] e ao perigoso [[_wiki/magia/flux_aetheria\|Flux Aetheria]].
+Toda magia interplanária atravessa o [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]] por meio do [[_wiki/cosmologia/canal_magi\|canal magi]], a interface temporária entre a entidade extradimensional e o mortal. A manipulação direta do Etéreo cabe às escolas [[_wiki/escolas/cosmo\|Cosmo]] e [[_wiki/escolas/spectro\|Spectro]] e ao perigoso [[_wiki/magia/fluxus_aetheris\|Fluxus Aetheris]].
 
 ### Ataques Entre Planos
 

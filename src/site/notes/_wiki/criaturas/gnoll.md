@@ -12,7 +12,7 @@ Violentos, diretos e sem civilização no sentido formal, vivem em tocas, ocupan
 
 ### Status legal
 
-O Édito de Servidão Bestial os classifica como "fauna doméstica de segundo grau", proibida em cidades sem marca, coleira ou jaula. Por isso Fandegarrón opera em [[_wiki/locais/morvgrad\|Morvgrad]] disfarçado sob um manto de [[_wiki/criaturas/ogro\|ogro]], que pertenceu a Brumgak, antigo guarda-costas morto por uma dívida de jogo, e serve como guarda-costas da [[_wiki/organizacoes/guilda_dos_gnomos\|Guilda dos Gnomos]], com a Justiciar [[_wiki/personagens/nidzina_avaroth\|Nidzina]] a ignorar a ilegalidade por necessidade investigativa. Suas fraquezas são conhecidas: a inteligência limitada os torna previsíveis em combate prolongado, o status de fauna os deixa legalmente descartáveis, e o fedor impede qualquer discrição.
+O Édito de Servidão Bestial os classifica como “fauna doméstica de segundo grau”, proibida em cidades sem marca, coleira ou jaula. Por isso Fandegarrón opera em [[_wiki/locais/morvgrad\|Morvgrad]] disfarçado sob um manto de [[_wiki/criaturas/ogro\|ogro]], que pertenceu a Brumgak, antigo guarda-costas morto por uma dívida de jogo, e serve como guarda-costas da [[_wiki/organizacoes/guilda_dos_gnomos\|Guilda dos Gnomos]], com a Justiciar [[_wiki/personagens/nidzina_avaroth\|Nidzina]] a ignorar a ilegalidade por necessidade investigativa. Suas fraquezas são conhecidas: a inteligência limitada os torna previsíveis em combate prolongado, o status de fauna os deixa legalmente descartáveis, e o fedor impede qualquer discrição.
 
 ### Relações
 

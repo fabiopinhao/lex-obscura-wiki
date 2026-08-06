@@ -8,7 +8,7 @@ Durante as Guerras Reinkárdicas, o conflito não atingiu todas as raças do con
 
 ### Os povos das florestas
 
-Os sylvanos não formavam frentes organizadas nem se aliavam a [[_wiki/locais/myrgarde\|Myrgarde]]. Suas forças eram rangers, caçadores e druidas que conheciam cada raiz e cada curso d'água de seus territórios, e lutavam para defender as próprias florestas, não as planícies humanas. Quando uma floresta caía, os sobreviventes tentavam alcançar outra antes do fogo, e muitos não conseguiam. Foram, ao lado dos humanos e dos gnomos, a raça mais escravizada da guerra.
+Os sylvanos não formavam frentes organizadas nem se aliavam a [[_wiki/locais/myrgarde\|Myrgarde]]. Suas forças eram rangers, caçadores e druidas que conheciam cada raiz e cada curso d’água de seus territórios, e lutavam para defender as próprias florestas, não as planícies humanas. Quando uma floresta caía, os sobreviventes tentavam alcançar outra antes do fogo, e muitos não conseguiam. Foram, ao lado dos humanos e dos gnomos, a raça mais escravizada da guerra.
 
 Os [[_wiki/racas/gerut\|gerut]] foram os menos afetados. Habitavam apenas florestas titânicas: onde havia um povo gerut, havia um titã, e onde havia um titã, a conquista se tornava inviável. Sobreviveram não pela força das armas, mas pela natureza do terreno que escolheram habitar.
 

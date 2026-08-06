@@ -4,7 +4,7 @@
 
 # Draven-Thol
 
-Draven-Thol é um [[_wiki/organizacoes/justiciars\|Justiciar]] [[_wiki/racas/shadar\|shadar]] estacionado em [[_wiki/locais/thandruk_varn\|Thandruk Varn]], na fronteira sudoeste. Há poucas luas ninguém o vê, e aquela fronteira segue como o último lugar em que esteve. O nome dele circula sem o homem: cobrado no Conselho, defendido por aliados, presente em tudo menos na carne.
+Draven-Thol é um [[_wiki/organizacoes/justiciares\|Justiciar]] [[_wiki/racas/shadar\|shadar]] estacionado em [[_wiki/locais/thandruk_varn\|Thandruk Varn]], na fronteira sudoeste. Há poucas luas ninguém o vê, e aquela fronteira segue como o último lugar em que esteve. O nome dele circula sem o homem: cobrado no Conselho, defendido por aliados, presente em tudo menos na carne.
 
 ### Aparência
 
@@ -16,8 +16,8 @@ A função o prende à fronteira. De Thandruk Varn ele reporta ao Conselho o que
 
 ### Método e voz
 
-O método é o registro, e o registro é tudo. Onde outros confiam na memória ou no instinto, Draven-Thol confia na tábua: cada disputa e cada nome lançados em ordem antes que o sentido escape. A meticulosidade burocrática não é fraqueza, é a forma como ele segura o terreno. As notas que deixou ainda orientam interrogatórios na sua ausência, e guiam o cerco a [[_wiki/personagens/jalu_nvara\|Jalú'Nvara]] nas masmorras como se ele estivesse ali, conduzindo da margem do papel.
+O método é o registro, e o registro é tudo. Onde outros confiam na memória ou no instinto, Draven-Thol confia na tábua: cada disputa e cada nome lançados em ordem antes que o sentido escape. A meticulosidade burocrática não é fraqueza, é a forma como ele segura o terreno. As notas que deixou ainda orientam interrogatórios na sua ausência, e guiam o cerco a [[_wiki/personagens/jalu_nvara\|Jalú’Nvara]] nas masmorras como se ele estivesse ali, conduzindo da margem do papel.
 
 ### Relações
 
-[[_wiki/personagens/orum-rahru\|Orum-Rahru]] é quem mantém o nome aceso. No Conselho, defende Draven-Thol contra os martelos militares de [[_wiki/personagens/vekraal\|Vekraal]], que prefeririam riscá-lo da lista e seguir adiante. A defesa diz menos do desaparecido e mais de Orum, que confia em quem os outros já deram por perdido. O caso segue aberto: o Conselho exige respostas, e a cobrança recai sobre [[_wiki/personagens/yzmareth\|Yzmareth]]; [[_wiki/personagens/thrax\|Thrax]] permanece cativo em [[_wiki/locais/mor_severith\|Mor'Severith]]. E [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]] termina incumbida de descobrir o que houve com ele, encarregada de transformar a ausência num caso, como se o desaparecido fosse a última anotação que Draven-Thol não chegou a fechar.
+[[_wiki/personagens/orum-rahru\|Orum-Rahru]] é quem mantém o nome aceso. No Conselho, defende Draven-Thol contra os martelos militares de [[_wiki/personagens/vekraal\|Vekraal]], que prefeririam riscá-lo da lista e seguir adiante. A defesa diz menos do desaparecido e mais de Orum, que confia em quem os outros já deram por perdido. O caso segue aberto: o Conselho exige respostas, e a cobrança recai sobre [[_wiki/personagens/yzmareth\|Yzmareth]]; [[_wiki/personagens/thrax\|Thrax]] permanece cativo em [[_wiki/locais/mor_severith\|Mor’Severith]]. E [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]] termina incumbida de descobrir o que houve com ele, encarregada de transformar a ausência num caso, como se o desaparecido fosse a última anotação que Draven-Thol não chegou a fechar.

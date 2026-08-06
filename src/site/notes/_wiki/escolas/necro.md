@@ -16,7 +16,7 @@ A mecânica escala do toque que esfria à legião que marcha. Rigor drena calor 
 
 ### Custos
 
-O custo ontológico opera por dessensibilização progressiva. Primeiro os funerais parecem cerimônia excessiva; depois os cadáveres passam a ser material, não pessoas que foram; em seguida a própria morte deixa de ser temida ou relevante; por fim a distinção entre vivo e morto perde todo significado moral. Nesse estágio o praticante é descartado por reanimar sem autorização e enviado à Vigília Eterna, numa ironia terminal e estrutural: o necromante acaba preservado como os mortos que manipulava. O [[_wiki/organizacoes/imperio_sombrio\|Império]] também recruta necromantes como [[_wiki/locais/xarn_zareth\|Xarn'Zareth]], para a manutenção de mortos-vivos e a custódia de catacumbas.
+O custo ontológico opera por dessensibilização progressiva. Primeiro os funerais parecem cerimônia excessiva; depois os cadáveres passam a ser material, não pessoas que foram; em seguida a própria morte deixa de ser temida ou relevante; por fim a distinção entre vivo e morto perde todo significado moral. Nesse estágio o praticante é descartado por reanimar sem autorização e enviado à Vigília Eterna, numa ironia terminal e estrutural: o necromante acaba preservado como os mortos que manipulava. O [[_wiki/organizacoes/imperio_sombrio\|Império]] também recruta necromantes como [[_wiki/locais/xarn_zareth\|Xarn’Zareth]], para a manutenção de mortos-vivos e a custódia de catacumbas.
 
 ### Combinações
 

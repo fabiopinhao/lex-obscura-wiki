@@ -8,7 +8,7 @@ Juramento é um feitiço de escala Maior da escola do [[_wiki/escolas/nomos\|Nom
 
 ### Princípio
 
-A força do Juramento está na letra, não no espírito. O feitiço não verifica intenção, apenas ação. Quem jura "nunca erguer arma" paga o mesmo preço por reflexo ou por traição deliberada, pois o que conta é o ato consumado, não o motivo. Difere da Danação, da escola do [[_wiki/escolas/anatho\|Anatho]], que corrompe independentemente de qualquer ação: o Juramento pune apenas a quebra do pacto que foi selado.
+A força do Juramento está na letra, não no espírito. O feitiço não verifica intenção, apenas ação. Quem jura “nunca erguer arma” paga o mesmo preço por reflexo ou por traição deliberada, pois o que conta é o ato consumado, não o motivo. Difere da Danação, da escola do [[_wiki/escolas/anatho\|Anatho]], que corrompe independentemente de qualquer ação: o Juramento pune apenas a quebra do pacto que foi selado.
 
 ### Custos
 

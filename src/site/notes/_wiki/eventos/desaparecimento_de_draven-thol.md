@@ -4,7 +4,7 @@
 
 # Desaparecimento de Draven-Thol
 
-[[_wiki/personagens/draven-thol\|Draven-Thol]], [[_wiki/organizacoes/justiciars\|Justiciar]] designado para a cidadela anã de [[_wiki/locais/thandruk_varn\|Thandruk Varn]], desapareceu sem deixar rastro. O sumiço era inexplicável para uma figura de seu porte: Justiciars não desaparecem em silêncio, morrem em combate ou são encontrados. A ausência de corpo, de testemunhas e de qualquer indício torna o caso singular na história da instituição.
+[[_wiki/personagens/draven-thol\|Draven-Thol]], [[_wiki/organizacoes/justiciares\|Justiciar]] designado para a cidadela anã de [[_wiki/locais/thandruk_varn\|Thandruk Varn]], desapareceu sem deixar rastro. O sumiço era inexplicável para uma figura de seu porte: Justiciares não desaparecem em silêncio, morrem em combate ou são encontrados. A ausência de corpo, de testemunhas e de qualquer indício torna o caso singular na história da instituição.
 
 ### O Caso
 

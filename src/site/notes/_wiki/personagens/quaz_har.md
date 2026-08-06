@@ -2,9 +2,9 @@
 {"dg-publish":true,"dg-path":"_wiki/personagens/quaz_har.md","permalink":"/wiki/personagens/quaz-har/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
-# Quaz'har
+# Quaz’har
 
-Quaz'har é uma [[_wiki/criaturas/diabrete\|Diabrete]] de asas escarlates e pele vermelho-sangue, mensageira a serviço da corte de [[_wiki/locais/morvgrad\|Morvgrad]]. Gagueja ao falar e voa pela cidade, que conhece melhor do que qualquer mensageira antes dela.
+Quaz’har é uma [[_wiki/criaturas/diabrete\|Diabrete]] de asas escarlates e pele vermelho-sangue, mensageira a serviço da corte de [[_wiki/locais/morvgrad\|Morvgrad]]. Gagueja ao falar e voa pela cidade, que conhece melhor do que qualquer mensageira antes dela.
 
 ### Aparência
 

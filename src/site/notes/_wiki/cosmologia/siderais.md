@@ -22,7 +22,7 @@ O vínculo com os Siderais opera por [[_wiki/magia/meditatio_aetheris\|Meditatio
 
 ### Raças Associadas
 
-[[_wiki/racas/frenim\|Frenims]], [[_wiki/racas/undine\|undines]] e [[_wiki/racas/ranidano\|ranidanos]] compõem as raças de [[_wiki/locais/neranthis\|Neranthis]] associadas aos Siderais. Os frenims são o grupo dominante, exercendo liderança política e arcana, e o frenim mais poderoso conhecido é [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val'Kir]].
+[[_wiki/racas/frenim\|Frenins]], [[_wiki/racas/undine\|undines]] e [[_wiki/racas/ranidano\|ranidanos]] compõem as raças de [[_wiki/locais/neranthis\|Neranthis]] associadas aos Siderais. Os frenins são o grupo dominante, exercendo liderança política e arcana, e o frenim mais poderoso conhecido é [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val’Kir]].
 
 ### Siderais Nomeados
 

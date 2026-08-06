@@ -2,13 +2,13 @@
 {"dg-publish":true,"dg-path":"_wiki/personagens/voldriz_vrinn_dal.md","permalink":"/wiki/personagens/voldriz-vrinn-dal/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
-# Voldriz Vrinn'dal
+# Voldriz Vrinn’dal
 
-Voldriz Vrinn'dal é matriarca [[_wiki/racas/drul\|drul]] da Casa Vrinn'dal, conhecida pelo epíteto Tecelã de Correntes, e uma das seis Matriarcas regentes do [[_wiki/locais/vor-ghol\|Vor-Ghol]]. Tem sede em [[_wiki/locais/ghilanna\|Ghilanna]].
+Voldriz Vrinn’dal é matriarca [[_wiki/racas/drul\|drul]] da Casa Vrinn’dal, conhecida pelo epíteto Tecelã de Correntes, e uma das seis Matriarcas regentes de [[_wiki/locais/vor-ghol\|Vor-Ghol]]. Tem sede em [[_wiki/locais/ghilanna\|Ghilanna]].
 
 ### Origem e papel
 
-Como matriarca de uma das seis Casas regentes do Vor-Ghol, Voldriz partilha o governo das profundezas com as demais Tecelãs. A Casa Vrinn'dal mantém sede em Ghilanna. Voldriz é também voz da doutrina das Câmaras de Provação de [[_wiki/locais/xarn_zareth\|Xarn'Zareth]], o regime de iniciação pelo qual passam as crianças entregues às matriarcas.
+Como matriarca de uma das seis Casas regentes de Vor-Ghol, Voldriz partilha o governo das profundezas com as demais Tecelãs. A Casa Vrinn’dal mantém sede em Ghilanna. Voldriz é também voz da doutrina das Câmaras de Provação de [[_wiki/locais/xarn_zareth\|Xarn’Zareth]], o regime de iniciação pelo qual passam as crianças entregues às matriarcas.
 
 ### Método e voz
 

@@ -8,11 +8,11 @@ Qadesh é uma cidade-estado encravada no deserto oriental, na zona de transiçã
 
 ### Geografia e Posição
 
-A posição fronteiriça define a natureza de Qadesh: um porto seco entre dois mundos, entreposto onde as caravanas imperiais cruzam com mercadores [[_wiki/racas/frenim\|frenims]] e o comércio ignora as tensões que os mapas desenham. A distância de [[_wiki/locais/morvgrad\|Morvgrad]] e a utilidade comercial garantem à cidade uma autonomia funcional que outras províncias não gozam. Qadesh paga tributo e aceita o selo púrpuro; em troca, o Império não pergunta o que atravessa seus portões nem para quem suas lâminas são forjadas.
+A posição fronteiriça define a natureza de Qadesh: um porto seco entre dois mundos, entreposto onde as caravanas imperiais cruzam com mercadores [[_wiki/racas/frenim\|frenins]] e o comércio ignora as tensões que os mapas desenham. A distância de [[_wiki/locais/morvgrad\|Morvgrad]] e a utilidade comercial garantem à cidade uma autonomia funcional que outras províncias não gozam. Qadesh paga tributo e aceita o selo púrpuro; em troca, o Império não pergunta o que atravessa seus portões nem para quem suas lâminas são forjadas.
 
 ### População
 
-A predominância é humana, mas Qadesh não é terra de uma raça só. [[_wiki/racas/shadar\|Shadars]] ocupam posições administrativas e militares ligadas à presença imperial, enquanto frenims de Neranthis mantêm enclaves comerciais e oficinas de artesanato arcano. A convivência não é harmônica por princípio, mas por cálculo: todos lucram quando o comércio flui.
+A predominância é humana, mas Qadesh não é terra de uma raça só. [[_wiki/racas/shadar\|Shadars]] ocupam posições administrativas e militares ligadas à presença imperial, enquanto frenins de Neranthis mantêm enclaves comerciais e oficinas de artesanato arcano. A convivência não é harmônica por princípio, mas por cálculo: todos lucram quando o comércio flui.
 
 ### Aço Lunar e Tradição Marcial
 

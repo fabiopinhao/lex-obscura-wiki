@@ -4,7 +4,7 @@
 
 # Édito
 
-Édito é um feitiço da escola [[_wiki/escolas/nomos\|Nomos]], de escala máxima, em que o conjurador declara uma lei e a realidade obedece. A regra imposta torna-se condição ambiental: declarado "ninguém mente", gargantas travam; declarado "nenhuma lâmina fere", os fios embotam. Quem viola a lei é castigado, e o Édito não distingue aliado de inimigo.
+Édito é um feitiço da escola [[_wiki/escolas/nomos\|Nomos]], de escala máxima, em que o conjurador declara uma lei e a realidade obedece. A regra imposta torna-se condição ambiental: declarado “ninguém mente”, gargantas travam; declarado “nenhuma lâmina fere”, os fios embotam. Quem viola a lei é castigado, e o Édito não distingue aliado de inimigo.
 
 ### Princípio
 
@@ -12,4 +12,4 @@ O Édito impõe uma regra arbitrária por autoridade arcana. Distingue-se de Arm
 
 ### Custos
 
-O custo definidor de Nomos é a internalização: o conjurador passa a viver sob a própria lei que impôs. Quem decretou "ninguém mente" torna-se incapaz de mentir. Éditos frequentes calcificam a mente até a rigidez absoluta.
+O custo definidor de Nomos é a internalização: o conjurador passa a viver sob a própria lei que impôs. Quem decretou “ninguém mente” torna-se incapaz de mentir. Éditos frequentes calcificam a mente até a rigidez absoluta.

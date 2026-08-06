@@ -14,10 +14,10 @@ A tradução operacional é direta: elfos, em todas as variantes, seriam estrutu
 
 ### Aplicação Política
 
-A desconfiança de Arothistar com os druls funciona como diagnóstico racial aplicado como política. Como não pode exterminá-los, sendo a [[_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]] um pilar militar, ele os administra como risco controlado: as matriarcas mantêm autonomia no [[_wiki/locais/vor-ghol\|Vor-Ghol]], mas são excluídas de cargos-chave no império de superfície; as [[_wiki/organizacoes/ophideias\|ophideias]], druls leais, servem como ponte vigiada; e os [[_wiki/organizacoes/justiciars\|Justiciars]], shadars puros, fiscalizam sem depender de pactos drul.
+A desconfiança de Arothistar com os druls funciona como diagnóstico racial aplicado como política. Como não pode exterminá-los, sendo a [[_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]] um pilar militar, ele os administra como risco controlado: as matriarcas mantêm autonomia em [[_wiki/locais/vor-ghol\|Vor-Ghol]], mas são excluídas de cargos-chave no império de superfície; as [[_wiki/organizacoes/ophideias\|ophideias]], druls leais, servem como ponte vigiada; e os [[_wiki/organizacoes/justiciares\|Justiciares]], shadars puros, fiscalizam sem depender de pactos drul.
 
 ### Função Sistêmica
 
-Dentro de sua própria lógica, o racismo imperial não é arbitrário, mas um sistema funcional. Arothistar acredita que a concentração de poder nos shadars é necessária à estabilidade, e trata a hierarquia racial como engenharia social, não como crueldade. Os Justiciars executam elarinos e sylvanos sem culpa porque operam num worldview em que elfos são tidos por incompatíveis com a ordem civilizada.
+Dentro de sua própria lógica, o racismo imperial não é arbitrário, mas um sistema funcional. Arothistar acredita que a concentração de poder nos shadars é necessária à estabilidade, e trata a hierarquia racial como engenharia social, não como crueldade. Os Justiciares executam elarinos e sylvanos sem culpa porque operam num worldview em que elfos são tidos por incompatíveis com a ordem civilizada.
 
 A própria estrutura, porém, abriga contrapontos: [[_wiki/personagens/syndrith_morghast\|Syndrith]], drul leal, demonstra que a lealdade individual transcende a predisposição atribuída à raça, e [[_wiki/personagens/milorsevogh_velshard\|Milor]] questiona, de dentro, um sistema que confunde controle com necessidade.

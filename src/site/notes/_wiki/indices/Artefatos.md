@@ -19,15 +19,15 @@ Objetos que sobreviveram a seus criadores raramente o fizeram por acidente.
 
 - [[_wiki/artefatos/oculus_maior\|Oculus Maior]] — Central de comando das comunicações imperiais
 - [[_wiki/artefatos/fendris\|Fendris]] — Adaga Luminar capaz de fender planos
-- [[_wiki/artefatos/efigie_de_arothistar\|Efígie de Arothistar]] — Sentinela animada da ponte de Mor'Severith
+- [[_wiki/artefatos/efigie_de_arothistar\|Efígie de Arothistar]] — Sentinela animada da ponte de Mor’Severith
 
 ## Armas, Armaduras e Insígnias
 
 - [[_wiki/artefatos/armadura_templaria_de_orum\|Armadura Templária de Orum]] — Encantada com força, resistência e vigor
-- [[_wiki/artefatos/capacete_de_maraxus\|Capacete de Maraxus]] — Ocultava a face demoníaca de seu portador
+- [[_wiki/artefatos/capacete_de_maraxus\|Capacete de Maraxus]] — Relíquia das arenas extintas do Dromos Draconis; oculta por completo o rosto de quem a veste
 - [[_wiki/artefatos/bombarda_ananica\|Bombarda Anânica]] — Artilharia híbrida anã-shadar
-- [[_wiki/artefatos/tegmen\|Tegmen]] — Armadura padrão da aristocracia shadar, insígnia de status
-- [[_wiki/artefatos/insignia_duskryn\|Insígnia de Duskryn]] — Anel de autoridade da matriarca da Casa Duskryn
+- [[_wiki/artefatos/tegmen\|Tegmen]] — Armadura padrão da aristocracia shadar, símbolo de status
+- [[_wiki/artefatos/insignia_durzken\|Insígnia de Durzken]] — Anel de autoridade da matriarca da Casa Durzken
 
 ## Artefatos de Contenção
 
@@ -40,7 +40,7 @@ Objetos que sobreviveram a seus criadores raramente o fizeram por acidente.
 
 ## Substâncias e Alquimia
 
-- [[_wiki/artefatos/luto_de_nillis\|Luto de Nillis]] — Substância alquímica antimagia destilada da flor Nillis
+- [[_wiki/artefatos/luto_de_nyssis\|Luto de Nyssis]] — Substância alquímica antimagia destilada da flor de Nyssis
 
 ## Documentos e Textos
 
@@ -54,4 +54,4 @@ Objetos que sobreviveram a seus criadores raramente o fizeram por acidente.
 
 ---
 
-*Inventário do [[_wiki/locais/oculario\|Oculário]] de Mor'Severith. Remoção não autorizada é punível por obliteração.*
+*Inventário do [[_wiki/locais/oculario\|Oculário]] de Mor’Severith. Remoção não autorizada é punível por obliteração.*

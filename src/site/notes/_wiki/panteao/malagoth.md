@@ -16,7 +16,7 @@ Onde outros [[_wiki/cosmologia/diabos\|diabos]] negociam influência ou disputam
 
 ### Aprisionamento de Vozrador
 
-Malagoth atacou [[_wiki/panteao/vozrador\|Vozrador]] de surpresa em seu próprio plano existencial. O ataque não teria bastado sozinho: foi necessária a aliança com [[_wiki/panteao/velmorain\|Velmorain]], que sustenta o aprisionamento por reforço cósmico-espectral. As motivações divergiam. Velmorain agiu por vingança, pois Vozrador mantinha com os [[_wiki/cosmologia/titas\|Titãs]] um acordo que Velmorain nunca conseguiu replicar; Malagoth agiu por cálculo territorial, já que o mesmo acordo limitava a expansão sombria. Com Vozrador selado, o obstáculo desapareceu. A consequência foi imediata: [[_wiki/locais/thal_serin\|Thal'Serin]] perdeu a proteção divina que mantinha outros diabos à distância, e a fronteira que Malagoth mais cobiçava se abriu.
+Malagoth atacou [[_wiki/panteao/vozrador\|Vozrador]] de surpresa em seu próprio plano existencial. O ataque não teria bastado sozinho: foi necessária a aliança com [[_wiki/panteao/velmorain\|Velmorain]], que sustenta o aprisionamento por reforço cósmico-espectral. As motivações divergiam. Velmorain agiu por vingança, pois Vozrador mantinha com os [[_wiki/cosmologia/titas\|Titãs]] um acordo que Velmorain nunca conseguiu replicar; Malagoth agiu por cálculo territorial, já que o mesmo acordo limitava a expansão sombria. Com Vozrador selado, o obstáculo desapareceu. A consequência foi imediata: [[_wiki/locais/thal_serin\|Thal’Serin]] perdeu a proteção divina que mantinha outros diabos à distância, e a fronteira que Malagoth mais cobiçava se abriu.
 
 ### Manifestação
 

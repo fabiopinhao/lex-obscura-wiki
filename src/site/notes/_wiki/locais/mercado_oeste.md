@@ -4,7 +4,7 @@
 
 # Mercado Oeste
 
-O Mercado Oeste é um mercado negro semi-oficializado nas profundezas de [[_wiki/locais/ghol_mournak\|Ghol'Mournak]], dentro de [[_wiki/locais/morvgrad\|Morvgrad]]. Ocupa uma fenda entre escarpas de calcário que supura como ferida aberta da cidade, e sua população oscila ao sabor do que ali se compra e se vende.
+O Mercado Oeste é um mercado negro semi-oficializado nas profundezas de [[_wiki/locais/ghol_mournak\|Ghol’Mournak]], dentro de [[_wiki/locais/morvgrad\|Morvgrad]]. Ocupa uma fenda entre escarpas de calcário que supura como ferida aberta da cidade, e sua população oscila ao sabor do que ali se compra e se vende.
 
 ### Controle
 
@@ -12,4 +12,4 @@ O mercado é operado pela [[_wiki/organizacoes/guilda_dos_gnomos\|Guilda dos Gno
 
 ### Cenário
 
-Colunas quebradas de um templo esquecido sustentam lonas estendidas sobre costelas de gado, e gárgulas sem rosto testemunham o comércio. Entre as bancas há frascos de órgãos, crânios de [[_wiki/racas/kobold\|kobolds]] tagarelas, ídolos blasfemos e jaulas de escravos com selo oficial. Mendigos performáticos mantêm chagas abertas, porque cicatrizar seria perder poder de barganha. À aparição de uma insígnia justiciar, os vendedores cessam suas conversas. A própria arquitetura guarda perguntas que ninguém faz em voz alta: que templo era aquele, e por que foi abandonado naquele lugar.
+Colunas quebradas de um templo esquecido sustentam lonas estendidas sobre costelas de gado, e gárgulas sem rosto testemunham o comércio. Entre as bancas há frascos de órgãos, crânios de [[_wiki/racas/kobold\|kobolds]] tagarelas, ídolos blasfemos e jaulas de escravos com selo oficial. Mendigos performáticos mantêm chagas abertas, porque cicatrizar seria perder poder de barganha. À aparição de um [[_wiki/artefatos/tegmen\|tegmen]] de Justiciar, os vendedores cessam suas conversas. A própria arquitetura guarda perguntas que ninguém faz em voz alta: que templo era aquele, e por que foi abandonado naquele lugar.

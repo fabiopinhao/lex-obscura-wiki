@@ -8,16 +8,16 @@ O Vocabulário Administrativo é o conjunto de eufemismos institucionais do [[_w
 
 ### Termos
 
-- **"Recolhimento"**: Confinamento permanente
-- **"Missão de Honra"**: Tarefa suicida
-- **"Consagração Final"**: Execução ritual
-- **"Transferência"**: Eliminação silenciosa
-- **"Vigília Eterna"**: Suspensão mágica
-- **"Promoção ao Círculo Interior"**: Isolamento como oráculo
-- **"Licença Contemplativa"**: Monitoramento antes do descarte
-- **"Designação Permanente"**: Confinamento disfarçado de cargo
-- **"Serviço Voluntário"**: Missão suicida aceita
-- **"Aposentadoria Honrosa"**: Morte por causas naturais
+- **“Recolhimento”**: Confinamento permanente
+- **“Missão de Honra”**: Tarefa suicida
+- **“Consagração Final”**: Execução ritual
+- **“Transferência”**: Eliminação silenciosa
+- **“Vigília Eterna”**: Suspensão mágica
+- **“Promoção ao Círculo Interior”**: Isolamento como oráculo
+- **“Licença Contemplativa”**: Monitoramento antes do descarte
+- **“Designação Permanente”**: Confinamento disfarçado de cargo
+- **“Serviço Voluntário”**: Missão suicida aceita
+- **“Aposentadoria Honrosa”**: Morte por causas naturais
 
 ### Funcionamento social
 

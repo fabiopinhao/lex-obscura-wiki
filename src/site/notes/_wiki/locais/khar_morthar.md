@@ -4,7 +4,7 @@
 
 # Khar Morthar
 
-Khar Morthar, a Torre da Morte, é uma torre-fortaleza em [[_wiki/locais/mor_draconis\|Mor'Draconis]], um dos anéis de [[_wiki/locais/morvgrad\|Morvgrad]], sob domínio do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. É ao mesmo tempo bastião militar e necrópole vertical, e cerca de trezentas almas ocupam seus andares. As muralhas externas exibem estátuas de generais [[_wiki/racas/shadar\|shadar]] da [[_wiki/conceitos/segunda_era\|Segunda Era]], esculpidas em obsidiana nos anos de suas mortes: algumas figuras caem, outras erguem armas em golpes que nunca aterrissam, outras simplesmente param. Uma lenda persistente diz que, quando a guerra se aproxima, as estátuas escorrem sangue negro.
+Khar Morthar, a Torre da Morte, é uma torre-fortaleza em [[_wiki/locais/mor_draconis\|Mor’Draconis]], um dos anéis de [[_wiki/locais/morvgrad\|Morvgrad]], sob domínio do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. É ao mesmo tempo bastião militar e necrópole vertical, e cerca de trezentas almas ocupam seus andares. As muralhas externas exibem estátuas de generais [[_wiki/racas/shadar\|shadar]] da [[_wiki/conceitos/segunda_era\|Segunda Era]], esculpidas em obsidiana nos anos de suas mortes: algumas figuras caem, outras erguem armas em golpes que nunca aterrissam, outras simplesmente param. Uma lenda persistente diz que, quando a guerra se aproxima, as estátuas escorrem sangue negro.
 
 ### O Pátio dos Generais
 

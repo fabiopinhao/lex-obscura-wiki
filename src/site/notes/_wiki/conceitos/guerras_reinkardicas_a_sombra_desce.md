@@ -12,7 +12,7 @@ A expansão não começa com exércitos, mas com fome. A [[_wiki/locais/ventrist
 
 ### As florestas
 
-O primeiro grande choque com as forças da natureza acontece em [[_wiki/locais/thal_serin\|Thal'Serin]], a floresta sagrada mais próxima do planalto. Os exércitos sombrios entram com fogo e aço, mas a terra responde: raízes irrompem como muralhas vivas e fissuras engolem pelotões. Os conselheiros de Morvgrad reconhecem a mão dos [[_wiki/cosmologia/titas\|Titãs]] e recuam, decidindo esperar que a corrupção enfraqueça a floresta com o tempo. A lição define a estratégia: florestas protegidas por avatares de Titãs são poupadas, as desprotegidas ardem. Os [[_wiki/racas/sylvano\|sylvanos]], que lutam por suas matas e não pelas planícies, estão entre as raças mais escravizadas da guerra. Os [[_wiki/racas/gerut\|gerut]], que só habitam florestas titânicas, são os menos afetados.
+O primeiro grande choque com as forças da natureza acontece em [[_wiki/locais/thal_serin\|Thal’Serin]], a floresta sagrada mais próxima do planalto. Os exércitos sombrios entram com fogo e aço, mas a terra responde: raízes irrompem como muralhas vivas e fissuras engolem pelotões. Os conselheiros de Morvgrad reconhecem a mão dos [[_wiki/cosmologia/titas\|Titãs]] e recuam, decidindo esperar que a corrupção enfraqueça a floresta com o tempo. A lição define a estratégia: florestas protegidas por avatares de Titãs são poupadas, as desprotegidas ardem. Os [[_wiki/racas/sylvano\|sylvanos]], que lutam por suas matas e não pelas planícies, estão entre as raças mais escravizadas da guerra. Os [[_wiki/racas/gerut\|gerut]], que só habitam florestas titânicas, são os menos afetados.
 
 ### A escravização
 

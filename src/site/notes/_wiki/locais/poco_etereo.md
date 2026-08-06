@@ -4,7 +4,7 @@
 
 # Poço Etéreo
 
-O Poço Etéreo é o nexo central de comunicações do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], situado em [[_wiki/locais/ghol_mournak\|Ghol'Mournak]], o nível subterrâneo de [[_wiki/locais/morvgrad\|Morvgrad]]. Todas as transmissões feitas por [[_wiki/artefatos/oculus_morvgradi\|Oculus]] convergem para ele antes de serem redirecionadas aos destinatários, o que faz dele o hub de retransmissão que sustenta a rede imperial de comunicação mágica.
+O Poço Etéreo é o nexo central de comunicações do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], situado em [[_wiki/locais/ghol_mournak\|Ghol’Mournak]], o nível subterrâneo de [[_wiki/locais/morvgrad\|Morvgrad]]. Todas as transmissões feitas por [[_wiki/artefatos/oculus_morvgradi\|Oculus]] convergem para ele antes de serem redirecionadas aos destinatários, o que faz dele o hub de retransmissão que sustenta a rede imperial de comunicação mágica.
 
 ### Localização
 
@@ -12,8 +12,8 @@ A posição subterrânea não é acidental. O [[_wiki/cosmologia/plano_etereo\|P
 
 ### Repetidores
 
-O alcance da rede não depende só do nexo central. Os poços de piche encantados de [[_wiki/locais/ghol_maveth\|Ghol'Maveth]], nas câmaras profundas de Ghol'Mournak, espelham o sinal etéreo e funcionam como repetidores regionais, estendendo o alcance das transmissões. A energia de cada chamada vem da própria infraestrutura consagrada, e não do magi de quem opera a esfera.
+O alcance da rede não depende só do nexo central. Os poços de piche encantados de [[_wiki/locais/ghol_maveth\|Ghol’Maveth]], nas câmaras profundas de Ghol’Mournak, espelham o sinal etéreo e funcionam como repetidores regionais, estendendo o alcance das transmissões. A energia de cada chamada vem da própria infraestrutura consagrada, e não do magi de quem opera a esfera.
 
 ### Cegueira do Olho
 
-A degradação de um Oculus negligenciado é chamada de "Cegueira do Olho": o esgotamento da carga do artefato quando o ritual de manutenção é descuidado. Quanto mais longe do Poço Etéreo e de seus repetidores, mais vulnerável fica o instrumento.
+A degradação de um Oculus negligenciado é chamada de “Cegueira do Olho”: o esgotamento da carga do artefato quando o ritual de manutenção é descuidado. Quanto mais longe do Poço Etéreo e de seus repetidores, mais vulnerável fica o instrumento.

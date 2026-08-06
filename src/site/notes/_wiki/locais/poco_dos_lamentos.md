@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/poco_dos_lamentos.md","permalink":"/wiki/locais/poco-dos-lamentos/","dg-note-properties":{"tipo":"local","nome":"Poço dos Lamentos","tipo_local":"Prisão (antiga mina de sal)","regiao":"Subsolo de Morvgrad","controlador":"—","status_atual":"Ativo","distancia_morvgrad_leguas":"Sob Morvgrad","populacao_aprox":"—","aliases":[],"tags":[],"ordem":70,"heading_level":2,"parent":null,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/poco_dos_lamentos.md","permalink":"/wiki/locais/poco-dos-lamentos/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Poço dos Lamentos
 
-Antiga mina de sal sob [[_wiki/locais/morvgrad\|Morvgrad]]. Sobre o poço pendem gaiolas de ferro, celas suspensas onde ficam os prisioneiros.
+O Poço dos Lamentos é uma antiga mina de sal sob [[_wiki/locais/morvgrad\|Morvgrad]], hoje usada como prisão. Sobre o poço pendem gaiolas de ferro, celas suspensas onde ficam os prisioneiros.
 
 ### O Vento e o Silêncio
 

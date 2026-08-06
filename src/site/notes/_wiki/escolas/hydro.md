@@ -4,7 +4,7 @@
 
 # Hydro
 
-Hydro é a escola híbrida de magia que manipula a água existente. Governa o domínio da água e da corrente com precisão superior a qualquer escola que afete a matéria em geral. Exige a proximidade de um corpo d'água ou de umidade, mas compensa essa dependência com uma versatilidade que vai do utilitário ao geológico. Seu sentimento de base é a inclinação a ceder e contornar, a percepção de que a resistência é um obstáculo a ser erodido, não enfrentado.
+Hydro é a escola híbrida de magia que manipula a água existente. Governa o domínio da água e da corrente com precisão superior a qualquer escola que afete a matéria em geral. Exige a proximidade de um corpo d’água ou de umidade, mas compensa essa dependência com uma versatilidade que vai do utilitário ao geológico. Seu sentimento de base é a inclinação a ceder e contornar, a percepção de que a resistência é um obstáculo a ser erodido, não enfrentado.
 
 ### Princípio
 

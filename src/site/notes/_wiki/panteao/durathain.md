@@ -16,7 +16,7 @@ Geo arranca o minério da rocha; Toxo o processa através de banhos corrosivos, 
 
 ### A Mão
 
-"Pelos dedos sujos de Durathain!" é praga de minerador, de ferreiro, de qualquer trabalhador cujo ofício exige contato com substâncias que queimam ou envenenam. A invocação não é reverência, mas reconhecimento de parentesco: quem trabalha no fundo de um túnel ou diante de uma forja conhece a sujeira que define o Titã e a sujeira que ele impõe a quem se aproxima de seus domínios. O epíteto é advertência tanto quanto identidade. A mão imunda faz o trabalho necessário, e o preço é carregar nos dedos o resíduo de tudo que tocou. Não há templo dedicado ao seu nome. Seus devotos se reconhecem pelo estado das mãos.
+“Pelos dedos sujos de Durathain!” é praga de minerador, de ferreiro, de qualquer trabalhador cujo ofício exige contato com substâncias que queimam ou envenenam. A invocação não é reverência, mas reconhecimento de parentesco: quem trabalha no fundo de um túnel ou diante de uma forja conhece a sujeira que define o Titã e a sujeira que ele impõe a quem se aproxima de seus domínios. O epíteto é advertência tanto quanto identidade. A mão imunda faz o trabalho necessário, e o preço é carregar nos dedos o resíduo de tudo que tocou. Não há templo dedicado ao seu nome. Seus devotos se reconhecem pelo estado das mãos.
 
 ### Manifestação
 

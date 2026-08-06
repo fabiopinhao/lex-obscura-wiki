@@ -20,7 +20,7 @@ Perdeu a toca duas vezes: primeiro para os [[_wiki/racas/shadar\|shadars]], depo
 
 ### Em campo
 
-Serve sobretudo de rastreador. Nos túneis do [[_wiki/locais/vor-ghol\|Vor-Ghol]] farejou as sentinelas [[_wiki/racas/murano\|muranas]] possuídas enquanto [[_wiki/personagens/dribbel_olgund\|Dribbel Olgund]] negociava passagem, e na retomada de uma antiga toca tomada pelos shadars avançou à frente do grupo, levou um virote no flanco e seguiu lutando até reconquistar o covil.
+Serve sobretudo de rastreador. Nos túneis de [[_wiki/locais/vor-ghol\|Vor-Ghol]] farejou as sentinelas [[_wiki/racas/murano\|muranas]] possuídas enquanto [[_wiki/personagens/dribbel_olgund\|Dribbel Olgund]] negociava passagem, e na retomada de uma antiga toca tomada pelos shadars avançou à frente do grupo, levou um virote no flanco e seguiu lutando até reconquistar o covil.
 
 ### Relações
 

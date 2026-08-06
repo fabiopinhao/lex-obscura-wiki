@@ -18,4 +18,4 @@ As arenas do Dromos Draconis pertencem a um tempo que o Conselho Sombrio enterro
 
 ### Vestígios
 
-O único vestígio conhecido do Dromos Draconis é um capacete de bronze e cobre, de feitio exótico, que oculta por completo o rosto de quem o veste. A peça, descrita como relíquia daqueles tempos enterrados, foi usada por [[_wiki/personagens/maraxus\|Maraxus]] durante a incursão em [[_wiki/locais/thal_serin\|Thal'Serin]].
+O único vestígio conhecido do Dromos Draconis é um capacete de bronze e cobre, de feitio exótico, que oculta por completo o rosto de quem o veste. A peça, descrita como relíquia daqueles tempos enterrados, foi usada por [[_wiki/personagens/maraxus\|Maraxus]] durante a incursão em [[_wiki/locais/thal_serin\|Thal’Serin]].

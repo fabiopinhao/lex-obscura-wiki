@@ -4,7 +4,7 @@
 
 # Talin
 
-Talin é um rapaz [[_wiki/racas/pindoriar\|pindoriar]] de [[_wiki/locais/niedellin\|Niedellin]], batedor da [[_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal'Serin]]. A coragem nele não passa pela razão: onde outros pesam as palavras, ele já agiu, uma pressa do coração que o torna útil e o expõe na mesma medida.
+Talin é um rapaz [[_wiki/racas/pindoriar\|pindoriar]] de [[_wiki/locais/niedellin\|Niedellin]], batedor da [[_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal’Serin]]. A coragem nele não passa pela razão: onde outros pesam as palavras, ele já agiu, uma pressa do coração que o torna útil e o expõe na mesma medida.
 
 ### Aparência
 

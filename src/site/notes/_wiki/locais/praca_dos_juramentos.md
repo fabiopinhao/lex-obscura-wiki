@@ -4,7 +4,7 @@
 
 # Praça dos Juramentos
 
-A Praça dos Juramentos é uma praça cerimonial no coração de [[_wiki/locais/xarn_aroth\|Xarn'Aroth]], o distrito sagrado de [[_wiki/locais/morvgrad\|Morvgrad]]. Seu portão leste conecta-se a [[_wiki/locais/mor_severith\|Mor'Severith]], o que faz dela passagem obrigatória para quem deixa uma audiência com [[_wiki/personagens/arothistar\|Arothistar]]. O nome sugere que ali se realizavam, na origem, cerimônias de lealdade e pactos formais.
+A Praça dos Juramentos é uma praça cerimonial no coração de [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], o distrito sagrado de [[_wiki/locais/morvgrad\|Morvgrad]]. Seu portão leste conecta-se a [[_wiki/locais/mor_severith\|Mor’Severith]], o que faz dela passagem obrigatória para quem deixa uma audiência com [[_wiki/personagens/arothistar\|Arothistar]]. O nome sugere que ali se realizavam, na origem, cerimônias de lealdade e pactos formais.
 
 ### Encruzilhada de poder
 

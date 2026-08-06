@@ -4,4 +4,4 @@
 
 # Capacete de Maraxus
 
-O Capacete de Maraxus é uma relíquia das arenas extintas do [[_wiki/locais/dromos_draconis\|Dromos Draconis]], forjado em bronze e cobre, de feitio exótico. [[_wiki/personagens/maraxus\|Maraxus]] o veste durante a incursão em [[_wiki/locais/thal_serin\|Thal'Serin]], ocultando por completo o rosto.
+O Capacete de Maraxus é uma relíquia das arenas extintas do [[_wiki/locais/dromos_draconis\|Dromos Draconis]], forjado em bronze e cobre, de feitio exótico. [[_wiki/personagens/maraxus\|Maraxus]] o veste durante a incursão em [[_wiki/locais/thal_serin\|Thal’Serin]], ocultando por completo o rosto.

@@ -8,11 +8,11 @@ A política religiosa do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]
 
 ### Tensão entre Ordem e Caos
 
-A oposição entre o diabólico e o demoníaco é estrutural. Pactuados de deuses distintos recebem comandos contraditórios: a expansão ordenada de um patrono da ordem e a destruição de um patrono do caos servem ao mesmo império sob lógicas incompatíveis. A proibição de pactos demoníacos responde a essa tensão. [[_wiki/personagens/arothistar\|Arothistar]] tipificou tais pactos como o crime de [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], punível nos Fossos de [[_wiki/locais/drokh_malahar\|Drokh'Malahar]], com o propósito declarado de eliminar fontes de caos dentro do império.
+A oposição entre o diabólico e o demoníaco é estrutural. Pactuados de deuses distintos recebem comandos contraditórios: a expansão ordenada de um patrono da ordem e a destruição de um patrono do caos servem ao mesmo império sob lógicas incompatíveis. A proibição de pactos demoníacos responde a essa tensão. [[_wiki/personagens/arothistar\|Arothistar]] tipificou tais pactos como o crime de [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], punível nos Fossos de [[_wiki/locais/drokh_malahar\|Drokh’Malahar]], com o propósito declarado de eliminar fontes de caos dentro do império.
 
-### Justiciars e a Neutralidade Divina
+### Justiciares e a Neutralidade Divina
 
-A razão de os [[_wiki/organizacoes/justiciars\|Justiciars]] não serem pactuados é política, não teológica: não podem dividir-se entre a obediência ao monarca e as vontades particulares de patronos divinos. O sistema [[_wiki/magia/teru\|Teru]], magia sem pacto e baseada em estudo técnico, garante que os Justiciars respondam apenas a Arothistar e à [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]].
+A razão de os [[_wiki/organizacoes/justiciares\|Justiciares]] não serem pactuados é política, não teológica: não podem dividir-se entre a obediência ao monarca e as vontades particulares de patronos divinos. O sistema [[_wiki/magia/teru\|Teru]], magia sem pacto e baseada em estudo técnico, garante que os Justiciares respondam apenas a Arothistar e à [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]].
 
 ### Facções Internas
 

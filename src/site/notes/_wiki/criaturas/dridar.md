@@ -16,4 +16,4 @@ As matriarcas de [[_wiki/locais/ghilanna\|Ghilanna]] empregaram dridars como arm
 
 ### Anomalia Recente
 
-Há relatos de [[_wiki/racas/murano\|muranos]] atacando dridars de forma suicida, comportamento inédito, já que os muranos normalmente fogem. A causa é desconhecida, possivelmente ligada ao "algo" que os faz fugir das profundezas.
+Há relatos de [[_wiki/racas/murano\|muranos]] atacando dridars de forma suicida, comportamento inédito, já que os muranos normalmente fogem. A causa é desconhecida, possivelmente ligada ao “algo” que os faz fugir das profundezas.

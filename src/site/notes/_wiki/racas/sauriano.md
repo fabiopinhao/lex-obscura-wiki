@@ -20,9 +20,9 @@ Os kobolds, de porte gnômico, são produto de manipulação [[_wiki/racas/shada
 
 ### A Ruptura Originária
 
-A relação entre as duas sub-raças nunca foi de coexistência. Surgiram em continentes diferentes, por processos diferentes e para propósitos diferentes: os draconídeos nasceram das Guerras Raciais em Veinkard, e os kobolds foram fabricados por shadars em Reinkard eras depois. A própria ideia de "família" sauriana é classificação externa, imposta de fora: os draconídeos rejeitam a associação, e os kobolds sequer sabem que ela existe.
+A relação entre as duas sub-raças nunca foi de coexistência. Surgiram em continentes diferentes, por processos diferentes e para propósitos diferentes: os draconídeos nasceram das Guerras Raciais em Veinkard, e os kobolds foram fabricados por shadars em Reinkard eras depois. A própria ideia de “família” sauriana é classificação externa, imposta de fora: os draconídeos rejeitam a associação, e os kobolds sequer sabem que ela existe.
 
-Quando os dois povos se cruzam, o encontro tende a ser raro e violento. Em [[_wiki/locais/mor_severith\|Mor'Severith]], o draconídeo [[_wiki/personagens/thrax\|Thrax]] decepou a cauda do kobold [[_wiki/personagens/fing\|Fing]] e a guardou como troféu. Para um draconídeo, ver um kobold é ver o que os shadars fizeram com ovos que deveriam ter eclodido em dragões.
+Quando os dois povos se cruzam, o encontro tende a ser raro e violento. Em [[_wiki/locais/mor_severith\|Mor’Severith]], o draconídeo [[_wiki/personagens/thrax\|Thrax]] decepou a cauda do kobold [[_wiki/personagens/fing\|Fing]] e a guardou como troféu. Para um draconídeo, ver um kobold é ver o que os shadars fizeram com ovos que deveriam ter eclodido em dragões.
 
 ### Declínio
 

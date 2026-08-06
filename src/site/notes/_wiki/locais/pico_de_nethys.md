@@ -10,9 +10,9 @@ O Pico de Nethys, também chamado Dente de Reinkard, é o ponto mais elevado da 
 
 Foi ninho de dragão pela maior parte da [[_wiki/conceitos/primeira_era\|Primeira Era]], morada da anciã [[_wiki/personagens/varna\|Varna]]. Na [[_wiki/conceitos/segunda_era\|Segunda Era]], a corrupção sombria dos shadars tornou a região insustentável, e Varna migrou para [[_wiki/locais/varnak\|Varnak]], no continente de [[_wiki/locais/veinkard\|Veinkard]]. O pico segue abandonado desde então.
 
-### Mor'Severith e o Oculário
+### Mor’Severith e o Oculário
 
-[[_wiki/locais/mor_severith\|Mor'Severith]], a torre de [[_wiki/personagens/arothistar\|Arothistar]], está fundida à base do Pico de Nethys, em [[_wiki/locais/xarn_aroth\|Xarn'Aroth]]. Uma ponte sem corrimão conecta o [[_wiki/locais/oculario\|Oculário]] à trilha que sobe ao pico. A natureza do apreço pessoal de Arothistar pelo lugar não é de conhecimento público, mas é frequente vê-lo contemplá-lo.
+[[_wiki/locais/mor_severith\|Mor’Severith]], a torre de [[_wiki/personagens/arothistar\|Arothistar]], está fundida à base do Pico de Nethys, em [[_wiki/locais/xarn_aroth\|Xarn’Aroth]]. Uma ponte sem corrimão conecta o [[_wiki/locais/oculario\|Oculário]] à trilha que sobe ao pico. A natureza do apreço pessoal de Arothistar pelo lugar não é de conhecimento público, mas é frequente vê-lo contemplá-lo.
 
 ### A cicatriz no céu
 

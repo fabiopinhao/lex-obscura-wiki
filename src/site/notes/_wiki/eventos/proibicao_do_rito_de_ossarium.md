@@ -4,7 +4,7 @@
 
 # Proibição do Rito de Ossárium
 
-A Proibição do Rito de Ossárium foi o decreto pelo qual o monarca [[_wiki/personagens/arothistar\|Arothistar]] declarou o [[_wiki/magia/rito_de_ossarium\|Rito de Ossárium]] heresia capital, encerrando oficialmente a prática que convertia humanos em [[_wiki/racas/shadar\|shadar]]. A medida foi contemporânea à [[_wiki/eventos/fundacao_dos_justiciars\|fundação dos Justiciars]], durante as Guerras Reinkárdicas.
+A Proibição do Rito de Ossárium foi o decreto pelo qual o monarca [[_wiki/personagens/arothistar\|Arothistar]] declarou o [[_wiki/magia/rito_de_ossarium\|Rito de Ossárium]] heresia capital, encerrando oficialmente a prática que convertia humanos em [[_wiki/racas/shadar\|shadar]]. A medida foi contemporânea à [[_wiki/eventos/fundacao_dos_justiciares\|fundação dos Justiciares]], durante as Guerras Reinkárdicas.
 
 ### Efeitos sobre a conversão
 

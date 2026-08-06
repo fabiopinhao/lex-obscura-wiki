@@ -4,7 +4,7 @@
 
 # Fing
 
-Fing é um [[_wiki/racas/kobold\|kobold]], servo de [[_wiki/personagens/arothistar\|Arothistar]] em [[_wiki/locais/mor_severith\|Mor'Severith]]. De olhos amarelos, vive confinado na torre do monarca, mutilado e devotado por inteiro ao serviço do mestre.
+Fing é um [[_wiki/racas/kobold\|kobold]], servo de [[_wiki/personagens/arothistar\|Arothistar]] em [[_wiki/locais/mor_severith\|Mor’Severith]]. De olhos amarelos, vive confinado na torre do monarca, mutilado e devotado por inteiro ao serviço do mestre.
 
 ### Aparência
 
@@ -20,4 +20,4 @@ Fing lê o céu como linguagem divina. Interpreta o [[_wiki/cosmologia/noctiluz\
 
 ### Relações
 
-Foi [[_wiki/personagens/thrax\|Thrax]] quem lhe decepou a cauda, num golpe que custou a Fing o equilíbrio e o pedaço, guardado como troféu pelo agressor. Com [[_wiki/personagens/quaz_har\|Quaz'har]], outro servo, troca inveja e desprezo recíprocos.
+Foi [[_wiki/personagens/thrax\|Thrax]] quem lhe decepou a cauda, num golpe que custou a Fing o equilíbrio e o pedaço, guardado como troféu pelo agressor. Com [[_wiki/personagens/quaz_har\|Quaz’har]], outro servo, troca inveja e desprezo recíprocos.

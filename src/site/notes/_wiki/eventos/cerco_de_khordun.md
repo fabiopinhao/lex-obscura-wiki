@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/cerco_de_khordun.md","permalink":"/wiki/eventos/cerco-de-khordun/","dg-note-properties":{"tipo":"evento","nome":"Cerco de Khordun","id":"E-0051","era":"—","ano_relativo":"—","tipo_evento":"guerra","impacto":"—","marco_yaml":"—","aliases":[],"tags":[],"ordem":51,"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/cerco_de_khordun.md","permalink":"/wiki/eventos/cerco-de-khordun/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Cerco de Khordun
 
-Cerco em que prisioneiros foram forçados a carregar barris de piche fervente sob chuva de flechas.
+No Cerco de Khordun, prisioneiros foram forçados a carregar barris de piche fervente sob chuva de flechas.
 
 ### Legado na Linguagem
 

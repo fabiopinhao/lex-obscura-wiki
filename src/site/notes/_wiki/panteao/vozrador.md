@@ -24,7 +24,7 @@ Vozrador aceitava um único templário por vez, e a restrição era método: cad
 
 ### Acordo com os Titãs
 
-Vozrador firmou com [[_wiki/panteao/morlgrund\|Morlgrund]] e [[_wiki/panteao/titania\|Titânia]] um acordo impensável para o restante do panteão: a proteção de [[_wiki/locais/thal_serin\|Thal'Serin]] em troca de concessões que consolidaram seu poder entre os diabos. Morlgrund queria a floresta intacta; Titânia, seus devotos protegidos; para Vozrador, o prêmio era um domínio que nenhum outro diabo ousasse contestar. A fonte real de seu poder não residia nos domínios celestiais, mas na própria floresta.
+Vozrador firmou com [[_wiki/panteao/morlgrund\|Morlgrund]] e [[_wiki/panteao/titania\|Titânia]] um acordo impensável para o restante do panteão: a proteção de [[_wiki/locais/thal_serin\|Thal’Serin]] em troca de concessões que consolidaram seu poder entre os diabos. Morlgrund queria a floresta intacta; Titânia, seus devotos protegidos; para Vozrador, o prêmio era um domínio que nenhum outro diabo ousasse contestar. A fonte real de seu poder não residia nos domínios celestiais, mas na própria floresta.
 
 ### Aprisionamento
 

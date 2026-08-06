@@ -8,7 +8,7 @@ O Dracônico é a língua primordial dos dragões, idioma cotidiano dos [[_wiki/
 
 ### Som
 
-No registro primordial, o Dracônico produz sons impossíveis para gargantas humanas: infrassons que vibram o diafragma, cliques guturais de membranas que os bípedes não possuem, e harmônicos simultâneos, duas notas vocais ao mesmo tempo. A transcrição mortal recorre a aproximações como *Khr*, *Zzm*, *Ghrl*. O registro cotidiano acomoda gargantas menores, mas conserva as sibilantes longas e as fricativas retroflexas do original, uma qualidade "escamosa" que identifica o falante antes que ele termine a primeira frase. Ouvi-lo é sentir escala antes de sentido: quando um xamã sauriano entoa fragmentos rituais, ouvintes relatam pressão torácica e o impulso de baixar os olhos.
+No registro primordial, o Dracônico produz sons impossíveis para gargantas humanas: infrassons que vibram o diafragma, cliques guturais de membranas que os bípedes não possuem, e harmônicos simultâneos, duas notas vocais ao mesmo tempo. A transcrição mortal recorre a aproximações como *Khr*, *Zzm*, *Ghrl*. O registro cotidiano acomoda gargantas menores, mas conserva as sibilantes longas e as fricativas retroflexas do original, uma qualidade “escamosa” que identifica o falante antes que ele termine a primeira frase. Ouvi-lo é sentir escala antes de sentido: quando um xamã sauriano entoa fragmentos rituais, ouvintes relatam pressão torácica e o impulso de baixar os olhos.
 
 ### Escrita
 
@@ -16,4 +16,4 @@ Não se escreve Dracônico com tinta, mas por incisão. Cada traço é um sulco 
 
 ### Gramática
 
-A língua não pede: declara ou ordena. Perguntas tomam a forma de comandos ("Revela teu nome" no lugar de "Qual é teu nome?"), e essa tendência imperativa se intensifica no registro mágico, onde cada frase é uma exigência dirigida à entidade que responde. Demônios contatados em Dracônico podem distorcer a gramática durante o canal, mudando a conjugação de uma invocação para a seguinte, indiferentes à consistência mortal.
+A língua não pede: declara ou ordena. Perguntas tomam a forma de comandos (“Revela teu nome” no lugar de “Qual é teu nome?”), e essa tendência imperativa se intensifica no registro mágico, onde cada frase é uma exigência dirigida à entidade que responde. Demônios contatados em Dracônico podem distorcer a gramática durante o canal, mudando a conjugação de uma invocação para a seguinte, indiferentes à consistência mortal.

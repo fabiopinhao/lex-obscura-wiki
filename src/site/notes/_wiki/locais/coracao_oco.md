@@ -4,12 +4,12 @@
 
 # Coração Oco
 
-O Coração Oco é uma área de masmorras nas profundezas de [[_wiki/locais/ghol_drokh\|Ghol'Drokh]], sob controle do Império Sombrio, dentro de [[_wiki/locais/morvgrad\|Morvgrad]]. Funciona como cárcere e local de interrogatório, e é conhecido pela acústica que deforma todo som que o atravessa.
+O Coração Oco é a faixa de níveis intermediários de [[_wiki/locais/ghol_drokh\|Ghol’Drokh]], o complexo de masmorras subterrâneas de [[_wiki/locais/morvgrad\|Morvgrad]], sob controle do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Funciona como cárcere e local de interrogatório, e é conhecido pela acústica que deforma todo som que o atravessa.
 
 ### Acústica
 
-Palavras e passos não retornam como foram emitidos: voltam atrasados e tortos, distorcidos pela geometria da câmara. Diz-se ali que um sussurro ganha presas e volta para morder.
+A acústica natural da rocha distorce o som de maneira perturbadora. Palavras e passos não retornam como foram emitidos: voltam atrasados e tortos, como se a pedra os mastigasse antes de devolvê-los. Diz-se ali que um sussurro ganha presas e volta para morder.
 
 ### Celas gêmeas
 
-Duas celas gêmeas guardam prisioneiros de interesse do trono; numa delas está o [[_wiki/personagens/coveiro-mor\|Coveiro-mor]] do [[_wiki/locais/jardim_dos_inocentes\|Jardim dos Inocentes]].
+Duas câmaras espelhadas, separadas por um corredor estreito, são reservadas a prisioneiros de interesse do trono. Numa delas está o [[_wiki/personagens/coveiro-mor\|Coveiro-mor]] do [[_wiki/locais/jardim_dos_inocentes\|Jardim dos Inocentes]].

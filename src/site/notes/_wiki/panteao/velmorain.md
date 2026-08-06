@@ -16,4 +16,4 @@ O Cosmo sustenta a estrutura, dobrando o espaço ao redor de um arranjo até que
 
 ### Rivalidade com Vozrador
 
-Velmorain e Vozrador disputavam domínios como [[_wiki/locais/thal_serin\|Thal'Serin]] antes do aprisionamento de Vozrador. A aliança com Malagoth contra Vozrador foi motivada por vingança: Vozrador mantinha um acordo com os [[_wiki/cosmologia/titas\|Titãs]] que Velmorain nunca conseguiu replicar. Velmorain sustenta a maldição de Malagoth sobre Vozrador, mantendo-a forte e ativa por meio de reforço cósmico-espectral.
+Velmorain e Vozrador disputavam domínios como [[_wiki/locais/thal_serin\|Thal’Serin]] antes do aprisionamento de Vozrador. A aliança com Malagoth contra Vozrador foi motivada por vingança: Vozrador mantinha um acordo com os [[_wiki/cosmologia/titas\|Titãs]] que Velmorain nunca conseguiu replicar. Velmorain sustenta a maldição de Malagoth sobre Vozrador, mantendo-a forte e ativa por meio de reforço cósmico-espectral.

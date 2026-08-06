@@ -4,7 +4,7 @@
 
 # Rhazamir
 
-Rhazamir é um tenente [[_wiki/racas/shadar\|shadar]] do exército imperial, lotado na Torre de [[_wiki/locais/khargoth\|Khargoth]] e praticante da escola de [[_wiki/escolas/electro\|Electro]]. Ostenta a insígnia da escola no peito, mas a competência nunca acompanhou o emblema: a Casa [[_wiki/personagens/zilvra_xund_ala\|Xund'ala]] registrou sete incidentes que [[_wiki/personagens/xilvenneth\|Xilvenneth]] resume em público como vetores tortos. Racista convicto e defensor de linhagens puras, é irmão da arconte Dorthea, parentesco que só vem à tona depois de sua morte.
+Rhazamir é um tenente [[_wiki/racas/shadar\|shadar]] do exército imperial, lotado na Torre de [[_wiki/locais/khargoth\|Khargoth]] e praticante da escola de [[_wiki/escolas/electro\|Electro]]. Ostenta a insígnia da escola no peito, mas a competência nunca acompanhou o emblema: a Casa [[_wiki/personagens/zilvra_xund_ala\|Xund’ala]] registrou sete incidentes que [[_wiki/personagens/xilvenneth\|Xilvenneth]] resume em público como vetores tortos. Racista convicto e defensor de linhagens puras, é irmão da arconte Dorthea, parentesco que só vem à tona depois de sua morte.
 
 ### A Queda
 

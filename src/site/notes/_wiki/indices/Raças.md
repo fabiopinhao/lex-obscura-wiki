@@ -14,7 +14,7 @@ O Império não reconhece igualdade entre as raças. Reconhece utilidade.
 - [[_wiki/racas/drul\|Drul]] — Elfos diabólicos das profundezas de Vor-Ghol, organizados em Casas Matriarcais onde traição é virtude e cada cortesia esconde uma lâmina.
 - [[_wiki/racas/pindoriar\|Pindoriar]] — Termo pejorativo para humanos e elfos subjugados, cidadãos de segunda classe cuja longevidade encurtada é o primeiro sinal de que o Império cobra até o tempo de quem domina.
 - [[_wiki/racas/varnakiano\|Varnakiano]] — Humanos de sangue infernal, cujas marcas demoníacas os tornam cidadãos de tolerância condicional num império que prefere diabos a demônios.
-- [[_wiki/racas/orc\|Orc]] — Elfos demoníacos forjados nas tundras e cordilheiras do norte, que desprezam o termo "elfo". Abraçam a fúria e o ciclo de vida breve que a acompanha.
+- [[_wiki/racas/orc\|Orc]] — Elfos demoníacos forjados nas tundras e cordilheiras do norte, que desprezam o termo “elfo”. Abraçam a fúria e o ciclo de vida breve que a acompanha.
 - [[_wiki/racas/frenim\|Frenim]] — Humanos siderais de Neranthis, magos azuis isolacionistas que temem as sombras com a mesma intensidade com que dominam o éter.
 - [[_wiki/racas/undine\|Undine]] — Elfos siderais alinhados a oceanos, rios e lagos no extremo leste de Neranthis, tão desvinculados do mundo material que os shadars ignoram sua existência.
 - [[_wiki/racas/gerut\|Gerut]] — Humanos titânicos habitantes de matas, caçadores e druidas que rejeitaram a expansão imperial na Idade Esquecida e nunca reconsideraram.
@@ -50,18 +50,18 @@ O Império não reconhece igualdade entre as raças. Reconhece utilidade.
 - [[_wiki/racas/goblin\|Goblin]] — Gnomos corrompidos por influência demoníaca durante as Guerras Raciais, domesticados pelo Império para tarefas que shadars se recusam a fazer.
 - [[_wiki/racas/spriggin\|Spriggin]] — Gnomos silvestres outrora guardiões de florestas e ruínas, quase extintos na Terceira Era quando shadars queimaram tudo que os titãs não protegeram diretamente.
 - [[_wiki/racas/hallirin\|Hallirin]] — Gnomos urbanos de superfície, artesãos e alquimistas que constituem a linha de base gnômica. Quase todos mortos ou escravizados após as Guerras Reinkárdicas.
-- [[_wiki/racas/svirfin\|Svirfin]] — Gnomos de Neranthis que vivem restritos a cidadelas frenim como população auxiliar e desconhecidos fora do continente oriental.
+- [[_wiki/racas/nalvirin\|Nalvirin]] — Gnomos de Neranthis que vivem restritos a cidadelas frenim como população auxiliar e desconhecidos fora do continente oriental.
 
 ## Criaturas
 
 - [[_wiki/criaturas/basilisco\|Basilisco]] — Réptil monstruoso de olhar petrificante que habita as profundezas não mapeadas do continente, existindo no bestiário como ameaça conhecida e temida sem jamais pisar em cena.
 - [[_wiki/criaturas/grifo\|Grifo]] — Montaria de guerra com corpo de leão e asas de águia, domesticada por humanos e álvarars nas Guerras Reinkárdicas.
 - [[_wiki/criaturas/troll\|Troll]] — Predador territorial de massa colossal e regeneração extrema, que só morre de verdade quando queimado ou dissolvido.
-- [[_wiki/criaturas/sombralva\|Sombralva]] — Felino de grande porte de pelagem que absorve luz, domesticado exclusivamente por ophideias como montaria de combate e símbolo de status entre as sacerdotisas-assassinas drul. Também chamada de "pantera sombria" no falar popular.
+- [[_wiki/criaturas/sombralva\|Sombralva]] — Felino de grande porte de pelagem que absorve luz, domesticado exclusivamente por ophideias como montaria de combate e símbolo de status entre as sacerdotisas-assassinas drul. Também chamada de “pantera sombria” no falar popular.
 - [[_wiki/criaturas/servo_hediondo\|Servo Hediondo]] — Constructo necromântico animado a partir de cadáveres, amálgamas de carne ou entidades de planos inferiores, tão variado em forma quanto o invocador que o criou e o material que estava à mão.
 - [[_wiki/criaturas/dridar\|Dridar]] — Aracnídeo gigante de Vor-Ghol cultivado pelas matriarcas drul em linhagens selecionadas por agressividade e inteligência, plantado como ovo em cidadelas rivais para destruí-las de dentro quando amadurece.
 - [[_wiki/criaturas/hidna_ressonante\|Hidna Ressonante]] — Organismo ou armadilha natural de Vor-Ghol que explode ao menor estímulo sonoro, razão pela qual tropas drul jamais marcham em formação pelos corredores.
-- [[_wiki/criaturas/gnoll\|Gnoll]] — Híbrido hiena-humanoide de fedor avassalador, ferocidade bruta e vida curta, classificado como "fauna doméstica de segundo grau" pelo Império e tratado exatamente como isso implica.
+- [[_wiki/criaturas/gnoll\|Gnoll]] — Híbrido hiena-humanoide de fedor avassalador, ferocidade bruta e vida curta, classificado como “fauna doméstica de segundo grau” pelo Império e tratado exatamente como isso implica.
 - [[_wiki/criaturas/ogro\|Ogro]] — Humanoides massivos de inteligência limitada, usados como força bruta descartável nos estratos mais baixos do Império.
 - [[_wiki/criaturas/salamandra\|Salamandra]] — Réptil de ambientes vulcânicos cujo sangue inflamável é o recurso mais cobiçado e escasso de qualquer campanha contra trolls.
 - [[_wiki/criaturas/diabrete\|Diabrete]] — Criaturas aladas, criadas em cativeiro e usadas como mensageiras servis.

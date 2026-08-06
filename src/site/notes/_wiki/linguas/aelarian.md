@@ -14,10 +14,10 @@ O registro mágico incorpora a herança angelical. As vogais são puras e prolon
 
 ### Gramática e Escrita
 
-A gramática é conservadora. No registro cotidiano preserva a ordem sintática do Luminar (sujeito-intenção-objeto); no registro mágico a ordem se inverte para intenção-sujeito-objeto, colocando o propósito antes do agente, estrutura que os linguistas de [[_wiki/locais/morvgrad\|Morvgrad]] chamam de "oração invertida" e os elarinos, simplesmente, de "prece".
+A gramática é conservadora. No registro cotidiano preserva a ordem sintática do Luminar (sujeito-intenção-objeto); no registro mágico a ordem se inverte para intenção-sujeito-objeto, colocando o propósito antes do agente, estrutura que os linguistas de [[_wiki/locais/morvgrad\|Morvgrad]] chamam de “oração invertida” e os elarinos, simplesmente, de “prece”.
 
 A escrita usa glifos derivados do Luminar, simplificados mas reconhecíveis: traços curvos interligados, lidos da esquerda para a direita, com marcadores de intenção. Textos arcaicos guardam carga residual e, recitados com intenção, produzem efeitos mínimos.
 
 ### Registro Ritual
 
-O Aelarian mágico é o registro litúrgico de elarinos e [[_wiki/racas/alvarar\|álvarars]] paladinos na Devotio Sancta. Seu léxico é de cognatos [[_wiki/racas/luminares\|luminares]] (*Isilmathé*, "luz eterna"; *Aelindra*, "aurora"), e sua estética sonora evoca o canto litúrgico. A Devotio Sancta não exige uma língua ritual única: responde à devoção e à tradição espiritual do praticante, de modo que a língua é o vaso cultural da prece, não uma chave exclusiva.
+O Aelarian mágico é o registro litúrgico de elarinos e [[_wiki/racas/alvarar\|álvarars]] paladinos na Devotio Sancta. Seu léxico é de cognatos [[_wiki/racas/luminares\|luminares]] (*Isilmathé*, “luz eterna”; *Aelindra*, “aurora”), e sua estética sonora evoca o canto litúrgico. A Devotio Sancta não exige uma língua ritual única: responde à devoção e à tradição espiritual do praticante, de modo que a língua é o vaso cultural da prece, não uma chave exclusiva.

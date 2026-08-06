@@ -8,7 +8,7 @@ O Luminar foi a língua civil e mágica unificada dos elfos da luz, os luminares
 
 ### Som
 
-Vogais longas e ditongos, consoantes suaves, predominância de líquidas e nasais, sílabas abertas: o Luminar tem ritmo musical e tende a frases que sobem em escala tonal, evocando canção sem ser cantada. Algumas palavras preservadas dão a medida: *Aelindra* (aurora), *Thal'vérien* (guardião do bosque), *Isilmathé* (luz eterna). Quem o ouve compara a sensação a uma harpa tangida sob a água, bela e distante, com uma frieza cristalina que lembra que seus falantes foram genocidas tanto quanto artistas.
+Vogais longas e ditongos, consoantes suaves, predominância de líquidas e nasais, sílabas abertas: o Luminar tem ritmo musical e tende a frases que sobem em escala tonal, evocando canção sem ser cantada. Algumas palavras preservadas dão a medida: *Aelindra* (aurora), *Thal’vérien* (guardião do bosque), *Isilmathé* (luz eterna). Quem o ouve compara a sensação a uma harpa tangida sob a água, bela e distante, com uma frieza cristalina que lembra que seus falantes foram genocidas tanto quanto artistas.
 
 ### Escrita
 

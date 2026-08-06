@@ -34,7 +34,7 @@ Panoramas das Guerras Reinkárdicas: [[_wiki/conceitos/guerras_reinkardicas_a_so
 - [[_wiki/eventos/migracao_shadar_ao_planalto\|Migração Shadar ao Planalto]] — Perseguidos pela ortodoxia, migraram ao planalto norte e encontraram os druls
 - [[_wiki/eventos/expulsao_cultistas_draconicos\|Expulsão dos Cultistas Dracônicos]] — Shadars expulsaram tribos com pactos demoníacos para Varnak; origem dos varnakianos
 - [[_wiki/eventos/corrupcao_ovos_dragao\|Corrupção dos Ovos de Dragão]] — Shadars corromperam ninhos abandonados; seleção deliberada originou os kobolds
-- [[_wiki/eventos/pacto_vozrador_titas\|Pacto de Vozrador com os Titãs]] — Proteção de Thal'Serin em troca de supremacia em Patho
+- [[_wiki/eventos/pacto_vozrador_titas\|Pacto de Vozrador com os Titãs]] — Proteção de Thal’Serin em troca de supremacia em Patho
 - [[_wiki/eventos/primeira_migracao_dragoes\|Primeira Migração dos Dragões]] — Corrupção sombria forçou anciãos a migrar; Varna ficou sozinha no Pico de Nethys
 
 ## Segunda Era
@@ -51,7 +51,7 @@ Panoramas das Guerras Reinkárdicas: [[_wiki/conceitos/guerras_reinkardicas_a_so
 
 - [[_wiki/eventos/guerras_reinkardicas_inicio\|Início das Guerras]] — Culto esgotou o planalto; ~50 anos de conflito continental
 - [[_wiki/eventos/submissao_da_ventrista\|Submissão da Ventrista]] — Terras férteis na base do planalto; primeiro alvo da descida
-- [[_wiki/eventos/ataque_fracassado_a_thalserin\|Ataque Fracassado a Thal'Serin]] — Floresta sagrada resistiu; pacto de Vozrador com os Titãs a protegia
+- [[_wiki/eventos/ataque_fracassado_a_thalserin\|Ataque Fracassado a Thal’Serin]] — Floresta sagrada resistiu; pacto de Vozrador com os Titãs a protegia
 - [[_wiki/eventos/frentes_de_guerra_e_destino_das_racas\|Destino das Raças]] — Sylvanos, humanos e gnomos escravizados; gerut sobreviveram pelo terreno titânico
 - [[_wiki/eventos/formalizacao_militar_dos_orcs\|Formalização Militar dos Orcs]] — Ponto de inflexão: fúria tribal transformada em disciplina de campo
 - [[_wiki/eventos/guerra_formal_e_impasse_continental\|Guerra Formal e Impasse]] — Myrgarde declarou guerra; coalizão continental contra Morvgrad
@@ -60,10 +60,10 @@ Panoramas das Guerras Reinkárdicas: [[_wiki/conceitos/guerras_reinkardicas_a_so
 - [[_wiki/eventos/campanha_oriental_e_queda_de_dernessal\|Campanha Oriental]] — Conquista das cidades do cinturão oriental de Myrgarde
 - [[_wiki/eventos/purga_do_conselho_e_autodeclaracao_como_arothistar\|Purga do Conselho]] — Dravhok eliminou conselheiros rivais e declarou-se Arothistar
 - [[_wiki/eventos/instituicao_do_verbum_arkhon\|Instituição do Verbum Arkhon]] — Constituição do Império; Lex Obscura absorvida sem alteração
-- [[_wiki/eventos/fundacao_dos_justiciars\|Fundação dos Justiciars]] — Braço judiciário com poder de vida e morte; Orum-Rahru foi o primeiro
+- [[_wiki/eventos/fundacao_dos_justiciares\|Fundação dos Justiciares]] — Braço judiciário com poder de vida e morte; Orum-Rahru foi o primeiro
 - [[_wiki/eventos/proibicao_do_rito_de_ossarium\|Proibição do Rito de Ossárium]] — Declarado heresia capital por decreto do monarca; a conversão de humanos encerrada oficialmente
-- [[_wiki/eventos/instalacao_em_mor_severith\|Instalação em Mor'Severith]] — Arothistar esvaziou a antiga biblioteca do Conselho e tomou-a como torre
-- [[_wiki/eventos/destruicao_de_lendalas\|Destruição de Lendalas]] — Floresta queimada por fogo alquímico; tornou-se o Campo dos Lamentos
+- [[_wiki/eventos/instalacao_em_mor_severith\|Instalação em Mor’Severith]] — Arothistar esvaziou a antiga biblioteca do Conselho e tomou-a como torre
+- [[_wiki/eventos/destruicao_de_lendalas\|Destruição de Lendalas]] — Floresta queimada por fogo alquímico; tornou-se o Ermo de Lendalas
 - [[_wiki/eventos/queda_de_elenir\|Queda de Elenir]] — Cidadela elarino conquistada; nexus arcanos incorporados à infraestrutura imperial
 - [[_wiki/eventos/cerco_de_myrgarde\|Cerco de Myrgarde]] — Três anos de cerco; fome, peste e silenciamento dos deuses luminosos
 - [[_wiki/eventos/queda_de_myrgarde_e_fim_das_guerras_reinkardicas\|Queda de Myrgarde]] — Última aparição de Arothistar no campo; fim das guerras
@@ -71,7 +71,7 @@ Panoramas das Guerras Reinkárdicas: [[_wiki/conceitos/guerras_reinkardicas_a_so
 ## Terceira Era
 
 - [[_wiki/eventos/reorganizacao_imperial_e_provincias\|Reorganização Imperial]] — Arothistar governa por intermediários; Protocolo Iconográfico da Coroa
-- [[_wiki/eventos/tensoes_e_ameacas_da_terceira_era\|Tensões da Terceira Era]] — Aliança drul fragilizada; migração órquica; 20 de 27 Justiciars mortos
+- [[_wiki/eventos/tensoes_e_ameacas_da_terceira_era\|Tensões da Terceira Era]] — Aliança drul fragilizada; migração órquica; 20 de 27 Justiciares mortos
 - [[_wiki/eventos/cadeia_da_fendris\|Cadeia da Fendris]] — Roubo da adaga Luminar do museu particular de Dessian Broel; mandante e motivo permanecem desconhecidos
 - [[_wiki/eventos/sabotagem_nas_forjas_de_thandruk_varn\|Sabotagem nas Forjas]] — Queda de produção em Thandruk Varn; natureza e autoria desconhecidas
 - [[_wiki/eventos/uncao_de_milorsevogh\|Unção de Milorsevogh]] — Sétimo Justiciar vivo; recebeu Spina Lexis, Codex e Oculus no Templo de Azkaroth

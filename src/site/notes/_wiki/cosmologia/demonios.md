@@ -16,7 +16,7 @@ O vínculo com demônios opera por [[_wiki/magia/vinculum_daemonis\|Vinculum Dae
 
 ### Proscrição Imperial
 
-No [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], o vínculo demoníaco é crime. [[_wiki/personagens/arothistar\|Arothistar]] tipificou-o como Vinculum Daemonis, punível nos [[_wiki/locais/drokh_malahar\|Fossos de Drokh'Malahar]], com o propósito de eliminar fontes de caos dentro do império. O sistema, porém, carece de meio eficiente para detectar vínculos clandestinos.
+No [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], o vínculo demoníaco é crime. [[_wiki/personagens/arothistar\|Arothistar]] tipificou-o como Vinculum Daemonis, punível nos [[_wiki/locais/drokh_malahar\|Fossos de Drokh’Malahar]], com o propósito de eliminar fontes de caos dentro do império. O sistema, porém, carece de meio eficiente para detectar vínculos clandestinos.
 
 ### Relação com os Draconídeos
 
@@ -24,4 +24,4 @@ Dragões e [[_wiki/racas/draconideo\|draconídeos]] serviam aos deuses vermelhos
 
 ### Demônios Nomeados
 
-[[_wiki/panteao/kaelgrym\|Kaelgrym]] reúne os domínios de [[_wiki/escolas/pyro\|Pyro]] e [[_wiki/escolas/phobos\|Phobos]] e exige destruição contínua, medo e expurgos; possui afinidade com os diabos via Phobos. [[_wiki/panteao/hazburim\|Hazburim]], o Senhor das Moscas, é o demônio da pestilência, proscrito pelo [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]]; seu culto clandestino manteve, no porão de uma capela em [[_wiki/locais/niedellin\|Niedellin]], um altar secreto.
+[[_wiki/panteao/kaelgrym\|Kaelgrym]] reúne os domínios de [[_wiki/escolas/pyro\|Pyro]] e [[_wiki/escolas/phobos\|Phobos]] e exige destruição contínua, medo e expurgos; possui afinidade com os diabos via Phobos. [[_wiki/panteao/hazburim\|Hazburim]], o Senhor das Moscas, é o demônio da pestilência, proscrito pelo [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]].

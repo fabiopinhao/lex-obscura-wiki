@@ -4,7 +4,7 @@
 
 # Odran
 
-Odran é um [[_wiki/racas/minotauro\|Minotauro]] a serviço de [[_wiki/personagens/arothistar\|Arothistar]] em [[_wiki/locais/mor_severith\|Mor'Severith]], onde guarda a biblioteca e os prisioneiros da fortaleza. Pertence a uma raça quase extinta, que a maioria dos povos toma por lenda. Tem décadas de experiência no posto e se descreve como um administrador civilizado.
+Odran é um [[_wiki/racas/minotauro\|Minotauro]] a serviço de [[_wiki/personagens/arothistar\|Arothistar]] em [[_wiki/locais/mor_severith\|Mor’Severith]], onde guarda a biblioteca e os prisioneiros da fortaleza. Pertence a uma raça quase extinta, que a maioria dos povos toma por lenda. Tem décadas de experiência no posto e se descreve como um administrador civilizado.
 
 ### Aparência
 

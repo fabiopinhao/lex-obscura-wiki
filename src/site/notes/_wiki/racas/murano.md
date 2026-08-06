@@ -28,7 +28,7 @@ A unidade básica é a colônia, de 10 a 200 muranos num território definido pe
 
 ### Voz
 
-Os muranos falam rápido, alto e demais: onde os [[_wiki/racas/varglin\|varglins]] economizam cada sílaba, eles inundam o interlocutor de palavras, na convicção de que quem fala mais controla a conversa e quem controla a conversa come. As frases são longas e acumulativas, mudando de assunto no meio, salpicadas de referências alimentares mesmo fora de contexto e de autopromoção reflexa, tanto mais grandiosa quanto maior a insegurança. Quando assustados, a fala acelera até virar um chiado de sílabas comprimidas; e evitam a palavra "morte", substituída por "fim", "parada" ou "quando acaba", no temor de que nomeá-la a atraia. Se os [[_wiki/racas/worg\|worgs]] falam para negociar e os varglins para sobreviver, os muranos falam para existir: a verborragia é a afirmação de que ainda estão ali.
+Os muranos falam rápido, alto e demais: onde os [[_wiki/racas/varglin\|varglins]] economizam cada sílaba, eles inundam o interlocutor de palavras, na convicção de que quem fala mais controla a conversa e quem controla a conversa come. As frases são longas e acumulativas, mudando de assunto no meio, salpicadas de referências alimentares mesmo fora de contexto e de autopromoção reflexa, tanto mais grandiosa quanto maior a insegurança. Quando assustados, a fala acelera até virar um chiado de sílabas comprimidas; e evitam a palavra “morte”, substituída por “fim”, “parada” ou “quando acaba”, no temor de que nomeá-la a atraia. Se os [[_wiki/racas/worg\|worgs]] falam para negociar e os varglins para sobreviver, os muranos falam para existir: a verborragia é a afirmação de que ainda estão ali.
 
 ### Relação com o Império
 

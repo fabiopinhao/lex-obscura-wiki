@@ -4,7 +4,7 @@
 
 # Guilda dos Gnomos
 
-A Guilda dos Gnomos comanda o mercado negro de [[_wiki/locais/morvgrad\|Morvgrad]], a partir do [[_wiki/locais/mercado_oeste\|Mercado Oeste]]. Reúne centenas de membros e é liderada por [[_wiki/personagens/dribbel_olgund\|Dribbel Olgund]], o "Quebra-Trocas". Embora se mova nas margens da lei, opera sob um decreto de [[_wiki/personagens/arothistar\|Arothistar]] que lhe concedeu licença para comerciar, sob o argumento de que o mercado fortalecia a economia.
+A Guilda dos Gnomos comanda o mercado negro de [[_wiki/locais/morvgrad\|Morvgrad]], a partir do [[_wiki/locais/mercado_oeste\|Mercado Oeste]]. Reúne centenas de membros e é liderada por [[_wiki/personagens/dribbel_olgund\|Dribbel Olgund]], o “Quebra-Trocas”. Embora se mova nas margens da lei, opera sob um decreto de [[_wiki/personagens/arothistar\|Arothistar]] que lhe concedeu licença para comerciar, sob o argumento de que o mercado fortalecia a economia.
 
 ### O Mercado Negro
 
@@ -12,15 +12,15 @@ O mercado ocupa as partes oestes de Morvgrad, em fendas urbanas disfarçadas de 
 
 ### Gnomos das Profundezas
 
-Os membros da Guilda são gnomos das profundezas, os [[_wiki/racas/derro\|derros]], que vivem nos níveis mais baixos do [[_wiki/locais/vor-ghol\|Vor-Ghol]], onde a luz não alcança e o musgo brilha com radiação arcana. Têm pele pálida, olhos adaptados à penumbra e estatura menor que a dos gnomos de superfície. Engenhosos e desconfiados, organizam-se em famílias que ocupam "tocas-cambistas", misto de entreposto, cofre e casa de câmbio. Administram rotas de suprimento entre o Vor-Ghol e a superfície, falsificam documentos, corrompem patrulhas e fabricam artefatos pequenos, letais e discretos.
+Os membros da Guilda são gnomos das profundezas, os [[_wiki/racas/derro\|derros]], que vivem nos níveis mais baixos de [[_wiki/locais/vor-ghol\|Vor-Ghol]], onde a luz não alcança e o musgo brilha com radiação arcana. Têm pele pálida, olhos adaptados à penumbra e estatura menor que a dos gnomos de superfície. Engenhosos e desconfiados, organizam-se em famílias que ocupam “tocas-cambistas”, misto de entreposto, cofre e casa de câmbio. Administram rotas de suprimento entre Vor-Ghol e a superfície, falsificam documentos, corrompem patrulhas e fabricam artefatos pequenos, letais e discretos.
 
 ### O Quebra-Trocas
 
-"Quebra-Trocas" é o título honorário do gnomo mais influente da rede subterrânea de Morvgrad, que atua ao mesmo tempo como banqueiro oculto, líder mercantil e executor de quem rompe acordos. O titular atual é Dribbel Olgund, tagarela, ardiloso e teatral, de sorriso fácil e perigosamente eficaz, sempre acompanhado de um guarda-costas; o seu, no momento, é [[_wiki/personagens/fandegarron\|Fandegarrón]].
+“Quebra-Trocas” é o título honorário do gnomo mais influente da rede subterrânea de Morvgrad, que atua ao mesmo tempo como banqueiro oculto, líder mercantil e executor de quem rompe acordos. O titular atual é Dribbel Olgund, tagarela, ardiloso e teatral, de sorriso fácil e perigosamente eficaz, sempre acompanhado de um guarda-costas; o seu, no momento, é [[_wiki/personagens/fandegarron\|Fandegarrón]].
 
 ### O Caderno de Carne e o Selo de Sangue
 
-O livro-razão da Guilda é o "caderno de carne", encadernado em derme curtida, com os nomes dos devedores entalhados à ponta de navalha, de modo que cada dívida vira cicatriz documental. Exposto sobre o balcão, serve de intimidação. A ele se pareia o "selo de sangue" ritual: íntegro, mantém a cobrança em custódia; pingado ou rompido, autoriza a execução violenta. Em bancas mais sofisticadas, o sangue é tratado com reagentes frios que apagam o fogo ao cair no braseiro, sinal de que o prazo se encerrou.
+O livro-razão da Guilda é o “caderno de carne”, encadernado em derme curtida, com os nomes dos devedores entalhados à ponta de navalha, de modo que cada dívida vira cicatriz documental. Exposto sobre o balcão, serve de intimidação. A ele se pareia o “selo de sangue” ritual: íntegro, mantém a cobrança em custódia; pingado ou rompido, autoriza a execução violenta. Em bancas mais sofisticadas, o sangue é tratado com reagentes frios que apagam o fogo ao cair no braseiro, sinal de que o prazo se encerrou.
 
 ### Relação com o Culto
 

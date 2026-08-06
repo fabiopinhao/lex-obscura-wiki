@@ -8,11 +8,11 @@ Khargoth é a torre arcana de [[_wiki/locais/morvgrad\|Morvgrad]], dedicada ao e
 
 ### Função
 
-A torre opera ao mesmo tempo como universidade e tribunal arcano. Ensina, vigia e pune. No vigésimo andar, uma biblioteca-corredor guarda grimórios de maldições, tratados sobre as sete escolas de [[_wiki/escolas/anatho\|Anatho]] e, no terceiro círculo, um laboratório de venenos. Ergot preto, fungo alucinógeno do [[_wiki/locais/vor-ghol\|Vor-Ghol]], circula entre os estudantes. Dos laboratórios do distrito arcano saem também doces crocantes, aromatizados com especiarias e sais voláteis.
+A torre opera ao mesmo tempo como universidade e tribunal arcano. Ensina, vigia e pune. No vigésimo andar, uma biblioteca-corredor guarda grimórios de maldições, tratados sobre as sete escolas de [[_wiki/escolas/anatho\|Anatho]] e, no terceiro círculo, um laboratório de venenos. Ergot preto, fungo alucinógeno de [[_wiki/locais/vor-ghol\|Vor-Ghol]], circula entre os estudantes. Dos laboratórios do distrito arcano saem também doces crocantes, aromatizados com especiarias e sais voláteis.
 
 ### Disciplina e Proibições
 
-As magias de [[_wiki/panteao/malagoth\|Malagoth]] são proibidas dentro da torre, em razão de incidentes passados que trouxeram caos: maldições descontroladas cuja natureza exata permanece deliberadamente obscura. O preço do estudo é a doutrina central da casa. O mestre necromante Zarukh Veymar cunhou a sentença que a resume: quem se aprofunda em maldições acaba marcado, assim como piromantes se queimam, criomantes congelam e electromantes tombam fulminados. O [[_wiki/organizacoes/justiciars\|Justiciar]] [[_wiki/personagens/milorsevogh_velshard\|Milor]], que estudou em Khargoth antes de sua unção, violou a proibição e carrega no pulso uma marca sombria que se estende ao antebraço, prova viva da sentença de Veymar.
+As magias de [[_wiki/panteao/malagoth\|Malagoth]] são proibidas dentro da torre, em razão de incidentes passados que trouxeram caos: maldições descontroladas cuja natureza exata permanece deliberadamente obscura. O preço do estudo é a doutrina central da casa. O mestre necromante Zarukh Veymar cunhou a sentença que a resume: quem se aprofunda em maldições acaba marcado, assim como piromantes se queimam, criomantes congelam e electromantes tombam fulminados. O [[_wiki/organizacoes/justiciares\|Justiciar]] [[_wiki/personagens/milorsevogh_velshard\|Milor]], que estudou em Khargoth antes de sua unção, violou a proibição e carrega no pulso uma marca sombria que se estende ao antebraço, prova viva da sentença de Veymar.
 
 ### Cenário
 

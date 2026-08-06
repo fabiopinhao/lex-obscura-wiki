@@ -14,4 +14,4 @@ O pretexto oficial declarava que as vontades individuais dos [[_wiki/cosmologia/
 
 ### Abertura racial
 
-A instituição abriu espaço para que raças híbridas e raças do subterrâneo circulassem em determinados espaços livres da capital, na superfície, como já circulavam em [[_wiki/locais/ghilanna\|Ghilanna]] havia milênios. A exceção era o distrito sagrado de [[_wiki/locais/xarn_zareth\|Xarn'Zareth]]. A medida foi amplamente questionada pela elite [[_wiki/racas/shadar\|shadar]], em especial pela ala templária, mas o povo se adaptou, e as outras raças tornaram-se parte fundamental da vida da cidade.
+A instituição abriu espaço para que raças híbridas e raças do subterrâneo circulassem em determinados espaços livres da capital, na superfície, como já circulavam em [[_wiki/locais/ghilanna\|Ghilanna]] havia milênios. A exceção era o distrito sagrado de [[_wiki/locais/xarn_zareth\|Xarn’Zareth]]. A medida foi amplamente questionada pela elite [[_wiki/racas/shadar\|shadar]], em especial pela ala templária, mas o povo se adaptou, e as outras raças tornaram-se parte fundamental da vida da cidade.

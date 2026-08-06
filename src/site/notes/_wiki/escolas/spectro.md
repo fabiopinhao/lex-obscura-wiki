@@ -4,7 +4,7 @@
 
 # Spectro
 
-Spectro é a escola híbrida de preto e azul que engana a percepção sem alterar a realidade. Cria estímulos sensoriais falsos que existem apenas nos sentidos de quem observa, e é uma das disciplinas da magia negra, especializada em distorcer o tangível e transitar o [[_wiki/cosmologia/plano_etereo\|plano etéreo]]. Sua pergunta central, "isso é real?", a distingue de [[_wiki/escolas/psycho\|Psycho]], que pergunta "isso é meu pensamento?", e de [[_wiki/escolas/hypno\|Hypno]], que pergunta "estou acordado?".
+Spectro é a escola híbrida de preto e azul que engana a percepção sem alterar a realidade. Cria estímulos sensoriais falsos que existem apenas nos sentidos de quem observa, e é uma das disciplinas da magia negra, especializada em distorcer o tangível e transitar o [[_wiki/cosmologia/plano_etereo\|plano etéreo]]. Sua pergunta central, “isso é real?”, a distingue de [[_wiki/escolas/psycho\|Psycho]], que pergunta “isso é meu pensamento?”, e de [[_wiki/escolas/hypno\|Hypno]], que pergunta “estou acordado?”.
 
 ### Princípio
 
@@ -18,14 +18,18 @@ Evanescência apaga o conjurador da percepção visual não por escuridão nem p
 
 Intangibilidade desloca o conjurador parcialmente para o plano etéreo, em um corpo translúcido que paredes, lâminas e projéteis atravessam, mas que tampouco pode tocar nada no plano material. Limbo é a escala máxima da escola: força o alvo para o espaço entre os planos, nem material nem etéreo, onde o mundo aparece como vidro fosco e nada responde ao toque. Retornar de lá exige intervenção externa.
 
+### Patrono
+
+O patrono divino da escola é [[_wiki/panteao/ulravaeth\|Ulravaeth]], o Custódio do Entre, nomeado deus negro do Spectro. Ulravaeth divide o Entre, o plano etéreo, com as potências azuis, e é pela metade negra dele que o [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta e treina seus praticantes.
+
 ### Combinações
 
 Com [[_wiki/escolas/phobos\|Phobos]], a Miragem fornece o cenário sensorial completo enquanto o Assombro garante que ele confirme os piores medos do alvo, produzindo um terror que não pode ser desacreditado. Com Psycho, a Fabulação implanta a memória falsa enquanto o Simulacro a confirma visualmente, e o alvo não apenas vê o que não existe, mas lembra de tê-lo visto. Com [[_wiki/escolas/aero\|Aero]], a Ressonância carrega ilusões sonoras com fidelidade física a distâncias absurdas. Com [[_wiki/escolas/cosmo\|Cosmo]], a Evanescência apaga a presença do atacante enquanto a Suspensão flutua o alvo desorientado no instante da surpresa.
 
 ### Custos
 
-O custo temático é a translucidez parcial: o conjurador torna-se brevemente etéreo contra a própria vontade, por um período de um minuto a uma hora. O custo ontológico é a dúvida epistemológica. No primeiro estágio, há dúvida ocasional sobre o que se viu; no segundo, o praticante toca objetos para confirmar sua solidez; no terceiro, memória e percepção tornam-se categorias instáveis; no quarto, torna-se impossível distinguir experiência de ilusão, e tudo passa a ser suspeito. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como [[_wiki/organizacoes/ophideias\|Ophideias]] até o terceiro estágio e isola o quarto para a função de verificar ilusões de outros, na qual a paranoia epistemológica vira ferramenta.
+O custo temático é a translucidez parcial: o conjurador torna-se brevemente etéreo contra a própria vontade, por um período de um minuto a uma hora. O custo ontológico é a dúvida epistemológica. No primeiro estágio, há dúvida ocasional sobre o que se viu; no segundo, o praticante toca objetos para confirmar sua solidez; no terceiro, memória e percepção tornam-se categorias instáveis; no quarto, torna-se impossível distinguir experiência de ilusão, e tudo passa a ser suspeito. O Império recruta praticantes como [[_wiki/organizacoes/ophideias\|Ophideias]] até o terceiro estágio e isola o quarto para a função de verificar ilusões de outros, na qual a paranoia epistemológica vira ferramenta.
 
 ### Par antagônico
 
-O oposto de Spectro é [[_wiki/escolas/morpho\|Morpho]], e a distinção entre os dois é a que separa o parecer do ser. Spectro engana a percepção com uma imagem que pode ser desmascarada, enquanto Morpho altera a realidade com uma transformação que resiste ao escrutínio. O custo ontológico é espelhado: Spectro pergunta "isso é real?" e Morpho pergunta "quem sou eu?", dúvida sobre a percepção contra dúvida sobre a identidade.
+O oposto de Spectro é [[_wiki/escolas/morpho\|Morpho]], e a distinção entre os dois é a que separa o parecer do ser. Spectro engana a percepção com uma imagem que pode ser desmascarada, enquanto Morpho altera a realidade com uma transformação que resiste ao escrutínio. O custo ontológico é espelhado: Spectro pergunta “isso é real?” e Morpho pergunta “quem sou eu?”, dúvida sobre a percepção contra dúvida sobre a identidade.

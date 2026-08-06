@@ -4,7 +4,7 @@
 
 # Zanzer
 
-Zanzer, conhecido como Veneno Púrpura, foi conselheiro do [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]] antes de cair em desgraça. Mantinha ligações com a [[_wiki/organizacoes/serpente_purpura\|Serpente Púrpura]] e estava envolvido no tráfico ilegal de elfos. Hoje é prisioneiro, mantido no [[_wiki/locais/coracao_oco\|Coração Oco]] de [[_wiki/locais/ghol_drokh\|Ghol'Drokh]].
+Zanzer, conhecido como Veneno Púrpura, foi conselheiro do [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]] antes de cair em desgraça. Mantinha ligações com a [[_wiki/organizacoes/serpente_purpura\|Serpente Púrpura]] e estava envolvido no tráfico ilegal de elfos. Hoje é prisioneiro, mantido no [[_wiki/locais/coracao_oco\|Coração Oco]] de [[_wiki/locais/ghol_drokh\|Ghol’Drokh]].
 
 ### Queda
 

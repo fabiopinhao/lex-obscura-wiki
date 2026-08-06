@@ -4,7 +4,7 @@
 
 # Spina Lexis
 
-A Spina Lexis, a "Coluna da Lei", é o cetro judicial portado por cada [[_wiki/organizacoes/justiciars\|Justiciar]] do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Entregue na Unção que ordena o juiz, é instrumento de interrogatório, sentença e execução ritual, e amplifica as magias sombrias de quem o empunha.
+A Spina Lexis, a “Coluna da Lei”, é o cetro judicial portado por cada [[_wiki/organizacoes/justiciares\|Justiciar]] do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Entregue na Unção que ordena o juiz, é instrumento de interrogatório, sentença e execução ritual, e amplifica as magias sombrias de quem o empunha.
 
 ### Nomenclatura
 
@@ -16,11 +16,11 @@ O nome opera em duas imagens. Como coluna arquitetônica, o cetro sustenta a est
 
 ### Composição
 
-O núcleo é pedra lunar extraída das cavernas sagradas de [[_wiki/locais/xarn_aroth\|Xarn'Aroth]], escolhida pela ressonância com magias negras. Fragmentos ósseos, relíquias dos primeiros traidores executados pelo culto, foram incorporados à haste. Runas gravadas em espiral descendente trazem trechos do [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] em escrita microscópica.
+O núcleo é pedra lunar extraída das cavernas sagradas de [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], escolhida pela ressonância com magias negras. Fragmentos ósseos, relíquias dos primeiros traidores executados pelo culto, foram incorporados à haste. Runas gravadas em espiral descendente trazem trechos do [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] em escrita microscópica.
 
 ### Vinculação
 
-Durante a ordenação, o cetro é apresentado ao novo Justiciar com a fórmula "Spina Lexis. Canalem voluntatis. Percute, dirige, sentencia.", que o consagra como canal de vontade e nomeia a tríade de seus poderes. A partir daí, responde apenas ao toque de seu juiz designado; quem mais tente empunhá-lo experimenta dor lancinante e, em casos extremos, paralisia.
+Durante a ordenação, o cetro é apresentado ao novo Justiciar com a fórmula “Spina Lexis. Canalem voluntatis. Percute, dirige, sentencia.”, que o consagra como canal de vontade e nomeia a tríade de seus poderes. A partir daí, responde apenas ao toque de seu juiz designado; quem mais tente empunhá-lo experimenta dor lancinante e, em casos extremos, paralisia.
 
 ### Poderes
 

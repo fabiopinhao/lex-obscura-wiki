@@ -4,7 +4,7 @@
 
 # Veredictum Exkarthon
 
-O Veredictum Exkarthon é um instrumento jurídico extremo que precede ações armadas sob autoridade do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]]. Constitui uma das pouquíssimas proteções processuais no sistema judicial do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], onde a sentença do [[_wiki/organizacoes/justiciars\|Justiciar]] tende a ser soberana e imediata. É, porém, proteção de casta: somente um Lorde Sombrio, [[_wiki/racas/shadar\|shadar]] de alta hierarquia, pode invocá-lo.
+O Veredictum Exkarthon é um instrumento jurídico extremo que precede ações armadas sob autoridade do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]]. Constitui uma das pouquíssimas proteções processuais no sistema judicial do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], onde a sentença do [[_wiki/organizacoes/justiciares\|Justiciar]] tende a ser soberana e imediata. É, porém, proteção de casta: somente um Lorde Sombrio, [[_wiki/racas/shadar\|shadar]] de alta hierarquia, pode invocá-lo.
 
 ### Natureza
 

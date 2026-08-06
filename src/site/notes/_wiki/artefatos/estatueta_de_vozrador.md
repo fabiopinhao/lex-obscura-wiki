@@ -4,7 +4,7 @@
 
 # Estatueta de Vozrador
 
-A Estatueta de [[_wiki/panteao/vozrador\|Vozrador]] é uma relíquia cúltica de obsidiana, efígie devocional do diabo aprisionado. Suas linhas lembram as iluminuras dos [[_wiki/cosmologia/maleficariums\|Maleficariums]], os códices demonológicos compilados em [[_wiki/locais/therion\|Therion]] durante a [[_wiki/conceitos/primeira_era\|Primeira Era]], o que sugere origem pré-imperial.
+A Estatueta de [[_wiki/panteao/vozrador\|Vozrador]] é uma relíquia cúltica de obsidiana, efígie devocional do diabo aprisionado. Suas linhas lembram as iluminuras dos [[_wiki/cosmologia/maleficarios\|Maleficários]], os códices demonológicos compilados em [[_wiki/locais/therion\|Therion]] durante a [[_wiki/conceitos/primeira_era\|Primeira Era]], o que sugere origem pré-imperial.
 
 ### Propriedades
 

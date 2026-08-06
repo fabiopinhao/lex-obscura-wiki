@@ -4,11 +4,11 @@
 
 # Maledictus Fidejussor
 
-Maledictus fidejussor, a "maldição-fiadora" (em português, *maldição-garantia*), é um encantamento contratual que funciona como uma apólice viva: amarra magicamente o portador ao cumprimento das cláusulas de um contrato, e a violação dispara penalidades progressivas. É um instrumento de coerção mágica usado para garantir serviço, sigilo e pagamento.
+Maledictus fidejussor, a “maldição-fiadora” (em português, *maldição-garantia*), é um encantamento contratual que funciona como uma apólice viva: amarra magicamente o portador ao cumprimento das cláusulas de um contrato, e a violação dispara penalidades progressivas. É um instrumento de coerção mágica usado para garantir serviço, sigilo e pagamento.
 
 ### Esferas de Aplicação
 
-A mecânica é uma só, mas serve a duas finalidades institucionais distintas, separadas pela autoridade que a impõe. Na esfera pública e judicial recebe o nome de *Stigma Damnati*, a "Marca do Condenado", imposta por sentença do [[_wiki/organizacoes/tribunal_de_morvgrad\|Tribunal de Morvgrad]] como pena vinculante que amarra o condenado ao cumprimento de sua punição. Na esfera privada e contratual é o maledictus fidejussor propriamente dito: vínculos de serviço e subjugação firmados fora da via judicial, como contratos de serviços sensíveis, subjugação de escravos, cobrança de inadimplentes e garantia de entrega e sigilo. O feitiço é o mesmo; muda o objetivo e quem o impõe.
+A mecânica é uma só, mas serve a duas finalidades institucionais distintas, separadas pela autoridade que a impõe. Na esfera pública e judicial recebe o nome de *Stigma Damnati*, a “Marca do Condenado”, imposta por sentença do [[_wiki/organizacoes/tribunal_de_morvgrad\|Tribunal de Morvgrad]] como pena vinculante que amarra o condenado ao cumprimento de sua punição. Na esfera privada e contratual é o maledictus fidejussor propriamente dito: vínculos de serviço e subjugação firmados fora da via judicial, como contratos de serviços sensíveis, subjugação de escravos, cobrança de inadimplentes e garantia de entrega e sigilo. O feitiço é o mesmo; muda o objetivo e quem o impõe.
 
 ### Origem
 

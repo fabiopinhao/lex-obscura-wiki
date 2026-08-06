@@ -12,6 +12,6 @@ Antes do incêndio de Lendalas, Ghur e diversos orcs foram encontrados pendurado
 
 ### Memória e Legado
 
-A morte de Ghur explica o rancor pessoal e contido de Grothar pelos elfos, cicatriz de uma perda real, e o alerta visceral que florestas élficas como [[_wiki/locais/thal_serin\|Thal'Serin]] despertam nele.
+A morte de Ghur explica o rancor pessoal e contido de Grothar pelos elfos, cicatriz de uma perda real, e o alerta visceral que florestas élficas como [[_wiki/locais/thal_serin\|Thal’Serin]] despertam nele.
 
 Ghur era mais que soldado. Recitava os Cantos de Grasnak e foi quem primeiro mostrou ao irmão que um orc podia guardar mais que raiva: a erudição que Grothar depois confessa a [[_wiki/personagens/syndrith_morghast\|Syndrith]], saber ler runas antigas e conhecer os Cantos, tem nele a origem.

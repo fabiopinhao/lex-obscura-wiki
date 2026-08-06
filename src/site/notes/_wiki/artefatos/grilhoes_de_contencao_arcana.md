@@ -8,8 +8,8 @@ Os Grilhões de Contenção Arcana são correntes de contenção infundidas com 
 
 ### Função
 
-Suprimem a magia em vez de anulá-la, bloqueando o fluxo do [[_wiki/cosmologia/plano_etereo\|plano etéreo]] de quem prendem. Resistir a eles além do ponto de ruptura óssea não os rompe: a carne cede antes do metal. São usados em [[_wiki/locais/mor_severith\|Mor'Severith]] para conter hóspedes perigosos.
+Suprimem a magia em vez de anulá-la, bloqueando o fluxo do [[_wiki/cosmologia/plano_etereo\|plano etéreo]] de quem prendem. Resistir a eles além do ponto de ruptura óssea não os rompe: a carne cede antes do metal. São usados em [[_wiki/locais/mor_severith\|Mor’Severith]] para conter hóspedes perigosos.
 
 ### Uso
 
-Prendem [[_wiki/personagens/thrax\|Thrax]], [[_wiki/racas/draconideo\|draconídeo]] do [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr'vethan]], que os usa em conjunto com uma focinheira metálica destinada a impedir o sopro de fogo. [[_wiki/personagens/odran\|Odran]], o [[_wiki/racas/minotauro\|minotauro]] bibliotecário, certa vez tentou rompê-los por curiosidade empírica, sem sucesso.
+Prendem [[_wiki/personagens/thrax\|Thrax]], [[_wiki/racas/draconideo\|draconídeo]] do [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr’vethan]], que os usa em conjunto com uma focinheira metálica destinada a impedir o sopro de fogo. [[_wiki/personagens/odran\|Odran]], o [[_wiki/racas/minotauro\|minotauro]] bibliotecário, certa vez tentou rompê-los por curiosidade empírica, sem sucesso.

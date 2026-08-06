@@ -8,7 +8,7 @@ Gholvyss é a língua primordial dos proto-[[_wiki/racas/drul\|druls]] e a prime
 
 ### Som e atmosfera
 
-O ritmo é ondulante, com frases que se curvam em espiral como serpentes. No registro cotidiano, a língua é densa e rápida, ajustada aos corredores de pedra onde a economia de som é uma forma de sobrevivência. No registro mágico, desacelera: alonga as sibilantes e acrescenta vibrações guturais profundas que ressoam nas paredes do [[_wiki/locais/vor-ghol\|Vor-Ghol]] como se a própria rocha participasse da invocação. Na superfície, longe da pedra úmida, perde parte da reverberação e soa mais seco e cortante. Entre seus sons exclusivos estão cliques sublinguais, fricativas laterais e uma classe de vibrantes sussurradas chamadas *vyssim*.
+O ritmo é ondulante, com frases que se curvam em espiral como serpentes. No registro cotidiano, a língua é densa e rápida, ajustada aos corredores de pedra onde a economia de som é uma forma de sobrevivência. No registro mágico, desacelera: alonga as sibilantes e acrescenta vibrações guturais profundas que ressoam nas paredes de [[_wiki/locais/vor-ghol\|Vor-Ghol]] como se a própria rocha participasse da invocação. Na superfície, longe da pedra úmida, perde parte da reverberação e soa mais seco e cortante. Entre seus sons exclusivos estão cliques sublinguais, fricativas laterais e uma classe de vibrantes sussurradas chamadas *vyssim*.
 
 ### Registros
 

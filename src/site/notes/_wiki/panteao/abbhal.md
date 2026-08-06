@@ -12,7 +12,7 @@ Abbhal não escolheu cair. Quando os humanos que participaram do massacre dos [[
 
 ### Domínio
 
-Seu domínio está na interseção entre regra e sentença, partilhado entre [[_wiki/escolas/nomos\|Nomos]] e [[_wiki/escolas/electro\|Electro]]. Nomos fixa a transgressão: identifica e sela. Electro responde com descarga. O vínculo já contém o veredicto, e a mediação é supérflua: não há tribunal sob Abbhal, não há defesa ou apelação. A regra é declarada e o raio cai. Onde [[_wiki/panteao/corvanthos\|Corvanthos]] impõe sentença unilateral e [[_wiki/panteao/gul_vakresh\|Gul'Vakresh]] vincula e consome, Abbhal declara e executa no mesmo gesto.
+Seu domínio está na interseção entre regra e sentença, partilhado entre [[_wiki/escolas/nomos\|Nomos]] e [[_wiki/escolas/electro\|Electro]]. Nomos fixa a transgressão: identifica e sela. Electro responde com descarga. O vínculo já contém o veredicto, e a mediação é supérflua: não há tribunal sob Abbhal, não há defesa ou apelação. A regra é declarada e o raio cai. Onde [[_wiki/panteao/corvanthos\|Corvanthos]] impõe sentença unilateral e [[_wiki/panteao/gul_vakresh\|Gul’Vakresh]] vincula e consome, Abbhal declara e executa no mesmo gesto.
 
 ### Graça Profanada
 
@@ -24,4 +24,4 @@ Abbhal ocupa posição singular no Conselho dos 12. Sua origem angelical lhe con
 
 ### O Guerreiro que Virou Juiz
 
-Antes da queda, Abbhal era senhor das batalhas, o anjo cuja guerra justa se media pelo raio. A partição o transfigurou em juiz supremo, o Deus da Justiça entre os cultistas, e o Electro que outrora abria combate passou a fechar sentenças. Essa passagem, de guerreiro a juiz, é o próprio molde dos [[_wiki/organizacoes/justiciars\|Justiciars]], que a reencenam na ordenação, invocando o julgamento de Abbhal. Em sua forma mais extrema, esse julgamento desce sobre o condenado marcado com o [[_wiki/conceitos/sigilo_de_abbhal\|Sigilo de Abbhal]], a sentença máxima do tribunal imperial, na qual a projeção do diabo sela a alma dentro do corpo vivo.
+Antes da queda, Abbhal era senhor das batalhas, o anjo cuja guerra justa se media pelo raio. A partição o transfigurou em juiz supremo, o Deus da Justiça entre os cultistas, e o Electro que outrora abria combate passou a fechar sentenças. Essa passagem, de guerreiro a juiz, é o próprio molde dos [[_wiki/organizacoes/justiciares\|Justiciares]], que a reencenam na ordenação, invocando o julgamento de Abbhal. Em sua forma mais extrema, esse julgamento desce sobre o condenado marcado com o [[_wiki/conceitos/sigilo_de_abbhal\|Sigilo de Abbhal]], a sentença máxima do tribunal imperial, na qual a projeção do diabo sela a alma dentro do corpo vivo.

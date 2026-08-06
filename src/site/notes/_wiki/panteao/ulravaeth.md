@@ -4,7 +4,7 @@
 
 # Ulravaeth
 
-Ulravaeth, a Sombra Gêmea, é o Custódio do Entre: o diabo que guarda os limiares entre os planos. Deus de fundo do panteão, governa pelas escolas de [[_wiki/escolas/spectro\|Spectro]] e [[_wiki/escolas/umbra\|Umbra]] e habita os estados intermediários entre a vigília e o sono, a vida e a morte.
+Ulravaeth, a Sombra Gêmea, é o Custódio do Entre: o diabo que guarda os limiares entre os planos. Deus de fundo do panteão, governa pelas escolas de [[_wiki/escolas/spectro\|Spectro]] e [[_wiki/escolas/umbra\|Umbra]] e habita os estados intermediários entre a vigília e o sono, a vida e a morte. É nomeado deus negro do Spectro, escola de que é patrono, e divide o Entre, o [[_wiki/cosmologia/plano_etereo\|plano etéreo]], com as potências azuis.
 
 ### Manifestação
 
@@ -12,7 +12,7 @@ Ulravaeth se manifesta como duas silhuetas idênticas, uma voltada para o observ
 
 ### Domínio
 
-Ulravaeth governa os limiares, espaços onde a vigília se confunde com o sono e os mortos ainda não sabem que morreram. Suas ilusões funcionam por subtração: apagam referências e dissolvem certezas até que a mente perca toda âncora para distinguir o real do projetado. Quem entra em seu domínio não vê coisas que não existem, mas deixa de ver coisas que existem. A sinergia entre as escolas reforça o método: Umbra anima sombras reais e Spectro projeta ilusões sobre elas, produzindo sombras detalhadas, capazes de simular soldados ou o próprio alvo. Os [[_wiki/racas/drul\|Druls]] do [[_wiki/locais/vor-ghol\|Vor-Ghol]] empregam essa combinação como desinformação tática.
+Ulravaeth governa os limiares, espaços onde a vigília se confunde com o sono e os mortos ainda não sabem que morreram. Suas ilusões funcionam por subtração: apagam referências e dissolvem certezas até que a mente perca toda âncora para distinguir o real do projetado. Quem entra em seu domínio não vê coisas que não existem, mas deixa de ver coisas que existem. O Custódio se alimenta da incerteza de quem perdeu a capacidade de confirmar que ainda está vivo. A sinergia entre as escolas reforça o método: Umbra anima sombras reais e Spectro projeta ilusões sobre elas, produzindo sombras detalhadas, capazes de simular soldados ou o próprio alvo. Os [[_wiki/racas/drul\|Druls]] de [[_wiki/locais/vor-ghol\|Vor-Ghol]] empregam essa combinação como desinformação tática.
 
 ### Função no Panteão
 

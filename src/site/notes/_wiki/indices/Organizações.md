@@ -19,12 +19,12 @@ O Império funciona porque cada engrenagem acredita ser indispensável. Nenhuma 
 
 ## Justiça e Ordem
 
-- [[_wiki/organizacoes/justiciars\|Justiciars]] — Braço judiciário, juízes com poder de vida e morte
+- [[_wiki/organizacoes/justiciares\|Justiciares]] — Braço judiciário, juízes com poder de vida e morte
 - [[_wiki/organizacoes/tribunal_de_morvgrad\|Tribunal de Morvgrad]] — Corte suprema do Culto, três níveis
 
 ## Ordens Militares e Sacerdotais
 
-- [[_wiki/organizacoes/templarios\|Templários]] — Antiga ordem militar-religiosa, enfraquecida pelos Justiciars
+- [[_wiki/organizacoes/templarios\|Templários]] — Antiga ordem militar-religiosa, enfraquecida pelos Justiciares
 - [[_wiki/organizacoes/ophideias\|Ophideias]] — Sacerdotisas espiãs-assassinas drul
 
 ## Cultos e Facções Religiosas
@@ -36,13 +36,13 @@ O Império funciona porque cada engrenagem acredita ser indispensável. Nenhuma 
 
 ## Casas Nobres e Clãs
 
-- [[_wiki/organizacoes/casa_duskryn\|Casa Duskryn]] — Casa Matriarcal drul, governança de Ghilanna
+- [[_wiki/organizacoes/casa_durzken\|Casa Durzken]] — Casa Matriarcal drul, governança de Ghilanna
 - [[_wiki/organizacoes/casa_morghast\|Casa Morghast]] — Casa Matriarcal menor, guarda dos Portões de Ghilanna
-- [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr'Vethan]] — Clã draconídeo de Varnak, busca recuperar a Fendris perdida para Nidzina
+- [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr’Vethan]] — Clã draconídeo de Varnak, busca recuperar a Fendris perdida para Nidzina
 
 ## Sociedades Secretas e Resistência
 
-- [[_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal'Serin]] — Sylvanos livres e humanos refugiados
+- [[_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal’Serin]] — Sylvanos livres e humanos refugiados
 - [[_wiki/organizacoes/serpente_purpura\|Serpente Púrpura]] — Crime organizado, tráfico de artefatos e contrabando
 - [[_wiki/organizacoes/ordo_zathar\|Ordo Zathar]] — Sociedade secreta de inspiração templária; bandeira de restauração de prerrogativas religiosas e de uma ordem menos subordinada ao monarca
 
@@ -50,8 +50,8 @@ O Império funciona porque cada engrenagem acredita ser indispensável. Nenhuma 
 
 - [[_wiki/organizacoes/circulos_de_khargoth\|Círculos de Khargoth]] — Academia arcana, sistema hierárquico de conhecimento
 - [[_wiki/organizacoes/guilda_dos_gnomos\|Guilda dos Gnomos]] — Crime organizado, mercado negro e falsificação
-- [[_wiki/organizacoes/khelg_dur\|Khelg'Dur]] — Casa comercial karashim, caravanas de isópodes em Vor-Ghol
-- [[_wiki/organizacoes/tradicao_de_sirana\|Tradição de Sirana]] — Disciplina contemplativa que forma as svirfins para o Meditatio Aetheris, nas cidadelas frenim
+- [[_wiki/organizacoes/khelg_dur\|Khelg’Dur]] — Casa comercial karashim, caravanas de isópodes em Vor-Ghol
+- [[_wiki/organizacoes/tradicao_de_sirana\|Tradição de Sirana]] — Disciplina contemplativa que forma as nalvirins para o Meditatio Aetheris, nas cidadelas frenim
 
 ---
 

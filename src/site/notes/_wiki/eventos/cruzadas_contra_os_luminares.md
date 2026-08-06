@@ -8,7 +8,7 @@ As Cruzadas contra os Luminares foram a guerra racial continental que, ao longo 
 
 ### Origem
 
-Os humanos existiam às margens da civilização [[_wiki/linguas/luminar\|luminar]], em tribos dispersas que ocupavam as planícies centrais de [[_wiki/locais/reinkard\|Reinkard]], onde solos férteis alimentavam populações crescentes. Os Luminares ergueram barreiras mágicas e encantamentos dissuasivos, vendo nos recém-chegados uma espécie rude e perigosamente volúvel, enquanto os humanos admiravam a magia élfica com a mesma intensidade com que a temiam. A maioria dos humanos abandonou os modos tribais e concentrou-se em cidades muradas, passando a guerrear entre si no coração de Reinkard enquanto os elfos mantinham seu isolamento.
+Os humanos existiam às margens da civilização [[_wiki/racas/luminares\|luminar]], em tribos dispersas que ocupavam as planícies centrais de [[_wiki/locais/reinkard\|Reinkard]], onde solos férteis alimentavam populações crescentes. Os Luminares ergueram barreiras mágicas e encantamentos dissuasivos, vendo nos recém-chegados uma espécie rude e perigosamente volúvel, enquanto os humanos admiravam a magia élfica com a mesma intensidade com que a temiam. A maioria dos humanos abandonou os modos tribais e concentrou-se em cidades muradas, passando a guerrear entre si no coração de Reinkard enquanto os elfos mantinham seu isolamento.
 
 ### O sistema Sancta
 

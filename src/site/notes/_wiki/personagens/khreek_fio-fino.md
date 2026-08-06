@@ -4,7 +4,7 @@
 
 # Khreek Fio-Fino
 
-Khreek Fio-Fino, ou simplesmente Khreek, é um [[_wiki/racas/derro\|derro]] miúdo da caravana [[_wiki/organizacoes/khelg_dur\|Khelg'Dur]], um daqueles que vivem de cruzar o escuro do [[_wiki/locais/vor-ghol\|Vor-Ghol]] e voltar inteiro. Tagarela ao ponto da compulsão, derrama palavras como quem não consegue parar de respirar, e há quem desconfie que o próprio nome seja uma invenção de ocasião, costurada para escapar de alguma encrenca.
+Khreek Fio-Fino, ou simplesmente Khreek, é um [[_wiki/racas/derro\|derro]] miúdo da caravana [[_wiki/organizacoes/khelg_dur\|Khelg’Dur]], um daqueles que vivem de cruzar o escuro de [[_wiki/locais/vor-ghol\|Vor-Ghol]] e voltar inteiro. Tagarela ao ponto da compulsão, derrama palavras como quem não consegue parar de respirar, e há quem desconfie que o próprio nome seja uma invenção de ocasião, costurada para escapar de alguma encrenca.
 
 ### Aparência
 
@@ -12,7 +12,7 @@ Khreek Fio-Fino, ou simplesmente Khreek, é um [[_wiki/racas/derro\|derro]] miú
 
 ### Origem e ofício
 
-Pertence à Khelg'Dur e conhece as profundezas como poucos. Seu trabalho é ler o que o subterrâneo escreve para quem sabe enxergar: os avisos de escoramento, que dizem onde a rocha aguenta e onde cede, e as marcações de trânsito, que apontam por qual galeria a carga passa em segurança. Decifra os sinais riscados nas paredes das galerias e os entalhes nos batentes de pedra, lê a tinta de pedágio que sela cada cruzamento e confere a contagem de fardos contra o que o entalhe declara. Num lugar onde um teto mal lido sepulta uma caravana inteira, esse saber vale ouro, e qualquer comboio que desça ao Vor-Ghol faz bem em levar consigo alguém capaz de decifrá-lo.
+Pertence à Khelg’Dur e conhece as profundezas como poucos. Seu trabalho é ler o que o subterrâneo escreve para quem sabe enxergar: os avisos de escoramento, que dizem onde a rocha aguenta e onde cede, e as marcações de trânsito, que apontam por qual galeria a carga passa em segurança. Decifra os sinais riscados nas paredes das galerias e os entalhes nos batentes de pedra, lê a tinta de pedágio que sela cada cruzamento e confere a contagem de fardos contra o que o entalhe declara. Num lugar onde um teto mal lido sepulta uma caravana inteira, esse saber vale ouro, e qualquer comboio que desça a Vor-Ghol faz bem em levar consigo alguém capaz de decifrá-lo.
 
 ### Voz
 

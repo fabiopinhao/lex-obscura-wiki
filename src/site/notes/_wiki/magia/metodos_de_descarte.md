@@ -8,13 +8,13 @@ Métodos de Descarte é o nome do conjunto de procedimentos pelos quais o aparat
 
 ### Categorias
 
-O Isolamento Funcional, registrado como "Recolhimento", é o confinamento permanente de um praticante que ainda guarda utilidade residual. O Redirecionamento Letal, a "Missão de Honra", é uma tarefa suicida disfarçada de privilégio. A Neutralização Ritual, ou "Consagração Final", é uma execução cerimonial com extração de [[_wiki/cosmologia/magi\|magi]]. O Desaparecimento Administrativo, a "Transferência", é a eliminação silenciosa sem registro. A Contenção Perpétua, chamada "Vigília Eterna", suspende o praticante entre a vida e a morte.
+O Isolamento Funcional, registrado como “Recolhimento”, é o confinamento permanente de um praticante que ainda guarda utilidade residual. O Redirecionamento Letal, a “Missão de Honra”, é uma tarefa suicida disfarçada de privilégio. A Neutralização Ritual, ou “Consagração Final”, é uma execução cerimonial com extração de [[_wiki/cosmologia/magi\|magi]]. O Desaparecimento Administrativo, a “Transferência”, é a eliminação silenciosa sem registro. A Contenção Perpétua, chamada “Vigília Eterna”, suspende o praticante entre a vida e a morte.
 
 ### Protocolos
 
-A Consagração Final convoca o praticante ao templo sob pretexto cerimonial, impõe um jejum ritual de três dias enquanto ele acredita estar sendo elevado, drena seu magi por necromantes especializados e termina em morte por exsanguinação, com o sangue aproveitado em artefatos imperiais. O registro oficial fala em "ascensão espiritual" ou "martírio em serviço".
+A Consagração Final convoca o praticante ao templo sob pretexto cerimonial, impõe um jejum ritual de três dias enquanto ele acredita estar sendo elevado, drena seu magi por necromantes especializados e termina em morte por exsanguinação, com o sangue aproveitado em artefatos imperiais. O registro oficial fala em “ascensão espiritual” ou “martírio em serviço”.
 
-A Missão de Honra seleciona o praticante para uma missão de prestígio, entrega um briefing incompleto com objetivo aparentemente alcançável e o lança contra resistência desproporcional ou uma armadilha. O corpo raramente é recuperado, e o nome vai para um memorial como "caído em serviço com honra".
+A Missão de Honra seleciona o praticante para uma missão de prestígio, entrega um briefing incompleto com objetivo aparentemente alcançável e o lança contra resistência desproporcional ou uma armadilha. O corpo raramente é recuperado, e o nome vai para um memorial como “caído em serviço com honra”.
 
 A Transferência notifica o praticante de uma realocação e o perde durante o trânsito, sob escolta. O corpo nunca é encontrado, e a investigação fica inconclusiva.
 

@@ -20,7 +20,7 @@ O olfato é o sentido dominante. Worgs detectam emoções pelo cheiro, o que os 
 
 ### Psicologia
 
-Cada decisão de um worg é um conflito entre instinto e intelecto, e muitos desenvolvem personalidades compartimentalizadas. Rejeitados pelas bestas, por terem o cheiro errado, e pelos humanoides, por terem a aparência errada, carregam uma solidão fundamental. Sem uma sociedade que os proteja, desenvolveram pragmatismo extremo e flexibilidade moral, e muitos exploram o status de marginalizados como vantagem, pois ninguém suspeita que o "animal" no canto entende conversas complexas. O humor negro lhes serve de armadura: riem da própria condição e da pretensão de superioridade moral das outras raças.
+Cada decisão de um worg é um conflito entre instinto e intelecto, e muitos desenvolvem personalidades compartimentalizadas. Rejeitados pelas bestas, por terem o cheiro errado, e pelos humanoides, por terem a aparência errada, carregam uma solidão fundamental. Sem uma sociedade que os proteja, desenvolveram pragmatismo extremo e flexibilidade moral, e muitos exploram o status de marginalizados como vantagem, pois ninguém suspeita que o “animal” no canto entende conversas complexas. O humor negro lhes serve de armadura: riem da própria condição e da pretensão de superioridade moral das outras raças.
 
 ### Sociedade e a Skuld
 
@@ -42,4 +42,4 @@ Os worgs acessam a magia pelo [[_wiki/magia/pactum_diaboli\|Pactum Diaboli]], ma
 
 ### Voz
 
-Os worgs falam com pragmatismo e ironia cansada, dizendo a verdade embalada como piada ou mentindo com naturalidade tamanha que a distinção perde sentido. As frases são curtas, mas terminam sempre insinuando algo que não vão dizer, e o vocabulário transacional da skuld atravessa até os contextos emocionais. Quando nervosos ou ameaçados, a sintaxe se fragmenta e surgem sons guturais involuntários, a forma canina sangrando na fala. Evitam a palavra "casa", que não possuem, e a substituem por "toca", "canto" ou "chão".
+Os worgs falam com pragmatismo e ironia cansada, dizendo a verdade embalada como piada ou mentindo com naturalidade tamanha que a distinção perde sentido. As frases são curtas, mas terminam sempre insinuando algo que não vão dizer, e o vocabulário transacional da skuld atravessa até os contextos emocionais. Quando nervosos ou ameaçados, a sintaxe se fragmenta e surgem sons guturais involuntários, a forma canina sangrando na fala. Evitam a palavra “casa”, que não possuem, e a substituem por “toca”, “canto” ou “chão”.

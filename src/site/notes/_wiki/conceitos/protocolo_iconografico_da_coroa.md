@@ -4,7 +4,7 @@
 
 # Protocolo Iconográfico da Coroa
 
-O Protocolo Iconográfico da Coroa é o decreto pelo qual [[_wiki/personagens/arothistar\|Arothistar]] substituiu sua presença física por uma onipresença simbólica em [[_wiki/locais/morvgrad\|Morvgrad]]. Instituído após o monarca recolher-se definitivamente à torre de [[_wiki/locais/mor_severith\|Mor'Severith]], determina que efígies do soberano saiam da torre de tempos em tempos e sejam colocadas em pontos relevantes da cidade.
+O Protocolo Iconográfico da Coroa é o decreto pelo qual [[_wiki/personagens/arothistar\|Arothistar]] substituiu sua presença física por uma onipresença simbólica em [[_wiki/locais/morvgrad\|Morvgrad]]. Instituído após o monarca recolher-se definitivamente à torre de [[_wiki/locais/mor_severith\|Mor’Severith]], determina que efígies do soberano saiam da torre de tempos em tempos e sejam colocadas em pontos relevantes da cidade.
 
 ### Contexto
 
@@ -12,9 +12,9 @@ Com a queda de [[_wiki/locais/myrgarde\|Myrgarde]], há cerca de trinta anos, Ar
 
 ### Conduítes de Onipresença
 
-As efígies não são mera decoração: funcionam como conduítes de onipresença, projeções simbólicas e, em alguns casos, arcanas, da presença do monarca. A [[_wiki/artefatos/efigie_de_arothistar\|Efígie de Arothistar]] na ponte de Mor'Severith é uma estátua animada de olhos de ônix que acendem em prata, capaz de vigiar tudo entre a ponte e o [[_wiki/locais/pico_de_nethys\|Pico de Nethys]] e de replicar a voz do mestre. No Salão do Conselho Sombrio, a efígie foi erguida um palmo acima da linha dos doze [[_wiki/cosmologia/diabos\|diabos]], detalhe que [[_wiki/personagens/orum-rahru\|Orum-Rahru]] tenta racionalizar como desnível de alvenaria, mas cuja mensagem é inequívoca: o monarca se posiciona acima dos deuses.
+As efígies não são mera decoração: funcionam como conduítes de onipresença, projeções simbólicas e, em alguns casos, arcanas, da presença do monarca. A [[_wiki/artefatos/efigie_de_arothistar\|Efígie de Arothistar]] na ponte de Mor’Severith é uma estátua animada de olhos de ônix que acendem em prata, capaz de vigiar tudo entre a ponte e o [[_wiki/locais/pico_de_nethys\|Pico de Nethys]] e de replicar a voz do mestre. No Salão do Conselho Sombrio, a efígie foi erguida um palmo acima da linha dos doze [[_wiki/cosmologia/diabos\|diabos]], detalhe que [[_wiki/personagens/orum-rahru\|Orum-Rahru]] tenta racionalizar como desnível de alvenaria, mas cuja mensagem é inequívoca: o monarca se posiciona acima dos deuses.
 
-No [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]], sede das cerimônias de unção dos [[_wiki/organizacoes/justiciars\|Justiciars]], uma pintura mural de Arothistar emanou fulgor incomum durante a unção de [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh]]. A pintura da sala de banhos de Mor'Severith oferece vista direta para o mesmo templo.
+No [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]], sede das cerimônias de unção dos [[_wiki/organizacoes/justiciares\|Justiciares]], uma pintura mural de Arothistar emanou fulgor incomum durante a unção de [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh]]. A pintura da sala de banhos de Mor’Severith oferece vista direta para o mesmo templo.
 
 ### Implicações Políticas
 

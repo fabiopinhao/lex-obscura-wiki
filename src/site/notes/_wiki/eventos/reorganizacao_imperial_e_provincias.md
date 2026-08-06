@@ -20,6 +20,6 @@ A [[_wiki/locais/ventrista\|Ventrista]], centro da agricultura imperial, foi div
 
 ### As fronteiras do domínio
 
-O império não avançava sobre o continente oriental. [[_wiki/locais/neranthis\|Neranthis]] permanecia fora de alcance por pura praticidade: o clima úmido e a geografia de pântanos, lagos e rios tornavam a ocupação inviável para tropas shadar. Os [[_wiki/racas/frenim\|frenims]], humanos [[_wiki/cosmologia/siderais\|siderais]] de Neranthis, escolhiam manter distância e recuavam à medida que as sombras avançavam.
+O império não avançava sobre o continente oriental. [[_wiki/locais/neranthis\|Neranthis]] permanecia fora de alcance por pura praticidade: o clima úmido e a geografia de pântanos, lagos e rios tornavam a ocupação inviável para tropas shadar. Os [[_wiki/racas/frenim\|frenins]], humanos [[_wiki/cosmologia/siderais\|siderais]] de Neranthis, escolhiam manter distância e recuavam à medida que as sombras avançavam.
 
 A oeste, [[_wiki/locais/dorsal\|a Dorsal]] separava Reinkard de [[_wiki/locais/veinkard\|Veinkard]], e [[_wiki/personagens/varna\|Varna]] era a razão pela qual Arothistar não cruzava a cordilheira. O monarca poderia dominar os vales de [[_wiki/locais/varnak\|Varnak]], mas os [[_wiki/racas/draconideo\|draconídeos]] aliados de Varna não deixariam tal província em paz, e Morvgrad temia, acima de quase tudo, perder batalhas.

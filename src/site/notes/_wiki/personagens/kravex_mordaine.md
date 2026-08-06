@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/kravex_mordaine.md","permalink":"/wiki/personagens/kravex-mordaine/","dg-note-properties":{"tipo":"personagem","nome_atual":"Kravex Mordaine","raca":"Shadar","sexo":"M","relevancia":"Terciário","status_atual":"Morto","localizacao_atual":"—","armas_principais":"—","afiliacao_primaria":"Exércitos shadar (Guerras Reinkárdicas)","aliases":[],"ordem":74,"tags":[],"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/kravex_mordaine.md","permalink":"/wiki/personagens/kravex-mordaine/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
+# Kravex Mordaine
 
-### Perfil
-
-General histórico [[_wiki/racas/shadar\|shadar]] das Guerras Reinkárdicas. Compilou um extenso manual tático, o Strategicon, com cerca de três mil fólios.
+Kravex Mordaine foi um general histórico [[_wiki/racas/shadar\|shadar]] das [[_wiki/conceitos/guerras_reinkardicas\|Guerras Reinkárdicas]]. Compilou um extenso manual tático, o Strategicon, com cerca de três mil fólios.
 
 ### O Strategicon
 
-O Strategicon cataloga métodos de combate contra cada raça e criatura conhecida, com tabelas de armas ótimas, formações e contramedidas mágicas. É tido como canônico, mas parcialmente defasado desde a adoção [[_wiki/racas/shadar\|shadar]] dos cristais de armazenamento de [[_wiki/cosmologia/magi\|magi]].
+O Strategicon cataloga métodos de combate contra cada raça e criatura conhecida, com tabelas de armas ótimas, formações e contramedidas mágicas. É tido como canônico, mas parcialmente defasado desde a adoção shadar dos cristais de armazenamento de [[_wiki/cosmologia/magi\|magi]].
 
 ### Legado
 

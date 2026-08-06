@@ -12,7 +12,7 @@ A corrupção não destrói a floresta diretamente. Ela degrada a conexão entre
 
 ### Escala Territorial
 
-Todas as florestas titânicas de [[_wiki/locais/reinkard\|Reinkard]] sofrem com a mácula em graus variáveis, e [[_wiki/locais/thal_serin\|Thal'Serin]], a mais próxima do planalto shadar, é a mais afetada. O processo acelerou desde que [[_wiki/personagens/arothistar\|Arothistar]] consolidou seu domínio sobre Reinkard. A estratégia imperial é paciente: deixar que a corrupção crescente force os [[_wiki/racas/luminares\|Titãs]] a abandonar os santuários, expondo as florestas. Druidas observam que a mácula se fortalece com o tempo em vez de enfraquecer, o que a faz arma de cerco lento, não de batalha.
+Todas as florestas titânicas de [[_wiki/locais/reinkard\|Reinkard]] sofrem com a mácula em graus variáveis, e [[_wiki/locais/thal_serin\|Thal’Serin]], a mais próxima do planalto shadar, é a mais afetada. O processo acelerou desde que [[_wiki/personagens/arothistar\|Arothistar]] consolidou seu domínio sobre Reinkard. A estratégia imperial é paciente: deixar que a corrupção crescente force os [[_wiki/racas/luminares\|Titãs]] a abandonar os santuários, expondo as florestas. Druidas observam que a mácula se fortalece com o tempo em vez de enfraquecer, o que a faz arma de cerco lento, não de batalha.
 
 ### Escala Individual
 

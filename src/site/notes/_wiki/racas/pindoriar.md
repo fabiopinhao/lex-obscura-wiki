@@ -8,7 +8,7 @@ Pindoriar não é uma raça, mas uma condição social: a designação pejorativ
 
 ### Status Social
 
-Os pindoriares são cidadãos de segunda classe. Não possuem direitos de cidadania, não podem ocupar cargos no culto e não têm acesso formal à magia institucional, existindo numa faixa entre "tolerados" e "propriedade" que varia conforme a província e o Lorde local. Em [[_wiki/locais/morvgrad\|Morvgrad]], servem como mão de obra, criados e artesãos de baixo escalão, invisíveis por design. Nas províncias, o status oscila enormemente: em [[_wiki/locais/niedellin\|Niedellin]], sob o domínio negligente de [[_wiki/personagens/merari_d_khunvel\|Merari]], mantêm uma vida semifuncional com liderança paralela. Nos territórios rebeldes, compõem a base dos movimentos de resistência, em especial em [[_wiki/locais/thal_serin\|Thal'Serin]], onde humanos refugiados convivem com [[_wiki/racas/sylvano\|sylvanos]] livres.
+Os pindoriares são cidadãos de segunda classe. Não possuem direitos de cidadania, não podem ocupar cargos no culto e não têm acesso formal à magia institucional, existindo numa faixa entre “tolerados” e “propriedade” que varia conforme a província e o Lorde local. Em [[_wiki/locais/morvgrad\|Morvgrad]], servem como mão de obra, criados e artesãos de baixo escalão, invisíveis por design. Nas províncias, o status oscila enormemente: em [[_wiki/locais/niedellin\|Niedellin]], sob o domínio negligente de [[_wiki/personagens/merari_d_khunvel\|Merari]], mantêm uma vida semifuncional com liderança paralela. Nos territórios rebeldes, compõem a base dos movimentos de resistência, em especial em [[_wiki/locais/thal_serin\|Thal’Serin]], onde humanos refugiados convivem com [[_wiki/racas/sylvano\|sylvanos]] livres.
 
 ### Cultura de Resistência
 

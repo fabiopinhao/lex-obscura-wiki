@@ -4,11 +4,11 @@
 
 # Salão do Conselho
 
-O Salão do Conselho, também chamado Círculo Obsidiano, é uma abóbada monumental de pedra viva em [[_wiki/locais/mor_draconis\|Mor'Draconis]], dentro de [[_wiki/locais/morvgrad\|Morvgrad]], onde se reúne o [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]]. Comporta cerca de cinquenta pessoas e funciona como termômetro político do [[_wiki/organizacoes/imperio_sombrio\|Império]]: o que se debate ali define a saúde do domínio [[_wiki/racas/shadar\|shadar]].
+O Salão do Conselho, também chamado Círculo Obsidiano, é uma abóbada monumental de pedra viva em [[_wiki/locais/mor_draconis\|Mor’Draconis]], dentro de [[_wiki/locais/morvgrad\|Morvgrad]], onde se reúne o [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]]. Comporta cerca de cinquenta pessoas e funciona como termômetro político do [[_wiki/organizacoes/imperio_sombrio\|Império]]: o que se debate ali define a saúde do domínio [[_wiki/racas/shadar\|shadar]].
 
 ### O recinto
 
-No centro, uma mesa circular cerca um poço de piche que reflete as tochas com brilho oleoso, e piche antigo veda as lajes do chão. Os assentos de granito bruto, sulcados por runas ásperas, são reservados a [[_wiki/organizacoes/justiciars\|Justiciars]] e Generais, distintos dos assentos de seda e ouro destinados aos Arcontes. Uma cadeira maior, rotativa, domina a cabeceira. No teto, doze estátuas de [[_wiki/cosmologia/diabos\|diabos]] de obsidiana vigiam os debates; a décima segunda, dedicada a [[_wiki/panteao/vozrador\|Vozrador]], destaca-se pelo desgaste, em contraste com as demais. Numa das sessões, [[_wiki/personagens/orum-rahru\|Orum-Rahru]] detém o olhar na figura desgastada de Vozrador e sente a fé antiga desfazer-se junto da escultura.
+No centro, uma mesa circular cerca um poço de piche que reflete as tochas com brilho oleoso, e piche antigo veda as lajes do chão. Os assentos de granito bruto, sulcados por runas ásperas, são reservados a [[_wiki/organizacoes/justiciares\|Justiciares]] e Generais, distintos dos assentos de seda e ouro destinados aos Arcontes. Uma cadeira maior, rotativa, domina a cabeceira. No teto, doze estátuas de [[_wiki/cosmologia/diabos\|diabos]] de obsidiana vigiam os debates; a décima segunda, dedicada a [[_wiki/panteao/vozrador\|Vozrador]], destaca-se pelo desgaste, em contraste com as demais. Numa das sessões, [[_wiki/personagens/orum-rahru\|Orum-Rahru]] detém o olhar na figura desgastada de Vozrador e sente a fé antiga desfazer-se junto da escultura.
 
 ### As pautas
 

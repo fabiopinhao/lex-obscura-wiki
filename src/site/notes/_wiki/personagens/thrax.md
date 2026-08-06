@@ -4,11 +4,11 @@
 
 # Thrax
 
-Thrax é um [[_wiki/racas/draconideo\|Draconídeo]] [[_wiki/racas/sauriano\|sauriano]] marrom do [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr'vethan]], chamado o Guerreiro das Chamas Profundas. Empunha uma maça espinhosa que [[_wiki/racas/shadar\|shadars]] precisariam segurar com as duas mãos e é pactuado com [[_wiki/panteao/kaelgrym\|Kaelgrym]] desde o ovo, conforme o ritual tribal universal dos drakhonin. Atualmente encontra-se gravemente ferido e acorrentado em [[_wiki/locais/mor_severith\|Mor'Severith]].
+Thrax é um [[_wiki/racas/draconideo\|Draconídeo]] [[_wiki/racas/sauriano\|sauriano]] marrom do [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr’vethan]], chamado o Guerreiro das Chamas Profundas. Empunha uma maça espinhosa que [[_wiki/racas/shadar\|shadars]] precisariam segurar com as duas mãos e é pactuado com [[_wiki/panteao/kaelgrym\|Kaelgrym]] desde o ovo, conforme o ritual tribal universal dos drakhonin. Atualmente encontra-se gravemente ferido e acorrentado em [[_wiki/locais/mor_severith\|Mor’Severith]].
 
 ### Cativeiro
 
-Está preso em Mor'Severith. Teve as pernas carbonizadas do tornozelo ao joelho por fogo controlado, as escamas craqueladas em necrose parcial, e é mantido sob [[_wiki/artefatos/grilhoes_de_contencao_arcana\|grilhões de contenção arcana]] e uma focinheira metálica que lhe impede o sopro de fogo. Num golpe reflexo durante a captura, decepou a cauda de [[_wiki/personagens/fing\|Fing]] e guarda o pedaço como troféu.
+Está preso em Mor’Severith. Teve as pernas carbonizadas do tornozelo ao joelho por fogo controlado, as escamas craqueladas em necrose parcial, e é mantido sob [[_wiki/artefatos/grilhoes_de_contencao_arcana\|grilhões de contenção arcana]] e uma focinheira metálica que lhe impede o sopro de fogo. Num golpe reflexo durante a captura, decepou a cauda de [[_wiki/personagens/fing\|Fing]] e guarda o pedaço como troféu.
 
 ### Filosofia
 

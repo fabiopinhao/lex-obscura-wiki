@@ -4,7 +4,7 @@
 
 # Tábua Reversa
 
-A Tábua Reversa é uma ardósia negra que serve de instrumento processual obrigatório dos [[_wiki/organizacoes/justiciars\|Justiciars]]. Nela se registram investigações e sentenças de campo. Cada Justiciar carrega a sua, e o [[_wiki/organizacoes/tribunal_de_morvgrad\|Tribunal de Morvgrad]] também a emprega como instrumento padrão em suas sessões.
+A Tábua Reversa é uma ardósia negra que serve de instrumento processual obrigatório dos [[_wiki/organizacoes/justiciares\|Justiciares]]. Nela se registram investigações e sentenças de campo. Cada Justiciar carrega a sua, e o [[_wiki/organizacoes/tribunal_de_morvgrad\|Tribunal de Morvgrad]] também a emprega como instrumento padrão em suas sessões.
 
 ### Forma e função
 

@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/quavarra_oblodra.md","permalink":"/wiki/personagens/quavarra-oblodra/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/quavarra_ulvondra.md","permalink":"/wiki/personagens/quavarra-ulvondra/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
-# Quavarra Oblodra
+# Quavarra Ulvondra
 
-Quavarra Oblodra, chamada Aranha Obsidiana, é matriarca da Casa Oblodra e uma das seis matriarcas regentes do [[_wiki/locais/vor-ghol\|Vor-Ghol]]. [[_wiki/racas/drul\|Drul]] de [[_wiki/locais/xarn_zareth\|Xarn'Zareth]], governa de uma casa-catedral esculpida na rocha viva.
+Quavarra Ulvondra, chamada Aranha Obsidiana, é matriarca da Casa Ulvondra e uma das seis matriarcas regentes de [[_wiki/locais/vor-ghol\|Vor-Ghol]]. [[_wiki/racas/drul\|Drul]] de [[_wiki/locais/xarn_zareth\|Xarn’Zareth]], governa de uma casa-catedral esculpida na rocha viva.
 
 ### Aparência
 
-Uma névoa lilás a envolve, e tatuagens que parecem vivas correm sob sua pele. A natureza dessas marcas permanece ambígua: encarnação divina, magia pessoal ou ambas. Sua sede é a casa-catedral, gruta côncava aberta na rocha do Vor-Ghol, pendurada de teias encantadas e atravessada por vitrais de biovidro; pelas paredes, gaiolas ornamentais guardam gnomos [[_wiki/racas/derro\|derro]].
+Uma névoa lilás a envolve, e tatuagens que parecem vivas correm sob sua pele. A natureza dessas marcas permanece ambígua: encarnação divina, magia pessoal ou ambas. Sua sede é a casa-catedral, gruta côncava aberta na rocha de Vor-Ghol, pendurada de teias encantadas e atravessada por vitrais de biovidro; pelas paredes, gaiolas ornamentais guardam gnomos [[_wiki/racas/derro\|derro]].
 
 ### Filosofia e Posição
 

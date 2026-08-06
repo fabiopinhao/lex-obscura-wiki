@@ -20,4 +20,4 @@ O custo temático são marcas temporárias de corrupção na própria carne, e o
 
 ### No Império
 
-O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes de Anatho como [[_wiki/organizacoes/justiciars\|Justiciars]], Inquisidores e [[_wiki/organizacoes/ophideias\|Ophideias]] de interrogatório, funções que exigem leitura de vulnerabilidades. Combinada com [[_wiki/escolas/psycho\|Psycho]], produz manipulação total; com [[_wiki/escolas/belli\|Belli]], acua a presa, degradando o corpo enquanto força o alvo a atacar mesmo debilitado.
+O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes de Anatho como [[_wiki/organizacoes/justiciares\|Justiciares]], Inquisidores e [[_wiki/organizacoes/ophideias\|Ophideias]] de interrogatório, funções que exigem leitura de vulnerabilidades. Combinada com [[_wiki/escolas/psycho\|Psycho]], produz manipulação total; com [[_wiki/escolas/belli\|Belli]], acua a presa, degradando o corpo enquanto força o alvo a atacar mesmo debilitado.

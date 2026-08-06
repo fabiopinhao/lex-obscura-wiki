@@ -4,11 +4,11 @@
 
 # Vhraxil
 
-Vhraxil é um macho [[_wiki/racas/drul\|drul]] jovem que guarda os Portões de [[_wiki/locais/ghilanna\|Ghilanna]], a serviço da [[_wiki/organizacoes/casa_morghast\|Casa Morghast]], subordinada à Duskryn. Carrega a delicadeza que sua raça impõe aos machos e uma curiosidade maior do que o posto comporta. É a única referência afetiva documentada de [[_wiki/personagens/syndrith_morghast\|Syndrith]] e o macho que [[_wiki/personagens/nidzina_avaroth\|Nidzina]] defendeu nas Câmaras de Provação de [[_wiki/locais/vor-ghol\|Vor-Ghol]].
+Vhraxil é um macho [[_wiki/racas/drul\|drul]] jovem que guarda os Portões de [[_wiki/locais/ghilanna\|Ghilanna]], a serviço da [[_wiki/organizacoes/casa_morghast\|Casa Morghast]], subordinada à Durzken. Carrega a delicadeza que sua raça impõe aos machos e uma curiosidade maior do que o posto comporta. É a única referência afetiva documentada de [[_wiki/personagens/syndrith_morghast\|Syndrith]] e o macho que [[_wiki/personagens/nidzina_avaroth\|Nidzina]] defendeu nas Câmaras de Provação de [[_wiki/locais/vor-ghol\|Vor-Ghol]].
 
 ### Aparência
 
-Vhraxil tem feições simétricas e de aparência incomum entre os machos drul. Quando se sente exposto, as orelhas escurecem e ele endireita a postura. O apelido que carrega vem dessa aparência: chamam-no besourinho, em referência ao [[_wiki/criaturas/vitraxil\|vitraxil]], besouro de élitros em mosaico que fracionam a limo-luz. "Rostinho de vitraxil", dizem dele.
+Vhraxil tem feições simétricas e de aparência incomum entre os machos drul. Quando se sente exposto, as orelhas escurecem e ele endireita a postura. O apelido que carrega vem dessa aparência: chamam-no besourinho, em referência ao [[_wiki/criaturas/vitraxil\|vitraxil]], besouro de élitros em mosaico que fracionam a limo-luz. “Rostinho de vitraxil”, dizem dele.
 
 ### Origem e posto
 

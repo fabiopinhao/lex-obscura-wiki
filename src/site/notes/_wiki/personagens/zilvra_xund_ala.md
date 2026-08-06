@@ -2,13 +2,13 @@
 {"dg-publish":true,"dg-path":"_wiki/personagens/zilvra_xund_ala.md","permalink":"/wiki/personagens/zilvra-xund-ala/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
-# Zilvra Xund'ala
+# Zilvra Xund’ala
 
-Zilvra Xund'ala, conhecida pelo epíteto Mão Envenenada, é matriarca da Casa Xund'ala e uma das seis Matriarcas regentes do [[_wiki/locais/vor-ghol\|Vor-Ghol]]. As demais regentes governam do subterrâneo; ela opera na superfície, na Torre de [[_wiki/locais/khargoth\|Khargoth]], em [[_wiki/locais/morvgrad\|Morvgrad]], coração do poder arcano [[_wiki/racas/shadar\|shadar]]. Manter presença [[_wiki/racas/drul\|drul]] em solo shadar, cercada por preceptores e hierarquias que não lhe devem obediência formal, é influência construída por informação, veneno e cálculo, não por força bruta.
+Zilvra Xund’ala, conhecida pelo epíteto Mão Envenenada, é matriarca da Casa Xund’ala e uma das seis Matriarcas regentes de [[_wiki/locais/vor-ghol\|Vor-Ghol]]. As demais regentes governam do subterrâneo; ela opera na superfície, na Torre de [[_wiki/locais/khargoth\|Khargoth]], em [[_wiki/locais/morvgrad\|Morvgrad]], coração do poder arcano [[_wiki/racas/shadar\|shadar]]. Manter presença [[_wiki/racas/drul\|drul]] em solo shadar, cercada por preceptores e hierarquias que não lhe devem obediência formal, é influência construída por informação, veneno e cálculo, não por força bruta.
 
 ### Origem e Papel
 
-A Casa Xund'ala tem assento entre as seis regências do Vor-Ghol, e Zilvra é sua matriarca. A posição que mantém é incomum para uma drul: em vez de comandar das câmaras subterrâneas, ela instalou influência na Torre de Khargoth, onde a hierarquia arcana shadar de preceptores e iniciados nada lhe deve. A presença da casa em solo sagrado indica anos de trabalho silencioso, feito por agentes e dívidas, não por conquista declarada.
+A Casa Xund’ala tem assento entre as seis regências de Vor-Ghol, e Zilvra é sua matriarca. A posição que mantém é incomum para uma drul: em vez de comandar das câmaras subterrâneas, ela instalou influência na Torre de Khargoth, onde a hierarquia arcana shadar de preceptores e iniciados nada lhe deve. A presença da casa em solo sagrado indica anos de trabalho silencioso, feito por agentes e dívidas, não por conquista declarada.
 
 ### Método e Voz
 

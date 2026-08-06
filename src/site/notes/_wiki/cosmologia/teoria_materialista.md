@@ -8,11 +8,11 @@ A Teoria Materialista, ou Materialismo Arcano, é a filosofia mágica formulada 
 
 ### Fundamentos
 
-Para a teoria, o magi é uma matriz energética sutil que permeia [[_wiki/locais/thamakard\|Thamakard]], e toda magia, qualquer que seja o sistema de acesso, é manipulação dessa força. Os deuses definem-se pela abundância de magi que possuem, não por status espiritual ou natureza transcendente, e a alquimia seria a única forma consciente e autônoma de manipulá-lo, dispensando intermediários divinos. Jospin ignorava o conceito de alma e tratava o [[_wiki/magia/teru\|Teru]] como "anomalia metabólica", recusando-lhe qualquer dimensão espiritual.
+Para a teoria, o magi é uma matriz energética sutil que permeia [[_wiki/locais/thamakard\|Thamakard]], e toda magia, qualquer que seja o sistema de acesso, é manipulação dessa força. Os deuses definem-se pela abundância de magi que possuem, não por status espiritual ou natureza transcendente, e a alquimia seria a única forma consciente e autônoma de manipulá-lo, dispensando intermediários divinos. Jospin ignorava o conceito de alma e tratava o [[_wiki/magia/teru\|Teru]] como “anomalia metabólica”, recusando-lhe qualquer dimensão espiritual.
 
 ### Oposição à Doutrina da Alma
 
-A posição contrária é a Doutrina da Alma de [[_wiki/personagens/naiu_wula\|Naiu'Wula]], mestre [[_wiki/racas/gerut\|gerut]] do fim da [[_wiki/conceitos/segunda_era\|Segunda Era]], para quem toda magia nasce da alma. Os dois filósofos nunca se cruzaram: Naiu'Wula viveu antes, e Jospin depois, durante as Guerras Reinkárdicas. O materialismo e o espiritualismo formam assim dois polos que nunca se reconheceram, embora o sistema dos [[_wiki/organizacoes/justiciars\|Justiciars]] dependa do despertar interior que a doutrina oposta descreveu.
+A posição contrária é a Doutrina da Alma de [[_wiki/personagens/naiu_wula\|Naiu’Wula]], mestre [[_wiki/racas/gerut\|gerut]] do fim da [[_wiki/conceitos/segunda_era\|Segunda Era]], para quem toda magia nasce da alma. Os dois filósofos nunca se cruzaram: Naiu’Wula viveu antes, e Jospin depois, durante as Guerras Reinkárdicas. O materialismo e o espiritualismo formam assim dois polos que nunca se reconheceram, embora o sistema dos [[_wiki/organizacoes/justiciares\|Justiciares]] dependa do despertar interior que a doutrina oposta descreveu.
 
 ### Adoção e Supressão
 

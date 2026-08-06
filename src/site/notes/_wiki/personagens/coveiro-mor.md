@@ -4,7 +4,7 @@
 
 # Coveiro-mor
 
-Numa cela de [[_wiki/locais/ghol_drokh\|Ghol'Drokh]] há um velho a quem os carcereiros chamam apenas de Prisioneiro Louco. Foi outrora o coveiro-mor do [[_wiki/locais/jardim_dos_inocentes\|Jardim dos Inocentes]], em [[_wiki/locais/myrgarde\|Myrgarde]], o homem que abria a terra para os mortos da cidade. Hoje a terra que o aguardava lhe é negada: há quase três décadas vive sem morrer, mantido de pé por uma necromancia que o impede de partir.
+Numa cela de [[_wiki/locais/ghol_drokh\|Ghol’Drokh]] há um velho a quem os carcereiros chamam apenas de Prisioneiro Louco. Foi outrora o coveiro-mor do [[_wiki/locais/jardim_dos_inocentes\|Jardim dos Inocentes]], em [[_wiki/locais/myrgarde\|Myrgarde]], o homem que abria a terra para os mortos da cidade. Hoje a terra que o aguardava lhe é negada: há quase três décadas vive sem morrer, mantido de pé por uma necromancia que o impede de partir.
 
 ### Aparência
 
@@ -12,7 +12,7 @@ Décadas de cárcere sem alimento adequado reduziram-no a pouco mais que ossos c
 
 ### Origem e Papel
 
-Cavava covas no Jardim dos Inocentes quando Myrgarde ainda existia, e viu a cidade cair no cerco final. Capturado, foi levado para Ghol'Drokh e proibido de morrer. A necromancia do [[_wiki/organizacoes/imperio_sombrio\|Império]] o conserva como um arquivo vivo da Myrgarde anterior à queda, uma memória de que se serve quando lhe convém. O velho é, ao mesmo tempo, punição e acervo: guardião involuntário de uma cidade que já não existe em parte alguma, exceto dentro dele, preservada em delírio perpétuo.
+Cavava covas no Jardim dos Inocentes quando Myrgarde ainda existia, e viu a cidade cair no cerco final. Capturado, foi levado para Ghol’Drokh e proibido de morrer. A necromancia do [[_wiki/organizacoes/imperio_sombrio\|Império]] o conserva como um arquivo vivo de Myrgarde anterior à queda, uma memória de que se serve quando lhe convém. O velho é, ao mesmo tempo, punição e acervo: guardião involuntário de uma cidade que já não existe em parte alguma, exceto dentro dele, preservada em delírio perpétuo.
 
 ### Método e Voz
 

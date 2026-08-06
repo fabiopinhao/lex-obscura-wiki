@@ -8,7 +8,7 @@ Os Círculos de Khargoth são uma academia arcana sediada na Torre de [[_wiki/lo
 
 ### Estrutura
 
-O sistema de "círculos" organiza o acesso ao conhecimento em níveis sucessivos. A ascensão se dá por mérito, mas mérito, ali, é medido por lealdade ao Culto, espelhando a lógica imperial mais ampla. Entre seus estudantes esteve [[_wiki/personagens/milorsevogh_velshard\|Milor]], que passou pela torre antes de sua unção como [[_wiki/organizacoes/justiciars\|Justiciar]].
+O sistema de “círculos” organiza o acesso ao conhecimento em níveis sucessivos. A ascensão se dá por mérito, mas mérito, ali, é medido por lealdade ao Culto, espelhando a lógica imperial mais ampla. Entre seus estudantes esteve [[_wiki/personagens/milorsevogh_velshard\|Milor]], que passou pela torre antes de sua unção como [[_wiki/organizacoes/justiciares\|Justiciar]].
 
 ### Proibições
 

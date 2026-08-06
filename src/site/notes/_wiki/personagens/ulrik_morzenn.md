@@ -4,7 +4,9 @@
 
 # Ulrik Morzenn
 
-Ulrik Morzenn, o Decano Arcânico, é um [[_wiki/racas/shadar\|shadar]] conselheiro do [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], em [[_wiki/locais/morvgrad\|Morvgrad]]. Veste-se de mantos azuis e carmesins e ostenta anéis de dez cores, um em cada falange.
+Ulrik Morzenn, o Decano Arcânico, é um [[_wiki/racas/shadar\|shadar]] conselheiro do [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], em [[_wiki/locais/morvgrad\|Morvgrad]]. Veste-se de mantos azuis e carmesins e ostenta dez anéis de dez cores, um em cada falange.
+
+Está entre os antigos do Conselho, anterior à leva de conselheiros indicados diretamente pelo monarca. De temperamento pragmático, não professa ala alguma e cultiva uma imagem de neutralidade.
 
 ### Postura no Conselho
 
