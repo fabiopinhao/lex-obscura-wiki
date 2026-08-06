@@ -16,7 +16,7 @@ Cresce nas ruas e nos cantos de Niedellin, órfão entre órfãos, mais quieto q
 
 ### Método e voz
 
-O traço que o define é uma percepção incomum da maldade. Levi não argumenta nem mede consequências: aponta o que vê. Acusa [[_wiki/personagens/maraxus\|Maraxus]] de servir a um demônio antes que qualquer prova exista, e diz a verdade que enxerga sem calcular o peso político ou social das palavras, do jeito que só uma criança ousa. Mantém vigília noturna costumeira, acordado quando a casa dorme, e foi assim que viu passar [[_wiki/personagens/syndrith_morghast\|Syndrith Morghast]] na escuridão. Quem cruza com ele percebe que aqueles olhos registram mais do que deveriam.
+O traço que o define é uma percepção incomum da maldade. Levi não argumenta nem mede consequências: aponta o que vê, antes que qualquer prova exista, e diz a verdade que enxerga sem calcular o peso político ou social das palavras, do jeito que só uma criança ousa. Mantém vigília noturna costumeira, acordado quando a casa dorme, e foi assim que viu passar [[_wiki/personagens/syndrith_morghast\|Syndrith Morghast]] na escuridão. Quem cruza com ele percebe que aqueles olhos registram mais do que deveriam.
 
 ### Relações
 
