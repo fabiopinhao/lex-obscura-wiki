@@ -18,7 +18,7 @@ Durante as Guerras Reinkárdicas, a submissão da [[_wiki/locais/ventrista\|Vent
 
 ### O caso mais notório
 
-O caso mais notório de conversão pelo Rito é o de [[_wiki/personagens/arothistar\|Arothistar]]. Cerca de oitenta anos atrás, na [[_wiki/eventos/conversao_de_dravhok\|Conversão de Dravhok]], o Rito o transformou em shadar, e ele passou a se chamar Dravhok. Carregava um nome anterior que os habitantes de [[_wiki/locais/reinkard\|Reinkard]] jamais conheceram e que nenhum registro preservou. Muitos humanos foram convertidos pelo Rito, e ninguém no [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] o conhecera antes da conversão; Dravhok nunca contou que fora humano, e ninguém tinha coragem de lhe perguntar. Dravhok chegou a monarca supremo do Império e intitulou-se Arothistar, o Consagrado do Alto.
+O caso mais notório de conversão pelo Rito é o de [[_wiki/personagens/arothistar\|Arothistar]]. Cerca de oitenta anos atrás, na [[_wiki/eventos/conversao_de_dravhok\|Conversão de Dravhok]], o Rito o transformou em shadar, e ele passou a se chamar Dravhok. Carregava um nome anterior que nenhum registro preservou. Muitos humanos foram convertidos pelo Rito, e ninguém no [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] o conhecera antes da conversão; Dravhok nunca contou que fora humano, e ninguém tinha coragem de lhe perguntar. Dravhok chegou a monarca supremo do Império e intitulou-se Arothistar, o Consagrado do Alto.
 
 ### Proibição
 

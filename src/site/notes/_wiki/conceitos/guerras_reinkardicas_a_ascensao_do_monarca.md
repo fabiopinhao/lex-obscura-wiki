@@ -8,7 +8,7 @@ A Ascensão do Monarca designa o período das Guerras Reinkárdicas em que Dravh
 
 ### Origem de Dravhok
 
-Dravhok não era [[_wiki/racas/shadar\|shadar]] de nascimento. Converso pelo [[_wiki/magia/rito_de_ossarium\|Rito de Ossárium]], carregava um nome anterior que os habitantes de [[_wiki/locais/reinkard\|Reinkard]] jamais conheceram e que nenhum registro preservou. Muitos humanos foram convertidos pelo Rito, e ninguém no [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] o conhecera antes da conversão; Dravhok nunca contou que fora humano, e ninguém tinha coragem de lhe perguntar.
+Dravhok não era [[_wiki/racas/shadar\|shadar]] de nascimento. Converso pelo [[_wiki/magia/rito_de_ossarium\|Rito de Ossárium]], carregava um nome anterior que nenhum registro preservou. Muitos humanos foram convertidos pelo Rito, e ninguém no [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] o conhecera antes da conversão; Dravhok nunca contou que fora humano, e ninguém tinha coragem de lhe perguntar.
 
 Sua diferença começava pela composição das tropas. A maioria dos generais shadars mantinha proporções conservadoras, um shadar ou [[_wiki/racas/drul\|drul]] para cada [[_wiki/racas/orc\|orc]], por receio de perder o controle das legiões. Dravhok operava com proporções que seus pares consideravam suicidas, com muito mais orcs por oficial, e delegava posições de capitão a orcs veteranos, função que a cultura militar shadar reservava à própria raça. Onde outros viam risco de motim, ele via soldados que lutavam com mais ferocidade quando a hierarquia reconhecia seu valor.
 
@@ -22,7 +22,7 @@ Em [[_wiki/locais/thandruk_varn\|Thandruk Varn]], a grande montanha vulcânica, 
 
 A segunda campanha desceu pelo leste, com outros generais como pares, contra as cidades humanas que formavam o cinturão oriental do Império Central. Diferente das montanhas, a guerra nas planícies era de atrito direto, com muralhas sitiadas e cargas de cavalaria, e todos os lados sangravam. Cada vez que um general tombava, sua legião, sem cadeia de comando clara, juntava-se às tropas de Dravhok, o líder mais próximo com força para protegê-los. O exército de Dravhok crescia.
 
-Quando alcançou Dernessal, o maior reino independente a sudeste de Myrgarde, ele já comandava a maior legião que o Culto havia reunido sob um único general. Dernessal caiu, o entorno leste de Myrgarde foi subjugado e a campanha prosseguiu até o mar Austral. Em [[_wiki/locais/valdris\|Valdris]], porém, o mar respondeu: ondas que nenhuma tempestade natural explicava avançaram sobre a cidade e sobre a legião, e carregaram soldados e equipamentos. Dravhok ordenou a retirada, e atravessou de volta um continente que, pela primeira vez em décadas, via um exército sombrio recuar. O recuo não diminuiu o feito, pois o mapa de Reinkard fora alterado de forma irreversível.
+Quando alcançou Dernessal, o maior reino independente a sudeste de Myrgarde, ele já comandava a maior legião que o Culto havia reunido sob um único general. Dernessal caiu, o entorno leste de Myrgarde foi subjugado e a campanha prosseguiu até o mar Austral. Em [[_wiki/locais/valdris\|Valdris]], porém, o mar respondeu: ondas que nenhuma tempestade natural explicava avançaram sobre a cidade e sobre a legião, e carregaram soldados e equipamentos. Dravhok ordenou a retirada, e atravessou de volta um continente que, pela primeira vez em décadas, via um exército sombrio recuar. O recuo não diminuiu o feito, pois o mapa de [[_wiki/locais/reinkard\|Reinkard]] fora alterado de forma irreversível.
 
 ### O título de Aroth
 
