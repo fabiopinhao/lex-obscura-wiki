@@ -4,7 +4,7 @@
 
 # Diferenças Entre Tipos de Entidades
 
-As entidades divinas de [[_wiki/locais/thamakard\|Thamakard]] dividem-se em cinco categorias, distinguíveis pelo que o mortal percebe delas: forma, modo de comunicação, motivação, disposição à traição, temperamento e a marca que deixam em quem com elas pacta. O quadro abaixo resume os contrastes de superfície entre [[_wiki/cosmologia/diabos\|Diabos]], [[_wiki/cosmologia/demonios\|Demônios]], [[_wiki/cosmologia/titas\|Titãs]], [[_wiki/cosmologia/anjos\|Anjos]] e [[_wiki/cosmologia/siderais\|Siderais]].
+As entidades divinas de [[_wiki/locais/thamakard\|Thamakard]] dividem-se em cinco categorias, distinguíveis pelo que o mortal percebe delas: forma, modo de comunicação, motivação, disposição à traição, temperamento e a marca que deixam em quem com elas pacta. O quadro abaixo resume os contrastes de superfície entre [[_wiki/cosmologia/diabos\|diabos]], [[_wiki/cosmologia/demonios\|demônios]], [[_wiki/cosmologia/titas\|Titãs]], [[_wiki/cosmologia/anjos\|Anjos]] e [[_wiki/cosmologia/siderais\|Siderais]].
 
 ### Comparativo
 

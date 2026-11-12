@@ -4,7 +4,7 @@
 
 # Sigilo de Abbhal
 
-O Sigilo de [[_wiki/panteao/abbhal\|Abbhal]], também chamado Marca de Abbhal, é a sentença máxima do sistema judicial do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]: o aprisionamento eterno da alma dentro de um corpo vivo. Reservado aos traidores do mais alto escalão, marca o ponto em que a justiça imperial cede lugar à justiça divina. O nome deriva de Abbhal, o Juiz Cego, diabo de função diplomática e judicial no panteão sombrio.
+O Sigilo de [[_wiki/panteao/abbhal\|Abbhal]], também chamado Marca de Abbhal, é a sentença máxima do sistema judicial do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]: o aprisionamento eterno da alma dentro de um corpo vivo. Reservado aos traidores do mais alto escalão, marca o ponto em que a justiça imperial cede lugar à justiça divina. O nome deriva de Abbhal, o Juiz Cego, diabo de função diplomática e judicial no panteão sombrio. Segundo a doutrina oficial, [[_wiki/personagens/arothistar\|Arothistar]] é o único mortal capaz de negociar termos com o deus.
 
 ### Natureza
 
@@ -16,9 +16,11 @@ O Sigilo opera na interseção entre a magia institucional e a invocação divin
 
 ### Procedimento Ritual
 
-O executor grava o sigilo diretamente na carne do condenado com uma lâmina, em cortes precisos que formam diagonais, cruz invertida, triângulos sobrepostos, círculos e espirais que não se fecham. O sangue transmuta em substância negra durante a inscrição. Concluído o padrão, o executor invoca Abbhal em latim ritual.
+O executor grava o sigilo diretamente na carne do condenado com uma lâmina, em cortes precisos que formam diagonais, cruz invertida, triângulos sobrepostos e círculos. O sangue transmuta em substância negra durante a inscrição. Concluído o padrão, o executor invoca Abbhal: *Abbhal caecus iudex! Qui videt peccatum sine luce! Carcerem animae, claudite portas! Nec mors nec vita, sed poena aeterna.*
 
 A manifestação do diabo é descrita como aterrorizante, oscilando entre um magistrado de chamas brancas com os olhos vendados por fogo negro, uma balança cujos pratos pingam substância víride e espessa, e uma ausência devoradora em forma humana. A presença divina força os presentes à prostração involuntária. O selamento ocorre quando tentáculos de antiluz penetram o sigilo inscrito e extraem a alma visível do condenado, sugada para dentro do corpo, mas não através dele. O sigilo permanece pulsando negro na pele depois que a projeção divina se dissolve.
+
+Muito do que se segue à sentença permanece sem resposta: não se sabe se o condenado conserva consciência, se sente o que acontece ao próprio corpo, nem se o selamento admite reversão e por qual mão.
 
 ### Significado
 

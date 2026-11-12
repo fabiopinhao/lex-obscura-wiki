@@ -4,7 +4,7 @@
 
 # Khargoth
 
-Khargoth é a torre arcana de [[_wiki/locais/morvgrad\|Morvgrad]], dedicada ao ensino das escolas sombrias do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. O nome combina Khar, torre, e Goth, magia. Erguida em obsidiana, abriga cerca de quinhentos membros organizados em círculos hierárquicos de acesso ao conhecimento, um sistema que espelha a estrutura do Culto: ascensão por mérito, mas mérito definido por lealdade.
+Khargoth é a torre arcana de [[_wiki/locais/morvgrad\|Morvgrad]], no distrito sagrado de [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], dedicada ao ensino das escolas sombrias do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. O nome combina Khar, torre, e Goth, magia. Erguida em obsidiana, abriga cerca de quinhentos membros organizados em círculos hierárquicos de acesso ao conhecimento, um sistema que espelha a estrutura do Culto: ascensão por mérito, mas mérito definido por lealdade.
 
 ### Função
 
@@ -12,7 +12,7 @@ A torre opera ao mesmo tempo como universidade e tribunal arcano. Ensina, vigia 
 
 ### Disciplina e Proibições
 
-As magias de [[_wiki/panteao/malagoth\|Malagoth]] são proibidas dentro da torre, em razão de incidentes passados que trouxeram caos: maldições descontroladas cuja natureza exata permanece deliberadamente obscura. O preço do estudo é a doutrina central da casa. O mestre necromante Zarukh Veymar cunhou a sentença que a resume: quem se aprofunda em maldições acaba marcado, assim como piromantes se queimam, criomantes congelam e electromantes tombam fulminados. O [[_wiki/organizacoes/justiciares\|Justiciar]] [[_wiki/personagens/milorsevogh_velshard\|Milor]], que estudou em Khargoth antes de sua unção, violou a proibição e carrega no pulso uma marca sombria que se estende ao antebraço, prova viva da sentença de Veymar.
+As magias de [[_wiki/panteao/malagoth\|Malagoth]] são proibidas dentro da torre, em razão de incidentes passados que trouxeram caos: maldições descontroladas cuja natureza exata permanece deliberadamente obscura. O preço do estudo é a doutrina central da casa. O mestre necromante Zarukh Veymar cunhou a sentença que a resume: quem se aprofunda em maldições acaba marcado, assim como piromantes se queimam, criomantes congelam e electromantes tombam fulminados. O [[_wiki/organizacoes/justiciares\|Justiciar]] [[_wiki/personagens/milorsevogh_velshard\|Milor]], que estudou em Khargoth antes de sua unção, carrega no pulso uma marca sombria que se estende ao antebraço, prova viva da sentença de Veymar, e que ele próprio atribui ao aprofundamento em Anatho. A marca dorme por enquanto, e Milor pediu a [[_wiki/personagens/ravhor\|Ravhor]] que, se ela despertasse, se lembrasse de [[_wiki/locais/valdris\|Valdris]] e fizesse o que devia ser feito. Mais tarde, Milor violou a proibição ao invocar Malagoth dentro da torre, e o pulso latejou como lembrança do preço.
 
 ### Cenário
 

@@ -16,7 +16,11 @@ Do Belli vem a fúria marcial, a agressividade canalizada e o sangue como combus
 
 ### Apetite
 
-O título de Devorador de Bastiões é descritivo. Thûrgash consome o que derruba, e os fragmentos de muralha incrustados em suas costas são restos de fortalezas digeridas, cada pedra absorvida pelo corpo do deus como registro permanente de conquista. O apetite escala com a resistência do alvo: cabanas cedem sem prazer, aldeias entediam, cidades satisfazem por instantes, fortalezas alimentam. Quanto mais firme a fundação, mais lenta a demolição e mais prolongado o gozo. Vinculados de Thûrgash, quando existem, compartilham essa compulsão: a satisfação visceral ao ver estruturas ruírem e a inquietação crescente diante de paredes intactas.
+O título de Devorador de Bastiões é descritivo. Thûrgash consome o que derruba, e os fragmentos de muralha incrustados em suas costas são restos de fortalezas digeridas, cada pedra absorvida pelo corpo do deus como registro permanente de conquista. O apetite escala com a resistência do alvo: cabanas cedem sem prazer, aldeias entediam, cidades satisfazem por instantes, fortalezas alimentam. Quanto mais firme a fundação, mais lenta a demolição e mais prolongado o gozo. Os vinculados de Thûrgash compartilham essa compulsão: a satisfação visceral ao ver estruturas ruírem e a inquietação crescente diante de paredes intactas.
+
+### Os Berserkers Órquicos
+
+Thûrgash é o deus a que se vinculam muitos guerreiros berserkers órquicos. O vínculo opera por [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], o vínculo de força demoníaca, e dá acesso imediato à fúria marcial do Belli, ao preço da corrupção que o frenesi cobra: a razão dissolvida, a sanidade suspensa enquanto dura o transe. O vínculo se vê no corpo, e no frenesi as veias do berserker sobem rubras do pescoço aos braços. O capitão [[_wiki/personagens/grothar\|Grothar]], da guarda de [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]], é um desses vinculados: o frenesi que ele invoca em [[_wiki/linguas/orcanico\|orcânico]] antigo canaliza o vínculo com Thûrgash. Reverenciar Thûrgash como deus, prática comum entre [[_wiki/racas/orc\|orcs]], não implica o vínculo, que se conquista. Os jovens [[_wiki/personagens/mur\|Mur]] e [[_wiki/personagens/grub\|Grub]] o cultuam sem serem vinculados e aspiram a receber um dia o vínculo e o frenesi de combate que o veterano Grothar já possui.
 
 ### O Cerco
 

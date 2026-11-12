@@ -4,7 +4,7 @@
 
 # Ixragor
 
-Ixragor, o Ventre Abominável, é uma divindade do panteão de Lex Obscura, classificada como Demônio. Combina os domínios de [[_wiki/escolas/anatho\|Anatho]] e [[_wiki/escolas/morpho\|Morpho]], cruzamento do qual nasce a metamorfose corrompida: fusões impossíveis e criaturas que existem como erros biológicos permanentes.
+Ixragor, o Ventre Abominável, é uma divindade do panteão de Lex Obscura, classificada como demônio. Combina os domínios de [[_wiki/escolas/anatho\|Anatho]] e [[_wiki/escolas/morpho\|Morpho]], cruzamento do qual nasce a metamorfose corrompida: fusões impossíveis e criaturas que existem como erros biológicos permanentes.
 
 ### Natureza
 

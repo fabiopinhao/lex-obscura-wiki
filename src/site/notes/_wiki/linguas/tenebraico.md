@@ -4,11 +4,11 @@
 
 # Tenebraico
 
-O Tenebraico é uma língua ritual da Primeira Era, associada aos [[_wiki/racas/shadar\|Shadars]] e voltada para pactos diabólicos e maldições. Por vezes é chamado de “Shadar antigo”, denominação enganosa. É um latim sombrio, concebido para contratos e não para conversa: cada palavra é uma sentença, e o duplo sentido não existe porque os contratos não o permitem.
+O tenebraico é uma língua ritual da Primeira Era, associada aos [[_wiki/racas/shadar\|shadars]] e voltada para pactos diabólicos e maldições. Por vezes é chamado de “Shadar antigo”, denominação enganosa. É um latim sombrio, concebido para contratos e não para conversa: cada palavra é uma sentença, e o duplo sentido não existe porque os contratos não o permitem.
 
 ### Som e ritmo
 
-Predominam consoantes oclusivas duras (*k*, *t*, *d*) e fricativas sibilantes (*s*, *sh*, *th*), com vogais curtas e escuras (*o*, *u*), raramente abertas. O ritmo é marcial e as frases são declarativas, sem ambiguidade. A inspiração sonora é o latim eclesiástico com a suavidade removida: onde o latim da Igreja sobe em oração, o Tenebraico desce em decreto.
+Predominam consoantes oclusivas duras (*k*, *t*, *d*) e fricativas sibilantes (*s*, *sh*, *th*), com vogais curtas e escuras (*o*, *u*), raramente abertas. O ritmo é marcial e as frases são declarativas, sem ambiguidade. A inspiração sonora é o latim eclesiástico com a suavidade removida: onde o latim da Igreja sobe em oração, o tenebraico desce em decreto.
 
 ### Estrutura
 

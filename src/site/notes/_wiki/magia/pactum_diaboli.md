@@ -16,7 +16,7 @@ A canalização do Pactum Diaboli chama-se Outorga e é formal e contratual. O d
 
 ### Processo de Invocação
 
-A invocação começa por um ritual de convocação, com círculo de contenção, runas e uma oferenda inicial, e exige a pronúncia do nome verdadeiro do diabo, sob a observação de testemunhas diabólicas menores. Segue-se a negociação: o diabo apresenta um contrato formal, com cláusulas em língua antiga, e a tratativa pode durar horas ou dias, pois cada palavra importa e os diabos exploram brechas e ambiguidades. O selamento se dá pela assinatura do conjurador, e o contrato passa a valer ao mesmo tempo no plano material e nas regiões extraplanares.
+A invocação começa por um ritual de convocação, com círculo de contenção, runas e uma oferenda inicial, e exige a pronúncia do nome verdadeiro do diabo, sob a observação de testemunhas diabólicas menores. Segue-se a negociação: o diabo apresenta um contrato formal, com cláusulas em língua antiga, e a tratativa pode durar horas ou dias, pois cada palavra importa e os diabos exploram brechas e ambiguidades. O selamento se dá pela assinatura do conjurador, e o contrato passa a valer ao mesmo tempo no plano material e nas regiões extraplanares. A obrigação dura enquanto o diabo alcança o plano material: cessada essa influência, a maioria das cláusulas se desfaz, e uma minoria persiste, seguindo a cobrar o preço depois dele. É por isso que a máxima [[_wiki/racas/shadar\|shadar]] segundo a qual as cláusulas morrem com o deus funciona como palpite e falha como norma.
 
 ### Obrigações e Custos
 

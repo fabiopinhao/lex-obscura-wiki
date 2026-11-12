@@ -8,9 +8,9 @@ Os frenins são humanos [[_wiki/cosmologia/siderais\|siderais]] de [[_wiki/locai
 
 ### Fisiologia
 
-De pele amarelo-esverdeada e constituição esguia e alongada, os frenins trazem feições que destoam ligeiramente do humano e os distinguem à primeira vista. A tonalidade incomum da pele e a estrutura contemplativa refletem um continente úmido e pantanoso e uma vida pouco exposta ao sol. Vivem cerca de 96 a 100 anos, longevidade próxima à dos humanos comuns, ainda que o estilo de vida voltado ao etéreo lhes sugira uma vitalidade diferente, menos robusta e mais permeável ao sobrenatural.
+De pele amarelo-esverdeada e constituição esguia e alongada, os frenins trazem feições que destoam ligeiramente do humano e os distinguem à primeira vista. A tonalidade incomum da pele condiz com a natureza sideral e a longa exposição ao Plano Etéreo; a constituição esguia se adapta ao clima úmido e pantanoso. Vivem cerca de 96 a 100 anos, longevidade próxima à dos humanos comuns, ainda que o estilo de vida voltado ao etéreo lhes sugira uma vitalidade diferente, menos robusta e mais permeável ao sobrenatural.
 
-Em registro neutro, um frenim aparenta um ser esguio, alongado e contemplativo, de pele amarelo-esverdeada e traços sutilmente fora do humano comum. Quando invoca magia ou entra em trânsito ativo entre os planos, porém, certos marcadores visuais podem surgir: olhos como poças fundas de luz carmesim ondulante, véus que flutuam sem vento aparente respondendo ao ar de outro plano, e sobreposições etéreas em que a silhueta parece deslocar-se lateralmente do corpo. Não são traços raciais constantes, e sim sinais do estado mágico.
+Em registro neutro, um frenim aparenta um ser esguio, alongado e contemplativo, de pele amarelo-esverdeada e traços sutilmente fora do humano comum. Quando invoca magia ou entra em trânsito ativo entre os planos, porém, certos marcadores visuais podem surgir: olhos como frestas fundas de fogo carmesim ondulante, véus que flutuam sem vento aparente respondendo ao ar de outro plano, e sobreposições etéreas em que a silhueta parece deslocar-se lateralmente do corpo. Não são traços raciais constantes, e sim sinais do estado mágico.
 
 ### Origem
 
@@ -20,7 +20,7 @@ Muitos dos recém-chegados aspiraram à comunhão com os siderais que os undines
 
 ### Cultura e Sociedade
 
-Os frenins habitam Neranthis, continente a leste de Reinkard, separado por uma vasta região de pântanos cuja geografia hostil sempre os protegeu. São um povo misterioso, erudito e isolacionista, que privilegia o conhecimento arcano e a diplomacia sobre a força bruta. Entre as raças azuis, que incluem também os undines e os [[_wiki/racas/ranidano\|ranidanos]], os frenins são o grupo dominante, exercendo liderança política e arcana sobre o continente.
+Os frenins habitam Neranthis, continente a leste de Reinkard, separado por uma vasta região de pântanos cuja geografia hostil sempre os protegeu. São um povo misterioso, erudito e isolacionista, que privilegia o conhecimento arcano e a diplomacia sobre a força bruta. Entre as raças de vínculo sideral, que incluem também os undines e os [[_wiki/racas/ranidano\|ranidanos]], os frenins são o grupo dominante, exercendo liderança política e arcana sobre o continente.
 
 Seu sistema de acesso mágico é o [[_wiki/magia/meditatio_aetheris\|Meditatio Aetheris]], baseado na meditação e na expansão da consciência para o Plano Etéreo, que dispensa pactos e devoção às sombras. A capacidade de transitar entre planos molda toda a sua cultura: para um frenim, o mundo material é apenas metade da realidade. Essa dupla percepção os torna ao mesmo tempo sábios e distantes, capazes de enxergar padrões que outras raças ignoram, mas propensos a uma certa indiferença diante de urgências puramente terrenas.
 
@@ -32,4 +32,4 @@ Os undines recuaram para as costas oceânicas do extremo leste, cada vez mais et
 
 ### Relação com o Império
 
-Neranthis permanece independente durante a Lex Obscura. Os frenins são isolacionistas por instinto e por cálculo, temem as sombras e fazem da distância geográfica sua melhor defesa, já que as terras úmidas do continente são impróprias para o domínio [[_wiki/racas/shadar\|shadar]] direto. O isolamento, porém, tem seu reverso: a mesma prudência que os mantém à parte também os inclina a subestimar ameaças puramente materiais até que seja tarde demais.
+Neranthis permanece independente durante a Lex Obscura. Os frenins são isolacionistas por instinto e por cálculo, temem as sombras e fazem da distância geográfica sua melhor defesa, já que as terras úmidas do continente são impróprias para o domínio [[_wiki/racas/shadar\|shadar]] direto. O distanciamento que o trânsito entre planos lhes confere tem seu reverso: tendem a subestimar ameaças puramente materiais até que seja tarde demais.

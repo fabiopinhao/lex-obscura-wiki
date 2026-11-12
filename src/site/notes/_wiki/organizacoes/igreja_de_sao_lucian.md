@@ -12,7 +12,7 @@ Os remanescentes da fé luminosa em Reinkard se organizam em duas estruturas dis
 
 ### Atuação
 
-O coração da Igreja está em [[_wiki/locais/myrgarde\|Myrgarde]], onde funciona na clandestinidade. [[_wiki/personagens/abramis\|Abramis]] mantém uma capela funcional em [[_wiki/locais/niedellin\|Niedellin]] como extensão dessa fé. Entre suas figuras estão Sir [[_wiki/personagens/grimald\|Grimald]], paladino conhecido como Lâmina Dourada, e [[_wiki/personagens/corvina\|Madre Corvina]], anciã que sobreviveu à queda de Myrgarde.
+O coração da Igreja está em [[_wiki/locais/myrgarde\|Myrgarde]], onde funciona na clandestinidade. [[_wiki/personagens/abramis\|Abramis]] mantém uma capela funcional em [[_wiki/locais/niedellin\|Niedellin]] como extensão dessa fé. Os nomes centrais da Igreja são Sir [[_wiki/personagens/grimald\|Grimald]], paladino conhecido como Lâmina Dourada, e [[_wiki/personagens/corvina\|Madre Corvina]].
 
 A **Casa de São Lucian** é o orfanato anexo ao templo, dirigido por [[_wiki/personagens/corvina\|Madre Corvina]]: o nome designa a instituição de acolhimento, não o edifício de culto.
 

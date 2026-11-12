@@ -10,7 +10,7 @@ A Instituição do Verbum Arkhon foi o ato político que estabeleceu a constitui
 
 A [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]] foi recebida integral, sem alteração, para continuar compondo a estrutura jurídica da monarquia ao lado dos novos decretos soberanos. O gesto preservou a tradição e a autoridade de [[_wiki/personagens/xarn\|Xarn]], ainda que o efeito prático fosse outro: o Verbum Arkhon concentrou o poder no punho da monarquia.
 
-O pretexto oficial declarava que as vontades individuais dos [[_wiki/cosmologia/diabos\|diabos]] não poderiam superar a soma do poder coletivo do império. Na prática, extinguiu-se o poder de decisão desconcentrado que cada sacerdócio exercia sobre suas próprias tropas, tributos e territórios. Os [[_wiki/organizacoes/templarios\|templários]] deixaram de existir como forças militares separadas; o termo sobreviveu apenas para [[_wiki/organizacoes/ophideias\|ophideias]], feiticeiros e necromantes dos templos.
+O pretexto oficial declarava que as vontades individuais dos [[_wiki/cosmologia/diabos\|diabos]] não poderiam superar a soma do poder coletivo do império. Na prática, extinguiu-se o poder de decisão desconcentrado que cada sacerdócio exercia sobre suas próprias tropas, tributos e territórios. Os [[_wiki/organizacoes/templarios\|templários]] deixaram de existir como forças militares separadas; num primeiro momento o termo sobreviveu apenas para [[_wiki/organizacoes/ophideias\|ophideias]], feiticeiros e necromantes dos templos.
 
 ### Abertura racial
 

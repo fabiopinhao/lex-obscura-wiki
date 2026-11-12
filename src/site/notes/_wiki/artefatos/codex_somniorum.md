@@ -4,7 +4,7 @@
 
 # Codex Somniorum
 
-O Codex Somniorum, o “Códice dos Sonhos”, é o grimório sagrado padrão dos [[_wiki/organizacoes/justiciares\|Justiciares]] do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Mais que um livro, apresenta-se como artefato vivo que pulsa com a autoridade condensada do reino sombrio, e cada Justiciar e membro do Alto Clero carrega o seu exemplar.
+O Codex Somniorum, o “Códice dos Sonhos”, é o grimório sagrado padrão dos [[_wiki/organizacoes/justiciares\|Justiciares]] do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Mais que um livro, apresenta-se como artefato vivo que pulsa com a autoridade condensada do reino sombrio, e cada Justiciar carrega o seu exemplar.
 
 ### Nome
 
@@ -16,7 +16,7 @@ Três teorias correm sobre a origem do nome. Uma diz que as leis vieram a [[_wik
 
 ### Estrutura Tripartite
 
-O Codex divide-se em três partes. O [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]], “Palavras do Soberano”, reúne pronunciamentos diretos de [[_wiki/personagens/arothistar\|Arothistar]] (visões, decretos e parábolas sombrias), grafados em tinta dourada sobre pergaminho negro, tidos por infalíveis e imutáveis e de leitura obrigatória durante as vigílias judiciais. A [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]], “Lei das Sombras”, traz as leis aprovadas pelo [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], organizadas por categorias de crime (traição, heresia, desobediência, negligência), atualizadas a cada década, com precedentes e jurisprudências vinculantes que definem punições e exceções. A [[_wiki/conceitos/tabula_umbrae_codex\|Tabula Umbrae]], “Tábua das Sombras”, é a seção arcana e alquímica: feitiços, receitas de venenos, soros da verdade, rituais de execução e sigilos para invocar testemunhas espectrais.
+O Codex divide-se em três partes. O [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]], “Palavra do Soberano”, reúne pronunciamentos diretos de [[_wiki/personagens/arothistar\|Arothistar]] (visões, decretos e parábolas sombrias), grafados em tinta dourada sobre pergaminho negro, tidos por infalíveis e imutáveis e de leitura obrigatória durante as vigílias judiciais. A [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]], “Lei das Sombras”, traz as leis aprovadas pelo [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], organizadas por categorias de crime (traição, heresia, desobediência, negligência), atualizadas a cada década, com precedentes e jurisprudências vinculantes que definem punições e exceções. A [[_wiki/conceitos/tabula_umbrae_codex\|Tabula Umbrae]], “Tábua das Sombras”, é a seção arcana e alquímica: feitiços, receitas de venenos, soros da verdade, rituais de execução e sigilos para invocar testemunhas espectrais.
 
 ### Hermenêutica
 

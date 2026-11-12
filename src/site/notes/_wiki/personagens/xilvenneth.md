@@ -12,7 +12,7 @@ Mantém conexão direta com a matriarca [[_wiki/personagens/zilvra_xund_ala\|Zil
 
 ### Papel
 
-Surge no laboratório de venenos para provocar os [[_wiki/racas/shadar\|shadars]] [[_wiki/personagens/valhedras\|Valhedras]] e [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]], a sedução como instrumento político próprio do método ophideia. Quando [[_wiki/personagens/rhazamir\|Rhazamir]] a confronta com ódio racial, invoca a igualdade garantida pelos decretos de [[_wiki/personagens/xarn\|Xarn]] e o humilha em três frentes: incompetência arcana, pureza de sangue e honra familiar, expondo que a irmã dele esteve em [[_wiki/locais/vor-ghol\|Vor-Ghol]]. A provocação desencadeia a cadeia de violência que termina com a queda de Rhazamir pela janela do vigésimo andar.
+Surge no laboratório de venenos para provocar os [[_wiki/racas/shadar\|shadars]] [[_wiki/personagens/valhedras\|Valhedras]] e [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]], a sedução como instrumento político próprio do método ophideia. Quando [[_wiki/personagens/rhazamir\|Rhazamir]] a confronta com ódio racial, reivindica a igualdade que os éditos de [[_wiki/personagens/xarn\|Xarn]] lhe garantiriam e o humilha em três frentes: a incompetência arcana, a pureza de linhagem que a família prega sem sustentar, e a sexualidade da irmã dele, que esteve em [[_wiki/locais/vor-ghol\|Vor-Ghol]] e ali se submeteu a druls por vontade própria. A provocação desencadeia a cadeia de violência que termina com a queda de Rhazamir pela janela do vigésimo andar.
 
 ### Instinto Predatório
 

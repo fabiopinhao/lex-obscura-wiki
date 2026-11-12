@@ -8,11 +8,11 @@ O Ataque Fracassado a Thal’Serin, também chamado de Primeira Invasão de Thal
 
 ### O Ataque
 
-A floresta sagrada mais próxima do planalto era um alvo lógico, e a estratégia apontava para sua destruição antes de qualquer avanço sobre as planícies. Os exércitos sombrios entraram pela borda norte com fogo e aço. Mataram muitos [[_wiki/racas/sylvano\|sylvanos]] nos primeiros dias, queimaram clareiras inteiras e profanaram santuários ancestrais, parecendo prestes a repetir o que já haviam feito com bosques menores ao longo das cordilheiras.
+A floresta sagrada mais próxima do planalto era um alvo lógico, e a estratégia apontava para sua destruição antes de qualquer avanço sobre as planícies. Os exércitos sombrios entraram pela borda norte com fogo alquímico e aço. Mataram muitos [[_wiki/racas/sylvano\|sylvanos]] nos primeiros dias, queimaram clareiras inteiras e profanaram santuários ancestrais, parecendo prestes a repetir o que já haviam feito com bosques menores ao longo das cordilheiras.
 
 ### A Defesa
 
-A floresta respondeu. A terra tremeu sob os pés dos invasores, raízes centenárias irromperam do solo como muralhas vivas e ondas de choque arremessaram fileiras inteiras de soldados contra os troncos. Fissuras se abriram no chão e engoliram pelotões antes que pudessem recuar. A princípio, os [[_wiki/racas/shadar\|Shadar]] não reconheceram a mão dos [[_wiki/cosmologia/titas\|Titãs]] nos terremotos nem compreenderam que a própria terra lhes declarava guerra. Retiraram-se com perdas pesadas.
+A floresta respondeu. A terra tremeu sob os pés dos invasores, raízes centenárias irromperam do solo como muralhas vivas e ondas de choque arremessaram fileiras inteiras de soldados contra os troncos. Fissuras se abriram no chão e engoliram pelotões antes que pudessem recuar. A princípio, os [[_wiki/racas/shadar\|shadars]] não reconheceram a mão dos [[_wiki/cosmologia/titas\|Titãs]] nos terremotos nem compreenderam que a própria terra lhes declarava guerra. Retiraram-se com perdas pesadas.
 
 ### Consequências
 

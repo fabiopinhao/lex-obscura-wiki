@@ -20,6 +20,6 @@ Vestir tegmen é uma declaração de importância no Império. A peça serve em 
 
 ### Uso entre os Justiciares
 
-O tegmen é a armadura padrão de todos os Justiciares, emitida como parte do equipamento da ordem, e de parte da oficialidade militar de alto escalão. A única exceção conhecida é [[_wiki/personagens/orum-rahru\|Orum-Rahru]], que conserva a [[_wiki/artefatos/armadura_templaria_de_orum\|armadura templária]] de sua antiga ordem em lugar de um tegmen.
+O tegmen é a armadura padrão de todos os Justiciares, emitida como parte do equipamento da ordem, e de parte da oficialidade militar de alto escalão. A única exceção conhecida é [[_wiki/personagens/orum-rahru\|Orum-Rahru]], que conserva a [[_wiki/artefatos/armadura_templaria_de_orum\|armadura templária]] de sua antiga ordem em lugar de um tegmen. Sem ele, porta na couraça templária um selo de justiciar.
 
-O tegmen da ordem é uma variante própria e reconhecível. O de um Lorde Sombrio é veste de aparato, quase de combate, talhada para corte e comando; o da ordem é ferramenta de serviço, de recorte emitido e padronizado. É reconhecido à distância, e a passagem de quem o veste basta para silenciar conversas. Não existe insígnia separada de Justiciar, e o próprio tegmen da ordem serve de credencial visível.
+O tegmen da ordem é uma variante própria e reconhecível. O de um Lorde Sombrio é veste de aparato, quase de combate, talhada para corte e comando; o da ordem é ferramenta de serviço, de recorte emitido e padronizado. É reconhecido à distância, e a passagem de quem o veste basta para silenciar conversas. Fora o selo de Orum-Rahru, não existe insígnia separada de Justiciar, e o próprio tegmen da ordem serve de credencial visível.

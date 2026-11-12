@@ -16,7 +16,7 @@ O vínculo com anjos opera por [[_wiki/magia/devotio_sancta\|Devotio Sancta]]: d
 
 ### Os Álvarar
 
-Na [[_wiki/conceitos/primeira_era\|Primeira Era]], os praticantes mais devotos geraram os [[_wiki/racas/alvarar\|Álvarar]]: indivíduos que afirmavam descender dos anjos e incorporavam dons celestiais. Atuavam como paladinos e clérigos, moralizadores que impunham seu código por persuasão ou por espada. Essa imposição rachou os humanos e converteu sociedades pagãs à fé celestial. Onde os [[_wiki/racas/luminares\|Luminares]] jamais tentaram reformar a humanidade, os Álvarar fizeram disso seu propósito.
+Na [[_wiki/conceitos/primeira_era\|Primeira Era]], os praticantes mais devotos geraram os [[_wiki/racas/alvarar\|álvarar]]: indivíduos que afirmavam descender dos anjos e incorporavam dons celestiais. Atuavam como paladinos e clérigos, moralizadores que impunham seu código por persuasão ou por espada. Essa imposição rachou os humanos e converteu sociedades pagãs à fé celestial. Onde os [[_wiki/racas/luminares\|Luminares]] jamais tentaram reformar a humanidade, os álvarar fizeram disso seu propósito.
 
 ### Declínio em Reinkard
 

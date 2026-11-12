@@ -8,4 +8,4 @@ No Cerco de Khordun, prisioneiros foram forçados a carregar barris de piche fer
 
 ### Legado na Linguagem
 
-O episódio deu origem a um insulto entre os [[_wiki/racas/orc\|orcs]] para designar trabalho degradante. Dirigi-lo a um capitão equivale a chamá-lo de escravo.
+O episódio deu origem à locução “carregar barril”, insulto entre os [[_wiki/racas/orc\|orcs]] para designar trabalho degradante. Dirigi-la a um capitão equivale a chamá-lo de escravo. O orc [[_wiki/personagens/grothar\|Grothar]] a empregou ao recusar esse tipo de serviço, afirmando-se guerreiro e não besta de carga.

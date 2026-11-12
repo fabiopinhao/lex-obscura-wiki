@@ -8,7 +8,7 @@ Reinkárdico é a língua franca do continente, o idioma comum que atravessa fro
 
 ### Origem e alcance
 
-O Reinkárdico se formou a partir de dialetos humanos, que pesam mais em sua estrutura, somados a heranças do [[_wiki/linguas/tenebraico\|Tenebraico]], do [[_wiki/linguas/aelarian\|Aelarian]] e do [[_wiki/linguas/luminar\|Luminar]], das quais restou a etimologia, não a magia. Sua gramática é analítica e flexível, fácil de aprender e adaptável à fisiologia de qualquer raça, e foi essa plasticidade, não prestígio mágico, que o espalhou. Seu alcance é universal: falado em toda parte, foi assimilado por completo pelos [[_wiki/racas/shadar\|shadares]], enquanto os [[_wiki/racas/orc\|orcs]] imperiais o falam com sotaque. A difusão o tornou menos a língua de um povo e mais o terreno comum em que o continente conversa consigo mesmo.
+O reinkárdico se formou a partir de dialetos humanos, que pesam mais em sua estrutura, somados a heranças do [[_wiki/linguas/tenebraico\|tenebraico]], do [[_wiki/linguas/aelarian\|aelarian]] e do [[_wiki/linguas/luminar\|luminar]], das quais restou a etimologia, não a magia. Sua gramática é analítica e flexível, fácil de aprender e adaptável à fisiologia de qualquer raça, e foi essa plasticidade, não prestígio mágico, que o espalhou. Seu alcance é universal: falado em toda parte, foi assimilado por completo pelos [[_wiki/racas/shadar\|shadars]], enquanto os [[_wiki/racas/orc\|orcs]] imperiais o falam com sotaque. A difusão o tornou menos a língua de um povo e mais o terreno comum em que o continente conversa consigo mesmo.
 
 ### Escrita
 
@@ -16,4 +16,4 @@ Sua escrita usa um alfabeto humano adaptado, padronizado como a escrita administ
 
 ### Sotaques
 
-O Reinkárdico não tem um perfil fonético próprio marcado; o que distingue seus falantes são os sotaques. Entre os nativos, eles são regionais, variando de região para região. Entre as raças que o aprenderam como segunda língua, são de interferência: marcas da língua materna que persistem na pronúncia.
+O reinkárdico não tem um perfil fonético próprio marcado; o que distingue seus falantes são os sotaques. Entre os nativos, eles são regionais, variando de região para região. Entre as raças que o aprenderam como segunda língua, são de interferência: marcas da língua materna que persistem na pronúncia.

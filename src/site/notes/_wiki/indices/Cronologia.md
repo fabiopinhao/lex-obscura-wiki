@@ -24,11 +24,11 @@ Panoramas das Guerras Reinkárdicas: [[_wiki/conceitos/guerras_reinkardicas_a_so
 - [[_wiki/eventos/guerras_raciais\|Guerras Raciais]] — Disputa entre deuses travada com carne mortal; anterior à civilização organizada
 - [[_wiki/eventos/barreira_magica_luminar\|Barreira Mágica Luminar]] — Selamentos arcanos nas cordilheiras que impediam dragões de transpô-las
 - [[_wiki/eventos/cruzadas_contra_os_luminares\|Cruzadas contra os Luminares]] — Braço militarizado da igreja álvarar contra os elfos da luz
-- [[_wiki/eventos/surgimento_dos_primeiros_shadar\|Surgimento dos Primeiros Shadar]] — Dissidentes humanos buscaram pactos diabólicos, sufocados pela ortodoxia álvarar
 
 ## Primeira Era
 
 - [[_wiki/eventos/queda_dos_luminares\|Queda dos Luminares]] — Fragmentação definitiva dos elfos da luz; originou elarinos e sylvanos
+- [[_wiki/eventos/surgimento_dos_primeiros_shadar\|Surgimento dos Primeiros Shadar]] — Humanos que assumiram a culpa do massacre recusaram a absolvição álvarar e buscaram pactos diabólicos
 - [[_wiki/eventos/pax_alabastrina\|Pax Alabastrina]] — Cooperação voluntária entre elarinos e humanos; amadurecimento do sistema Sancta
 - [[_wiki/eventos/fundacao_de_myrgarde\|Fundação de Myrgarde]] — Cinco cidadelas humanas unidas após expulsão dos Shadars das terras centrais
 - [[_wiki/eventos/migracao_shadar_ao_planalto\|Migração Shadar ao Planalto]] — Perseguidos pela ortodoxia, migraram ao planalto norte e encontraram os druls
@@ -74,7 +74,7 @@ Panoramas das Guerras Reinkárdicas: [[_wiki/conceitos/guerras_reinkardicas_a_so
 - [[_wiki/eventos/tensoes_e_ameacas_da_terceira_era\|Tensões da Terceira Era]] — Aliança drul fragilizada; migração órquica; 20 de 27 Justiciares mortos
 - [[_wiki/eventos/cadeia_da_fendris\|Cadeia da Fendris]] — Roubo da adaga Luminar do museu particular de Dessian Broel; mandante e motivo permanecem desconhecidos
 - [[_wiki/eventos/sabotagem_nas_forjas_de_thandruk_varn\|Sabotagem nas Forjas]] — Queda de produção em Thandruk Varn; natureza e autoria desconhecidas
-- [[_wiki/eventos/uncao_de_milorsevogh\|Unção de Milorsevogh]] — Sétimo Justiciar vivo; recebeu Spina Lexis, Codex e Oculus no Templo de Azkaroth
+- [[_wiki/eventos/uncao_de_milorsevogh\|Unção de Milorsevogh]] — Sétimo Justiciar vivo; recebeu Spina Lexis, Codex e Oculus no templo de Azkaroth
 - [[_wiki/eventos/nexus_silenciados_na_fortaleza_de_cristal\|Nexus Silenciados]] — Cristais de Elenir ativos mas silenciados de dentro para fora; sabotagem deliberada
 
 ---

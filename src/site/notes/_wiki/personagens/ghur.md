@@ -8,7 +8,7 @@ Ghur é um [[_wiki/racas/orc\|orc]], irmão de [[_wiki/personagens/grothar\|Grot
 
 ### Circunstâncias da Morte
 
-Antes do incêndio de Lendalas, Ghur e diversos orcs foram encontrados pendurados por raízes a quinze braças de altura, os pulmões cheios de seiva. As raízes saíram do chão e enrolaram-se em seu pescoço, numa morte lenta por estrangulamento vegetal, obra das raízes druídicas dos [[_wiki/racas/sylvano\|sylvanos]]. Para Grothar, a crueldade élfica superou qualquer brutalidade que testemunhou a serviço de lordes sombrios.
+Antes do incêndio de Lendalas, Ghur estava entre os orcs encontrados pendurados por raízes a quinze braças de altura, os pulmões cheios de seiva. As raízes saíram do chão e enrolaram-se em seu pescoço, numa morte lenta por estrangulamento vegetal, obra das raízes druídicas dos [[_wiki/racas/sylvano\|sylvanos]]. Para Grothar, a crueldade élfica superou qualquer brutalidade que testemunhou a serviço de lordes sombrios.
 
 ### Memória e Legado
 

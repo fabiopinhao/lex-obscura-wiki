@@ -4,7 +4,7 @@
 
 # Gholvyss
 
-Gholvyss é a língua primordial dos proto-[[_wiki/racas/drul\|druls]] e a primeira das línguas diabólicas, anterior ao [[_wiki/linguas/tenebraico\|Tenebraico]]. Serve como fala cotidiana dos druls e como idioma das invocações dos pactos diabólicos. Suas sibilantes dominantes (*ss*, *zh*, *vyss*), consoantes palatalizadas e sons nasais cavernosos produzem sussurros que parecem ecoar mesmo em espaços abertos, pontuados por cliques linguais que imitam gotas de água caindo de estalactites.
+Gholvyss é a língua primordial dos proto-[[_wiki/racas/drul\|druls]] e a primeira das línguas diabólicas, anterior ao [[_wiki/linguas/tenebraico\|tenebraico]]. Serve como fala cotidiana dos druls e como idioma das invocações dos pactos diabólicos. Suas sibilantes dominantes (*ss*, *zh*, *vyss*), consoantes palatalizadas e sons nasais cavernosos produzem sussurros que parecem ecoar mesmo em espaços abertos, pontuados por cliques linguais que imitam gotas de água caindo de estalactites.
 
 ### Som e atmosfera
 
@@ -16,8 +16,8 @@ Gholvyss tem três registros. Além do cotidiano e do mágico, existe o registro
 
 ### Escrita e gramática
 
-A escrita do Gholvyss não é convencional: transmite-se por marcas em seda de aranha, vibrações em teias rituais e gravações em pedra viva, de modo que lê-lo exige tato tanto quanto visão. A gramática é circular, e suas frases não terminam propriamente, mas encerram um ciclo e abrem outro. Cada invocação se estrutura em espiral, com declaração, repetição variada e uma conclusão que retorna ao início, refletindo a filosofia matriarcal segundo a qual o poder não avança em linha reta, mas envolve.
+A escrita do gholvyss não é convencional: transmite-se por marcas em seda de aranha, vibrações em teias rituais e gravações em pedra viva, de modo que lê-lo exige tato tanto quanto visão. A gramática é circular, e suas frases não terminam propriamente, mas encerram um ciclo e abrem outro. Cada invocação se estrutura em espiral, com declaração, repetição variada e uma conclusão que retorna ao início, refletindo a filosofia matriarcal segundo a qual o poder não avança em linha reta, mas envolve.
 
 ### Uso no mundo
 
-O Gholvyss é nativo dos druls, e as [[_wiki/organizacoes/ophideias\|ophideias]] o dominam no registro mágico. É a língua dos cânticos de intangibilidade e revelação da escola do [[_wiki/escolas/spectro\|Spectro]], dos rituais conduzidos em [[_wiki/locais/ghilanna\|Ghilanna]] e das invocações associadas a [[_wiki/personagens/syndrith_morghast\|Syndrith]] em [[_wiki/locais/niedellin\|Niedellin]]. Os [[_wiki/cosmologia/diabos\|diabos]] respondem a Gholvyss ou ao Tenebraico conforme a preferência. Versos como *Shevh ai gholn, sselir zhul ssolhi* ilustram sua sonoridade espiralada.
+O gholvyss é nativo dos druls, e as [[_wiki/organizacoes/ophideias\|ophideias]] o dominam no registro mágico. É a língua dos cânticos de intangibilidade e revelação da escola do [[_wiki/escolas/spectro\|Spectro]], dos rituais conduzidos em [[_wiki/locais/ghilanna\|Ghilanna]] e das invocações associadas a [[_wiki/personagens/syndrith_morghast\|Syndrith]] em [[_wiki/locais/niedellin\|Niedellin]]. Os [[_wiki/cosmologia/diabos\|diabos]] respondem a gholvyss ou ao tenebraico conforme a preferência. Versos como *Shevh ai gholn, sselir zhul ssolhi* ilustram sua sonoridade espiralada.

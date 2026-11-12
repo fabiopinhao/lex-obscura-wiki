@@ -16,7 +16,7 @@ O grimório escala da rachadura à ruptura catastrófica. Fissura cria rachadura
 
 ### Custos
 
-O custo temático é dor aguda nas articulações e a sensação de fraturas, de dois minutos a três horas. O custo ontológico é o impulso destrutivo: construir se torna tedioso e quebrar, satisfatório. Começa como uma satisfação sutil ao ver coisas quebrarem e avança até que objetos intactos provoquem desconforto e só a destruição produza significado. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como [[_wiki/organizacoes/templarios\|Templários]] de demolição e sapadores.
+O custo temático é dor aguda nas articulações e a sensação de fraturas, de dois minutos a três horas. O custo ontológico é o impulso destrutivo: construir se torna tedioso e quebrar, satisfatório. Começa como uma satisfação sutil ao ver coisas quebrarem e avança até que objetos intactos provoquem desconforto e só a destruição produza significado. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes entre os [[_wiki/organizacoes/templarios\|templários]], empregando-os em demolição e trabalho de sapa.
 
 ### Combinações e oposição
 

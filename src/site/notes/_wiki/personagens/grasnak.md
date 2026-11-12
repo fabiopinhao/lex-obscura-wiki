@@ -4,11 +4,11 @@
 
 # Grasnak
 
-Grasnak é uma figura lendária da tradição oral [[_wiki/racas/orc\|órquica]], protagonista dos Cantos de Grasnak, épico sobre a defesa da fortaleza anã de Khaz-Ankor ao longo de sete noites. Não tem localização temporal precisa e sobrevive exclusivamente como herança cultural, transmitida pela voz entre gerações de orcs.
+Grasnak é uma figura lendária da tradição oral [[_wiki/racas/orc\|órquica]], protagonista dos Cantos de Grasnak, épico sobre a defesa da fortaleza anânica de Khaz-Ankor ao longo de sete noites. Não tem localização temporal precisa e sobrevive exclusivamente como herança cultural, transmitida pela voz entre gerações de orcs. Não se sabe em que era viveu, nem se Grasnak é nome próprio ou título honorífico.
 
 ### Os Cantos
 
-Os Cantos de Grasnak constituem tradição oral nunca transcrita; para um orc, escrever uma canção seria tão absurdo quanto engarrafar o vento. O épico narra a defesa de uma fortaleza anã pelos orcs, embora a origem dessa defesa, dado o ódio ancestral entre as duas raças, permaneça incerta. A preservação dos Cantos é, paradoxalmente, produto do desprezo imperial: os [[_wiki/racas/shadar\|shadars]] nunca pediram tradução nem tentaram suprimi-los, e o [[_wiki/linguas/orcanico\|Orcânico]] sobrevive porque ninguém se deu ao trabalho de destruí-lo.
+Os Cantos de Grasnak constituem tradição oral nunca transcrita; para um orc, escrever uma canção seria tão absurdo quanto engarrafar o vento. O épico narra a defesa de uma fortaleza anânica pelos orcs, embora a origem dessa defesa, dado o ódio ancestral entre as duas raças, permaneça incerta. A preservação dos Cantos é, paradoxalmente, produto do desprezo imperial: os [[_wiki/racas/shadar\|shadars]] nunca pediram tradução nem tentaram suprimi-los, e o [[_wiki/linguas/orcanico\|orcânico]] sobrevive porque ninguém se deu ao trabalho de destruí-lo.
 
 ### Reverberação
 

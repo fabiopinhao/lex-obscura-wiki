@@ -17,6 +17,12 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 - [[_wiki/locais/varnak\|Varnak]] — Região montanhosa em Veinkard, território tribal fragmentado
 - [[_wiki/locais/qadesh\|Qadesh]] — Cidade-estado vassala no deserto oriental
 
+## Domínios conquistados
+
+- [[_wiki/locais/danvorn\|Danvorn]]: domínio arrasado pelo Culto, com as cinzas salgadas
+- [[_wiki/locais/orandia\|Orandia]]: domínio cujo templo foi convertido em depósito de grãos
+- [[_wiki/locais/thervad\|Thervad]]: domínio cuja catedral foi convertida em estábulo; sede de uma escola de alquimistas
+
 ## Fortalezas e Sedes de Poder
 
 - [[_wiki/locais/mor_severith\|Mor’Severith]] — Torre de Arothistar, fundida ao Pico de Nethys
@@ -38,8 +44,8 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 - [[_wiki/locais/ghilanna\|Ghilanna]] — Cidadela drul em Vor-Ghol, sede matriarcal da Casa Durzken
 - [[_wiki/locais/xarn_zareth\|Xarn’Zareth]] — Distrito sagrado em Ghilanna, Eparquia de Jaakurs
 - [[_wiki/locais/thandruk_varn\|Thandruk Varn]] — Cidadela anã, forjas mestras dos arsenais imperiais
-- [[_wiki/locais/ghol_mournak\|Ghol’Mournak]] — Câmara subterrânea sob Morvgrad, residência de Nyx’Ara
-  - [[_wiki/locais/camara_de_othuun\|Câmara de Othuun]] — Escadaria de 500 degraus sussurrantes, oráculo
+- [[_wiki/locais/ghol_mournak\|Ghol’Mournak]] — Nível subterrâneo sob Morvgrad; galerias inferiores com os poços de piche, onde Nyx’Ara atende
+  - [[_wiki/locais/camara_de_othuun\|Câmara de Othuun]] — Passagem para Ghol’Mournak; escadaria de 500 degraus sussurrantes
   - [[_wiki/locais/poco_etereo\|Poço Etéreo]] — Nexo central de comunicações do Oculus
 - [[_wiki/locais/ghargash\|Ghargash]] — Forte tribal, carnificina que marcou a juventude de Grothar
 
@@ -86,7 +92,7 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 - [[_wiki/locais/fosso_da_purga\|Fosso da Purga]] — Local de execuções sumárias
 - [[_wiki/locais/ermo_de_lendalas\|Ermo de Lendalas]] — Descampado de cinzas onde Lendalas foi queimada
 - [[_wiki/locais/jardim_dos_inocentes\|Jardim dos Inocentes]] — Cemitério de Myrgarde
-- [[_wiki/locais/veio_morto\|Veio Morto]] — Passagem subterrânea de Vor-Ghol, dridars selvagens
+- [[_wiki/locais/veio_morto\|Veio Morto]] — Passagem subterrânea de Vor-Ghol, drídares selvagens
 - [[_wiki/locais/eixo_de_drenn\|Eixo de Drenn]] — Rota subterrânea de contorno em Vor-Ghol
 - [[_wiki/locais/galeria_menor\|Galeria Menor]] — Corredor subterrâneo sujeito a marés
 - [[_wiki/locais/quintos_de_irkhal\|Quintos de Irkhal]] — Região subterrânea remota de Vor-Ghol

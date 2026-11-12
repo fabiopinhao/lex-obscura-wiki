@@ -4,12 +4,12 @@
 
 # Câmara de Othuun
 
-A Câmara de Othuun é uma câmara subterrânea nas profundezas de [[_wiki/locais/ghol_mournak\|Ghol’Mournak]], sob [[_wiki/locais/morvgrad\|Morvgrad]]. Serve de residência a [[_wiki/personagens/nyx_ara\|Nyx’Ara]] e não responde à hierarquia formal do Culto: é um ponto independente dentro da capital. Comporta menos de dez pessoas.
+A Câmara de Othuun é um complexo em [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], em [[_wiki/locais/morvgrad\|Morvgrad]], e uma das passagens para [[_wiki/locais/ghol_mournak\|Ghol’Mournak]]. É de controle independente e não responde à hierarquia formal do Culto.
 
 ### Acesso
 
-Chega-se à Câmara por uma escadaria espiral de quinhentos degraus que descem de [[_wiki/locais/xarn_aroth\|Xarn’Aroth]]. Os degraus sussurram nomes de segredos durante a descida, e poços de piche pontuam as profundezas ao redor.
+A fachada é um selo de mármore gravado na encosta da montanha, com gárgulas de ônix nos portais e portões de ferro sob guarda. Do vestíbulo partem os dois caminhos para o nível fundo: uma escadaria espiral de quinhentos degraus, nas espirais leste, e um elevador. A entrada da escadaria fica na segunda alcova depois do Salão dos Ecos, marcada com o sigilo de descida. Durante a descida, os degraus sussurram nomes de segredos enterrados.
 
 ### A oráculo
 
-Nyx’Ara, que habita a Câmara, é uma oráculo de aparência mutável e natureza ambígua. [[_wiki/personagens/jaakurs\|Jaakurs]] recomendou a [[_wiki/personagens/orum-rahru\|Orum]] que a visitasse.
+[[_wiki/personagens/nyx_ara\|Nyx’Ara]], oráculo de aparência mutável e natureza ambígua, atende ao fim da descida, nas galerias inferiores de Ghol’Mournak, junto aos poços de piche. [[_wiki/personagens/jaakurs\|Jaakurs]] recomendou a [[_wiki/personagens/orum-rahru\|Orum]] que a visitasse.

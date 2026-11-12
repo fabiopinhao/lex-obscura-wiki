@@ -18,9 +18,11 @@ O nome opera em duas imagens. Como coluna arquitetônica, o cetro sustenta a est
 
 O núcleo é pedra lunar extraída das cavernas sagradas de [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], escolhida pela ressonância com magias negras. Fragmentos ósseos, relíquias dos primeiros traidores executados pelo culto, foram incorporados à haste. Runas gravadas em espiral descendente trazem trechos do [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] em escrita microscópica.
 
+A pedra lunar apaga quando o portador paga o custo até o limite: perde o pulso, fica opaca, e o cetro escapa da mão que já não consegue fechar-se sobre ele.
+
 ### Vinculação
 
-Durante a ordenação, o cetro é apresentado ao novo Justiciar com a fórmula “Spina Lexis. Canalem voluntatis. Percute, dirige, sentencia.”, que o consagra como canal de vontade e nomeia a tríade de seus poderes. A partir daí, responde apenas ao toque de seu juiz designado; quem mais tente empunhá-lo experimenta dor lancinante e, em casos extremos, paralisia.
+Durante a ordenação, o cetro é apresentado ao novo Justiciar com a fórmula “Spina Lexis. Canalem voluntatis. Percute, dirige, sententia.”, que o consagra como canal de vontade e nomeia a tríade de seus poderes. A partir daí, responde apenas ao toque de seu juiz designado; quem mais tente empunhá-lo experimenta dor lancinante e, em casos extremos, paralisia.
 
 ### Poderes
 

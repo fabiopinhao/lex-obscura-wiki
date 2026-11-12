@@ -18,4 +18,4 @@ O conflito divide-se em três períodos. [[_wiki/conceitos/guerras_reinkardicas_
 
 ### Consequências
 
-A guerra alterou o mapa do continente e redefiniu quem contava como gente dentro dele. Dela saíram a [[_wiki/eventos/formalizacao_militar_dos_orcs\|formalização militar dos orcs]], o emprego dos goblinoides como engrenagem logística, a escravidão das raças derrotadas e a hierarquia racial que o Império aplicaria depois como premissa operacional. Seu encerramento, com a queda de Myrgarde, abre a [[_wiki/conceitos/terceira_era\|Terceira Era]].
+A guerra alterou o mapa do continente e redefiniu quem contava como gente dentro dele. Dela saíram a [[_wiki/eventos/formalizacao_militar_dos_orcs\|formalização militar dos orcs]], o emprego dos demais goblinoides como engrenagem logística, a escravidão das raças derrotadas e a hierarquia racial que o Império aplicaria depois como premissa operacional. Seu encerramento, com a queda de Myrgarde, abre a [[_wiki/conceitos/terceira_era\|Terceira Era]].

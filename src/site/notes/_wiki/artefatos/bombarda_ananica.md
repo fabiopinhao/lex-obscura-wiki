@@ -4,7 +4,7 @@
 
 # Bombarda Anânica
 
-A Bombarda Anânica é uma arma de fogo híbrida desenvolvida nas forjas de [[_wiki/locais/thandruk_varn\|Thandruk Varn]] após a conquista da cidadela pelos [[_wiki/racas/shadar\|shadars]]. Nasceu da cooperação forçada entre a maestria metalúrgica dos anões [[_wiki/racas/karashim\|karashim]] escravizados e os avanços alquímicos do Culto, e é artefato de elite, não arma de massa.
+A Bombarda Anânica é uma arma de fogo híbrida desenvolvida nas forjas de [[_wiki/locais/thandruk_varn\|Thandruk Varn]] após a conquista da cidadela pelos [[_wiki/racas/shadar\|shadars]]. Nasceu da cooperação forçada entre a maestria metalúrgica dos anões [[_wiki/racas/karashim\|karashim]] subjugados e os avanços alquímicos do Culto, e é artefato de elite, não arma de massa.
 
 ### Construção
 

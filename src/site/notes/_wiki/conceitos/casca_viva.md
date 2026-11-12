@@ -8,7 +8,7 @@ A casca-viva é um material de origem vegetal usado pelos [[_wiki/racas/sylvano\
 
 ### Uso
 
-Presta-se a armadura leve reforçada, que adere ao corpo como segunda pele e acompanha o movimento sem a rigidez das peças de placa. É o equipamento característico dos rangers sylvanos, adequado a quem precisa atravessar floresta densa sem ruído e sem perder proteção.
+Presta-se a armadura leve reforçada, que adere ao corpo como segunda pele e acompanha o movimento sem a rigidez das peças de placa. É o equipamento característico dos montarazes sylvanos, adequado a quem precisa atravessar floresta densa sem ruído e sem perder proteção.
 
 ### Valor Social
 

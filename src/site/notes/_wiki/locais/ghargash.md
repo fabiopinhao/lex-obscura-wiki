@@ -4,7 +4,7 @@
 
 # Ghargash
 
-Ghargash é um forte tribal nas terras gélidas a noroeste do Planalto [[_wiki/racas/shadar\|Shadar]], território das tribos [[_wiki/racas/orc\|orcas]]. É lembrado, antes de tudo, por uma batalha tão brutal que ficou conhecida como a carnificina de Ghargash, nome que os orcs não empregam com leviandade.
+Ghargash é um forte tribal nas terras gélidas a noroeste do Planalto [[_wiki/racas/shadar\|shadar]], território das tribos [[_wiki/racas/orc\|orcas]]. É lembrado, antes de tudo, por uma batalha tão brutal que ficou conhecida como a carnificina de Ghargash, nome que os orcs não empregam com leviandade.
 
 ### A Carnificina
 

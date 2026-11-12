@@ -8,11 +8,11 @@ Belarbreza Vhaskrith, chamada Forja-Tormentos, é matriarca [[_wiki/racas/drul\|
 
 ### Aparência
 
-É alta como coluna de templo, de voz macia que desce a registro grave o bastante para fazer ossos vibrarem e punhos calibrados por séculos de dor. O olhar avalia antes de qualquer outra coisa. Os epítetos Forja-Tormentos e a Aranha derivam, respectivamente, do método das Câmaras e do sorriso com que o conduz.
+É alta como coluna de templo, de voz macia que desce a registro grave o bastante para fazer ossos vibrarem e punhos calibrados por décadas de dor. Os olhos dissecam almas antes dos corpos, e o sorriso é de aranha à espreita. O epíteto Forja-Tormentos deriva do método das Câmaras.
 
 ### Origem e papel
 
-Belarbreza não forma ophideias: forja-as. As Câmaras de Provação operam sob um único princípio, o de que lealdade, técnica e instinto assassino se destilam pela dor sistemática, não pelo ensino. Iniciadas permanecem suspensas por dias, têm dedos quebrados e refeitos, são levadas até o limite do que sobrevive; quem cede é descartada sem registro, e quem resiste sai dali como instrumento das matriarcas de Xarn’Zareth.
+Belarbreza forja as ophideias que recebe. As Câmaras de Provação operam sob um único princípio, o de que lealdade, técnica e instinto assassino se destilam pela dor sistemática. Iniciadas permanecem suspensas por dias, têm dedos quebrados repetidamente, são levadas até o limite do que sobrevive; quem cede é descartada, e quem resiste sai dali como instrumento das matriarcas de Xarn’Zareth.
 
 A formação da jovem [[_wiki/personagens/nidzina_avaroth\|Nidzina]] transcorre inteira sob essa jurisdição. Quando [[_wiki/personagens/nyssira_avaroth\|Nyssira Avaroth]], acompanhada de [[_wiki/personagens/orum-rahru\|Orum-Rahru]], desce a Vor-Ghol para negociar o treinamento da filha, é Belarbreza quem recebe a encomenda e fixa os termos. As descidas anuais da [[_wiki/racas/shadar\|shadar]] de superfície a Xarn’Zareth ocorrem todas sob o domínio das Câmaras que ela mantém.
 
@@ -20,8 +20,10 @@ A formação da jovem [[_wiki/personagens/nidzina_avaroth\|Nidzina]] transcorre 
 
 Belarbreza designa [[_wiki/personagens/syndrith_morghast\|Syndrith]] e [[_wiki/personagens/zarae\|Zarae]] como par instrutor da recém-chegada e exige delas formação sem concessão: tudo deve ser mostrado, inclusive os rituais aracnídeos e a língua proibida, sem abrandamentos. As duas aprendizes apostam que a estrangeira implorará pela mãe na primeira semana; a matriarca não corrige a presunção e deixa o resultado contradizê-la.
 
-Sua autoridade se exerce por veredito, não por intervenção. No duelo entre aprendizes em que Nidzina mata Zarae, Belarbreza observa sem interferir, examina o corpo e o ratifica como combate legítimo: “Limpo. Válido.” O ato não arbitra uma disputa, sela uma hierarquia, pois a estrangeira provou ferro verdadeiro nas Câmaras que ela governa, e isso pesa mais que a perda de uma aprendiz.
+Entre os que negociam no subterrâneo, tem fama de só aceitar troca, favor por favor, e o crédito com ela vale mais do que moeda, apodrece mais devagar e corta mais fundo.
+
+Sua autoridade se exerce por veredito. No duelo entre aprendizes em que Nidzina mata Zarae, Belarbreza observa sem interferir, examina o corpo e o ratifica como combate legítimo: “Limpo. Válido.” O ato sela uma hierarquia: a estrangeira provou ferro verdadeiro nas Câmaras que ela governa, e isso pesa mais que a perda de uma aprendiz.
 
 ### Relações
 
-Nas Câmaras vale a regra funcional de que quem cai, caiu: a matriarca não protege, avalia. Aceitou a encomenda de Nyssira e entregou o resultado sem sentimento, certificando a têmpera de Nidzina como questão técnica; o que a shadar faz com ela já não é assunto seu. Validou sem hesitar a morte de Zarae, sua própria aprendiz, e manteve Syndrith sob sua jurisdição até que esta se tornasse ophideia completa, porque o treinamento não prevê luto, apenas continuidade. A negociação do treinamento de Nidzina selou a aliança entre a Casa Vhaskrith e a Casa Avaroth: Nyssira trouxe a proposta, Orum-Rahru o argumento, e Belarbreza forneceu a forja.
+Nas Câmaras vale a regra funcional de que quem cai, caiu: a matriarca avalia. Aceitou a encomenda de Nyssira e entregou o resultado sem sentimento, certificando a têmpera de Nidzina como questão técnica; o que a shadar faz com ela já não é assunto seu. Validou sem hesitar a morte de Zarae, sua própria aprendiz, e manteve Syndrith sob sua jurisdição até que esta se tornasse ophideia completa, porque o treinamento não prevê luto, apenas continuidade. A negociação do treinamento de Nidzina selou a aliança entre a Casa Vhaskrith e a Casa Avaroth: Nyssira trouxe a proposta, Orum-Rahru o argumento, e Belarbreza forneceu a forja.

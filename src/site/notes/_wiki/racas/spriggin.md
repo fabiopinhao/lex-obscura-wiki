@@ -16,7 +16,7 @@ De porte gnômico padrão, entre 1,10 m e 1,30 m, os spriggins têm pele em tons
 
 ### Cultura e Costumes
 
-A cultura spriggin era indissociável do habitat. Sem escrita própria, a tradição era oral e gestual: cantos de raiz, vocalizações graves que imitavam o som de madeira sob pressão, marcas em casca viva, símbolos entalhados que cicatrizavam com a árvore e se tornavam parte dela, e rotas de patrulha transmitidas por repetição geracional. Não havia conceito de propriedade, apenas território, e território era o que se cuidava. A parceria com os sylvanos produziu empréstimos culturais em ambas as direções: os spriggins adotaram elementos da língua [[_wiki/linguas/sylvaen\|Sylvaen]] para nomear espécies vegetais e ciclos lunares, e os sylvanos incorporaram técnicas spriggin de manejo de solo e identificação de fungos.
+A cultura spriggin era indissociável do habitat. Sem escrita própria, a tradição era oral e gestual: cantos de raiz, vocalizações graves que imitavam o som de madeira sob pressão, marcas em casca viva, símbolos entalhados que cicatrizavam com a árvore e se tornavam parte dela, e rotas de patrulha transmitidas por repetição geracional. Não havia conceito de propriedade, apenas território, e território era o que se cuidava. A parceria com os sylvanos produziu empréstimos culturais em ambas as direções: os spriggins adotaram elementos da língua [[_wiki/linguas/sylvaen\|sylvaen]] para nomear espécies vegetais e ciclos lunares, e os sylvanos incorporaram técnicas spriggin de manejo de solo e identificação de fungos.
 
 ### Relação com a Magia
 

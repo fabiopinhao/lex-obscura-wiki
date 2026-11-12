@@ -8,7 +8,7 @@ A magia não se distribui por igual. A imensa maioria das pessoas não acessa po
 
 ### Distribuição na População
 
-Tomando os [[_wiki/racas/shadar\|Shadars]] como exemplo, cerca de 85% da população não tem qualquer acesso à magia: são pessoas comuns, soldados, burocratas, de poder inteiramente mundano. Outros 12% mantêm um único pacto, caso típico de sacerdotes e [[_wiki/organizacoes/templarios\|templários]], com especialização moderada em uma ou duas escolas. Apenas 2,5% sustentam dois pactos, faixa do alto clero e dos [[_wiki/organizacoes/ophideias\|Ophideias]] de elite, com domínio de duas a quatro escolas. Mais raros ainda, cerca de 0,4%, são os praticantes do [[_wiki/magia/teru\|Teru]], categoria que abrange todos os [[_wiki/organizacoes/justiciares\|Justiciares]] e os estudiosos arcanos, cuja via concede acesso amplo a muitas escolas, com versatilidade alta e profundidade média.
+Tomando os [[_wiki/racas/shadar\|shadars]] como exemplo, cerca de 85% da população não tem qualquer acesso à magia: são pessoas comuns, soldados, burocratas, de poder inteiramente mundano. Outros 12% mantêm um único pacto, caso típico de sacerdotes e [[_wiki/organizacoes/templarios\|templários]], com especialização moderada em uma ou duas escolas. Apenas 2,5% sustentam dois pactos, faixa do alto clero e dos [[_wiki/organizacoes/ophideias\|Ophideias]] de elite, com domínio de duas a quatro escolas. Mais raros ainda, cerca de 0,4%, são os praticantes do [[_wiki/magia/teru\|Teru]], categoria que abrange todos os [[_wiki/organizacoes/justiciares\|Justiciares]] e os estudiosos arcanos, cuja via concede acesso amplo a muitas escolas, com versatilidade alta e profundidade média.
 
 ### Pirâmide de Poder
 
@@ -20,4 +20,4 @@ Manter dois ou mais pactos é excepcional. Cada vínculo adicional multiplica os
 
 ### Limites Naturais
 
-A capacidade mágica esbarra em limites de natureza. Cada raça acessa apenas uma cor primária, o que estabelece um teto teórico de dez escolas, um terço das trinta existentes; na prática, raríssimos ultrapassam quatro. Toda entidade, por sua vez, possui uma cor dominante, que determina o sistema pelo qual é acessada e as escolas que pode conceder. Um Shadar, alinhado aos diabos, pode pactuar com uma entidade de dominância diabólica, mesmo que ela reúna mais de uma cor, mas não com entidades de cores incompatíveis.
+A capacidade mágica esbarra em limites de natureza. Cada raça acessa apenas uma cor primária, o que estabelece um teto teórico de dez escolas, um terço das trinta existentes; na prática, raríssimos ultrapassam quatro. Toda entidade, por sua vez, possui uma cor dominante, que determina o sistema pelo qual é acessada e as escolas que pode conceder. Um shadar, alinhado aos diabos, pode pactuar com uma entidade de dominância diabólica, mesmo que ela reúna mais de uma cor, mas não com entidades de cores incompatíveis.

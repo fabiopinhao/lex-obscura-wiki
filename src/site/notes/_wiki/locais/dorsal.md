@@ -4,7 +4,7 @@
 
 # Dorsal
 
-A Dorsal é uma cordilheira imponente que cerca o planalto [[_wiki/racas/shadar\|shadar]] pelos flancos norte e oeste, formando um arco cuja maior parte se estende dentro de [[_wiki/locais/reinkard\|Reinkard]]. É também chamada Cordilheiras de Reinkard, Cordilheiras do Norte, Montanhas do Oeste ou fronteira oeste, conforme o trecho de que se fala. Suas passagens são limitadas e perigosas, as rotas de travessia controladas, e poucas expedições shadares a cruzam com regularidade. [[_wiki/personagens/yzmareth\|Yzmareth]] é o único [[_wiki/racas/draconideo\|draconídeo]] visto a sobrevoá-la, singularidade que nenhum registro explica.
+A Dorsal é uma cordilheira imponente que contorna o planalto [[_wiki/racas/shadar\|shadar]] em arco, do leste ao oeste passando pelo nordeste, pelo norte e pelo noroeste, com a maior parte da extensão dentro de [[_wiki/locais/reinkard\|Reinkard]]. Ao sul não há cordilheira alguma: sudeste, sul e sudoeste são a descida do planalto, e é por ali que se chega à [[_wiki/locais/ventrista\|Ventrista]] e a [[_wiki/locais/niedellin\|Niedellin]]. É também chamada Cordilheiras de Reinkard, Cordilheiras do Norte, Montanhas do Oeste ou fronteira oeste, conforme o trecho de que se fala. Suas passagens são limitadas e perigosas, as rotas de travessia controladas, e poucas expedições shadars a cruzam com regularidade. [[_wiki/personagens/yzmareth\|Yzmareth]] é o único [[_wiki/racas/draconideo\|draconídeo]] visto a sobrevoá-la, singularidade que nenhum registro explica.
 
 ### Os dois trechos
 
@@ -20,7 +20,7 @@ Na [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]] e na [[_wiki/conceitos/p
 
 ### A quebra da barreira
 
-Na [[_wiki/conceitos/segunda_era\|Segunda Era]], a corrupção sombria acumulada no planalto shadar consumiu o magi residual e a barreira arcana se dissipou. As consequências imediatas foram limitadas, pois os dragões já haviam migrado para Veinkard, mas a longo prazo os orcs passaram a cruzar livremente, num fluxo migratório crescente em direção ao planalto. As fortalezas órquicas shadar tornaram-se a única contenção real da fronteira norte. Na [[_wiki/conceitos/terceira_era\|Terceira Era]], a Dorsal é exclusivamente barreira geográfica, e sua componente arcana já não é detectável.
+Na [[_wiki/conceitos/segunda_era\|Segunda Era]], a corrupção sombria acumulada no planalto shadar consumiu o magi residual e a barreira arcana se dissipou. As consequências imediatas foram limitadas, pois os dragões já haviam migrado para Veinkard, mas a longo prazo os orcs passaram a cruzar livremente, num fluxo migratório crescente em direção ao planalto. As fortalezas órquicas shadars tornaram-se a única contenção real da fronteira norte. Na [[_wiki/conceitos/terceira_era\|Terceira Era]], a Dorsal é exclusivamente barreira geográfica, e sua componente arcana já não é detectável.
 
 ### O Pico de Nethys
 
@@ -28,4 +28,4 @@ Seu ponto mais elevado na margem voltada para o planalto é o Pico de Nethys, an
 
 ### Limite do Império
 
-O trecho oeste da Dorsal define o limite funcional do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Arothistar não o cruza por cálculo estratégico: ainda que pudesse dominar os vales de Varnak, Varna e os draconídeos aliados tornariam impossível manter ali uma província, e [[_wiki/locais/morvgrad\|Morvgrad]] teme, acima de quase tudo, perder batalhas.
+O trecho oeste da Dorsal define o limite funcional do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Arothistar não o cruza por cálculo estratégico: ainda que pudesse dominar os vales de Varnak, Varna e os draconídeos aliados tornariam impossível manter ali uma província, e Morvgrad teme, acima de quase tudo, perder batalhas.

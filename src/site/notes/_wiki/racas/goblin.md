@@ -4,7 +4,7 @@
 
 # Goblin
 
-Os goblins são corrupções demoníacas da linhagem gnômica, produto das mesmas forças que remodelaram os humanoides durante as [[_wiki/eventos/guerras_raciais\|Guerras Raciais]]. Pela nomenclatura gnômica, goblin significa gnomo vermelho. Sustentam a logística do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] como intendentes de fortaleza: enquanto os [[_wiki/racas/orc\|orcs]] combatem, os goblins constroem, mantêm e improvisam.
+Os goblins são corrupções demoníacas da linhagem gnômica, produto das mesmas forças que remodelaram os humanoides durante as [[_wiki/eventos/guerras_raciais\|Guerras Raciais]]. Sustentam a logística do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] como intendentes de fortaleza: enquanto os [[_wiki/racas/orc\|orcs]] combatem, os goblins constroem, mantêm e improvisam.
 
 ### Origem
 
@@ -36,4 +36,12 @@ Como sub-raça gnômica vinculada aos demônios, os goblins têm acesso ao [[_wi
 
 ### Voz
 
-Goblins falam rápido, em frases curtas e truncadas, engolindo sílabas quando apressados. O vocabulário é utilitário, concreto, desprovido de abstração: onde um orc fala de honra, um goblin fala de comida; onde um shadar fala de ordem, um goblin fala de conserto. A queixa é o modo padrão de comunicação, e a intensidade da reclamação tende a ser inversamente proporcional à gravidade real do problema. O [[_wiki/linguas/orcanico\|Orcânico]] é compreendido pelos goblins que servem em fortalezas orcs, mas a pronúncia goblin é mais aguda e mais rápida.
+Goblins falam rápido, em frases curtas e truncadas, engolindo sílabas quando apressados. O vocabulário é utilitário, concreto, desprovido de abstração: onde um orc fala de honra, um goblin fala de comida; onde um shadar fala de ordem, um goblin fala de conserto. A queixa é o modo padrão de comunicação, e a intensidade da reclamação tende a ser inversamente proporcional à gravidade real do problema. O [[_wiki/linguas/orcanico\|orcânico]] é compreendido pelos goblins que servem em fortalezas orcs, mas a pronúncia goblin é mais aguda e mais rápida.
+
+### Conflitos Internos
+
+O conflito central dos goblins não é dramático, é existencial por erosão. Gerações de domesticação apagaram qualquer identidade coletiva que tenha existido, e o goblin imperial não sabe o que é além de sua função. Quando a função desaparece, quando uma fortaleza é abandonada ou uma cozinha se fecha, o goblin designado para aquele posto não se rebela nem migra: paralisa. A compulsão por acumulação é o único vestígio de algo anterior ao Império, e mesmo ela foi canalizada para fins práticos.
+
+Em Veinkard, os goblins selvagens conservam uma vitalidade que os imperiais perderam: agressividade, território, disputa por recursos. A distância entre os dois grupos cresce a cada geração, e um goblin selvagem que encontrasse um imperial provavelmente não o reconheceria como igual.
+
+Sob tudo isso está a descartabilidade, que é a tensão mais concreta de todas: os goblins sobrevivem no Império pela inércia de sua própria indispensabilidade invisível.

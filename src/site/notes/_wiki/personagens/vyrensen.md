@@ -4,7 +4,7 @@
 
 # Malachar Vyrensen
 
-Malachar Vyrensen é um [[_wiki/racas/shadar\|Shadar]] conselheiro do [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], conhecido como o “Coletor de Dívidas”. Responde pela [[_wiki/organizacoes/coletoria\|Coletoria]] e tem sede em [[_wiki/locais/morvgrad\|Morvgrad]]. Temido no mercado negro, faz da polidez um instrumento de ameaça.
+Malachar Vyrensen é um [[_wiki/racas/shadar\|shadar]] conselheiro do [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], conhecido como o “Coletor de Dívidas”. Responde pela [[_wiki/organizacoes/coletoria\|Coletoria]] e tem sede em [[_wiki/locais/morvgrad\|Morvgrad]]. Temido no mercado negro, faz da polidez um instrumento de ameaça.
 
 ### No Conselho
 

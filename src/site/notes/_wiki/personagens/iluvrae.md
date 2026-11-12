@@ -16,7 +16,7 @@ Foi tomada na queda de Elenir, cidade dos elarinos, e levada para Mor’Severith
 
 ### Magia
 
-Domina a cura elarina, magia de luz pálida própria de seu povo. É esse o dom que a torna útil aos captores e que ela exerce dentro da cela.
+Domina a cura elarina, própria de seu povo, e a exerce dentro da cela.
 
 ### Relações
 

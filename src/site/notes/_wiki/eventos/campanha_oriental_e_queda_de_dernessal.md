@@ -10,7 +10,7 @@ A Campanha Oriental, ou Campanha do Leste, foi a segunda grande ofensiva do [[_w
 
 A campanha foi concebida como esforço conjunto: vários generais, pares em patente, cada um à frente de sua própria legião, desceram pelo leste do continente. As batalhas nas planícies foram de atrito direto, sem o abrigo das emboscadas montanhesas: muralhas sitiadas, campos abertos, cargas de cavalaria contra formações órquicas. Todos os lados sangravam.
 
-À medida que os generais shadar tombavam em combate, suas legiões, longe do planalto e sem cadeia de comando clara, juntavam-se ao general mais próximo com força para protegê-las. Sucessivas incorporações engrossaram as tropas de Dravhok, que alcançou Dernessal à frente da maior legião que o Culto havia reunido sob um único comandante.
+À medida que os generais shadars tombavam em combate, suas legiões, longe do planalto e sem cadeia de comando clara, juntavam-se ao general mais próximo com força para protegê-las. Sucessivas incorporações engrossaram as tropas de Dravhok, que alcançou Dernessal à frente da maior legião que o Culto havia reunido sob um único comandante.
 
 ### Queda de Dernessal
 

@@ -14,7 +14,7 @@ A escola pertence ao instantâneo: o efeito acontece no exato momento da conjura
 
 A mecânica escala da faísca à devastação em cadeia. Faísca libera uma descarga estática pontual, choque que dói e interrompe a concentração; Relâmpago dispara um arco direto contra um alvo único, com queimadura e espasmo muscular; Raio Voltaico salta entre alvos condutores, atingindo de preferência quem está molhado ou em armadura metálica. Indução infunde corrente estável em corpos, armas e superfícies, e Estática acumula carga no próprio conjurador como dissuasão defensiva.
 
-No domínio magnético, Magnetizar atrai e repele objetos pequenos, Imantação ergue um campo defensivo que desvia projéteis, e Magnetarca controla metal em raio amplo, arrancando armas das mãos e imobilizando guerreiros dentro das próprias armaduras. Convulsão libera uma onda que sobrecarrega o sistema nervoso, e o alvo sabe o que quer fazer mas o corpo se recusa a obedecer. No ápice está Fulmíneo, descarga catastrófica em que relâmpagos caem em sequência, o ar se ioniza e o campo magnético esmaga armaduras.
+No domínio magnético, Magnetizar atrai e repele objetos pequenos, Imantação ergue um campo defensivo que desvia projéteis, e Magnetarca controla metal em raio amplo, arrancando armas das mãos e imobilizando guerreiros dentro das próprias armaduras. Convulsão libera uma onda que sobrecarrega o sistema nervoso, e o alvo sabe o que quer fazer mas o corpo se recusa a obedecer. No ápice está Fulmíneo, descarga catastrófica em que relâmpagos caem em sequência, o ar se ioniza e o campo magnético esmaga armaduras. Abaixo dele, o *Fulgur caelestis* é invocação de raio único; como toda invocação de Electro, cobra o custo temático no corpo de quem o lança.
 
 ### Custos
 

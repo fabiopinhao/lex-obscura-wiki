@@ -6,6 +6,8 @@
 
 A Devotio Sancta é o sistema de acesso mágico ancorado na fé religiosa: o poder vem da devoção genuína a entidades de luz, ordem e pureza, concedido pelos [[_wiki/cosmologia/anjos\|anjos]] como bênção. De estabilidade alta e dificuldade média, é doutrinariamente tolerada de modo condicional no [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]].
 
+No uso corrente, o sistema se chama apenas Sancta, “a magia que se ergue pela fé”; Devotio Sancta é o nome formal. A reverência Sancta, rito das mãos entre os povos livres, é prática distinta.
+
 ### Canalização
 
 A transferência de [[_wiki/cosmologia/magi\|magi]] na Devotio Sancta chama-se Dádiva, e é sagrada e condicional. O anjo concede poder em proporção à fé do devoto e amplifica os sentimentos-chave das escolas concedidas enquanto a devoção permanece pura. A dúvida estreita o canal; a transgressão o fecha. A resposta do anjo modula-se conforme o estado espiritual do devoto, por ressonância com a fé e não por capricho.

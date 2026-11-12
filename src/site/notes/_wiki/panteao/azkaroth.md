@@ -16,7 +16,7 @@ O título designa função cerimonial, e só. Outros [[_wiki/cosmologia/diabos\|
 
 ### Templo e Unção
 
-O [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]], em [[_wiki/locais/morvgrad\|Morvgrad]], é sede das cerimônias de unção dos [[_wiki/organizacoes/justiciares\|Justiciares]]. A unção é morte simbólica seguida de renascimento ritual: o candidato entra como o que era e sai como outra coisa. Necro dissolve a identidade anterior; Spectro projeta a nova. O processo é irreversível, e ninguém que passou pela unção consegue voltar ao que era antes, mesmo que abandone o título. A marca é espectral e permanente, e manifesta-se como resíduo perceptivo: os ungidos relatam instantes em que duvidam da solidez do que tocam, sombras que parecem mais densas na periferia da visão e um frio sutil que pulsa do peito quando o silêncio se prolonga.
+O [[_wiki/locais/templo_de_azkaroth\|templo de Azkaroth]], em [[_wiki/locais/morvgrad\|Morvgrad]], é sede das cerimônias de unção dos [[_wiki/organizacoes/justiciares\|Justiciares]]. A unção é morte simbólica seguida de renascimento ritual: o candidato entra como o que era e sai como outra coisa. Necro dissolve a identidade anterior; Spectro projeta a nova. O processo é irreversível, e ninguém que passou pela unção consegue voltar ao que era antes, mesmo que abandone o título. A marca é espectral e permanente, e manifesta-se como resíduo perceptivo: os ungidos relatam instantes em que duvidam da solidez do que tocam, sombras que parecem mais densas na periferia da visão e um frio sutil que pulsa do peito quando o silêncio se prolonga.
 
 ### Ritos de Pedra-Fria
 

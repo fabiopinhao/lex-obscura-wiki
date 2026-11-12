@@ -16,6 +16,10 @@ Um sinal mais discreto também é atribuído a ele: ao cruzar-se um limite inter
 
 Wargûleth opera na interseção entre maldição e medo. Anatho corrói os vínculos do alvo, e lealdades apodrecem de dentro para fora; Phobos confirma a corrosão como ameaça, fazendo o alvo enxergar hostilidade em cada gesto. A classificação dual reflete o método: Anatho opera pelo repertório diabólico, metódico e corrosivo, enquanto Phobos responde ao demoníaco, visceral e imediato. A combinação produz isolamento em duas velocidades, a maldição devagar e o medo depressa, e a sinergia é o isolamento total: o alvo acredita estar sozinho e acaba de fato sozinho.
 
+### Selos
+
+Os selamentos de Anatho ancorados em seu nome emanam calor seco e constante e queimam a mão que os força. A mão queimada é o menor dos danos: quem força um selo seu é devolvido ao instante em que esteve mais só, e permanece lá enquanto o selo permitir. Uma variante desses selamentos é ensinada em [[_wiki/locais/khargoth\|Khargoth]].
+
 ### O Fosso
 
 O Fosso que Wargûleth guarda não é uma prisão, mas o estado de confinamento em si, e ele se instala por etapas. Primeiro vem o medo, a desconfiança que faz o alvo hesitar antes de pedir ajuda. Depois vem a maldição, o infortúnio que transforma a hesitação em justificativa: amigos convocados não aparecem, favores cobrados se perdem em acidentes que parecem coincidência. Quando o alvo percebe que está isolado, o Fosso já se fechou. Wargûleth senta-se à borda e vigia, uma cabeça farejando tentativas de fuga, outra rosnando para dissuadir quem se aproxima, a terceira apenas assistindo. Entrar no Fosso não exige grades: basta perder o último laço.

@@ -12,4 +12,4 @@ A fé que praticava era doméstica e sem ostentação, feita da saudade das hort
 
 ### Gestos
 
-Apertava o pingente de São Lucian, uma lâmina de asa em prata, como tique nervoso, e bordava ao fim da tarde, com a agulha suspensa quando alguém entrava. Espantava os ratos dos sacos de pano com sachês de arruda. Deixava a ceia pronta desde a sexta hora e a cadeira ajeitada para quem já não vinha comer. A casa que manteve na vila é lembrada por essa rotina.
+Apertava o pingente de São Lucian, uma lâmina de asa em prata, como tique nervoso, e bordava ao fim da tarde, com a agulha suspensa quando alguém entrava. Espantava os ratos dos sacos de pano com sachês de arruda. Deixava a ceia pronta desde que os sinos tocavam e a cadeira ajeitada para quem já não vinha comer. A casa que manteve na vila é lembrada por essa rotina.

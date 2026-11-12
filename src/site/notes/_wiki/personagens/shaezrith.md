@@ -18,8 +18,8 @@ Acredita que o fardo da missão à superfície é só dela, e diz isso a Syndrit
 
 ### Método e voz
 
-A dúvida em voz baixa é o traço que a define. É ela, e não Syndrith, quem verbaliza a desconfiança: as matronas murmuram o que se murmura nos salões, e ela repete o murmúrio. Sustenta entre as ophideias a fórmula de que são a mão invisível no mundo. A mesma dúvida que a caracteriza é o que indiretamente a mata.
+A dúvida em voz baixa é o traço que a define. É ela, e não Syndrith, quem verbaliza a desconfiança: as matronas murmuram que [[_wiki/personagens/arothistar\|Arothistar]] anda errático, e é ela quem repete o murmúrio em voz alta. Sustenta entre as ophideias a fórmula de que são a mão invisível no mundo. A mesma dúvida que a caracteriza é o que indiretamente a mata.
 
 ### Relações
 
-Companheira de missão de Syndrith, que conhece os limites do Sopro de Lúrio. A morte de Shaezrith permanece como referência do risco que o rito impõe a qualquer ophideia.
+Companheira de missão de Syndrith, que conhece os limites do Sopro de Lúrio. A morte de Shaezrith permanece como referência do risco que o rito impõe a qualquer ophideia. As duas debatiam juntas a fama de [[_wiki/panteao/malagoth\|Malagoth]]. Para Syndrith, Shaezrith é a companheira que Ghilanna lhe custou.

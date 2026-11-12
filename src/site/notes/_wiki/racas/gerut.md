@@ -38,7 +38,7 @@ Corre entre os geruts uma tradição paralela à Symbiosis, a doutrina do [[_wik
 
 Os shadars classificam os geruts como [[_wiki/racas/pindoriar\|pindoriares]] de grau inferior, e a alcunha pejorativa “pé-de-lama” nasceu nas Guerras Reinkárdicas, quando refugiados chegavam aos acampamentos com os pés cobertos da lama dos pântanos. Para o aparelho burocrático de Morvgrad, os geruts mal existem como categoria: os censos os ignoram e os relatórios militares só os mencionam quando um é capturado. A invisibilidade é proposital, pois as florestas titânicas são as únicas que o Império não invadiu diretamente. O custo de enfrentar um titã desperto supera o ganho territorial, e a estratégia imperial é de cerco lento, deixando que a [[_wiki/magia/macula-sombria\|Mácula-Sombria]] corroa as raízes antes que os soldados cheguem.
 
-Geruts capturados fora das florestas são tratados como curiosidades ou repositórios de saber antigo. [[_wiki/personagens/jalu_nvara\|Jalú’Nvara]], aprisionado nas masmorras do [[_wiki/locais/coracao_oco\|Coração Oco]], pertence à última geração que viveu livre antes da subjugação de seu povo: mantido vivo porque o que sabe sobre o Império antigo vale mais que sua morte.
+Geruts capturados fora das florestas são tratados como curiosidades ou repositórios de saber antigo. À época dos interrogatórios de [[_wiki/personagens/orum-rahru\|Orum-Rahru]], [[_wiki/personagens/jalu_nvara\|Jalú’Nvara]], da última geração que viveu livre antes da subjugação dos geruts de Myrgarde, era prisioneiro nas masmorras de [[_wiki/locais/ghol_drokh\|Ghol’Drokh]], e o que sabia sobre o Império antigo valia mais que sua morte.
 
 ### Situação Atual
 

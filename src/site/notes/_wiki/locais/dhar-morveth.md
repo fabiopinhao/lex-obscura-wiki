@@ -4,7 +4,7 @@
 
 # Dhar-Morveth
 
-Dhar-Morveth é o planalto negro do norte de [[_wiki/locais/reinkard\|Reinkard]] sobre o qual [[_wiki/locais/morvgrad\|Morvgrad]] foi erguida. O nome é a forma élfica original, ainda usada em registros formais e por observadores distantes, como o padre [[_wiki/personagens/abramis\|Abramis]] em [[_wiki/locais/niedellin\|Niedellin]]; os [[_wiki/racas/shadar\|shadars]] o chamam apenas de “planalto” ou “planalto Shadar”.
+Dhar-Morveth é o planalto negro do norte de [[_wiki/locais/reinkard\|Reinkard]] sobre o qual [[_wiki/locais/morvgrad\|Morvgrad]] foi erguida. O nome é a forma élfica original, adotada também pelos humanos e ainda usada em registros formais. Com o tempo, passou a designar o próprio poder sediado no planalto, confundido com Morvgrad. Só elfos e humanos o usam; os [[_wiki/racas/shadar\|shadars]], nunca. Como designação geográfica, o nome corrente é “planalto Shadar”, ou simplesmente “planalto”.
 
 ### Geografia
 
@@ -12,7 +12,7 @@ Dhar-Morveth domina o norte do continente, elevando-se acima das planícies da [
 
 ### Matéria do planalto
 
-Madeira quase não sobe ao planalto. A construção shadar é de pedra e obsidiana, e um cômodo forrado de madeira em Morvgrad seria excentricidade cara, além de material que os shadars não apreciam. Fora do planalto, nas vilas de vertente como Niedellin, a madeira é o material comum.
+Madeira quase não sobe ao planalto. A construção shadar é de pedra e obsidiana, e um cômodo forrado de madeira em Morvgrad seria excentricidade cara, além de material que os shadars não apreciam. Fora do planalto, nas vilas de vertente como [[_wiki/locais/niedellin\|Niedellin]], a madeira é o material comum.
 
 Sob a capa vulcânica das encostas há bolsões de calcário, e a hidrologia desse relevo cárstico sustenta o terroir das vinícolas das vertentes.
 

@@ -8,7 +8,7 @@ Quavarra Ulvondra, chamada Aranha Obsidiana, é matriarca da Casa Ulvondra e uma
 
 ### Aparência
 
-Uma névoa lilás a envolve, e tatuagens que parecem vivas correm sob sua pele. A natureza dessas marcas permanece ambígua: encarnação divina, magia pessoal ou ambas. Sua sede é a casa-catedral, gruta côncava aberta na rocha de Vor-Ghol, pendurada de teias encantadas e atravessada por vitrais de biovidro; pelas paredes, gaiolas ornamentais guardam gnomos [[_wiki/racas/derro\|derro]].
+Uma névoa lilás a envolve, e tatuagens que parecem vivas correm sob sua pele. A natureza dessas marcas permanece ambígua: encarnação divina, magia pessoal ou ambas. Sua sede é a casa-catedral, gruta côncava aberta na rocha de Vor-Ghol, pendurada de teias encantadas e atravessada por vitrais de biovidro; pelas paredes, gaiolas ornamentais guardam gnomos [[_wiki/racas/derro\|derros]]. No próprio salão guarda [[_wiki/artefatos/gema-viva\|gemas-vivas]], as dela e as de outras matronas, e conta os ovos com a precisão de quem conta inimigos. Entre as matriarcas, é a que pagaria mais por uma gema, porque precisa provar que pode, e a que mais depressa lhe farejaria a procedência.
 
 ### Filosofia e Posição
 
@@ -18,7 +18,7 @@ Identifica também uma anomalia estrutural na ordem imperial: sinal de distorç�
 
 ### Método e Voz
 
-Quavarra convoca o Justiciar [[_wiki/personagens/orum-rahru\|Orum-Rahru]] para julgar o tenente [[_wiki/personagens/kaedhras\|Kaedhras Morvil]], shadar que violou a [[_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]] ao invadir rotas restritas com chaves rúnicas e saquear [[_wiki/artefatos/gema-viva\|gemas-vivas]], os ovos de [[_wiki/criaturas/dridar\|dridar]] tomados do salão das matronas. Pelas leis de Xarn, druls não punem diretamente militares shadars: o martelo cabe ao juiz. A escolha de Orum, e não de outro, é deliberada, tanto um pedido de justiça quanto uma medição do próprio Justiciar. Quando precisa que o réu fale, estala os dedos e desfaz o silêncio mágico que o amordaça, conduzindo o interrogatório em seu território, cercada por suas guardas e seus vitrais.
+Quavarra convoca o Justiciar [[_wiki/personagens/orum-rahru\|Orum-Rahru]] para julgar o tenente [[_wiki/personagens/kaedhras\|Kaedhras Morvil]], shadar que violou a [[_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]] ao invadir rotas restritas com chaves rúnicas e saquear gemas-vivas, os ovos de [[_wiki/criaturas/dridar\|drídar]] tomados do salão das matronas. Pelas leis de Xarn, druls não punem diretamente militares shadars: o martelo cabe ao juiz. A escolha de Orum, e não de outro, é deliberada, tanto um pedido de justiça quanto uma medição do próprio Justiciar. Quando precisa que o réu fale, estala os dedos e desfaz o silêncio mágico que o amordaça, conduzindo o interrogatório em seu território, cercada por suas guardas e seus vitrais.
 
 ### Relações
 

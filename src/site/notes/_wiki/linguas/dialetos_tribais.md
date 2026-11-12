@@ -4,7 +4,7 @@
 
 # Dialetos Tribais
 
-Os Dialetos Tribais são as línguas cotidianas das raças híbridas. Não formam um idioma único, mas um conjunto de sistemas próprios que cada raça desenvolveu de modo independente, voltados à comunicação dentro da própria espécie.
+Os dialetos Tribais são as línguas cotidianas das raças híbridas. Não formam um idioma único, mas um conjunto de sistemas próprios que cada raça desenvolveu de modo independente, voltados à comunicação dentro da própria espécie.
 
 ### Natureza
 
@@ -12,4 +12,4 @@ Não há descrição fonológica possível para a categoria como um todo: cada r
 
 ### Uso
 
-Não existe língua franca entre os híbridos. Para a comunicação externa, recorrem ao [[_wiki/linguas/reinkardico\|Reinkárdico]] ou ao [[_wiki/linguas/neranthiano\|Neranthiano]]. Fogem ao padrão os [[_wiki/racas/sauriano\|saurianos]], que usam o [[_wiki/linguas/draconico\|Dracônico]], e os [[_wiki/racas/ranidano\|ranidanos]], que recorrem ao Neranthiano ou a dialetos tribais.
+Não existe língua franca entre os híbridos. Para a comunicação externa, recorrem ao [[_wiki/linguas/reinkardico\|reinkárdico]] ou ao [[_wiki/linguas/neranthiano\|neranthiano]]. Fogem ao padrão os [[_wiki/racas/sauriano\|saurianos]], que usam o [[_wiki/linguas/draconico\|dracônico]], e os [[_wiki/racas/ranidano\|ranidanos]], que recorrem ao neranthiano ou a dialetos tribais.

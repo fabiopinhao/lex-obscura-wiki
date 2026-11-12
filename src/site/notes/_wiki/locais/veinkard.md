@@ -8,7 +8,7 @@ Veinkard é um continente montanhoso a oeste de [[_wiki/locais/reinkard\|Reinkar
 
 ### Geografia e Política
 
-Região hostil e de baixa presença [[_wiki/racas/shadar\|shadar]], Veinkard escapa ao domínio direto do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]: o selo púrpuro, marca da autoridade shadar direta, não cruza a Dorsal. A expansão natural do Império esbarra na geografia e na presença de forças não-shadares, de modo que qualquer operação além dessa fronteira depende de métodos indiretos, como alianças pragmáticas e contrabando. O [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr’vethan]] opera a partir dali.
+Região hostil e de baixa presença [[_wiki/racas/shadar\|shadar]], Veinkard escapa ao domínio direto do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]: o selo púrpura, marca da autoridade shadar direta, não cruza a Dorsal. A expansão natural do Império esbarra na geografia e na presença de forças não-shadars, de modo que qualquer operação além dessa fronteira depende de métodos indiretos, como alianças pragmáticas e contrabando. O [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr’vethan]] opera a partir dali.
 
 ### Varna, a Dragão Anciã
 

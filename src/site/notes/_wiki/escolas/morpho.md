@@ -20,4 +20,4 @@ O custo temático é desorientação corporal e dificuldade de coordenação, de
 
 ### Combinações e oposição
 
-Com [[_wiki/escolas/vita\|Vita]], a metamorfose é cultivada em vez de forçada, mais lenta porém mais estável e de menor custo, especialidade de druidas e [[_wiki/racas/sylvano\|Sylvanos]]; com [[_wiki/escolas/patho\|Patho]], a transformação degenera o alvo em algo errado em vez de funcional. A combinação com [[_wiki/escolas/belli\|Belli]] é proibida por protocolo imperial. Seu par antagônico é Spectro, a distinção entre tornar-se e parecer: Morpho lida com a dúvida sobre a identidade, Spectro com a dúvida sobre a percepção.
+Com [[_wiki/escolas/vita\|Vita]], a metamorfose é cultivada em vez de forçada, mais lenta porém mais estável e de menor custo, especialidade de druidas e [[_wiki/racas/sylvano\|sylvanos]]; com [[_wiki/escolas/patho\|Patho]], a transformação degenera o alvo em algo errado em vez de funcional. A combinação com [[_wiki/escolas/belli\|Belli]] é proibida por protocolo imperial. Seu par antagônico é Spectro, a distinção entre tornar-se e parecer: Morpho lida com a dúvida sobre a identidade, Spectro com a dúvida sobre a percepção.

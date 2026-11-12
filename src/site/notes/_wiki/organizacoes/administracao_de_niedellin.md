@@ -4,7 +4,7 @@
 
 # Administração de Niedellin
 
-A Administração de Niedellin é o governo local da vila de [[_wiki/locais/niedellin\|Niedellin]], na [[_wiki/locais/ventrista\|Ventrista]], sob a cor preta do [[_wiki/organizacoes/imperio_sombrio\|Império]]. Pequena, com menos de cinquenta integrantes, articula-se em torno de três cargos: o [[_wiki/personagens/merari_d_khunvel\|Lorde Merari]], governador provincial; [[_wiki/personagens/maraxus\|Maraxus]], chefe da guarda; e [[_wiki/personagens/eralmir_vess\|Eralmir Vess]], escriba e intendente.
+A Administração de Niedellin é o governo local da vila de [[_wiki/locais/niedellin\|Niedellin]], na [[_wiki/locais/ventrista\|Ventrista]], sob a cor preta do [[_wiki/organizacoes/imperio_sombrio\|Império]]. Pequena, com menos de cinquenta integrantes, articula-se em torno de três cargos: o [[_wiki/personagens/merari_d_khunvel\|Lorde Merari]], governador provincial; [[_wiki/personagens/maraxus\|Maraxus]], chefe da guarda, um dos cargos de intendente; e [[_wiki/personagens/eralmir_vess\|Eralmir Vess]], escriba e intendente.
 
 ### Estrutura
 

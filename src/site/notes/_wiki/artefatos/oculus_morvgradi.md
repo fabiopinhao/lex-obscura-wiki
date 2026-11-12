@@ -16,7 +16,7 @@ O Oculus Morvgradi, “Olho de [[_wiki/locais/morvgrad\|Morvgrad]]”, é uma es
 
 ### Funcionamento
 
-Para usá-la, posiciona-se a esfera sobre superfície plana e estável, traça-se o símbolo da sentença no ar e pronuncia-se a invocação *“Ut oculus videat, ut vox transite, ut presentia resonet”* (“Que o olho veja, que a voz atravesse, que a presença ressoe”). A cerimônia admite duas redações latinas equivalentes dessa fórmula, sendo a outra *“Ut Oculus videat, ut vox transit, ut praesentia echoet”*. Uma chama negra se manifesta antes de a conexão se abrir.
+Para usá-la, posiciona-se a esfera sobre superfície plana e estável, traça-se o símbolo da sentença no ar e pronuncia-se a invocação *“Ut Oculus videat, ut vox transeat, ut presentia resonet”* (“Que o olho veja, que a voz atravesse, que a presença ressoe”). A cerimônia admite duas redações latinas equivalentes dessa fórmula, sendo a outra *“Ut Oculus videat, ut vox transit, ut praesentia echoet”*. Numa chamada direcionada, a invocação também pode ser dita em shadar arcaico, nomeando o destinatário. Uma chama negra se manifesta antes de a conexão se abrir.
 
 As esferas não se comunicam diretamente entre si, mas através de um nexo central, o [[_wiki/locais/poco_etereo\|Poço Etéreo]], construção metafísica ancorada nas profundezas de Ghol’Mournak. Funciona como um espelho d’água vertical de energia condensada, onde todas as transmissões convergem antes de serem redirecionadas. O Conselho poderia, em tese, monitorar qualquer comunicação, mas na prática o volume torna isso impossível.
 
@@ -26,7 +26,7 @@ A posse não se restringe aos [[_wiki/organizacoes/justiciares\|Justiciares]]: t
 
 ### Fenomenologia
 
-Em uso, a esfera flutua e projeta uma imagem tridimensional que fala, e drena a luz ao redor ao despertar. A conexão custa a estabilizar, acompanhada de um som grave que é o [[_wiki/cosmologia/plano_etereo\|plano etéreo]] encontrando resistência, e ao encerrar a imagem se desfaz em fragmentos prateados. Autoridades de alto escalão dispõem ainda de terminais fixos sincronizados a uma esfera, como efígies falantes que servem de satélite à rede.
+Em uso, a esfera flutua e projeta uma imagem tridimensional que fala, e drena a luz ao redor ao despertar. A conexão custa a estabilizar, acompanhada de um som grave que é o [[_wiki/cosmologia/plano_etereo\|plano etéreo]] encontrando resistência, e ao encerrar a imagem se desfaz em fragmentos prateados. No Oculus de um necromante de [[_wiki/escolas/patho\|Patho]], o sinal chega corrompido e tinge-se de verde, e a imagem surge de um nevoeiro esmeraldino. A efígie externa de [[_wiki/personagens/arothistar\|Arothistar]] funciona como terminal fixo sincronizado a uma esfera, satélite da mesma rede.
 
 ### Limitações
 

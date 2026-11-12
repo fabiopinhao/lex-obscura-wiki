@@ -12,7 +12,7 @@ A oposição entre o diabólico e o demoníaco é estrutural. Pactuados de deuse
 
 ### Justiciares e a Neutralidade Divina
 
-A razão de os [[_wiki/organizacoes/justiciares\|Justiciares]] não serem pactuados é política, não teológica: não podem dividir-se entre a obediência ao monarca e as vontades particulares de patronos divinos. O sistema [[_wiki/magia/teru\|Teru]], magia sem pacto e baseada em estudo técnico, garante que os Justiciares respondam apenas a Arothistar e à [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]].
+A razão de os [[_wiki/organizacoes/justiciares\|Justiciares]] não serem pactuados é política, não teológica: não podem dividir-se entre a obediência ao monarca e as vontades particulares de patronos divinos. O sistema [[_wiki/magia/teru\|Teru]], magia sem pacto, nascida de um despertar inato e lapidada por estudo técnico, garante que os Justiciares respondam apenas a Arothistar e à [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]].
 
 ### Facções Internas
 

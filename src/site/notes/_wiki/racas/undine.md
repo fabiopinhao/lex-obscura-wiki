@@ -20,7 +20,7 @@ A longevidade curta é o traço que mais distingue os undines e o mais incompree
 
 ### Cultura e Sociedade
 
-A sociedade undine organiza-se em torno da contemplação. Não há hierarquia militar, economia imperial nem ambição territorial: as comunidades costeiras dedicam-se à meditação, ao estudo dos ciclos celestes e aos rituais de comunhão com os siderais. O sistema de acesso mágico é o [[_wiki/magia/meditatio_aetheris\|Meditatio Aetheris]], compartilhado com os [[_wiki/racas/frenim\|frenins]], embora os undines o pratiquem de forma mais radical: onde os frenins estudam o [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]] para compreendê-lo, os undines se dissolvem nele. A língua nativa é o [[_wiki/linguas/talassico\|Talássico]], usada tanto no cotidiano quanto nos rituais; os undines não falam [[_wiki/linguas/reinkardico\|Reinkárdico]], e seu isolamento linguístico é tão absoluto quanto o geográfico.
+A sociedade undine organiza-se em torno da contemplação. Não há hierarquia militar, economia imperial nem ambição territorial: as comunidades costeiras dedicam-se à meditação, ao estudo dos ciclos celestes e aos rituais de comunhão com os siderais. O sistema de acesso mágico é o [[_wiki/magia/meditatio_aetheris\|Meditatio Aetheris]], compartilhado com os [[_wiki/racas/frenim\|frenins]], embora os undines o pratiquem de forma mais radical: onde os frenins estudam o [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]] para compreendê-lo, os undines se dissolvem nele. A língua nativa é o [[_wiki/linguas/talassico\|talássico]], usada tanto no cotidiano quanto nos rituais; os undines não falam [[_wiki/linguas/reinkardico\|reinkárdico]], e seu isolamento linguístico é tão absoluto quanto o geográfico.
 
 ### Relação com os Frenins
 

@@ -4,7 +4,7 @@
 
 # Maraxus
 
-Maraxus é o chefe da guarda de [[_wiki/locais/niedellin\|Niedellin]], um homem de origem humilde que ascendeu ao comando armado de uma vila do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] sem ter, por nascimento, qualquer direito a esse posto. Sob o lorde [[_wiki/personagens/merari_d_khunvel\|Merari d’Khunvel]], é nele que o terror da vila se concentra, e seu poder real cresce por acumulação, ano após ano, mais do que qualquer título lhe concederia.
+Maraxus é o chefe da guarda de [[_wiki/locais/niedellin\|Niedellin]], cargo que acumula com o de intendente do lorde [[_wiki/personagens/merari_d_khunvel\|Merari d’Khunvel]]. É um homem de origem humilde que ascendeu ao comando armado de uma vila do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] sem ter, por nascimento, qualquer direito a esse posto. Sob Merari, é nele que o terror da vila se concentra, e seu poder real cresce por acumulação, ano após ano, mais do que qualquer título lhe concederia.
 
 ### Aparência
 

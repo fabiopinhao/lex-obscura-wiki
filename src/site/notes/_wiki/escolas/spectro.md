@@ -4,7 +4,7 @@
 
 # Spectro
 
-Spectro é a escola híbrida de preto e azul que engana a percepção sem alterar a realidade. Cria estímulos sensoriais falsos que existem apenas nos sentidos de quem observa, e é uma das disciplinas da magia negra, especializada em distorcer o tangível e transitar o [[_wiki/cosmologia/plano_etereo\|plano etéreo]]. Sua pergunta central, “isso é real?”, a distingue de [[_wiki/escolas/psycho\|Psycho]], que pergunta “isso é meu pensamento?”, e de [[_wiki/escolas/hypno\|Hypno]], que pergunta “estou acordado?”.
+Spectro é a escola híbrida de preto e azul cuja ilusão engana a percepção sem alterar a realidade. Cria estímulos sensoriais falsos que existem apenas nos sentidos de quem observa, e é uma das disciplinas da magia negra, especializada em distorcer o tangível e transitar o [[_wiki/cosmologia/plano_etereo\|plano etéreo]]. Sua pergunta central, “isso é real?”, a distingue de [[_wiki/escolas/psycho\|Psycho]], que pergunta “isso é meu pensamento?”, e de [[_wiki/escolas/hypno\|Hypno]], que pergunta “estou acordado?”.
 
 ### Princípio
 

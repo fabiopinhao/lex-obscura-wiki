@@ -16,4 +16,4 @@ Toda magia interplanária atravessa o Plano Etéreo pelo [[_wiki/cosmologia/cana
 
 ### No Presente
 
-A instabilidade do Plano Etéreo em certas regiões, atribuída em parte à interferência de [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val’Kir]], torna o Fluxus Aetheris ainda mais imprevisível. Explosões em laboratórios de [[_wiki/locais/elenir\|Elenir]] e relatos de instabilidade mágica levados ao [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]] podem ter relação com tentativas de manipulação etérea direta, embora não se possa confirmar.
+A instabilidade do Plano Etéreo em certas regiões torna o Fluxus Aetheris ainda mais imprevisível. Relatos de instabilidade mágica chegam ao [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], sem que se estabeleça a causa.

@@ -12,7 +12,7 @@ Serve de véu a refúgios druídicos. A ocultação é uma alteração do própr
 
 ### Sensibilidade
 
-A teia-verde responde a perturbações no equilíbrio natural, e responde à distância: corrupção sombria, por menor que seja, propaga-se por ela como onda em lago calmo até tocar margens distantes. Portador de fragmento do [[_wiki/cosmologia/vazio\|Vazio]] degrada a teia pela simples presença, sem intenção nem ato. Os sinais de degradação são visíveis no ambiente: líquens que passam de verde-musgo a verde-cinza, cogumelos luminosos que piscam e minguam como velas sufocadas.
+A teia-verde responde a perturbações no equilíbrio natural, e responde à distância: corrupção sombria, por menor que seja, propaga-se por ela como onda em lago calmo até tocar margens distantes. Portador de fragmento do [[_wiki/cosmologia/vazio\|Vazio]] degrada a teia pela simples presença, sem intenção nem ato. Os sinais de degradação são visíveis no ambiente: liquens que passam de verde-musgo a verde-cinza, cogumelos luminosos que piscam e minguam como velas sufocadas.
 
 ### Custo
 

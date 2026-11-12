@@ -4,7 +4,7 @@
 
 # Gaelwyn
 
-Gaelwyn, ou Gael, é um ranger sylvano veterano e canalizador druídico, tido como o melhor ranger de [[_wiki/locais/thal_serin\|Thal’Serin]]. Devoto de [[_wiki/panteao/titania\|Titânia]], carrega a [[_wiki/cosmologia/marca_das_luas_gemeas\|marca das luas gêmeas]] e serve à [[_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal’Serin]]. Empunha o arco élfico e a magia druídica, e é amante de [[_wiki/personagens/koliah\|Koliah]].
+Gaelwyn, ou Gael, é um montaraz sylvano veterano e canalizador druídico, tido como o melhor montaraz de [[_wiki/locais/thal_serin\|Thal’Serin]]. Lutou nas [[_wiki/conceitos/guerras_reinkardicas\|Guerras Reinkárdicas]] na idade em que hoje estão os aprendizes que treinou. Devoto de [[_wiki/panteao/titania\|Titânia]], carrega a [[_wiki/cosmologia/marca_das_luas_gemeas\|marca das luas gêmeas]] e serve à [[_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal’Serin]]. Empunha o arco élfico e a magia druídica, e é amante de [[_wiki/personagens/koliah\|Koliah]].
 
 ### Aparência
 
@@ -12,7 +12,7 @@ Veste armadura leve, reforçada com couro de casca-viva. Os olhos são de íris 
 
 ### Voz
 
-Veterano resignado que ainda crê no melhor, e crê assim porque já viu o pior. Sua fala é melancólica, povoada de imagens orgânicas (raízes, vento, decomposição) e de um desprezo velado, nunca direto, pela “ordem” imperial. A natureza é a moldura de tudo o que diz.
+Veterano resignado que ainda crê no melhor, e crê assim porque já viu o pior. Sua fala é melancólica, povoada de imagens orgânicas (raízes, vento, decomposição) e de um desprezo pela “ordem” imperial, que diante do Império ele nunca diz às claras. Entre os aprendizes, no refúgio, fala direto. A natureza é a moldura de tudo o que diz.
 
 ### A Marca da Floresta
 
@@ -20,4 +20,4 @@ Algo na presença de Gael move a própria floresta de Thal’Serin: as árvores 
 
 ### Relações
 
-É amante de Koliah e mentor da nova geração de rangers da resistência, entre eles Mirin e [[_wiki/personagens/calel\|Calel]], que treinou. Os que ele formou devem a ele o ofício, e Mirin, também o propósito.
+É amante de Koliah e mentor da nova geração de montarazes da resistência, entre eles Mirin e [[_wiki/personagens/calel\|Calel]], que treinou. Os que ele formou devem a ele o ofício, e Mirin, também o propósito.

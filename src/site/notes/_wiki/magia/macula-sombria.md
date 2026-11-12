@@ -16,7 +16,7 @@ Todas as florestas titânicas de [[_wiki/locais/reinkard\|Reinkard]] sofrem com 
 
 ### Escala Individual
 
-A mácula também pode ser plantada diretamente em seres vivos, como instrumento de coerção: a vítima fica impedida de erguer a mão contra quem a plantou. Druidas a classificam entre maldições múltiplas e cruéis, somando maldição, controle e veneno lento, e descrevem a marca individual como um fragmento de [[_wiki/cosmologia/vazio\|Vazio]] alojado dentro de si.
+A mácula também pode ser plantada diretamente em seres vivos, como instrumento de coerção: a vítima fica impedida de erguer a mão contra quem a plantou. Druidas a classificam entre maldições múltiplas e cruéis, somando maldição, controle e veneno lento, sem descartar algo que ainda não conheçam. A marca individual é descrita como um fragmento de [[_wiki/cosmologia/vazio\|Vazio]] alojado dentro de si.
 
 ### Classificação Arcana
 

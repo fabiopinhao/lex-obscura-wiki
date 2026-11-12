@@ -18,6 +18,12 @@ Além do combustível, cada escola impõe um custo temático ligado conceitualme
 
 A intensidade do custo acompanha a escala do feitiço. Efeitos menores cobram um custo leve, de segundos a minutos, e consomem pouco combustível; efeitos lendários podem impor custos potencialmente permanentes e exigir a reserva quase inteira.
 
+Nas magnitudes maiores esse custo deixa de ser recuperável. Magias proibidas e de escala máxima queimam vitalidade que nem o descanso nem a cura devolvem: o que se gasta ali não volta. Isso não constitui um quarto tipo de custo, e sim o próprio custo temático levado ao extremo da escala.
+
+### Foco Consagrado
+
+Um foco consagrado, seja cetro, arma ou relíquia, pode assumir parcela do custo temático. Sem ele, o corpo do conjurador paga a diferença. O foco não fornece energia nem funciona como reservatório: ele absorve dano, e é essa a natureza da mitigação que oferece.
+
 ### Mitigação por Maestria
 
 A maestria reduz, mas nunca elimina, o custo temático. Um iniciante carrega o custo por todo o seu tempo base; um praticante intermediário o reduz a cerca de setenta por cento desse tempo, um avançado à metade, e um mestre a cerca de um terço, sem jamais zerá-lo. Um iniciante que use Umbra pode ficar com a visão distorcida por um minuto, enquanto um mestre reduz o mesmo efeito a um terço disso. O gasto de combustível, porém, não muda com a perícia: um feitiço menor custa a mesma fração da reserva, qualquer que seja o nível do conjurador.

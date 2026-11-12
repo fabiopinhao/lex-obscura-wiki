@@ -29,7 +29,7 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 ## Conselho Sombrio e Corte de Morvgrad
 
 - [[_wiki/personagens/dessian_broel\|Dessian Broel]] — Conselheiro, Administrador de Recursos
-- [[_wiki/personagens/jaakurs\|Jaakurs]] — Conselheiro, Feiticeiro cerimonialista do templo de Azkaroth
+- [[_wiki/personagens/jaakurs\|Jaakurs]] — Conselheiro, Feiticeiro cerimonialista do Templo de Azkaroth
 - [[_wiki/personagens/ulrik_morzenn\|Ulrik Morzenn]] — Conselheiro, o Decano Arcânico
 - [[_wiki/personagens/gorvam_threnk\|Gorvam Threnk]] — Conselheiro, Mestre das Forjas
 - [[_wiki/personagens/suriev_molkhiir\|Suriev Molkhiir]] — Conselheiro, Servo da Verdade
@@ -68,13 +68,13 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[_wiki/personagens/shaezrith\|Shaezrith]] — Drul ophideia, companheira de Syndrith
 - [[_wiki/personagens/vhraxil\|Vhraxil]] — Sentinela Drul, subordinado à Casa Morghast
 - [[_wiki/personagens/xilvenneth\|Xilvenneth]] — Drul ophideia da Casa Xund’ala
-- [[_wiki/personagens/zarae\|Zarae]] — Drul pphideias aprendiz 
+- [[_wiki/personagens/zarae\|Zarae]] — Aprendiz ophideia drul
 
 ## Resistência e Thal’Serin
 
-- [[_wiki/personagens/gaelwyn\|Gaelwyn]] — Sylvano, ranger de Thal’Serin
+- [[_wiki/personagens/gaelwyn\|Gaelwyn]] — Sylvano, montaraz de Thal’Serin
 - [[_wiki/personagens/calel\|Calel]] — Sylvano mapeador da Resistência de Thal’Serin, irmão de Mirin
-- [[_wiki/personagens/mirin\|Mirin]] — Sylvana, ranger jovem da Resistência, irmã de Calel
+- [[_wiki/personagens/mirin\|Mirin]] — Sylvana, montaraz jovem da Resistência, irmã de Calel
 - [[_wiki/personagens/peredur\|Peredur]] — Sylvano, druida ancião, devoto de Titânia
 
 ## Figuras de Niedellin
@@ -100,9 +100,10 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 
 ## Magos e Figuras Arcanas
 
-- [[_wiki/personagens/nyx_ara\|Nyx’Ara]] — Metamorfa shadar, oráculo da Câmara de Othuun
-- [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val’Kir]] — Frenim, mago azul de Neranthis
+- [[_wiki/personagens/nyx_ara\|Nyx’Ara]] — Oráculo de aparência mutável, das profundezas de Ghol’Mournak
+- [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val’Kir]] — Frenim, místico de Neranthis
 - [[_wiki/personagens/xarn\|Xarn]] — Shadar ancião, líder espiritual do Culto Sombrio, criador da Lex Obscura
+- [[_wiki/personagens/elzakar\|Elzakar]] — Preceptor da Torre de Khargoth, Mestre-Arcanista do Terceiro Círculo
 
 ## Outros Povos
 
@@ -114,7 +115,7 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[_wiki/personagens/khreek_fio-fino\|Khreek Fio-Fino]] — Derro da caravana Khelg’Dur
 - [[_wiki/personagens/jalu_nvara\|Jalú’Nvara]] — Gerut, ex-Myrgarde
 - [[_wiki/personagens/naiu_wula\|Naiu’Wula]] — Gerut, mestre errante, fundador da Doutrina da Alma (morto, figura histórica)
-- [[_wiki/personagens/jospin_valheorn\|Jospin Valheorn]] — Shadar, alquimista e teórico da magia (morto, figura histórica)
+- [[_wiki/personagens/jospin_valheorn\|Jospin Valheorn]] — Humano de Myrgarde, alquimista e teórico da magia (morto, figura histórica)
 - [[_wiki/personagens/odran\|Odran]] — Minotauro, servo de Arothistar em Mor’Severith
 - [[_wiki/personagens/quaz_har\|Quaz’har]] — Diabrete mensageira da corte de Morvgrad
 - [[_wiki/personagens/babua\|Babua]] — Saag, servo de Lorvaq Val’Kir

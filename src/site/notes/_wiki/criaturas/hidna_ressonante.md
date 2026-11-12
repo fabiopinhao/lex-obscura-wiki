@@ -4,4 +4,6 @@
 
 # Hidna Ressonante
 
-A Hidna Ressonante é uma criatura, ou armadilha natural, dos corredores subterrâneos de [[_wiki/locais/vor-ghol\|Vor-Ghol]]. Sensível a vibrações sonoras, “explode com barulho de bota” ao menor estímulo. É a razão pela qual as tropas [[_wiki/racas/drul\|drul]] não marcham em formação por aquelas galerias.
+A Hidna Ressonante é um organismo mineral bioluminescente que percorre [[_wiki/locais/vor-ghol\|Vor-Ghol]] sob a forma de um túnel espelhado, vivo de som e de calor. Marchas, vozes ou metal nu fazem o subsolo ressoar até partir-se, e quem responde ao canto é soterrado pelo próprio reflexo.
+
+É a razão pela qual as tropas [[_wiki/racas/drul\|drul]] não marcham em formação por aquelas galerias. Entre elas, a advertência corrente é que a hidna explode com barulho de bota.

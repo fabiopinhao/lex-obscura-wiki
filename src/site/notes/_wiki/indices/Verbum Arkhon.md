@@ -14,7 +14,7 @@ O [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] não é texto inerte. Q
 
 Na prática, qualquer decreto do Verbum pode suspender qualquer cláusula da [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]] quando o soberano assim decide. O Verbum é simultaneamente a fonte de autoridade dos Justiciares e sua limitação absoluta — a mesma palavra que justifica cada sentença pode destituí-los sem recurso.
 
-A fórmula de entrega durante a Unção expressa essa subordinação: *“Arothistar est lex. Abbhal est vox. Tu est martelo.”*
+A fórmula de entrega durante a Unção expressa essa subordinação: *“Arothistar est lex. Abbhal est vox. Tu es martellus.”*
 
 O título do **Livro I** da trilogia vem deste volume — porque a história começa onde a palavra do soberano é lei.
 

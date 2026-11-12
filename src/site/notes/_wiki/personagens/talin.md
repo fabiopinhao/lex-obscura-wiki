@@ -12,7 +12,7 @@ Magro, de costas largas e pernas rápidas, tem o porte de quem foi feito para co
 
 ### Origem e papel
 
-Garoto comum de Niedellin, atira-se à resistência pelo caminho mais curto entre a indignação e o ato, e sua casa sem fechadura vira ponto de reunião dos rebeldes.
+Garoto órfão de Niedellin, atira-se à resistência pelo caminho mais curto entre a indignação e o ato, e sua casa sem fechadura vira ponto de reunião dos rebeldes. Quando tentou atacar [[_wiki/personagens/maraxus\|Maraxus]], foi detido por [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] com um feitiço de [[_wiki/escolas/phobos\|Phobos]], o pavor sem nome, que lhe salvou a vida.
 
 ### Método e voz
 
@@ -20,4 +20,4 @@ Garoto comum de Niedellin, atira-se à resistência pelo caminho mais curto entr
 
 ### Relações
 
-A devoção a [[_wiki/personagens/koliah\|Koliah]] o move e o condena: tudo que ele faz de mais corajoso e de mais imprudente nasce dela. [[_wiki/personagens/berenice\|Berenice]] o escolhe como protetor, depositando nele uma confiança que sua coragem desordenada mal sabe carregar.
+A devoção a [[_wiki/personagens/koliah\|Koliah]] o move: tudo que ele faz de mais corajoso e de mais imprudente nasce dela. [[_wiki/personagens/berenice\|Berenice]] o escolhe como protetor.

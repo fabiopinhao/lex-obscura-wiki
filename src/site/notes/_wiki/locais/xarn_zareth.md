@@ -14,6 +14,8 @@ A Casa-Catedral de [[_wiki/personagens/nylothrae_durzken\|Nylothrae Durzken]] do
 
 Os Portões de Xarn’Zareth controlam o acesso interno ao distrito sagrado, no caminho para a Casa-Catedral: as caravanas destinadas à Casa Durzken passam por eles para inspeção antes de carregar. Não se confundem com os Portões de Ghilanna, que são a entrada da cidadela e controlam quem transita entre a superfície e o subterrâneo, sob a guarda da cidade.
 
+O elevador de carga que parte de [[_wiki/locais/mor_draconis\|Mor’Draconis]], antes da entrada de Xarn’Aroth, termina no distrito. Guardas drul nas portas da eparquia farejam artefatos arcanos nos visitantes.
+
 ### Vida Ritual
 
 Do distrito parte [[_wiki/personagens/syndrith_morghast\|Syndrith]] rumo a uma missão na superfície, levando consigo um papiro lacrado com o selo de [[_wiki/panteao/azkaroth\|Azkaroth]]. A integração entre os dois polos da Aliança também aparece nos ritos: oito sacerdotisas drul de Xarn’Zareth participaram da cerimônia de unção de [[_wiki/personagens/milorsevogh_velshard\|Milor]] no Templo de Azkaroth.

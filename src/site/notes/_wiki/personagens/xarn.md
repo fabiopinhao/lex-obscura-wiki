@@ -4,7 +4,7 @@
 
 # Xarn
 
-Xarn é um [[_wiki/racas/shadar\|Shadar]] ancião, clérigo grão-mestre e líder espiritual do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]]. Autor do Codex que rege a [[_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]] entre shadars e [[_wiki/racas/drul\|druls]], escreveu as leis que outros agora recitam. Vive em [[_wiki/locais/morvgrad\|Morvgrad]].
+Xarn é um [[_wiki/racas/shadar\|shadar]] ancião, clérigo grão-mestre e líder espiritual do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]]. Autor do Codex que rege a [[_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]] entre shadars e [[_wiki/racas/drul\|druls]], escreveu as leis que outros agora recitam. Vive em [[_wiki/locais/morvgrad\|Morvgrad]].
 
 ### Papel
 

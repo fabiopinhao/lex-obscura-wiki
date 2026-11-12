@@ -20,7 +20,7 @@ Thal’Serin persiste porque Morlgrund a protege, e a proteção não é gratuit
 
 ### O Nome Proibido
 
-Entre [[_wiki/racas/sylvano\|sylvanos]], ninguém pronuncia “Morlgrund”. A proibição reflete escala: Morlgrund antecede o culto e antecede as palavras que os mortais inventaram para descrever o divino, e nomeá-lo é invocar algo que pertence a uma categoria anterior à religião organizada. A teofania é seletiva, e mortais comuns não percebem o avatar.
+Entre [[_wiki/racas/sylvano\|sylvanos]], ninguém pronuncia “Morlgrund”. A proibição reflete escala: Morlgrund antecede o culto e antecede as palavras que os mortais inventaram para descrever o divino, e nomeá-lo é invocar algo que pertence a uma categoria anterior à religião organizada. A teofania é seletiva, e o que cada testemunha alcança depende do divino em questão e do modo pelo qual ele se manifesta: a forma condensada em pedra e terra é vista por quem está diante dela, enquanto a voz encontra apenas aquele a quem o titã se dirige.
 
 ### Manifestação
 

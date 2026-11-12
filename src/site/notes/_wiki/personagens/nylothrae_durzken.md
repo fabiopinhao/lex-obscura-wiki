@@ -10,7 +10,7 @@ Nylothrae Durzken é a matriarca da Casa Durzken e uma das seis regentes de [[_w
 
 Entre as seis matriarcas que regem Vor-Ghol, a Casa Durzken ocupa um lugar próprio. Não dispõe do ouro de [[_wiki/personagens/quavarra_ulvondra\|Quavarra Ulvondra]] nem do ferrão de [[_wiki/personagens/belarbreza_vhaskrith\|Belarbreza Vhaskrith]]. Para o mundo de cima, passa por canal seguro e de histórico limpo: aliança que não cobra explicações.
 
-A [[_wiki/organizacoes/coletoria\|Coletoria]] a considera o canal mais confiável entre as Casas das profundezas. O que sustenta essa posição é a proximidade de Nylothrae com o [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]] e com [[_wiki/personagens/jaakurs\|Jaakurs]], mais estreita que a das outras regentes. Esse vínculo ancora a Casa Durzken ao eixo religioso de Vor-Ghol, e não apenas ao político.
+Quem negocia com as profundezas a tem por canal seguro, de histórico limpo. O que sustenta essa posição é a proximidade de Nylothrae com o [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]] e com [[_wiki/personagens/jaakurs\|Jaakurs]], mais estreita que a das outras regentes. Esse vínculo ancora a Casa Durzken ao eixo religioso de Vor-Ghol, e não apenas ao político.
 
 ### Método e diplomacia
 

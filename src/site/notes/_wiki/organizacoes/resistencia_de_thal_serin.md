@@ -12,7 +12,7 @@ A existência da resistência depende de um pacto antigo entre [[_wiki/panteao/v
 
 ### Liderança
 
-[[_wiki/personagens/koliah\|Koliah]], humana e filha do padre [[_wiki/personagens/abramis\|Abramis]], lidera a resistência com pragmatismo mais do que idealismo. O ranger principal é [[_wiki/personagens/gaelwyn\|Gaelwyn]], de talento excepcional no rastreamento, devoto de Titânia e portador da [[_wiki/cosmologia/marca_das_luas_gemeas\|Marca das Luas Gêmeas]]. Sob sua tutela crescem os irmãos órfãos [[_wiki/personagens/mirin\|Mirin]] e [[_wiki/personagens/calel\|Calel]], aprendizes que representam a nova geração de combatentes. Um círculo druídico liderado por [[_wiki/personagens/peredur\|Peredur]] cumpre funções de sabedoria e de comunicação com os Titãs.
+[[_wiki/personagens/koliah\|Koliah]], humana e filha do padre [[_wiki/personagens/abramis\|Abramis]], lidera a resistência com pragmatismo mais do que idealismo. O montaraz principal é [[_wiki/personagens/gaelwyn\|Gaelwyn]], de talento excepcional no rastreamento, devoto de Titânia e portador da [[_wiki/cosmologia/marca_das_luas_gemeas\|Marca das Luas Gêmeas]]. Sob sua tutela crescem os irmãos órfãos [[_wiki/personagens/mirin\|Mirin]] e [[_wiki/personagens/calel\|Calel]], aprendizes que representam a nova geração de combatentes. Um círculo druídico liderado por [[_wiki/personagens/peredur\|Peredur]] cumpre funções de sabedoria e de comunicação com os Titãs.
 
 ### Limites
 

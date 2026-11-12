@@ -4,11 +4,11 @@
 
 # Fandegarrón
 
-Fandegarrón, também chamado Garrón, é um [[_wiki/criaturas/gnoll\|gnoll]] veterano do Abatedouro de Drakmur e guarda-costas da [[_wiki/organizacoes/guilda_dos_gnomos\|Guilda dos Gnomos]]. Campeão da Lança de Três Crânios na [[_wiki/locais/arena_de_drakmur\|Arena de Drakmur]], é uma exceção cognitiva entre os de sua raça: funcional o bastante para a lealdade pessoal e para o combate tático.
+Fandegarrón, também chamado Garrón, é um [[_wiki/criaturas/gnoll\|gnoll]] veterano do Abatedouro de Drakmur e guarda-costas da [[_wiki/organizacoes/guilda_dos_gnomos\|Guilda dos Gnomos]]. Último campeão da Lança de Três Crânios na [[_wiki/locais/arena_de_drakmur\|Arena de Drakmur]], é uma exceção cognitiva entre os de sua raça: funcional o bastante para a lealdade pessoal e para o combate tático.
 
 ### Aparência
 
-A silhueta sugere algo entre ogro e urso, embaralhada pelo excesso de panos. O focinho é úmido, negro e largo, narinas abrindo e fechando como fole descontrolado; a juba bege-marfim emaranha-se em nós que lembram ninhos de rato; os olhos, amarelos e esbugalhados, são inquietos, cada um buscando uma direção diferente. Veste um manto de ogro grande demais para ele, que sobra nos ombros, arrasta no chão e prende em tudo, e o pelo bege destaca-se contra o cinza da rocha. O exagero de panos cumpre função: com a postura curvada e o capuz, à distância ele passa por ogro, e gnolls não circulam livremente pelas cidades do Império. Sob o disfarce, a compleição contraria o padrão da raça — onde o gnoll comum é massivo e de musculatura bruta, Garrón é esguio e atlético, corpo afiado pelos anos de arena.
+A silhueta sugere algo entre ogro e urso, embaralhada pelo excesso de panos. O focinho é úmido, negro e largo, narinas abrindo e fechando como fole descontrolado; a juba bege-marfim emaranha-se em nós que lembram ninhos de rato; os olhos, amarelos e esbugalhados, são inquietos, cada um buscando uma direção diferente. Veste um manto de ogro grande demais para ele, que sobra nos ombros, arrasta no chão e prende em tudo, e o pelo bege destaca-se contra o cinza da rocha. O exagero de panos cumpre função: com a postura curvada e o capuz, à distância ele passa por ogro, e gnolls não circulam livremente pelas cidades do Império. Sob o disfarce, a compleição contraria o padrão da raça: onde o gnoll comum é massivo e de musculatura bruta, Garrón é esguio e atlético, corpo afiado pelos anos de arena.
 
 ### Temperamento e combate
 
@@ -16,7 +16,7 @@ Luta com manguais de chumbo cravejados de espinhos e faz da carnificina um praze
 
 ### História
 
-Perdeu a toca duas vezes: primeiro para os [[_wiki/racas/shadar\|shadars]], depois para [[_wiki/personagens/babua\|Babua]], a quem chama de demônio vestido de sapo e contra quem guarda rancor duradouro. Para um gnoll, perder o covil é uma espécie de morte adiada, e a perda do território o empurrou para a vida errante de mercenário.
+Perdeu a toca duas vezes: primeiro para os [[_wiki/racas/shadar\|shadars]], depois para [[_wiki/personagens/babua\|Babua]], contra quem guarda rancor duradouro: diz que o sapo empurrou o mundo. Para um gnoll, perder o covil é uma espécie de morte adiada, e a perda do território o empurrou para a vida errante de mercenário.
 
 ### Em campo
 

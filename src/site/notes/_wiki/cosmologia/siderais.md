@@ -8,7 +8,7 @@ Os Siderais são entidades de consciência pura ou quase pura que vagam pelo [[_
 
 ### Natureza
 
-Acredita-se que o próprio Plano Etéreo seja o plano de existência dos Siderais, e não um corredor de passagem como é para as demais entidades. Não possuem domínio fixo, o que os torna inaprisionáveis: não há plano existencial onde possam ser confinados. Vagam entre os planos conforme seu interesse, podendo estar próximos ou distantes de [[_wiki/locais/thamakard\|Thamakard]] a qualquer momento.
+Acredita-se que habitem o Plano Etéreo, o entreplanos que faz interface entre todos os planos e não é plano de existência próprio de ninguém. Não possuem domínio fixo, o que os torna inaprisionáveis: não há plano existencial onde possam ser confinados. Vagam entre os planos conforme seu interesse, podendo estar próximos ou distantes de [[_wiki/locais/thamakard\|Thamakard]] a qualquer momento.
 
 ### Interesse em Thamakard
 

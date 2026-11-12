@@ -8,11 +8,13 @@ Helio é a escola de magia pura do domínio da luz e da radiância. Cria e manip
 
 ### Princípio
 
-A luz de Helio é radiação, não rito: ilumina, ofusca, revela invisíveis e ilusões, projeta feixes que queimam e destrói trevas e corrupção pela própria exposição. É a distinção que a separa de [[_wiki/escolas/sacro\|Sacro]], que purifica por autoridade moral e ritual divino enquanto Helio purifica por radiação.
+A luz de Helio age por radiação: ilumina, ofusca, revela invisíveis e ilusões, projeta feixes que queimam e destrói trevas e corrupção pela própria exposição. É a distinção que a separa de [[_wiki/escolas/sacro\|Sacro]], que purifica por autoridade moral e ritual divino enquanto Helio purifica por radiação.
 
 ### Práticas
 
 O grimório escala da iluminação à radiância absoluta. Clarão cria fonte de luz estável que dura horas sem concentração; Lampejo libera explosão breve que cega por reflexo. Baliza envolve o alvo num contorno luminoso que brilha mesmo atrás de cobertura e sob ilusão. Fulgor concentra um feixe que queima onde toca, produzindo queimadura limpa e cauterizada, e contra criaturas de trevas não queima: devora. Desvelar satura a área de radiância que dissolve ocultação, fazendo recuar as sombras de [[_wiki/escolas/umbra\|Umbra]], desfazer a invisibilidade e perder opacidade as ilusões de [[_wiki/escolas/spectro\|Spectro]]. Candência imbui arma ou objeto de luz concentrada, e contra mortos-vivos o toque é agonia. Expurgo libera radiância destrutiva contra corrupção, energia necrótica e possessão, desmanchando mortos-vivos como cinza sob o sol de meio-dia. Prisma fragmenta o feixe em vetores que rastreiam alvos distintos; Zênite despenca um pilar de luz do céu, e só funciona sob céu aberto. No topo está Apogeu, que transforma o conjurador em fonte de radiância, o corpo brilhando até os ossos sob a pele translúcida enquanto uma onda de luz varre tudo.
+
+Na tradição de [[_wiki/panteao/azazel\|Azazel]], Helio é também restauração. O Cântico de Restauração de [[_wiki/personagens/abramis\|Abramis]] pertence à escola: luz que restaura o corrompido e devolve ao corpo a vida que a corrupção tirou. A cura pela dor transferida continua sendo de [[_wiki/escolas/salvo\|Salvo]].
 
 ### Custos
 

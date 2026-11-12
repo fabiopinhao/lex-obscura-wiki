@@ -8,7 +8,7 @@ O Conselho Sombrio é o órgão legislativo e administrativo do [[_wiki/organiza
 
 ### Natureza e Função
 
-Na prática, o Conselho opera como câmara consultiva com poder de execução: debate crises, aloca recursos e supervisiona os braços do Estado, entre eles os [[_wiki/organizacoes/justiciares\|Justiciares]], os generais e os lordes provinciais. Suas decisões, porém, podem ser revogadas pelo [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] a qualquer momento. É subordinado a Arothistar, mas supervisiona todos os demais.
+Na prática, o Conselho opera como câmara consultiva com poder de execução: debate crises, aloca recursos e supervisiona os braços do Estado, entre eles os [[_wiki/organizacoes/justiciares\|Justiciares]], os generais e os lordes provinciais. Suas decisões, porém, podem ser revogadas pelo [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] a qualquer momento. Dessa competência decorre o [[_wiki/conceitos/foro_privilegiado\|foro privilegiado]] dos lordes sombrios, cujos destinos se selam nos pareceres oficiais do Conselho e na palavra final do monarca. É subordinado a Arothistar, mas supervisiona todos os demais.
 
 ### Composição
 
@@ -28,7 +28,7 @@ A posição do monarca sobre o tema é desconhecida. Ninguém no Culto sabe se A
 
 ### Cadeira Maior
 
-A cadeira maior é a posição rotativa de liderança administrativa do Conselho. Seu ocupante preside as sessões, distribui as pautas e atua como porta-voz institucional. Não confere poder sobre o monarca: é distinção burocrática, não política. O assento cabe ao conselheiro veterano [[_wiki/personagens/eliakim\|Eliakim]], de reputação erguida sobre a erudição e a retórica.
+A cadeira maior é a posição rotativa de liderança do Conselho. Seu ocupante preside as sessões, distribui as pautas, atua como porta-voz institucional e guarda a palavra do monarca: em matérias urgentes de selo púrpura, age sem necessidade de decisão conjunta do Conselho, e cabe a ele informar primeiro o decano dos [[_wiki/organizacoes/justiciares\|Justiciares]] quando um deles é convocado ao monarca. Não confere poder sobre o monarca. O assento cabe ao conselheiro veterano [[_wiki/personagens/eliakim\|Eliakim]], de reputação erguida sobre a erudição e a retórica.
 
 ### Salão do Conselho
 

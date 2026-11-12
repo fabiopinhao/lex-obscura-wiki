@@ -4,7 +4,7 @@
 
 # Ciravok Tharumen
 
-Ciravok Tharumen, o Senhor dos Celeiros, é um [[_wiki/racas/shadar\|Shadar]] conselheiro do [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]] responsável pelo abastecimento e pela logística alimentar do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Porta um cetro nobre que bate contra a madeira para pontuar suas falas, gesto que combina autoridade aristocrática e impaciência prática.
+Ciravok Tharumen, o Senhor dos Celeiros, é um [[_wiki/racas/shadar\|shadar]] conselheiro do [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]] responsável pelo abastecimento e pela logística alimentar do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Porta um cetro nobre que bate contra a madeira para pontuar suas falas, gesto que combina autoridade aristocrática e impaciência prática.
 
 ### Papel no Conselho
 

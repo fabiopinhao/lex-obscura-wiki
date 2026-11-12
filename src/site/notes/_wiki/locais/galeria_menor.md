@@ -8,4 +8,4 @@ A Galeria Menor é um corredor subterrâneo de [[_wiki/locais/vor-ghol\|Vor-Ghol
 
 ### Geografia
 
-O corredor está sujeito a fechamento periódico por marés subterrâneas. Quando as marés o bloqueiam, viajantes e caravanas são forçados a desvios por rotas alternativas como o [[_wiki/locais/eixo_de_drenn\|Eixo de Drenn]], que apresenta seus próprios riscos, entre eles vestígios de [[_wiki/criaturas/dridar\|dridars]].
+O corredor está sujeito a fechamento periódico por marés subterrâneas. Quando as marés o bloqueiam, viajantes e caravanas são forçados a desvios por rotas alternativas como o [[_wiki/locais/eixo_de_drenn\|Eixo de Drenn]], que apresenta seus próprios riscos, entre eles vestígios de [[_wiki/criaturas/dridar\|drídares]].

@@ -4,15 +4,15 @@
 
 # Syndrith Morghast
 
-Syndrith Morghast é uma [[_wiki/racas/drul\|drul]] ophideia do [[_wiki/locais/templo_de_azkaroth\|templo de Azkaroth]], das [[_wiki/organizacoes/ophideias\|Ophideias]]. Porta o selo púrpura do Conselho, autoridade que sobrepõe a jurisdição de outros oficiais, e com ele supervisionou [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] em [[_wiki/locais/niedellin\|Niedellin]]. Agora está de volta a [[_wiki/locais/morvgrad\|Morvgrad]].
+Syndrith Morghast é uma [[_wiki/racas/drul\|drul]] ophideia do [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]], das [[_wiki/organizacoes/ophideias\|Ophideias]]. Porta o selo púrpura do Conselho, autoridade que sobrepõe a jurisdição de outros oficiais, e com ele supervisiona [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] em [[_wiki/locais/niedellin\|Niedellin]].
 
 ### Aparência
 
-Tem pele negra-púrpura e olhos violáceos de leve brilho, semicerrados quando avalia. O cabelo longo é platinado, fino e claro como teia de aranha. Veste o traje ophideia drul: panos drapeados sobre couro, faixas e aberturas estratégicas que mostram o corpo de propósito, nunca a couraça pesada que travaria um giro ou uma queda. O sigilo da [[_wiki/organizacoes/casa_morghast\|Casa Morghast]] aparece como ornamento ritual no manto. Empunha balestra de repetição e rapieiras gêmeas, e cavalga uma [[_wiki/criaturas/sombralva\|Sombralva]], felino de grande porte e pelagem que bebe a luz em vez de refleti-la.
+Tem pele negro-púrpura e olhos violáceos de leve brilho, semicerrados quando avalia. O cabelo longo é platinado, fino e claro como teia de aranha. Veste o traje ophideia drul: panos drapeados sobre couro, faixas e aberturas estratégicas que mostram o corpo de propósito, nunca a couraça pesada que travaria um giro ou uma queda. O sigilo da [[_wiki/organizacoes/casa_morghast\|Casa Morghast]] aparece como ornamento ritual no manto. Empunha balestra de repetição e rapieiras gêmeas, e cavalga uma [[_wiki/criaturas/sombralva\|Sombralva]], felino de grande porte e pelagem que bebe a luz em vez de refleti-la.
 
 ### Origem e papel
 
-Ela é espiã e sacerdotisa ao mesmo tempo: o peso litúrgico da ophideia somado ao ofício do campo. Opera infiltração e exploração noturna de alto nível e recruta inteligência onde uma ordem direta falharia. Em Niedellin, desceu à noite, leu o terreno e voltou com aliados que o selo sozinho jamais lhe daria. Seu próximo rito é a Oblátio Ereba.
+Ela é espiã e sacerdotisa ao mesmo tempo: o peso litúrgico da ophideia somado ao ofício do campo. Opera infiltração e exploração noturna de alto nível e recruta inteligência de campo. Em Niedellin, desceu à noite e leu o terreno. Seu próximo rito é a Oblátio Ereba.
 
 ### Método e voz
 
@@ -24,4 +24,4 @@ Especializada em [[_wiki/escolas/spectro\|Spectro]], a escola de atravessar a ma
 
 ### Relações
 
-Conhece [[_wiki/personagens/vhraxil\|Vhraxil]] desde a infância, e é uma das pouquíssimas figuras a quem dispensa afeto. Abordou [[_wiki/personagens/grothar\|Grothar]] como igual, e não como peça a comandar, e foi assim que o ganhou. A Milor, que supervisionou sem se subordinar, foi a princípio provocativa; depois de uma operação sob o manto da noite, mostrou-lhe uma deferência inédita, sem máscaras.
+Conhece [[_wiki/personagens/vhraxil\|Vhraxil]] desde a infância, e é uma das pouquíssimas figuras a quem dispensa afeto. Abordou [[_wiki/personagens/grothar\|Grothar]] reconhecendo-lhe a erudição, e foi assim que o recrutou como informante. A Milor, que supervisiona sem se subordinar, foi a princípio provocativa; depois de uma operação sob o manto da noite, mostrou-lhe uma deferência inédita, sem máscaras.

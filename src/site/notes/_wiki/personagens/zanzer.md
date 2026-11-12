@@ -8,7 +8,7 @@ Zanzer, conhecido como Veneno Púrpura, foi conselheiro do [[_wiki/organizacoes/
 
 ### Queda
 
-[[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]] capturou Zanzer em flagrante no [[_wiki/conceitos/varnum\|Varnum]] anterior. A operação teve custo: os outros envolvidos no tráfico escaparam, e o próprio Zanzer quase a arrastou consigo, deixando-lhe uma marca física que ela ainda carrega.
+[[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]] capturou Zanzer em flagrante no [[_wiki/conceitos/varnum\|Varnum]] anterior. A operação teve custo: os outros envolvidos no tráfico escaparam, e o próprio Zanzer quase a arrastou consigo, deixando-lhe uma marca física que ela ainda carrega. Nenhum conselheiro havia caído daquela forma antes dele.
 
 ### Cativeiro
 

@@ -8,7 +8,7 @@ Fing é um [[_wiki/racas/kobold\|kobold]], servo de [[_wiki/personagens/arothist
 
 ### Aparência
 
-Kobold pequeno, de escamas que sentem o frio dos corredores da torre e olhos amarelos sempre atentos ao mestre. A cauda, que outrora usava para o equilíbrio e chicoteava o chão na pressa de servir, foi-lhe decepada; o coto roubou-lhe o aprumo dos movimentos.
+Kobold pequeno, de escamas que sentem o frio dos corredores da torre e olhos amarelos sempre atentos ao mestre. A cauda, que lhe dava equilíbrio e chicoteava o chão na pressa de servir, perdeu um pedaço arrancado, e a mutilação roubou-lhe o aprumo dos movimentos.
 
 ### Devoção
 
@@ -20,4 +20,4 @@ Fing lê o céu como linguagem divina. Interpreta o [[_wiki/cosmologia/noctiluz\
 
 ### Relações
 
-Foi [[_wiki/personagens/thrax\|Thrax]] quem lhe decepou a cauda, num golpe que custou a Fing o equilíbrio e o pedaço, guardado como troféu pelo agressor. Com [[_wiki/personagens/quaz_har\|Quaz’har]], outro servo, troca inveja e desprezo recíprocos.
+Foi [[_wiki/personagens/thrax\|Thrax]] quem lhe arrancou um pedaço da cauda, com o último resto de força e sem sequer o ver como alguém, e guardou o pedaço para si. Com [[_wiki/personagens/quaz_har\|Quaz’har]], outro servo, troca inveja e desprezo recíprocos.

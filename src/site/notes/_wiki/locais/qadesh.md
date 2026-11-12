@@ -8,7 +8,7 @@ Qadesh é uma cidade-estado encravada no deserto oriental, na zona de transiçã
 
 ### Geografia e Posição
 
-A posição fronteiriça define a natureza de Qadesh: um porto seco entre dois mundos, entreposto onde as caravanas imperiais cruzam com mercadores [[_wiki/racas/frenim\|frenins]] e o comércio ignora as tensões que os mapas desenham. A distância de [[_wiki/locais/morvgrad\|Morvgrad]] e a utilidade comercial garantem à cidade uma autonomia funcional que outras províncias não gozam. Qadesh paga tributo e aceita o selo púrpuro; em troca, o Império não pergunta o que atravessa seus portões nem para quem suas lâminas são forjadas.
+A posição fronteiriça define a natureza de Qadesh: um porto seco entre dois mundos, entreposto onde as caravanas imperiais cruzam com mercadores [[_wiki/racas/frenim\|frenins]] e o comércio ignora as tensões que os mapas desenham. A distância de [[_wiki/locais/morvgrad\|Morvgrad]] e a utilidade comercial garantem à cidade uma autonomia funcional que outras províncias não gozam. Qadesh paga tributo e aceita o selo púrpura; em troca, o Império não pergunta o que atravessa seus portões nem para quem suas lâminas são forjadas.
 
 ### População
 
@@ -20,4 +20,4 @@ A fama de Qadesh vem das lâminas curvas forjadas em aço lunar, material cuja t
 
 ### Comércio
 
-Qadesh vende para quem paga. Suas lâminas chegam a mercados tão distintos quanto as bancas de [[_wiki/locais/ezrath\|Ezrath]] e os arsenais pessoais de informantes como [[_wiki/personagens/tibaut\|Tibaut]]. A cidade não pergunta a quem serve o aço, e essa indiferença mercantil é, ao mesmo tempo, sua maior proteção e sua maior infâmia.
+Qadesh vende para quem paga. Suas lâminas chegam a mercados tão distintos quanto as bancas de [[_wiki/locais/ezrath\|Ezrath]] e os arsenais pessoais de informantes como [[_wiki/personagens/tibaut\|Tibaut]]. A cidade não pergunta a quem serve o aço, e essa indiferença mercantil é, ao mesmo tempo, sua maior proteção e sua maior infâmia. O aço não é a única mercadoria que sai de seus portões: Qadesh exporta também vidro, frágil e caro, que se transporta com o cuidado reservado ao que não admite um solavanco.

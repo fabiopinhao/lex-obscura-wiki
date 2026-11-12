@@ -4,7 +4,7 @@
 
 # Pico de Nethys
 
-O Pico de Nethys, também chamado Dente de Reinkard, é o ponto mais elevado da [[_wiki/locais/dorsal\|Dorsal]] na margem voltada para o planalto [[_wiki/racas/shadar\|Shadar]]. Antigo ninho de dragão, hoje está abandonado, ainda que permaneça um marco geográfico de peso na paisagem de [[_wiki/locais/morvgrad\|Morvgrad]].
+O Pico de Nethys, também chamado Dente de Reinkard, é o ponto mais elevado da [[_wiki/locais/dorsal\|Dorsal]] na margem voltada para o planalto [[_wiki/racas/shadar\|shadar]]. Antigo ninho de dragão, hoje está abandonado, ainda que permaneça um marco geográfico de peso na paisagem de [[_wiki/locais/morvgrad\|Morvgrad]].
 
 ### Geografia e história
 
@@ -12,8 +12,8 @@ Foi ninho de dragão pela maior parte da [[_wiki/conceitos/primeira_era\|Primeir
 
 ### Mor’Severith e o Oculário
 
-[[_wiki/locais/mor_severith\|Mor’Severith]], a torre de [[_wiki/personagens/arothistar\|Arothistar]], está fundida à base do Pico de Nethys, em [[_wiki/locais/xarn_aroth\|Xarn’Aroth]]. Uma ponte sem corrimão conecta o [[_wiki/locais/oculario\|Oculário]] à trilha que sobe ao pico. A natureza do apreço pessoal de Arothistar pelo lugar não é de conhecimento público, mas é frequente vê-lo contemplá-lo.
+[[_wiki/locais/mor_severith\|Mor’Severith]], a torre de [[_wiki/personagens/arothistar\|Arothistar]], está fundida à base do Pico de Nethys, em [[_wiki/locais/xarn_aroth\|Xarn’Aroth]]. Uma ponte sem corrimão conecta o [[_wiki/locais/oculario\|Oculário]] à trilha que sobe ao pico. A relação pessoal de Arothistar com o lugar não é de conhecimento público, mas ele o contempla com frequência.
 
 ### A cicatriz no céu
 
-Sobre o Pico de Nethys, fendas de [[_wiki/cosmologia/noctiluz\|noctiluz]] abrem-se periodicamente, deixando cicatrizes prateadas no firmamento. Uma dessas fendas chega a ser visível de [[_wiki/locais/niedellin\|Niedellin]], a dezenas de léguas de distância.
+Sobre o Pico de Nethys, fendas de [[_wiki/cosmologia/noctiluz\|noctiluz]] abrem-se periodicamente, deixando cicatrizes prateadas no firmamento. A fenda que se abriu durante a unção de [[_wiki/personagens/milorsevogh_velshard\|Milor]], vista de [[_wiki/locais/niedellin\|Niedellin]], foi outra, e deixou no céu do planalto uma cicatriz cerúlea.

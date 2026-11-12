@@ -4,7 +4,7 @@
 
 # Fendris
 
-Fendris é uma arma [[_wiki/racas/luminares\|Luminar]] da [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]], forjada por elfos [[_wiki/racas/luminares\|Luminares]], hoje uma raça extinta, com o propósito original de exterminar dragões e [[_wiki/racas/draconideo\|draconídeos]]. É a única arma de seu tipo que ainda existe no mundo.
+Fendris é uma arma [[_wiki/racas/luminares\|luminar]] da [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]], forjada por elfos Luminares, hoje uma raça extinta, com o propósito original de exterminar dragões e [[_wiki/racas/draconideo\|draconídeos]]. É a única arma de seu tipo que ainda existe no mundo.
 
 ### Função
 
@@ -18,7 +18,7 @@ A restrição foi deliberadamente concebida. Os artífices Luminares sabiam que 
 
 ### História recente
 
-A adaga esteve no museu particular do Conselheiro [[_wiki/personagens/dessian_broel\|Dessian Broel]], passou às mãos da [[_wiki/organizacoes/serpente_purpura\|Serpente Púrpura]] e foi confiscada por [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]] após confronto. É o objetivo central do [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr’vethan]]: [[_wiki/personagens/yzmareth\|Yzmareth]] busca a adaga para eliminar [[_wiki/personagens/varna\|Varna]] e unificar [[_wiki/locais/varnak\|Varnak]]. Fendris desperta espontaneamente na presença de cristal, sem necessidade de receptáculo ou comando verbal, fenômeno que contradiz a mecânica padrão dos artefatos forjados: [[_wiki/personagens/gorvam_threnk\|Gorvam Threnk]], Mestre das Forjas, declarou nunca ter visto peça equivalente, o que corrobora sua origem luminar.
+A adaga esteve no museu particular do Conselheiro [[_wiki/personagens/dessian_broel\|Dessian Broel]], passou às mãos da [[_wiki/organizacoes/serpente_purpura\|Serpente Púrpura]] e foi confiscada por [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]] após confronto. É o objetivo central do [[_wiki/organizacoes/cla_myr_vethan\|Clã Myr’vethan]]: [[_wiki/personagens/yzmareth\|Yzmareth]] busca a adaga para eliminar [[_wiki/personagens/varna\|Varna]] e unificar [[_wiki/locais/varnak\|Varnak]]. Fendris desperta espontaneamente na presença de cristal, sem necessidade de receptáculo ou comando verbal, fenômeno que contradiz a mecânica padrão dos artefatos forjados: [[_wiki/personagens/gorvam_threnk\|Gorvam Threnk]], Mestre das Forjas, declarou nunca ter visto peça equivalente, o que corrobora sua origem luminar. O cristal preso numa arma não a desperta: a adaga segue muda mesmo colada à espada [[_wiki/cosmologia/magi\|magi]] de Nidzina, cujo magi está aprisionado nas nervuras da lâmina. A adaga acorda perto de cristal solto, oferecido ou carregado à parte. Quando desperta, o cabo gela, a crista da lâmina vibra e ela passa a responder como coisa viva; longe do cristal, volta a ser metal frio e mudo.
 
 ### Importância estratégica
 

@@ -6,13 +6,15 @@
 
 O Pacto Vozrador-Titãs é um acordo da [[_wiki/conceitos/primeira_era\|Primeira Era]] que poupou a floresta sagrada de [[_wiki/locais/thal_serin\|Thal’Serin]] da destruição e fez dela a fonte do poder de [[_wiki/panteao/vozrador\|Vozrador]]. É uma das engrenagens mais determinantes da história de [[_wiki/locais/reinkard\|Reinkard]] e o paradigma da política divina do mundo: [[_wiki/cosmologia/diabos\|diabos]] não conquistam pela força bruta, e sim negociam, vinculam e cobram.
 
-### O Ataque a Thal’Serin
+### A Ambição pelo Verde
 
-Vozrador, o mais ambicioso dos deuses negros, voltou seus olhos para Thal’Serin. Diferente de outros diabos, que cobiçavam os territórios dos [[_wiki/cosmologia/anjos\|deuses brancos]], ele desejava conquistar o verde. Através de seus pactuados, atacou a floresta sagrada e feriu suas defesas ancestrais. [[_wiki/panteao/morlgrund\|Morlgrund]] e [[_wiki/panteao/titania\|Titânia]], os [[_wiki/cosmologia/titas\|titãs]] primordiais que guardavam Thal’Serin, reagiram com fúria e, juntos, quase conseguiram aprisionar Vozrador em seu próprio plano.
+Vozrador, o mais complexo dos deuses negros, voltou seus olhos para Thal’Serin. Diferente de outros diabos, que cobiçavam os territórios dos [[_wiki/cosmologia/anjos\|deuses brancos]] ou exigiam expansão, ele perseguia supremacia nos próprios domínios de interesse: o controle da alma importava-lhe mais que a posse do mundo. Sua ambição voltou-se para o verde, não para conquistá-lo pela força, mas para extrair dele um poder que nenhum outro diabo ousasse contestar.
 
-### A Negociação
+### O Acordo
 
-O diabo, porém, era astuto. Negociou: prometeu que o [[_wiki/organizacoes/imperio_sombrio\|império]] [[_wiki/racas/shadar\|shadar]] jamais queimaria Thal’Serin, que a floresta permaneceria intocada enquanto ele tivesse influência sobre seus seguidores. Em troca, os titãs permitiram que ele extraísse poder da própria Thal’Serin. A floresta sagrada tornou-se a fonte de sua força, prerrogativa que nenhum outro diabo jamais teve: drenar o vigor de um santuário titânico, em vez de disputá-lo, fez dele o diabo mais temido de Reinkard enquanto mantivesse sua palavra.
+[[_wiki/panteao/morlgrund\|Morlgrund]] e [[_wiki/panteao/titania\|Titânia]], os [[_wiki/cosmologia/titas\|titãs]] primordiais que guardavam Thal’Serin, não pactuaram por temor, e sim por convergência de interesses: queriam a floresta intacta, e era exatamente isso que Vozrador oferecia. Do acordo, impensável para o restante do panteão, nasceu uma simbiose entre o verde e o negro.
+
+Ele prometeu que o [[_wiki/organizacoes/imperio_sombrio\|império]] [[_wiki/racas/shadar\|shadar]] jamais queimaria Thal’Serin, e que a floresta permaneceria inviolável enquanto tivesse influência sobre seus seguidores. Em troca, os titãs permitiram que extraísse poder da própria Thal’Serin. A floresta sagrada tornou-se a fonte de sua força, prerrogativa que nenhum outro diabo jamais teve: drenar o vigor de um santuário titânico por consentimento, em vez de disputá-lo, fez dele o diabo mais temido de Reinkard enquanto mantivesse sua palavra.
 
 ### Consequências
 

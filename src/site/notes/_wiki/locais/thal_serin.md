@@ -4,7 +4,7 @@
 
 # Thal’Serin
 
-Thal’Serin é uma floresta sagrada ancestral dos [[_wiki/racas/sylvano\|sylvanos]], no norte de [[_wiki/locais/ventrista\|Ventrista]], a cerca de duzentas léguas de [[_wiki/locais/morvgrad\|Morvgrad]]. Suas árvores milenares entrelaçam raízes como uma escritura vegetal, e a mata serve de refúgio à resistência élfica.
+Thal’Serin é uma floresta sagrada ancestral dos [[_wiki/racas/sylvano\|sylvanos]], no norte de [[_wiki/locais/ventrista\|Ventrista]], a cerca de vinte e cinco léguas de [[_wiki/locais/morvgrad\|Morvgrad]]. Suas árvores milenares entrelaçam raízes como uma escritura vegetal, e a mata serve de refúgio à resistência élfica.
 
 ### Geografia
 
@@ -12,7 +12,7 @@ Floresta de árvores milenares cujas raízes se entrelaçam no solo. No seu inte
 
 ### Refúgio
 
-Thal’Serin abriga a resistência élfica liderada por [[_wiki/personagens/koliah\|Koliah]]. O abrigo rebelde é protegido por teias de invisibilidade druídicas que ocultam quem ali se acolhe.
+Thal’Serin abriga a resistência élfica liderada por [[_wiki/personagens/koliah\|Koliah]]. O abrigo rebelde, junto ao riacho das Duas Pedras, é protegido por teias de invisibilidade druídicas que ocultam quem ali se acolhe.
 
 ### Proteção Antiga
 

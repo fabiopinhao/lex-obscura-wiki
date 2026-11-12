@@ -4,11 +4,11 @@
 
 # Niedellin
 
-Niedellin é uma pequena vila agrícola na [[_wiki/locais/ventrista\|Ventrista]], a faixa de terras férteis na base do planalto de [[_wiki/locais/morvgrad\|Morvgrad]] que produz grãos e gado para o [[_wiki/organizacoes/imperio_sombrio\|império]]. Fica isolada das rotas principais, ao sudeste do planalto [[_wiki/racas/shadar\|Shadar]] e perto da floresta de [[_wiki/locais/thal_serin\|Thal’Serin]], com cerca de mil habitantes. Da vila até os pés do planalto vai um dia de cavalgada, e dali mais dois dias até o primeiro portão de Morvgrad, somando três dias de estrada. Está subordinada ao Culto das Sombras, e os estandartes de [[_wiki/personagens/arothistar\|Arothistar]] pendem sobre suas torres.
+Niedellin é uma pequena vila agrícola na [[_wiki/locais/ventrista\|Ventrista]], a faixa de terras férteis na base do planalto de [[_wiki/locais/morvgrad\|Morvgrad]] que produz grãos e gado para o [[_wiki/organizacoes/imperio_sombrio\|império]]. Fica isolada das rotas principais, ao sudeste do planalto [[_wiki/racas/shadar\|shadar]] e perto da floresta de [[_wiki/locais/thal_serin\|Thal’Serin]], com cerca de mil habitantes. Da vila até os pés do planalto vai um dia de cavalgada, e dali mais dois dias até o primeiro portão de Morvgrad, somando três dias de estrada. Está subordinada ao Culto das Sombras, e os estandartes de [[_wiki/personagens/arothistar\|Arothistar]] pendem sobre suas torres.
 
 ### Geografia
 
-O [[_wiki/locais/rio_parveni\|Rio Parveni]] corta a vila em curva preguiçosa antes de alargar-se numa lagoa. Campos de cevada e trigo estendem-se em fileiras regulares, e perto do moinho ergue-se uma casa de fermentação que produz cerveja em abundância. No morrinho acima do lago fica a capela, ampla e de construção tosca, à qual serve [[_wiki/personagens/abramis\|Padre Abramis]].
+O [[_wiki/locais/rio_parveni\|Rio Parveni]] corta a vila em curva preguiçosa antes de alargar-se numa lagoa. Campos de cevada e trigo estendem-se em fileiras regulares, e perto do moinho ergue-se uma casa de fermentação que produz cerveja em abundância. No morrinho acima do lago fica a capela, ampla e de construção tosca, com uma torre atarracada, à qual serve [[_wiki/personagens/abramis\|Padre Abramis]]. Atrás dela, por um caminho estreito, fica o campo dos mortos: pedras tortas atrás de um muro que não chega ao joelho, um portão em dobradiças de couro, tábuas com nomes rasos e pedras de rio sem talhe, gerações na mesma cova. É a única terra que um humano possui em Niedellin. A praça central, aos pés do morrinho, é de terra batida, com um trecho calçado de pedra diante dos degraus da capela.
 
 ### Sob o jugo frouxo
 

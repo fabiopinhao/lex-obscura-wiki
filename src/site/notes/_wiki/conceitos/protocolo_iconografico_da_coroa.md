@@ -10,11 +10,13 @@ O Protocolo Iconográfico da Coroa é o decreto pelo qual [[_wiki/personagens/ar
 
 Com a queda de [[_wiki/locais/myrgarde\|Myrgarde]], há cerca de trinta anos, Arothistar atingiu a extensão máxima do [[_wiki/organizacoes/imperio_sombrio\|domínio sombrio]] sobre [[_wiki/locais/reinkard\|Reinkard]]. Sem muralhas a derrubar nem exércitos a derrotar, o monarca recolheu-se à torre e nunca mais desceu. Abandonou o [[_wiki/locais/salao_do_conselho\|Salão do Conselho]] e passou a governar por intermediários e pelo [[_wiki/artefatos/oculus_morvgradi\|Oculus]]. O [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]] opera como instrumento da vontade do monarca, não como parceiro de governo.
 
-### Conduítes de Onipresença
+### Canais de Onipresença
 
-As efígies não são mera decoração: funcionam como conduítes de onipresença, projeções simbólicas e, em alguns casos, arcanas, da presença do monarca. A [[_wiki/artefatos/efigie_de_arothistar\|Efígie de Arothistar]] na ponte de Mor’Severith é uma estátua animada de olhos de ônix que acendem em prata, capaz de vigiar tudo entre a ponte e o [[_wiki/locais/pico_de_nethys\|Pico de Nethys]] e de replicar a voz do mestre. No Salão do Conselho Sombrio, a efígie foi erguida um palmo acima da linha dos doze [[_wiki/cosmologia/diabos\|diabos]], detalhe que [[_wiki/personagens/orum-rahru\|Orum-Rahru]] tenta racionalizar como desnível de alvenaria, mas cuja mensagem é inequívoca: o monarca se posiciona acima dos deuses.
+Pelo decreto, cada templo ativo dos deuses sombrios carrega uma obra do monarca, pintura ou estátua, forjada pelas próprias mãos de Arothistar. Através delas ele vê e ouve, e por vezes fala; o que mais pesa sobre os fiéis é o olhar dele em silêncio. A natureza exata do encantamento é mistério; sabe-se apenas que são janelas, e toda janela olha para os dois lados.
 
-No [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]], sede das cerimônias de unção dos [[_wiki/organizacoes/justiciares\|Justiciares]], uma pintura mural de Arothistar emanou fulgor incomum durante a unção de [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh]]. A pintura da sala de banhos de Mor’Severith oferece vista direta para o mesmo templo.
+As efígies não são mera decoração: funcionam como canais de onipresença, projeções simbólicas e, em alguns casos, arcanas, da presença do monarca. A [[_wiki/artefatos/efigie_de_arothistar\|Efígie de Arothistar]] na ponte de Mor’Severith é uma estátua animada de olhos de ônix que acendem em prata, capaz de vigiar tudo entre a ponte e o [[_wiki/locais/pico_de_nethys\|Pico de Nethys]] e de replicar a voz do mestre. No Salão do Conselho Sombrio, a efígie foi erguida um palmo acima da linha dos doze [[_wiki/cosmologia/diabos\|diabos]], detalhe que [[_wiki/personagens/orum-rahru\|Orum-Rahru]] tenta racionalizar como desnível de alvenaria, mas cuja mensagem é inequívoca: o monarca se posiciona acima dos deuses.
+
+No [[_wiki/locais/templo_de_azkaroth\|templo de Azkaroth]], sede das cerimônias de unção dos [[_wiki/organizacoes/justiciares\|Justiciares]], uma pintura mural de Arothistar emanou fulgor incomum durante a unção de [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh]]. A pintura da sala de banhos de Mor’Severith oferece vista direta para o mesmo templo.
 
 ### Implicações Políticas
 

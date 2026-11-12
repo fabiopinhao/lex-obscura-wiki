@@ -12,11 +12,11 @@ O Verbum Arkhon não revogou a [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscur
 
 ### Relação com os Justiciares
 
-Para os [[_wiki/organizacoes/justiciares\|Justiciares]], o Verbum Arkhon é ao mesmo tempo fonte de autoridade e limitação absoluta. Sua palavra justifica cada interrogatório, cada execução e cada sentença, mas essa mesma palavra pode revogá-los, destituí-los ou condená-los sem recurso. A fórmula pronunciada durante a Unção expressa essa subordinação: “Arothistar est lex. [[_wiki/panteao/abbhal\|Abbhal]] est vox. Tu est martellus.”
+Para os [[_wiki/organizacoes/justiciares\|Justiciares]], o Verbum Arkhon é ao mesmo tempo fonte de autoridade e limitação absoluta. Sua palavra justifica cada interrogatório, cada execução e cada sentença, mas essa mesma palavra pode revogá-los, destituí-los ou condená-los sem recurso. A fórmula pronunciada durante a Unção expressa essa subordinação: “Arothistar est lex. [[_wiki/panteao/abbhal\|Abbhal]] est vox. Tu es martellus.”
 
 ### A língua da exceção
 
-A soberania que o Verbum Arkhon encarna tem um correlato linguístico. Assim como o soberano decide quando a Lex Obscura não se aplica, decide também em que língua a exceção é declarada. A hegemonia imperial do [[_wiki/linguas/reinkardico\|Reinkárdico]] é esse mesmo princípio de soberania transposto para o plano da língua: a Palavra do Soberano e a língua única do governo são duas faces de um só gesto, o de decidir o que vale. É o princípio que estrutura a [[_wiki/conceitos/politica_linguistica\|Política Linguística do Império Sombrio]].
+A soberania que o Verbum Arkhon encarna tem um correlato linguístico. Assim como o soberano decide quando a Lex Obscura não se aplica, decide também em que língua a exceção é declarada. A hegemonia imperial do [[_wiki/linguas/reinkardico\|reinkárdico]] é esse mesmo princípio de soberania transposto para o plano da língua: a Palavra do Soberano e a língua única do governo são duas faces de um só gesto, o de decidir o que vale. É o princípio que estrutura a [[_wiki/conceitos/politica_linguistica\|Política Linguística do Império Sombrio]].
 
 ### Palavra Registrada
 

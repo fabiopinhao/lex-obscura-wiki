@@ -12,7 +12,7 @@ Décadas de cárcere sem alimento adequado reduziram-no a pouco mais que ossos c
 
 ### Origem e Papel
 
-Cavava covas no Jardim dos Inocentes quando Myrgarde ainda existia, e viu a cidade cair no cerco final. Capturado, foi levado para Ghol’Drokh e proibido de morrer. A necromancia do [[_wiki/organizacoes/imperio_sombrio\|Império]] o conserva como um arquivo vivo de Myrgarde anterior à queda, uma memória de que se serve quando lhe convém. O velho é, ao mesmo tempo, punição e acervo: guardião involuntário de uma cidade que já não existe em parte alguma, exceto dentro dele, preservada em delírio perpétuo.
+Cavava covas no Jardim dos Inocentes quando Myrgarde ainda existia, e viu a cidade cair no cerco final. Capturado, foi levado para Ghol’Drokh e proibido de morrer. A necromancia do [[_wiki/organizacoes/imperio_sombrio\|Império]] o conserva como um arquivo vivo de Myrgarde anterior à queda, uma memória de que se serve quando lhe convém. O velho é, ao mesmo tempo, punição e acervo: guardião involuntário de uma cidade que já não existe em parte alguma, exceto dentro dele, preservada em delírio perpétuo. Os encantamentos que o sustentam se degradam e precisam ser renovados de tempos em tempos, e a magia lhe enrugou a memória e, com ela, a percepção do real: que ainda consiga formar frases é tido por milagre.
 
 ### Método e Voz
 

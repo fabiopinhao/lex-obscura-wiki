@@ -8,7 +8,7 @@ Grub é um [[_wiki/racas/orc\|orc]] veterano da guarda de [[_wiki/personagens/mi
 
 ### Aparência
 
-Carrega a barriga protuberante de quem nunca recusa uma refeição e o porte de quem sobreviveu a muitas. De estatura mediana para um orc, cerca de um metro e noventa, fica entre o porte maior de Mur e o menor de Grothar, mas é o mais pesado dos três: a massa lhe assenta no abdômen. Empunha dois machados gêmeos pesados demais para mãos humanas, ferro que só um orc ergue sem tremer. Apesar da compleição plena de um adulto, é jovem para a espécie, com apenas doze anos. Os orcs alcançam a maturidade física por volta dos dez, e nele os sinais da idade ainda saltam à vista: as presas brancas e afiadas, a pele esverdeada de tom cheio e saturado.
+Carrega a barriga protuberante de quem nunca recusa uma refeição e o porte de quem sobreviveu a muitas. De estatura mediana para um orc, cerca de um metro e noventa, fica entre o porte maior de Mur e o menor de Grothar, mas é o mais pesado dos três: a massa lhe assenta no abdômen. Empunha dois machados gêmeos pesados demais para mãos humanas, ferro que só um orc ergue sem tremer. Apesar da compleição plena de um adulto, é jovem para a espécie, com apenas doze anos. Os orcs alcançam a maturidade física por volta dos dez, e nele os sinais da idade ainda saltam à vista: as presas brancas e afiadas, a pele esverdeada de tom cheio e saturado. No peito carrega a cicatriz da flecha que o feriu na emboscada: a cura fechou o músculo e não apagou a marca, que ele ainda coça.
 
 ### Origem e papel
 
@@ -24,4 +24,4 @@ Em [[_wiki/locais/thal_serin\|Thal’Serin]], coube a Grub o trabalho que ningu�
 
 ### Relações
 
-Com Mur forma um duo de contrabalanço em que um aponta o caminho e o outro abre a passagem a machadadas. A Grothar e a Milor deve obediência sem cláusulas. Em algum ponto da marcha foi curado por magia élfica de [[_wiki/personagens/gaelwyn\|Gaelwyn]], dívida que ele não chega a reconhecer, porque obrigação abstrata não é coisa que entre na cabeça de Grub.
+Com Mur forma um duo de contrabalanço em que um aponta o caminho e o outro abre a passagem a machadadas. A Grothar e a Milor deve obediência sem cláusulas. Em algum ponto da marcha foi curado por magia élfica de [[_wiki/personagens/gaelwyn\|Gaelwyn]], dívida que ele não chega a reconhecer, porque obrigação abstrata não é coisa que entre na cabeça de Grub. A dívida que ele reconhece é outra: credita a cura a Milor, que a ordenou, e a invoca batendo no próprio peito, onde a cicatriz coça.

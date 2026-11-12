@@ -4,7 +4,7 @@
 
 # Calel
 
-Calel é um jovem ranger [[_wiki/racas/sylvano\|sylvano]] de catorze verões, irmão de [[_wiki/personagens/mirin\|Mirin]] e integrante da [[_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal’Serin]]. Órfão e aprendiz de [[_wiki/personagens/gaelwyn\|Gaelwyn]], é o mais veloz do grupo depois do próprio mestre. Onde os outros veem mato e sombra, ele vê rotas, e é assim que sobrevive: lendo o mundo como um sistema de caminhos e riscos antes de pisar nele.
+Calel é um jovem montaraz [[_wiki/racas/sylvano\|sylvano]] de catorze verões, irmão de [[_wiki/personagens/mirin\|Mirin]] e integrante da [[_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal’Serin]]. Órfão e aprendiz de [[_wiki/personagens/gaelwyn\|Gaelwyn]], é o mais veloz do grupo depois do próprio mestre. Onde os outros veem mato e sombra, ele vê rotas, e é assim que sobrevive: lendo o mundo como um sistema de caminhos e riscos antes de pisar nele.
 
 ### Aparência
 
@@ -12,7 +12,7 @@ Tem o porte de quem ainda está crescendo: dois anos mais novo que a irmã, com 
 
 ### Origem e papel
 
-Cresceu sem pais, recolhido pela resistência e formado por Gaelwyn no ofício do ranger. Aprende a se mover pelas matas de [[_wiki/locais/thal_serin\|Thal’Serin]] e decora as trilhas secretas que ligam o refúgio a [[_wiki/locais/niedellin\|Niedellin]], rotas que poucos conhecem e que ele registra em pergaminho à medida que as percorre. É escolhido para uma missão de confiança: levar a [[_wiki/personagens/abramis\|Abramis]], em Niedellin, uma mensagem cifrada de advertência, as trevas vestem cetro e osso. [[_wiki/personagens/koliah\|Koliah]] o instrui a correr sem responder se cruzar com o intendente, que conhece a localização do refúgio. Calel é a nova geração da resistência, criada à sombra de uma ameaça que ainda não consegue nomear por inteiro.
+Cresceu sem pais, recolhido pela resistência e formado por Gaelwyn no ofício do montaraz. Aprende a se mover pelas matas de [[_wiki/locais/thal_serin\|Thal’Serin]] e decora as trilhas secretas que ligam o refúgio a [[_wiki/locais/niedellin\|Niedellin]], rotas que poucos conhecem e que ele registra em pergaminho à medida que as percorre. É escolhido para uma missão de confiança: levar a [[_wiki/personagens/abramis\|Abramis]], em Niedellin, uma mensagem cifrada de advertência, as trevas vestem cetro e osso. [[_wiki/personagens/koliah\|Koliah]] o instrui a correr sem responder se cruzar com o intendente, que conhece a localização do refúgio. Calel é a nova geração da resistência, criada à sombra de uma ameaça que ainda não consegue nomear por inteiro.
 
 ### Método e voz
 

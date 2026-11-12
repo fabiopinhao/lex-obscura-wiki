@@ -28,7 +28,7 @@ Pouco da cultura varglin sobreviveu. Persistem as marcações de toca, os Gratma
 
 ### Voz
 
-Os varglins falam rápido, baixo e em frases incompletas, cortando palavras pela metade quando se sentem observados, como se cada sílaba fosse risco de detecção. Os sujeitos costumam ser omitidos, “viu cheiro, dois dias, grande” no lugar da frase inteira, e há o hábito nervoso de repetir a última palavra do interlocutor enquanto processam o que ouviram. Evitam pronunciar “[[_wiki/racas/worg\|worg]]” em voz alta, trocando-o por “grande”, “primo” ou “aquele”, ou simplesmente emudecendo, e o tremor crônico do corpo transparece nas sílabas que vacilam sob tensão. Nas raras vezes em que confiam, a fala se expande e revela uma inteligência aguda, de observação precisa. Onde os worgs são transacionais e irônicos, os varglins são telegráficos e literais: operam por troca imediata, sem o fiado da *skuld*, porque fiado pressupõe um amanhã que nenhum dos dois lados garante.
+Os varglins falam rápido, baixo e em frases incompletas, cortando palavras pela metade quando se sentem observados, como se cada sílaba fosse risco de detecção. Os sujeitos costumam ser omitidos, “viu cheiro, dois dias, grande” no lugar da frase inteira, e há o hábito nervoso de repetir a última palavra do interlocutor enquanto processam o que ouviram. Evitam pronunciar “worg” em voz alta, trocando-o por “grande”, “primo” ou “aquele”, ou simplesmente emudecendo, e o tremor crônico do corpo transparece nas sílabas que vacilam sob tensão. Nas raras vezes em que confiam, a fala se expande e revela uma inteligência aguda, de observação precisa. Onde os worgs são transacionais e irônicos, os varglins são telegráficos e literais: operam por troca imediata, sem o fiado da *skuld*, porque fiado pressupõe um amanhã que nenhum dos dois lados garante.
 
 ### Relação com o Império
 
@@ -36,8 +36,16 @@ O [[_wiki/organizacoes/imperio_sombrio\|Império]] não distingue os varglins co
 
 ### Magia
 
-Como todos os [[_wiki/racas/vulfano\|vulfanos]], os varglins acessam a magia pelo [[_wiki/magia/pactum_diaboli\|Pactum Diaboli]]. A prática é ainda mais rara que entre os worgs: a longevidade de quarenta a cinquenta anos e a vida de fuga permanente impedem o estudo continuado. Os poucos que demonstram aptidão gravitam para a magia de ocultação, tornar-se invisível, suprimir som, apagar rastro, e para a magia de armadilhas. O custo manifesta-se como perda acelerada de massa corporal: o varglin que usa magia com frequência definha visivelmente, e a linha entre praticante e moribundo é tênue.
+Como todos os vulfanos, os varglins acessam a magia pelo [[_wiki/magia/pactum_diaboli\|Pactum Diaboli]]. A prática é ainda mais rara que entre os worgs: a longevidade de quarenta a cinquenta anos e a vida de fuga permanente impedem o estudo continuado. Os poucos que demonstram aptidão gravitam para a magia de ocultação, tornar-se invisível, suprimir som, apagar rastro, e para a magia de armadilhas. O custo manifesta-se como perda acelerada de massa corporal: o varglin que usa magia com frequência definha visivelmente, e a linha entre praticante e moribundo é tênue.
 
 ### Ciclo Vital
 
 Nascem em ninhadas de um a três filhotes, menores que as dos worgs; as fêmeas entram no cio uma vez ao ano. Amadurecem depressa: caminham eretos aos dezoito meses, falam aos três anos, tornam-se adultos aos oito. Vivem entre quarenta e cinquenta anos em teoria, mas na prática poucos ultrapassam os trinta e cinco. Os filhotes nascem com os olhos abertos e correm em forma quadrúpede em poucas horas, e o desmame é abrupto, às quatro semanas: precocidade selecionada pela predação, em que filhotes lentos e mães imóveis não sobreviviam.
+
+### Conflitos Internos
+
+O conflito central da raça é existencial no sentido mais literal: continuar existindo exige esforço constante, e a recompensa é continuar existindo. Muitos varglins velhos, o que a longevidade reduzida faz começar por volta dos trinta, simplesmente param. Deixam de comer e de se esconder, sentam-se num lugar aberto e esperam, e o tremor cessa por último. Os jovens chamam isso de ir embora; os velhos, de parar de fingir.
+
+Alguns varglins jovens, sobretudo os que cresceram em cidades e nunca viram outro da própria raça, buscam contato com as demais raças gnômicas. A recepção varia. Os derros os toleram por utilidade. Os [[_wiki/racas/kobold\|kobolds]], que servem a mestres shadars, os ignoram como irrelevantes. Os [[_wiki/racas/spriggin\|spriggins]], nas raras regiões onde coexistem, demonstram algo próximo da solidariedade: duas espécies em extinção reconhecem a semelhança sem precisar dizê-la.
+
+Sob os dois está o paradoxo do medo. O medo ancestral dos worgs mantém os varglins vivos, porque impele à fuga, aguça os sentidos e força a invisibilidade, e ao mesmo tempo os mata devagar, porque impede a reprodução, perpetua o isolamento e corrói a saúde mental. Livrar-se dele significaria perder a ferramenta de sobrevivência que os trouxe até aqui; mantê-lo significa que cada geração nasce mais frágil que a anterior.

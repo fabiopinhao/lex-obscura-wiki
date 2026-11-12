@@ -34,11 +34,19 @@ Os banquetes de guilda são a celebração central: comida pesada e cerveja escu
 
 As ofensas graves entre clãs são gravadas em placas de ferro guardadas nos salões, e ninguém as destrói. A reconciliação exige cerimônia pública em que a placa é fundida diante de ambos os clãs e o metal resultante é forjado em objeto utilitário oferecido ao ofendido. Tais fundições são raríssimas. Os funerais são privados: o corpo é cremado na forja do clã, as cinzas são misturadas ao próximo lote de metal fundido, e o primeiro objeto forjado com esse metal é guardado pela família, de modo que os karashins carregam seus mortos nas ferramentas.
 
+### Ciclo Vital
+
+Os karashins nascem um por vez, e gêmeos são raríssimos. A infância é longa: consideram-se adultos aos vinte e cinco anos. O aprendizado de ofício começa aos dez e dura décadas, e quem muda de guilda depois dos quarenta é visto com desconfiança. Os casamentos são arranjos práticos entre clãs, usados com frequência para selar alianças ou encerrar disputas, com sucesso variável. Os filhos pertencem ao clã da mãe e seguem o ofício do pai. Separações são raras e estigmatizadas.
+
+### Guerras com os drakhonins
+
+Os registros shadars das guerras antigas dão como lendárias as batalhas dos karashins contra os [[_wiki/racas/draconideo\|drakhonins]]. Os drakhonins, povo do continente oeste, não eram conhecidos pela perícia com metal e, para obter armamento de qualidade anânica, invadiam e pilhavam as fortalezas do interior das montanhas. A prática cessou quando [[_wiki/locais/morvgrad\|Morvgrad]] tomou essas fortalezas.
+
 ### Relação com o Império
 
 As cidadelas karashim resistiram ao [[_wiki/eventos/sopro_do_eclipse\|Sopro do Eclipse]] na [[_wiki/conceitos/segunda_era\|Segunda Era]] fechando as montanhas, mas não escaparam da conquista que veio depois. Durante as [[_wiki/eventos/guerras_reinkardicas_inicio\|Guerras Reinkárdicas]], as montanhas independentes foram tomadas numa campanha coordenada entre shadars na superfície e druls no subterrâneo, e [[_wiki/locais/thandruk_varn\|Thandruk Varn]] caiu por rendição condicional, com forjas redirecionadas e artefatos luminares entregues. Os termos degradaram para servidão de fato.
 
-O erro estratégico imperial foi reunir clãs rivais. Ao tomar as cidadelas menores, o Império transferiu os clãs para Thandruk Varn, centralizando a produção e ignorando que esses clãs eram rivais de eras. Agravos antes controlados pela distância geográfica foram confinados na mesma montanha, e o resultado foi disputas internas permanentes, sabotagens cruzadas e uma hostilidade surda que nenhum decreto resolve. As placas de rancor, que noutros salões se acumulam aos poucos, em Thandruk Varn ocupam salões inteiros. A cidadela está parada há três luas, novas legiões surgem com armas de origem desconhecida, e o Justiciar designado para o local desapareceu sem rastro. A Khelg’Dur opera fora desse conflito, nas rotas de caravana de Vor-Ghol, transportando carga imperial e carga drul com a mesma indiferença profissional.
+O erro estratégico imperial foi reunir clãs rivais. Ao tomar as cidadelas menores, o Império transferiu os clãs para Thandruk Varn, centralizando a produção e ignorando que esses clãs eram rivais de eras. Agravos antes controlados pela distância geográfica foram confinados na mesma montanha, e o resultado foi disputas internas permanentes, sabotagens cruzadas e uma hostilidade surda que nenhum decreto resolve. As placas de rancor, que noutros salões se acumulam aos poucos, em Thandruk Varn ocupam salões inteiros. A cidadela está parada há duas luas, novas legiões surgem com armas de origem desconhecida, e o Justiciar designado para o local desapareceu sem rastro. A Khelg’Dur opera fora desse conflito, nas rotas de caravana de Vor-Ghol, transportando carga imperial e carga drul com a mesma indiferença profissional.
 
 ### Magia e Maestria Material
 

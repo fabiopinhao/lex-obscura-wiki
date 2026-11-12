@@ -12,4 +12,4 @@ Yzmareth é um draconídeo imponente, de escamas vermelhas escuras, que empunha 
 
 ### Propósito
 
-O clã busca a [[_wiki/artefatos/fendris\|Fendris]] para derrotar [[_wiki/personagens/varna\|Varna]], o dragão anciã que impede a unificação tribal. A empreitada esbarra numa ironia central: os drakhonins, vinculados a [[_wiki/panteao/kaelgrym\|Kaelgrym]] desde os ovos, não podem manejar a Fendris, artefato [[_wiki/racas/luminares\|Luminar]] que só funciona em mãos não-pactuadas. O clã chegou a perder a Fendris para [[_wiki/personagens/nidzina_avaroth\|Nidzina]].
+O clã busca a [[_wiki/artefatos/fendris\|Fendris]] para derrotar [[_wiki/personagens/varna\|Varna]], o dragão anciã que impede a unificação tribal. A empreitada esbarra numa ironia central: os drakhonins, vinculados a [[_wiki/panteao/kaelgrym\|Kaelgrym]] desde os ovos, não podem manejar a Fendris, artefato [[_wiki/racas/luminares\|luminar]] que só funciona em mãos não-pactuadas. O clã chegou a perder a Fendris para [[_wiki/personagens/nidzina_avaroth\|Nidzina]].

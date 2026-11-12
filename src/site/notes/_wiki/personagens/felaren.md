@@ -4,7 +4,7 @@
 
 # Felaren
 
-Felaren é um ranger veterano da [[_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal’Serin]] e o único do refúgio que serviu nos exércitos élficos antes da queda. [[_wiki/racas/sylvano\|Sylvano]], traz a manga esquerda dobrada e presa no ombro, e carrega o arco longo às costas. Das guerras, ficaram-lhe as cicatrizes e o costume de não falar delas.
+Felaren é um montaraz veterano da [[_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal’Serin]] e o único do refúgio que serviu nos exércitos élficos antes da queda. [[_wiki/racas/sylvano\|Sylvano]], traz a manga esquerda dobrada e presa no ombro, e carrega o arco longo às costas. Atira com o braço que lhe restou: encaixa a flecha, prende a corda numa trava de couro que traz entre os dentes e puxa com o pescoço, o corpo inteiro fazendo o serviço de dois braços. Das guerras, ficaram-lhe as cicatrizes e o costume de não falar delas.
 
 ### Papel
 

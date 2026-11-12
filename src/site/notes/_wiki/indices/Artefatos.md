@@ -13,7 +13,7 @@ Objetos que sobreviveram a seus criadores raramente o fizeram por acidente.
 - [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]] — Grimório sagrado tripartite: Verbum Arkhon, Lex Obscura, Tabula Umbrae
 - [[_wiki/artefatos/spina_lexis\|Spina Lexis]] — Cetro judicial: estilhaça, compele, sentencia
 - [[_wiki/artefatos/oculus_morvgradi\|Oculus Morvgradi]] — Esfera de ônix para comunicação via Poço Etéreo
-- [[_wiki/artefatos/tabua_reversa\|Tábua Reversa]] — Ardósia de registro judicial em giz arcano
+- [[_wiki/artefatos/tabua_reversa\|Tábua Reversa]] — Tábua de argila polida para registro judicial em tinta
 
 ## Relíquias Maiores
 
@@ -44,12 +44,13 @@ Objetos que sobreviveram a seus criadores raramente o fizeram por acidente.
 
 ## Documentos e Textos
 
+- [[_wiki/artefatos/de_anima_vendita\|De Anima Vendita]]: tratado de Ambrosin sobre os shadars e o penhor da alma
 - [[_wiki/artefatos/livro_vermelho_dos_dragoes\|Livro Vermelho dos Dragões]] — Tratado draconológico encadernado em escamas
 - [[_wiki/artefatos/tratado_de_wijmarv\|Tratado de Wijmarv]] — Revela a verdadeira função de Fendris
 
 ## Fragmentos e Derivados
 
-- [[_wiki/artefatos/gema-viva\|Gema-Viva]] — Ovo de dridar incubando sob aparência de gema preciosa
+- [[_wiki/artefatos/gema-viva\|Gema-Viva]] — Ovo de drídar incubando sob aparência de gema preciosa
 - [[_wiki/artefatos/caco_de_oculus\|Caco de Oculus]] — Fragmento-rastreador vinculado a maldição-garantia
 
 ---

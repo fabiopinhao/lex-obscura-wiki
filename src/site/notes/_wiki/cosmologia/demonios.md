@@ -4,7 +4,7 @@
 
 # Demônios
 
-Os Demônios, também chamados Deuses Vermelhos ou Deuses do Caos, são a categoria divina associada à [[_wiki/cosmologia/cor_arcana\|cor arcana]] vermelha: destruição, caos e prazer na violência. Habitam planos existenciais que são verdadeiros infernos, paisagens de fogo, sangue e ruína perpétua.
+Os demônios, também chamados Deuses Vermelhos ou Deuses do Caos, são a categoria divina associada à [[_wiki/cosmologia/cor_arcana\|cor arcana]] vermelha: destruição, caos e prazer na violência. Habitam planos existenciais que são verdadeiros infernos, paisagens de fogo, sangue e ruína perpétua.
 
 ### Natureza
 

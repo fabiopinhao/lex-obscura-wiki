@@ -16,11 +16,11 @@ Mais do que animar, o Círculo recostura. Cada osso é selado por filamentos âm
 
 ### Vulnerabilidade
 
-O fogo é o contraponto do Círculo. A chama faz a resina ferver e toma o lugar do fecho, abrindo intervalos antes que as suturas se cerrem de novo. A ruptura plena vem de quebrar o próprio heptagrama: quando o fogo devora a ligação que unia vértebra a vértebra, as linhas fraturam, o âmbar esfria até a cor de osso frio, as suturas cedem e os mortos colapsam.
+O fogo é o contraponto do Círculo. A chama faz a resina ferver e toma o lugar do fecho, abrindo intervalos antes que as suturas se cerrem de novo. A ruptura plena vem de quebrar o próprio heptagrama: quando o fogo devora a ligação que unia vértebra a vértebra, as linhas fraturam, o âmbar esfria até a cor de osso frio, as suturas cedem e os mortos colapsam. A regência depende ainda da compostura do operador: surpreendido, ele deixa os anéis-cristal errarem o compasso, e sob o fogo o heptagrama perde o passo antes de ruir.
 
 ### Origem e aparições
 
-O ritual foi operado pelo necromante [[_wiki/personagens/qaelun\|Qaelun]] no [[_wiki/locais/templo_de_vozrador\|Templo de Vozrador]] abandonado, em [[_wiki/locais/morvgrad\|Morvgrad]]. Nessa ocasião, [[_wiki/personagens/orum-rahru\|Orum]], privado de magia, venceu o Círculo por impacto e fogo, empurrando um caixão incendiado ao centro do heptagrama até que a estrutura se extinguisse.
+O ritual foi operado pelo necromante [[_wiki/personagens/qaelun\|Qaelun]] no [[_wiki/locais/templo_de_vozrador\|templo de Vozrador]] abandonado, em [[_wiki/locais/morvgrad\|Morvgrad]]. Nessa ocasião, [[_wiki/personagens/orum-rahru\|Orum]], privado de magia pelo [[_wiki/artefatos/luto_de_nyssis\|Luto de Nyssis]], venceu o Círculo por impacto e fogo, empurrando um caixão incendiado ao centro do heptagrama até que a estrutura se extinguisse.
 
 ### Lógica e lacunas
 

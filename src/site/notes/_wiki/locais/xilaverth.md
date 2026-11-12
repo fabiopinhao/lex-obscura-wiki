@@ -4,7 +4,7 @@
 
 # Xilaverth
 
-Xilaverth é uma cidadela [[_wiki/racas/drul\|drul]] no oeste de [[_wiki/locais/vor-ghol\|Vor-Ghol]], em relação hostil com [[_wiki/locais/ghilanna\|Ghilanna]]. A rivalidade entre as duas é política e territorial, típica da dinâmica matriarcal drul, onde a traição é virtude e as alianças nascem temporárias.
+Xilaverth é uma cidadela [[_wiki/racas/drul\|drul]] no oeste de [[_wiki/locais/vor-ghol\|Vor-Ghol]], em relação hostil com [[_wiki/locais/ghilanna\|Ghilanna]]. Nasceu satélite da capital, como as cidadelas irmãs Nulbareth e Vel’Kora, fontes de minério e sangue jovem para Ghilanna; Xilaverth rompeu e deixou de mandar os seus. A rivalidade entre Xilaverth e Ghilanna é política e territorial, típica da dinâmica matriarcal drul, onde a traição é virtude e as alianças nascem temporárias.
 
 ### Diplomacia
 

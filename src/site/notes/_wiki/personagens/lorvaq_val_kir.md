@@ -4,15 +4,15 @@
 
 # Lorvaq Val’Kir
 
-Lorvaq Val’Kir é um [[_wiki/racas/frenim\|Frenim]], humano sideral de [[_wiki/locais/neranthis\|Neranthis]], e um místico formidável. É um calculista que confia nos próprios cálculos, dado a planos cuja grandiosidade funciona como substituto da grandiosidade real.
+Lorvaq Val’Kir é um [[_wiki/racas/frenim\|frenim]], humano sideral de [[_wiki/locais/neranthis\|Neranthis]], e um místico formidável. É um calculista que confia nos próprios cálculos, dado a planos cuja grandiosidade funciona como substituto da grandiosidade real.
 
 ### Aparência
 
-É um Frenim esguio, de pele amarelo-esverdeada e olhos como fendas de vermelho líquido.
+É um frenim esguio e magro, de pele amarelo-esverdeada em que veias azuladas pulsam sob a superfície. Os olhos são fendas horizontais de chamas vermelhas e líquidas, que se movem devagar; o rosto é alongado, e véus translúcidos flutuam ao redor dele sem vento.
 
 ### Origem e papel
 
-Vem de Neranthis, terra dos Frenim, os humanos siderais. Místico de notável ofício, ocupa-se da arte do plano etéreo e do véu que separa os planos.
+Vem de Neranthis, terra dos frenim, os humanos siderais. Místico de notável ofício, ocupa-se da arte do [[_wiki/cosmologia/plano_etereo\|plano etéreo]] e do véu que separa os planos.
 
 ### Magia
 
@@ -21,5 +21,3 @@ Lorvaq é um místico cuja arte se liga ao plano etéreo e ao véu que separa os
 ### Relações
 
 [[_wiki/personagens/babua\|Babua]], servo [[_wiki/racas/ranidano\|ranidano]], acompanha-o escondido sob o véu etéreo que Lorvaq tece.
-
-Em [[_wiki/locais/elenir\|Elenir]], enfrentou o Justiciar [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]].

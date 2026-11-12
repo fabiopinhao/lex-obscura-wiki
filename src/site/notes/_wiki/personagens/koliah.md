@@ -8,7 +8,7 @@ Koliah é uma humana, filha adotiva do padre [[_wiki/personagens/abramis\|Abrami
 
 ### Aparência
 
-Veste couro trabalhado que abraça o corpo, a proteção de quem conhece a mata: armadura de caçadora. É lembrada como a “bela caçadora” e como “a menina da cicatriz”, marca que carrega desde jovem.
+Veste couro trabalhado que abraça o corpo, a proteção de quem conhece a mata: armadura de caçadora. Usou botas por muito tempo, na vila e na mata, até deixá-las na orla da floresta, no oco de um carvalho, no dia em que, em [[_wiki/locais/thal_serin\|Thal’Serin]], pegada de sola passou a ser pegada de [[_wiki/racas/orc\|orc]]; desde então anda descalça, e é por esse traço que [[_wiki/personagens/merari_d_khunvel\|Merari]] a diminui, reduzindo-a a uma descalça que cheira a suor e floresta.
 
 ### Papel
 

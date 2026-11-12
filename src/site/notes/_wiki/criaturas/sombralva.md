@@ -4,7 +4,7 @@
 
 # Sombralva
 
-A sombralva é um felino de grande porte das profundezas subterrâneas de [[_wiki/locais/vor-ghol\|Vor-Ghol]], criado seletivamente pelas [[_wiki/organizacoes/ophideias\|ophideias]] [[_wiki/racas/drul\|drul]] como montaria. É maior que as panteras da superfície, dotado de visão plena na escuridão e de patas adaptadas para escalar as paredes íngremes das cavernas.
+A sombralva é um felino de grande porte das profundezas subterrâneas de [[_wiki/locais/vor-ghol\|Vor-Ghol]], criado seletivamente pelos [[_wiki/racas/drul\|druls]] e domesticado pelas [[_wiki/organizacoes/ophideias\|ophideias]] como montaria. É maior que as panteras da superfície, dotado de visão plena na escuridão e de patas adaptadas para escalar as paredes íngremes das cavernas.
 
 ### Nomenclatura
 

@@ -21,7 +21,7 @@ O Império não reconhece igualdade entre as raças. Reconhece utilidade.
 - [[_wiki/racas/sylvano\|Sylvano]] — Elfos das florestas, que trocaram a pureza luminar pela proteção do verde e vivem como rebeldes numa terra que já foi inteiramente deles.
 - [[_wiki/racas/alvarar\|Álvarar]] — Humanos tocados por deuses celestiais, paladinos do panteão luminoso cuja devoção angelical os torna instrumentos de julgamento implacável.
 - [[_wiki/racas/elarino\|Elarino]] — Elfos angelicais de Elenir, os mais próximos dos Luminares em sangue e arrogância, preservando fragmentos de uma tradição que o resto do mundo já enterrou.
-- [[_wiki/racas/karashim\|Karashim]] — Anões mineradores, ferreiros e comerciantes de caravana, escravizados nas forjas de Thandruk Varn, onde clãs que se odiavam à distância agora dividem dormitórios.
+- [[_wiki/racas/karashim\|Karashim]] — Anões mineradores, ferreiros e comerciantes de caravana, subjugados nas forjas de Thandruk Varn, onde clãs que se odiavam à distância agora dividem dormitórios.
 - [[_wiki/racas/luminares\|Luminar]] — Elfos da luz primordiais cuja civilização pré-cromática impregnou Reinkard de magi por eras. Extintos.
 
 ## Raças Bestiais
@@ -59,14 +59,14 @@ O Império não reconhece igualdade entre as raças. Reconhece utilidade.
 - [[_wiki/criaturas/troll\|Troll]] — Predador territorial de massa colossal e regeneração extrema, que só morre de verdade quando queimado ou dissolvido.
 - [[_wiki/criaturas/sombralva\|Sombralva]] — Felino de grande porte de pelagem que absorve luz, domesticado exclusivamente por ophideias como montaria de combate e símbolo de status entre as sacerdotisas-assassinas drul. Também chamada de “pantera sombria” no falar popular.
 - [[_wiki/criaturas/servo_hediondo\|Servo Hediondo]] — Constructo necromântico animado a partir de cadáveres, amálgamas de carne ou entidades de planos inferiores, tão variado em forma quanto o invocador que o criou e o material que estava à mão.
-- [[_wiki/criaturas/dridar\|Dridar]] — Aracnídeo gigante de Vor-Ghol cultivado pelas matriarcas drul em linhagens selecionadas por agressividade e inteligência, plantado como ovo em cidadelas rivais para destruí-las de dentro quando amadurece.
-- [[_wiki/criaturas/hidna_ressonante\|Hidna Ressonante]] — Organismo ou armadilha natural de Vor-Ghol que explode ao menor estímulo sonoro, razão pela qual tropas drul jamais marcham em formação pelos corredores.
+- [[_wiki/criaturas/dridar\|Drídar]] — Aracnídeo gigante de Vor-Ghol cultivado pelas matriarcas drul em linhagens selecionadas por agressividade e inteligência, plantado como ovo em cidadelas rivais para destruí-las de dentro quando amadurece.
+- [[_wiki/criaturas/hidna_ressonante\|Hidna Ressonante]] — Organismo mineral bioluminescente que percorre Vor-Ghol como um túnel espelhado; marchas e vozes fazem o subsolo ressoar até partir-se, razão pela qual tropas drul jamais marcham em formação pelos corredores.
 - [[_wiki/criaturas/gnoll\|Gnoll]] — Híbrido hiena-humanoide de fedor avassalador, ferocidade bruta e vida curta, classificado como “fauna doméstica de segundo grau” pelo Império e tratado exatamente como isso implica.
 - [[_wiki/criaturas/ogro\|Ogro]] — Humanoides massivos de inteligência limitada, usados como força bruta descartável nos estratos mais baixos do Império.
 - [[_wiki/criaturas/salamandra\|Salamandra]] — Réptil de ambientes vulcânicos cujo sangue inflamável é o recurso mais cobiçado e escasso de qualquer campanha contra trolls.
 - [[_wiki/criaturas/diabrete\|Diabrete]] — Criaturas aladas, criadas em cativeiro e usadas como mensageiras servis.
-- [[_wiki/criaturas/urtor_de_calcita\|Urtor de Calcita]] — Predador das rotas de caravana de Vor-Ghol, temido o suficiente para justificar escoltas armadas, embora ninguém se detenha em descrever seus detalhes.
-- [[_wiki/criaturas/vitraxil\|Vitraxil]] — Criatura pequena e frágil de Vor-Ghol, possivelmente bioluminescente, cuja aparência delicada virou sinônimo de fragilidade no vocabulário das profundezas.
+- [[_wiki/criaturas/urtor_de_calcita\|Urtor de Calcita]] — Predador crustáceo-reptiliano das galerias fundas de Vor-Ghol, que se disfarça como estalactite e atrai viajantes com um falso reflexo de lume; temido o suficiente para justificar escoltas armadas.
+- [[_wiki/criaturas/vitraxil\|Vitraxil]] — Besouro de Vor-Ghol cujos élitros em mosaico quebram a limo-luz em vitrais vivos, e cuja aparência delicada virou sinônimo de fragilidade no vocabulário das profundezas.
 - [[_wiki/criaturas/isopode\|Isópode]] — Artrópode gigante de carapaça quitinosa usado como animal de carga nas rotas de caravana de Vor-Ghol, com guizos embrulhados em feltro quando o silêncio vale mais que a velocidade.
 
 ---

@@ -122,7 +122,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/panteao/azazel\|Azazel]] — Arcanjo *(Archangel)* — Serafim lancinante, último deus branco com presença ativa em Reinkard; sua fé luminosa quase se extinguiu sob o manto das sombras
 
-- [[_wiki/panteao/paralda\|Paralda]] — Senhora do Sudário *(Lady of the Shroud)* — Querubim onívido que envolve os moribundos em luz consagrada; o sudário que tece não cobre a morte, dignifica-a
+- [[_wiki/panteao/paralda\|Paralda]] — Senhora do Sudário *(Lady of the Shroud)* — Carpideira Velada de mãos que restauram pelo toque e sudário que consagra a passagem
 
 - [[_wiki/panteao/yelvanna\|Yelvanna]] — Réquiem Consagrado *(The Hallowed Requiem)* — Siren brumosa cujo canto fúnebre protege e julga; quem merece ouve melodia, quem não merece ouve silêncio
 
@@ -130,7 +130,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/panteao/zephrak\|Zephrak]] — Sopro Inclemente *(Merciless Gust)* — Grifo ferino cujo vento sagrado não refresca: arranca, expõe e carrega embora o que não tem raiz
 
-- [[_wiki/panteao/israfil\|Israfil]] — Arauto da Aurora *(Herald of Dawn)* — Olifante frondoso de bênção preservadora; a antítese da escuridão que avança sobre Reinkard
+- [[_wiki/panteao/israfil\|Israfil]] — Arauto da Aurora *(Herald of Dawn)* — Olifante de presas incandescentes cuja restauração cauteriza e esteriliza pela luz
 
 - [[_wiki/panteao/ophemus\|Ophemus]] — Fulgor Devastador *(Devastating Radiance)* — Ciclope coruscante cujo olho único concentra toda a luz disponível num único ponto de destruição
 
@@ -154,7 +154,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/panteao/aethravos\|Aethravos]] — Alento Vítreo *(The Vitreous Breath)* — Wyvern nacarada cujo sopro vitrifica o ar em lâminas translúcidas; o céu que toca se torna frágil
 
-- [[_wiki/panteao/dremharak\|Dremharak]] — Febre Lúcida *(Lucid Fever)* — Wendigo febril cujo calor não aquece: delira, e o delírio que provoca é indistinguível da lucidez
+- [[_wiki/panteao/dremharak\|Dremharak]] — Febre Lúcida *(Lucid Fever)* — Wendigo febril que adormece o corpo por hipertermia e abre a mente a uma percepção sem filtro
 
 - [[_wiki/panteao/lyldraeth\|Lyldraeth]] — Prece Ululante *(The Howling Prayer)* — Banshee sacrílega cujo lamento é simultaneamente prece e profanação; quem a ouve não sabe se foi abençoado ou amaldiçoado
 

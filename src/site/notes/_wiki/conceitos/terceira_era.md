@@ -4,7 +4,7 @@
 
 # Terceira Era
 
-A Terceira Era é a designação historiográfica para o período em que o [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] consolidou seu domínio sobre [[_wiki/locais/reinkard\|Reinkard]]. A demarcação não tem consenso formal: alguns cronistas a iniciam com a queda de [[_wiki/locais/myrgarde\|Myrgarde]], enquanto outros sustentam que as Guerras Reinkárdicas jamais terminaram, e que o conflito perdura enquanto o Império continuar em expansão. Na liturgia do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]] e no uso corrente do Império, a era é referida simplesmente como “a nova era”, em oposição deliberada ao mundo antigo que ela substituiu.
+A Terceira Era é a designação historiográfica para o período em que o [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] consolidou seu domínio sobre [[_wiki/locais/reinkard\|Reinkard]]. A demarcação não tem consenso formal: alguns cronistas a iniciam com a queda de [[_wiki/locais/myrgarde\|Myrgarde]], enquanto outros sustentam que as Guerras Reinkárdicas jamais terminaram, e que o conflito perdura enquanto o Império continuar em expansão. Na liturgia do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]] e no uso corrente do Império, a era é referida simplesmente como “a Nova Era”, em oposição deliberada ao mundo antigo que ela substituiu.
 
 ### O Domínio Consolidado
 
@@ -20,6 +20,6 @@ Sob a aparência de domínio absoluto, instabilidades se acumulam nas fronteiras
 
 ### O Presente
 
-No tempo presente da era, Arothistar habita Mor’Severith no ápice de seu poder. [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] acaba de ser ungido Justiciar no [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]], onde recebeu a [[_wiki/artefatos/spina_lexis\|Spina Lexis]], o [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]] e o Oculus, e parte para [[_wiki/locais/niedellin\|Niedellin]] em sua primeira missão oficial. [[_wiki/personagens/orum-rahru\|Orum-Rahru]], aos noventa e nove anos, é o Decano dos Justiciares, com quarenta e quatro anos de serviço, enquanto Nidzina, jovem e ambiciosa, ascende rapidamente na ordem.
+No tempo presente da era, Arothistar habita Mor’Severith no ápice de seu poder. [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] acaba de ser ungido Justiciar no [[_wiki/locais/templo_de_azkaroth\|templo de Azkaroth]], onde recebeu a [[_wiki/artefatos/spina_lexis\|Spina Lexis]], o [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]] e o Oculus, e parte para [[_wiki/locais/niedellin\|Niedellin]] em sua primeira missão oficial. [[_wiki/personagens/orum-rahru\|Orum-Rahru]], aos noventa e nove anos, é o Decano dos Justiciares, com quarenta e quatro anos de serviço, enquanto Nidzina, jovem e ambiciosa, ascende rapidamente na ordem.
 
 [[_wiki/personagens/xarn\|Xarn]] observa das sombras de seus templos, e os [[_wiki/racas/drul\|druls]] aguardam. Nas profundezas de seu plano existencial, [[_wiki/panteao/vozrador\|Vozrador]] permanece selado, consciente e enfraquecido, mas não destruído.

@@ -4,11 +4,11 @@
 
 # Malagoth
 
-Malagoth, a Coroa de Espinhos, é uma divindade central do panteão diabólico que se manifesta como Vampiro Cravejado. Rege as escolas da [[_wiki/escolas/umbra\|Umbra]] e da [[_wiki/escolas/anatho\|Anatho]], e é o único deus com a visão de uma dominação total do plano material através das sombras.
+Malagoth, o Coroa de Espinhos, é uma divindade central do panteão diabólico que se manifesta como Vampiro Cravejado. Rege as escolas da [[_wiki/escolas/umbra\|Umbra]] e da [[_wiki/escolas/anatho\|Anatho]], e é o único deus com a visão de uma dominação total do plano material através das sombras.
 
 ### Natureza
 
-Manifesta-se como um corpo pálido e alongado, perfurado por espinhos de obsidiana que brotam de dentro da carne, coroado por uma grinalda de espinhos negros que sangra sem nunca secar. Os espinhos são extensões de maldição solidificada, e cada um carrega uma Anatho diferente. O sangue que escorre da grinalda desliza pela pele e se espalha em filamentos escuros que parecem buscar superfícies próximas, como raízes procurando solo. Perto de Malagoth, feridas antigas doem de novo, cicatrizes coçam, e o corpo lembra danos que a mente já havia descartado.
+Manifesta-se como um corpo pálido e alongado, perfurado por espinhos de obsidiana que brotam de dentro da carne, coroado por uma grinalda de espinhos negros que sangra sem nunca secar. Os espinhos são extensões de maldição solidificada, e cada um carrega uma Anatho diferente. O sangue que escorre da grinalda desliza pela pele e se espalha em filamentos escuros que parecem buscar superfícies próximas, como raízes procurando solo. Perto de Malagoth, feridas antigas doem de novo, cicatrizes coçam, e o corpo lembra danos que a mente já havia descartado. Tem fama de ser dos mais traiçoeiros do panteão diabólico.
 
 ### Domínio
 

@@ -6,6 +6,8 @@
 
 O Vinculum Daemonis é um dos sistemas de acesso à magia, um vínculo de força firmado com [[_wiki/cosmologia/demonios\|demônios]] em troca de poder bruto, e proscrito pela doutrina imperial. Onde outros sistemas dependem de contrato ou hierarquia, este dispensa burocracia: os demônios são caos puro, violência e destruição sem lei, e não respeitam contratos, apenas força. O acesso é imediato, e o preço é a instabilidade.
 
+No [[_wiki/organizacoes/imperio_sombrio\|Império]], o vínculo é proibido, salvo com a bênção pessoal do monarca, [[_wiki/personagens/arothistar\|Arothistar]]: a Palavra do Soberano exige essa bênção para os deuses do caos. A proibição vale para [[_wiki/racas/shadar\|shadars]] e [[_wiki/racas/drul\|druls]], e há [[_wiki/racas/orc\|orcs]] vinculados a serviço do Império.
+
 ### Nomenclatura
 
 Na linguagem comum, mortais raramente distinguem o Vinculum Daemonis do [[_wiki/magia/pactum_diaboli\|Pactum Diaboli]]. Chama-se “pacto” tanto o contrato firmado com um [[_wiki/cosmologia/diabos\|diabo]] quanto o vínculo de força firmado com um [[_wiki/cosmologia/demonios\|demônio]], num uso informal e impreciso. Em sentido estrito, o pacto é o instrumento legalista dos diabos, com cláusula, assinatura e alma penhorada por contrato; o vínculo demoníaco não tem contrato nem termo fixo, apenas a troca de sangue e a fome do demônio. O povo sente a diferença prática, a instabilidade caótica de um e a previsibilidade fria do outro, sem nomeá-la com rigor, e cabe a inquisidores e juristas mantê-la, porque dela dependem as sentenças.

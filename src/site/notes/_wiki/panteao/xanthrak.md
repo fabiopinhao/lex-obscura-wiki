@@ -14,7 +14,7 @@ Um sinal mais discreto também é atribuído a ele: uma dor antiga retorna com p
 
 ### Domínio
 
-Xanthrak não governa a morte: governa o intervalo em que a morte é negada. Suas maldições preservam, mantendo a vítima consciente enquanto o corpo apodrece, se reconstrói e apodrece de novo, numa iteração que só termina quando Xanthrak decide que a obra está completa. A maldição de Anatho mantém o nervo funcional quando o tecido ao redor já cedeu, e o Necro recompõe o que a dor destruiu, para que possa ser destruído de novo. A combinação produz vítimas que não morrem nem enlouquecem, e que jamais se habituam à dor. Para o Artesão da Dor, sofrimento é material bruto, e cada vítima é um projeto com prazo indeterminado.
+Xanthrak não governa a morte: governa o intervalo em que a morte é negada. Suas maldições preservam, mantendo a vítima consciente enquanto o corpo apodrece, se reconstrói e apodrece de novo, numa iteração que só termina quando Xanthrak decide que a obra está completa. A maldição de Anatho mantém o nervo funcional quando o tecido ao redor já cedeu, e o Necro recompõe o que a dor destruiu, para que possa ser destruído de novo. A combinação produz vítimas que não morrem nem enlouquecem, e que jamais se habituam à dor. Para o Artesão da Dor, sofrimento é material bruto, e cada vítima é um projeto com prazo indeterminado. O osso serve ao ofício nas duas pontas: é matéria-prima tanto da tortura quanto da reanimação.
 
 ### Método
 

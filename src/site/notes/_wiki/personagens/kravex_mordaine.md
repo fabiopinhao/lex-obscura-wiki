@@ -12,4 +12,6 @@ O Strategicon cataloga métodos de combate contra cada raça e criatura conhecid
 
 ### Legado
 
-O autógrafo de Kravex Mordaine repousa na torre de [[_wiki/locais/khar_morthar\|Khar Morthar]], cujo pátio sustenta sua estátua.
+O autógrafo de Kravex Mordaine repousa na torre de [[_wiki/locais/khar_morthar\|Khar Morthar]], cujo pátio sustenta sua estátua. Ela ocupa um nicho isolado na borda externa do pátio, sem vizinhas de pedra e menor que outras estátuas; o rosto, talhado em obsidiana, guarda a boca entreaberta de quem recebeu uma notícia que não esperava e morreu antes de perceber que a morte viria. Mordaine não combateu em campo nem subjugou inimigos pela lâmina, e seu manual serviu para vencer guerras que importaram até que os cristais de magi o envelhecessem.
+
+Por exigência de [[_wiki/personagens/orum-rahru\|Orum-Rahru]], cada [[_wiki/organizacoes/justiciares\|justiciar]] leu os fólios do Strategicon. O manual, que definiu como o [[_wiki/organizacoes/imperio_sombrio\|Império]] lutava na maior parte das Guerras Reinkárdicas, já não se ensina em Khar Morthar.

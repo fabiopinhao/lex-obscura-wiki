@@ -4,20 +4,24 @@
 
 # Draven-Thol
 
-Draven-Thol é um [[_wiki/organizacoes/justiciares\|Justiciar]] [[_wiki/racas/shadar\|shadar]] estacionado em [[_wiki/locais/thandruk_varn\|Thandruk Varn]], na fronteira sudoeste. Há poucas luas ninguém o vê, e aquela fronteira segue como o último lugar em que esteve. O nome dele circula sem o homem: cobrado no Conselho, defendido por aliados, presente em tudo menos na carne.
+Draven-Thol é um [[_wiki/organizacoes/justiciares\|Justiciar]] [[_wiki/racas/shadar\|shadar]] estacionado em [[_wiki/locais/thandruk_varn\|Thandruk Varn]], na fronteira sudoeste. Apresentou-se ao [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]] como imagem no poço de piche numa sessão em que relatou a crise das forjas; depois dela voltou ao silêncio, e dias depois já não havia notícias dele. A fortaleza é o último lugar em que esteve.
 
 ### Aparência
 
-É magro, de uma magreza que parece tê-lo afinado em torno do ofício. As mãos o traem antes de qualquer palavra: dedos nervosos, sempre em movimento, como se procurassem a tábua de registros mesmo quando ela não está ali. O corpo todo se organiza em volta desse gesto, o de quem anota antes de agir e desconfia do que não foi anotado.
+É magro e tem dedos nervosos, sempre em movimento, a marca física de quem trabalha pela tábua de registros.
 
 ### Origem e papel
 
-A função o prende à fronteira. De Thandruk Varn ele reporta ao Conselho o que ferve entre os clãs anões confinados: as disputas que não cessam, a sabotagem que corre de forjaria em forjaria, a produção que despenca e ninguém explica direito. É um burocrata até o osso, e nisso reside seu peso. Sob sua custódia esteve, em algum momento, a adaga [[_wiki/artefatos/fendris\|Fendris]], que mais tarde passaria a outras mãos. Quando seus relatórios chegavam, traziam a marca de quem cataloga o caos para não se perder nele.
+Foi enviado à montanha da fronteira de [[_wiki/locais/varnak\|Varnak]] por causa das forjas frias. De Thandruk Varn reporta ao Conselho, pelo poço de piche, o que ferve entre os clãs anões confinados no mesmo nível da montanha: as disputas que não cessam, a sabotagem entre forjarias e a queda de produção pelo terceiro ciclo lunar. É um burocrata até o osso, e nisso reside seu peso: sem ele, o lorde provincial está perdido.
 
 ### Método e voz
 
-O método é o registro, e o registro é tudo. Onde outros confiam na memória ou no instinto, Draven-Thol confia na tábua: cada disputa e cada nome lançados em ordem antes que o sentido escape. A meticulosidade burocrática não é fraqueza, é a forma como ele segura o terreno. As notas que deixou ainda orientam interrogatórios na sua ausência, e guiam o cerco a [[_wiki/personagens/jalu_nvara\|Jalú’Nvara]] nas masmorras como se ele estivesse ali, conduzindo da margem do papel.
+O método é o registro, e o registro é tudo. Draven-Thol confia na tábua: cada disputa e cada nome lançados em ordem antes que o sentido escape. A meticulosidade burocrática é a forma como ele segura o terreno. As notas que deixou orientaram interrogatórios na sua ausência, entre eles o de [[_wiki/personagens/jalu_nvara\|Jalú’Nvara]] nas masmorras, a quem ele mesmo já interrogara com a tábua de registros.
 
 ### Relações
 
-[[_wiki/personagens/orum-rahru\|Orum-Rahru]] é quem mantém o nome aceso. No Conselho, defende Draven-Thol contra os martelos militares de [[_wiki/personagens/vekraal\|Vekraal]], que prefeririam riscá-lo da lista e seguir adiante. A defesa diz menos do desaparecido e mais de Orum, que confia em quem os outros já deram por perdido. O caso segue aberto: o Conselho exige respostas, e a cobrança recai sobre [[_wiki/personagens/yzmareth\|Yzmareth]]; [[_wiki/personagens/thrax\|Thrax]] permanece cativo em [[_wiki/locais/mor_severith\|Mor’Severith]]. E [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]] termina incumbida de descobrir o que houve com ele, encarregada de transformar a ausência num caso, como se o desaparecido fosse a última anotação que Draven-Thol não chegou a fechar.
+[[_wiki/personagens/orum-rahru\|Orum-Rahru]] é quem mantém o nome aceso. No Conselho, defende Draven-Thol contra os martelos militares de [[_wiki/personagens/vekraal\|Vekraal]]: o Justiciar, diz, sabe o que faz. A defesa mostra que Orum confia em quem os outros ignoram. É ele também quem dá pela ausência, quando as forjas param e o homem que saberia explicá-las não responde.
+
+O primeiro sinal público de que algo aconteceu vem do nome dele, dito numa conversa. [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]], que ainda o supõe em serviço, o indica a [[_wiki/personagens/gorvam_threnk\|Gorvam Threnk]] como o homem mais bem posicionado para a frente diplomática das forjas, alguém com mão para lidar com orgulhos feridos e martelos suspensos. O Mestre das Forjas trava no meio do nome, tosse duas vezes como se engasgasse com ele, desvia os olhos e apressa o fim da conversa. Nidzina quase pergunta o que há, e o nome fica preso entre os dentes.
+
+O caso segue aberto: a cobrança recai sobre [[_wiki/personagens/yzmareth\|Yzmareth]], e [[_wiki/personagens/thrax\|Thrax]] permanece cativo em [[_wiki/locais/mor_severith\|Mor’Severith]]. Nidzina termina incumbida de descobrir o que houve com ele.

@@ -13,3 +13,7 @@ O templo foi selado antes do [[_wiki/conceitos/protocolo_iconografico_da_coroa\|
 ### Vozrador e a ruína
 
 Em vida de culto, Vozrador tinha uma característica única entre os [[_wiki/cosmologia/diabos\|diabos]]: só aceitava um [[_wiki/organizacoes/templarios\|templário]] por vez, enquanto os demais templos mantinham vários, alguns sete ou oito. Quando [[_wiki/personagens/orum-rahru\|Orum-Rahru]] investigou o lugar, encontrou-o infestado de mortos-vivos, fruto da necromancia que [[_wiki/personagens/qaelun\|Qaelun]] operava entre as ruínas.
+
+### O interior
+
+O salão de entrada guarda caixões, uns de pé e outros deitados, feitos ossuário. O piso é de basalto, em lajes ciclópicas encaixadas sem argamassa. Nas sombras altas entre os arcos, as gárgulas têm a forma do próprio Vozrador; Orum se lembra delas saltando sobre intrusos e não sabe se ainda estão ativas. A nave foi projetada para amplificar ecos rítmicos, usados nos ritos para marcar litanias e silêncios.

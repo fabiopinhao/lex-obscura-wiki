@@ -4,11 +4,11 @@
 
 # Tibaut
 
-Tibaut é um [[_wiki/racas/worg\|worg]] informante de [[_wiki/locais/morvgrad\|Morvgrad]], e poucos conhecem a cidade como ele. Os becos, as sombras, os intervalos entre uma ronda e a próxima: tudo está mapeado por trás daquele rosto que diz o necessário e omite o perigoso. Vende o que sabe a quem paga bem, e sabe quase tudo.
+Tibaut é um [[_wiki/racas/worg\|worg]] informante de [[_wiki/locais/morvgrad\|Morvgrad]], e poucos conhecem a cidade como ele. Os becos, as sombras, os intervalos entre uma ronda e a próxima: tudo está mapeado por trás daquele rosto que diz o necessário e omite o perigoso. Vende o que sabe a quem paga bem.
 
 ### Aparência
 
-Alto e esguio, move-se com a economia de quem aprendeu a não desperdiçar nem um gesto, e há nele a carga de um predador, não a brandura de um bicho de estimação. Veste um sobretudo de couro negro de capuz fundo, forrado de bolsos secretos onde guarda lâminas e venenos ao alcance dos dedos. O capuz não é só estilo: mergulha a face na sombra e oculta o focinho, de modo que, à distância, ninguém o identifica como worg, disfarce conveniente numa cidade que interdita worgs em distritos inteiros. Quando o trabalho exige aço, empunha katana, tanto e ninjato.
+Alto e esguio, move-se com a economia de quem aprendeu a não desperdiçar nem um gesto, e há nele a carga de um predador. Veste um sobretudo de couro negro de capuz fundo, forrado de bolsos secretos onde guarda lâminas e venenos ao alcance dos dedos. O capuz mergulha a face na sombra e oculta o focinho, de modo que, à distância, ninguém o identifica como worg, disfarce conveniente numa cidade que interdita worgs em distritos inteiros. Quando o trabalho exige aço, empunha as lâminas de [[_wiki/locais/qadesh\|Qadesh]]: a crescente (curva e curta), a esguia (reta) e a Paciente (longa e encantada).
 
 ### Ofício
 
@@ -20,6 +20,6 @@ Tibaut é econômico, no aço e na palavra. As frases são curtas, funcionais, t
 
 ### Relações
 
-Tibaut é informante pago de [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]], a quem chama de “a melhor pagadora da minha vida”. A relação começa como utilidade mútua e amadurece em algo que beira a amizade que nenhum dos dois admite por inteiro; mesmo quando o contrato esfria, ele continua a vigiá-la à distância, atento ao que ela não vê.
+Tibaut é informante pago de [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]], a quem chama de “a melhor pagadora da minha vida”. A relação é de utilidade mútua, mas ele luta ao lado dela há invernos o bastante para ler no passo dela o que outros não percebem. Quando a segue à distância por [[_wiki/locais/mor_draconis\|Mor’Draconis]], é por conveniência e por outro motivo, que não nomeia.
 
-Apresenta [[_wiki/personagens/fandegarron\|Fandegarrón]] como “primo legítimo do lado da mãe da matilha”, e a fórmula vale mais como laço de honra do que como genealogia. Worg e [[_wiki/criaturas/gnoll\|gnoll]] são raças distintas; o parentesco é convenção de matilha, não sangue. Ainda assim, Tibaut o trata como família: contém o ímpeto do gnoll quando o ruído pode custar caro e lembra, sempre, que em Morvgrad toda parede tem olhos.
+Apresenta [[_wiki/personagens/fandegarron\|Fandegarrón]] como “primo legítimo do lado da mãe da matilha”, e a fórmula é laço de honra: worg e [[_wiki/criaturas/gnoll\|gnoll]] são raças distintas, e o parentesco é convenção de matilha. Ainda assim, Tibaut o trata como família e contém o ímpeto do gnoll quando o ruído pode custar caro: na aproximação à antiga toca do gnoll, lembrou-lhe que montanha tem olhos.

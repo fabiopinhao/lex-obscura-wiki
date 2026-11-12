@@ -8,7 +8,7 @@ Skinitz é um jovem [[_wiki/racas/murano\|murano]], irmão de [[_wiki/personagen
 
 ### O episódio de Ezrath
 
-[[_wiki/personagens/korven\|Korven]] capturou Skinitz, pisou em sua cauda e o espancou junto ao comerciante lesado. Skinitz gritou pelo irmão, que hesitou por um instante e fugiu. [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]] presenciou a cena e ordenou a Korven que o despachasse direto para o [[_wiki/locais/fosso_da_purga\|Fosso da Purga]], onde Skinitz morreu.
+[[_wiki/personagens/korven\|Korven]] prendeu-lhe a cauda sob a bota, e Skinitz guinchou sem se soltar. Veio a bofetada do tenente, e depois a cintada do comerciante lesado. Skinitz gritou pelo irmão, e o grito misturou-se ao sangue; Skanivik hesitou por um instante e fugiu. [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]] presenciou a cena, mandou parar o espancamento para que não sujassem as ruas de Ezrath com sangue de rato, e ordenou a Korven que o despachasse direto para o [[_wiki/locais/fosso_da_purga\|Fosso da Purga]], onde Skinitz morreu.
 
 ### Consequência
 

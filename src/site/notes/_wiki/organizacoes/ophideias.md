@@ -16,7 +16,7 @@ As ophideias são escolhidas entre meninas drul das Casas Matriarcais, em geral 
 
 ### Especialização Mágica
 
-A maioria das ophideias opera com magia preta via [[_wiki/magia/pactum_diaboli\|Pactum Diaboli]], em escolas compatíveis com a espionagem. O Spectro é a escola primária: permite atravessar a matéria, projetar-se de forma espectral para sondar corpos e espaços e alcançar invisibilidade parcial. O Umbra manipula sombras e ampara a invocação de [[_wiki/panteao/ulravaeth\|Ulravaeth]], o Custódio do Entre, que projeta a própria sombra em “contravento espectral”. Nas invocações ligadas aos [[_wiki/cosmologia/diabos\|diabos]] do panteão matriarcal, as fluentes usam o [[_wiki/linguas/gholvyss\|Gholvyss]], língua diabólica matriarcal extremamente secreta, distinta do [[_wiki/linguas/tenebraico\|Tenebraico]] comum.
+A maioria das ophideias opera com magia preta via [[_wiki/magia/pactum_diaboli\|Pactum Diaboli]], em escolas compatíveis com a espionagem. O Spectro é a escola primária: permite atravessar a matéria, projetar-se de forma espectral para sondar corpos e espaços e alcançar invisibilidade parcial. O Umbra manipula sombras e ampara a invocação de [[_wiki/panteao/ulravaeth\|Ulravaeth]], o Custódio do Entre, que projeta a própria sombra em “contravento espectral”. Nas invocações ligadas aos [[_wiki/cosmologia/diabos\|diabos]] do panteão matriarcal, as fluentes usam o [[_wiki/linguas/gholvyss\|gholvyss]], língua diabólica matriarcal extremamente secreta, distinta do [[_wiki/linguas/tenebraico\|tenebraico]] comum.
 
 ### Ritos
 
@@ -24,7 +24,7 @@ O Sopro de Lúrio é um rito debilitante que administra lúrio, substância ritu
 
 ### Estrutura e Lealdade
 
-As ophideias não têm hierarquia militar formal; sua estrutura é religiosa. Respondem às matriarcas das Casas, como Durzken e Morghast, e aos templos que as empregam, entre eles [[_wiki/panteao/azkaroth\|Azkaroth]], em Morvgrad. Na prática, a cadeia de comando é fluida. Em missões imperiais, recebem um selo do Conselho e operam sob autoridade de conselheiros ou feiticeiros cerimonialistas, em subordinação nominal ao Culto. Em missões matriarcais, servem aos interesses das Casas de Ghilanna, da diplomacia secreta à eliminação interna. Uma mesma ophideia pode operar sob dupla cobertura, com selo oficial que autoriza acesso imperial e uma agenda real que pode ser outra. A própria disciplina, “olhos antes, lâminas depois”, não diz para quem os olhos observam.
+As ophideias não têm hierarquia militar formal; sua estrutura é religiosa. Respondem às matriarcas das Casas, como Durzken e Morghast, e aos templos que as empregam, entre eles [[_wiki/panteao/azkaroth\|Azkaroth]], em Morvgrad. Na prática, a cadeia de comando é fluida. Em missões imperiais, recebem um selo do Conselho e operam sob autoridade de conselheiros ou feiticeiros cerimonialistas, em subordinação nominal ao Culto. O selo púrpura, quando credencia uma ophideia, vem sempre por delegação, credencial emprestada, com recibo e prazo; ophideia nenhuma o recebe endereçado direto. Em missões matriarcais, servem aos interesses das Casas de Ghilanna, da diplomacia secreta à eliminação interna. Uma mesma ophideia pode operar sob dupla cobertura, com selo oficial que autoriza acesso imperial e uma agenda real que pode ser outra. A própria disciplina, “olhos antes, lâminas depois”, não diz para quem os olhos observam.
 
 ### Relação com os Justiciares
 

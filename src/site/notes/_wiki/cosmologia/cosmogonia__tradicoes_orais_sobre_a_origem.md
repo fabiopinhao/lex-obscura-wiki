@@ -8,7 +8,7 @@ Nenhuma raça ou cultura do mundo de Lex Obscura possui uma cosmogonia confirmad
 
 ### A Versão Sombria
 
-Os sacerdotes do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]], entre os [[_wiki/racas/shadar\|Shadar]], ensinam que o universo nasceu do [[_wiki/cosmologia/vazio\|Vazio]], um negrume consciente que precedeu toda existência e do qual a matéria surgiu como defeito. Os deuses seriam fragmentos do Vazio que ganharam vontade própria, e os [[_wiki/cosmologia/diabos\|diabos]] os mais próximos dessa natureza original. A versão funciona como justificativa da supremacia diabólica e da legitimidade do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] como restauração da ordem natural.
+Os sacerdotes do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]], entre os [[_wiki/racas/shadar\|shadars]], ensinam que o universo nasceu do [[_wiki/cosmologia/vazio\|Vazio]], um negrume consciente que precedeu toda existência e do qual a matéria surgiu como defeito. Os deuses seriam fragmentos do Vazio que ganharam vontade própria, e os [[_wiki/cosmologia/diabos\|diabos]] os mais próximos dessa natureza original. A versão funciona como justificativa da supremacia diabólica e da legitimidade do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] como restauração da ordem natural.
 
 ### A Versão Vermelha
 
@@ -28,7 +28,7 @@ Rara e reservada a círculos acadêmicos, a tradição sideral propõe que o uni
 
 ### Raças Sem Cosmogonia Própria
 
-Nem toda raça possui uma origem própria. Os [[_wiki/racas/drul\|Druls]] compartilham a versão sombria com os Shadar, com inflexões subterrâneas: para eles o Vazio é literalmente o escuro das cavernas mais profundas, e [[_wiki/locais/vor-ghol\|Vor-Ghol]] seria o lugar mais próximo da origem. Os anões [[_wiki/racas/karashim\|karashim]], a verdadeira raça incolor, tampouco têm tradição unificada, e adotam a versão da região ou religião em que vivem.
+Nem toda raça possui uma origem própria. Os [[_wiki/racas/drul\|druls]] compartilham a versão sombria com os shadars, com inflexões subterrâneas: para eles o Vazio é literalmente o escuro das cavernas mais profundas, e [[_wiki/locais/vor-ghol\|Vor-Ghol]] seria o lugar mais próximo da origem. Os anões [[_wiki/racas/karashim\|karashim]], a verdadeira raça incolor, tampouco têm tradição unificada, e adotam a versão da região ou religião em que vivem.
 
 ### Nota Sobre a Verdade
 

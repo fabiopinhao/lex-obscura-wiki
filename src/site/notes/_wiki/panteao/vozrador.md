@@ -20,12 +20,16 @@ Electro lhe conferia a sentença instantânea, o raio que não negocia nem avisa
 
 ### O Templário Único
 
-Vozrador aceitava um único templário por vez, e a restrição era método: cada templário recebia a totalidade do vínculo, sem diluição. Em contrapartida, a perda de um templário o deixava sem representante no plano material, num ciclo lento e seletivo. A maldição do pacto era permanente e sobrevivia ao próprio deus: nenhum pactuado de Vozrador consegue pisar em solo consagrado alabastrino sem que a pele escureça e forme bolhas. A cláusula é eterna.
+Vozrador mantinha muitos pactuados, mas aceitava um único templário por vez. O templário ocupa posição à parte entre eles: recebe a totalidade do vínculo, sem diluição, e serve como representante do diabo no plano material, o que explica a restrição a um de cada vez. Em contrapartida, a perda de um templário o deixava sem representante, num ciclo de escolha lento e seletivo. A maldição do pacto valia para todos os pactuados, era permanente e sobrevivia ao próprio deus: nenhum deles consegue pisar em solo consagrado alabastrino sem que a pele escureça e forme bolhas. A cláusula é eterna.
+
+### O pacto e o silêncio
+
+Pactuar com Vozrador nunca envolveu conversar com ele. O vínculo se estabelece sem voz: o diabo escolhe, o pacto sela, e o pactuado serve sem receber palavra direta. [[_wiki/personagens/orum-rahru\|Orum-Rahru]], seu último templário, nunca teve canal algum, e o que conheceu do deus foi o poder, a exigência e a maldição. Comunicação direta com os deuses negros é privilégio de pouquíssimos, entre eles os líderes de templo, e não decorre de pacto algum. Vozrador tampouco precisa de objeto para vincular ou cobrar: a [[_wiki/artefatos/estatueta_de_vozrador\|estatueta de obsidiana]] que leva seu nome é relíquia devocional, e nenhum templário recebeu uma.
 
 ### Acordo com os Titãs
 
-Vozrador firmou com [[_wiki/panteao/morlgrund\|Morlgrund]] e [[_wiki/panteao/titania\|Titânia]] um acordo impensável para o restante do panteão: a proteção de [[_wiki/locais/thal_serin\|Thal’Serin]] em troca de concessões que consolidaram seu poder entre os diabos. Morlgrund queria a floresta intacta; Titânia, seus devotos protegidos; para Vozrador, o prêmio era um domínio que nenhum outro diabo ousasse contestar. A fonte real de seu poder não residia nos domínios celestiais, mas na própria floresta.
+Vozrador firmou com [[_wiki/panteao/morlgrund\|Morlgrund]] e [[_wiki/panteao/titania\|Titânia]] um acordo impensável para o restante do panteão: a proteção de [[_wiki/locais/thal_serin\|Thal’Serin]] em troca de concessões que consolidaram seu poder entre os diabos. Morlgrund queria a floresta intacta; Titânia, seus devotos protegidos; para Vozrador, o prêmio era um domínio que nenhum outro diabo ousasse contestar. A fonte de seu poder estava na própria floresta.
 
 ### Aprisionamento
 
-Vozrador foi atacado em seu próprio plano existencial e selado há aproximadamente cinquenta e cinco anos. Permanece consciente e intacto, embora enfraquecido. Seu templo em [[_wiki/locais/morvgrad\|Morvgrad]] está abandonado, e a estatueta de obsidiana pela qual se comunicava com seu templário hoje está vazia. O [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]] original foi escrito em seu sangue.
+Vozrador foi atacado em seu próprio plano existencial e selado há aproximadamente cinquenta e cinco anos. Permanece consciente e intacto, embora enfraquecido. Seu templo em [[_wiki/locais/morvgrad\|Morvgrad]] está abandonado. O [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]] original foi escrito em seu sangue.

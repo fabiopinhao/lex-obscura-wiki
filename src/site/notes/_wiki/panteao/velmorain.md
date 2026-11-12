@@ -14,6 +14,8 @@ O corpo de Velmorain surge envolto em faixas cósmicas que ondulam como tecido s
 
 O Cosmo sustenta a estrutura, dobrando o espaço ao redor de um arranjo até que ele ocupe um lugar verificável; o Spectro preenche essa estrutura com substância aparente, cláusulas, penalidades e garantias que respondem ao toque como se fossem sólidas. Seus arranjos parecem leis, mas são véus: construções espectrais sustentadas por vontade cósmica. Quem negocia com Velmorain acredita firmar pactos quando, na prática, habita uma arquitetura de aparências que o deus pode recolher a qualquer momento. A categoria Diabo-Sideral reflete essa dualidade, pois Velmorain partilha a ambição dos [[_wiki/cosmologia/diabos\|diabos]] sem partilhar o método: onde [[_wiki/panteao/malagoth\|Malagoth]] domina pela sombra e [[_wiki/panteao/vozrador\|Vozrador]] pelo controle da alma, Velmorain domina pelo cenário, alterando o palco até que os atores tomem as regras do espetáculo por leis do mundo.
 
+Seus devotos também o intitulam Senhor do Periélio e dos Vácuos Silenciosos: rege vetores, órbitas e marés de [[_wiki/cosmologia/magi\|magi]] entre corpos celestes. O culto dele, austero e matemático, sobrevive entre astrônomos e cartógrafos do éter.
+
 ### Rivalidade com Vozrador
 
 Velmorain e Vozrador disputavam domínios como [[_wiki/locais/thal_serin\|Thal’Serin]] antes do aprisionamento de Vozrador. A aliança com Malagoth contra Vozrador foi motivada por vingança: Vozrador mantinha um acordo com os [[_wiki/cosmologia/titas\|Titãs]] que Velmorain nunca conseguiu replicar. Velmorain sustenta a maldição de Malagoth sobre Vozrador, mantendo-a forte e ativa por meio de reforço cósmico-espectral.

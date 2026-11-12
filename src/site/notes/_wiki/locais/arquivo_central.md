@@ -4,11 +4,11 @@
 
 # Arquivo Central
 
-O Arquivo Central é o repositório judicial anexo ao [[_wiki/organizacoes/tribunal_de_morvgrad\|Tribunal Supremo]] em [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], o distrito sagrado de [[_wiki/locais/morvgrad\|Morvgrad]]. Guarda cada sentença proferida desde a fundação dos [[_wiki/organizacoes/justiciares\|Justiciares]] e funciona como a memória institucional do braço judicial do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]].
+O Arquivo Central é o repositório judicial anexo ao [[_wiki/organizacoes/tribunal_de_morvgrad\|Supremo Tribunal]] em [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], o distrito sagrado de [[_wiki/locais/morvgrad\|Morvgrad]]. Guarda cada sentença proferida desde a fundação dos [[_wiki/organizacoes/justiciares\|Justiciares]] e funciona como a memória institucional do braço judicial do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]].
 
 ### Função
 
-Escribas mantêm os registros em serviço contínuo. Os que cometem erros nas transcrições são julgados pelos mesmos códigos que utilizaram ao falhar em registrar corretamente: a lei não distingue entre quem a aplica e quem a escreve.
+Escribas mantêm os registros em serviço contínuo. Os que cometem erros nas transcrições são julgados pelos mesmos códigos que utilizaram: a lei não distingue entre quem a aplica e quem a escreve.
 
 ### Distinção
 

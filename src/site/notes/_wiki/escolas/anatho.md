@@ -12,7 +12,11 @@ A escola escala do incômodo à inversão existencial. Azar inclina a probabilid
 
 ### Selamentos Malditos
 
-Anatho também produz selamentos malditos: padrões de contenção e proteção que aprisionam em vez de degradar. As torres de [[_wiki/locais/morvgrad\|Morvgrad]] especializadas na escola ensinam contenções consideradas invioláveis, categoria distinta do [[_wiki/escolas/abjuro\|Abjuro]]. Onde o Abjuro dissipa e nega a magia, Anatho a amarra à carne ou à pedra. Selamentos ancorados no nome de entidades demoníacas do fogo, como [[_wiki/panteao/kaelgrym\|Kaelgrym]], emanam temperatura constante e queimam o intruso despreparado.
+Anatho também produz selamentos malditos: padrões de contenção e proteção que aprisionam em vez de degradar. As torres de [[_wiki/locais/morvgrad\|Morvgrad]] especializadas na escola ensinam contenções consideradas invioláveis, categoria distinta do [[_wiki/escolas/abjuro\|Abjuro]]. Onde o Abjuro dissipa e nega a magia, Anatho a amarra à carne ou à pedra. Selamentos ancorados no nome de uma entidade demoníaca emanam temperatura constante e queimam o intruso despreparado. Os ancorados em entidades do fogo, como [[_wiki/panteao/kaelgrym\|Kaelgrym]], são os mais quentes, e os de [[_wiki/panteao/warguleth\|Wargûleth]] também queimam.
+
+### Rastro
+
+Invocação recente de Anatho deixa vestígio legível para quem sabe procurá-lo: não uma temperatura no ar, mas o frio que o resíduo arcano imprime nos nervos de quem examina o lugar. É o que permite reconstruir autoria depois do ato, distinguindo qual escola operou e por qual mão, mesmo quando quase todo o rastro já se dispersou. Não se confunde com o calor constante dos selamentos ancorados em nome de entidade demoníaca: aquele é contenção ativa e permanece; este é resíduo, e se apaga.
 
 ### Custos
 

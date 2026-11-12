@@ -4,7 +4,7 @@
 
 # Pip
 
-Pip é um [[_wiki/racas/hallirin\|Hallirin]], gnomo de superfície e ex-comerciante de [[_wiki/locais/myrgarde\|Myrgarde]], onde mantinha a loja “Pip’s Conveniências” antes da queda da cidade. Capturado depois da queda, vive escravizado nas profundezas, sob controle forçado do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]], entre [[_wiki/locais/vor-ghol\|Vor-Ghol]] e [[_wiki/locais/thandruk_varn\|Thandruk Varn]].
+Pip é um [[_wiki/racas/hallirin\|hallirin]], gnomo de superfície e ex-comerciante de [[_wiki/locais/myrgarde\|Myrgarde]], onde mantinha a loja “Miudezas do Pip” antes da queda da cidade. Capturado depois da queda, vive escravizado nas profundezas, sob controle forçado do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]], entre [[_wiki/locais/vor-ghol\|Vor-Ghol]] e [[_wiki/locais/thandruk_varn\|Thandruk Varn]].
 
 ### Aparência
 
@@ -12,11 +12,11 @@ De baixa estatura, mesmo para um gnomo, é miúdo e veloz. Na juventude passava 
 
 ### Origem
 
-Na infância em Myrgarde foi figura constante nos jogos de [[_wiki/conceitos/aroada\|Aroada]] das praças da cidade, onde a agilidade compensava o tamanho. Da loja “Pip’s Conveniências” vendia velas, cordas, ervas secas e amuletos de proteção, necessidades para quem precisa, até a queda da cidade dispersar tudo o que conhecia.
+Na infância em Myrgarde foi figura constante nos jogos de [[_wiki/conceitos/aroada\|Aroada]] das praças da cidade, onde a agilidade compensava o tamanho. Da loja “Miudezas do Pip” vendia velas, cordas, ervas secas e amuletos de proteção, até a queda da cidade dispersar tudo o que conhecia.
 
 ### Papel
 
-Nas forjas das profundezas, o antigo dono de uma loja de conveniências passa a fabricar correntes: o comerciante que vendia utilidades agora forja os instrumentos de confinamento de outros. Conserva o temperamento efusivo e caloroso de antes do cativeiro, um afeto bruto que destoa da frieza do mundo [[_wiki/racas/shadar\|shadar]] ao redor.
+Nas forjas das profundezas, o antigo lojista de miudezas passa a fabricar correntes, os instrumentos de confinamento de outros. Antes do cativeiro, era de temperamento efusivo e caloroso, dado a um afeto bruto e sem cerimônia.
 
 ### Relações
 

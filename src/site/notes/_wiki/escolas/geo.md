@@ -8,7 +8,7 @@ Geo é a escola pura de verde que manipula terra, pedra e solo como matéria rea
 
 ### Princípio
 
-A escola trata a terra como meio e como matéria, controlando onde a terra está mais do que aquilo que ela é. Distingue-se das vizinhas por isso: do [[_wiki/escolas/cosmo\|Cosmo]], que move por gravidade e espaço; do [[_wiki/escolas/cryo\|Cryo]], que opera o gelo; do [[_wiki/escolas/rupto\|Rupto]], que destrói por análise estrutural; do [[_wiki/escolas/umbra\|Umbra]], que transita por sombra. A pedra que Geo ergue permanece depois que o conjurador para, ao contrário da barreira de força do [[_wiki/escolas/aegis\|Aegis]], que se desfaz quando a [[_wiki/cosmologia/magi\|magi]] cessa.
+A escola trata a terra como meio e como matéria, controlando onde a terra está mais do que aquilo que ela é. Distingue-se das vizinhas por isso: do [[_wiki/escolas/cosmo\|Cosmo]], que move por gravidade e espaço; do [[_wiki/escolas/cryo\|Cryo]], que opera o gelo; do [[_wiki/escolas/rupto\|Rupto]], que destrói por análise estrutural; do [[_wiki/escolas/umbra\|Umbra]], que transita por sombra. A pedra que Geo ergue permanece depois que o conjurador para, ao contrário da barreira de força do [[_wiki/escolas/aegis\|Aegis]], que se desfaz quando o [[_wiki/cosmologia/magi\|magi]] cessa.
 
 ### Práticas
 

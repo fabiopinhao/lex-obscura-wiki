@@ -16,7 +16,7 @@ O vínculo com os Titãs opera pela [[_wiki/magia/symbiosis_naturae\|Symbiosis N
 
 ### Relação com os mortais
 
-[[_wiki/racas/sylvano\|Sylvanos]], [[_wiki/racas/gerut\|gerut]] e rebeldes silvestres são os devotos naturais dos Titãs. [[_wiki/personagens/peredur\|Peredur]], druida ancião de [[_wiki/locais/thal_serin\|Thal’Serin]], é repositório de sabedoria titânica, e [[_wiki/personagens/gaelwyn\|Gaelwyn]] carrega a [[_wiki/cosmologia/marca_das_luas_gemeas\|marca das luas gêmeas]] de [[_wiki/panteao/titania\|Titânia]]. A filosofia verde, tal como Peredur a formulou, explica por que os Titãs sobreviveram onde os [[_wiki/cosmologia/anjos\|anjos]] pereceram: escolheram compromissos pragmáticos em vez de pureza inflexível. Os deuses verdes preferiram sobreviver a morrer corretos.
+[[_wiki/racas/sylvano\|Sylvanos]], [[_wiki/racas/gerut\|gerut]] e rebeldes silvestres são os devotos naturais dos Titãs. [[_wiki/personagens/peredur\|Peredur]], druida ancião de [[_wiki/locais/thal_serin\|Thal’Serin]], é repositório de sabedoria titânica, e [[_wiki/personagens/gaelwyn\|Gaelwyn]] carrega a [[_wiki/cosmologia/marca_das_luas_gemeas\|marca das luas gêmeas]] de [[_wiki/panteao/titania\|Titânia]]. A filosofia verde, tal como Peredur a formulou, explica por que os Titãs sobreviveram onde os [[_wiki/cosmologia/anjos\|anjos]] pereceram: escolheram compromissos pragmáticos com o mal em vez de pureza inflexível. Os deuses verdes preferiram sobreviver a morrer corretos.
 
 ### Titãs nomeados
 

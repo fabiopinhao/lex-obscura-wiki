@@ -20,4 +20,4 @@ A proscrição de Hazburim tem motivação adicional além do Vinculum Daemonis 
 
 ### Manifestação
 
-Hazburim alcança o mundo por receptáculos consagrados que funcionam como janela entre planos, sustentados por oferendas periódicas de sangue. Um desses altares, herança da [[_wiki/conceitos/segunda_era\|Segunda Era]], traz no centro um crânio entalhado com moscas, cercado por ampolas de sangue dispostas em pentagrama invertido, e usa um [[_wiki/artefatos/oculus_morvgradi\|Oculus]] de ônix como canal de comunicação direta com a entidade.
+Hazburim alcança o mundo por receptáculos consagrados, sustentados por oferendas periódicas de sangue. Um dos altares de que se serve é herança da [[_wiki/conceitos/segunda_era\|Segunda Era]]: uma janela entre planos que não pertence a divindade alguma. No centro dele repousa um crânio entalhado com moscas, cercado por ampolas de sangue dispostas em pentagrama invertido.

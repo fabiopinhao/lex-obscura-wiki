@@ -8,11 +8,11 @@ Lendalas foi uma das maiores florestas sagradas dos [[_wiki/racas/sylvano\|sylva
 
 ### A floresta sagrada
 
-Diferente de [[_wiki/locais/thal_serin\|Thal’Serin]], Lendalas não possuía proteção titânica direta, o que a tornava vulnerável à estratégia imperial de destruição por fogo alquímico. Druidas e rangers sylvanos a defendiam com magia verde: raízes animadas, esporos venenosos e a própria terra erguida como arma.
+Diferente de [[_wiki/locais/thal_serin\|Thal’Serin]], Lendalas não possuía proteção titânica direta, o que a tornava vulnerável à estratégia imperial de destruição por fogo alquímico. Druidas e montarazes sylvanos a defendiam com magia verde: raízes animadas, esporos venenosos e a própria terra erguida como arma.
 
 ### A batalha
 
-A Segunda Legião Órquica enfrentou os druidas sylvanos em seu último reduto. A floresta respondeu com ferocidade: [[_wiki/racas/orc\|orcs]] foram encontrados pendurados por raízes a quinze braças de altura, os pulmões cheios de seiva. Entre os mortos estava [[_wiki/personagens/ghur\|Ghur]], irmão de [[_wiki/personagens/grothar\|Grothar]]. Diante das perdas, o general [[_wiki/personagens/vekraal\|Vekraal]] ordenou o uso de fogo alquímico, e a floresta milenar ardeu por semanas.
+A Segunda Legião Órquica enfrentou os druidas sylvanos em seu último reduto. A floresta respondeu com ferocidade: [[_wiki/personagens/ghur\|Ghur]], irmão de [[_wiki/personagens/grothar\|Grothar]], estava entre os [[_wiki/racas/orc\|orcs]] encontrados pendurados por raízes a quinze braças de altura, os pulmões cheios de seiva. Diante das perdas, o general [[_wiki/personagens/vekraal\|Vekraal]] ordenou o uso de fogo alquímico, e a floresta milenar ardeu por semanas.
 
 ### O Ermo de Lendalas
 
@@ -20,4 +20,4 @@ O território queimado tornou-se o Ermo de Lendalas, descampado cinzento onde a 
 
 ### Legado
 
-Para os orcs, Lendalas é memória de sacrifício e brutalidade recíproca: a floresta matou os seus antes de morrer. Para os sylvanos, é martírio e prova da barbárie imperial. Ghur recitava os [[_wiki/personagens/grasnak\|Cantos de Grasnak]] nas fogueiras antes de a floresta levá-lo, e Grothar não voltou a sorrir sem perspectiva de violência desde a morte do irmão. Muito depois, a drul [[_wiki/personagens/syndrith_morghast\|Syndrith]] valeu-se dessa mesma ferida para recrutar Grothar como informante, tratando-o como igual onde ordens teriam falhado.
+Para os orcs, Lendalas é memória de sacrifício e brutalidade recíproca: a floresta matou os seus antes de morrer. Para os sylvanos, é martírio e prova da barbárie imperial. Ghur recitava os [[_wiki/personagens/grasnak\|Cantos de Grasnak]] nas fogueiras antes de a floresta levá-lo. Grothar, que desde antes de Lendalas não sorria sem violência por perto, perdeu ali o irmão. Muito depois, a drul [[_wiki/personagens/syndrith_morghast\|Syndrith]] valeu-se dessa perda para recrutar Grothar como informante, tratando-o como igual onde ordens teriam falhado.

@@ -16,6 +16,6 @@ O manuscrito original do Codex Somniorum foi escrito no sangue de [[_wiki/pantea
 
 ### Consulta e Aplicação
 
-A consulta da Tabula não é manual: como nas demais seções do Codex, as páginas viram-se sozinhas até a subseção pertinente, parando onde poucos ousam ler. Os símbolos das divindades proscritas dançam diante dos olhos do leitor até se alinharem com aquilo que ele tem diante de si, revelando a assinatura do deus por trás de uma profanação.
+A consulta da Tabula não é manual: como nas demais seções do Codex, as páginas viram-se sozinhas até a subseção pertinente, parando onde poucos ousam ler. Foi assim que [[_wiki/personagens/milorsevogh_velshard\|Milor]], que já adivinhava o nome do deus pelo crânio entalhado e pelas figuras de joelhos, abriu o Codex na Tabula e chegou à subseção de divindades proscritas, que confirmou a assinatura por trás da profanação que ele investigava.
 
 A obra carrega seu próprio preceito: *“O sangue do culpado clama, mas apenas o juiz ouve.”* (Tabula Umbrae, Ritual VII).

@@ -12,8 +12,8 @@ Ao centro está o [[_wiki/artefatos/oculus_morvgradi\|Oculus]], esfera gigante d
 
 ### A cúpula celeste
 
-O teto traz uma cúpula celeste pintada que funciona como interface visual. Arothistar dirige-se às divindades olhando para cima, nunca para as estátuas. Linhas luminosas acendem no teto em padrões de mapas, runas e constelações, que Fing acredita serem comunicação dos “papais”.
+O teto traz uma cúpula celeste pintada que funciona como interface visual. Arothistar dirige-se às divindades olhando para cima, nunca para as estátuas.
 
 ### A ponte e a efígie
 
-Uma ponte sem corrimão liga o Oculário à trilha do [[_wiki/locais/pico_de_nethys\|Pico de Nethys]]. Uma efígie animada de Arothistar vigia a passagem: seus olhos de ônix acendem em prata quando ativados, ela fala com a voz do mestre e pode projetar círculos de contenção mágica, como na captura de [[_wiki/personagens/thrax\|Thrax]].
+Uma ponte sem corrimão liga o Oculário à trilha do [[_wiki/locais/pico_de_nethys\|Pico de Nethys]]. Uma efígie animada de Arothistar vigia a passagem: seus olhos de ônix acendem em prata quando ativados, e ela fala com a voz do mestre. É pela ponte que o poder dele alcança quem chega: de dentro do Oculário, com o punho aceso em cerúleo, Arothistar fecha sobre o piso da ponte um círculo de runas que prende o visitante, como na captura de [[_wiki/personagens/thrax\|Thrax]].

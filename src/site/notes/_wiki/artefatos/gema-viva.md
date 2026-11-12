@@ -4,10 +4,8 @@
 
 # Gema-Viva
 
-Gema-Viva é o termo [[_wiki/racas/drul\|drul]] para os ovos de [[_wiki/criaturas/dridar\|dridar]], a aranha gigante. Têm aparência de gema preciosa: são translúcidas, com veios internos pulsantes. As matronas das Casas-Catedral as prezam como símbolo de poder, tanto ornamental quanto literal, porque portar uma gema-viva demonstra capacidade de destruição latente. Quando o ovo eclode, a criatura ataca indiscriminadamente.
+Gema-Viva é o termo [[_wiki/racas/drul\|drul]] para os ovos de [[_wiki/criaturas/dridar\|drídar]], a aranha gigante. Têm aparência de gema preciosa: são translúcidas, com veios internos pulsantes. As matronas das Casas-Catedral as prezam como símbolo de poder, tanto ornamental quanto literal, porque portar uma gema-viva demonstra capacidade de destruição latente. Quando o ovo eclode, a criatura ataca indiscriminadamente.
 
 ### Como Carga de Contrabando
 
-[[_wiki/personagens/tibaut\|Tibaut]] transporta duas gemas-vivas em compartimentos separados do sobretudo. A primeira, retirada da caravana [[_wiki/organizacoes/khelg_dur\|Khelg’Dur]], é lisa e quase inerte, com um morno discreto sob a casca e sem marca de origem. A segunda, retirada de um arsenal destruído nas Montanhas do Oeste, é mais quente e pulsa com calor instável, “de coisa que ainda decidia se era objeto ou bicho”.
-
-Tibaut pesa três compradoras possíveis. [[_wiki/personagens/quavarra_ulvondra\|Quavarra Ulvondra]] pagaria mais, mas conta seus ovos com a precisão de quem conta inimigos, e farejaria a procedência. [[_wiki/personagens/belarbreza_vhaskrith\|Belarbreza Vhaskrith]] não compra, troca, e uma dívida com a Forja-Tormentos corta mais fundo. [[_wiki/personagens/nylothrae_durzken\|Nylothrae Durzken]] oferece canal seguro e histórico limpo. A gema da caravana segue para Nylothrae por intermédio de [[_wiki/locais/ghilanna\|Ghilanna]]; a do arsenal, ele retém.
+[[_wiki/personagens/tibaut\|Tibaut]] transporta duas gemas-vivas. A primeira foi retirada da caravana [[_wiki/organizacoes/khelg_dur\|Khelg’Dur]]; a segunda, de um arsenal destruído nas Montanhas do Oeste.

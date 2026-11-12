@@ -9,3 +9,5 @@
 ### O Caso
 
 A crise coincidiu com a sabotagem nas forjas anânicas de Thandruk Varn, e a sobreposição de eventos na cidadela sugere uma perturbação coordenada, que transcende o acaso. As circunstâncias exatas permanecem obscuras.
+
+O primeiro sinal de que o sumiço não era rotina não veio de um relatório. [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]], que ainda o supunha em serviço, indicou Draven-Thol a [[_wiki/personagens/gorvam_threnk\|Gorvam Threnk]], Mestre das Forjas, para a frente diplomática das forjas, e o Conselheiro travou no meio do nome, tossiu duas vezes, desviou o olhar e apressou o fim da conexão pelo [[_wiki/artefatos/oculus_morvgradi\|Oculus]], sem explicar a reação.

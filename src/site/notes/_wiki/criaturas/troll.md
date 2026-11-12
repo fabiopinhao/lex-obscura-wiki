@@ -8,4 +8,4 @@ O troll é uma criatura de grande porte encontrada em florestas densas e caverna
 
 ### Comportamento
 
-São predadores territoriais de inteligência limitada. Ocupam cavernas e caçam em grupo quando o território permite, capazes de emboscada coordenada rudimentar, com trolls emergindo de múltiplas direções para cercar a presa.
+São predadores territoriais de inteligência limitada. Por natureza vivem e caçam sozinhos: ocupam cavernas, dormem por estações e acordam famintos. Não se reúnem em bando nem coordenam a caça, e as marcas que deixam nas trilhas são de território, sem valor de linguagem. Trolls em bando, cercando a presa de várias direções, são anomalia, e é assim que aparecem em [[_wiki/locais/thal_serin\|Thal’Serin]].

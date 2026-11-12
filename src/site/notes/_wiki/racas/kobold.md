@@ -12,7 +12,7 @@ Com a ascensão shadar no planalto, a presença massiva de energia sombria corro
 
 ### Fisiologia
 
-Estatura de 70 cm a 1 m, com escamas finas em tons de ferrugem, ocre ou cinza-esverdeado, sem a espessura protetora dos [[_wiki/racas/draconideo\|draconídeos]]. Olhos grandes e amarelos, de pupilas verticais que dilatam na escuridão; focinho curto e achatado. Não têm glândulas de sopro nem asas: a capacidade elemental foi eliminada durante a seleção. A cauda, longa e fina, serve ao equilíbrio e à comunicação gestual entre kobolds, e é extensão identitária: um kobold sem cauda perde coordenação motora e sofre desorientação permanente. As mãos pequenas têm garras vestigiais e destreza superior ao porte, capazes de manipular mecanismos, costurar e organizar com eficiência. A longevidade é de trinta a quarenta anos, mas a maioria morre antes dos vinte e cinco por exaustão, acidente ou descarte.
+Estatura de 70 cm a 1 m, com escamas finas em tons de ferrugem, ocre ou cinza-esverdeado, sem a espessura protetora dos [[_wiki/racas/draconideo\|draconídeos]]. Olhos grandes e amarelos, de pupilas verticais que dilatam na escuridão; focinho curto e achatado. Não têm glândulas de sopro nem asas: a capacidade elemental foi eliminada durante a seleção. A cauda, longa e fina, serve ao equilíbrio e à comunicação gestual entre kobolds, e é extensão identitária: um kobold sem cauda perde coordenação motora e sofre desorientação permanente. As mãos pequenas têm garras vestigiais e destreza superior ao porte, capazes de manipular mecanismos, costurar e organizar com eficiência.
 
 ### Psicologia
 
@@ -22,7 +22,7 @@ A identidade kobold não se separa do mestre. “Eu” é definido por “a quem
 
 ### Estrutura Social
 
-Kobolds não possuem sociedade própria. A unidade social é o mestre e seu conjunto de servos, sem clãs, famílias ou grupos autônomos, e a maioria dos kobolds sem mestre definha ou vaga até encontrar novo vínculo. Em [[_wiki/locais/morvgrad\|Morvgrad]] e [[_wiki/locais/mor_severith\|Mor’Severith]], servem como criados domésticos, mensageiros internos, limpadores e auxiliares de laboratório; lordes shadars os mantêm como funcionários de baixo custo, e alguns os colecionam por vaidade. Nas [[_wiki/eventos/guerras_reinkardicas_inicio\|Guerras Reinkárdicas]], a tentativa de usá-los como intendentes militares fracassou: os [[_wiki/racas/orc\|orcs]] os matavam por aversão instintiva a répteis, e os [[_wiki/racas/goblin\|goblins]] assumiram a função.
+Kobolds não possuem sociedade própria. A unidade social é o mestre e seu conjunto de servos, sem clãs, famílias ou grupos autônomos, e a maioria dos kobolds sem mestre definha ou vaga até encontrar novo vínculo. Os fugidos que sobrevivem descem às cavernas e ao subterrâneo, onde vivem selvagens e dispersos, sem clã nem organização, e há quem os conte entre os povos das cavernas, ao lado de anões e [[_wiki/racas/derro\|derros]]. Em [[_wiki/locais/morvgrad\|Morvgrad]] e [[_wiki/locais/mor_severith\|Mor’Severith]], os kobolds servem como criados domésticos, mensageiros internos, limpadores e auxiliares de laboratório; lordes shadars os mantêm como funcionários de baixo custo, e alguns os colecionam por vaidade. Nas [[_wiki/eventos/guerras_reinkardicas_inicio\|Guerras Reinkárdicas]], a tentativa de usá-los como intendentes militares fracassou: os [[_wiki/racas/orc\|orcs]] os matavam por aversão instintiva a répteis, e os [[_wiki/racas/goblin\|goblins]] assumiram a função.
 
 ### Cultura
 
@@ -35,6 +35,10 @@ Os kobolds são listados como bens móveis nos inventários de lordes shadars, a
 ### Relação com Magia
 
 Embora de linhagem demoníaca por herança dracônica corrompida, os kobolds não praticam magia: a capacidade foi eliminada junto com o sopro e a agressividade durante a seleção. O que resta é sensibilidade residual, a percepção de flutuações arcanas e a agitação diante de presenças sobrenaturais ou artefatos poderosos. Fing interpreta o [[_wiki/cosmologia/noctiluz\|noctiluz]] instintivamente, sinal de que a herança dracônica ainda pulsa sob a docilidade imposta.
+
+### Ciclo Vital
+
+Os kobolds são ovíparos, com ninhadas de quatro a oito ovos e incubação de trinta dias em chocadeiras controladas. Os filhotes andam nas primeiras horas, dizem palavras funcionais aos seis meses e são adultos aos quatro anos. A longevidade é de trinta a quarenta anos, mas a expectativa real fica entre vinte e vinte e cinco: morrem por exaustão, acidente, descarte ou violência de outras raças. Não há funerais, e os corpos são removidos como resíduo.
 
 ### Voz
 

@@ -16,7 +16,7 @@ A doutrina condensa-se num aforismo atribuído à própria Sirana: a mente é um
 
 ### Estrutura e Transmissão
 
-A tradição não tem hierarquia formal nem títulos como os dos [[_wiki/organizacoes/justiciares\|Justiciares]] ou das [[_wiki/organizacoes/ophideias\|ophideias]]. A transmissão ocorre pela relação de mestre e aprendiz dentro das cidadelas: um Ancião Nalvirin recebe um ou mais novatos sob tutela, e o aprendizado dura décadas, considerado completo apenas quando o aprendiz começa a ensinar outros. Dela emergem funções como a de Assistente de Ritual, Técnico de Instrumentos Etéreos, Catalogador de Fenômenos, Meditador Noviço e Ancião Nalvirin. Não há graus formais entre elas; são especializações que surgem conforme a aptidão da formanda.
+A tradição não tem hierarquia formal nem títulos como os dos [[_wiki/organizacoes/justiciares\|Justiciares]] ou das [[_wiki/organizacoes/ophideias\|ophideias]]. A transmissão ocorre pela relação de mestre e aprendiz dentro das cidadelas: um Ancião nalvirin recebe um ou mais novatos sob tutela, e o aprendizado dura décadas, considerado completo apenas quando o aprendiz começa a ensinar outros. Dela emergem funções como a de Assistente de Ritual, Técnico de Instrumentos Etéreos, Catalogador de Fenômenos, Meditador Noviço e Ancião nalvirin. Não há graus formais entre elas; são especializações que surgem conforme a aptidão da formanda.
 
 ### Relação com os Frenins
 

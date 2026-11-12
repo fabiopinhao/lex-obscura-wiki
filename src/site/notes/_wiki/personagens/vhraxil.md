@@ -12,12 +12,12 @@ Vhraxil tem feições simétricas e de aparência incomum entre os machos drul. 
 
 ### Origem e posto
 
-Vhraxil vem das forjas inferiores de Vor-Ghol, às quais sobreviveu. Hoje monta guarda aos Portões de Ghilanna, o limiar da Casa Morghast, posto de confiança. Obedece às regras das matronas drul com zelo e é tido por dedicado, competente e atento. A curiosidade, contudo, excede o que o posto admite, e mais de uma vez o leva a reparar no que não lhe cabe.
+Vhraxil vem das forjas inferiores de Vor-Ghol, às quais sobreviveu. Hoje monta guarda aos Portões de Ghilanna, o limiar da Casa Morghast, posto de confiança. Obedece às regras das matronas drul com zelo e é tido por dedicado, competente e atento. A curiosidade, contudo, excede o que o posto admite, e escapa em pergunta: hesita, reformula, e ainda assim acaba perguntando o que não lhe cabe.
 
 ### Método e voz
 
-Vhraxil age pela deferência. A delicadeza que demonstra é genuína, traço de raça e não cálculo, e é por isso mesmo que Syndrith a considera irritante. Serve com cuidado zeloso. Quando o flagram observando o que não devia, as orelhas escurecem e a postura se corrige tarde demais.
+Vhraxil age pela deferência. A delicadeza que demonstra é genuína, traço de raça e não cálculo, e é por isso mesmo que Syndrith a considera irritante. Serve com cuidado zeloso. Feita a pergunta e recebida a repreensão, as orelhas escurecem e baixam, e ele endireita a postura para voltar ao prumo.
 
 ### Relações
 
-Syndrith o conhece desde a infância e o trata por besourinho; Vhraxil é a única referência afetiva que se lhe documenta. Anos antes, ainda como o macho jovem das forjas, Vhraxil cruzou olhares com Nidzina, então aprendiz nas Câmaras de Provação. Ali [[_wiki/personagens/zarae\|Zarae]] o feriu por esporte, cravando-lhe a adaga no punho, entre os ossos da mão. Nidzina se interpôs em sua defesa e nomeou o ato de covardia, desafiando o próprio Vor-Ghol. O episódio é a fagulha do rompimento dela com os druls. Anos depois, Vhraxil reaparece nos Portões de Ghilanna, prova de que sobreviveu.
+Syndrith o conhece desde a infância e o trata por besourinho; Vhraxil é a única referência afetiva que se lhe documenta. Anos antes, quando ele era ainda o macho jovem das forjas, o olhar de Nidzina, então aprendiz nas Câmaras de Provação, fixou-se nele, e ele correspondia quando achava que ninguém via. Ali [[_wiki/personagens/zarae\|Zarae]] o feriu por esporte, cravando-lhe a adaga no punho, entre os ossos da mão. Uma fáscia depois, ainda na mesma descida, feriu-o de novo: o mesmo rapaz, agora com pretexto (errara a postura na inspeção e sorrira no momento errado), e a adaga cerimonial no mesmo punho, um dedo acima do corte que ainda não fechara. Foi essa reincidência, e não a primeira ferida, que Nidzina nomeou covardia: interpôs-se em defesa dele e desafiou o próprio Vor-Ghol, e daí nasce o duelo com Zarae. O episódio é a fagulha do rompimento dela com os druls. Anos depois, Vhraxil reaparece nos Portões de Ghilanna, prova de que sobreviveu.

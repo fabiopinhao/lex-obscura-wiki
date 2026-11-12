@@ -12,12 +12,12 @@ O complexo se organiza em níveis descendentes de severidade. Os pisos superiore
 
 ### O Coração Oco
 
-Os níveis intermediários recebem o nome de [[_wiki/locais/coracao_oco\|Coração Oco]], onde a acústica da rocha distorce o som e ficam as celas gêmeas reservadas a prisioneiros de interesse especial.
+Os níveis intermediários e terminais recebem o nome de [[_wiki/locais/coracao_oco\|Coração Oco]], onde a acústica da rocha distorce o som com mais força e ficam as celas gêmeas reservadas a prisioneiros de interesse especial. O nome corre por metonímia como designação do complexo inteiro. A distorção já se ouve no piso dos intendentes, nos níveis superiores, e se adensa conforme se desce.
 
 ### Drokh’Malahar
 
-Os pisos abissais recebem o nome de [[_wiki/locais/drokh_malahar\|Drokh’Malahar]], as “salas da danação”: regime extremo de suplício onde a consciência dos condenados é prolongada indefinidamente.
+Abaixo do Coração Oco, os pisos abissais recebem o nome de [[_wiki/locais/drokh_malahar\|Drokh’Malahar]], as “salas da danação”: regime extremo de suplício onde a consciência dos condenados é prolongada indefinidamente.
 
 ### Hierarquia Carcerária
 
-A administração opera com divisão racial de funções. Intendentes shadars controlam os pisos superiores e os registros; [[_wiki/racas/orc\|orcs]] servem como carcereiros nos níveis inferiores, trabalho que os shadars consideram degradante. Após um incidente de segurança, novos protocolos restringiram o acesso, e somente orcs passaram a descer aos níveis mais profundos. O cargo de carrasco-mór é ocupado por [[_wiki/personagens/milorsevogh_velshard\|Velshard]], relegado ao subsolo depois de lançar [[_wiki/personagens/rhazamir\|Rhazamir]] da torre de [[_wiki/locais/khargoth\|Khargoth]]. [[_wiki/personagens/ulgorth\|Ulgorth]], orc de dois metros, de cicatrizes em camadas e presas amareladas, atua como capataz dos carcereiros órquicos.
+A administração opera com divisão racial de funções. Intendentes shadars controlam os pisos superiores e os registros; [[_wiki/racas/orc\|orcs]] servem como carcereiros nos níveis inferiores, trabalho que os shadars consideram degradante. Após um incidente de segurança, novos protocolos restringiram o acesso, e somente orcs passaram a descer aos níveis mais profundos. O cargo de carrasco-mor é ocupado por [[_wiki/personagens/milorsevogh_velshard\|Velshard]], relegado ao subsolo por ter invocado [[_wiki/panteao/malagoth\|Malagoth]] contra o tenente [[_wiki/personagens/rhazamir\|Rhazamir]] dentro da torre de [[_wiki/locais/khargoth\|Khargoth]], arte proscrita em solo sagrado. [[_wiki/personagens/ulgorth\|Ulgorth]], orc de uma braça, dois metros, de cicatrizes em camadas e presas amareladas, atua como capataz dos carcereiros órquicos. Abaixo dos carcereiros trabalham os fajardores, orcs encarregados da limpeza dos níveis menos profundos, que circulam com baldes de ferro e cruzam com quem desce sem levantar os olhos. Os patamares mais fundos não são limpos: poucos descem até lá.

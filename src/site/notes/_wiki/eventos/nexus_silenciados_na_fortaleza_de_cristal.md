@@ -8,7 +8,7 @@ Os Nexus Silenciados na Fortaleza de Cristal, também conhecidos como a Crise do
 
 ### A Anomalia
 
-Desde a conquista de Elenir, os nexus arcanos da cidade foram parcialmente incorporados à infraestrutura do [[_wiki/organizacoes/imperio_sombrio\|império]] e fundamentaram uma revolução tecnológica. Gnomos realocados para a cidade auxiliam os estudos sobre a [[_wiki/cosmologia/magi\|magi]] contida nos cristais. Estes continuam pulsando com magi, mas a energia não se propaga: é como se algo houvesse interposto uma barreira entre a fonte e os canais de distribuição. Os cristais estão ativos e, ao mesmo tempo, mudos.
+Desde a conquista de Elenir, os nexus arcanos da cidade foram parcialmente incorporados à infraestrutura do [[_wiki/organizacoes/imperio_sombrio\|império]] e fundamentaram uma revolução tecnológica. Gnomos realocados para a cidade auxiliam os estudos sobre o [[_wiki/cosmologia/magi\|magi]] contido nos cristais. Estes continuam pulsando com magi, mas a energia não se propaga: é como se algo houvesse interposto uma barreira entre a fonte e os canais de distribuição. Os cristais estão ativos e, ao mesmo tempo, mudos.
 
 ### Uma Sabotagem Distinta
 

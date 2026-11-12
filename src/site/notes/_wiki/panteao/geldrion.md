@@ -12,7 +12,7 @@ De longe, Geldrion justifica o nome: uma silhueta de proporções astronômicas 
 
 ### Manifestação
 
-Um sinal mais discreto também é atribuído a ele: numa noite em que Geldrion passa perto o bastante, o som deixa de se propagar no vale antes que as cores se apaguem, e ao amanhecer a geada cobre o chão em geometrias perfeitas, retas e ângulos que geada alguma produz sozinha.
+Um sinal mais discreto também lhe é atribuído, o quieto glacial: numa noite, o som deixa de se propagar no vale antes que as cores se esvaziem, e ao amanhecer a geada cobre o chão em geometrias perfeitas.
 
 ### Domínio
 
@@ -21,5 +21,3 @@ Geldrion drena calor e curvatura gravitacional numa operação única. O gelo qu
 ### O Apogeu
 
 Navegadores do [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]] usam o termo para as regiões onde Geldrion permaneceu tempo suficiente para que o espaço local perca de vez sua elasticidade. Nessas zonas, restaurar o movimento custa mais energia do que a região continha antes do congelamento, e esse excesso cresce a cada tentativa. Numa delas, expedicionários encontraram os resíduos de um [[_wiki/cosmologia/canal_magi\|canal magi]] interrompido, com cada feixe travado em trajetória de fuga que nenhuma força sustentava havia séculos. Eruditos [[_wiki/cosmologia/siderais\|siderais]] tratam o fenômeno como evidência de que o zero absoluto funciona como um ralo, um ponto de drenagem irreversível.
-
-Os mesmos navegadores o intitulam Senhor do Periélio e dos Vácuos Silenciosos, o deus que rege os vetores, as órbitas e as marés de [[_wiki/cosmologia/magi\|magi]] entre os corpos celestes. Se o apogeu é o ponto de máximo afastamento que lhe dá o epíteto, o periélio é o de aproximação máxima, onde sua atração glacial se faz mais implacável.

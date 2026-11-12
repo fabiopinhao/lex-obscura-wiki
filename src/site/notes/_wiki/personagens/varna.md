@@ -12,7 +12,7 @@ Durante a [[_wiki/conceitos/primeira_era\|Primeira Era]], Varna permaneceu no Pi
 
 ### Migração para Varnak
 
-Quando a corrupção sombria tornou o Pico insustentável, Varna migrou para Varnak. A partida deixou o Pico definitivamente deserto e contribuiu para que as travessias orcas pela Dorsal se intensificassem. Nos vales de Varnak, foi recebida com veneração ou medo.
+Quando a corrupção sombria tornou o Pico insustentável, Varna migrou para oeste. Tentou primeiro se estabelecer no vulcão de [[_wiki/locais/thandruk_varn\|Thandruk Varn]], mas os [[_wiki/racas/karashim\|anões]] já habitavam a montanha e ela não achou paz ali; os antepassados anões lembram o terror que ela impôs a Thandruk Varn, gerações atrás. Seguiu mais a oeste, até Varnak. A partida deixou o Pico definitivamente deserto e contribuiu para que as travessias orcas pela Dorsal se intensificassem. Nos vales de Varnak, foi recebida com veneração ou medo.
 
 ### Legado
 
