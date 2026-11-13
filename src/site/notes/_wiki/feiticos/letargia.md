@@ -4,6 +4,6 @@
 
 # Letargia
 
-Letargia é um feitício menor da escola do [[_wiki/escolas/necro\|Necro]] que simula o estado de morte no próprio corpo do conjurador ou em um alvo voluntário. O pulso cessa, a respiração se torna imperceptível, o corpo esfria.
+Letargia é um feitiço menor da escola do [[_wiki/escolas/necro\|Necro]] que simula o estado de morte no próprio corpo do conjurador ou em um alvo voluntário. O pulso cessa, a respiração se torna imperceptível, o corpo esfria.
 
 Distingue-se do Acalanto, da escola do [[_wiki/escolas/hypno\|Hypno]], que induz relaxamento para dormir: a Letargia imita a morte, indistinguível de um cadáver para observadores comuns. Como custo, vem a sensação de morte iminente e um despertar desorientado.

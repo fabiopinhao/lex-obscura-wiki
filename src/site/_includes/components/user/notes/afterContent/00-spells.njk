@@ -1,0 +1,19 @@
+{%- if userComputed.schoolSpells %}
+<section class="lex-spells">
+  <h2 id="feiticos">Feitiços</h2>
+  <ul class="lex-spells-index">
+    {%- for s in userComputed.schoolSpells %}
+    <li><a href="#{{ s.anchor }}">{{ s.title }}</a>{% if s.scaleLabel %} <span class="lex-spell-scale">{{ s.scaleLabel }}</span>{% endif %}</li>
+    {%- endfor %}
+  </ul>
+  {%- for s in userComputed.schoolSpells %}
+  {%- set note = collections.note | lexNoteBySlug("feiticos", s.slug) %}
+  <article class="lex-spell" id="{{ s.anchor }}">
+    <h3>{{ s.title }}{% if s.scaleLabel %} <span class="lex-spell-scale">{{ s.scaleLabel }}</span>{% endif %}</h3>
+    {%- if note %}
+    {{ note.templateContent | lexSpellBody | link | safe }}
+    {%- endif %}
+  </article>
+  {%- endfor %}
+</section>
+{%- endif %}

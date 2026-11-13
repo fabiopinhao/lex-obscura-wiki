@@ -1,4 +1,4 @@
-const { noteTitle } = require("./userUtils");
+const { noteTitle, spellIndex } = require("./userUtils");
 
 function userMarkdownSetup(md) {
   // The md parameter stands for the markdown-it instance used throughout the site generator.
@@ -14,6 +14,32 @@ function userEleventySetup(eleventyConfig) {
       return undefined;
     }
     return noteTitle(data) || data.page.fileSlug;
+  });
+
+  // Finds the collection item of a spell so its rendered body can be shown
+  // inside the page of its school.
+  eleventyConfig.addFilter("lexNoteBySlug", (notes, folder, slug) => {
+    const end = `/_wiki/${folder}/${slug}.md`;
+    return (notes || []).find((n) => n.inputPath.replace(/\\/g, "/").endsWith(end));
+  });
+
+  // Body of a spell as a block of the school page: no H1 of its own, inner
+  // headings one level below the spell name, and no heading ids (ten spells
+  // would repeat id="custo" on the same page).
+  eleventyConfig.addFilter("lexSpellBody", (html) =>
+    (html || "")
+      .replace(/<h1[^>]*>[\s\S]*?<\/h1>/, "")
+      .replace(/<(\/?)h[2-4]\b[^>]*>/g, (m, close) => `<${close}h4>`)
+  );
+
+  // Links to a spell point to its block in the school page.
+  eleventyConfig.addTransform("lex-spell-links", function (content) {
+    const out = (this.page && this.page.outputPath) || "";
+    if (!out.endsWith(".html")) return content;
+    const { byUrl } = spellIndex();
+    return content.replace(/href="(\/wiki\/feiticos\/[^"#]+\/)"/g, (m, url) =>
+      byUrl[url] ? `href="${byUrl[url]}"` : m
+    );
   });
 }
 exports.userMarkdownSetup = userMarkdownSetup;

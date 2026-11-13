@@ -537,3 +537,89 @@ body.theme-light {
         }
     }
 }
+
+/* ---------- feitiços dentro da página da escola ---------- */
+body.theme-dark,
+body.theme-light {
+    .lex-spells {
+        margin-top: 3em;
+        padding-top: 0.4em;
+        border-top: 1px solid var(--lex-border);
+    }
+
+    .content .lex-spells-index {
+        list-style: none;
+        padding: 0;
+        margin: 0 0 2.2em;
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 0.15em 1.5em;
+        font-size: 0.98rem;
+
+        li {
+            margin: 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            gap: 0.8em;
+            padding: 0.22em 0;
+            border-bottom: 1px dotted var(--lex-border);
+        }
+
+        @media (max-width: 640px) {
+            grid-template-columns: 1fr;
+        }
+    }
+
+    .lex-spell-scale {
+        font-family: var(--lex-font-display);
+        font-size: 0.68rem;
+        font-weight: 500;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        color: var(--lex-muted);
+        white-space: nowrap;
+    }
+
+    .content .lex-spell {
+        margin: 0 0 1.4em;
+        padding: 1.15em 1.3em 0.5em;
+        background: var(--lex-surface);
+        border: 1px solid var(--lex-border);
+        border-left: 2px solid var(--lex-gold);
+        border-radius: 2px;
+        scroll-margin-top: 90px;
+
+        &:target {
+            border-color: var(--lex-gold);
+            background: var(--lex-surface-2);
+        }
+
+        h3 {
+            margin: 0 0 0.7em;
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            gap: 1em;
+            color: var(--lex-gold-bright);
+            text-transform: none;
+            letter-spacing: 0.05em;
+            font-size: 1.22rem;
+        }
+
+        h4 {
+            margin: 1.2em 0 0.4em;
+            font-size: 0.82rem;
+        }
+
+        p {
+            font-size: 1.04rem;
+        }
+    }
+
+    .lex-spell-stub .lex-spell-forward {
+        margin-top: 2em;
+        padding-top: 1em;
+        border-top: 1px solid var(--lex-border);
+    }
+}

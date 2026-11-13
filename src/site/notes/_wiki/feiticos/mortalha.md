@@ -4,6 +4,6 @@
 
 # Mortalha
 
-Mortalha é um feitício menor da escola da [[_wiki/escolas/umbra\|Umbra]]. Envolve o conjurador em uma escuridão aderente que absorve contornos e amortece o som. Quem a veste torna-se mancha, borrão, algo que o olho descarta.
+Mortalha é um feitiço menor da escola da [[_wiki/escolas/umbra\|Umbra]]. Envolve o conjurador em uma escuridão aderente que absorve contornos e amortece o som. Quem a veste torna-se mancha, borrão, algo que o olho descarta.
 
 Distingue-se da Evanescência, da escola do [[_wiki/escolas/spectro\|Spectro]], que apaga da percepção: a Mortalha oculta em sombra física e funciona melhor na penumbra. Como custo, vem uma cegueira parcial breve, e a preferência por escuridão persiste depois.

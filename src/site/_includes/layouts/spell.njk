@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ meta.mainLanguage }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} · {{ userComputed.spell.schoolTitle }} · {{ meta.siteName }}</title>
+    <meta name="robots" content="noindex, follow">
+    <link rel="canonical" href="{{ meta.siteBaseUrl }}{{ userComputed.spell.target }}">
+    <meta http-equiv="refresh" content="0; url={{ userComputed.spell.target }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+    {%-if meta.themeStyle%}
+    <link href="/styles/obsidian-base.css" rel="stylesheet">
+    <link href="{{meta.themeStyle}}" rel="stylesheet">
+    {% else %}
+    <link href="/styles/style.css" rel="stylesheet">
+    {%endif%}
+    <link href="/styles/digital-garden-base.css" rel="stylesheet">
+    <link href="/styles/custom-style.css" rel="stylesheet">
+    <link href="/styles/user/lex.css" rel="stylesheet">
+  </head>
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered no-filetree">
+    <main class="content cm-s-obsidian lex-spell-stub">
+      <nav class="lex-crumbs" aria-label="Trilha de navegação">
+        <a href="/">Lex Obscura</a>
+        <span class="lex-crumbs-sep" aria-hidden="true">›</span>
+        <a href="{{ userComputed.section.url }}">{{ userComputed.section.label }}</a>
+        <span class="lex-crumbs-sep" aria-hidden="true">›</span>
+        <a href="{{ userComputed.spell.schoolUrl }}">{{ userComputed.spell.schoolTitle }}</a>
+      </nav>
+      {{ content | hideDataview | taggify | link | safe }}
+      <p class="lex-spell-forward"><a href="{{ userComputed.spell.target }}">Ver {{ title }} na página da escola {{ userComputed.spell.schoolTitle }}</a></p>
+    </main>
+  </body>
+</html>

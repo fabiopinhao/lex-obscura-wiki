@@ -1,5 +1,6 @@
 require("dotenv").config();
 const settings = require("../../helpers/constants");
+const { spellOf } = require("../../helpers/userUtils");
 
 const allSettings = settings.ALL_NOTE_SETTINGS;
 
@@ -8,6 +9,11 @@ module.exports = {
     layout: (data) => {
       if (data.tags.indexOf("gardenEntry") != -1) {
         return "layouts/index.njk";
+      }
+      // Lex Obscura: a spell is shown inside the page of its school; its own
+      // URL only forwards there.
+      if (spellOf(data.page && data.page.inputPath)) {
+        return "layouts/spell.njk";
       }
       return "layouts/note.njk";
     },
