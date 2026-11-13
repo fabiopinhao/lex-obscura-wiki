@@ -11,4 +11,3 @@ Babua é um [[_wiki/racas/saag\|saag]] da linhagem [[_wiki/racas/ranidano\|ranid
 A força de Babua está na pele e na água. Enquanto medita e sua pele toca uma fonte de água no plano material, ele pode permanecer por luas no [[_wiki/cosmologia/plano_etereo\|véu etéreo]], o Aetherium; atrás do véu, é invisível enquanto não se move. Isso faz dele um sentinela difícil de detectar.
 
 A esse dom soma-se um segundo, mais perigoso para quem confia em magia: um encantamento capaz de romper vínculos mágicos. Nem as conexões do [[_wiki/artefatos/oculus_morvgradi\|Oculus]] resistem a ele.
-
