@@ -1,3 +1,4 @@
+{%- set uiS = (userComputed and userComputed.uiStrings) or meta.uiStrings -%}
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
 <script>
     document.addEventListener('DOMContentLoaded', init, false);
@@ -277,7 +278,13 @@
 
     async function init() {
         // Fetch search index (browser caches based on query param)
-        const docs = await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}').then(r => r.json());
+        const allDocs = await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}').then(r => r.json());
+        // Lex Obscura: search only the page's language. English also finds the
+        // Portuguese entries that have no English version yet (they open in
+        // Portuguese, with the untranslated notice).
+        const pageLang = document.documentElement.lang === 'en' ? 'en' : 'pt-BR';
+        const docs = allDocs.filter(d => !d.lang || d.lang === pageLang ||
+            (pageLang === 'en' && d.lang === 'pt-BR' && !d.alt));
         const index = createIndex(docs);
         window.docs = docs;
         window.index = index;
@@ -370,7 +377,7 @@
         const searchLayout = document.getElementById('search-layout');
 
         if (!searchQuery) {
-            resultsDiv.innerHTML = `<span><i>{{ meta.uiStrings.searchNotStarted }}</i></span>`;
+            resultsDiv.innerHTML = `<span><i>{{ uiS.searchNotStarted }}</i></span>`;
             hidePreview();
             if (searchLayout) searchLayout.classList.add('no-preview');
             return;
@@ -394,7 +401,7 @@
                         <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
                         <line x1="8" y1="11" x2="14" y2="11"></line>
                     </svg>
-                    <p>{{ meta.uiStrings.searchNoResults }} "${searchQuery}"</p>
+                    <p>{{ uiS.searchNoResults }} "${searchQuery}"</p>
                 </div>
             `;
             return;

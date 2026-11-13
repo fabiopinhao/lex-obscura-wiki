@@ -1,4 +1,4 @@
-const { noteTitle, spellIndex } = require("./userUtils");
+const { noteTitle, spellIndex, enSpellByUrl } = require("./userUtils");
 
 function userMarkdownSetup(md) {
   // The md parameter stands for the markdown-it instance used throughout the site generator.
@@ -18,8 +18,8 @@ function userEleventySetup(eleventyConfig) {
 
   // Finds the collection item of a spell so its rendered body can be shown
   // inside the page of its school.
-  eleventyConfig.addFilter("lexNoteBySlug", (notes, folder, slug) => {
-    const end = `/_wiki/${folder}/${slug}.md`;
+  eleventyConfig.addFilter("lexNoteBySlug", (notes, folder, slug, dir) => {
+    const end = `/${dir || "_wiki"}/${folder}/${slug}.md`;
     return (notes || []).find((n) => n.inputPath.replace(/\\/g, "/").endsWith(end));
   });
 
@@ -37,8 +37,9 @@ function userEleventySetup(eleventyConfig) {
     const out = (this.page && this.page.outputPath) || "";
     if (!out.endsWith(".html")) return content;
     const { byUrl } = spellIndex();
-    return content.replace(/href="(\/(?:wiki|pt)\/feiticos\/[^"#]+\/)"/g, (m, url) =>
-      byUrl[url] ? `href="${byUrl[url]}"` : m
+    const enUrl = enSpellByUrl();
+    return content.replace(/href="(\/(?:(?:wiki|pt)\/)?feiticos\/[^"#]+\/)"/g, (m, url) =>
+      byUrl[url] ? `href="${byUrl[url]}"` : enUrl[url] ? `href="${enUrl[url]}"` : m
     );
   });
 }

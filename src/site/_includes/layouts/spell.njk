@@ -30,7 +30,7 @@
         <a href="{{ userComputed.spell.schoolUrl }}">{{ userComputed.spell.schoolTitle }}</a>
       </nav>
       {{ content | hideDataview | taggify | link | safe }}
-      <p class="lex-spell-forward"><a href="{{ userComputed.spell.target }}">Ver {{ title }} na página da escola {{ userComputed.spell.schoolTitle }}</a></p>
+      <p class="lex-spell-forward"><a href="{{ userComputed.spell.target }}">{% if userComputed.isEn %}See {{ title }} on the page of the {{ userComputed.spell.schoolTitle }} school{% else %}Ver {{ title }} na página da escola {{ userComputed.spell.schoolTitle }}{% endif %}</a></p>
     </main>
   </body>
 </html>

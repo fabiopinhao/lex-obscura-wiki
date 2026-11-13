@@ -29,11 +29,29 @@ const UI = {
     crumbs: "Breadcrumb",
     spells: "Spells",
     spellsForeign:
-      "The spell entries of this school have not been translated yet; each link opens the Portuguese text.",
+      "Spells not yet translated open in the Portuguese text.",
     untranslated: "This entry has not been translated into English yet. The text below is the Portuguese original.",
     homeTitle: "Official record of the universe",
     langLabel: "Language",
   },
+};
+
+// Strings of the template components (search, backlinks) for English pages;
+// Portuguese pages keep the ones from .env (meta.uiStrings).
+const UI_STRINGS_EN = {
+  backlinkHeader: "Pages that cite this one",
+  noBacklinksMessage: "No other page cites this one",
+  searchButtonText: "Search",
+  searchPlaceholder: "Type to search…",
+  searchNotStarted: "Type in the field above",
+  searchEnterHotkey: "Enter",
+  searchEnterHint: "to open",
+  searchNavigateHotkey: "⇅",
+  searchNavigateHint: "to navigate",
+  searchCloseHotkey: "ESC",
+  searchCloseHint: "to close",
+  searchNoResults: "No results for",
+  searchPreviewPlaceholder: "Select a result to preview",
 };
 
 // Folder of the note -> index file (Portuguese file name in both trees).
@@ -246,15 +264,54 @@ function spellIndex() {
   return spellCache;
 }
 
-function spellOf(inputPath) {
-  const m = norm(inputPath).match(/\/_wiki\/feiticos\/([^/]+)\.md$/);
-  return (m && spellIndex().bySlug[m[1]]) || null;
+// English view of a spell: its translated text when there is one (shown as a
+// block in the English school page), otherwise a link to the Portuguese block.
+const SCALES_EN = { menor: "Minor", média: "Medium", maior: "Major", máxima: "Maximum" };
+function enSpell(s) {
+  const note = readNote("feiticos", s.slug, DIRS.en);
+  const school = readNote("escolas", s.school, DIRS.en);
+  const scaleEn = SCALES_EN;
+  if (!note || !school || !note.permalink) {
+    return Object.assign({}, s, { translated: false, scaleLabel: scaleEn[s.scale] || "" });
+  }
+  return Object.assign({}, s, {
+    translated: true,
+    title: note.title || s.title,
+    url: note.permalink,
+    schoolTitle: school.title,
+    schoolUrl: school.permalink,
+    target: `${school.permalink}#${s.anchor}`,
+    scaleLabel: scaleEn[s.scale] || "",
+  });
 }
 
-// The school page of either language lists the (Portuguese) spells.
+let enSpellUrls = null;
+function enSpellByUrl() {
+  if (enSpellUrls) return enSpellUrls;
+  enSpellUrls = {};
+  for (const s of Object.values(spellIndex().bySlug)) {
+    const e = enSpell(s);
+    if (e.translated) enSpellUrls[e.url] = e.target;
+  }
+  return enSpellUrls;
+}
+
+function spellOf(inputPath) {
+  const m = norm(inputPath).match(/\/_wiki(_en)?\/feiticos\/([^/]+)\.md$/);
+  const s = m && spellIndex().bySlug[m[2]];
+  if (!s) return null;
+  if (!m[1]) return s;
+  const e = enSpell(s);
+  return e.translated ? e : null;
+}
+
+// The school page of either language lists its spells; in English, each one
+// is the translated block or a link to the Portuguese text.
 function schoolSpellsOf(inputPath) {
-  const m = norm(inputPath).match(/\/_wiki(?:_en)?\/escolas\/([^/]+)\.md$/);
-  return (m && spellIndex().bySchool[m[1]]) || null;
+  const m = norm(inputPath).match(/\/_wiki(_en)?\/escolas\/([^/]+)\.md$/);
+  const list = m && spellIndex().bySchool[m[2]];
+  if (!list) return null;
+  return m[1] ? list.map(enSpell) : list;
 }
 
 function userComputed(data) {
@@ -279,6 +336,7 @@ function userComputed(data) {
     alt,
     langs,
     ui: UI[lang],
+    uiStrings: lang === "en" ? UI_STRINGS_EN : null,
     untranslated: bilingual && lang === "pt-BR" && !alt && !isHome,
     description: isHome ? SITE_DESCRIPTION[lang] : noteDescription(data),
     section: noteSection(data),
@@ -292,3 +350,4 @@ exports.userComputed = userComputed;
 exports.noteTitle = noteTitle;
 exports.spellIndex = spellIndex;
 exports.spellOf = spellOf;
+exports.enSpellByUrl = enSpellByUrl;

@@ -2,12 +2,27 @@
 <section class="lex-spells">
   <h2 id="feiticos">{{ userComputed.ui.spells }}</h2>
   {%- if userComputed.isEn %}
+  {%- if (userComputed.schoolSpells | rejectattr("translated") | length) > 0 %}
   <p class="lex-untranslated">{{ userComputed.ui.spellsForeign }}</p>
+  {%- endif %}
   <ul class="lex-spells-index">
     {%- for s in userComputed.schoolSpells %}
+    {%- if s.translated %}
+    <li><a href="#{{ s.anchor }}">{{ s.title }}</a>{% if s.scaleLabel %} <span class="lex-spell-scale">{{ s.scaleLabel }}</span>{% endif %}</li>
+    {%- else %}
     <li><a href="{{ s.target }}" hreflang="pt-BR" lang="pt-BR">{{ s.title }}</a>{% if s.scaleLabel %} <span class="lex-spell-scale">{{ s.scaleLabel }}</span>{% endif %}</li>
+    {%- endif %}
     {%- endfor %}
   </ul>
+  {%- for s in userComputed.schoolSpells %}{% if s.translated %}
+  {%- set note = collections.note | lexNoteBySlug("feiticos", s.slug, "_wiki_en") %}
+  <article class="lex-spell" id="{{ s.anchor }}">
+    <h3>{{ s.title }}{% if s.scaleLabel %} <span class="lex-spell-scale">{{ s.scaleLabel }}</span>{% endif %}</h3>
+    {%- if note %}
+    {{ note.templateContent | lexSpellBody | link | safe }}
+    {%- endif %}
+  </article>
+  {%- endif %}{% endfor %}
   {%- else %}
   <ul class="lex-spells-index">
     {%- for s in userComputed.schoolSpells %}
