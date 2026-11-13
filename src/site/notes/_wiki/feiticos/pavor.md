@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/pavor.md","permalink":"/wiki/feiticos/pavor/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/pavor.md","permalink":"/pt/feiticos/pavor/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Pavor

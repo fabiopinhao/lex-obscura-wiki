@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/bencao.md","permalink":"/wiki/feiticos/bencao/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/bencao.md","permalink":"/pt/feiticos/bencao/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Bênção

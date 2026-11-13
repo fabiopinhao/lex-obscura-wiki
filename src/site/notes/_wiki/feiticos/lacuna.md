@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/lacuna.md","permalink":"/wiki/feiticos/lacuna/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/lacuna.md","permalink":"/pt/feiticos/lacuna/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Lacuna

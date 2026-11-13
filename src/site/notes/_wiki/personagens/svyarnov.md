@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/svyarnov.md","permalink":"/wiki/personagens/svyarnov/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/svyarnov.md","permalink":"/pt/personagens/svyarnov/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Svyarnov

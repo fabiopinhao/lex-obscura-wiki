@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/orc.md","permalink":"/wiki/racas/orc/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/orc.md","permalink":"/pt/racas/orc/","lexLang":"pt-BR","lexAlt":"/racas/orc/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Orc

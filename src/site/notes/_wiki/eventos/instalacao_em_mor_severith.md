@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/instalacao_em_mor_severith.md","permalink":"/wiki/eventos/instalacao-em-mor-severith/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/instalacao_em_mor_severith.md","permalink":"/pt/eventos/instalacao-em-mor-severith/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Instalação em Mor’Severith

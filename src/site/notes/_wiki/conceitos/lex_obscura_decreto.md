@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/lex_obscura_decreto.md","permalink":"/wiki/conceitos/lex-obscura-decreto/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/lex_obscura_decreto.md","permalink":"/pt/conceitos/lex-obscura-decreto/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Lex Obscura

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/ghur.md","permalink":"/wiki/personagens/ghur/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/ghur.md","permalink":"/pt/personagens/ghur/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ghur

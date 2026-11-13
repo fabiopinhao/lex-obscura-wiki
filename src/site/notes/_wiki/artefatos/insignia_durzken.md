@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/insignia_durzken.md","permalink":"/wiki/artefatos/insignia-durzken/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/insignia_durzken.md","permalink":"/pt/artefatos/insignia-durzken/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Insígnia de Durzken

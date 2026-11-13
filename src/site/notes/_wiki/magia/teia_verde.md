@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/teia_verde.md","permalink":"/wiki/magia/teia-verde/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/teia_verde.md","permalink":"/pt/magia/teia-verde/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Teia-Verde

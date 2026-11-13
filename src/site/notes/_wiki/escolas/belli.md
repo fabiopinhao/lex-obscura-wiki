@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/belli.md","permalink":"/wiki/escolas/belli/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/belli.md","permalink":"/pt/escolas/belli/","lexLang":"pt-BR","lexAlt":"/escolas/belli/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Belli

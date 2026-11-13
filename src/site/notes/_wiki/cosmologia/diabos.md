@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/diabos.md","permalink":"/wiki/cosmologia/diabos/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/diabos.md","permalink":"/pt/cosmologia/diabos/","lexLang":"pt-BR","lexAlt":"/cosmologia/diabos/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Diabos

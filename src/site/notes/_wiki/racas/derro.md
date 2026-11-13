@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/derro.md","permalink":"/wiki/racas/derro/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/derro.md","permalink":"/pt/racas/derro/","lexLang":"pt-BR","lexAlt":"/racas/derro/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Derro

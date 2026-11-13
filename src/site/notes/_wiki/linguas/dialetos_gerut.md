@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/dialetos_gerut.md","permalink":"/wiki/linguas/dialetos-gerut/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/dialetos_gerut.md","permalink":"/pt/linguas/dialetos-gerut/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Dialetos Gerut

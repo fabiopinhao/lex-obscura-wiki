@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/mordaca.md","permalink":"/wiki/feiticos/mordaca/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/mordaca.md","permalink":"/pt/feiticos/mordaca/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Mordaça

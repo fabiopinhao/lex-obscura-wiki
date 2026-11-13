@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/zarae.md","permalink":"/wiki/personagens/zarae/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/zarae.md","permalink":"/pt/personagens/zarae/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Zarae

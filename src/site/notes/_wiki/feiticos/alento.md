@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/alento.md","permalink":"/wiki/feiticos/alento/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/alento.md","permalink":"/pt/feiticos/alento/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Alento

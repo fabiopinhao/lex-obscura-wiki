@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/sylvano.md","permalink":"/wiki/racas/sylvano/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/sylvano.md","permalink":"/pt/racas/sylvano/","lexLang":"pt-BR","lexAlt":"/racas/sylvano/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Sylvano

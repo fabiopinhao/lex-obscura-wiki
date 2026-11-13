@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/estrige.md","permalink":"/wiki/criaturas/estrige/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/estrige.md","permalink":"/pt/criaturas/estrige/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Estrige

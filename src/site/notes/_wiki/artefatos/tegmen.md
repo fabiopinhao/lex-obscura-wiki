@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/tegmen.md","permalink":"/wiki/artefatos/tegmen/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/tegmen.md","permalink":"/pt/artefatos/tegmen/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Tegmen

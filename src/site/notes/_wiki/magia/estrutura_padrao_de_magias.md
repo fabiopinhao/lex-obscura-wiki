@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/estrutura_padrao_de_magias.md","permalink":"/wiki/magia/estrutura-padrao-de-magias/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/estrutura_padrao_de_magias.md","permalink":"/pt/magia/estrutura-padrao-de-magias/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Estrutura Padrão das Magias

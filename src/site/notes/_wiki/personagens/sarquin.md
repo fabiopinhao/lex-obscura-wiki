@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/sarquin.md","permalink":"/wiki/personagens/sarquin/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/sarquin.md","permalink":"/pt/personagens/sarquin/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Sarquin

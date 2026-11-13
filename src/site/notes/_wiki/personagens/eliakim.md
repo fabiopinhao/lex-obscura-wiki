@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/eliakim.md","permalink":"/wiki/personagens/eliakim/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/eliakim.md","permalink":"/pt/personagens/eliakim/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Eliakim

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/kazem_vorgrath.md","permalink":"/wiki/personagens/kazem-vorgrath/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/kazem_vorgrath.md","permalink":"/pt/personagens/kazem-vorgrath/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Kazem Vorgrath

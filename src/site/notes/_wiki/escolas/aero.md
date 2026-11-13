@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/aero.md","permalink":"/wiki/escolas/aero/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/aero.md","permalink":"/pt/escolas/aero/","lexLang":"pt-BR","lexAlt":"/escolas/aero/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Aero

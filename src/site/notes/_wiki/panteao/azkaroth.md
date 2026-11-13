@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/azkaroth.md","permalink":"/wiki/panteao/azkaroth/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/azkaroth.md","permalink":"/pt/panteao/azkaroth/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Azkaroth

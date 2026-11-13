@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/warguleth.md","permalink":"/wiki/panteao/warguleth/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/warguleth.md","permalink":"/pt/panteao/warguleth/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Wargûleth

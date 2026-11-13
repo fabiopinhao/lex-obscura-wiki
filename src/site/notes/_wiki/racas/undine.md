@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/undine.md","permalink":"/wiki/racas/undine/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/undine.md","permalink":"/pt/racas/undine/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Undine

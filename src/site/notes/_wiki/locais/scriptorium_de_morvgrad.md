@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/scriptorium_de_morvgrad.md","permalink":"/wiki/locais/scriptorium-de-morvgrad/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/scriptorium_de_morvgrad.md","permalink":"/pt/locais/scriptorium-de-morvgrad/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Scriptorium de Morvgrad

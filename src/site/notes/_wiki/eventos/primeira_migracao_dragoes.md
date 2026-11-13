@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/primeira_migracao_dragoes.md","permalink":"/wiki/eventos/primeira-migracao-dragoes/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/primeira_migracao_dragoes.md","permalink":"/pt/eventos/primeira-migracao-dragoes/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Primeira Migração dos Dragões

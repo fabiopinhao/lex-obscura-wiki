@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/rajhar.md","permalink":"/wiki/racas/rajhar/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/rajhar.md","permalink":"/pt/racas/rajhar/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Rajhar

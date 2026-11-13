@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/azazel.md","permalink":"/wiki/panteao/azazel/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/azazel.md","permalink":"/pt/panteao/azazel/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Azazel

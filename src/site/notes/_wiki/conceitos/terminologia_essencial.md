@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/terminologia_essencial.md","permalink":"/wiki/conceitos/terminologia-essencial/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/terminologia_essencial.md","permalink":"/pt/conceitos/terminologia-essencial/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Terminologia Essencial

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/raio_voltaico.md","permalink":"/wiki/feiticos/raio-voltaico/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/raio_voltaico.md","permalink":"/pt/feiticos/raio-voltaico/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Raio Voltaico

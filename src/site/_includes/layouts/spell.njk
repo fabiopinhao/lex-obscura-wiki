@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ meta.mainLanguage }}">
+<html lang="{{ userComputed.lang or meta.mainLanguage }}">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,8 +22,8 @@
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered no-filetree">
     <main class="content cm-s-obsidian lex-spell-stub">
-      <nav class="lex-crumbs" aria-label="Trilha de navegação">
-        <a href="/">Lex Obscura</a>
+      <nav class="lex-crumbs" aria-label="{{ userComputed.ui.crumbs }}">
+        <a href="{{ userComputed.homeUrl }}">Lex Obscura</a>
         <span class="lex-crumbs-sep" aria-hidden="true">›</span>
         <a href="{{ userComputed.section.url }}">{{ userComputed.section.label }}</a>
         <span class="lex-crumbs-sep" aria-hidden="true">›</span>

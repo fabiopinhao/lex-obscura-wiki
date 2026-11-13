@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/patho.md","permalink":"/wiki/escolas/patho/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/patho.md","permalink":"/pt/escolas/patho/","lexLang":"pt-BR","lexAlt":"/escolas/patho/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Patho

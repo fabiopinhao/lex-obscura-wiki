@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/fevrazuni.md","permalink":"/wiki/panteao/fevrazuni/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/fevrazuni.md","permalink":"/pt/panteao/fevrazuni/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Fevrazûni

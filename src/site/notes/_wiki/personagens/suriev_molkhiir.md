@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/suriev_molkhiir.md","permalink":"/wiki/personagens/suriev-molkhiir/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/suriev_molkhiir.md","permalink":"/pt/personagens/suriev-molkhiir/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Suriev Molkhiir

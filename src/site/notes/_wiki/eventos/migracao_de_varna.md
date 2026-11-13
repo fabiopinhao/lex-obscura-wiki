@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/migracao_de_varna.md","permalink":"/wiki/eventos/migracao-de-varna/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/migracao_de_varna.md","permalink":"/pt/eventos/migracao-de-varna/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Migração de Varna para Veinkard

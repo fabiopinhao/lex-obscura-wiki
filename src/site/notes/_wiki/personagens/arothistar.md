@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/arothistar.md","permalink":"/wiki/personagens/arothistar/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/arothistar.md","permalink":"/pt/personagens/arothistar/","lexLang":"pt-BR","lexAlt":"/personagens/arothistar/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Arothistar

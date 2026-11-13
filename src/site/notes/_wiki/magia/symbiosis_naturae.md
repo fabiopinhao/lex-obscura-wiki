@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/symbiosis_naturae.md","permalink":"/wiki/magia/symbiosis-naturae/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/symbiosis_naturae.md","permalink":"/pt/magia/symbiosis-naturae/","lexLang":"pt-BR","lexAlt":"/magia/symbiosis-naturae/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Symbiosis Naturae

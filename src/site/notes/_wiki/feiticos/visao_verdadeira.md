@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/visao_verdadeira.md","permalink":"/wiki/feiticos/visao-verdadeira/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/visao_verdadeira.md","permalink":"/pt/feiticos/visao-verdadeira/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Visão Verdadeira

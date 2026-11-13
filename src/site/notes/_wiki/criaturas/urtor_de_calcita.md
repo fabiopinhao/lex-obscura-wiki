@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/urtor_de_calcita.md","permalink":"/wiki/criaturas/urtor-de-calcita/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/urtor_de_calcita.md","permalink":"/pt/criaturas/urtor-de-calcita/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Urtor de Calcita

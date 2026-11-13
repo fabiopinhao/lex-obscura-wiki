@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/verbum_arkhon_codex.md","permalink":"/wiki/conceitos/verbum-arkhon-codex/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/verbum_arkhon_codex.md","permalink":"/pt/conceitos/verbum-arkhon-codex/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Verbum Arkhon

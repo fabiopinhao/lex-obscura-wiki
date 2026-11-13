@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/dribbel_olgund.md","permalink":"/wiki/personagens/dribbel-olgund/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/dribbel_olgund.md","permalink":"/pt/personagens/dribbel-olgund/","lexLang":"pt-BR","lexAlt":"/personagens/dribbel-olgund/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Dribbel Olgund

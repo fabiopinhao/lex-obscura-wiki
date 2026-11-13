@@ -7,7 +7,8 @@ const allSettings = settings.ALL_NOTE_SETTINGS;
 module.exports = {
   eleventyComputed: {
     layout: (data) => {
-      if (data.tags.indexOf("gardenEntry") != -1) {
+      // Lex Obscura: both homes (English at /, Portuguese at /pt/) use the home layout.
+      if (data.tags.indexOf("gardenEntry") != -1 || data.lexHome === true) {
         return "layouts/index.njk";
       }
       // Lex Obscura: a spell is shown inside the page of its school; its own

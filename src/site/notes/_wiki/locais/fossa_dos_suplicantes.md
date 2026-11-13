@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/fossa_dos_suplicantes.md","permalink":"/wiki/locais/fossa-dos-suplicantes/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/fossa_dos_suplicantes.md","permalink":"/pt/locais/fossa-dos-suplicantes/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Fossa dos Suplicantes

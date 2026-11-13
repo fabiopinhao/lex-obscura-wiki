@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/ophemus.md","permalink":"/wiki/panteao/ophemus/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/ophemus.md","permalink":"/pt/panteao/ophemus/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ophemus

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/queda_de_myrgarde_e_fim_das_guerras_reinkardicas.md","permalink":"/wiki/eventos/queda-de-myrgarde-e-fim-das-guerras-reinkardicas/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/queda_de_myrgarde_e_fim_das_guerras_reinkardicas.md","permalink":"/pt/eventos/queda-de-myrgarde-e-fim-das-guerras-reinkardicas/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Queda de Myrgarde e Fim das Guerras Reinkárdicas

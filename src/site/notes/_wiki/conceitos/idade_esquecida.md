@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/idade_esquecida.md","permalink":"/wiki/conceitos/idade-esquecida/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/idade_esquecida.md","permalink":"/pt/conceitos/idade-esquecida/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Idade Esquecida

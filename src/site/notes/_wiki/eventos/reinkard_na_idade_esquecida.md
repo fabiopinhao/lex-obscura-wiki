@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/reinkard_na_idade_esquecida.md","permalink":"/wiki/eventos/reinkard-na-idade-esquecida/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/reinkard_na_idade_esquecida.md","permalink":"/pt/eventos/reinkard-na-idade-esquecida/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Reinkard na Idade Esquecida

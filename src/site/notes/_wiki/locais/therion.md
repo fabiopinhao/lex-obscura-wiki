@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/therion.md","permalink":"/wiki/locais/therion/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/therion.md","permalink":"/pt/locais/therion/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Therion

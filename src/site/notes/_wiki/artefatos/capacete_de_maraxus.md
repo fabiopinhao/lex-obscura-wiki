@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/capacete_de_maraxus.md","permalink":"/wiki/artefatos/capacete-de-maraxus/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/capacete_de_maraxus.md","permalink":"/pt/artefatos/capacete-de-maraxus/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Capacete de Maraxus

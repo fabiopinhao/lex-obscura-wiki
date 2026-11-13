@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/khelg_dur.md","permalink":"/wiki/organizacoes/khelg-dur/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/khelg_dur.md","permalink":"/pt/organizacoes/khelg-dur/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Khelg’Dur

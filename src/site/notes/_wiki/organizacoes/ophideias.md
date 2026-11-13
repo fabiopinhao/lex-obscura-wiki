@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/ophideias.md","permalink":"/wiki/organizacoes/ophideias/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/ophideias.md","permalink":"/pt/organizacoes/ophideias/","lexLang":"pt-BR","lexAlt":"/organizacoes/ophideias/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ophideias

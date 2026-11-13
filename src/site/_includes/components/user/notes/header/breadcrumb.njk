@@ -1,5 +1,5 @@
-<nav class="lex-crumbs" aria-label="Trilha de navegação">
-  <a href="/">Lex Obscura</a>
+<nav class="lex-crumbs" aria-label="{{ userComputed.ui.crumbs }}">
+  <a href="{{ userComputed.homeUrl }}">Lex Obscura</a>
   {%- if userComputed.section %}
   <span class="lex-crumbs-sep" aria-hidden="true">›</span>
   <a href="{{ userComputed.section.url }}">{{ userComputed.section.label }}</a>

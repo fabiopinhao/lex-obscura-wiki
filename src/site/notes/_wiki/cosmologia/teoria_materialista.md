@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/teoria_materialista.md","permalink":"/wiki/cosmologia/teoria-materialista/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/teoria_materialista.md","permalink":"/pt/cosmologia/teoria-materialista/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Teoria Materialista

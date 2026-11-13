@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/caco_de_oculus.md","permalink":"/wiki/artefatos/caco-de-oculus/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/caco_de_oculus.md","permalink":"/pt/artefatos/caco-de-oculus/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Caco de Oculus

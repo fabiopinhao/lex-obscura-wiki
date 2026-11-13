@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/maleabilidade.md","permalink":"/wiki/feiticos/maleabilidade/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/maleabilidade.md","permalink":"/pt/feiticos/maleabilidade/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Maleabilidade

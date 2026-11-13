@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/khar_tabreth.md","permalink":"/wiki/locais/khar-tabreth/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/khar_tabreth.md","permalink":"/pt/locais/khar-tabreth/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Khar’Tabreth

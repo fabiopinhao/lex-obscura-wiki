@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/codex_somniorum.md","permalink":"/wiki/artefatos/codex-somniorum/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/codex_somniorum.md","permalink":"/pt/artefatos/codex-somniorum/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Codex Somniorum

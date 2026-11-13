@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/tabula_umbrae_codex.md","permalink":"/wiki/conceitos/tabula-umbrae-codex/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/tabula_umbrae_codex.md","permalink":"/pt/conceitos/tabula-umbrae-codex/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Tabula Umbrae

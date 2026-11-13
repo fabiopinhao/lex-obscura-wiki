@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/pacto_vozrador_titas.md","permalink":"/wiki/eventos/pacto-vozrador-titas/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/pacto_vozrador_titas.md","permalink":"/pt/eventos/pacto-vozrador-titas/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Pacto Vozrador-Titãs por Thal’Serin

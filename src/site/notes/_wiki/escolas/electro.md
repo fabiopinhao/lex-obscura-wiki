@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/electro.md","permalink":"/wiki/escolas/electro/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/electro.md","permalink":"/pt/escolas/electro/","lexLang":"pt-BR","lexAlt":"/escolas/electro/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Electro

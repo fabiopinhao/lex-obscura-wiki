@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/alvarar.md","permalink":"/wiki/racas/alvarar/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/alvarar.md","permalink":"/pt/racas/alvarar/","lexLang":"pt-BR","lexAlt":"/racas/alvarar/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Álvarar

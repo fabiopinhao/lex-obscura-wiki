@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/cerco_de_myrgarde.md","permalink":"/wiki/eventos/cerco-de-myrgarde/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/cerco_de_myrgarde.md","permalink":"/pt/eventos/cerco-de-myrgarde/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Cerco de Myrgarde

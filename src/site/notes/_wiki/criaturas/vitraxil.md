@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/vitraxil.md","permalink":"/wiki/criaturas/vitraxil/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/vitraxil.md","permalink":"/pt/criaturas/vitraxil/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Vitraxil

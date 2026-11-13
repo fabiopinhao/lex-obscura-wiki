@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/milorsevogh_velshard.md","permalink":"/wiki/personagens/milorsevogh-velshard/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/milorsevogh_velshard.md","permalink":"/pt/personagens/milorsevogh-velshard/","lexLang":"pt-BR","lexAlt":"/personagens/milorsevogh-velshard/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Milorsevogh Velshard

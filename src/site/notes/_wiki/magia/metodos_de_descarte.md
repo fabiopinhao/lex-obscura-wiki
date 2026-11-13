@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/metodos_de_descarte.md","permalink":"/wiki/magia/metodos-de-descarte/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/metodos_de_descarte.md","permalink":"/pt/magia/metodos-de-descarte/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Métodos de Descarte

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/serpente_purpura.md","permalink":"/wiki/organizacoes/serpente-purpura/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/serpente_purpura.md","permalink":"/pt/organizacoes/serpente-purpura/","lexLang":"pt-BR","lexAlt":"/organizacoes/serpente-purpura/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Serpente Púrpura

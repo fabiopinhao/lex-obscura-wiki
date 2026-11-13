@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/manto_das_sombras.md","permalink":"/wiki/cosmologia/manto-das-sombras/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/manto_das_sombras.md","permalink":"/pt/cosmologia/manto-das-sombras/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Manto das Sombras

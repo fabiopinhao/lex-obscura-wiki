@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/necro.md","permalink":"/wiki/escolas/necro/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/necro.md","permalink":"/pt/escolas/necro/","lexLang":"pt-BR","lexAlt":"/escolas/necro/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Necro

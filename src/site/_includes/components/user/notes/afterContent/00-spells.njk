@@ -1,6 +1,14 @@
 {%- if userComputed.schoolSpells %}
 <section class="lex-spells">
-  <h2 id="feiticos">Feitiços</h2>
+  <h2 id="feiticos">{{ userComputed.ui.spells }}</h2>
+  {%- if userComputed.isEn %}
+  <p class="lex-untranslated">{{ userComputed.ui.spellsForeign }}</p>
+  <ul class="lex-spells-index">
+    {%- for s in userComputed.schoolSpells %}
+    <li><a href="{{ s.target }}" hreflang="pt-BR" lang="pt-BR">{{ s.title }}</a>{% if s.scaleLabel %} <span class="lex-spell-scale">{{ s.scaleLabel }}</span>{% endif %}</li>
+    {%- endfor %}
+  </ul>
+  {%- else %}
   <ul class="lex-spells-index">
     {%- for s in userComputed.schoolSpells %}
     <li><a href="#{{ s.anchor }}">{{ s.title }}</a>{% if s.scaleLabel %} <span class="lex-spell-scale">{{ s.scaleLabel }}</span>{% endif %}</li>
@@ -15,5 +23,6 @@
     {%- endif %}
   </article>
   {%- endfor %}
+  {%- endif %}
 </section>
 {%- endif %}

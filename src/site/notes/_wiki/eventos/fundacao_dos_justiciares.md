@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/fundacao_dos_justiciares.md","permalink":"/wiki/eventos/fundacao-dos-justiciares/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/fundacao_dos_justiciares.md","permalink":"/pt/eventos/fundacao-dos-justiciares/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Fundação dos Justiciares

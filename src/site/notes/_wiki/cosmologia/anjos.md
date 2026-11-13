@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/anjos.md","permalink":"/wiki/cosmologia/anjos/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/anjos.md","permalink":"/pt/cosmologia/anjos/","lexLang":"pt-BR","lexAlt":"/cosmologia/anjos/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Anjos

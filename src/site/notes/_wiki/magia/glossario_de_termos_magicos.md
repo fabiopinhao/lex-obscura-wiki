@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/glossario_de_termos_magicos.md","permalink":"/wiki/magia/glossario-de-termos-magicos/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/glossario_de_termos_magicos.md","permalink":"/pt/magia/glossario-de-termos-magicos/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Glossário de Termos Mágicos

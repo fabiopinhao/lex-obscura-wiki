@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/alianca_subterranea_evento.md","permalink":"/wiki/eventos/alianca-subterranea-evento/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/alianca_subterranea_evento.md","permalink":"/pt/eventos/alianca-subterranea-evento/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Aliança Subterrânea

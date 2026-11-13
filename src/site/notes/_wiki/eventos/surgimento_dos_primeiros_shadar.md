@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/surgimento_dos_primeiros_shadar.md","permalink":"/wiki/eventos/surgimento-dos-primeiros-shadar/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/surgimento_dos_primeiros_shadar.md","permalink":"/pt/eventos/surgimento-dos-primeiros-shadar/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Surgimento dos primeiros Shadar

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/justiciares.md","permalink":"/wiki/organizacoes/justiciares/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/justiciares.md","permalink":"/pt/organizacoes/justiciares/","lexLang":"pt-BR","lexAlt":"/organizacoes/justiciares/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Justiciares

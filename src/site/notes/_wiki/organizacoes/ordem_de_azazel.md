@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/ordem_de_azazel.md","permalink":"/wiki/organizacoes/ordem-de-azazel/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/ordem_de_azazel.md","permalink":"/pt/organizacoes/ordem-de-azazel/","lexLang":"pt-BR","lexAlt":"/organizacoes/ordem-de-azazel/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ordem de Azazel

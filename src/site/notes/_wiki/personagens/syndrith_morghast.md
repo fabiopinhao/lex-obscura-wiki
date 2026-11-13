@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/syndrith_morghast.md","permalink":"/wiki/personagens/syndrith-morghast/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/syndrith_morghast.md","permalink":"/pt/personagens/syndrith-morghast/","lexLang":"pt-BR","lexAlt":"/personagens/syndrith-morghast/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Syndrith Morghast

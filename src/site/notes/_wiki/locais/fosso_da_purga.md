@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/fosso_da_purga.md","permalink":"/wiki/locais/fosso-da-purga/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/fosso_da_purga.md","permalink":"/pt/locais/fosso-da-purga/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Fosso da Purga

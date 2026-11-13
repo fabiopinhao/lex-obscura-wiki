@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/deteccao_de_alinhamento.md","permalink":"/wiki/magia/deteccao-de-alinhamento/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/deteccao_de_alinhamento.md","permalink":"/pt/magia/deteccao-de-alinhamento/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Detecção de Alinhamento

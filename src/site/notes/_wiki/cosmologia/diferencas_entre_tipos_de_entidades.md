@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/diferencas_entre_tipos_de_entidades.md","permalink":"/wiki/cosmologia/diferencas-entre-tipos-de-entidades/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/diferencas_entre_tipos_de_entidades.md","permalink":"/pt/cosmologia/diferencas-entre-tipos-de-entidades/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Diferenças Entre Tipos de Entidades

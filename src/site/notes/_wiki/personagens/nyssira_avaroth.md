@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/nyssira_avaroth.md","permalink":"/wiki/personagens/nyssira-avaroth/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/nyssira_avaroth.md","permalink":"/pt/personagens/nyssira-avaroth/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Nyssira Avaroth

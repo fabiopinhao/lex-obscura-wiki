@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/tratado_de_wijmarv.md","permalink":"/wiki/artefatos/tratado-de-wijmarv/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/tratado_de_wijmarv.md","permalink":"/pt/artefatos/tratado-de-wijmarv/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Tratado de Wijmarv

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/hierarquia_de_poder_magico.md","permalink":"/wiki/magia/hierarquia-de-poder-magico/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/hierarquia_de_poder_magico.md","permalink":"/pt/magia/hierarquia-de-poder-magico/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Hierarquia de Poder Mágico

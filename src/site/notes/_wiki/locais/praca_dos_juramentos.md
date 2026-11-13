@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/praca_dos_juramentos.md","permalink":"/wiki/locais/praca-dos-juramentos/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/praca_dos_juramentos.md","permalink":"/pt/locais/praca-dos-juramentos/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Praça dos Juramentos

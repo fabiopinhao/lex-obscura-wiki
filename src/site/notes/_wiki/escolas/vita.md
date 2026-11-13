@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/vita.md","permalink":"/wiki/escolas/vita/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/vita.md","permalink":"/pt/escolas/vita/","lexLang":"pt-BR","lexAlt":"/escolas/vita/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Vita

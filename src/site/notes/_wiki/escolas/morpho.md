@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/morpho.md","permalink":"/wiki/escolas/morpho/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/morpho.md","permalink":"/pt/escolas/morpho/","lexLang":"pt-BR","lexAlt":"/escolas/morpho/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Morpho

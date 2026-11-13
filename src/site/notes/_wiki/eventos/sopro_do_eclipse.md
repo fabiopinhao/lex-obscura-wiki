@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/sopro_do_eclipse.md","permalink":"/wiki/eventos/sopro-do-eclipse/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/sopro_do_eclipse.md","permalink":"/pt/eventos/sopro-do-eclipse/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Sopro do Eclipse

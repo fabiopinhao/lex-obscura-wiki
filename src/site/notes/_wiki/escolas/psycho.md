@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/psycho.md","permalink":"/wiki/escolas/psycho/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/psycho.md","permalink":"/pt/escolas/psycho/","lexLang":"pt-BR","lexAlt":"/escolas/psycho/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Psycho

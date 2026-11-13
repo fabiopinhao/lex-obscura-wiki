@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/proibicao_do_rito_de_ossarium.md","permalink":"/wiki/eventos/proibicao-do-rito-de-ossarium/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/proibicao_do_rito_de_ossarium.md","permalink":"/pt/eventos/proibicao-do-rito-de-ossarium/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Proibição do Rito de Ossárium

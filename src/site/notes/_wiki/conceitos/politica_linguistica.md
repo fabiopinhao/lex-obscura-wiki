@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/politica_linguistica.md","permalink":"/wiki/conceitos/politica-linguistica/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/politica_linguistica.md","permalink":"/pt/conceitos/politica-linguistica/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Política Linguística do Império Sombrio

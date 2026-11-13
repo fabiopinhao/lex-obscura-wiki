@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/teru.md","permalink":"/wiki/magia/teru/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/teru.md","permalink":"/pt/magia/teru/","lexLang":"pt-BR","lexAlt":"/magia/teru/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Teru

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/coletoria.md","permalink":"/wiki/organizacoes/coletoria/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/coletoria.md","permalink":"/pt/organizacoes/coletoria/","lexLang":"pt-BR","lexAlt":"/organizacoes/coletoria/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Coletoria

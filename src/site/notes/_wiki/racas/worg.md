@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/worg.md","permalink":"/wiki/racas/worg/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/worg.md","permalink":"/pt/racas/worg/","lexLang":"pt-BR","lexAlt":"/racas/worg/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Worg

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/estatueta_de_vozrador.md","permalink":"/wiki/artefatos/estatueta-de-vozrador/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/estatueta_de_vozrador.md","permalink":"/pt/artefatos/estatueta-de-vozrador/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Estatueta de Vozrador

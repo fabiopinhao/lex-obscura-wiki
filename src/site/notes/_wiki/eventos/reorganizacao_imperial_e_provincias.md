@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/reorganizacao_imperial_e_provincias.md","permalink":"/wiki/eventos/reorganizacao-imperial-e-provincias/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/reorganizacao_imperial_e_provincias.md","permalink":"/pt/eventos/reorganizacao-imperial-e-provincias/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Reorganização Imperial e Províncias

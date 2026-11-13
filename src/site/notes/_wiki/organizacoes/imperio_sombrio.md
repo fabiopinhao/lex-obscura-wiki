@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/imperio_sombrio.md","permalink":"/wiki/organizacoes/imperio-sombrio/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/imperio_sombrio.md","permalink":"/pt/organizacoes/imperio-sombrio/","lexLang":"pt-BR","lexAlt":"/organizacoes/imperio-sombrio/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Império Sombrio

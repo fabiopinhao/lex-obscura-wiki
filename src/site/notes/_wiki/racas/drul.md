@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/drul.md","permalink":"/wiki/racas/drul/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/drul.md","permalink":"/pt/racas/drul/","lexLang":"pt-BR","lexAlt":"/racas/drul/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Drul

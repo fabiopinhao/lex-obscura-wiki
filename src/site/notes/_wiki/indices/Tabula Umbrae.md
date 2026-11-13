@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/indices/Tabula Umbrae.md","permalink":"/wiki/indices/tabula-umbrae/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/indices/Tabula Umbrae.md","permalink":"/pt/indices/tabula-umbrae/","lexLang":"pt-BR","lexAlt":"/indices/tabula-umbrae/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Tabula Umbrae

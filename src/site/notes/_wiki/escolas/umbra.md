@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/umbra.md","permalink":"/wiki/escolas/umbra/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/umbra.md","permalink":"/pt/escolas/umbra/","lexLang":"pt-BR","lexAlt":"/escolas/umbra/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Umbra

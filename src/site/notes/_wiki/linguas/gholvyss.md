@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/gholvyss.md","permalink":"/wiki/linguas/gholvyss/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/gholvyss.md","permalink":"/pt/linguas/gholvyss/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Gholvyss

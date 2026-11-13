@@ -37,7 +37,7 @@ function userEleventySetup(eleventyConfig) {
     const out = (this.page && this.page.outputPath) || "";
     if (!out.endsWith(".html")) return content;
     const { byUrl } = spellIndex();
-    return content.replace(/href="(\/wiki\/feiticos\/[^"#]+\/)"/g, (m, url) =>
+    return content.replace(/href="(\/(?:wiki|pt)\/feiticos\/[^"#]+\/)"/g, (m, url) =>
       byUrl[url] ? `href="${byUrl[url]}"` : m
     );
   });

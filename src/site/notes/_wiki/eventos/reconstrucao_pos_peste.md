@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/reconstrucao_pos_peste.md","permalink":"/wiki/eventos/reconstrucao-pos-peste/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/reconstrucao_pos_peste.md","permalink":"/pt/eventos/reconstrucao-pos-peste/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Reconstrução e Ascensão de Myrgarde

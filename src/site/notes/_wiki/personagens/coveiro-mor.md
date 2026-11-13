@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/coveiro-mor.md","permalink":"/wiki/personagens/coveiro-mor/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/coveiro-mor.md","permalink":"/pt/personagens/coveiro-mor/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Coveiro-mor

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/gnosi.md","permalink":"/wiki/escolas/gnosi/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/gnosi.md","permalink":"/pt/escolas/gnosi/","lexLang":"pt-BR","lexAlt":"/escolas/gnosi/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Gnosi

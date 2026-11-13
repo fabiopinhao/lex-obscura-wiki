@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/templo_de_velmorain.md","permalink":"/wiki/locais/templo-de-velmorain/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/templo_de_velmorain.md","permalink":"/pt/locais/templo-de-velmorain/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Templo de Velmorain

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/xarn_zareth.md","permalink":"/wiki/locais/xarn-zareth/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/xarn_zareth.md","permalink":"/pt/locais/xarn-zareth/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Xarn’Zareth

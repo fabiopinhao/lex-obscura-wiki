@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/templarios.md","permalink":"/wiki/organizacoes/templarios/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/templarios.md","permalink":"/pt/organizacoes/templarios/","lexLang":"pt-BR","lexAlt":"/organizacoes/templarios/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Templários

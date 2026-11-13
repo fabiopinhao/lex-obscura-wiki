@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/hugur_comedor-de-ferro.md","permalink":"/wiki/personagens/hugur-comedor-de-ferro/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/hugur_comedor-de-ferro.md","permalink":"/pt/personagens/hugur-comedor-de-ferro/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Hugur Comedor-de-Ferro

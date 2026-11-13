@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/pyro.md","permalink":"/wiki/escolas/pyro/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/pyro.md","permalink":"/pt/escolas/pyro/","lexLang":"pt-BR","lexAlt":"/escolas/pyro/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Pyro

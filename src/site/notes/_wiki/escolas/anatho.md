@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/anatho.md","permalink":"/wiki/escolas/anatho/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/anatho.md","permalink":"/pt/escolas/anatho/","lexLang":"pt-BR","lexAlt":"/escolas/anatho/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Anatho

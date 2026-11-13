@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/varnakiano.md","permalink":"/wiki/racas/varnakiano/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/varnakiano.md","permalink":"/pt/racas/varnakiano/","lexLang":"pt-BR","lexAlt":"/racas/varnakiano/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Varnakiano

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/sszaflyn_t_orghvyss.md","permalink":"/wiki/personagens/sszaflyn-t-orghvyss/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/sszaflyn_t_orghvyss.md","permalink":"/pt/personagens/sszaflyn-t-orghvyss/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Sszaflyn T’orghvyss

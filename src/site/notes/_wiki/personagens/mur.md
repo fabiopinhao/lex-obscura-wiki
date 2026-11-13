@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/mur.md","permalink":"/wiki/personagens/mur/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/mur.md","permalink":"/pt/personagens/mur/","lexLang":"pt-BR","lexAlt":"/personagens/mur/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Mur

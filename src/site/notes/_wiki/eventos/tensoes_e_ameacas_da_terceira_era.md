@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/tensoes_e_ameacas_da_terceira_era.md","permalink":"/wiki/eventos/tensoes-e-ameacas-da-terceira-era/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/tensoes_e_ameacas_da_terceira_era.md","permalink":"/pt/eventos/tensoes-e-ameacas-da-terceira-era/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Tensões e Ameaças da Terceira Era

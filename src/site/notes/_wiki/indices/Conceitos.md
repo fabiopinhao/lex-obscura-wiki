@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/indices/Conceitos.md","permalink":"/wiki/indices/conceitos/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/indices/Conceitos.md","permalink":"/pt/indices/conceitos/","lexLang":"pt-BR","lexAlt":"/indices/conceitos/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Conceitos

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/draconideo.md","permalink":"/wiki/racas/draconideo/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/draconideo.md","permalink":"/pt/racas/draconideo/","lexLang":"pt-BR","lexAlt":"/racas/draconideo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Draconídeo

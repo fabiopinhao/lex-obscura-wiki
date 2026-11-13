@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/tradicao_de_sirana.md","permalink":"/wiki/organizacoes/tradicao-de-sirana/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/tradicao_de_sirana.md","permalink":"/pt/organizacoes/tradicao-de-sirana/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Tradição de Sirana

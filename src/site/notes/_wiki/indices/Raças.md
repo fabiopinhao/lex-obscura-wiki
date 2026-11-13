@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/indices/Raças.md","permalink":"/wiki/indices/racas/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/indices/Raças.md","permalink":"/pt/indices/racas/","lexLang":"pt-BR","lexAlt":"/indices/racas/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Raças

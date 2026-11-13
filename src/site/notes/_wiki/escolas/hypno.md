@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/hypno.md","permalink":"/wiki/escolas/hypno/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/hypno.md","permalink":"/pt/escolas/hypno/","lexLang":"pt-BR","lexAlt":"/escolas/hypno/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Hypno

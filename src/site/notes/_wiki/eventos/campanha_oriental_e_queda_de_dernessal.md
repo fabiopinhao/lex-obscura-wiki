@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/campanha_oriental_e_queda_de_dernessal.md","permalink":"/wiki/eventos/campanha-oriental-e-queda-de-dernessal/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/campanha_oriental_e_queda_de_dernessal.md","permalink":"/pt/eventos/campanha-oriental-e-queda-de-dernessal/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Campanha Oriental e Queda de Dernessal

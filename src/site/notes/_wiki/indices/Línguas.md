@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/indices/Línguas.md","permalink":"/wiki/indices/linguas/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/indices/Línguas.md","permalink":"/pt/indices/linguas/","lexLang":"pt-BR","lexAlt":"/indices/linguas/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Línguas

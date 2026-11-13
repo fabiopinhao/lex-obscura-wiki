@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/rupto.md","permalink":"/wiki/escolas/rupto/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/rupto.md","permalink":"/pt/escolas/rupto/","lexLang":"pt-BR","lexAlt":"/escolas/rupto/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Rupto

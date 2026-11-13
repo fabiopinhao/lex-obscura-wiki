@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/luto_de_nyssis.md","permalink":"/wiki/artefatos/luto-de-nyssis/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/luto_de_nyssis.md","permalink":"/pt/artefatos/luto-de-nyssis/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Luto de Nyssis

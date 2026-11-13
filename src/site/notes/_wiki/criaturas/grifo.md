@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/grifo.md","permalink":"/wiki/criaturas/grifo/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/grifo.md","permalink":"/pt/criaturas/grifo/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Grifo

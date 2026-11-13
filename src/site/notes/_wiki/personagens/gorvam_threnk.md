@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/gorvam_threnk.md","permalink":"/wiki/personagens/gorvam-threnk/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/gorvam_threnk.md","permalink":"/pt/personagens/gorvam-threnk/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Gorvam Threnk

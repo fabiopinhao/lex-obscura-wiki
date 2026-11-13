@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/salvaguarda.md","permalink":"/wiki/feiticos/salvaguarda/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/salvaguarda.md","permalink":"/pt/feiticos/salvaguarda/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Salvaguarda

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/consequencias_do_descarte.md","permalink":"/wiki/magia/consequencias-do-descarte/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/consequencias_do_descarte.md","permalink":"/pt/magia/consequencias-do-descarte/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Consequências do Descarte

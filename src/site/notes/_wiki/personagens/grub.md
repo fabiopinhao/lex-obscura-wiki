@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/grub.md","permalink":"/wiki/personagens/grub/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/grub.md","permalink":"/pt/personagens/grub/","lexLang":"pt-BR","lexAlt":"/personagens/grub/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Grub

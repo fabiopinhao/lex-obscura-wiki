@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/armadura_templaria_de_orum.md","permalink":"/wiki/artefatos/armadura-templaria-de-orum/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/armadura_templaria_de_orum.md","permalink":"/pt/artefatos/armadura-templaria-de-orum/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Armadura Templária de Orum

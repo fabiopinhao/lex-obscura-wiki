@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/nomos.md","permalink":"/wiki/escolas/nomos/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/nomos.md","permalink":"/pt/escolas/nomos/","lexLang":"pt-BR","lexAlt":"/escolas/nomos/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Nomos

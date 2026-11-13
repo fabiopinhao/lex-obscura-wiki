@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/enfraquecimento.md","permalink":"/wiki/feiticos/enfraquecimento/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/enfraquecimento.md","permalink":"/pt/feiticos/enfraquecimento/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Enfraquecimento

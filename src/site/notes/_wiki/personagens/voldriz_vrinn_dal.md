@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/voldriz_vrinn_dal.md","permalink":"/wiki/personagens/voldriz-vrinn-dal/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/voldriz_vrinn_dal.md","permalink":"/pt/personagens/voldriz-vrinn-dal/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Voldriz Vrinn’dal

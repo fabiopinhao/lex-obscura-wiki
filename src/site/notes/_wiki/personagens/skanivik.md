@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/skanivik.md","permalink":"/wiki/personagens/skanivik/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/skanivik.md","permalink":"/pt/personagens/skanivik/","lexLang":"pt-BR","lexAlt":"/personagens/skanivik/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Skanivik

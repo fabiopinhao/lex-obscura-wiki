@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/zilvra_xund_ala.md","permalink":"/wiki/personagens/zilvra-xund-ala/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/zilvra_xund_ala.md","permalink":"/pt/personagens/zilvra-xund-ala/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Zilvra Xund’ala

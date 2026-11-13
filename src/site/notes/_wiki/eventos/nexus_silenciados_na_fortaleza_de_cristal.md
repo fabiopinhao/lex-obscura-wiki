@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/nexus_silenciados_na_fortaleza_de_cristal.md","permalink":"/wiki/eventos/nexus-silenciados-na-fortaleza-de-cristal/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/nexus_silenciados_na_fortaleza_de_cristal.md","permalink":"/pt/eventos/nexus-silenciados-na-fortaleza-de-cristal/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Nexus Silenciados na Fortaleza de Cristal

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/cryo.md","permalink":"/wiki/escolas/cryo/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/cryo.md","permalink":"/pt/escolas/cryo/","lexLang":"pt-BR","lexAlt":"/escolas/cryo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Cryo

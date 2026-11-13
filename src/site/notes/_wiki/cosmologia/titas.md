@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/titas.md","permalink":"/wiki/cosmologia/titas/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/titas.md","permalink":"/pt/cosmologia/titas/","lexLang":"pt-BR","lexAlt":"/cosmologia/titas/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Titãs

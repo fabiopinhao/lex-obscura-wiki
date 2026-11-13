@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/shadar.md","permalink":"/wiki/racas/shadar/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/shadar.md","permalink":"/pt/racas/shadar/","lexLang":"pt-BR","lexAlt":"/racas/shadar/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Shadar

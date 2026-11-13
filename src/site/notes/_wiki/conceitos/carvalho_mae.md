@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/carvalho_mae.md","permalink":"/wiki/conceitos/carvalho-mae/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/carvalho_mae.md","permalink":"/pt/conceitos/carvalho-mae/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Carvalho-Mãe

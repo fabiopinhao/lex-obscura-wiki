@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/circulo_de_sutura.md","permalink":"/wiki/magia/circulo-de-sutura/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/circulo_de_sutura.md","permalink":"/pt/magia/circulo-de-sutura/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Círculo de Sutura

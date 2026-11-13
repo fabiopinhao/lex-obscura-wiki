@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/abjuro.md","permalink":"/wiki/escolas/abjuro/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/abjuro.md","permalink":"/pt/escolas/abjuro/","lexLang":"pt-BR","lexAlt":"/escolas/abjuro/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Abjuro

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/jospin_valheorn.md","permalink":"/wiki/personagens/jospin-valheorn/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/jospin_valheorn.md","permalink":"/pt/personagens/jospin-valheorn/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Jospin Valheorn

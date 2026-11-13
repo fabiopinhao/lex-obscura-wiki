@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/tibaut.md","permalink":"/wiki/personagens/tibaut/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/tibaut.md","permalink":"/pt/personagens/tibaut/","lexLang":"pt-BR","lexAlt":"/personagens/tibaut/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Tibaut

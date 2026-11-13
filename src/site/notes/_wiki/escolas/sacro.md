@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/sacro.md","permalink":"/wiki/escolas/sacro/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/sacro.md","permalink":"/pt/escolas/sacro/","lexLang":"pt-BR","lexAlt":"/escolas/sacro/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Sacro

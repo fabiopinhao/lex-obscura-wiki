@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/aegis.md","permalink":"/wiki/escolas/aegis/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/aegis.md","permalink":"/pt/escolas/aegis/","lexLang":"pt-BR","lexAlt":"/escolas/aegis/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Aegis

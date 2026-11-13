@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/hydro.md","permalink":"/wiki/escolas/hydro/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/hydro.md","permalink":"/pt/escolas/hydro/","lexLang":"pt-BR","lexAlt":"/escolas/hydro/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Hydro

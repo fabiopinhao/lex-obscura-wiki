@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/belev-hesnek.md","permalink":"/wiki/personagens/belev-hesnek/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/belev-hesnek.md","permalink":"/pt/personagens/belev-hesnek/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Belev-Hesnek

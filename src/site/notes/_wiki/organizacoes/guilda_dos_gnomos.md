@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/guilda_dos_gnomos.md","permalink":"/wiki/organizacoes/guilda-dos-gnomos/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/guilda_dos_gnomos.md","permalink":"/pt/organizacoes/guilda-dos-gnomos/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Guilda dos Gnomos

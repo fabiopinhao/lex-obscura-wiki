@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/chrono.md","permalink":"/wiki/escolas/chrono/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/chrono.md","permalink":"/pt/escolas/chrono/","lexLang":"pt-BR","lexAlt":"/escolas/chrono/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Chrono

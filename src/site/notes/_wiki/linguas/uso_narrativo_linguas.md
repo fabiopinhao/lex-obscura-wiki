@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/uso_narrativo_linguas.md","permalink":"/wiki/linguas/uso-narrativo-linguas/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/uso_narrativo_linguas.md","permalink":"/pt/linguas/uso-narrativo-linguas/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # O Uso das Línguas

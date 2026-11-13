@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/indices/Personagens.md","permalink":"/wiki/indices/personagens/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/indices/Personagens.md","permalink":"/pt/indices/personagens/","lexLang":"pt-BR","lexAlt":"/indices/personagens/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Personagens

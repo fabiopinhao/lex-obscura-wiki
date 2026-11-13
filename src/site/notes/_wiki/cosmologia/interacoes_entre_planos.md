@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/interacoes_entre_planos.md","permalink":"/wiki/cosmologia/interacoes-entre-planos/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/interacoes_entre_planos.md","permalink":"/pt/cosmologia/interacoes-entre-planos/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Interações Entre Planos

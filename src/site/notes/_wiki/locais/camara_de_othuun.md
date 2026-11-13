@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/camara_de_othuun.md","permalink":"/wiki/locais/camara-de-othuun/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/camara_de_othuun.md","permalink":"/pt/locais/camara-de-othuun/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Câmara de Othuun

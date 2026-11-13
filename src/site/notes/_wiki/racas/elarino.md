@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/elarino.md","permalink":"/wiki/racas/elarino/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/elarino.md","permalink":"/pt/racas/elarino/","lexLang":"pt-BR","lexAlt":"/racas/elarino/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Elarino

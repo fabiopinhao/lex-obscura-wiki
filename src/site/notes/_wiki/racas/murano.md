@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/murano.md","permalink":"/wiki/racas/murano/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/murano.md","permalink":"/pt/racas/murano/","lexLang":"pt-BR","lexAlt":"/racas/murano/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Murano

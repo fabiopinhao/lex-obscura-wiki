@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/nidzina_avaroth.md","permalink":"/wiki/personagens/nidzina-avaroth/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/nidzina_avaroth.md","permalink":"/pt/personagens/nidzina-avaroth/","lexLang":"pt-BR","lexAlt":"/personagens/nidzina-avaroth/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Nidzina Avaroth

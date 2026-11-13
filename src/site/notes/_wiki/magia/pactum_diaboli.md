@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/pactum_diaboli.md","permalink":"/wiki/magia/pactum-diaboli/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/pactum_diaboli.md","permalink":"/pt/magia/pactum-diaboli/","lexLang":"pt-BR","lexAlt":"/magia/pactum-diaboli/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Pactum Diaboli

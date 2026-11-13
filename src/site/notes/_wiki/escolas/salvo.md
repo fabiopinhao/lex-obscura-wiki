@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/salvo.md","permalink":"/wiki/escolas/salvo/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/salvo.md","permalink":"/pt/escolas/salvo/","lexLang":"pt-BR","lexAlt":"/escolas/salvo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Salvo

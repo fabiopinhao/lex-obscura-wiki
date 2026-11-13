@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/politica_imperial_de_descarte.md","permalink":"/wiki/magia/politica-imperial-de-descarte/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/politica_imperial_de_descarte.md","permalink":"/pt/magia/politica-imperial-de-descarte/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Política Imperial de Descarte

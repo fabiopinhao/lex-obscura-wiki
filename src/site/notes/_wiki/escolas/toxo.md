@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/toxo.md","permalink":"/wiki/escolas/toxo/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/toxo.md","permalink":"/pt/escolas/toxo/","lexLang":"pt-BR","lexAlt":"/escolas/toxo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Toxo

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/karashim.md","permalink":"/wiki/racas/karashim/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/karashim.md","permalink":"/pt/racas/karashim/","lexLang":"pt-BR","lexAlt":"/racas/karashim/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Karashim

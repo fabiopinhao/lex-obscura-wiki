@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/a_viuva_de_valdris.md","permalink":"/wiki/conceitos/a-viuva-de-valdris/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/a_viuva_de_valdris.md","permalink":"/pt/conceitos/a-viuva-de-valdris/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # A Viúva de Valdris

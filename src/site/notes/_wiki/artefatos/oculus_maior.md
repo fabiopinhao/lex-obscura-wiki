@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/oculus_maior.md","permalink":"/wiki/artefatos/oculus-maior/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/oculus_maior.md","permalink":"/pt/artefatos/oculus-maior/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Oculus Maior

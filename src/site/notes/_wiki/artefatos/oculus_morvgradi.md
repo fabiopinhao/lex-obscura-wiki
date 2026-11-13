@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/oculus_morvgradi.md","permalink":"/wiki/artefatos/oculus-morvgradi/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/oculus_morvgradi.md","permalink":"/pt/artefatos/oculus-morvgradi/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Oculus Morvgradi

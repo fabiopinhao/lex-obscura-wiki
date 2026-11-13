@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/guerras_reinkardicas_inicio.md","permalink":"/wiki/eventos/guerras-reinkardicas-inicio/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/guerras_reinkardicas_inicio.md","permalink":"/pt/eventos/guerras-reinkardicas-inicio/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Guerras Reinkárdicas (início)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/eixo_de_drenn.md","permalink":"/wiki/locais/eixo-de-drenn/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/eixo_de_drenn.md","permalink":"/pt/locais/eixo-de-drenn/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Eixo de Drenn

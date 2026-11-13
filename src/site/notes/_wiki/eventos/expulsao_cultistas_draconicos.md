@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/expulsao_cultistas_draconicos.md","permalink":"/wiki/eventos/expulsao-cultistas-draconicos/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/expulsao_cultistas_draconicos.md","permalink":"/pt/eventos/expulsao-cultistas-draconicos/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Expulsão dos Cultistas Dracônicos (Origem Varnakiana)

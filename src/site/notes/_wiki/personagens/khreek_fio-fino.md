@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/khreek_fio-fino.md","permalink":"/wiki/personagens/khreek-fio-fino/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/khreek_fio-fino.md","permalink":"/pt/personagens/khreek-fio-fino/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Khreek Fio-Fino

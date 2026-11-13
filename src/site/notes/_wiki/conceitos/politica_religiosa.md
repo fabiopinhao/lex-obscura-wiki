@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/politica_religiosa.md","permalink":"/wiki/conceitos/politica-religiosa/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/politica_religiosa.md","permalink":"/pt/conceitos/politica-religiosa/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Política Religiosa

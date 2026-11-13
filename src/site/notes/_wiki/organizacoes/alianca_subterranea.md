@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/alianca_subterranea.md","permalink":"/wiki/organizacoes/alianca-subterranea/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/alianca_subterranea.md","permalink":"/pt/organizacoes/alianca-subterranea/","lexLang":"pt-BR","lexAlt":"/organizacoes/alianca-subterranea/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Aliança Subterrânea

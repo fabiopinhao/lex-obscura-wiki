@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/vrokhmakh.md","permalink":"/wiki/locais/vrokhmakh/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/vrokhmakh.md","permalink":"/pt/locais/vrokhmakh/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Vrokhmakh

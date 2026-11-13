@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/gul_vakresh.md","permalink":"/wiki/panteao/gul-vakresh/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/gul_vakresh.md","permalink":"/pt/panteao/gul-vakresh/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Gul’Vakresh

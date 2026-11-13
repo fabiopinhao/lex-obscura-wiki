@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/cinereta.md","permalink":"/wiki/criaturas/cinereta/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/cinereta.md","permalink":"/pt/criaturas/cinereta/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Cinereta

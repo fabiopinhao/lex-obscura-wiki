@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/ciravok_tharumen.md","permalink":"/wiki/personagens/ciravok-tharumen/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/ciravok_tharumen.md","permalink":"/pt/personagens/ciravok-tharumen/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ciravok Tharumen

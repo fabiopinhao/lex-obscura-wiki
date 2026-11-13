@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/urano.md","permalink":"/wiki/escolas/urano/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/urano.md","permalink":"/pt/escolas/urano/","lexLang":"pt-BR","lexAlt":"/escolas/urano/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Urano

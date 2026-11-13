@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/grilhoes_de_contencao_arcana.md","permalink":"/wiki/artefatos/grilhoes-de-contencao-arcana/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/grilhoes_de_contencao_arcana.md","permalink":"/pt/artefatos/grilhoes-de-contencao-arcana/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Grilhões de Contenção Arcana

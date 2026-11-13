@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/algemas_de_supressao_arcana.md","permalink":"/wiki/artefatos/algemas-de-supressao-arcana/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/algemas_de_supressao_arcana.md","permalink":"/pt/artefatos/algemas-de-supressao-arcana/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Algemas de Supressão Arcana

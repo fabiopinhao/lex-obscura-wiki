@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/manifestacoes_divinas.md","permalink":"/wiki/cosmologia/manifestacoes-divinas/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/manifestacoes_divinas.md","permalink":"/pt/cosmologia/manifestacoes-divinas/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Manifestações Divinas

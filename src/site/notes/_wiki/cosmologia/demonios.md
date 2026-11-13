@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/demonios.md","permalink":"/wiki/cosmologia/demonios/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/demonios.md","permalink":"/pt/cosmologia/demonios/","lexLang":"pt-BR","lexAlt":"/cosmologia/demonios/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Demônios

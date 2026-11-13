@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/fandegarron.md","permalink":"/wiki/personagens/fandegarron/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/fandegarron.md","permalink":"/pt/personagens/fandegarron/","lexLang":"pt-BR","lexAlt":"/personagens/fandegarron/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Fandegarrón

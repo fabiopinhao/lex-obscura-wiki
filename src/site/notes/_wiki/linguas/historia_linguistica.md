@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/historia_linguistica.md","permalink":"/wiki/linguas/historia-linguistica/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/historia_linguistica.md","permalink":"/pt/linguas/historia-linguistica/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # História Linguística de Reinkard

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/efigie_de_arothistar.md","permalink":"/wiki/artefatos/efigie-de-arothistar/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/efigie_de_arothistar.md","permalink":"/pt/artefatos/efigie-de-arothistar/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Efígie de Arothistar

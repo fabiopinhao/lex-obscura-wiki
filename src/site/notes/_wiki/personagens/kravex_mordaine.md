@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/kravex_mordaine.md","permalink":"/wiki/personagens/kravex-mordaine/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/kravex_mordaine.md","permalink":"/pt/personagens/kravex-mordaine/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Kravex Mordaine

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/casa_morghast.md","permalink":"/wiki/organizacoes/casa-morghast/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/casa_morghast.md","permalink":"/pt/organizacoes/casa-morghast/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Casa Morghast

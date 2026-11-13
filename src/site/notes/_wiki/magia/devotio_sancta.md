@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/devotio_sancta.md","permalink":"/wiki/magia/devotio-sancta/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/devotio_sancta.md","permalink":"/pt/magia/devotio-sancta/","lexLang":"pt-BR","lexAlt":"/magia/devotio-sancta/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Devotio Sancta

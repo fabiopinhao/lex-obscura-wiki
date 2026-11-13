@@ -1,0 +1,12 @@
+{%- if userComputed.bilingual %}
+<nav class="lex-lang" aria-label="{{ userComputed.ui.langLabel }}">
+  {%- for l in userComputed.langs %}
+  {%- if l.current %}<span class="is-current" lang="{{ l.code }}" aria-current="true">{{ l.label }}</span>
+  {%- elif l.url %}<a href="{{ l.url }}" hreflang="{{ l.code }}" lang="{{ l.code }}">{{ l.label }}</a>
+  {%- else %}<span class="is-missing" lang="{{ l.code }}">{{ l.label }}</span>{% endif %}
+  {%- endfor %}
+</nav>
+{%- endif %}
+{%- if userComputed.untranslated %}
+<p class="lex-untranslated" lang="en">This entry has not been translated into English yet. The text below is the Portuguese original.</p>
+{%- endif %}

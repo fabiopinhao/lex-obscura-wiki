@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/migracao_shadar_ao_planalto.md","permalink":"/wiki/eventos/migracao-shadar-ao-planalto/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/migracao_shadar_ao_planalto.md","permalink":"/pt/eventos/migracao-shadar-ao-planalto/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Migração Shadar ao Planalto e Contato com Druls

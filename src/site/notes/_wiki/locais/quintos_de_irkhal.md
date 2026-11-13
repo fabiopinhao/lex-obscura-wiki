@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/quintos_de_irkhal.md","permalink":"/wiki/locais/quintos-de-irkhal/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/quintos_de_irkhal.md","permalink":"/pt/locais/quintos-de-irkhal/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Quintos de Irkhal

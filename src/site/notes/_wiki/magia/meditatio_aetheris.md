@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/meditatio_aetheris.md","permalink":"/wiki/magia/meditatio-aetheris/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/meditatio_aetheris.md","permalink":"/pt/magia/meditatio-aetheris/","lexLang":"pt-BR","lexAlt":"/magia/meditatio-aetheris/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Meditatio Aetheris

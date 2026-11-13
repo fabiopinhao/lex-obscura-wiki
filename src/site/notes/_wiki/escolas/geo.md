@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/geo.md","permalink":"/wiki/escolas/geo/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/geo.md","permalink":"/pt/escolas/geo/","lexLang":"pt-BR","lexAlt":"/escolas/geo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Geo

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/pindoriar.md","permalink":"/wiki/racas/pindoriar/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/pindoriar.md","permalink":"/pt/racas/pindoriar/","lexLang":"pt-BR","lexAlt":"/racas/pindoriar/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Pindoriar

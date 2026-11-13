@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/terror.md","permalink":"/wiki/feiticos/terror/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/terror.md","permalink":"/pt/feiticos/terror/","lexLang":"pt-BR","lexAlt":"/feiticos/terror/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Terror

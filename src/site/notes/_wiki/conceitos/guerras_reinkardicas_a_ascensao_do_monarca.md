@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/guerras_reinkardicas_a_ascensao_do_monarca.md","permalink":"/wiki/conceitos/guerras-reinkardicas-a-ascensao-do-monarca/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/guerras_reinkardicas_a_ascensao_do_monarca.md","permalink":"/pt/conceitos/guerras-reinkardicas-a-ascensao-do-monarca/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Guerras Reinkárdicas: A Ascensão do Monarca

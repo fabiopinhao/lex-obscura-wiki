@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/subjugacao_de_thandruk_varn.md","permalink":"/wiki/eventos/subjugacao-de-thandruk-varn/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/subjugacao_de_thandruk_varn.md","permalink":"/pt/eventos/subjugacao-de-thandruk-varn/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Subjugação de Thandruk Varn

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/orum-rahru.md","permalink":"/wiki/personagens/orum-rahru/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/orum-rahru.md","permalink":"/pt/personagens/orum-rahru/","lexLang":"pt-BR","lexAlt":"/personagens/orum-rahru/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Orum-Rahru

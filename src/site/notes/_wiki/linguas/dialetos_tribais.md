@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/dialetos_tribais.md","permalink":"/wiki/linguas/dialetos-tribais/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/dialetos_tribais.md","permalink":"/pt/linguas/dialetos-tribais/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Dialetos Tribais

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/vazio.md","permalink":"/wiki/cosmologia/vazio/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/vazio.md","permalink":"/pt/cosmologia/vazio/","lexLang":"pt-BR","lexAlt":"/cosmologia/vazio/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Vazio

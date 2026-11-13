@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/grothar.md","permalink":"/wiki/personagens/grothar/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/grothar.md","permalink":"/pt/personagens/grothar/","lexLang":"pt-BR","lexAlt":"/personagens/grothar/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Grothar

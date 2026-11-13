@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/segunda_migracao_dragoes.md","permalink":"/wiki/eventos/segunda-migracao-dragoes/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/segunda_migracao_dragoes.md","permalink":"/pt/eventos/segunda-migracao-dragoes/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Segunda Migração dos Dragões

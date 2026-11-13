@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/quavarra_ulvondra.md","permalink":"/wiki/personagens/quavarra-ulvondra/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/quavarra_ulvondra.md","permalink":"/pt/personagens/quavarra-ulvondra/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Quavarra Ulvondra

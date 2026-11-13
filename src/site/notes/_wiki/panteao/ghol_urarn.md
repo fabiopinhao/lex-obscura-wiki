@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/ghol_urarn.md","permalink":"/wiki/panteao/ghol-urarn/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/ghol_urarn.md","permalink":"/pt/panteao/ghol-urarn/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ghol-Urarn

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/abramis.md","permalink":"/wiki/personagens/abramis/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/abramis.md","permalink":"/pt/personagens/abramis/","lexLang":"pt-BR","lexAlt":"/personagens/abramis/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Abramis

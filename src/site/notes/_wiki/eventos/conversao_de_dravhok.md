@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/conversao_de_dravhok.md","permalink":"/wiki/eventos/conversao-de-dravhok/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/conversao_de_dravhok.md","permalink":"/pt/eventos/conversao-de-dravhok/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Conversão de Dravhok

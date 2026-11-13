@@ -283,6 +283,44 @@ body.theme-light {
         overflow-y: auto;
     }
 
+    /* ---------- seletor de idioma e aviso de tradução ---------- */
+    .lex-lang {
+        float: right;
+        font-family: var(--lex-font-display);
+        font-size: 0.78rem;
+        letter-spacing: 0.14em;
+        display: flex;
+        gap: 0.6em;
+
+        a {
+            color: var(--lex-muted);
+            border-bottom: 0;
+
+            &:hover {
+                color: var(--lex-gold-bright);
+            }
+        }
+
+        .is-current {
+            color: var(--lex-gold);
+        }
+
+        .is-missing {
+            color: var(--lex-muted);
+            opacity: 0.4;
+        }
+    }
+
+    .lex-untranslated {
+        clear: both;
+        font-size: 0.9rem;
+        font-style: italic;
+        color: var(--lex-muted);
+        border-left: 2px solid var(--lex-gold);
+        padding-left: 0.8em;
+        margin: 0 0 1.4em;
+    }
+
     /* ---------- trilha e rodapé de navegação ---------- */
     .lex-crumbs {
         font-family: var(--lex-font-display);

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/siderais.md","permalink":"/wiki/cosmologia/siderais/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/siderais.md","permalink":"/pt/cosmologia/siderais/","lexLang":"pt-BR","lexAlt":"/cosmologia/siderais/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Siderais

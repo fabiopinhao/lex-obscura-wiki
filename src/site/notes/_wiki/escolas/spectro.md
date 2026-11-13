@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/spectro.md","permalink":"/wiki/escolas/spectro/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/spectro.md","permalink":"/pt/escolas/spectro/","lexLang":"pt-BR","lexAlt":"/escolas/spectro/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Spectro

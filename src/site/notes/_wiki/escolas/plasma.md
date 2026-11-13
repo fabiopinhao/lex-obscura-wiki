@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/plasma.md","permalink":"/wiki/escolas/plasma/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/plasma.md","permalink":"/pt/escolas/plasma/","lexLang":"pt-BR","lexAlt":"/escolas/plasma/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Plasma

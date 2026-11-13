@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/resistencia_de_thal_serin.md","permalink":"/wiki/organizacoes/resistencia-de-thal-serin/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/resistencia_de_thal_serin.md","permalink":"/pt/organizacoes/resistencia-de-thal-serin/","lexLang":"pt-BR","lexAlt":"/organizacoes/resistencia-de-thal-serin/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Resistência de Thal’Serin

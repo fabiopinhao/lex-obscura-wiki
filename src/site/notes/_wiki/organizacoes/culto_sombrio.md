@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/culto_sombrio.md","permalink":"/wiki/organizacoes/culto-sombrio/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/culto_sombrio.md","permalink":"/pt/organizacoes/culto-sombrio/","lexLang":"pt-BR","lexAlt":"/organizacoes/culto-sombrio/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Culto Sombrio

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/rito_de_ossarium.md","permalink":"/wiki/magia/rito-de-ossarium/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/rito_de_ossarium.md","permalink":"/pt/magia/rito-de-ossarium/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Rito de Ossárium

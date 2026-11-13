@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/indices/Sistema de Magia.md","permalink":"/wiki/indices/sistema-de-magia/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/indices/Sistema de Magia.md","permalink":"/pt/indices/sistema-de-magia/","lexLang":"pt-BR","lexAlt":"/indices/sistema-de-magia/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Sistema de Magia

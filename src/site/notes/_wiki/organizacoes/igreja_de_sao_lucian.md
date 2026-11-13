@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/igreja_de_sao_lucian.md","permalink":"/wiki/organizacoes/igreja-de-sao-lucian/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/igreja_de_sao_lucian.md","permalink":"/pt/organizacoes/igreja-de-sao-lucian/","lexLang":"pt-BR","lexAlt":"/organizacoes/igreja-de-sao-lucian/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Igreja de São Lucian

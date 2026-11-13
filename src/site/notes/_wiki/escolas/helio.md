@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/helio.md","permalink":"/wiki/escolas/helio/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/helio.md","permalink":"/pt/escolas/helio/","lexLang":"pt-BR","lexAlt":"/escolas/helio/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Helio

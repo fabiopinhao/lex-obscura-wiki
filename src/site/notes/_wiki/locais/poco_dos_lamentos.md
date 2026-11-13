@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/poco_dos_lamentos.md","permalink":"/wiki/locais/poco-dos-lamentos/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/poco_dos_lamentos.md","permalink":"/pt/locais/poco-dos-lamentos/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Poço dos Lamentos

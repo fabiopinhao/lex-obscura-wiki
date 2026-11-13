@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/mecanismos_divinos.md","permalink":"/wiki/cosmologia/mecanismos-divinos/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/mecanismos_divinos.md","permalink":"/pt/cosmologia/mecanismos-divinos/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Mecanismos Divinos

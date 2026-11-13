@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/luminares.md","permalink":"/wiki/racas/luminares/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/luminares.md","permalink":"/pt/racas/luminares/","lexLang":"pt-BR","lexAlt":"/racas/luminares/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Luminar

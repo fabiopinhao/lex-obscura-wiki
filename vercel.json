@@ -4,6 +4,8 @@
     "buildCommand": "npm run build",
     "devCommand": "npm run start",
     "routes": [
+        { "src": "/wiki/home/?", "status": 308, "headers": { "Location": "/pt/" } },
+        { "src": "/wiki/(.*)", "status": 308, "headers": { "Location": "/pt/$1" } },
         { "handle": "filesystem" },
         { "src": "/(.*)", "status": 404, "dest": "/404" }
       ]

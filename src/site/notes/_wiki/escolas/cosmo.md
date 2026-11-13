@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/escolas/cosmo.md","permalink":"/wiki/escolas/cosmo/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/escolas/cosmo.md","permalink":"/pt/escolas/cosmo/","lexLang":"pt-BR","lexAlt":"/escolas/cosmo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Cosmo

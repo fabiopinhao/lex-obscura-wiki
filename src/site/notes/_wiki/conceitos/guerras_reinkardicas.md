@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/guerras_reinkardicas.md","permalink":"/wiki/conceitos/guerras-reinkardicas/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/guerras_reinkardicas.md","permalink":"/pt/conceitos/guerras-reinkardicas/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Guerras Reinkárdicas

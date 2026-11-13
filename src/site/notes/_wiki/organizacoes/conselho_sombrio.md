@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/conselho_sombrio.md","permalink":"/wiki/organizacoes/conselho-sombrio/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/conselho_sombrio.md","permalink":"/pt/organizacoes/conselho-sombrio/","lexLang":"pt-BR","lexAlt":"/organizacoes/conselho-sombrio/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Conselho Sombrio

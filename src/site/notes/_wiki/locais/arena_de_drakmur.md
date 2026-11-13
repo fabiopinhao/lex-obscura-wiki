@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/arena_de_drakmur.md","permalink":"/wiki/locais/arena-de-drakmur/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/arena_de_drakmur.md","permalink":"/pt/locais/arena-de-drakmur/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Arena de Drakmur

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/purga_do_conselho_e_autodeclaracao_como_arothistar.md","permalink":"/wiki/eventos/purga-do-conselho-e-autodeclaracao-como-arothistar/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/purga_do_conselho_e_autodeclaracao_como_arothistar.md","permalink":"/pt/eventos/purga-do-conselho-e-autodeclaracao-como-arothistar/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Purga do Conselho e Autodeclaração como Arothistar

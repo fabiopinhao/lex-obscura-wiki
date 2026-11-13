@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/livro_vermelho_dos_dragoes.md","permalink":"/wiki/artefatos/livro-vermelho-dos-dragoes/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/livro_vermelho_dos_dragoes.md","permalink":"/pt/artefatos/livro-vermelho-dos-dragoes/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Livro Vermelho dos Dragões

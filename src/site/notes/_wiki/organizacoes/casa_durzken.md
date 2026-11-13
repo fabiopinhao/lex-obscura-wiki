@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/casa_durzken.md","permalink":"/wiki/organizacoes/casa-durzken/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/casa_durzken.md","permalink":"/pt/organizacoes/casa-durzken/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Casa Durzken

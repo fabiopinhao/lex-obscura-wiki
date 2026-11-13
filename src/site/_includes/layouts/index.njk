@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="{{ meta.mainLanguage }}">
+<html lang="{{ userComputed.lang or meta.mainLanguage }}">
   <head>
-    <title>{{ meta.siteName }} · Registro oficial do universo</title>
+    <title>{{ meta.siteName }} · {{ userComputed.ui.homeTitle }}</title>
     {%include "components/pageheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}

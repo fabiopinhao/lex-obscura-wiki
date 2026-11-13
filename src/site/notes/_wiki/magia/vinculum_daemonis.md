@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/vinculum_daemonis.md","permalink":"/wiki/magia/vinculum-daemonis/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/vinculum_daemonis.md","permalink":"/pt/magia/vinculum-daemonis/","lexLang":"pt-BR","lexAlt":"/magia/vinculum-daemonis/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Vinculum Daemonis
