@@ -44,7 +44,7 @@ Panoramas das Guerras Reinkárdicas: [[_wiki/conceitos/guerras_reinkardicas_a_so
 - [[_wiki/eventos/migracao_de_varna\|Migração de Varna]]: corrupção tornou Pico de Nethys insustentável; Varna migrou para Varnak
 - [[_wiki/eventos/reconstrucao_pos_peste\|Reconstrução e Ascensão de Myrgarde]]: cooperação interracial pós-peste; Myrgarde tornou-se potência continental
 - [[_wiki/eventos/fundacao_de_morvgrad\|Fundação de Morvgrad]]: Xarn redigiu a Lex Obscura e unificou os templos; Morvgrad erguida como sede do Culto
-- [[_wiki/eventos/alianca_subterranea_evento\|Aliança Subterrânea]]: Pacto Shadar-Drul: druls forneciam magia, shadars forneciam a espada
+- [[_wiki/eventos/alianca_subterranea_evento\|Aliança Subterrânea]]: Pacto Shadar-Drul, em que os druls forneciam a magia e os shadars, a espada
 - [[_wiki/eventos/segunda_migracao_dragoes\|Segunda Migração dos Dragões]]: grandes tribos partiram para além das cordilheiras; Varna permaneceu
 
 ## Guerras Reinkárdicas
@@ -53,10 +53,10 @@ Panoramas das Guerras Reinkárdicas: [[_wiki/conceitos/guerras_reinkardicas_a_so
 - [[_wiki/eventos/submissao_da_ventrista\|Submissão da Ventrista]]: terras férteis na base do planalto; primeiro alvo da descida
 - [[_wiki/eventos/ataque_fracassado_a_thalserin\|Ataque Fracassado a Thal’Serin]]: floresta sagrada resistiu; pacto de Vozrador com os Titãs a protegia
 - [[_wiki/eventos/frentes_de_guerra_e_destino_das_racas\|Destino das Raças]]: sylvanos, humanos e gnomos escravizados; gerut sobreviveram pelo terreno titânico
-- [[_wiki/eventos/formalizacao_militar_dos_orcs\|Formalização Militar dos Orcs]]: ponto de inflexão: fúria tribal transformada em disciplina de campo
+- [[_wiki/eventos/formalizacao_militar_dos_orcs\|Formalização Militar dos Orcs]]: ponto de inflexão em que a fúria tribal se transformou em disciplina de campo
 - [[_wiki/eventos/guerra_formal_e_impasse_continental\|Guerra Formal e Impasse]]: Myrgarde declarou guerra; coalizão continental contra Morvgrad
 - [[_wiki/eventos/campanha_ocidental_de_dravhok\|Campanha Ocidental]]: varreu a cordilheira de norte a sul; culminou na subjugação de Thandruk Varn
-- [[_wiki/eventos/subjugacao_de_thandruk_varn\|Subjugação de Thandruk Varn]]: rendição negociada: forjas redirecionadas para Morvgrad em troca de sobrevivência
+- [[_wiki/eventos/subjugacao_de_thandruk_varn\|Subjugação de Thandruk Varn]]: rendição negociada, com as forjas redirecionadas para Morvgrad em troca de sobrevivência
 - [[_wiki/eventos/campanha_oriental_e_queda_de_dernessal\|Campanha Oriental]]: conquista das cidades do cinturão oriental de Myrgarde
 - [[_wiki/eventos/purga_do_conselho_e_autodeclaracao_como_arothistar\|Purga do Conselho]]: Dravhok eliminou conselheiros rivais e declarou-se Arothistar
 - [[_wiki/eventos/instituicao_do_verbum_arkhon\|Instituição do Verbum Arkhon]]: constituição do Império; Lex Obscura absorvida sem alteração

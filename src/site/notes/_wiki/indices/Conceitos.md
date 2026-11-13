@@ -35,13 +35,13 @@ As palavras que o Império usa para governar não foram escolhidas ao acaso. Cad
 
 ## Calendário Imperial
 
-- [[_wiki/conceitos/varnum\|Varnum]]: unidade anual: 365 dias (treze Lúnias + Nullis)
-- [[_wiki/conceitos/lunia\|Lúnia]]: unidade mensal: 28 dias em quatro fáscias lunares
-- [[_wiki/conceitos/nullis\|Nullis]]: Dia do Vazio: dia avulso entre Varnums
+- [[_wiki/conceitos/varnum\|Varnum]]: unidade anual de 365 dias (treze Lúnias + Nullis)
+- [[_wiki/conceitos/lunia\|Lúnia]]: unidade mensal de 28 dias em quatro fáscias lunares
+- [[_wiki/conceitos/nullis\|Nullis]]: Dia do Vazio, dia avulso entre Varnums
 
 ## Jogos e Cultura
 
-- [[_wiki/conceitos/aroada\|Aroada]]: esporte de Myrgarde: esfera de couro através de aros, usando pés e ombros
+- [[_wiki/conceitos/aroada\|Aroada]]: esporte de Myrgarde, com esfera de couro lançada através de aros, usando pés e ombros
 
 ---
 

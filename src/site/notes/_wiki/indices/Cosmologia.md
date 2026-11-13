@@ -29,8 +29,8 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 ## Cosmogonia e Teologia
 
 - [[_wiki/cosmologia/cosmogonia__tradicoes_orais_sobre_a_origem\|Cosmogonia: Tradições Orais]]: versões contraditórias sobre a origem de Thamakard, nenhuma confirmada
-- [[_wiki/cosmologia/incendio_primordial\|Incêndio Primordial]]: a tradição vermelha: o universo nasceu do excesso, da combustão sem limite
-- [[_wiki/cosmologia/vazio\|Vazio]]: a tradição sombria: um negrume consciente que precedeu toda existência
+- [[_wiki/cosmologia/incendio_primordial\|Incêndio Primordial]]: a tradição vermelha, para a qual o universo nasceu do excesso, da combustão sem limite
+- [[_wiki/cosmologia/vazio\|Vazio]]: a tradição sombria, para a qual um negrume consciente precedeu toda existência
 - [[_wiki/cosmologia/doutrina_da_alma\|Doutrina da Alma]]: toda magia nasce da alma (*Naiu’Wula*)
 - [[_wiki/cosmologia/teoria_materialista\|Teoria Materialista]]: magi como força alquímica mensurável (Jospin Valheorn)
 - [[_wiki/cosmologia/maleficarios\|Maleficários]]: as escrituras demonológicas do antigo império

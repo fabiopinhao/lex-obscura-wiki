@@ -10,8 +10,8 @@ Objetos que sobreviveram a seus criadores raramente o fizeram por acidente.
 
 ## Kit do Justiciar
 
-- [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]]: grimório sagrado tripartite: Verbum Arkhon, Lex Obscura, Tabula Umbrae
-- [[_wiki/artefatos/spina_lexis\|Spina Lexis]]: cetro judicial: estilhaça, compele, sentencia
+- [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]]: grimório sagrado tripartite (Verbum Arkhon, Lex Obscura, Tabula Umbrae)
+- [[_wiki/artefatos/spina_lexis\|Spina Lexis]]: cetro judicial que estilhaça, compele e sentencia
 - [[_wiki/artefatos/oculus_morvgradi\|Oculus Morvgradi]]: esfera de ônix para comunicação via Poço Etéreo
 - [[_wiki/artefatos/tabua_reversa\|Tábua Reversa]]: tábua de argila polida para registro judicial em tinta
 
