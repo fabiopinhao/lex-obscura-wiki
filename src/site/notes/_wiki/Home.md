@@ -14,7 +14,7 @@ O **Livro I: [[_wiki/indices/Verbum Arkhon\|Verbum Arkhon]]** acompanha as palav
 
 O acesso a este arquivo é concedido enquanto o Império assim decidir. Confundir concessão com direito é o primeiro erro dos que perdem ambos.
 
-O que o Império mantém em segredo não consta deste arquivo. Os registros podem ser consultados antes, durante ou depois da leitura, sem risco de revelações.
+O que o Império mantém em segredo não consta deste arquivo. Os registros de pessoas e de acontecimentos recentes, porém, relatam o que já se passou, e quem ainda acompanha esses fatos encontrará neles notícias adiantadas.
 
 ---
 
