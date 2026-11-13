@@ -18,7 +18,7 @@ Objetos que sobreviveram a seus criadores raramente o fizeram por acidente.
 ## Relíquias Maiores
 
 - [[_wiki/artefatos/oculus_maior\|Oculus Maior]]: central de comando das comunicações imperiais
-- [[_wiki/artefatos/fendris\|Fendris]]: adaga Luminar capaz de fender planos
+- [[_wiki/artefatos/fendris\|Fendris]]: adaga luminar capaz de fender planos
 - [[_wiki/artefatos/efigie_de_arothistar\|Efígie de Arothistar]]: sentinela animada da ponte de Mor’Severith
 
 ## Armas, Armaduras e Insígnias

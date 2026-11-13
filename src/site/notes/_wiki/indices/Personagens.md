@@ -66,7 +66,7 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 ## Druls e Ophideias
 
 - [[_wiki/personagens/shaezrith\|Shaezrith]]: drul ophideia, companheira de Syndrith
-- [[_wiki/personagens/vhraxil\|Vhraxil]]: sentinela Drul, subordinado à Casa Morghast
+- [[_wiki/personagens/vhraxil\|Vhraxil]]: sentinela drul, subordinado à Casa Morghast
 - [[_wiki/personagens/xilvenneth\|Xilvenneth]]: drul ophideia da Casa Xund’ala
 - [[_wiki/personagens/zarae\|Zarae]]: aprendiz ophideia drul
 

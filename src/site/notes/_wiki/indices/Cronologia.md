@@ -30,7 +30,7 @@ Panoramas das Guerras Reinkárdicas: [[_wiki/conceitos/guerras_reinkardicas_a_so
 - [[_wiki/eventos/queda_dos_luminares\|Queda dos Luminares]]: fragmentação definitiva dos elfos da luz; originou elarinos e sylvanos
 - [[_wiki/eventos/surgimento_dos_primeiros_shadar\|Surgimento dos Primeiros Shadar]]: humanos que assumiram a culpa do massacre recusaram a absolvição álvarar e buscaram pactos diabólicos
 - [[_wiki/eventos/pax_alabastrina\|Pax Alabastrina]]: cooperação voluntária entre elarinos e humanos; amadurecimento do sistema Sancta
-- [[_wiki/eventos/fundacao_de_myrgarde\|Fundação de Myrgarde]]: cinco cidadelas humanas unidas após expulsão dos Shadars das terras centrais
+- [[_wiki/eventos/fundacao_de_myrgarde\|Fundação de Myrgarde]]: cinco cidadelas humanas unidas após expulsão dos shadars das terras centrais
 - [[_wiki/eventos/migracao_shadar_ao_planalto\|Migração Shadar ao Planalto]]: perseguidos pela ortodoxia, migraram ao planalto norte e encontraram os druls
 - [[_wiki/eventos/expulsao_cultistas_draconicos\|Expulsão dos Cultistas Dracônicos]]: shadars expulsaram tribos com pactos demoníacos para Varnak; origem dos varnakianos
 - [[_wiki/eventos/corrupcao_ovos_dragao\|Corrupção dos Ovos de Dragão]]: shadars corromperam ninhos abandonados; seleção deliberada originou os kobolds
@@ -72,7 +72,7 @@ Panoramas das Guerras Reinkárdicas: [[_wiki/conceitos/guerras_reinkardicas_a_so
 
 - [[_wiki/eventos/reorganizacao_imperial_e_provincias\|Reorganização Imperial]]: Arothistar governa por intermediários; Protocolo Iconográfico da Coroa
 - [[_wiki/eventos/tensoes_e_ameacas_da_terceira_era\|Tensões da Terceira Era]]: aliança drul fragilizada; migração órquica; 20 de 27 Justiciares mortos
-- [[_wiki/eventos/cadeia_da_fendris\|Cadeia da Fendris]]: roubo da adaga Luminar do museu particular de Dessian Broel; mandante e motivo permanecem desconhecidos
+- [[_wiki/eventos/cadeia_da_fendris\|Cadeia da Fendris]]: roubo da adaga luminar do museu particular de Dessian Broel; mandante e motivo permanecem desconhecidos
 - [[_wiki/eventos/sabotagem_nas_forjas_de_thandruk_varn\|Sabotagem nas Forjas]]: queda de produção em Thandruk Varn; natureza e autoria desconhecidas
 - [[_wiki/eventos/uncao_de_milorsevogh\|Unção de Milorsevogh]]: sétimo Justiciar vivo; recebeu Spina Lexis, Codex e Oculus no templo de Azkaroth
 - [[_wiki/eventos/nexus_silenciados_na_fortaleza_de_cristal\|Nexus Silenciados]]: cristais de Elenir ativos mas silenciados de dentro para fora; sabotagem deliberada
