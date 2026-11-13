@@ -10,6 +10,3 @@ A Casa Durzken é a casa matriarcal dominante de [[_wiki/locais/ghilanna\|Ghilan
 
 Nylothrae conduz uma diplomacia secreta com [[_wiki/locais/xilaverth\|Xilaverth]], cidadela [[_wiki/racas/drul\|drul]] hostil no oeste de [[_wiki/locais/vor-ghol\|Vor-Ghol]]. O objetivo não é territorial: Ghilanna não cobiça as cavernas do oeste, de rataria excessiva e terra ruim, e quer apenas que Xilaverth lhe deva um favor para quando ele for necessário. Caravanas da [[_wiki/organizacoes/khelg_dur\|Khelg’Dur]] transportam cargas valiosas até Xilaverth disfarçadas de comércio ordinário.
 
-### Alcance
-
-O alcance da Casa estende-se mesmo ao submundo gnômico: [[_wiki/personagens/dribbel_olgund\|Dribbel]] porta um anel com a insígnia de Nylothrae, presente por serviço de guia e sinal de que também ali se opera dentro da esfera de influência matriarcal.

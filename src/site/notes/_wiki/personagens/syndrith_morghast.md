@@ -24,4 +24,4 @@ Especializada em [[_wiki/escolas/spectro\|Spectro]], a escola de atravessar a ma
 
 ### Relações
 
-Conhece [[_wiki/personagens/vhraxil\|Vhraxil]] desde a infância, e é uma das pouquíssimas figuras a quem dispensa afeto. Abordou [[_wiki/personagens/grothar\|Grothar]] reconhecendo-lhe a erudição, e foi assim que o recrutou como informante. A Milor, que supervisiona sem se subordinar, foi a princípio provocativa; depois de uma operação sob o manto da noite, mostrou-lhe uma deferência inédita, sem máscaras.
+Conhece [[_wiki/personagens/vhraxil\|Vhraxil]] desde a infância, e é uma das pouquíssimas figuras a quem dispensa afeto. Abordou [[_wiki/personagens/grothar\|Grothar]] reconhecendo-lhe a erudição, e foi assim que o recrutou como informante. A Milor, que supervisiona sem se subordinar, foi a princípio provocativa; depois, ao oferecer-se para explorar a vila sob o manto da noite, mostrou-lhe uma deferência inédita, sem ironia.

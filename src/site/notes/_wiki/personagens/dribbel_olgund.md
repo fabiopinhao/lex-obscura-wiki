@@ -8,7 +8,7 @@ Dribbel Olgund, o Quebra-Trocas, é um [[_wiki/racas/derro\|derro]] que faz do m
 
 ### Aparência
 
-É um derro adulto de ossatura afilada, talhado pela vida nos túneis estreitos. A pele tem o cinza-pálido da sua raça, fora do registro rosado dos povos de superfície, e os olhos grandes guardam pupilas dominantes, feitas para uma escuridão sem luz. As orelhas pontudas se mexem ao menor ruído, alertas como o resto dele. Cabelos finos, brancos e acinzentados, presos só em parte. Mal passa de um metro e dezessete, abaixo da estatura de um gnomo, e nas têmporas e pulsos correm veias sutis sob a pele. Veste-se como o que é: um mercador-trapaceiro de superfície, registro híbrido das profundezas e da cidade. No dedo, reluz o anel com a insígnia da Matriarca [[_wiki/personagens/nylothrae_durzken\|Nylothrae Durzken]], recebido por um serviço de guia.
+É um derro adulto de ossatura afilada, talhado pela vida nos túneis estreitos. A pele tem o cinza-pálido da sua raça, fora do registro rosado dos povos de superfície, e os olhos grandes guardam pupilas dominantes, feitas para uma escuridão sem luz. As orelhas pontudas se mexem ao menor ruído, alertas como o resto dele. Cabelos finos, brancos e acinzentados, presos só em parte. Mal passa de um metro e dezessete, abaixo da estatura de um gnomo, e nas têmporas e pulsos correm veias sutis sob a pele. Veste-se como o que é: um mercador-trapaceiro de superfície, registro híbrido das profundezas e da cidade.
 
 ### Papel
 

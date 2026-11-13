@@ -16,4 +16,4 @@ Quem negocia com as profundezas a tem por canal seguro, de histórico limpo. O q
 
 Nylothrae opera por intermediários e símbolos. Mantém um canal diplomático com [[_wiki/locais/xilaverth\|Xilaverth]] e faz seus desígnios chegarem adiante dela sem expor-se. Não se conhecem palavras suas.
 
-A insígnia da Casa Durzken marca o anel de matriarca, peça que distingue quem governa a Casa. Esse anel chegou às mãos de [[_wiki/personagens/dribbel_olgund\|Dribbel Olgund]] como pagamento por serviço de guia, transação cujo alcance político excede o que o portador alcança. Devolver a uma matriarca um anel achado nos escombros conta como gesto de boa-fé: a marca de uma Casa não é peça que se perca por descuido.
+A insígnia da Casa Durzken marca o anel de matriarca, peça que distingue quem governa a Casa e que não se perde por descuido: quem achasse um desses anéis nos escombros e o devolvesse a Nylothrae faria gesto de boa-fé.

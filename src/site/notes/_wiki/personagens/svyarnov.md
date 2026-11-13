@@ -12,4 +12,4 @@ Da caverna-arsenal, Svyarnov comandava o tráfico de armamentos da Serpente Púr
 
 ### Confronto e Morte
 
-Quando [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]] se revelou Justiciar e ofereceu rendição, Svyarnov recusou sem hesitar e ordenou o ataque. A operação ruiu por dentro: no combate ele se voltou contra um de seus próprios aliados e foi morto por ele, lançado da plataforma. Moribundo, foi interrogado por Nidzina sobre os mandantes, mas morreu sem entregá-los.
+Quando [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]] se revelou Justiciar e ofereceu rendição, Svyarnov recusou sem hesitar e ordenou o ataque. A operação ruiu por dentro: no combate ele se voltou contra um de seus próprios aliados, que o lançou da plataforma e o trespassou com a lança, sem matá-lo. Moribundo, foi interrogado por Nidzina sobre os mandantes, mas morreu sem entregá-los.

@@ -16,7 +16,7 @@ Milorsevogh era o sétimo Justiciar vivo, de vinte e sete ordenados ao longo de 
 
 ### O Decano
 
-[[_wiki/personagens/orum-rahru\|Orum-Rahru]], o primeiro e o mais velho dos Justiciares, presidiu a cerimônia como Decano. Aos noventa e nove anos, servia havia quarenta e quatro, e sua fé em [[_wiki/panteao/vozrador\|Vozrador]], o deus a quem dedicara a vida inteira, permanecia inabalável.
+[[_wiki/personagens/orum-rahru\|Orum-Rahru]], o primeiro e o mais velho dos Justiciares, assistiu à cerimônia da galeria do templo, ao lado de [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]], sua pupila. Aos noventa e nove anos, servia havia quarenta e quatro, e sua fé em [[_wiki/panteao/vozrador\|Vozrador]], o deus a quem dedicara a vida inteira, permanecia inabalável.
 
 ### Depois
 
