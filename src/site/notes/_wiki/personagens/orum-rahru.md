@@ -14,7 +14,7 @@ Entrou em serviço aos dezenove anos, quando foi ungido templário numa cerimôn
 
 ### Papel
 
-Codificou o rito de consagração dos Justiciares, cujo voto se encerra no mantra do monarca, “A ordem exige sangue”, palavras rituais de Arothistar desde o início da [[_wiki/conceitos/terceira_era\|Terceira Era]]. Influenciou profundamente aquilo que a ordem se tornou e o modo como age, e treinou a maior parte dos Justiciares; nas últimas duas décadas, foi o único a instruir os novos. Aos noventa e nove anos, convive com uma demência leve e uma paranoia crescente. Perante o Conselho Sombrio, voluntariou-se para uma missão em [[_wiki/locais/elenir\|Elenir]], e por fim parte de Morvgrad sozinho, a cavalo.
+Codificou o rito de consagração dos Justiciares, cujo voto se encerra no mantra do monarca, “A ordem exige sangue”, palavras rituais de Arothistar desde o início da [[_wiki/conceitos/terceira_era\|Terceira Era]]. Influenciou profundamente aquilo que a ordem se tornou e o modo como age, e treinou a maior parte dos Justiciares; nas últimas duas décadas, foi o único a instruir os novos. Aos noventa e nove anos, convive com uma demência leve e uma paranoia crescente. Perante o Conselho Sombrio, voluntariou-se para uma missão em [[_wiki/locais/elenir\|Elenir]].
 
 ### Presença
 
@@ -36,4 +36,4 @@ Domina o [[_wiki/magia/teru\|Teru]], a magia não-pactuada, que desenvolveu já 
 
 ### Relações
 
-Foi tutor de [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]], a quem treina desde a infância. Com Milorsevogh Velshard mantém uma relação de respeito tenso: reconhece nele um herdeiro do entendimento, ainda que não do posto, e é a ele que passa o bastão ao fim. Os dois divergem sobre o destino do [[_wiki/organizacoes/imperio_sombrio\|Império]], e se reencontram em Ghol’Drokh, onde Milor opera como carrasco-mor. Nas muralhas de [[_wiki/locais/mor_draconis\|Mor’Draconis]], partilha reflexões com [[_wiki/personagens/jaakurs\|Jaakurs]].
+Foi tutor de [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]], a quem treina desde a infância. Com Milorsevogh Velshard mantém uma relação de respeito tenso: reconhece nele um herdeiro do entendimento, ainda que não do posto. Os dois divergem sobre o destino do [[_wiki/organizacoes/imperio_sombrio\|Império]], e se reencontram em Ghol’Drokh, onde Milor opera como carrasco-mor. Nas muralhas de [[_wiki/locais/mor_draconis\|Mor’Draconis]], partilha reflexões com [[_wiki/personagens/jaakurs\|Jaakurs]].
