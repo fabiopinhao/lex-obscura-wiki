@@ -402,10 +402,8 @@ body.theme-light {
                 }
             }
 
+            /* "Nome: descrição" corre na mesma linha dentro do cartão. */
             strong {
-                display: block;
-                margin-bottom: 0.2em;
-
                 a {
                     font-family: var(--lex-font-display);
                     font-size: 1.05rem;
