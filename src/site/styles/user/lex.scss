@@ -1,0 +1,541 @@
+/* Lex Obscura: identidade visual da wiki pública.
+   Carregado depois do tema e do custom-style (ver _data/dynamics.js). */
+
+body.theme-dark,
+body.theme-light {
+    --lex-bg: #0d0c0f;
+    --lex-surface: #15131a;
+    --lex-surface-2: #1c1922;
+    --lex-border: #2c2733;
+    --lex-text: #d9d3c7;
+    --lex-muted: #958d80;
+    --lex-gold: #c9a45c;
+    --lex-gold-bright: #e6c98a;
+    --lex-blood: #9c3030;
+
+    --lex-font-display: "Cinzel", "Trajan Pro", Georgia, serif;
+    --lex-font-text: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+
+    --background-primary: var(--lex-bg);
+    --background-primary-alt: var(--lex-surface);
+    --background-secondary: var(--lex-surface);
+    --background-secondary-alt: var(--lex-surface-2);
+    --background-modifier-border: var(--lex-border);
+    --text-normal: var(--lex-text);
+    --text-muted: var(--lex-muted);
+    --text-faint: #6f695f;
+    --text-accent: var(--lex-gold);
+    --text-accent-hover: var(--lex-gold-bright);
+    --link-color: var(--lex-gold);
+    --link-color-hover: var(--lex-gold-bright);
+    --link-unresolved-color: var(--lex-muted);
+    --interactive-accent: var(--lex-gold);
+    --h1-color: var(--lex-gold-bright);
+    --h2-color: var(--lex-text);
+    --h3-color: var(--lex-text);
+    --h4-color: var(--lex-text);
+    --hr-color: var(--lex-border);
+    --font-text: var(--lex-font-text);
+    --font-interface: var(--lex-font-text);
+    --dg-content-max-width: 720px;
+
+    background: var(--lex-bg);
+    color: var(--lex-text);
+    font-family: var(--lex-font-text);
+}
+
+body.theme-dark,
+body.theme-light {
+    /* ---------- texto ---------- */
+    .content {
+        font-family: var(--lex-font-text);
+        font-size: 1.14rem;
+        line-height: 1.72;
+        color: var(--lex-text);
+
+        p {
+            margin: 0 0 1.05em;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4 {
+            font-family: var(--lex-font-display);
+            font-weight: 600;
+            letter-spacing: 0.035em;
+            line-height: 1.25;
+        }
+
+        h1 {
+            font-size: 2.3rem;
+            color: var(--lex-gold-bright);
+            margin: 0.2em 0 0.6em;
+            padding-bottom: 0.45em;
+            border-bottom: 1px solid var(--lex-border);
+        }
+
+        h2 {
+            font-size: 1.42rem;
+            color: var(--lex-gold);
+            margin: 2.1em 0 0.7em;
+        }
+
+        h3 {
+            font-size: 1.14rem;
+            color: var(--lex-text);
+            margin: 1.9em 0 0.55em;
+            text-transform: uppercase;
+            letter-spacing: 0.09em;
+        }
+
+        h4 {
+            font-size: 1rem;
+            color: var(--lex-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.09em;
+        }
+
+        a,
+        a.internal-link {
+            color: var(--lex-gold);
+            text-decoration: none;
+            border-bottom: 1px solid rgba(201, 164, 92, 0.32);
+            transition: color 0.15s, border-color 0.15s;
+
+            &:hover {
+                color: var(--lex-gold-bright);
+                border-bottom-color: var(--lex-gold-bright);
+            }
+        }
+
+        a.is-unresolved {
+            color: var(--lex-muted);
+            border-bottom-style: dashed;
+        }
+
+        strong {
+            color: #efe9dc;
+            font-weight: 600;
+        }
+
+        em {
+            color: #e4dccb;
+        }
+
+        hr {
+            border: 0;
+            height: 1px;
+            margin: 2.2em 0;
+            background: linear-gradient(90deg, transparent, var(--lex-border) 18%, var(--lex-gold) 50%, var(--lex-border) 82%, transparent);
+            opacity: 0.7;
+        }
+
+        ul,
+        ol {
+            padding-left: 1.3em;
+        }
+
+        li {
+            margin: 0.28em 0;
+        }
+
+        li::marker {
+            color: var(--lex-gold);
+        }
+
+        blockquote {
+            border-left: 2px solid var(--lex-gold);
+            background: var(--lex-surface);
+            margin: 1.4em 0;
+            padding: 0.7em 1.1em;
+            color: #cfc8ba;
+        }
+
+        table {
+            border-collapse: collapse;
+            font-size: 0.95em;
+            width: 100%;
+        }
+
+        th {
+            font-family: var(--lex-font-display);
+            font-weight: 600;
+            letter-spacing: 0.05em;
+            color: var(--lex-gold);
+            background: var(--lex-surface);
+            text-align: left;
+        }
+
+        th,
+        td {
+            border: 1px solid var(--lex-border);
+            padding: 0.5em 0.75em;
+        }
+
+        tbody tr:nth-child(even) td {
+            background: rgba(255, 255, 255, 0.018);
+        }
+    }
+
+    ::selection {
+        background: rgba(201, 164, 92, 0.3);
+    }
+
+    /* ---------- barra superior ---------- */
+    .navbar {
+        background: rgba(13, 12, 15, 0.92);
+        backdrop-filter: blur(6px);
+        border-bottom: 1px solid var(--lex-border);
+
+        h1 {
+            font-family: var(--lex-font-display);
+            font-weight: 600;
+            font-size: 1.25rem;
+            letter-spacing: 0.22em;
+            text-transform: uppercase;
+            color: var(--lex-gold-bright);
+        }
+    }
+
+    .search-button {
+        font-family: var(--lex-font-text);
+        background: var(--lex-surface);
+        border: 1px solid var(--lex-border);
+        color: var(--lex-muted);
+        border-radius: 3px;
+
+        &:hover {
+            border-color: var(--lex-gold);
+            color: var(--lex-text);
+        }
+
+        code {
+            background: var(--lex-surface-2);
+            color: var(--lex-muted);
+        }
+    }
+
+    /* ---------- busca ---------- */
+    .search-box,
+    .search-modal {
+        background: var(--lex-surface);
+        border: 1px solid var(--lex-border);
+    }
+
+    input[type="search"] {
+        font-family: var(--lex-font-text);
+        background: var(--lex-bg);
+        color: var(--lex-text);
+        border: 1px solid var(--lex-border);
+
+        &:focus {
+            border-color: var(--lex-gold);
+            outline: none;
+        }
+    }
+
+    /* ---------- coluna lateral ---------- */
+    .sidebar {
+        font-family: var(--lex-font-text);
+        font-size: 0.93rem;
+    }
+
+    .toc,
+    .backlinks {
+        background: transparent;
+        border-left: 1px solid var(--lex-border);
+        padding-left: 1.1em;
+    }
+
+    .toc-title,
+    .backlink-title {
+        font-family: var(--lex-font-display);
+        font-size: 0.82rem;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        color: var(--lex-gold);
+        margin-bottom: 0.6em;
+    }
+
+    .toc a,
+    .backlink-card a {
+        color: var(--lex-muted);
+        text-decoration: none;
+
+        &:hover {
+            color: var(--lex-gold-bright);
+        }
+    }
+
+    .backlink-card {
+        background: transparent;
+        border: 0;
+        padding: 0.12em 0;
+
+        svg {
+            display: none;
+        }
+    }
+
+    .backlink-list {
+        max-height: 40vh;
+        overflow-y: auto;
+    }
+
+    /* ---------- trilha e rodapé de navegação ---------- */
+    .lex-crumbs {
+        font-family: var(--lex-font-display);
+        font-size: 0.78rem;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        color: var(--lex-muted);
+        margin-bottom: 1.4em;
+
+        a {
+            color: var(--lex-muted);
+            border-bottom: 0;
+
+            &:hover {
+                color: var(--lex-gold-bright);
+            }
+        }
+
+        .lex-crumbs-sep {
+            margin: 0 0.55em;
+            color: var(--lex-gold);
+        }
+    }
+
+    .lex-explore {
+        margin-top: 4em;
+        padding-top: 1.4em;
+        border-top: 1px solid var(--lex-border);
+
+        .lex-explore-title {
+            font-family: var(--lex-font-display);
+            font-size: 0.82rem;
+            letter-spacing: 0.14em;
+            text-transform: uppercase;
+            color: var(--lex-gold);
+            margin-bottom: 0.8em;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5em;
+        }
+
+        li {
+            margin: 0;
+        }
+
+        a {
+            display: block;
+            font-size: 0.92rem;
+            padding: 0.28em 0.8em;
+            color: var(--lex-text);
+            background: var(--lex-surface);
+            border: 1px solid var(--lex-border);
+            border-radius: 2px;
+
+            &:hover,
+            &.is-current {
+                color: var(--lex-gold-bright);
+                border-color: var(--lex-gold);
+            }
+        }
+    }
+
+    /* ---------- página inicial ---------- */
+    .content:has(.lex-home-marker) {
+        h1 {
+            font-size: 3.1rem;
+            letter-spacing: 0.16em;
+            text-transform: uppercase;
+            text-align: center;
+            border-bottom: 0;
+            margin: 0.9em 0 0.25em;
+            padding-bottom: 0;
+        }
+
+        h1 + p {
+            text-align: center;
+            font-size: 1.2rem;
+            color: var(--lex-muted);
+            margin-bottom: 0;
+        }
+
+        h2 {
+            text-align: center;
+            letter-spacing: 0.16em;
+            text-transform: uppercase;
+            font-size: 1.1rem;
+            margin-bottom: 1.3em;
+        }
+
+        h2 + ul {
+            list-style: none;
+            padding: 0;
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 0.85em;
+
+            li {
+                margin: 0;
+                padding: 0.95em 1.1em 1em;
+                background: var(--lex-surface);
+                border: 1px solid var(--lex-border);
+                border-radius: 3px;
+                font-size: 0.96rem;
+                line-height: 1.5;
+                color: var(--lex-muted);
+                transition: border-color 0.15s, background 0.15s;
+
+                &:hover {
+                    border-color: var(--lex-gold);
+                    background: var(--lex-surface-2);
+                }
+            }
+
+            strong {
+                display: block;
+                margin-bottom: 0.2em;
+
+                a {
+                    font-family: var(--lex-font-display);
+                    font-size: 1.05rem;
+                    letter-spacing: 0.08em;
+                    border-bottom: 0;
+                    color: var(--lex-gold-bright);
+                }
+            }
+
+            @media (max-width: 640px) {
+                grid-template-columns: 1fr;
+            }
+        }
+    }
+
+    /* ---------- layout sem árvore de arquivos ----------
+       O CSS base reserva ~300px à esquerda para a filetree mesmo quando ela
+       está desligada. Aqui o texto fica numa coluna de leitura centrada e o
+       índice lateral vai à direita quando há espaço. */
+    &.no-filetree {
+        --lex-col: 780px;
+        --lex-side: 280px;
+        --lex-gap: 56px;
+        --lex-left: calc((100vw - var(--lex-col) - var(--lex-gap) - var(--lex-side)) / 2);
+
+        .content {
+            box-sizing: border-box;
+            max-width: var(--lex-col);
+            margin-left: auto;
+            margin-right: auto;
+            padding-left: 24px;
+            padding-right: 24px;
+        }
+
+        .sidebar {
+            position: relative !important;
+            left: auto !important;
+            top: auto !important;
+            box-sizing: border-box;
+            height: auto;
+            min-width: 0;
+            max-width: var(--lex-col);
+            margin: 20px auto 0;
+            padding: 28px 24px 48px;
+            border-top: 1px solid var(--lex-border);
+        }
+
+        .sidebar-container {
+            display: flex;
+            flex-direction: column;
+            gap: 28px;
+            width: 100%;
+        }
+
+        .backlinks {
+            max-width: none;
+        }
+
+        @media (min-width: 1240px) {
+            .content {
+                margin-left: var(--lex-left);
+                margin-right: 0;
+            }
+
+            .sidebar {
+                position: fixed !important;
+                left: calc(var(--lex-left) + var(--lex-col) + var(--lex-gap)) !important;
+                top: 96px !important;
+                width: var(--lex-side);
+                max-width: var(--lex-side);
+                max-height: calc(100vh - 120px);
+                overflow-y: auto;
+                scrollbar-width: thin;
+                margin: 0;
+                padding: 0;
+                border-top: 0;
+            }
+
+            .toc {
+                display: block;
+            }
+        }
+    }
+
+    &:has(.lex-home-marker) {
+        aside {
+            display: none;
+        }
+
+        .content {
+            max-width: 900px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
+
+    /* ---------- 404 ---------- */
+    .lex-404 {
+        text-align: center;
+        padding-top: 18vh;
+
+        h1 {
+            border-bottom: 0;
+        }
+    }
+
+    @media (max-width: 800px) {
+        .content {
+            font-size: 1.06rem;
+
+            h1 {
+                font-size: 1.85rem;
+            }
+        }
+
+        .content:has(.lex-home-marker) h1 {
+            font-size: 1.75rem;
+            letter-spacing: 0.1em;
+            margin-top: 0.2em;
+        }
+
+        &.no-filetree .content {
+            padding-left: 4px;
+            padding-right: 4px;
+            padding-top: 28px;
+        }
+
+        &.no-filetree .sidebar {
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+}

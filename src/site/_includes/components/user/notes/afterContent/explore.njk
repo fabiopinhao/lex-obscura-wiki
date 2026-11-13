@@ -1,0 +1,8 @@
+<nav class="lex-explore" aria-label="Explorar o mundo">
+  <div class="lex-explore-title">Explorar o mundo</div>
+  <ul>
+    {%- for s in userComputed.nav %}
+    <li><a href="{{ s.url }}"{% if userComputed.section and userComputed.section.url == s.url %} class="is-current"{% endif %}>{{ s.label }}</a></li>
+    {%- endfor %}
+  </ul>
+</nav>
