@@ -12,4 +12,4 @@ Na sessão do Conselho, propõe a limpeza de populações excedentes como soluç
 
 ### A Cadeia da Fendris
 
-Seu museu particular guardava a [[_wiki/artefatos/fendris\|Fendris]], relíquia [[_wiki/racas/luminares\|luminar]] originária de Thandruk Varn. A adaga foi roubada e passou pela rede da [[_wiki/organizacoes/serpente_purpura\|Serpente Púrpura]] antes de ser confiscada pela [[_wiki/organizacoes/justiciares\|Justiciar]] [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]]. Um roubo bem-sucedido contra o museu de um conselheiro do Conselho Sombrio demonstra o alcance e a audácia da organização criminosa.
+Seu museu particular guardava a [[_wiki/artefatos/fendris\|Fendris]], relíquia [[_wiki/racas/luminares\|luminar]] que os anões de Thandruk Varn tinham sob guarda sem compreender sua natureza. A adaga foi roubada e passou pela rede da [[_wiki/organizacoes/serpente_purpura\|Serpente Púrpura]] antes de ser confiscada pela [[_wiki/organizacoes/justiciares\|Justiciar]] [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]]. Um roubo bem-sucedido contra o museu de um conselheiro do Conselho Sombrio demonstra o alcance e a audácia da organização criminosa.

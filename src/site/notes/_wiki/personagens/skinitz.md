@@ -12,4 +12,4 @@ Skinitz é um jovem [[_wiki/racas/murano\|murano]], irmão de [[_wiki/personagen
 
 ### Consequência
 
-A morte de Skinitz marca Skanivik, que carrega a lembrança do irmão e do episódio. O reencontro com Korven, mais tarde major no mercado de [[_wiki/locais/morvgrad\|Morvgrad]], reacende a memória da prisão e da queda no Fosso, por meia dúzia de pralinés.
+A morte de Skinitz marca Skanivik, que carrega a lembrança do irmão e do episódio. O reencontro com Korven no mercado de [[_wiki/locais/morvgrad\|Morvgrad]] reacende a memória da prisão e da queda no Fosso, por meia dúzia de pralinés.

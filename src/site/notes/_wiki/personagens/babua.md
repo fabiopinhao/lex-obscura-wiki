@@ -12,6 +12,3 @@ A força de Babua está na pele e na água. Enquanto medita e sua pele toca uma 
 
 A esse dom soma-se um segundo, mais perigoso para quem confia em magia: um encantamento capaz de romper vínculos mágicos. Nem as conexões do [[_wiki/artefatos/oculus_morvgradi\|Oculus]] resistem a ele.
 
-### O rancor de Garrón
-
-Há quem o conheça pelo prejuízo. [[_wiki/personagens/fandegarron\|Fandegarrón]] perdeu sua toca duas vezes, e a segunda perda tem nome: Babua. O Garrón guarda rancor e diz que o sapo empurrou o mundo; quem conta a história o descreve como um demônio vestido de sapo.

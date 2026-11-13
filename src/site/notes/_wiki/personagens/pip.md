@@ -20,4 +20,4 @@ Nas forjas das profundezas, o antigo lojista de miudezas passa a fabricar corren
 
 ### Relações
 
-É amigo de [[_wiki/personagens/auren\|Auren]]. Ambos terminam em formas simétricas de cativeiro: Pip preso às forjas, Auren confinado em uma torre.
+É amigo de [[_wiki/personagens/auren\|Auren]].

@@ -14,7 +14,7 @@ Entrou em serviço aos dezenove anos, quando foi ungido templário numa cerimôn
 
 ### Papel
 
-Codificou o rito de consagração dos Justiciares, cujo voto se encerra no mantra do monarca, “A ordem exige sangue”, palavras rituais de Arothistar desde o início da [[_wiki/conceitos/terceira_era\|Terceira Era]]. Influenciou profundamente aquilo que a ordem se tornou e o modo como age, e treinou a maior parte dos Justiciares; nas últimas duas décadas, foi o único a instruir os novos. Aos noventa e nove anos, convive com uma demência leve e uma paranoia crescente. Perante o Conselho Sombrio, voluntariou-se para uma missão em [[_wiki/locais/elenir\|Elenir]].
+Codificou o rito de consagração dos Justiciares, cujo voto se encerra no mantra do monarca, “A ordem exige sangue”, palavras rituais de Arothistar desde o início da [[_wiki/conceitos/terceira_era\|Terceira Era]]. Influenciou profundamente aquilo que a ordem se tornou e o modo como age, e treinou a maior parte dos Justiciares; nas últimas duas décadas, foi o único a instruir os novos. Aos noventa e nove anos, convive com uma paranoia crescente. Perante o Conselho Sombrio, voluntariou-se para uma missão em [[_wiki/locais/elenir\|Elenir]].
 
 ### Presença
 

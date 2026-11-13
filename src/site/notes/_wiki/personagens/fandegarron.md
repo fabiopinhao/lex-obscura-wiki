@@ -16,7 +16,7 @@ Luta com manguais de chumbo cravejados de espinhos e faz da carnificina um praze
 
 ### História
 
-Perdeu a toca duas vezes: primeiro para os [[_wiki/racas/shadar\|shadars]], depois para [[_wiki/personagens/babua\|Babua]], contra quem guarda rancor duradouro: diz que o sapo empurrou o mundo. Para um gnoll, perder o covil é uma espécie de morte adiada, e a perda do território o empurrou para a vida errante de mercenário.
+Perdeu a toca duas vezes: primeiro para os [[_wiki/racas/shadar\|shadars]], depois para uma criatura que ele descreve como sapo, contra a qual guarda rancor duradouro: diz que o sapo empurrou o mundo. Para um gnoll, perder o covil é uma espécie de morte adiada, e a perda do território o empurrou para a vida errante de mercenário.
 
 ### Em campo
 
