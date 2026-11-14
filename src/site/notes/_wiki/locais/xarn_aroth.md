@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/xarn_aroth.md","permalink":"/pt/locais/xarn-aroth/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/xarn_aroth.md","permalink":"/pt/locais/xarn-aroth/","lexLang":"pt-BR","lexAlt":"/locais/xarn-aroth/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Xarn’Aroth

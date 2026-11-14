@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/lendalas.md","permalink":"/pt/locais/lendalas/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/lendalas.md","permalink":"/pt/locais/lendalas/","lexLang":"pt-BR","lexAlt":"/locais/lendalas/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Lendalas

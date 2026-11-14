@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/tabua_reversa.md","permalink":"/pt/artefatos/tabua-reversa/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/tabua_reversa.md","permalink":"/pt/artefatos/tabua-reversa/","lexLang":"pt-BR","lexAlt":"/artefatos/tabua-reversa/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Tábua Reversa

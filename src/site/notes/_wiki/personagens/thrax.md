@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/thrax.md","permalink":"/pt/personagens/thrax/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/thrax.md","permalink":"/pt/personagens/thrax/","lexLang":"pt-BR","lexAlt":"/personagens/thrax/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Thrax

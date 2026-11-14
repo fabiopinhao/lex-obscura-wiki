@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/vor-ghol.md","permalink":"/pt/locais/vor-ghol/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/vor-ghol.md","permalink":"/pt/locais/vor-ghol/","lexLang":"pt-BR","lexAlt":"/locais/vor-ghol/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Vor-Ghol

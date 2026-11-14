@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/de_anima_vendita.md","permalink":"/pt/artefatos/de-anima-vendita/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/de_anima_vendita.md","permalink":"/pt/artefatos/de-anima-vendita/","lexLang":"pt-BR","lexAlt":"/artefatos/de-anima-vendita/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # De Anima Vendita

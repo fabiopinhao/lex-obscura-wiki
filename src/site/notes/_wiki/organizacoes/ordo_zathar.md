@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/ordo_zathar.md","permalink":"/pt/organizacoes/ordo-zathar/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/ordo_zathar.md","permalink":"/pt/organizacoes/ordo-zathar/","lexLang":"pt-BR","lexAlt":"/organizacoes/ordo-zathar/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ordo Zathar

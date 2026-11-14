@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/qadesh.md","permalink":"/pt/locais/qadesh/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/qadesh.md","permalink":"/pt/locais/qadesh/","lexLang":"pt-BR","lexAlt":"/locais/qadesh/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Qadesh

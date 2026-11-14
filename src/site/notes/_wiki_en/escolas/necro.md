@@ -4,7 +4,7 @@
 
 # Necro
 
-Necro is the pure black school that manipulates the energy of death through subtraction: it removes heat, removes will, removes the spark that distinguishes living flesh from dead matter. It is one of the disciplines of black magic, whose domain belongs not to [[_wiki/panteao/vozrador\|Vozrador]], but to [[_wiki_en/cosmologia/diabos\|devils]] and black gods bound by separate pacts. Its key feeling is the cold acceptance of death as a natural state. Its opposing counterpart is [[_wiki_en/escolas/vita\|Vita]].
+Necro is the pure black school that manipulates the energy of death through subtraction: it removes heat, removes will, removes the spark that distinguishes living flesh from dead matter. It is one of the disciplines of black magic, whose domain belongs not to [[_wiki_en/panteao/vozrador\|Vozrador]], but to [[_wiki_en/cosmologia/diabos\|devils]] and black gods bound by separate pacts. Its key feeling is the cold acceptance of death as a natural state. Its opposing counterpart is [[_wiki_en/escolas/vita\|Vita]].
 
 ### Principle
 
@@ -16,7 +16,7 @@ The mechanics scale from the touch that cools to the legion that marches. Rigor 
 
 ### Costs
 
-The ontological cost operates through progressive desensitization. First, funerals seem like excessive ceremony; then corpses become material, no longer people who once were; next, death itself ceases to be feared or relevant; finally, the distinction between living and dead loses all moral meaning. At this stage, the practitioner is discarded for reanimating without authorization and sent to the Eternal Vigil, in a terminal and structural irony: the necromancer ends up preserved like the dead they manipulated. The [[_wiki_en/organizacoes/imperio_sombrio\|Empire]] also recruits necromancers such as [[_wiki/locais/xarn_zareth\|Xarn’Zareth]], for the maintenance of undead and the custody of catacombs.
+The ontological cost operates through progressive desensitization. First, funerals seem like excessive ceremony; then corpses become material, no longer people who once were; next, death itself ceases to be feared or relevant; finally, the distinction between living and dead loses all moral meaning. At this stage, the practitioner is discarded for reanimating without authorization and sent to the Eternal Vigil, in a terminal and structural irony: the necromancer ends up preserved like the dead they manipulated. The [[_wiki_en/organizacoes/imperio_sombrio\|Empire]] also recruits necromancers such as [[_wiki_en/locais/xarn_zareth\|Xarn’Zareth]], for the maintenance of undead and the custody of catacombs.
 
 ### Combinations
 

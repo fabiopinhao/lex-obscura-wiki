@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/vhraxil.md","permalink":"/pt/personagens/vhraxil/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/vhraxil.md","permalink":"/pt/personagens/vhraxil/","lexLang":"pt-BR","lexAlt":"/personagens/vhraxil/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Vhraxil

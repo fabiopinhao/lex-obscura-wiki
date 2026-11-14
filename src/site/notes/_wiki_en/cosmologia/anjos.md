@@ -4,7 +4,7 @@
 
 # Angels
 
-The angels, also called White Gods or Celestials, are the divine category associated with the white [[_wiki/cosmologia/cor_arcana\|arcane color]]: justice, purity, and moral order. They inhabit distant celestial planes, described by devotees as wondrous and perfect.
+The angels, also called White Gods or Celestials, are the divine category associated with the white [[_wiki_en/cosmologia/cor_arcana\|arcane color]]: justice, purity, and moral order. They inhabit distant celestial planes, described by devotees as wondrous and perfect.
 
 ### Nature
 
@@ -16,12 +16,12 @@ The bond with angels operates through [[_wiki_en/magia/devotio_sancta\|Devotio S
 
 ### The Álvarars
 
-In the [[_wiki/conceitos/primeira_era\|First Era]], the most devout practitioners produced the [[_wiki_en/racas/alvarar\|Álvarars]]: individuals who claimed to descend from angels and embodied celestial gifts. They acted as paladins and clerics, moralizers who imposed their code through persuasion or by the sword. This imposition divided humans and converted pagan societies to the celestial faith. Where the [[_wiki_en/racas/luminares\|Luminars]] never tried to reform humanity, the Álvarars made this their purpose.
+In the [[_wiki_en/conceitos/primeira_era\|First Era]], the most devout practitioners produced the [[_wiki_en/racas/alvarar\|Álvarars]]: individuals who claimed to descend from angels and embodied celestial gifts. They acted as paladins and clerics, moralizers who imposed their code through persuasion or by the sword. This imposition divided humans and converted pagan societies to the celestial faith. Where the [[_wiki_en/racas/luminares\|Luminars]] never tried to reform humanity, the Álvarars made this their purpose.
 
 ### Decline in Reinkard
 
-The angels were neither defeated nor imprisoned: they lost relevance. The dominion of shadows made [[_wiki/locais/reinkard\|Reinkard]] inhospitable to their influence. Where the [[_wiki_en/cosmologia/titas\|titans]] negotiated pragmatic compromises, the angels refused any concession and saw their presence dwindle. [[_wiki/personagens/peredur\|Peredur]] formulated the judgment: “they perished through inflexible purity.” [[_wiki/panteao/azazel\|Azazel]] is free, but irrelevant in Reinkard, and would need a civilizational transformation to regain a presence. The luminous faith survives clandestinely on the fringes of the [[_wiki_en/organizacoes/imperio_sombrio\|Empire]], without institutional strength: [[_wiki_en/personagens/abramis\|Abramis]], priest of [[_wiki/locais/niedellin\|Niedellin]], is a devotee of the [[_wiki_en/organizacoes/ordem_de_azazel\|Order of Azazel]].
+The angels were neither defeated nor imprisoned: they lost relevance. The dominion of shadows made [[_wiki_en/locais/reinkard\|Reinkard]] inhospitable to their influence. Where the [[_wiki_en/cosmologia/titas\|titans]] negotiated pragmatic compromises, the angels refused any concession and saw their presence dwindle. [[_wiki_en/personagens/peredur\|Peredur]] formulated the judgment: “they perished through inflexible purity.” [[_wiki_en/panteao/azazel\|Azazel]] is free, but irrelevant in Reinkard, and would need a civilizational transformation to regain a presence. The luminous faith survives clandestinely on the fringes of the [[_wiki_en/organizacoes/imperio_sombrio\|Empire]], without institutional strength: [[_wiki_en/personagens/abramis\|Abramis]], priest of [[_wiki_en/locais/niedellin\|Niedellin]], is a devotee of the [[_wiki_en/organizacoes/ordem_de_azazel\|Order of Azazel]].
 
 ### Named Angels
 
-Azazel is the god of luminous justice, of whom Abramis is a devotee. [[_wiki/panteao/israfil\|Israfil]] is an angel associated with blessing.
+Azazel is the god of luminous justice, of whom Abramis is a devotee. [[_wiki_en/panteao/israfil\|Israfil]] is an angel associated with blessing.

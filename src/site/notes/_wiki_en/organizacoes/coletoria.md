@@ -4,7 +4,7 @@
 
 # The Collectory
 
-The Collectory is the administrative arm of the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]] responsible for collecting debts and taxes, headquartered in [[_wiki/locais/morvgrad\|Morvgrad]] and numbering a few dozen members. It answers de jure to the [[_wiki_en/organizacoes/conselho_sombrio\|Shadow Council]] and is headed by [[_wiki/personagens/vyrensen\|Malachar Vyrensen]], known as “The Collector of Debts”.
+The Collectory is the administrative arm of the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]] responsible for collecting debts and taxes, headquartered in [[_wiki_en/locais/morvgrad\|Morvgrad]] and numbering a few dozen members. It answers de jure to the [[_wiki_en/organizacoes/conselho_sombrio\|Shadow Council]] and is headed by [[_wiki_en/personagens/vyrensen\|Malachar Vyrensen]], known as “The Collector of Debts”.
 
 ### Parallel Espionage Network
 

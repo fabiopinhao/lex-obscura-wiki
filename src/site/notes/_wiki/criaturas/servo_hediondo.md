@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/servo_hediondo.md","permalink":"/pt/criaturas/servo-hediondo/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/servo_hediondo.md","permalink":"/pt/criaturas/servo-hediondo/","lexLang":"pt-BR","lexAlt":"/criaturas/servo-hediondo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Servo Hediondo

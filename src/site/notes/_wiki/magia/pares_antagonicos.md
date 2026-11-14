@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/pares_antagonicos.md","permalink":"/pt/magia/pares-antagonicos/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/pares_antagonicos.md","permalink":"/pt/magia/pares-antagonicos/","lexLang":"pt-BR","lexAlt":"/magia/pares-antagonicos/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Pares Antagônicos

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/thamakard.md","permalink":"/pt/locais/thamakard/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/thamakard.md","permalink":"/pt/locais/thamakard/","lexLang":"pt-BR","lexAlt":"/locais/thamakard/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Thamakard

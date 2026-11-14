@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/quebra_da_barreira.md","permalink":"/pt/eventos/quebra-da-barreira/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/quebra_da_barreira.md","permalink":"/pt/eventos/quebra-da-barreira/","lexLang":"pt-BR","lexAlt":"/eventos/quebra-da-barreira/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Quebra da Barreira Mágica Luminar

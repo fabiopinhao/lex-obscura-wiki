@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/gerut.md","permalink":"/pt/racas/gerut/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/gerut.md","permalink":"/pt/racas/gerut/","lexLang":"pt-BR","lexAlt":"/racas/gerut/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Gerut

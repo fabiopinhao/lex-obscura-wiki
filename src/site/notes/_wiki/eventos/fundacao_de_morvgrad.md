@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/fundacao_de_morvgrad.md","permalink":"/pt/eventos/fundacao-de-morvgrad/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/fundacao_de_morvgrad.md","permalink":"/pt/eventos/fundacao-de-morvgrad/","lexLang":"pt-BR","lexAlt":"/eventos/fundacao-de-morvgrad/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Fundação de Morvgrad e Criação da Lex Obscura

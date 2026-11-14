@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/yelvanna.md","permalink":"/pt/panteao/yelvanna/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/yelvanna.md","permalink":"/pt/panteao/yelvanna/","lexLang":"pt-BR","lexAlt":"/panteao/yelvanna/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Yelvanna

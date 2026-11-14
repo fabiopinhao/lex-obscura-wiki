@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/margau.md","permalink":"/pt/racas/margau/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/margau.md","permalink":"/pt/racas/margau/","lexLang":"pt-BR","lexAlt":"/racas/margau/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Margáu

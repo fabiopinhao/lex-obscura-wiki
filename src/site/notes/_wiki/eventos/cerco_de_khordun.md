@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/cerco_de_khordun.md","permalink":"/pt/eventos/cerco-de-khordun/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/cerco_de_khordun.md","permalink":"/pt/eventos/cerco-de-khordun/","lexLang":"pt-BR","lexAlt":"/eventos/cerco-de-khordun/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Cerco de Khordun

@@ -4,7 +4,7 @@
 
 # Devils
 
-Devils are the most ambitious among the divine categories. The black [[_wiki/cosmologia/cor_arcana\|arcane color]] defines them: control, dark order, dominion over souls. Their existential planes are hidden, distinct from one another, and shrouded in mystery.
+Devils are the most ambitious among the divine categories. The black [[_wiki_en/cosmologia/cor_arcana\|arcane color]] defines them: control, dark order, dominion over souls. Their existential planes are hidden, distinct from one another, and shrouded in mystery.
 
 ### Nature
 
@@ -16,10 +16,10 @@ The bond with devils operates through [[_wiki_en/magia/pactum_diaboli\|Pactum Di
 
 ### The Twelve of the Council
 
-The Hall of the [[_wiki_en/organizacoes/conselho_sombrio\|Shadow Council]], in [[_wiki/locais/morvgrad\|Morvgrad]], displays twelve obsidian statues on the ceiling, representing the twelve devils of the dark pantheon. [[_wiki/panteao/vozrador\|Vozrador]] is the twelfth, and the wear on his statue contrasts with that of the others.
+The Hall of the [[_wiki_en/organizacoes/conselho_sombrio\|Shadow Council]], in [[_wiki_en/locais/morvgrad\|Morvgrad]], displays twelve obsidian statues on the ceiling, representing the twelve devils of the dark pantheon. [[_wiki_en/panteao/vozrador\|Vozrador]] is the twelfth, and the wear on his statue contrasts with that of the others.
 
-Devils are divided into two informal factions: the institutionalist faction, aligned with [[_wiki/panteao/velmorain\|Velmorain]], which prioritizes order, the Justiciar system, and rigorous bureaucracy; and the expansionist faction, aligned with [[_wiki/panteao/malagoth\|Malagoth]], which demands perpetual territorial conquest.
+Devils are divided into two informal factions: the institutionalist faction, aligned with [[_wiki_en/panteao/velmorain\|Velmorain]], which prioritizes order, the Justiciar system, and rigorous bureaucracy; and the expansionist faction, aligned with [[_wiki_en/panteao/malagoth\|Malagoth]], which demands perpetual territorial conquest.
 
 ### Imprisonment
 
-Like any god with an existential plane of its own, except for [[_wiki_en/cosmologia/siderais\|sidereals]], who cannot be imprisoned because they have no fixed domain, devils can be imprisoned in their plane through the actions of other gods. Sealed within their domain, they remain conscious but unable to influence [[_wiki/locais/thamakard\|Thamakard]]. Imprisonment is exceptional and requires an alliance between gods and extreme motivation. The canonical case is that of Vozrador, imprisoned by an alliance between Malagoth and Velmorain about fifty-five years ago.
+Like any god with an existential plane of its own, except for [[_wiki_en/cosmologia/siderais\|sidereals]], who cannot be imprisoned because they have no fixed domain, devils can be imprisoned in their plane through the actions of other gods. Sealed within their domain, they remain conscious but unable to influence [[_wiki_en/locais/thamakard\|Thamakard]]. Imprisonment is exceptional and requires an alliance between gods and extreme motivation. The canonical case is that of Vozrador, imprisoned by an alliance between Malagoth and Velmorain about fifty-five years ago.

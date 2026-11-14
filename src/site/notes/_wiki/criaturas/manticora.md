@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/manticora.md","permalink":"/pt/criaturas/manticora/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/manticora.md","permalink":"/pt/criaturas/manticora/","lexLang":"pt-BR","lexAlt":"/criaturas/manticora/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Mantícora

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/ermo_de_lendalas.md","permalink":"/pt/locais/ermo-de-lendalas/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/ermo_de_lendalas.md","permalink":"/pt/locais/ermo-de-lendalas/","lexLang":"pt-BR","lexAlt":"/locais/ermo-de-lendalas/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ermo de Lendalas

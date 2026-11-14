@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/ataque_fracassado_a_thalserin.md","permalink":"/pt/eventos/ataque-fracassado-a-thalserin/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/ataque_fracassado_a_thalserin.md","permalink":"/pt/eventos/ataque-fracassado-a-thalserin/","lexLang":"pt-BR","lexAlt":"/eventos/ataque-fracassado-a-thalserin/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ataque Fracassado a Thal’Serin

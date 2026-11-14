@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/minotauro.md","permalink":"/pt/racas/minotauro/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/minotauro.md","permalink":"/pt/racas/minotauro/","lexLang":"pt-BR","lexAlt":"/racas/minotauro/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Minotauro

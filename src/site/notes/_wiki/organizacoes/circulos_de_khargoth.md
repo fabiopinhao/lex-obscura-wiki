@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/circulos_de_khargoth.md","permalink":"/pt/organizacoes/circulos-de-khargoth/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/circulos_de_khargoth.md","permalink":"/pt/organizacoes/circulos-de-khargoth/","lexLang":"pt-BR","lexAlt":"/organizacoes/circulos-de-khargoth/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Círculos de Khargoth

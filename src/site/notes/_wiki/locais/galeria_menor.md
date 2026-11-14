@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/galeria_menor.md","permalink":"/pt/locais/galeria-menor/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/galeria_menor.md","permalink":"/pt/locais/galeria-menor/","lexLang":"pt-BR","lexAlt":"/locais/galeria-menor/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Galeria Menor

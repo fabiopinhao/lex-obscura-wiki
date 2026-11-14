@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/dromos_draconis.md","permalink":"/pt/locais/dromos-draconis/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/dromos_draconis.md","permalink":"/pt/locais/dromos-draconis/","lexLang":"pt-BR","lexAlt":"/locais/dromos-draconis/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Dromos Draconis

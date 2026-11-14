@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/orvhal.md","permalink":"/pt/personagens/orvhal/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/orvhal.md","permalink":"/pt/personagens/orvhal/","lexLang":"pt-BR","lexAlt":"/personagens/orvhal/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Orvhal

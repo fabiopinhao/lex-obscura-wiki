@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/guerra_formal_e_impasse_continental.md","permalink":"/pt/eventos/guerra-formal-e-impasse-continental/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/guerra_formal_e_impasse_continental.md","permalink":"/pt/eventos/guerra-formal-e-impasse-continental/","lexLang":"pt-BR","lexAlt":"/eventos/guerra-formal-e-impasse-continental/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Guerra Formal e Impasse Continental

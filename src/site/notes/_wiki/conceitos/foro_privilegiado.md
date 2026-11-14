@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/foro_privilegiado.md","permalink":"/pt/conceitos/foro-privilegiado/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/foro_privilegiado.md","permalink":"/pt/conceitos/foro-privilegiado/","lexLang":"pt-BR","lexAlt":"/conceitos/foro-privilegiado/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Foro Privilegiado

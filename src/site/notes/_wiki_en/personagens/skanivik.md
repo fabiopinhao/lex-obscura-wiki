@@ -4,7 +4,7 @@
 
 # Skanivik
 
-Skanivik is a [[_wiki_en/racas/murano\|Muran]], an independent spy and fugitive, who operates between [[_wiki/locais/vor-ghol\|Vor-Ghol]] and [[_wiki/locais/morvgrad\|Morvgrad]]. A cunning and perpetually hungry survivor, he ironically calls himself the “Great Devourer of [[_wiki_en/racas/shadar\|Shadars]]”. He was captured by the Justiciar [[_wiki_en/personagens/orum-rahru\|Orum-Rahru]], who deceived him with a fake magical collar, a manacle of arcane suppression forced around his neck, and used him as a reluctant guide in the [[_wiki/locais/templo_de_vozrador\|temple of Vozrador]]. The memory of that collar still haunts him.
+Skanivik is a [[_wiki_en/racas/murano\|Muran]], an independent spy and fugitive, who operates between [[_wiki_en/locais/vor-ghol\|Vor-Ghol]] and [[_wiki_en/locais/morvgrad\|Morvgrad]]. A cunning and perpetually hungry survivor, he ironically calls himself the “Great Devourer of [[_wiki_en/racas/shadar\|Shadars]]”. He was captured by the Justiciar [[_wiki_en/personagens/orum-rahru\|Orum-Rahru]], who deceived him with a fake magical collar, a manacle of arcane suppression forced around his neck, and used him as a reluctant guide in the [[_wiki_en/locais/templo_de_vozrador\|temple of Vozrador]]. The memory of that collar still haunts him.
 
 ### Appearance
 
@@ -18,4 +18,4 @@ His whiskers display what he knows and hides. The left one twitches on its own w
 
 ### Relationships
 
-He was employed by the necromancer [[_wiki/personagens/qaelun\|Qaelun]], whom he eventually betrayed, and whom Orum killed: to Skanivik, loyalty is a commodity, not a value. His relationship with Orum-Rahru arose from coercion and ended in liberation, a rare outcome among the Justiciars.
+He was employed by the necromancer [[_wiki_en/personagens/qaelun\|Qaelun]], whom he eventually betrayed, and whom Orum killed: to Skanivik, loyalty is a commodity, not a value. His relationship with Orum-Rahru arose from coercion and ended in liberation, a rare outcome among the Justiciars.

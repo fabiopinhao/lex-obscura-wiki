@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/skinitz.md","permalink":"/pt/personagens/skinitz/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/skinitz.md","permalink":"/pt/personagens/skinitz/","lexLang":"pt-BR","lexAlt":"/personagens/skinitz/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Skinitz

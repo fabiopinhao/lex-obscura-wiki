@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/noctiluz.md","permalink":"/pt/cosmologia/noctiluz/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/noctiluz.md","permalink":"/pt/cosmologia/noctiluz/","lexLang":"pt-BR","lexAlt":"/cosmologia/noctiluz/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Noctiluz

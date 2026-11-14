@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/draconico.md","permalink":"/pt/linguas/draconico/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/draconico.md","permalink":"/pt/linguas/draconico/","lexLang":"pt-BR","lexAlt":"/linguas/draconico/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Dracônico

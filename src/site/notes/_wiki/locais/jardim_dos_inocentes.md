@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/jardim_dos_inocentes.md","permalink":"/pt/locais/jardim-dos-inocentes/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/jardim_dos_inocentes.md","permalink":"/pt/locais/jardim-dos-inocentes/","lexLang":"pt-BR","lexAlt":"/locais/jardim-dos-inocentes/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Jardim dos Inocentes

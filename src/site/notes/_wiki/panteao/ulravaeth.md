@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/ulravaeth.md","permalink":"/pt/panteao/ulravaeth/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/ulravaeth.md","permalink":"/pt/panteao/ulravaeth/","lexLang":"pt-BR","lexAlt":"/panteao/ulravaeth/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ulravaeth

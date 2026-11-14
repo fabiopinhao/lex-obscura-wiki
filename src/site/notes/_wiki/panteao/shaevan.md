@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/shaevan.md","permalink":"/pt/panteao/shaevan/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/shaevan.md","permalink":"/pt/panteao/shaevan/","lexLang":"pt-BR","lexAlt":"/panteao/shaevan/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Shaevan

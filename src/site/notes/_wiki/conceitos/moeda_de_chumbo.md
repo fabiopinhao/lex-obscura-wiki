@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/moeda_de_chumbo.md","permalink":"/pt/conceitos/moeda-de-chumbo/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/moeda_de_chumbo.md","permalink":"/pt/conceitos/moeda-de-chumbo/","lexLang":"pt-BR","lexAlt":"/conceitos/moeda-de-chumbo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Moeda de Chumbo

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/guerras_raciais.md","permalink":"/pt/eventos/guerras-raciais/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/guerras_raciais.md","permalink":"/pt/eventos/guerras-raciais/","lexLang":"pt-BR","lexAlt":"/eventos/guerras-raciais/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Guerras Raciais

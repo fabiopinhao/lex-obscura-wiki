@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/ruhavel.md","permalink":"/pt/panteao/ruhavel/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/ruhavel.md","permalink":"/pt/panteao/ruhavel/","lexLang":"pt-BR","lexAlt":"/panteao/ruhavel/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ruhavel

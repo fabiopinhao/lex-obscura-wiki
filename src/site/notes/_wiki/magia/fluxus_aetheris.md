@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/fluxus_aetheris.md","permalink":"/pt/magia/fluxus-aetheris/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/fluxus_aetheris.md","permalink":"/pt/magia/fluxus-aetheris/","lexLang":"pt-BR","lexAlt":"/magia/fluxus-aetheris/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Fluxus Aetheris

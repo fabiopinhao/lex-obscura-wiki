@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/xarn.md","permalink":"/pt/personagens/xarn/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/xarn.md","permalink":"/pt/personagens/xarn/","lexLang":"pt-BR","lexAlt":"/personagens/xarn/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Xarn

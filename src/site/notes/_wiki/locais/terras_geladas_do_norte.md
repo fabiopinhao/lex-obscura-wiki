@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/terras_geladas_do_norte.md","permalink":"/pt/locais/terras-geladas-do-norte/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/terras_geladas_do_norte.md","permalink":"/pt/locais/terras-geladas-do-norte/","lexLang":"pt-BR","lexAlt":"/locais/terras-geladas-do-norte/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Terras Geladas do Norte

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/dridar.md","permalink":"/pt/criaturas/dridar/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/dridar.md","permalink":"/pt/criaturas/dridar/","lexLang":"pt-BR","lexAlt":"/criaturas/dridar/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Drídar

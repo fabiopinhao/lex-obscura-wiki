@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/tribunal_de_morvgrad.md","permalink":"/pt/organizacoes/tribunal-de-morvgrad/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/tribunal_de_morvgrad.md","permalink":"/pt/organizacoes/tribunal-de-morvgrad/","lexLang":"pt-BR","lexAlt":"/organizacoes/tribunal-de-morvgrad/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Tribunal de Morvgrad

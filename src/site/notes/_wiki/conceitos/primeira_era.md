@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/primeira_era.md","permalink":"/pt/conceitos/primeira-era/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/primeira_era.md","permalink":"/pt/conceitos/primeira-era/","lexLang":"pt-BR","lexAlt":"/conceitos/primeira-era/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Primeira Era

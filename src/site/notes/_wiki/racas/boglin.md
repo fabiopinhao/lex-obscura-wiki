@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/boglin.md","permalink":"/pt/racas/boglin/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/boglin.md","permalink":"/pt/racas/boglin/","lexLang":"pt-BR","lexAlt":"/racas/boglin/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Boglin

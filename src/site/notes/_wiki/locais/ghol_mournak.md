@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/ghol_mournak.md","permalink":"/pt/locais/ghol-mournak/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/ghol_mournak.md","permalink":"/pt/locais/ghol-mournak/","lexLang":"pt-BR","lexAlt":"/locais/ghol-mournak/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ghol’Mournak

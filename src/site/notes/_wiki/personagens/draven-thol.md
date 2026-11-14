@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/draven-thol.md","permalink":"/pt/personagens/draven-thol/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/draven-thol.md","permalink":"/pt/personagens/draven-thol/","lexLang":"pt-BR","lexAlt":"/personagens/draven-thol/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Draven-Thol

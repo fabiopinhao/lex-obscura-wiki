@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/segunda_era.md","permalink":"/pt/conceitos/segunda-era/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/segunda_era.md","permalink":"/pt/conceitos/segunda-era/","lexLang":"pt-BR","lexAlt":"/conceitos/segunda-era/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Segunda Era

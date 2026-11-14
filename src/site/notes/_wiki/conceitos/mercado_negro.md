@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/mercado_negro.md","permalink":"/pt/conceitos/mercado-negro/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/mercado_negro.md","permalink":"/pt/conceitos/mercado-negro/","lexLang":"pt-BR","lexAlt":"/conceitos/mercado-negro/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Mercado Negro

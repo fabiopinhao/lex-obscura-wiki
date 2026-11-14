@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/culto_de_hazburim.md","permalink":"/pt/organizacoes/culto-de-hazburim/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/culto_de_hazburim.md","permalink":"/pt/organizacoes/culto-de-hazburim/","lexLang":"pt-BR","lexAlt":"/organizacoes/culto-de-hazburim/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Culto de Hazburim

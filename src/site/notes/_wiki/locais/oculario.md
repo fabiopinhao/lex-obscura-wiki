@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/oculario.md","permalink":"/pt/locais/oculario/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/oculario.md","permalink":"/pt/locais/oculario/","lexLang":"pt-BR","lexAlt":"/locais/oculario/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Oculário

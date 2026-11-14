@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/corvanthos.md","permalink":"/pt/panteao/corvanthos/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/corvanthos.md","permalink":"/pt/panteao/corvanthos/","lexLang":"pt-BR","lexAlt":"/panteao/corvanthos/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Corvanthos

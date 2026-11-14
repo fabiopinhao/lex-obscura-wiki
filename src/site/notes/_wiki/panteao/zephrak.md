@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/zephrak.md","permalink":"/pt/panteao/zephrak/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/zephrak.md","permalink":"/pt/panteao/zephrak/","lexLang":"pt-BR","lexAlt":"/panteao/zephrak/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Zephrak

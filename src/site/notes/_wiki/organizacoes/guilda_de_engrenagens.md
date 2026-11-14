@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/guilda_de_engrenagens.md","permalink":"/pt/organizacoes/guilda-de-engrenagens/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/guilda_de_engrenagens.md","permalink":"/pt/organizacoes/guilda-de-engrenagens/","lexLang":"pt-BR","lexAlt":"/organizacoes/guilda-de-engrenagens/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Guilda de Engrenagens

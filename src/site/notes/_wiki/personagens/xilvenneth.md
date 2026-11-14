@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/xilvenneth.md","permalink":"/pt/personagens/xilvenneth/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/xilvenneth.md","permalink":"/pt/personagens/xilvenneth/","lexLang":"pt-BR","lexAlt":"/personagens/xilvenneth/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Xilvenneth

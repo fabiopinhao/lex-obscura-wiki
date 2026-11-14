@@ -14,7 +14,7 @@ In common speech, mortals rarely distinguish Vinculum Daemonis from [[_wiki_en/m
 
 ### Channeling
 
-The transfer of [[_wiki/cosmologia/magi\|magi]] in Vinculum Daemonis is visceral and invasive. The demon pours out raw power without contractual mediation, in a process called Infusion, amplifying the schools’ key emotions with capricious intensity. Infusion can fluctuate according to the will of the demon, which amplifies for amusement or sabotages out of boredom. The bond is inherently unstable: the practitioner receives more power, but with less control over the dosage.
+The transfer of [[_wiki_en/cosmologia/magi\|magi]] in Vinculum Daemonis is visceral and invasive. The demon pours out raw power without contractual mediation, in a process called Infusion, amplifying the schools’ key emotions with capricious intensity. Infusion can fluctuate according to the will of the demon, which amplifies for amusement or sabotages out of boredom. The bond is inherently unstable: the practitioner receives more power, but with less control over the dosage.
 
 ### The Bond
 

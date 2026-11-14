@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/eralmir_vess.md","permalink":"/pt/personagens/eralmir-vess/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/eralmir_vess.md","permalink":"/pt/personagens/eralmir-vess/","lexLang":"pt-BR","lexAlt":"/personagens/eralmir-vess/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Eralmir Vess

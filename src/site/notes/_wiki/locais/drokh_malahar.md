@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/drokh_malahar.md","permalink":"/pt/locais/drokh-malahar/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/drokh_malahar.md","permalink":"/pt/locais/drokh-malahar/","lexLang":"pt-BR","lexAlt":"/locais/drokh-malahar/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Drokh’Malahar

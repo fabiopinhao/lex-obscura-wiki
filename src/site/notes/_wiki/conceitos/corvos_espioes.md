@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/corvos_espioes.md","permalink":"/pt/conceitos/corvos-espioes/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/corvos_espioes.md","permalink":"/pt/conceitos/corvos-espioes/","lexLang":"pt-BR","lexAlt":"/conceitos/corvos-espioes/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Corvos Espiões

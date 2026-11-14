@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/zuvaneth.md","permalink":"/pt/panteao/zuvaneth/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/zuvaneth.md","permalink":"/pt/panteao/zuvaneth/","lexLang":"pt-BR","lexAlt":"/panteao/zuvaneth/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Zuvaneth

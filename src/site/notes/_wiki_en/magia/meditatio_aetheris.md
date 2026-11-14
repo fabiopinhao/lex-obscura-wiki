@@ -4,7 +4,7 @@
 
 # Meditatio Aetheris
 
-Meditatio Aetheris is the system of access to blue magic, established neither by contract nor by sacrifice, but by mental discipline. Through continuous training of consciousness, the practitioner reaches the [[_wiki_en/cosmologia/siderais\|sidereals]], entities of pure intellect from the [[_wiki/cosmologia/plano_etereo\|ethereal plane]], and receives from them power proportional to the clarity of their meditation.
+Meditatio Aetheris is the system of access to blue magic, established neither by contract nor by sacrifice, but by mental discipline. Through continuous training of consciousness, the practitioner reaches the [[_wiki_en/cosmologia/siderais\|sidereals]], entities of pure intellect from the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]], and receives from them power proportional to the clarity of their meditation.
 
 ### Nature
 

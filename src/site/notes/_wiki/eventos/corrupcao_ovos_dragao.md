@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/corrupcao_ovos_dragao.md","permalink":"/pt/eventos/corrupcao-ovos-dragao/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/corrupcao_ovos_dragao.md","permalink":"/pt/eventos/corrupcao-ovos-dragao/","lexLang":"pt-BR","lexAlt":"/eventos/corrupcao-ovos-dragao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Corrupção dos Ovos de Dragão

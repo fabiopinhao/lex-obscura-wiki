@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/pico_de_nethys.md","permalink":"/pt/locais/pico-de-nethys/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/pico_de_nethys.md","permalink":"/pt/locais/pico-de-nethys/","lexLang":"pt-BR","lexAlt":"/locais/pico-de-nethys/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Pico de Nethys

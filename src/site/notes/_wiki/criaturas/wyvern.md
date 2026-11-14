@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/wyvern.md","permalink":"/pt/criaturas/wyvern/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/wyvern.md","permalink":"/pt/criaturas/wyvern/","lexLang":"pt-BR","lexAlt":"/criaturas/wyvern/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Wyvern

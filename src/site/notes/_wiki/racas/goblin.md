@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/goblin.md","permalink":"/pt/racas/goblin/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/goblin.md","permalink":"/pt/racas/goblin/","lexLang":"pt-BR","lexAlt":"/racas/goblin/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Goblin

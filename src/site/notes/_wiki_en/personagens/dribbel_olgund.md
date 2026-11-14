@@ -4,7 +4,7 @@
 
 # Dribbel Olgund
 
-Dribbel Olgund, the Trade-Breaker, is a [[_wiki_en/racas/derro\|Derro]] who makes the black market of [[_wiki/locais/morvgrad\|Morvgrad]] his narrow kingdom. At the [[_wiki/locais/mercado_oeste\|West Market]], he operates the [[_wiki/organizacoes/guilda_dos_gnomos\|Gnome Guild]] under a forged seal, selling dubious cures and keeping, buried beneath his chatter, a rare knowledge: the routes through the Depths of [[_wiki/locais/vor-ghol\|Vor-Ghol]]. He survives by cunning, not strength, and is afraid enough to be dangerous precisely when he talks too much.
+Dribbel Olgund, the Trade-Breaker, is a [[_wiki_en/racas/derro\|Derro]] who makes the black market of [[_wiki_en/locais/morvgrad\|Morvgrad]] his narrow kingdom. At the [[_wiki_en/locais/mercado_oeste\|West Market]], he operates the [[_wiki_en/organizacoes/guilda_dos_gnomos\|Gnome Guild]] under a forged seal, selling dubious cures and keeping, buried beneath his chatter, a rare knowledge: the routes through the Depths of [[_wiki_en/locais/vor-ghol\|Vor-Ghol]]. He survives by cunning, not strength, and is afraid enough to be dangerous precisely when he talks too much.
 
 ### Appearance
 

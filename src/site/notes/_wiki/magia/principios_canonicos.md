@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/principios_canonicos.md","permalink":"/pt/magia/principios-canonicos/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/principios_canonicos.md","permalink":"/pt/magia/principios-canonicos/","lexLang":"pt-BR","lexAlt":"/magia/principios-canonicos/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Princípios Canônicos

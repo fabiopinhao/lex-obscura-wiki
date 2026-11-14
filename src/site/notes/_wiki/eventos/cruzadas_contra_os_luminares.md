@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/cruzadas_contra_os_luminares.md","permalink":"/pt/eventos/cruzadas-contra-os-luminares/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/cruzadas_contra_os_luminares.md","permalink":"/pt/eventos/cruzadas-contra-os-luminares/","lexLang":"pt-BR","lexAlt":"/eventos/cruzadas-contra-os-luminares/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Cruzadas contra os Luminares

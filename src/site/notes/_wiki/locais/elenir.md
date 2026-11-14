@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/elenir.md","permalink":"/pt/locais/elenir/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/elenir.md","permalink":"/pt/locais/elenir/","lexLang":"pt-BR","lexAlt":"/locais/elenir/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Elenir

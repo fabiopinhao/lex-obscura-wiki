@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/canalizador.md","permalink":"/pt/conceitos/canalizador/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/canalizador.md","permalink":"/pt/conceitos/canalizador/","lexLang":"pt-BR","lexAlt":"/conceitos/canalizador/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Canalizador

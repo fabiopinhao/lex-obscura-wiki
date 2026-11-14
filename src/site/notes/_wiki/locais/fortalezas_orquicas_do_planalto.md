@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/fortalezas_orquicas_do_planalto.md","permalink":"/pt/locais/fortalezas-orquicas-do-planalto/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/fortalezas_orquicas_do_planalto.md","permalink":"/pt/locais/fortalezas-orquicas-do-planalto/","lexLang":"pt-BR","lexAlt":"/locais/fortalezas-orquicas-do-planalto/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Fortalezas Órquicas do Planalto

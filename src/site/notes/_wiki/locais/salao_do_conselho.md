@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/salao_do_conselho.md","permalink":"/pt/locais/salao-do-conselho/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/salao_do_conselho.md","permalink":"/pt/locais/salao-do-conselho/","lexLang":"pt-BR","lexAlt":"/locais/salao-do-conselho/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Salão do Conselho

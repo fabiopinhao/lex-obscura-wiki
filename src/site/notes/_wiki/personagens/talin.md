@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/talin.md","permalink":"/pt/personagens/talin/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/talin.md","permalink":"/pt/personagens/talin/","lexLang":"pt-BR","lexAlt":"/personagens/talin/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Talin

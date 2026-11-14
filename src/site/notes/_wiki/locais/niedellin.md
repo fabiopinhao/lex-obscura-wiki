@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/niedellin.md","permalink":"/pt/locais/niedellin/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/niedellin.md","permalink":"/pt/locais/niedellin/","lexLang":"pt-BR","lexAlt":"/locais/niedellin/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Niedellin

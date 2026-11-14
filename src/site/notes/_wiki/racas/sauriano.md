@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/sauriano.md","permalink":"/pt/racas/sauriano/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/sauriano.md","permalink":"/pt/racas/sauriano/","lexLang":"pt-BR","lexAlt":"/racas/sauriano/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Sauriano

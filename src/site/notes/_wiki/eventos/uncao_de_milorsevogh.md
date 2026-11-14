@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/uncao_de_milorsevogh.md","permalink":"/pt/eventos/uncao-de-milorsevogh/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/uncao_de_milorsevogh.md","permalink":"/pt/eventos/uncao-de-milorsevogh/","lexLang":"pt-BR","lexAlt":"/eventos/uncao-de-milorsevogh/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Unção de Milorsevogh

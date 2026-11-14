@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/zanzer.md","permalink":"/pt/personagens/zanzer/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/zanzer.md","permalink":"/pt/personagens/zanzer/","lexLang":"pt-BR","lexAlt":"/personagens/zanzer/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Zanzer

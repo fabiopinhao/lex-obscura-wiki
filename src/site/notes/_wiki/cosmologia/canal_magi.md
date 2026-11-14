@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/canal_magi.md","permalink":"/pt/cosmologia/canal-magi/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/canal_magi.md","permalink":"/pt/cosmologia/canal-magi/","lexLang":"pt-BR","lexAlt":"/cosmologia/canal-magi/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Canal Magi

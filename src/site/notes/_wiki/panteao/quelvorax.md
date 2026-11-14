@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/quelvorax.md","permalink":"/pt/panteao/quelvorax/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/quelvorax.md","permalink":"/pt/panteao/quelvorax/","lexLang":"pt-BR","lexAlt":"/panteao/quelvorax/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Quelvorax

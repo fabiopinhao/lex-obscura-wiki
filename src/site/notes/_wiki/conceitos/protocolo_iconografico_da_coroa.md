@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/protocolo_iconografico_da_coroa.md","permalink":"/pt/conceitos/protocolo-iconografico-da-coroa/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/protocolo_iconografico_da_coroa.md","permalink":"/pt/conceitos/protocolo-iconografico-da-coroa/","lexLang":"pt-BR","lexAlt":"/conceitos/protocolo-iconografico-da-coroa/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Protocolo Iconográfico da Coroa

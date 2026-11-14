@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/nylothrae_durzken.md","permalink":"/pt/personagens/nylothrae-durzken/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/nylothrae_durzken.md","permalink":"/pt/personagens/nylothrae-durzken/","lexLang":"pt-BR","lexAlt":"/personagens/nylothrae-durzken/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Nylothrae Durzken

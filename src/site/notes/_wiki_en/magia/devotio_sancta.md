@@ -10,7 +10,7 @@ In common usage, the system is called simply Sancta, “the magic that rises thr
 
 ### Channeling
 
-The transfer of [[_wiki/cosmologia/magi\|magi]] in Devotio Sancta is called the Gift, and it is sacred and conditional. The angel grants power in proportion to the devotee’s faith and amplifies the key feelings of the schools granted as long as devotion remains pure. Doubt narrows the channel; transgression closes it. The angel’s response varies according to the devotee’s spiritual state, through resonance with faith and not through whim.
+The transfer of [[_wiki_en/cosmologia/magi\|magi]] in Devotio Sancta is called the Gift, and it is sacred and conditional. The angel grants power in proportion to the devotee’s faith and amplifies the key feelings of the schools granted as long as devotion remains pure. Doubt narrows the channel; transgression closes it. The angel’s response varies according to the devotee’s spiritual state, through resonance with faith and not through whim.
 
 ### Process of Devotion
 

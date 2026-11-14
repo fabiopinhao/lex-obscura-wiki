@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/salamandra.md","permalink":"/pt/criaturas/salamandra/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/salamandra.md","permalink":"/pt/criaturas/salamandra/","lexLang":"pt-BR","lexAlt":"/criaturas/salamandra/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Salamandra

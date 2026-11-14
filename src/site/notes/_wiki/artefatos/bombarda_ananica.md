@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/bombarda_ananica.md","permalink":"/pt/artefatos/bombarda-ananica/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/bombarda_ananica.md","permalink":"/pt/artefatos/bombarda-ananica/","lexLang":"pt-BR","lexAlt":"/artefatos/bombarda-ananica/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Bombarda Anânica

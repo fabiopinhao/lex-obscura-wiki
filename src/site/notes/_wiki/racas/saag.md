@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/saag.md","permalink":"/pt/racas/saag/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/saag.md","permalink":"/pt/racas/saag/","lexLang":"pt-BR","lexAlt":"/racas/saag/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Saag

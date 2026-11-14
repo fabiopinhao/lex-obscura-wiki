@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/instituicao_do_verbum_arkhon.md","permalink":"/pt/eventos/instituicao-do-verbum-arkhon/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/instituicao_do_verbum_arkhon.md","permalink":"/pt/eventos/instituicao-do-verbum-arkhon/","lexLang":"pt-BR","lexAlt":"/eventos/instituicao-do-verbum-arkhon/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Instituição do Verbum Arkhon

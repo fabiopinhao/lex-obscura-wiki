@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/ixragor.md","permalink":"/pt/panteao/ixragor/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/ixragor.md","permalink":"/pt/panteao/ixragor/","lexLang":"pt-BR","lexAlt":"/panteao/ixragor/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ixragor

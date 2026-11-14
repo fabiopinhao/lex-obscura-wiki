@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/titanico.md","permalink":"/pt/linguas/titanico/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/titanico.md","permalink":"/pt/linguas/titanico/","lexLang":"pt-BR","lexAlt":"/linguas/titanico/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Titânico

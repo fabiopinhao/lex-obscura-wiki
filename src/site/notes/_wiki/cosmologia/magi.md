@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/magi.md","permalink":"/pt/cosmologia/magi/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/magi.md","permalink":"/pt/cosmologia/magi/","lexLang":"pt-BR","lexAlt":"/cosmologia/magi/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Magi

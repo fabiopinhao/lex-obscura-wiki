@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/submissao_da_ventrista.md","permalink":"/pt/eventos/submissao-da-ventrista/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/submissao_da_ventrista.md","permalink":"/pt/eventos/submissao-da-ventrista/","lexLang":"pt-BR","lexAlt":"/eventos/submissao-da-ventrista/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Submissão da Ventrista

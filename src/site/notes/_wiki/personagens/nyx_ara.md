@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/nyx_ara.md","permalink":"/pt/personagens/nyx-ara/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/nyx_ara.md","permalink":"/pt/personagens/nyx-ara/","lexLang":"pt-BR","lexAlt":"/personagens/nyx-ara/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Nyx’Ara

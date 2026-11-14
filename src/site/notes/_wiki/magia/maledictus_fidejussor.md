@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/maledictus_fidejussor.md","permalink":"/pt/magia/maledictus-fidejussor/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/maledictus_fidejussor.md","permalink":"/pt/magia/maledictus-fidejussor/","lexLang":"pt-BR","lexAlt":"/magia/maledictus-fidejussor/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Maledictus Fidejussor

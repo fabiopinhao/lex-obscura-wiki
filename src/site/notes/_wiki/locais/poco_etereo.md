@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/poco_etereo.md","permalink":"/pt/locais/poco-etereo/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/poco_etereo.md","permalink":"/pt/locais/poco-etereo/","lexLang":"pt-BR","lexAlt":"/locais/poco-etereo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Poço Etéreo

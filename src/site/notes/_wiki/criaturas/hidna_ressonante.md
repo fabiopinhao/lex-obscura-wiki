@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/hidna_ressonante.md","permalink":"/pt/criaturas/hidna-ressonante/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/hidna_ressonante.md","permalink":"/pt/criaturas/hidna-ressonante/","lexLang":"pt-BR","lexAlt":"/criaturas/hidna-ressonante/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Hidna Ressonante

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/reinkard.md","permalink":"/pt/locais/reinkard/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/reinkard.md","permalink":"/pt/locais/reinkard/","lexLang":"pt-BR","lexAlt":"/locais/reinkard/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Reinkard

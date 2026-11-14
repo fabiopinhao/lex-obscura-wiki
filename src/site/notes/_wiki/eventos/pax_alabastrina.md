@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/pax_alabastrina.md","permalink":"/pt/eventos/pax-alabastrina/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/pax_alabastrina.md","permalink":"/pt/eventos/pax-alabastrina/","lexLang":"pt-BR","lexAlt":"/eventos/pax-alabastrina/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Pax Alabastrina

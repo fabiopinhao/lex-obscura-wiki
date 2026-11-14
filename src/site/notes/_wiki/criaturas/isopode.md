@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/isopode.md","permalink":"/pt/criaturas/isopode/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/isopode.md","permalink":"/pt/criaturas/isopode/","lexLang":"pt-BR","lexAlt":"/criaturas/isopode/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Isópode

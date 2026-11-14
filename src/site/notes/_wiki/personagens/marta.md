@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/marta.md","permalink":"/pt/personagens/marta/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/marta.md","permalink":"/pt/personagens/marta/","lexLang":"pt-BR","lexAlt":"/personagens/marta/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Marta

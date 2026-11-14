@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/ravhor.md","permalink":"/pt/personagens/ravhor/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/ravhor.md","permalink":"/pt/personagens/ravhor/","lexLang":"pt-BR","lexAlt":"/personagens/ravhor/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ravhor

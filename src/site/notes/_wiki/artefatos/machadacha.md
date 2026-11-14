@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/machadacha.md","permalink":"/pt/artefatos/machadacha/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/machadacha.md","permalink":"/pt/artefatos/machadacha/","lexLang":"pt-BR","lexAlt":"/artefatos/machadacha/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Machadacha

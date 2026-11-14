@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/lorvaq_val_kir.md","permalink":"/pt/personagens/lorvaq-val-kir/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/lorvaq_val_kir.md","permalink":"/pt/personagens/lorvaq-val-kir/","lexLang":"pt-BR","lexAlt":"/personagens/lorvaq-val-kir/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Lorvaq Val’Kir

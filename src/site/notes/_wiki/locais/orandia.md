@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/orandia.md","permalink":"/pt/locais/orandia/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/orandia.md","permalink":"/pt/locais/orandia/","lexLang":"pt-BR","lexAlt":"/locais/orandia/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Orandia

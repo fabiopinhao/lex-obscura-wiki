@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/ogro.md","permalink":"/pt/criaturas/ogro/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/ogro.md","permalink":"/pt/criaturas/ogro/","lexLang":"pt-BR","lexAlt":"/criaturas/ogro/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ogro

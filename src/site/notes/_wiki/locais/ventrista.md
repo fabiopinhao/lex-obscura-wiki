@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/ventrista.md","permalink":"/pt/locais/ventrista/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/ventrista.md","permalink":"/pt/locais/ventrista/","lexLang":"pt-BR","lexAlt":"/locais/ventrista/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ventrista

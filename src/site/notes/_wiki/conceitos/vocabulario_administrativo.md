@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/vocabulario_administrativo.md","permalink":"/pt/conceitos/vocabulario-administrativo/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/vocabulario_administrativo.md","permalink":"/pt/conceitos/vocabulario-administrativo/","lexLang":"pt-BR","lexAlt":"/conceitos/vocabulario-administrativo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Vocabulário Administrativo

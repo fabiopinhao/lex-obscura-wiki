@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/incendio_primordial.md","permalink":"/pt/cosmologia/incendio-primordial/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/incendio_primordial.md","permalink":"/pt/cosmologia/incendio-primordial/","lexLang":"pt-BR","lexAlt":"/cosmologia/incendio-primordial/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Incêndio Primordial

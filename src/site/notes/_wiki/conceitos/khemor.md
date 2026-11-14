@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/khemor.md","permalink":"/pt/conceitos/khemor/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/khemor.md","permalink":"/pt/conceitos/khemor/","lexLang":"pt-BR","lexAlt":"/conceitos/khemor/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Khemor

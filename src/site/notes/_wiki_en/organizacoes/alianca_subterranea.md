@@ -4,11 +4,11 @@
 
 # The Underground Alliance
 
-The Underground Alliance is the political pact between [[_wiki_en/racas/shadar\|Shadars]] and [[_wiki_en/racas/drul\|Druls]], devised by [[_wiki/personagens/xarn\|Xarn]], who served as its ambassador, in the [[_wiki/conceitos/segunda_era\|Second Era]], when he unified [[_wiki/locais/morvgrad\|Morvgrad]] and established formal relations with [[_wiki/locais/ghilanna\|Ghilanna]]. The pact opened up an unprecedented cultural exchange between the races: the Shadars absorbed the Drul culture of secrecy, the foundation of the [[_wiki_en/organizacoes/templarios\|Templars]], while the Druls gained access to surface resources and military protection.
+The Underground Alliance is the political pact between [[_wiki_en/racas/shadar\|Shadars]] and [[_wiki_en/racas/drul\|Druls]], devised by [[_wiki_en/personagens/xarn\|Xarn]], who served as its ambassador, in the [[_wiki_en/conceitos/segunda_era\|Second Era]], when he unified [[_wiki_en/locais/morvgrad\|Morvgrad]] and established formal relations with [[_wiki_en/locais/ghilanna\|Ghilanna]]. The pact opened up an unprecedented cultural exchange between the races: the Shadars absorbed the Drul culture of secrecy, the foundation of the [[_wiki_en/organizacoes/templarios\|Templars]], while the Druls gained access to surface resources and military protection.
 
 ### Mechanics
 
-The Alliance is formalized along two axes. In the political sphere, it brings together the [[_wiki_en/organizacoes/conselho_sombrio\|Shadow Council]] and the Matriarchal Houses; in the religious sphere, it unites the temples of Morvgrad with those of Ghilanna under eparchies such as [[_wiki/locais/xarn_zareth\|Xarn’Zareth]]. Its physical connection is the elevator more than a thousand fathoms long that links Morvgrad to [[_wiki/locais/vor-ghol\|Vor-Ghol]]. Exchanges are regular: every cycle of four moons, a descent takes place for cross-training, with Shadars in the Chambers of Trial and Druls in the academies of Morvgrad.
+The Alliance is formalized along two axes. In the political sphere, it brings together the [[_wiki_en/organizacoes/conselho_sombrio\|Shadow Council]] and the Matriarchal Houses; in the religious sphere, it unites the temples of Morvgrad with those of Ghilanna under eparchies such as [[_wiki_en/locais/xarn_zareth\|Xarn’Zareth]]. Its physical connection is the elevator more than a thousand fathoms long that links Morvgrad to [[_wiki_en/locais/vor-ghol\|Vor-Ghol]]. Exchanges are regular: every cycle of four moons, a descent takes place for cross-training, with Shadars in the Chambers of Trial and Druls in the academies of Morvgrad.
 
 ### Permanent Tension
 

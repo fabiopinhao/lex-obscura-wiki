@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/valhedras.md","permalink":"/pt/personagens/valhedras/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/valhedras.md","permalink":"/pt/personagens/valhedras/","lexLang":"pt-BR","lexAlt":"/personagens/valhedras/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Valhedras

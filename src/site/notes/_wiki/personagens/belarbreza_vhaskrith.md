@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/belarbreza_vhaskrith.md","permalink":"/pt/personagens/belarbreza-vhaskrith/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/belarbreza_vhaskrith.md","permalink":"/pt/personagens/belarbreza-vhaskrith/","lexLang":"pt-BR","lexAlt":"/personagens/belarbreza-vhaskrith/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Belarbreza Vhaskrith

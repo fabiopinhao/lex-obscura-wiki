@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/druzhal.md","permalink":"/pt/locais/druzhal/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/druzhal.md","permalink":"/pt/locais/druzhal/","lexLang":"pt-BR","lexAlt":"/locais/druzhal/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Drûzhal

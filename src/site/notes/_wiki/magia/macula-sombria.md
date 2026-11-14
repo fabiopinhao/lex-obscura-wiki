@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/macula-sombria.md","permalink":"/pt/magia/macula-sombria/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/macula-sombria.md","permalink":"/pt/magia/macula-sombria/","lexLang":"pt-BR","lexAlt":"/magia/macula-sombria/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Mácula-Sombria

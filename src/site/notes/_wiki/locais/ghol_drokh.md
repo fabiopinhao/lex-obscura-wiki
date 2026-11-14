@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/ghol_drokh.md","permalink":"/pt/locais/ghol-drokh/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/ghol_drokh.md","permalink":"/pt/locais/ghol-drokh/","lexLang":"pt-BR","lexAlt":"/locais/ghol-drokh/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ghol’Drokh

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/plano_etereo.md","permalink":"/pt/cosmologia/plano-etereo/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/plano_etereo.md","permalink":"/pt/cosmologia/plano-etereo/","lexLang":"pt-BR","lexAlt":"/cosmologia/plano-etereo/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Plano Etéreo

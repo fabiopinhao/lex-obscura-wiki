@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/reinkardico.md","permalink":"/pt/linguas/reinkardico/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/reinkardico.md","permalink":"/pt/linguas/reinkardico/","lexLang":"pt-BR","lexAlt":"/linguas/reinkardico/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Reinkárdico

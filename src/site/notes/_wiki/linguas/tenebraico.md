@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/tenebraico.md","permalink":"/pt/linguas/tenebraico/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/tenebraico.md","permalink":"/pt/linguas/tenebraico/","lexLang":"pt-BR","lexAlt":"/linguas/tenebraico/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Tenebraico

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/luminar.md","permalink":"/pt/linguas/luminar/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/luminar.md","permalink":"/pt/linguas/luminar/","lexLang":"pt-BR","lexAlt":"/linguas/luminar/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Luminar

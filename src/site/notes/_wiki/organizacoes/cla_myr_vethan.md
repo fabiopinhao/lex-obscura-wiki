@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/cla_myr_vethan.md","permalink":"/pt/organizacoes/cla-myr-vethan/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/cla_myr_vethan.md","permalink":"/pt/organizacoes/cla-myr-vethan/","lexLang":"pt-BR","lexAlt":"/organizacoes/cla-myr-vethan/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Clã Myr’vethan

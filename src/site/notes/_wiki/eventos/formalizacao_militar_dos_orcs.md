@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/formalizacao_militar_dos_orcs.md","permalink":"/pt/eventos/formalizacao-militar-dos-orcs/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/formalizacao_militar_dos_orcs.md","permalink":"/pt/eventos/formalizacao-militar-dos-orcs/","lexLang":"pt-BR","lexAlt":"/eventos/formalizacao-militar-dos-orcs/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Formalização Militar dos Orcs

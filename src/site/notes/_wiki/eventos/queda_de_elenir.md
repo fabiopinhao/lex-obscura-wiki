@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/queda_de_elenir.md","permalink":"/pt/eventos/queda-de-elenir/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/queda_de_elenir.md","permalink":"/pt/eventos/queda-de-elenir/","lexLang":"pt-BR","lexAlt":"/eventos/queda-de-elenir/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Queda de Elenir

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/xilaverth.md","permalink":"/pt/locais/xilaverth/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/xilaverth.md","permalink":"/pt/locais/xilaverth/","lexLang":"pt-BR","lexAlt":"/locais/xilaverth/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Xilaverth

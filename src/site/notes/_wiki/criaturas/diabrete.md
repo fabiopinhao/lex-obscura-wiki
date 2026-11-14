@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/diabrete.md","permalink":"/pt/criaturas/diabrete/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/diabrete.md","permalink":"/pt/criaturas/diabrete/","lexLang":"pt-BR","lexAlt":"/criaturas/diabrete/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Diabrete

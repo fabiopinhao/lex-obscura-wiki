@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/noventia.md","permalink":"/pt/locais/noventia/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/noventia.md","permalink":"/pt/locais/noventia/","lexLang":"pt-BR","lexAlt":"/locais/noventia/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Noventia

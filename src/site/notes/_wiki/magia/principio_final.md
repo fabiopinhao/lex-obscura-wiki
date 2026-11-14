@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/principio_final.md","permalink":"/pt/magia/principio-final/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/principio_final.md","permalink":"/pt/magia/principio-final/","lexLang":"pt-BR","lexAlt":"/magia/principio-final/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Princípio Final

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/marca_das_luas_gemeas.md","permalink":"/pt/cosmologia/marca-das-luas-gemeas/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/marca_das_luas_gemeas.md","permalink":"/pt/cosmologia/marca-das-luas-gemeas/","lexLang":"pt-BR","lexAlt":"/cosmologia/marca-das-luas-gemeas/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Marca das Luas Gêmeas

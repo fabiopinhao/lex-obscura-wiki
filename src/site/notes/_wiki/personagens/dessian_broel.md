@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/dessian_broel.md","permalink":"/pt/personagens/dessian-broel/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/dessian_broel.md","permalink":"/pt/personagens/dessian-broel/","lexLang":"pt-BR","lexAlt":"/personagens/dessian-broel/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Dessian Broel

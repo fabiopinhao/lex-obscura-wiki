@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/korven.md","permalink":"/pt/personagens/korven/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/korven.md","permalink":"/pt/personagens/korven/","lexLang":"pt-BR","lexAlt":"/personagens/korven/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Korven

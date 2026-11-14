@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/sal_tonico.md","permalink":"/pt/conceitos/sal-tonico/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/sal_tonico.md","permalink":"/pt/conceitos/sal-tonico/","lexLang":"pt-BR","lexAlt":"/conceitos/sal-tonico/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Sal Tônico

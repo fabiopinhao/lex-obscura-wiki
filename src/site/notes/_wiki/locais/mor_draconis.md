@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/mor_draconis.md","permalink":"/pt/locais/mor-draconis/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/mor_draconis.md","permalink":"/pt/locais/mor-draconis/","lexLang":"pt-BR","lexAlt":"/locais/mor-draconis/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Mor’Draconis

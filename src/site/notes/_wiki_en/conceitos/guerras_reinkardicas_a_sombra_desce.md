@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"dg-path":"_wiki_en/conceitos/guerras_reinkardicas_a_sombra_desce.md","permalink":"/conceitos/guerras-reinkardicas-a-sombra-desce/","lexLang":"en","lexAlt":"/pt/conceitos/guerras-reinkardicas-a-sombra-desce/","dg-note-properties":{"generated_by":"strip_sistema"}}
+---
+
+# Reinkardic Wars: The Shadow Descends
+
+The Reinkardic Wars are the first continental conflict in the history of [[_wiki_en/locais/reinkard\|Reinkard]]. Fought in the last century of the [[_wiki_en/conceitos/segunda_era\|Second Era]], they last about fifty years and consume the entire continent when the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]], having exhausted the possibilities of the plateau, decides to descend upon the plains. [[_wiki_en/locais/morvgrad\|Morvgrad]] serves as the religious and military capital of the campaign.
+
+### The Descent Through Hunger
+
+The expansion begins with hunger, not armies. [[_wiki_en/locais/ventrista\|Ventrista]], a stretch of fertile land at the base of the plateau irrigated by the [[_wiki_en/locais/rio_parveni\|river Parveni]], is the most productive region of the plains and the closest to Morvgrad. Bands of [[_wiki_en/racas/orc\|orcs]] descend from the plateau, channeled by the [[_wiki_en/racas/shadar\|Shadars]], who choose the targets and coordinate the plunder. Villages that resist are razed; those that submit pay tribute in grain, meat, leather, and iron. Ventrista becomes the first region subdued without a single formal battle, and its tribute sustains increased goblinoid reproduction in the perimeter fortresses. Submission generates two opposing flows: humans who flee south toward [[_wiki_en/locais/myrgarde\|Myrgarde]], and ambitious humans who ascend to the plateau to join the Shadars, transformed by the [[_wiki_en/magia/rito_de_ossarium\|Rite of Ossárium]].
+
+### The Forests
+
+The first major clash with the forces of nature takes place in [[_wiki_en/locais/thal_serin\|Thal’Serin]], the sacred forest closest to the plateau. The shadow armies enter with fire and steel, but the earth responds: roots erupt like living walls, and fissures swallow platoons. The councilors of Morvgrad recognize the hand of the [[_wiki_en/cosmologia/titas\|titans]] and retreat, deciding to wait for corruption to weaken the forest over time. The lesson defines the strategy: forests protected by avatars of titans are spared, while unprotected forests burn. The [[_wiki_en/racas/sylvano\|Sylvans]], who fight for their woodlands and not for the plains, are among the most enslaved races of the war. The [[_wiki_en/racas/gerut\|Gerut]], who inhabit only titan forests, are the least affected.
+
+### Enslavement
+
+The Cult accumulates slaves according to a logic of utility, not random cruelty. The first waves are Sylvans, gnomes, and half-elves; humans come later, as the smaller kingdoms capitulate. By the end of the war, humans, gnomes, and Sylvans are the three most enslaved races. The [[_wiki_en/racas/elarino\|Elarins]], many of them integrated into human cities since the [[_wiki_en/conceitos/primeira_era\|First Era]], fight alongside the [[_wiki_en/racas/alvarar\|Álvarars]] but take refuge in citadels such as [[_wiki_en/locais/elenir\|Elenir]] when resistance gives way; taken one by one, their populations are enslaved, and an Elarin slave becomes a luxury item in Morvgrad. The Álvarars, paladins whose Sancta magic is the most effective weapon against the Cult’s rituals, neither surrender nor are enslaved: they are killed. The gnomes serve in Myrgarde’s alchemy and logistics.
+
+### The Underground and the Forges
+
+The war reaches the dwarven mines, conquered one by one. Many dwarves flee to [[_wiki_en/locais/vor-ghol\|Vor-Ghol]], [[_wiki_en/racas/drul\|Drul]] territory, where they establish their own mines and provide ore and forge work in exchange for protection and space. The Druls rarely enslave them, preferring productive artisans to resentful servants, and the dwarves of the depths prosper in the shadow of a conflict that devastates the surface. There arises the division, still in effect, between surface dwarves, who work for the Shadars, and underground dwarves, who serve the Druls with the dignity of their trade preserved. For the first time in the [[_wiki_en/organizacoes/alianca_subterranea\|Underground Alliance]], Drul contingents fight on the surface alongside the Shadars, with nocturnal ambushes, darkness magic, and poisons.
+
+### The Formalization of the Orcs
+
+The turning point of the war is the transformation of the orcs from bands into regiments. The first attempt, which uses [[_wiki_en/racas/kobold\|kobolds]] for logistics, fails: the orcs kill them by instinct, carrying in their racial memory the terror of [[_wiki_en/personagens/varna\|Varna]] and the dragons that hunted them for millennia. The [[_wiki_en/racas/goblin\|goblins]], domesticated by the Shadars, solve the problem and take over the stewardry of the fortresses. Led by Shadar and Drul officers, the orcs become the spearhead of devastation in the second half of the war. The Cult absorbs orc losses with a coldness that horrifies Myrgarde’s generals, for the orcs reproduce at a rate no human race can match, and the goblins ensure that every regiment is equipped and fed.
+
+### Formal War and the Stalemate
+
+The formal declaration comes from Myrgarde, not Morvgrad. Overwhelmed by refugees from the northern kingdoms, the Central [[_wiki_en/organizacoes/imperio_sombrio\|Empire]] gathers allies: Elarins from Elenir, frontier militias, companies of gnomes, and what remains of the Álvarars, with the dwarven forges supplying the armies. The formal Reinkardic Wars begin, the entire continent allied against Morvgrad. But the [[_wiki_en/eventos/sopro_do_eclipse\|Breath of the Eclipse]] had left a demographic deficit that Myrgarde does not make up, and the plateau, a natural fortress surrounded by orc forts, turns every assault into slaughter. The two powers sign mutual non-destruction agreements that barely hold: Morvgrad needs productive plains to plunder, Myrgarde needs time to reorganize armies that return smaller after each campaign. The stalemate tilts to one side, because Morvgrad replaces its losses and Myrgarde does not.

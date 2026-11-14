@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/jalu_nvara.md","permalink":"/pt/personagens/jalu-nvara/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/jalu_nvara.md","permalink":"/pt/personagens/jalu-nvara/","lexLang":"pt-BR","lexAlt":"/personagens/jalu-nvara/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Jalú’Nvara

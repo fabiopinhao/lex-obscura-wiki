@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/gorvash_tres-cicatrizes.md","permalink":"/pt/personagens/gorvash-tres-cicatrizes/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/gorvash_tres-cicatrizes.md","permalink":"/pt/personagens/gorvash-tres-cicatrizes/","lexLang":"pt-BR","lexAlt":"/personagens/gorvash-tres-cicatrizes/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Gorvash Três-Cicatrizes

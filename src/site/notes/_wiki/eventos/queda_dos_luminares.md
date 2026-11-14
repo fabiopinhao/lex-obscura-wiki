@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/queda_dos_luminares.md","permalink":"/pt/eventos/queda-dos-luminares/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/queda_dos_luminares.md","permalink":"/pt/eventos/queda-dos-luminares/","lexLang":"pt-BR","lexAlt":"/eventos/queda-dos-luminares/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Queda dos Luminares

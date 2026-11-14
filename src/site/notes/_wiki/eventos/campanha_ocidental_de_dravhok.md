@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/campanha_ocidental_de_dravhok.md","permalink":"/pt/eventos/campanha-ocidental-de-dravhok/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/campanha_ocidental_de_dravhok.md","permalink":"/pt/eventos/campanha-ocidental-de-dravhok/","lexLang":"pt-BR","lexAlt":"/eventos/campanha-ocidental-de-dravhok/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Campanha Ocidental de Dravhok

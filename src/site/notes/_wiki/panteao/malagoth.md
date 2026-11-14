@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/malagoth.md","permalink":"/pt/panteao/malagoth/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/malagoth.md","permalink":"/pt/panteao/malagoth/","lexLang":"pt-BR","lexAlt":"/panteao/malagoth/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Malagoth

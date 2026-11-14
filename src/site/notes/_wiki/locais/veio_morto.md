@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/veio_morto.md","permalink":"/pt/locais/veio-morto/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/veio_morto.md","permalink":"/pt/locais/veio-morto/","lexLang":"pt-BR","lexAlt":"/locais/veio-morto/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Veio Morto

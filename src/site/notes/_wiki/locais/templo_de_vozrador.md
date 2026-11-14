@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/templo_de_vozrador.md","permalink":"/pt/locais/templo-de-vozrador/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/templo_de_vozrador.md","permalink":"/pt/locais/templo-de-vozrador/","lexLang":"pt-BR","lexAlt":"/locais/templo-de-vozrador/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Templo de Vozrador

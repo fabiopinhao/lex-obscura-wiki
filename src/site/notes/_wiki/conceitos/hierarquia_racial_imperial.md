@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/hierarquia_racial_imperial.md","permalink":"/pt/conceitos/hierarquia-racial-imperial/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/hierarquia_racial_imperial.md","permalink":"/pt/conceitos/hierarquia-racial-imperial/","lexLang":"pt-BR","lexAlt":"/conceitos/hierarquia-racial-imperial/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Hierarquia Racial Aplicada: Premissa Operacional do Império

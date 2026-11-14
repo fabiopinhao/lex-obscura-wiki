@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/artefatos/spina_lexis.md","permalink":"/pt/artefatos/spina-lexis/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/artefatos/spina_lexis.md","permalink":"/pt/artefatos/spina-lexis/","lexLang":"pt-BR","lexAlt":"/artefatos/spina-lexis/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Spina Lexis

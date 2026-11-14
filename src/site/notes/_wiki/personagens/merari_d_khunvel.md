@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/merari_d_khunvel.md","permalink":"/pt/personagens/merari-d-khunvel/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/merari_d_khunvel.md","permalink":"/pt/personagens/merari-d-khunvel/","lexLang":"pt-BR","lexAlt":"/personagens/merari-d-khunvel/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Merari d’Khunvel

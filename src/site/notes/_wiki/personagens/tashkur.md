@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/tashkur.md","permalink":"/pt/personagens/tashkur/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/tashkur.md","permalink":"/pt/personagens/tashkur/","lexLang":"pt-BR","lexAlt":"/personagens/tashkur/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Tashkur

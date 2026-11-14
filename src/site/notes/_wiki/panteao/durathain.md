@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/durathain.md","permalink":"/pt/panteao/durathain/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/durathain.md","permalink":"/pt/panteao/durathain/","lexLang":"pt-BR","lexAlt":"/panteao/durathain/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Durathain

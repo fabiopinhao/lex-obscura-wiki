@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/guerras_reinkardicas_a_ultima_muralha.md","permalink":"/pt/conceitos/guerras-reinkardicas-a-ultima-muralha/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/guerras_reinkardicas_a_ultima_muralha.md","permalink":"/pt/conceitos/guerras-reinkardicas-a-ultima-muralha/","lexLang":"pt-BR","lexAlt":"/conceitos/guerras-reinkardicas-a-ultima-muralha/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Guerras Reinkárdicas: A Última Muralha

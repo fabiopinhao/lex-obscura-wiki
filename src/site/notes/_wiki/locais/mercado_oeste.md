@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/mercado_oeste.md","permalink":"/pt/locais/mercado-oeste/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/mercado_oeste.md","permalink":"/pt/locais/mercado-oeste/","lexLang":"pt-BR","lexAlt":"/locais/mercado-oeste/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Mercado Oeste

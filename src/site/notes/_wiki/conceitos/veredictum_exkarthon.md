@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/veredictum_exkarthon.md","permalink":"/pt/conceitos/veredictum-exkarthon/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/veredictum_exkarthon.md","permalink":"/pt/conceitos/veredictum-exkarthon/","lexLang":"pt-BR","lexAlt":"/conceitos/veredictum-exkarthon/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Veredictum Exkarthon

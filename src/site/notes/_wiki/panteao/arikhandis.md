@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/arikhandis.md","permalink":"/pt/panteao/arikhandis/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/arikhandis.md","permalink":"/pt/panteao/arikhandis/","lexLang":"pt-BR","lexAlt":"/panteao/arikhandis/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Arikhandis

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/myralune.md","permalink":"/pt/panteao/myralune/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/myralune.md","permalink":"/pt/panteao/myralune/","lexLang":"pt-BR","lexAlt":"/panteao/myralune/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Myralune

@@ -4,7 +4,7 @@
 
 # Church of Saint Lucian
 
-The Church of Saint Lucian is a religious order of the luminous faith that survives clandestinely in [[_wiki/locais/reinkard\|Reinkard]], under imperial rule, without significant political or military power.
+The Church of Saint Lucian is a religious order of the luminous faith that survives clandestinely in [[_wiki_en/locais/reinkard\|Reinkard]], under imperial rule, without significant political or military power.
 
 ### Traces of the Luminous Faith
 
@@ -12,8 +12,8 @@ The remnants of the luminous faith in Reinkard are organized into two distinct s
 
 ### Activities
 
-The heart of the Church is in [[_wiki/locais/myrgarde\|Myrgarde]], where it operates clandestinely. [[_wiki_en/personagens/abramis\|Abramis]] maintains a functioning chapel in [[_wiki/locais/niedellin\|Niedellin]] as an extension of this faith. The Church’s central figures are Sir [[_wiki/personagens/grimald\|Grimald]], a paladin known as the Golden Blade, and [[_wiki/personagens/corvina\|Mother Corvina]].
+The heart of the Church is in [[_wiki_en/locais/myrgarde\|Myrgarde]], where it operates clandestinely. [[_wiki_en/personagens/abramis\|Abramis]] maintains a functioning chapel in [[_wiki_en/locais/niedellin\|Niedellin]] as an extension of this faith. The Church’s central figures are Sir [[_wiki_en/personagens/grimald\|Grimald]], a paladin known as the Golden Blade, and [[_wiki_en/personagens/corvina\|Mother Corvina]].
 
-The **House of Saint Lucian** is the orphanage attached to the temple, run by [[_wiki/personagens/corvina\|Mother Corvina]]: the name designates the institution providing shelter, not the building used for worship.
+The **House of Saint Lucian** is the orphanage attached to the temple, run by [[_wiki_en/personagens/corvina\|Mother Corvina]]: the name designates the institution providing shelter, not the building used for worship.
 
 The old church in Myrgarde was sealed, and its activities transferred to the High Temple, which now combines two functions: it serves as a recruitment center, with lines of recruits in the street, and as the last bastion of the organized luminous faith. Archdeacon Mahakai administers the High Temple, while Frater Darnel controls bureaucratic access.

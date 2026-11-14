@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/fing.md","permalink":"/pt/personagens/fing/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/fing.md","permalink":"/pt/personagens/fing/","lexLang":"pt-BR","lexAlt":"/personagens/fing/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Fing

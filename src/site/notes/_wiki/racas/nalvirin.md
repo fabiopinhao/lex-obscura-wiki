@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/nalvirin.md","permalink":"/pt/racas/nalvirin/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/nalvirin.md","permalink":"/pt/racas/nalvirin/","lexLang":"pt-BR","lexAlt":"/racas/nalvirin/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Nalvirin

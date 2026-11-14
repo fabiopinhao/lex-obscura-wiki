@@ -12,7 +12,7 @@ The school ranges from discomfort to existential inversion. Bad Luck tips probab
 
 ### Cursed Sealings
 
-Anatho also produces cursed sealings: patterns of containment and protection that imprison instead of degrading. The towers of [[_wiki/locais/morvgrad\|Morvgrad]] that specialize in the school teach forms of containment considered inviolable, a category distinct from [[_wiki_en/escolas/abjuro\|Abjuro]]. Where Abjuro dissipates and negates magic, Anatho binds it to flesh or stone. Sealings anchored in the name of a demonic entity emanate a constant temperature and burn the unprepared intruder. Those anchored in entities of fire, such as [[_wiki/panteao/kaelgrym\|Kaelgrym]], are the hottest, and those of [[_wiki/panteao/warguleth\|Wargûleth]] also burn.
+Anatho also produces cursed sealings: patterns of containment and protection that imprison instead of degrading. The towers of [[_wiki_en/locais/morvgrad\|Morvgrad]] that specialize in the school teach forms of containment considered inviolable, a category distinct from [[_wiki_en/escolas/abjuro\|Abjuro]]. Where Abjuro dissipates and negates magic, Anatho binds it to flesh or stone. Sealings anchored in the name of a demonic entity emanate a constant temperature and burn the unprepared intruder. Those anchored in entities of fire, such as [[_wiki_en/panteao/kaelgrym\|Kaelgrym]], are the hottest, and those of [[_wiki_en/panteao/warguleth\|Wargûleth]] also burn.
 
 ### Trace
 

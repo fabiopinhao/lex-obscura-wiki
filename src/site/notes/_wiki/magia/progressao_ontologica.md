@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/progressao_ontologica.md","permalink":"/pt/magia/progressao-ontologica/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/progressao_ontologica.md","permalink":"/pt/magia/progressao-ontologica/","lexLang":"pt-BR","lexAlt":"/magia/progressao-ontologica/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Progressão Ontológica

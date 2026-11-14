@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/qaelun.md","permalink":"/pt/personagens/qaelun/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/qaelun.md","permalink":"/pt/personagens/qaelun/","lexLang":"pt-BR","lexAlt":"/personagens/qaelun/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Qaelun

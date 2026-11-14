@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/lynxiano.md","permalink":"/pt/racas/lynxiano/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/lynxiano.md","permalink":"/pt/racas/lynxiano/","lexLang":"pt-BR","lexAlt":"/racas/lynxiano/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Lynxiano

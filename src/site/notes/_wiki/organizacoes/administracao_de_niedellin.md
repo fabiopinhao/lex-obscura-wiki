@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/organizacoes/administracao_de_niedellin.md","permalink":"/pt/organizacoes/administracao-de-niedellin/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/organizacoes/administracao_de_niedellin.md","permalink":"/pt/organizacoes/administracao-de-niedellin/","lexLang":"pt-BR","lexAlt":"/organizacoes/administracao-de-niedellin/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Administração de Niedellin

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/korbarakh.md","permalink":"/pt/panteao/korbarakh/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/korbarakh.md","permalink":"/pt/panteao/korbarakh/","lexLang":"pt-BR","lexAlt":"/panteao/korbarakh/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Korbarakh

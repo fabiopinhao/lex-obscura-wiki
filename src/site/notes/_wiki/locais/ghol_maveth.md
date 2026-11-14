@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/ghol_maveth.md","permalink":"/pt/locais/ghol-maveth/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/ghol_maveth.md","permalink":"/pt/locais/ghol-maveth/","lexLang":"pt-BR","lexAlt":"/locais/ghol-maveth/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ghol’Maveth

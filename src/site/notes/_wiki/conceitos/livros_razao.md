@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/livros_razao.md","permalink":"/pt/conceitos/livros-razao/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/livros_razao.md","permalink":"/pt/conceitos/livros-razao/","lexLang":"pt-BR","lexAlt":"/conceitos/livros-razao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Livros-Razão

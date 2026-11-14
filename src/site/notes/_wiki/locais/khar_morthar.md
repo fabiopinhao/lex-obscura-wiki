@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/khar_morthar.md","permalink":"/pt/locais/khar-morthar/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/khar_morthar.md","permalink":"/pt/locais/khar-morthar/","lexLang":"pt-BR","lexAlt":"/locais/khar-morthar/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Khar Morthar

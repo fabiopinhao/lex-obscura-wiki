@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/templo_de_azkaroth.md","permalink":"/pt/locais/templo-de-azkaroth/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/templo_de_azkaroth.md","permalink":"/pt/locais/templo-de-azkaroth/","lexLang":"pt-BR","lexAlt":"/locais/templo-de-azkaroth/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Templo de Azkaroth

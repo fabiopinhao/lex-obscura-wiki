@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/thurgash.md","permalink":"/pt/panteao/thurgash/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/thurgash.md","permalink":"/pt/panteao/thurgash/","lexLang":"pt-BR","lexAlt":"/panteao/thurgash/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Thûrgash

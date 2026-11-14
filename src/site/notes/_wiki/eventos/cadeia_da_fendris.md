@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/cadeia_da_fendris.md","permalink":"/pt/eventos/cadeia-da-fendris/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/cadeia_da_fendris.md","permalink":"/pt/eventos/cadeia-da-fendris/","lexLang":"pt-BR","lexAlt":"/eventos/cadeia-da-fendris/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Cadeia da Fendris

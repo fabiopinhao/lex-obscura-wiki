@@ -4,7 +4,7 @@
 
 # Titans
 
-The titans, also called Green Gods or Natural Guardians, are the gods closest to [[_wiki/locais/thamakard\|Thamakard]]. Their existence is tied to the nature of the material plane: they feel the wounds of the earth, react to the corruption of the soil, and manifest avatars when the balance is disrupted. The green [[_wiki/cosmologia/cor_arcana\|arcane color]] defines them: balance, cycle, survival.
+The titans, also called Green Gods or Natural Guardians, are the gods closest to [[_wiki_en/locais/thamakard\|Thamakard]]. Their existence is tied to the nature of the material plane: they feel the wounds of the earth, react to the corruption of the soil, and manifest avatars when the balance is disrupted. The green [[_wiki_en/cosmologia/cor_arcana\|arcane color]] defines them: balance, cycle, survival.
 
 ### Nature
 
@@ -16,8 +16,8 @@ The bond with the titans operates through [[_wiki_en/magia/symbiosis_naturae\|Sy
 
 ### Relationship with Mortals
 
-[[_wiki_en/racas/sylvano\|Sylvans]], [[_wiki/racas/gerut\|Gerut]], and woodland rebels are the natural devotees of the titans. [[_wiki/personagens/peredur\|Peredur]], an elder druid of [[_wiki/locais/thal_serin\|Thal’Serin]], is a repository of wisdom of the titans, and [[_wiki/personagens/gaelwyn\|Gaelwyn]] bears the [[_wiki/cosmologia/marca_das_luas_gemeas\|mark of the twin moons]] of [[_wiki/panteao/titania\|Titânia]]. The green philosophy, as Peredur formulated it, explains why the titans survived where the [[_wiki_en/cosmologia/anjos\|angels]] perished: they chose pragmatic compromises with evil over inflexible purity. The green gods preferred to survive rather than die in the right.
+[[_wiki_en/racas/sylvano\|Sylvans]], [[_wiki_en/racas/gerut\|Gerut]], and woodland rebels are the natural devotees of the titans. [[_wiki_en/personagens/peredur\|Peredur]], an elder druid of [[_wiki_en/locais/thal_serin\|Thal’Serin]], is a repository of wisdom of the titans, and [[_wiki_en/personagens/gaelwyn\|Gaelwyn]] bears the [[_wiki_en/cosmologia/marca_das_luas_gemeas\|mark of the twin moons]] of [[_wiki_en/panteao/titania\|Titânia]]. The green philosophy, as Peredur formulated it, explains why the titans survived where the [[_wiki_en/cosmologia/anjos\|angels]] perished: they chose pragmatic compromises with evil over inflexible purity. The green gods preferred to survive rather than die in the right.
 
 ### Named Titans
 
-Titânia, the Green Mother, is patron of the Sylvans and counts Gaelwyn among her devotees. [[_wiki/panteao/morlgrund\|Morlgrund]] is the Titan of the Earth, guardian of Thal’Serin. [[_wiki/panteao/durathain\|Durathain]] appears only in a folk curse that swears by his dirty fingers.
+Titânia, the Green Mother, is patron of the Sylvans and counts Gaelwyn among her devotees. [[_wiki_en/panteao/morlgrund\|Morlgrund]] is the Titan of the Earth, guardian of Thal’Serin. [[_wiki_en/panteao/durathain\|Durathain]] appears only in a folk curse that swears by his dirty fingers.

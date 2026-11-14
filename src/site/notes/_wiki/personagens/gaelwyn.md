@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/gaelwyn.md","permalink":"/pt/personagens/gaelwyn/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/gaelwyn.md","permalink":"/pt/personagens/gaelwyn/","lexLang":"pt-BR","lexAlt":"/personagens/gaelwyn/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Gaelwyn

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/geldrion.md","permalink":"/pt/panteao/geldrion/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/geldrion.md","permalink":"/pt/panteao/geldrion/","lexLang":"pt-BR","lexAlt":"/panteao/geldrion/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Geldrion

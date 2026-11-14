@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/valdris.md","permalink":"/pt/locais/valdris/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/valdris.md","permalink":"/pt/locais/valdris/","lexLang":"pt-BR","lexAlt":"/locais/valdris/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Valdris

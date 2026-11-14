@@ -4,11 +4,11 @@
 
 # Sidereals
 
-The sidereals are entities of pure or nearly pure consciousness that wander the [[_wiki/cosmologia/plano_etereo\|ethereal plane]]. They have no defined physical form: they are patterns of thought, living geometries, conscious concepts, such as djinns, leviathans, and sphinxes. The blue [[_wiki/cosmologia/cor_arcana\|arcane color]] defines them, associating them with knowledge, transcendence, and detachment. They are also called Blue Gods or Ethereal Entities.
+The sidereals are entities of pure or nearly pure consciousness that wander the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]]. They have no defined physical form: they are patterns of thought, living geometries, conscious concepts, such as djinns, leviathans, and sphinxes. The blue [[_wiki_en/cosmologia/cor_arcana\|arcane color]] defines them, associating them with knowledge, transcendence, and detachment. They are also called Blue Gods or Ethereal Entities.
 
 ### Nature
 
-They are believed to inhabit the ethereal plane, the interplane that interfaces with all planes and is no one’s own plane of existence. They have no fixed domain, which makes them impossible to imprison: there is no plane of existence where they can be confined. They wander among the planes as their interests dictate, and may be near or far from [[_wiki/locais/thamakard\|Thamakard]] at any moment.
+They are believed to inhabit the ethereal plane, the interplane that interfaces with all planes and is no one’s own plane of existence. They have no fixed domain, which makes them impossible to imprison: there is no plane of existence where they can be confined. They wander among the planes as their interests dictate, and may be near or far from [[_wiki_en/locais/thamakard\|Thamakard]] at any moment.
 
 ### Interest in Thamakard
 
@@ -22,10 +22,10 @@ The bond with the sidereals operates through [[_wiki_en/magia/meditatio_aetheris
 
 ### Associated Races
 
-[[_wiki/racas/frenim\|Frenims]], [[_wiki/racas/undine\|undines]], and [[_wiki/racas/ranidano\|Ranidans]] make up the races of [[_wiki/locais/neranthis\|Neranthis]] associated with the sidereals. The Frenims are the dominant group, exercising political and arcane leadership, and the most powerful known Frenim is [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val’Kir]].
+[[_wiki_en/racas/frenim\|Frenims]], [[_wiki_en/racas/undine\|undines]], and [[_wiki_en/racas/ranidano\|Ranidans]] make up the races of [[_wiki_en/locais/neranthis\|Neranthis]] associated with the sidereals. The Frenims are the dominant group, exercising political and arcane leadership, and the most powerful known Frenim is [[_wiki_en/personagens/lorvaq_val_kir\|Lorvaq Val’Kir]].
 
 ### Named Sidereals
 
-The pantheon records eight pure sidereals, all background figures: [[_wiki/panteao/zuvaneth\|Zuvaneth]] (Celestial Enigma), [[_wiki/panteao/faelyndre\|Faelyndrë]] (Coral Cipher), [[_wiki/panteao/nocthydral\|Nocthydral]] (Fathomless Pupil), [[_wiki/panteao/dremharak\|Dremharak]] (Lucid Fever), [[_wiki/panteao/geldrion\|Geldrion]] (Glacial Apogee), [[_wiki/panteao/aethravos\|Aethravos]] (Vitreous Breath), [[_wiki/panteao/jervaust\|Jervaust]] (Hungry Solstice), and [[_wiki/panteao/lyldraeth\|Lyldraeth]] (Howling Prayer).
+The pantheon records eight pure sidereals, all background figures: [[_wiki_en/panteao/zuvaneth\|Zuvaneth]] (Celestial Enigma), [[_wiki_en/panteao/faelyndre\|Faelyndrë]] (Coral Cipher), [[_wiki_en/panteao/nocthydral\|Nocthydral]] (Fathomless Pupil), [[_wiki_en/panteao/dremharak\|Dremharak]] (Lucid Fever), [[_wiki_en/panteao/geldrion\|Geldrion]] (Glacial Apogee), [[_wiki_en/panteao/aethravos\|Aethravos]] (Vitreous Breath), [[_wiki_en/panteao/jervaust\|Jervaust]] (Hungry Solstice), and [[_wiki_en/panteao/lyldraeth\|Lyldraeth]] (Howling Prayer).
 
-Four other deities combine the sidereal domain with a second order: [[_wiki/panteao/velmorain\|Velmorain]], with a dual nature between devil and sidereal; [[_wiki/panteao/eiryndh\|Eiryndh]], between angel and sidereal; [[_wiki/panteao/ruhavel\|Ruhavel]], between sidereal and demon; and [[_wiki/panteao/myralune\|Myralune]], between sidereal and titan.
+Four other deities combine the sidereal domain with a second order: [[_wiki_en/panteao/velmorain\|Velmorain]], with a dual nature between devil and sidereal; [[_wiki_en/panteao/eiryndh\|Eiryndh]], between angel and sidereal; [[_wiki_en/panteao/ruhavel\|Ruhavel]], between sidereal and demon; and [[_wiki_en/panteao/myralune\|Myralune]], between sidereal and titan.

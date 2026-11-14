@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/harlen_vriss.md","permalink":"/pt/personagens/harlen-vriss/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/harlen_vriss.md","permalink":"/pt/personagens/harlen-vriss/","lexLang":"pt-BR","lexAlt":"/personagens/harlen-vriss/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Harlen Vriss

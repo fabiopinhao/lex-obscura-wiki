@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/danvorn.md","permalink":"/pt/locais/danvorn/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/danvorn.md","permalink":"/pt/locais/danvorn/","lexLang":"pt-BR","lexAlt":"/locais/danvorn/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Danvorn

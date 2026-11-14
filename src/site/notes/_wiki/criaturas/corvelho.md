@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/corvelho.md","permalink":"/pt/criaturas/corvelho/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/corvelho.md","permalink":"/pt/criaturas/corvelho/","lexLang":"pt-BR","lexAlt":"/criaturas/corvelho/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Corvelho

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/racas/aquilar.md","permalink":"/pt/racas/aquilar/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/racas/aquilar.md","permalink":"/pt/racas/aquilar/","lexLang":"pt-BR","lexAlt":"/racas/aquilar/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Aquilar

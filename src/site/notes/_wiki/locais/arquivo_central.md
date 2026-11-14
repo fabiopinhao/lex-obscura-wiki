@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/arquivo_central.md","permalink":"/pt/locais/arquivo-central/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/arquivo_central.md","permalink":"/pt/locais/arquivo-central/","lexLang":"pt-BR","lexAlt":"/locais/arquivo-central/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Arquivo Central

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/odran.md","permalink":"/pt/personagens/odran/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/odran.md","permalink":"/pt/personagens/odran/","lexLang":"pt-BR","lexAlt":"/personagens/odran/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Odran

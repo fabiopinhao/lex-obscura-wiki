@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/barreira_magica_luminar.md","permalink":"/pt/eventos/barreira-magica-luminar/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/barreira_magica_luminar.md","permalink":"/pt/eventos/barreira-magica-luminar/","lexLang":"pt-BR","lexAlt":"/eventos/barreira-magica-luminar/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Barreira Mágica Luminar

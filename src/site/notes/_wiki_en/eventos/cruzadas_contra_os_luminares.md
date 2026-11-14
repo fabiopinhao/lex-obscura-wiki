@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"dg-path":"_wiki_en/eventos/cruzadas_contra_os_luminares.md","permalink":"/eventos/cruzadas-contra-os-luminares/","lexLang":"en","lexAlt":"/pt/eventos/cruzadas-contra-os-luminares/","dg-note-properties":{"generated_by":"strip_sistema"}}
+---
+
+# Crusades against the Luminars
+
+The Crusades against the Luminars were the continental racial war that, throughout [[_wiki_en/conceitos/idade_esquecida\|the Forgotten Age]], pitted the human kingdoms against the [[_wiki_en/racas/luminares\|Luminars]], the light elves. Driven by greed for magic and legitimized by the Sancta faith, the campaign wore down Luminar civilization until it fragmented and marked the end of an era.
+
+### Origin
+
+Humans existed on the margins of [[_wiki_en/racas/luminares\|Luminar]] civilization, in scattered tribes that occupied the central plains of [[_wiki_en/locais/reinkard\|Reinkard]], where fertile soils fed growing populations. The Luminars erected magical barriers and deterrent enchantments, seeing the newcomers as a crude and dangerously volatile species, while humans admired elven magic as intensely as they feared it. Most humans abandoned tribal ways and concentrated in walled cities, beginning to wage war among themselves in the heart of Reinkard while the elves maintained their isolation.
+
+### The Sancta System
+
+The key to humanity’s rise was the Sancta system. Without the natural connection to [[_wiki_en/cosmologia/magi\|magi]] that the elves possessed, humans needed intermediaries and found them in the [[_wiki_en/cosmologia/anjos\|angels]], the divine entities that identified most closely with humanity through temperamental affinity. Where the [[_wiki_en/cosmologia/titas\|titans]] accepted the cycle without moralizing, the angels demanded purity, and humans, with their moral ambition, were ideal agents for the celestial will. Sancta was founded on devotion to celestial entities and the channeling of divine power through prayers, dogmas, and sacred rituals. Unlike the [[_wiki_en/cosmologia/diabos\|devils]], who granted power through contracts, and the [[_wiki_en/cosmologia/demonios\|demons]], who granted it through bonds of force, the angels granted it through faith: the more genuine the devotion, the more generous the response. The system worked because humans believed, and they believed because the system worked, in a deliberate circularity.
+
+### The Álvarars
+
+From among the most devout practitioners emerged the [[_wiki_en/racas/alvarar\|Álvarars]], who claimed descent from the angels and embodied celestial gifts. They were not merely warriors, but moralizers: where they saw transgression, they punished; where they saw disorder, they imposed a code. They acted as paladins and clerics defending humanity, symbols of purity to those who followed them and instruments of oppression to those who rejected their worldview. Moral imposition fractured humanity itself, and kingdoms with an Álvarar presence absorbed smaller pagan societies through persuasion or the sword. The central kingdoms, where [[_wiki_en/locais/myrgarde\|Myrgarde]] lies today, became the dominant centers of the plains, and within them the most militarized arm of the clergy eventually came to dominate the high clergy.
+
+### The Racial War
+
+Before turning against the elves, human military consolidation pushed the [[_wiki_en/racas/orc\|orcs]] back to the peripheries, almost exterminating them in the central regions and confining them to scattered tribes in the mountains and tundras. With them contained, human expeditions began penetrating Luminar domains in search of artifacts and arcane knowledge. The Luminars banished the intruders with magical force, but the banishment merely revealed to the human kings the gulf between their military strength and the arcane power they coveted. Religion became an instrument of mobilization, and the war lasted generations: mountains collapsed, rivers dried up, and millennia-old groves burned. No kingdom was strong enough alone, but shared greed produced fragile alliances whose combined mass, sustained by the Sancta faith and led by increasingly powerful Álvarars, imposed a continental siege that the outnumbered Luminars could not withstand.
+
+### The End of an Era
+
+The war ended not with a decisive battle, but through attrition. Citadel after citadel, the light elves abandoned their positions. The Luminars did not become extinct, but fragmented: some sought refuge in the deep forests and gave rise to the [[_wiki_en/racas/sylvano\|Sylvans]]; others settled in hidden citadels and preserved what they could of the original tradition, giving rise to the [[_wiki_en/racas/elarino\|Elarins]], whose most famous refuge would become [[_wiki_en/locais/elenir\|Elenir]]. The Forgotten Age ended not on a precise date, but with the disappearance of the Luminars as a unified people, leaving enchanted ruins, two elven lineages that would never reconcile, and a continent dominated by a young and divided race. On the margins of these wars, the dwarves remained isolationist, devoted to mining and forging, and the gnomes, in small, scattered communities, learned to survive through discretion: their relationship with humans ranged between the useful and the cruel, with both cases of open genocide against gnomish communities and neighboring kingdoms that intervened to protect them from extermination. Meanwhile, the humans who rejected conquest and chose to live in harmony with the land were tolerated by the Luminars and became known as the [[_wiki_en/racas/gerut\|Gerut]].

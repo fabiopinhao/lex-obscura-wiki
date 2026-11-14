@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/tzarakul.md","permalink":"/pt/panteao/tzarakul/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/tzarakul.md","permalink":"/pt/panteao/tzarakul/","lexLang":"pt-BR","lexAlt":"/panteao/tzarakul/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Tzarakul

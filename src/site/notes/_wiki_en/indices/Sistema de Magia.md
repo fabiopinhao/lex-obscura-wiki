@@ -137,30 +137,30 @@ Thirty schools, divided among the five colors of the arcane spectrum. Each schoo
 
 ## Mechanics and Concepts
 
-- [[_wiki/magia/sistema_de_combustivel_magico\|Magic Fuel System]]: how the body pays
-- [[_wiki/magia/hierarquia_de_poder_magico\|Hierarchy of Magical Power]]: caster levels
-- [[_wiki/magia/progressao_ontologica\|Ontological Progression]]: costs that scale geometrically
-- [[_wiki/magia/principios_canonicos\|Canonical Principles]]: fundamental laws of magic
-- [[_wiki/magia/principio_final\|Final Principle]]: the ultimate cost
-- [[_wiki/magia/pares_antagonicos\|Antagonistic Pairs]]: schools that oppose one another
-- [[_wiki/magia/estrutura_padrao_de_magias\|Standard Spell Structure]]: anatomy of a spell
-- [[_wiki/magia/fluxus_aetheris\|Fluxus Aetheris]]: direct manipulation of the conduits of the ethereal plane
-- [[_wiki/magia/glossario_de_termos_magicos\|Glossary of Magical Terms]]: terminology
+- [[_wiki_en/magia/sistema_de_combustivel_magico\|Magic Fuel System]]: how the body pays
+- [[_wiki_en/magia/hierarquia_de_poder_magico\|Hierarchy of Magical Power]]: caster levels
+- [[_wiki_en/magia/progressao_ontologica\|Ontological Progression]]: costs that scale geometrically
+- [[_wiki_en/magia/principios_canonicos\|Canonical Principles]]: fundamental laws of magic
+- [[_wiki_en/magia/principio_final\|Final Principle]]: the ultimate cost
+- [[_wiki_en/magia/pares_antagonicos\|Antagonistic Pairs]]: schools that oppose one another
+- [[_wiki_en/magia/estrutura_padrao_de_magias\|Standard Spell Structure]]: anatomy of a spell
+- [[_wiki_en/magia/fluxus_aetheris\|Fluxus Aetheris]]: direct manipulation of the conduits of the ethereal plane
+- [[_wiki_en/magia/glossario_de_termos_magicos\|Glossary of Magical Terms]]: terminology
 
 ## Practices and Rituals
 
-- [[_wiki/magia/rito_de_ossarium\|the Rite of Ossárium]]: forbidden ritual
-- [[_wiki/magia/circulo_de_sutura\|Circle of Suture]]: necromantic control heptagram
-- [[_wiki/magia/deteccao_de_alinhamento\|Alignment Detection]]: identification of magical color
-- [[_wiki/magia/maledictus_fidejussor\|Maledictus Fidejussor]]: contractual curse
-- [[_wiki/magia/macula-sombria\|Dark Taint]]: arcane corruption
+- [[_wiki_en/magia/rito_de_ossarium\|the Rite of Ossárium]]: forbidden ritual
+- [[_wiki_en/magia/circulo_de_sutura\|Circle of Suture]]: necromantic control heptagram
+- [[_wiki_en/magia/deteccao_de_alinhamento\|Alignment Detection]]: identification of magical color
+- [[_wiki_en/magia/maledictus_fidejussor\|Maledictus Fidejussor]]: contractual curse
+- [[_wiki_en/magia/macula-sombria\|Dark Taint]]: arcane corruption
 
 ## Costs and Consequences
 
-- [[_wiki/magia/consequencias_do_descarte\|Consequences of Disposal]]: what happens in cases of abuse
-- [[_wiki/magia/metodos_de_descarte\|Disposal Methods]]: how casters deal with waste
-- [[_wiki/magia/politica_imperial_de_descarte\|Imperial Disposal Policy]]: state regulation
+- [[_wiki_en/magia/consequencias_do_descarte\|Consequences of Disposal]]: what happens in cases of abuse
+- [[_wiki_en/magia/metodos_de_descarte\|Disposal Methods]]: how casters deal with waste
+- [[_wiki_en/magia/politica_imperial_de_descarte\|Imperial Disposal Policy]]: state regulation
 
 ---
 
-*Classification according to the [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]], Volume III: [[_wiki/conceitos/tabula_umbrae_codex\|Tabula Umbrae]].*
+*Classification according to the [[_wiki_en/artefatos/codex_somniorum\|Codex Somniorum]], Volume III: [[_wiki_en/conceitos/tabula_umbrae_codex\|Tabula Umbrae]].*

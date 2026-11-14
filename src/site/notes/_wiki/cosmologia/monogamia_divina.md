@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/monogamia_divina.md","permalink":"/pt/cosmologia/monogamia-divina/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/monogamia_divina.md","permalink":"/pt/cosmologia/monogamia-divina/","lexLang":"pt-BR","lexAlt":"/cosmologia/monogamia-divina/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Monogamia Divina

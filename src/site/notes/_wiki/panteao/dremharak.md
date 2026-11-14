@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/dremharak.md","permalink":"/pt/panteao/dremharak/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/dremharak.md","permalink":"/pt/panteao/dremharak/","lexLang":"pt-BR","lexAlt":"/panteao/dremharak/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Dremharak

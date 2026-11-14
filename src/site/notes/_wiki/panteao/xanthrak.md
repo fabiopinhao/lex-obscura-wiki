@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/xanthrak.md","permalink":"/pt/panteao/xanthrak/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/xanthrak.md","permalink":"/pt/panteao/xanthrak/","lexLang":"pt-BR","lexAlt":"/panteao/xanthrak/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Xanthrak

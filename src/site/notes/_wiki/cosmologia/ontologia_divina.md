@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/ontologia_divina.md","permalink":"/pt/cosmologia/ontologia-divina/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/ontologia_divina.md","permalink":"/pt/cosmologia/ontologia-divina/","lexLang":"pt-BR","lexAlt":"/cosmologia/ontologia-divina/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ontologia Divina

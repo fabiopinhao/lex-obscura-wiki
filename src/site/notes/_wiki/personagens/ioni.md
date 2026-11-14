@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/ioni.md","permalink":"/pt/personagens/ioni/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/ioni.md","permalink":"/pt/personagens/ioni/","lexLang":"pt-BR","lexAlt":"/personagens/ioni/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ioni

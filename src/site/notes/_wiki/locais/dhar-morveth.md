@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/dhar-morveth.md","permalink":"/pt/locais/dhar-morveth/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/dhar-morveth.md","permalink":"/pt/locais/dhar-morveth/","lexLang":"pt-BR","lexAlt":"/locais/dhar-morveth/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Dhar-Morveth

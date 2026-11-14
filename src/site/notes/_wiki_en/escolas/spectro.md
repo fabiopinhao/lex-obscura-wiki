@@ -4,7 +4,7 @@
 
 # Spectro
 
-Spectro is the hybrid school of black and blue whose illusion deceives perception without altering reality. It creates false sensory stimuli that exist only in the observer’s senses, and is one of the disciplines of black magic, specializing in distorting the tangible and traversing the [[_wiki/cosmologia/plano_etereo\|ethereal plane]]. Its central question, “is this real?”, distinguishes it from [[_wiki_en/escolas/psycho\|Psycho]], which asks “is this my thought?”, and from [[_wiki_en/escolas/hypno\|Hypno]], which asks “am I awake?”.
+Spectro is the hybrid school of black and blue whose illusion deceives perception without altering reality. It creates false sensory stimuli that exist only in the observer’s senses, and is one of the disciplines of black magic, specializing in distorting the tangible and traversing the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]]. Its central question, “is this real?”, distinguishes it from [[_wiki_en/escolas/psycho\|Psycho]], which asks “is this my thought?”, and from [[_wiki_en/escolas/hypno\|Hypno]], which asks “am I awake?”.
 
 ### Principle
 
@@ -20,7 +20,7 @@ Intangibility shifts the caster partially into the ethereal plane, in a transluc
 
 ### Patron
 
-The school’s divine patron is [[_wiki/panteao/ulravaeth\|Ulravaeth]], the Custodian of the Between, named black god of Spectro. Ulravaeth shares the Between, the ethereal plane, with the blue powers, and it is through its black half that the [[_wiki_en/organizacoes/imperio_sombrio\|Empire]] recruits and trains its practitioners.
+The school’s divine patron is [[_wiki_en/panteao/ulravaeth\|Ulravaeth]], the Custodian of the Between, named black god of Spectro. Ulravaeth shares the Between, the ethereal plane, with the blue powers, and it is through its black half that the [[_wiki_en/organizacoes/imperio_sombrio\|Empire]] recruits and trains its practitioners.
 
 ### Combinations
 

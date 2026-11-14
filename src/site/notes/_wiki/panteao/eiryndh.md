@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/eiryndh.md","permalink":"/pt/panteao/eiryndh/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/eiryndh.md","permalink":"/pt/panteao/eiryndh/","lexLang":"pt-BR","lexAlt":"/panteao/eiryndh/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Eiryndh

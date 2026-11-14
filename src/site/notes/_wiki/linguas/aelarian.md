@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/aelarian.md","permalink":"/pt/linguas/aelarian/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/aelarian.md","permalink":"/pt/linguas/aelarian/","lexLang":"pt-BR","lexAlt":"/linguas/aelarian/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Aelarian

@@ -12,7 +12,7 @@ He carries the protruding belly of someone who never refuses a meal and the buil
 
 ### Origin and role
 
-A veteran of Milor’s guard, Grub serves less out of conviction than out of habit and simple loyalty. He follows Grothar, follows Milor, follows Mur, and seeks no abstract reasons in this menu of allegiances. He is a soldier of presence, not of command: his worth lies in what he can withstand and what he can bring down. He venerates [[_wiki/panteao/thurgash\|Thûrgash]], the god of orc berserkers, and aspires to one day attain the bond ([[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]]) and the combat powers Grothar already possesses; so far he remains without a bond.
+A veteran of Milor’s guard, Grub serves less out of conviction than out of habit and simple loyalty. He follows Grothar, follows Milor, follows Mur, and seeks no abstract reasons in this menu of allegiances. He is a soldier of presence, not of command: his worth lies in what he can withstand and what he can bring down. He venerates [[_wiki_en/panteao/thurgash\|Thûrgash]], the god of orc berserkers, and aspires to one day attain the bond ([[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]]) and the combat powers Grothar already possesses; so far he remains without a bond.
 
 ### Voice and method
 
@@ -20,8 +20,8 @@ Reserved to the point of seeming mute beside Mur, Grub responds more than he ini
 
 ### Combat
 
-In [[_wiki/locais/thal_serin\|Thal’Serin]], Grub was given the work no one else wanted: burning the [[_wiki/criaturas/troll\|trolls]] that regenerated faster than they could be cut. He did so with alchemical fire, flasks of [[_wiki/criaturas/salamandra\|salamander]] blood that Milor put in his hands, and what kept closing up no longer did. His effectiveness coexists with his literal-minded nature: the same orc who incinerates what refuses to die is the one who debates kill tallies as though counting coins.
+In [[_wiki_en/locais/thal_serin\|Thal’Serin]], Grub was given the work no one else wanted: burning the [[_wiki_en/criaturas/troll\|trolls]] that regenerated faster than they could be cut. He did so with alchemical fire, flasks of [[_wiki_en/criaturas/salamandra\|salamander]] blood that Milor put in his hands, and what kept closing up no longer did. His effectiveness coexists with his literal-minded nature: the same orc who incinerates what refuses to die is the one who debates kill tallies as though counting coins.
 
 ### Relationships
 
-With Mur he forms a duo in which the two counterbalance each other, one pointing the way and the other hacking a passage open with his axes. He owes Grothar and Milor unconditional obedience. At some point during the march he was healed by [[_wiki/personagens/gaelwyn\|Gaelwyn]]’s elven magic, a debt he does not even recognize, because abstract obligation is not something that gets into Grub’s head. The debt he does recognize is a different one: he credits the healing to Milor, who ordered it, and invokes it by beating his own chest, where the scar itches.
+With Mur he forms a duo in which the two counterbalance each other, one pointing the way and the other hacking a passage open with his axes. He owes Grothar and Milor unconditional obedience. At some point during the march he was healed by [[_wiki_en/personagens/gaelwyn\|Gaelwyn]]’s elven magic, a debt he does not even recognize, because abstract obligation is not something that gets into Grub’s head. The debt he does recognize is a different one: he credits the healing to Milor, who ordered it, and invokes it by beating his own chest, where the scar itches.

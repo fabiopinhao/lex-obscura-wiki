@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/panteao/kaelgrym.md","permalink":"/pt/panteao/kaelgrym/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/panteao/kaelgrym.md","permalink":"/pt/panteao/kaelgrym/","lexLang":"pt-BR","lexAlt":"/panteao/kaelgrym/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Kaelgrym

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/fragmentacoes_dos_luminares.md","permalink":"/pt/eventos/fragmentacoes-dos-luminares/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/fragmentacoes_dos_luminares.md","permalink":"/pt/eventos/fragmentacoes-dos-luminares/","lexLang":"pt-BR","lexAlt":"/eventos/fragmentacoes-dos-luminares/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Fragmentações dos Luminares

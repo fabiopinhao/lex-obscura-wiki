@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/thervad.md","permalink":"/pt/locais/thervad/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/thervad.md","permalink":"/pt/locais/thervad/","lexLang":"pt-BR","lexAlt":"/locais/thervad/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Thervad

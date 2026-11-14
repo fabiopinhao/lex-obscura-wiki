@@ -8,7 +8,7 @@ Geo is the pure green school that manipulates earth, stone, and soil as real mat
 
 ### Principle
 
-The school treats earth as both medium and matter, controlling where earth is more than what it is. This distinguishes it from its neighbors: from [[_wiki_en/escolas/cosmo\|Cosmo]], which moves through gravity and space; from [[_wiki_en/escolas/cryo\|Cryo]], which works with ice; from [[_wiki_en/escolas/rupto\|Rupto]], which destroys through structural analysis; from [[_wiki_en/escolas/umbra\|Umbra]], which travels through shadow. The stone Geo raises remains after the caster stops, unlike the force barrier of [[_wiki_en/escolas/aegis\|Aegis]], which dissolves when the [[_wiki/cosmologia/magi\|magi]] ceases.
+The school treats earth as both medium and matter, controlling where earth is more than what it is. This distinguishes it from its neighbors: from [[_wiki_en/escolas/cosmo\|Cosmo]], which moves through gravity and space; from [[_wiki_en/escolas/cryo\|Cryo]], which works with ice; from [[_wiki_en/escolas/rupto\|Rupto]], which destroys through structural analysis; from [[_wiki_en/escolas/umbra\|Umbra]], which travels through shadow. The stone Geo raises remains after the caster stops, unlike the force barrier of [[_wiki_en/escolas/aegis\|Aegis]], which dissolves when the [[_wiki_en/cosmologia/magi\|magi]] ceases.
 
 ### Practices
 

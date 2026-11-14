@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/thandruk_varn.md","permalink":"/pt/locais/thandruk-varn/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/thandruk_varn.md","permalink":"/pt/locais/thandruk-varn/","lexLang":"pt-BR","lexAlt":"/locais/thandruk-varn/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Thandruk Varn

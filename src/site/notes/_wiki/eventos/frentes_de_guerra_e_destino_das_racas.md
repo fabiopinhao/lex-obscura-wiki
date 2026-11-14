@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/frentes_de_guerra_e_destino_das_racas.md","permalink":"/pt/eventos/frentes-de-guerra-e-destino-das-racas/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/frentes_de_guerra_e_destino_das_racas.md","permalink":"/pt/eventos/frentes-de-guerra-e-destino-das-racas/","lexLang":"pt-BR","lexAlt":"/eventos/frentes-de-guerra-e-destino-das-racas/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Frentes de Guerra e Destino das Raças

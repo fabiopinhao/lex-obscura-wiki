@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/fundacao_de_myrgarde.md","permalink":"/pt/eventos/fundacao-de-myrgarde/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/fundacao_de_myrgarde.md","permalink":"/pt/eventos/fundacao-de-myrgarde/","lexLang":"pt-BR","lexAlt":"/eventos/fundacao-de-myrgarde/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Fundação de Myrgarde

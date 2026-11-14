@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/noxmoor.md","permalink":"/pt/personagens/noxmoor/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/noxmoor.md","permalink":"/pt/personagens/noxmoor/","lexLang":"pt-BR","lexAlt":"/personagens/noxmoor/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Noxmoor

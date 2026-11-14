@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/kharurz.md","permalink":"/pt/locais/kharurz/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/kharurz.md","permalink":"/pt/locais/kharurz/","lexLang":"pt-BR","lexAlt":"/locais/kharurz/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Kharûrz

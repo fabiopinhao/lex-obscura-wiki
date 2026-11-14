@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/criaturas/basilisco.md","permalink":"/pt/criaturas/basilisco/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/criaturas/basilisco.md","permalink":"/pt/criaturas/basilisco/","lexLang":"pt-BR","lexAlt":"/criaturas/basilisco/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Basilisco

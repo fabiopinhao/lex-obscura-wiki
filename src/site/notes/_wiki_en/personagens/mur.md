@@ -12,7 +12,7 @@ He has a broad torso, covered in scars that tell of old campaigns. He wields a c
 
 ### Role
 
-He serves in Milor’s guard as a shock force, loyal to Grothar and the boss. He worships [[_wiki/panteao/thurgash\|Thûrgash]], the god of orc berserkers, and aspires to one day attain the bond ([[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]]) and the battle frenzy that Grothar already possesses; he is not yet one of the bonded.
+He serves in Milor’s guard as a shock force, loyal to Grothar and the boss. He worships [[_wiki_en/panteao/thurgash\|Thûrgash]], the god of orc berserkers, and aspires to one day attain the bond ([[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]]) and the battle frenzy that Grothar already possesses; he is not yet one of the bonded.
 
 ### Voice
 

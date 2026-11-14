@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/berenice.md","permalink":"/pt/personagens/berenice/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/berenice.md","permalink":"/pt/personagens/berenice/","lexLang":"pt-BR","lexAlt":"/personagens/berenice/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Berenice

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/hierarquia_imperial_niveis_complementares.md","permalink":"/pt/conceitos/hierarquia-imperial-niveis-complementares/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/hierarquia_imperial_niveis_complementares.md","permalink":"/pt/conceitos/hierarquia-imperial-niveis-complementares/","lexLang":"pt-BR","lexAlt":"/conceitos/hierarquia-imperial-niveis-complementares/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Hierarquia Imperial: Níveis Complementares

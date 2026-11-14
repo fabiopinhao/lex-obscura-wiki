@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/doutrina_da_alma.md","permalink":"/pt/cosmologia/doutrina-da-alma/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/doutrina_da_alma.md","permalink":"/pt/cosmologia/doutrina-da-alma/","lexLang":"pt-BR","lexAlt":"/cosmologia/doutrina-da-alma/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Doutrina da Alma

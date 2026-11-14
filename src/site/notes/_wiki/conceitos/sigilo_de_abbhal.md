@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/conceitos/sigilo_de_abbhal.md","permalink":"/pt/conceitos/sigilo-de-abbhal/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/conceitos/sigilo_de_abbhal.md","permalink":"/pt/conceitos/sigilo-de-abbhal/","lexLang":"pt-BR","lexAlt":"/conceitos/sigilo-de-abbhal/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Sigilo de Abbhal

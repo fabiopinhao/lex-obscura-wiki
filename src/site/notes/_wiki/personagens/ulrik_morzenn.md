@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/ulrik_morzenn.md","permalink":"/pt/personagens/ulrik-morzenn/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/ulrik_morzenn.md","permalink":"/pt/personagens/ulrik-morzenn/","lexLang":"pt-BR","lexAlt":"/personagens/ulrik-morzenn/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ulrik Morzenn

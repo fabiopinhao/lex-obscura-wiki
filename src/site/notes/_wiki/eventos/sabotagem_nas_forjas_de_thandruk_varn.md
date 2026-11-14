@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/eventos/sabotagem_nas_forjas_de_thandruk_varn.md","permalink":"/pt/eventos/sabotagem-nas-forjas-de-thandruk-varn/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/eventos/sabotagem_nas_forjas_de_thandruk_varn.md","permalink":"/pt/eventos/sabotagem-nas-forjas-de-thandruk-varn/","lexLang":"pt-BR","lexAlt":"/eventos/sabotagem-nas-forjas-de-thandruk-varn/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Sabotagem nas Forjas de Thandruk Varn

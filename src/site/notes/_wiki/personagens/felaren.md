@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/felaren.md","permalink":"/pt/personagens/felaren/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/felaren.md","permalink":"/pt/personagens/felaren/","lexLang":"pt-BR","lexAlt":"/personagens/felaren/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Felaren
