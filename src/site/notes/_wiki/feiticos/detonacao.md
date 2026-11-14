@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/detonacao.md","permalink":"/pt/feiticos/detonacao/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/detonacao.md","permalink":"/pt/feiticos/detonacao/","lexLang":"pt-BR","lexAlt":"/feiticos/detonacao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Detonação

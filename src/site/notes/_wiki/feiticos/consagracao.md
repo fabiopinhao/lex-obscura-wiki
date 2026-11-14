@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/consagracao.md","permalink":"/pt/feiticos/consagracao/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/consagracao.md","permalink":"/pt/feiticos/consagracao/","lexLang":"pt-BR","lexAlt":"/feiticos/consagracao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Consagração

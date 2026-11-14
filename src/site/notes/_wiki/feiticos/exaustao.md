@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/exaustao.md","permalink":"/pt/feiticos/exaustao/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/exaustao.md","permalink":"/pt/feiticos/exaustao/","lexLang":"pt-BR","lexAlt":"/feiticos/exaustao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Exaustão

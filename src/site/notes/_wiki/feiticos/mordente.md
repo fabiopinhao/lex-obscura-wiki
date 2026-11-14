@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/mordente.md","permalink":"/pt/feiticos/mordente/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/mordente.md","permalink":"/pt/feiticos/mordente/","lexLang":"pt-BR","lexAlt":"/feiticos/mordente/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Mordente

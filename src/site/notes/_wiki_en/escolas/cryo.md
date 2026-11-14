@@ -12,11 +12,11 @@ Cryo treats cold as an external force, penetrating from the outside in. This is 
 
 ### Practices
 
-The school’s mechanics scale from numbing to absolute glaciation. In its lesser forms, Numbing slows the target’s reflexes, Night Air deposits thin layers of ice on surfaces, and Crystal freezes moisture in the air into sharp formations. Next, Spicule launches shards and spears of ice as projectiles, Mordant immobilizes limbs in ice that tightens the more the victim struggles, and Carapace coats the body in armor that sends cold up the striker’s arm. Coldness drains heat without visible ice, freezing from the inside out through pure thermodynamics, and Brittle weakens matter to the point that metal cracks at a touch and bone turns to glass. At the top of the scale, Blizzard unleashes storms with zero visibility, up to Glaciation, the absolute cold in which air, sound, and movement cease and whatever does not die is preserved, intact and eternally trapped in ice.
+The school’s mechanics scale from numbing to absolute glaciation. In its lesser forms, Numbness slows the target’s reflexes, Frost deposits thin layers of ice on surfaces, and Crystal freezes moisture in the air into sharp formations. Next, Spike launches shards and spears of ice as projectiles, Bite immobilizes limbs in ice that tightens the more the victim struggles, and Carapace coats the body in armor that sends cold up the striker’s arm. Chill drains heat without visible ice, freezing from the inside out through pure thermodynamics, and Brittleness weakens matter to the point that metal cracks at a touch and bone turns to glass. At the top of the scale, Blizzard unleashes storms with zero visibility, up to Glaciation, the absolute cold in which air, sound, and movement cease and whatever does not die is preserved, intact and eternally trapped in ice.
 
 ### Combinations
 
-Combined with Necro, it produces complete emotional death, the inability to feel. With [[_wiki_en/escolas/rupto\|Rupto]], it forms the imperial doctrine of demolition: Brittle weakens matter and Fissure shatters what remains, walls turning to gravel and bones turning to dust. With [[_wiki_en/escolas/toxo\|Toxo]], it is the poison that freezes: Mordant immobilizes the target while the venom works without haste.
+Combined with Necro, it produces complete emotional death, the inability to feel. With [[_wiki_en/escolas/rupto\|Rupto]], it forms the imperial doctrine of demolition: Brittleness weakens matter and Fissure shatters what remains, walls turning to gravel and bones turning to dust. With [[_wiki_en/escolas/toxo\|Toxo]], it is the poison that freezes: Bite immobilizes the target while the venom works without haste.
 
 ### Costs
 

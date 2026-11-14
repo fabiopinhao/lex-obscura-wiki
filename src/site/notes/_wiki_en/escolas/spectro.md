@@ -24,7 +24,7 @@ The school’s divine patron is [[_wiki_en/panteao/ulravaeth\|Ulravaeth]], the C
 
 ### Combinations
 
-With [[_wiki_en/escolas/phobos\|Phobos]], Mirage provides the complete sensory setting while Dread ensures that it confirms the target’s worst fears, producing a terror that cannot be disbelieved. With Psycho, Confabulation implants the false memory while Simulacrum confirms it visually, and the target not only sees what does not exist, but remembers having seen it. With [[_wiki_en/escolas/aero\|Aero]], Resonance carries auditory illusions with physical fidelity over absurd distances. With [[_wiki_en/escolas/cosmo\|Cosmo]], Evanescence erases the attacker’s presence while Suspension floats the disoriented target at the instant of surprise.
+With [[_wiki_en/escolas/phobos\|Phobos]], Mirage provides the complete sensory setting while Horror ensures that it confirms the target’s worst fears, producing a terror that cannot be disbelieved. With Psycho, Fabrication implants the false memory while Simulacrum confirms it visually, and the target not only sees what does not exist, but remembers having seen it. With [[_wiki_en/escolas/aero\|Aero]], Resonance carries auditory illusions with physical fidelity over absurd distances. With [[_wiki_en/escolas/cosmo\|Cosmo]], Evanescence erases the attacker’s presence while Suspension floats the disoriented target at the instant of surprise.
 
 ### Costs
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/deflexao.md","permalink":"/pt/feiticos/deflexao/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/deflexao.md","permalink":"/pt/feiticos/deflexao/","lexLang":"pt-BR","lexAlt":"/feiticos/deflexao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Deflexão

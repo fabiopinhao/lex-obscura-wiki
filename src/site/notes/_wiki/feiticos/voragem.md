@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/voragem.md","permalink":"/pt/feiticos/voragem/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/voragem.md","permalink":"/pt/feiticos/voragem/","lexLang":"pt-BR","lexAlt":"/feiticos/voragem/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Voragem

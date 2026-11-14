@@ -12,7 +12,7 @@ Where other schools bind, compress, and displace, Urano releases, elevates, and 
 
 ### Practices
 
-The mechanics scale from stillness to total transcendence. Stillness silences mental noise without inducing sleep, quieting what prevented clarity, and Feather makes the body respond to the spirit before gravity, softening jumps and falls. Breath makes air enter the lungs as though the obstruction did not exist, making smoke or water breathable for brief moments, and Elevation raises the caster off the ground without propulsion, suspended contemplation in which the ground ceases to matter. Flight is full aerial movement, silent and indifferent to the weather, and responds better the more detached its caster is from earthly anchors.
+The mechanics scale from stillness to total transcendence. Stillness silences mental noise without inducing sleep, quieting what prevented clarity, and Feather makes the body respond to the spirit before gravity, softening jumps and falls. Breath makes air enter the lungs as though the obstruction did not exist, making smoke or water breathable for brief moments, and Levitation raises the caster off the ground without propulsion, suspended contemplation in which the ground ceases to matter. Flight is full aerial movement, silent and indifferent to the weather, and responds better the more detached its caster is from earthly anchors.
 
 In matters of bonds, Freedom loosens ropes, shackles, and arcane seals, declaring that the target is not bound, and Absolution undoes bonds imposed by others, forced oaths, and curses, without destroying the surrounding prison. Serenity imposes peace on a creature or area, and the desire to hurt becomes alien without the target losing lucidity. Armistice declares a zone in which all violence becomes impossible, including defensive violence. At the apex is Ascension, which transcends the physical plane for brief moments, the caster dissolving into light as pure consciousness, immune to the mundane but also unable to affect it, and the return is violent because the solid body seems like a prison.
 
@@ -26,4 +26,4 @@ With [[_wiki_en/escolas/nomos\|Nomos]], the relationship is asymmetrical: Urano 
 
 ### Antagonistic Pair
 
-Urano opposes Cosmo: Burden crushes what Elevation raises, and Singularity traps what Absolution frees. It is spatial dissociation against contempt for the mundane, the body that does not seem to be here against the world that does not seem to matter.
+Urano opposes Cosmo: Burden crushes what Levitation raises, and Singularity traps what Absolution frees. It is spatial dissociation against contempt for the mundane, the body that does not seem to be here against the world that does not seem to matter.

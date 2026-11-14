@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/discernimento.md","permalink":"/pt/feiticos/discernimento/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/discernimento.md","permalink":"/pt/feiticos/discernimento/","lexLang":"pt-BR","lexAlt":"/feiticos/discernimento/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Discernimento

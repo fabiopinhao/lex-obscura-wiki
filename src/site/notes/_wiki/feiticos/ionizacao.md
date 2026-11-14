@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/feiticos/ionizacao.md","permalink":"/pt/feiticos/ionizacao/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/feiticos/ionizacao.md","permalink":"/pt/feiticos/ionizacao/","lexLang":"pt-BR","lexAlt":"/feiticos/ionizacao/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ionização
