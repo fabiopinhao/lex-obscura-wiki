@@ -4,7 +4,7 @@
 
 # Demons
 
-Demons, also called Red Gods or Gods of Chaos, are the divine category associated with the red [[_wiki_en/cosmologia/cor_arcana\|arcane color]]: destruction, chaos, and pleasure in violence. They inhabit existential planes that are true hells, landscapes of fire, blood, and perpetual ruin.
+Demons, also called Red Gods or Gods of Chaos, are the divine category associated with the red [[_wiki/cosmologia/cor_arcana\|arcane color]]: destruction, chaos, and pleasure in violence. They inhabit existential planes that are true hells, landscapes of fire, blood, and perpetual ruin.
 
 ### Nature
 

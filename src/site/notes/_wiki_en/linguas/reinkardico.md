@@ -8,7 +8,7 @@ Reinkardic is the continent’s lingua franca, the common language that crosses 
 
 ### Origin and Reach
 
-Reinkardic developed from human dialects, which carry greater weight in its structure, combined with legacies from [[_wiki_en/linguas/tenebraico\|Tenebraic]], [[_wiki_en/linguas/aelarian\|Aelarian]], and [[_wiki_en/linguas/luminar\|Luminar]], whose etymology survived, but whose magic did not. Its grammar is analytical and flexible, easy to learn and adaptable to the physiology of any race, and it was this plasticity, rather than magical prestige, that spread it. Its reach is universal: spoken everywhere, it was fully assimilated by the [[_wiki_en/racas/shadar\|Shadars]], while imperial [[_wiki_en/racas/orc\|orcs]] speak it with an accent. Its spread made it less the language of one people and more the common ground on which the continent converses with itself.
+Reinkardic developed from human dialects, which carry greater weight in its structure, combined with legacies from [[_wiki/linguas/tenebraico\|Tenebraic]], [[_wiki/linguas/aelarian\|Aelarian]], and [[_wiki_en/linguas/luminar\|Luminar]], whose etymology survived, but whose magic did not. Its grammar is analytical and flexible, easy to learn and adaptable to the physiology of any race, and it was this plasticity, rather than magical prestige, that spread it. Its reach is universal: spoken everywhere, it was fully assimilated by the [[_wiki_en/racas/shadar\|Shadars]], while imperial [[_wiki_en/racas/orc\|orcs]] speak it with an accent. Its spread made it less the language of one people and more the common ground on which the continent converses with itself.
 
 ### Writing
 

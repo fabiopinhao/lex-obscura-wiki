@@ -12,4 +12,4 @@ The Alliance was not a gesture of fraternity, but a calculation. The Druls broug
 
 ### Consequences
 
-The Druls needed reach on the surface to protect their interests in Vor-Ghol; the Shadars needed arcane depth to compete with the Sancta system that sustained [[_wiki_en/locais/myrgarde\|Myrgarde]]. The formalization of the pact locked a lasting mechanism into place: the Druls supplied the magic, the Shadars supplied the sword, and together they dominated both the surface and the subterranean reaches of the northern plateau, a structure that would endure until the Reinkardic Wars and beyond.
+The Druls needed reach on the surface to protect their interests in Vor-Ghol; the Shadars needed arcane depth to compete with the Sancta system that sustained [[_wiki/locais/myrgarde\|Myrgarde]]. The formalization of the pact locked a lasting mechanism into place: the Druls supplied the magic, the Shadars supplied the sword, and together they dominated both the surface and the subterranean reaches of the northern plateau, a structure that would endure until the Reinkardic Wars and beyond.

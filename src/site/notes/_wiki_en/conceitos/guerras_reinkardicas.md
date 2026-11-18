@@ -4,7 +4,7 @@
 
 # Reinkardic Wars
 
-The Reinkardic Wars were the continental conflict that ended the [[_wiki_en/conceitos/segunda_era\|Second Era]] and produced the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]]. They lasted about fifty years, consumed all of [[_wiki_en/locais/reinkard\|Reinkard]], and pitted [[_wiki_en/locais/morvgrad\|Morvgrad]], the religious and military capital of the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]], against [[_wiki_en/locais/myrgarde\|Myrgarde]] and the kingdoms of the plains.
+The Reinkardic Wars were the continental conflict that ended the [[_wiki_en/conceitos/segunda_era\|Second Era]] and produced the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]]. They lasted about fifty years, consumed all of [[_wiki_en/locais/reinkard\|Reinkard]], and pitted [[_wiki_en/locais/morvgrad\|Morvgrad]], the religious and military capital of the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]], against [[_wiki/locais/myrgarde\|Myrgarde]] and the kingdoms of the plains.
 
 ### Cause
 

@@ -12,7 +12,7 @@ Every stone of this Empire was laid upon something else. It is best not to ask w
 
 - [[_wiki_en/locais/morvgrad\|Morvgrad]]: imperial capital, seat of Arothistar’s power
 - [[_wiki_en/locais/niedellin\|Niedellin]]: settlement in Ventrista, on the banks of the River Parveni
-- [[_wiki_en/locais/myrgarde\|Myrgarde]]: former human capital, subjugated by the Empire
+- [[_wiki/locais/myrgarde\|Myrgarde]]: former human capital, subjugated by the Empire
 - [[_wiki_en/locais/valdris\|Valdris]]: coastal port city, imperial outlet to the ocean
 - [[_wiki_en/locais/varnak\|Varnak]]: mountainous region in Veinkard, fragmented tribal territory
 - [[_wiki_en/locais/qadesh\|Qadesh]]: vassal city-state in the eastern desert

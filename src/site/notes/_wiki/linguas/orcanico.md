@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/orcanico.md","permalink":"/pt/linguas/orcanico/","lexLang":"pt-BR","lexAlt":"/linguas/orcanico/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/orcanico.md","permalink":"/pt/linguas/orcanico/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Orcânico
@@ -23,6 +23,8 @@ Orcs imperiais falam o [[_wiki/linguas/reinkardico\|reinkárdico]] com sotaque e
 Essa invocação fixa o núcleo do léxico orcânico atestado em uso. Dela se extraem *vrokh*, fogo; *gûm*, ventre ou entranhas; o sufixo intensificador violento *-ûrz*; *kazh*, o fraco ou os fracos; o sufixo coletivo *-rakh*, que forma nomes de horda e de gente; e *drûz*, devorar no imperativo, cuja forma *drûzkar* significa devorar tudo.
 
 Ao lado deles, *khar* nomeia a fúria que serve de grito-raiz ao registro berserker. Dois sufixos completam o conjunto produtivo: *-makh*, intensificador de estrutura, e *-hal*, fenda ou passagem. Outros dois morfemas integram o léxico sem ocorrência registrada nas fontes: *grommh*, sangue; e *kragh*, quebrar ou despedaçar, no imperativo.
+
+Do orcânico antigo, a Velha Fala em que a gramática da fúria se desintegra, vem *Bersarkr*, “pele de urso”, palavra que deu nome à própria fúria berserker.
 
 Da composição de *gûm* com *-rakh* nasce **Gûmrakh**, “o ventre da horda”, nome orcânico das [[_wiki/locais/terras_geladas_do_norte\|Terras Geladas do Norte]]. A mesma formação batiza as fortalezas que guarnecem a periferia do planalto: **[[_wiki/locais/kharurz\|Kharûrz]]**, de *khar* com *-ûrz*, a fúria levada ao extremo; **[[_wiki/locais/vrokhmakh\|Vrokhmakh]]**, de *vrokh* com *-makh*, a grande estrutura do fogo; e **[[_wiki/locais/druzhal\|Drûzhal]]**, de *drûz* com *-hal*, a passagem que devora.
 

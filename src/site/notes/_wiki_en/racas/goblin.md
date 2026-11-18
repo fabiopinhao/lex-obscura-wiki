@@ -36,7 +36,7 @@ As a gnomish subrace linked to demons, goblins have access to [[_wiki_en/magia/v
 
 ### Voice
 
-Goblins speak quickly, in short, truncated sentences, swallowing syllables when hurried. Their vocabulary is utilitarian, concrete, devoid of abstraction: where an orc speaks of honor, a goblin speaks of food; where a Shadar speaks of order, a goblin speaks of repairs. Complaining is the default mode of communication, and the intensity of the complaint tends to be inversely proportional to the actual severity of the problem. [[_wiki_en/linguas/orcanico\|Orcanic]] is understood by goblins who serve in orc fortresses, but goblin pronunciation is higher-pitched and faster.
+Goblins speak quickly, in short, truncated sentences, swallowing syllables when hurried. Their vocabulary is utilitarian, concrete, devoid of abstraction: where an orc speaks of honor, a goblin speaks of food; where a Shadar speaks of order, a goblin speaks of repairs. Complaining is the default mode of communication, and the intensity of the complaint tends to be inversely proportional to the actual severity of the problem. [[_wiki/linguas/orcanico\|Orcanic]] is understood by goblins who serve in orc fortresses, but goblin pronunciation is higher-pitched and faster.
 
 ### Internal Conflicts
 

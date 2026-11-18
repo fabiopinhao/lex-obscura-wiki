@@ -12,7 +12,7 @@ The rhythm is slow and deliberate, with emphasis on the last syllable of each ph
 
 ### Register and Grammar
 
-As a living language, Titan-tongue had a unified register. In the derived usage that survives in its descendant languages, two modes are distinguished: channeling, formal and ritualistic, and communion, informal and meditative. Druids alternate between them as needed, since channeling the power of the primordial titans requires the first mode, while sensing the health of a tree calls for the second. The grammar is based on states, not actions: where [[_wiki_en/linguas/tenebraico\|Tenebraic]] says “destroy” and [[_wiki_en/linguas/orcanico\|Orcanic]] commands “burn”, the Titan-tongue register describes “let it be destroyed” or “burning”. The difference is ontological, since Titan-tongue describes realities it wishes to exist, while the other ritual languages command actions they want performed.
+As a living language, Titan-tongue had a unified register. In the derived usage that survives in its descendant languages, two modes are distinguished: channeling, formal and ritualistic, and communion, informal and meditative. Druids alternate between them as needed, since channeling the power of the primordial titans requires the first mode, while sensing the health of a tree calls for the second. The grammar is based on states, not actions: where [[_wiki/linguas/tenebraico\|Tenebraic]] says “destroy” and [[_wiki/linguas/orcanico\|Orcanic]] commands “burn”, the Titan-tongue register describes “let it be destroyed” or “burning”. The difference is ontological, since Titan-tongue describes realities it wishes to exist, while the other ritual languages command actions they want performed.
 
 ### Writing and Use
 

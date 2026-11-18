@@ -4,7 +4,7 @@
 
 # Reinkardic Wars: The Last Wall
 
-The Reinkardic Wars designate the long conflict between [[_wiki_en/locais/morvgrad\|Morvgrad]] and [[_wiki_en/locais/myrgarde\|Myrgarde]] that ended with the fall of the alabastrine capital and the consolidation of the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]]’s dominion over [[_wiki_en/locais/reinkard\|Reinkard]]. The first fifteen years of [[_wiki_en/personagens/arothistar\|Arothistar]]’s monarchy were not years of conquest, but of consolidation: from fifty-five to forty years ago, the two empires oscillated between cold wars and localized battles on the plains, while Myrgarde, already unable to reach the plateau, watched Morvgrad erect occupation forts and subjugate surrounding villages.
+The Reinkardic Wars designate the long conflict between [[_wiki_en/locais/morvgrad\|Morvgrad]] and [[_wiki/locais/myrgarde\|Myrgarde]] that ended with the fall of the alabastrine capital and the consolidation of the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]]’s dominion over [[_wiki_en/locais/reinkard\|Reinkard]]. The first fifteen years of [[_wiki_en/personagens/arothistar\|Arothistar]]’s monarchy were not years of conquest, but of consolidation: from fifty-five to forty years ago, the two empires oscillated between cold wars and localized battles on the plains, while Myrgarde, already unable to reach the plateau, watched Morvgrad erect occupation forts and subjugate surrounding villages.
 
 ### Internal Consolidation
 

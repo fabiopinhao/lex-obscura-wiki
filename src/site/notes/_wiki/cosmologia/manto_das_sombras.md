@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/manto_das_sombras.md","permalink":"/pt/cosmologia/manto-das-sombras/","lexLang":"pt-BR","lexAlt":"/cosmologia/manto-das-sombras/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/manto_das_sombras.md","permalink":"/pt/cosmologia/manto-das-sombras/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Manto das Sombras
@@ -8,7 +8,7 @@ O Manto das Sombras, também chamado Continente de Sombras, é o fenômeno metaf
 
 ### Efeitos por espectro
 
-A presença massiva de energia sombria enfraquece a influência dos deuses dos espectros opostos. Os [[_wiki/cosmologia/anjos\|deuses brancos]] e os [[_wiki/cosmologia/titas\|verdes]] encontram maior resistência para exercer poder em Reinkard: seus pactuados sentem a fé mais distante, seus rituais exigem mais esforço, seus milagres tornam-se raros. Não é que esses deuses tenham perdido poder, mas que o continente se tornou terreno hostil para suas energias. Na escala das [[_wiki/cosmologia/manifestacoes_divinas\|manifestações divinas]], cada aparição de um deus branco ou verde, da assinatura ambiental ao avatar, custa mais em Reinkard, e a raridade de seus sinais no continente conta, por si, a história do enfraquecimento. Os [[_wiki/cosmologia/demonios\|deuses vermelhos]] e os [[_wiki/cosmologia/siderais\|azuis]] são menos afetados: os demônios porque sua natureza caótica não depende de estabilidade planar, e os siderais porque habitam o [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]], operando numa camada que o Manto não alcança diretamente.
+A presença massiva de energia sombria enfraquece a influência dos deuses dos espectros opostos. Os [[_wiki/cosmologia/anjos\|deuses brancos]] e os [[_wiki/cosmologia/titas\|verdes]] encontram maior resistência para exercer poder em Reinkard: seus pactuados sentem a fé mais distante, seus rituais exigem mais esforço, seus milagres tornam-se raros. Não é que esses deuses tenham perdido poder, mas que o continente se tornou terreno hostil para suas energias. Na escala das [[_wiki/cosmologia/manifestacoes_divinas\|manifestações divinas]], cada aparição de um deus branco ou verde, da assinatura ambiental ao avatar, custa mais em Reinkard, e a raridade de seus sinais no continente conta, por si, a história do enfraquecimento. Os [[_wiki/cosmologia/demonios\|deuses vermelhos]] e os [[_wiki/cosmologia/siderais\|azuis]] são menos afetados: os demônios porque sua natureza caótica não depende de estabilidade planar, e os siderais porque operam a partir do [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]], e não do material, numa camada que o Manto não alcança diretamente.
 
 ### Manifestação visível
 

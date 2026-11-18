@@ -12,7 +12,7 @@ The citadel stands high, built above the level of the plateau. Those departing f
 
 ### History
 
-Before the fall, Elenir was an ally of [[_wiki_en/locais/myrgarde\|Myrgarde]] in the [[_wiki_en/conceitos/segunda_era\|Second Era]]. [[_wiki_en/personagens/milorsevogh_velshard\|Milor]] participated in the campaign that took it. Even subjugated, the fortress still houses more than twenty thousand inhabitants.
+Before the fall, Elenir was an ally of [[_wiki/locais/myrgarde\|Myrgarde]] in the [[_wiki_en/conceitos/segunda_era\|Second Era]]. [[_wiki_en/personagens/milorsevogh_velshard\|Milor]] participated in the campaign that took it. Even subjugated, the fortress still houses more than twenty thousand inhabitants.
 
 ### The Crystal Fortress
 

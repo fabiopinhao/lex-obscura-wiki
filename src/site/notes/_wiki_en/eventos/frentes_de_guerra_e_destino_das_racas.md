@@ -8,7 +8,7 @@ During the Reinkardic Wars, the conflict did not affect all the races of the con
 
 ### The Peoples of the Forests
 
-The Sylvans did not form organized fronts or ally themselves with [[_wiki_en/locais/myrgarde\|Myrgarde]]. Their forces were rangers, hunters, and druids who knew every root and every watercourse in their territories, and fought to defend their own forests, not the human plains. When a forest fell, the survivors tried to reach another before the fire did, and many failed. Alongside humans and gnomes, they were the most enslaved race of the war.
+The Sylvans did not form organized fronts or ally themselves with [[_wiki/locais/myrgarde\|Myrgarde]]. Their forces were rangers, hunters, and druids who knew every root and every watercourse in their territories, and fought to defend their own forests, not the human plains. When a forest fell, the survivors tried to reach another before the fire did, and many failed. Alongside humans and gnomes, they were the most enslaved race of the war.
 
 The [[_wiki_en/racas/gerut\|Gerut]] were the least affected. They inhabited only titanic forests: where there was a Gerut people, there was a titan, and where there was a titan, conquest became unfeasible. They survived through the nature of the terrain they chose to inhabit, not through strength of arms.
 

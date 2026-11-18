@@ -8,7 +8,7 @@ Grasnak is a legendary figure in the [[_wiki_en/racas/orc\|orc]] oral tradition,
 
 ### The Lays
 
-The Lays of Grasnak constitute an oral tradition that has never been transcribed; to an orc, writing down a song would be as absurd as bottling the wind. The epic recounts the defense of a dwarven fortress by orcs, although the origin of this defense, given the ancestral hatred between the two races, remains uncertain. The preservation of the Lays is, paradoxically, a product of imperial contempt: the [[_wiki_en/racas/shadar\|Shadars]] never asked for a translation or tried to suppress them, and [[_wiki_en/linguas/orcanico\|Orcanic]] survives because no one bothered to destroy it.
+The Lays of Grasnak constitute an oral tradition that has never been transcribed; to an orc, writing down a song would be as absurd as bottling the wind. The epic recounts the defense of a dwarven fortress by orcs, although the origin of this defense, given the ancestral hatred between the two races, remains uncertain. The preservation of the Lays is, paradoxically, a product of imperial contempt: the [[_wiki_en/racas/shadar\|Shadars]] never asked for a translation or tried to suppress them, and [[_wiki/linguas/orcanico\|Orcanic]] survives because no one bothered to destroy it.
 
 ### Reverberation
 

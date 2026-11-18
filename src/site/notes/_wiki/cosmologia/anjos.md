@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/anjos.md","permalink":"/pt/cosmologia/anjos/","lexLang":"pt-BR","lexAlt":"/cosmologia/anjos/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/anjos.md","permalink":"/pt/cosmologia/anjos/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Anjos
@@ -16,11 +16,11 @@ O vínculo com anjos opera por [[_wiki/magia/devotio_sancta\|Devotio Sancta]]: d
 
 ### Os Álvarar
 
-Na [[_wiki/conceitos/primeira_era\|Primeira Era]], os praticantes mais devotos geraram os [[_wiki/racas/alvarar\|álvarar]]: indivíduos que afirmavam descender dos anjos e incorporavam dons celestiais. Atuavam como paladinos e clérigos, moralizadores que impunham seu código por persuasão ou por espada. Essa imposição rachou os humanos e converteu sociedades pagãs à fé celestial. Onde os [[_wiki/racas/luminares\|Luminares]] jamais tentaram reformar a humanidade, os álvarar fizeram disso seu propósito.
+Entre os praticantes mais devotos da Sancta surgiram os [[_wiki/racas/alvarar\|álvarar]], ordem nascida na [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]] cuja identidade se firmou na [[_wiki/conceitos/primeira_era\|Primeira Era]]: indivíduos que afirmavam descender dos anjos e incorporavam dons celestiais. Atuavam como paladinos e clérigos, moralizadores que impunham seu código por persuasão ou por espada. Essa imposição rachou os humanos e converteu sociedades pagãs à fé celestial. Onde os [[_wiki/racas/luminares\|Luminares]] jamais tentaram reformar a humanidade, os álvarar fizeram disso seu propósito.
 
 ### Declínio em Reinkard
 
-Os anjos não foram derrotados nem aprisionados: perderam relevância. O domínio das sombras tornou [[_wiki/locais/reinkard\|Reinkard]] inóspito para sua influência. Onde os [[_wiki/cosmologia/titas\|Titãs]] negociaram compromissos pragmáticos, os anjos recusaram qualquer concessão e viram sua presença minguar. [[_wiki/personagens/peredur\|Peredur]] formulou a sentença: “pereceram por pureza inflexível.” [[_wiki/panteao/azazel\|Azazel]] está livre, mas irrelevante em Reinkard, e precisaria de uma transformação civilizacional para reconquistar presença. A fé luminosa sobrevive clandestinamente nas margens do [[_wiki/organizacoes/imperio_sombrio\|império]], sem força institucional: [[_wiki/personagens/abramis\|Abramis]], padre de [[_wiki/locais/niedellin\|Niedellin]], é devoto da [[_wiki/organizacoes/ordem_de_azazel\|Ordem de Azazel]].
+Os anjos não foram derrotados nem aprisionados: perderam relevância. O domínio das sombras tornou [[_wiki/locais/reinkard\|Reinkard]] inóspito para sua influência. Onde os [[_wiki/cosmologia/titas\|Titãs]] negociaram compromissos pragmáticos, os anjos recusaram qualquer concessão e viram sua presença minguar. [[_wiki/personagens/peredur\|Peredur]] formulou a sentença: “Os alvos escolheram pureza sem concessão, e pereceram por ela.” [[_wiki/panteao/azazel\|Azazel]] está livre, mas irrelevante em Reinkard, e precisaria de uma transformação civilizacional para reconquistar presença. A fé luminosa sobrevive clandestinamente nas margens do [[_wiki/organizacoes/imperio_sombrio\|império]], sem força institucional: [[_wiki/personagens/abramis\|Abramis]], padre de [[_wiki/locais/niedellin\|Niedellin]], é devoto da [[_wiki/organizacoes/ordem_de_azazel\|Ordem de Azazel]].
 
 ### Anjos Nomeados
 

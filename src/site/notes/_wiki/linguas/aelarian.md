@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/aelarian.md","permalink":"/pt/linguas/aelarian/","lexLang":"pt-BR","lexAlt":"/linguas/aelarian/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/aelarian.md","permalink":"/pt/linguas/aelarian/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Aelarian
@@ -21,3 +21,5 @@ A escrita usa glifos derivados do luminar, simplificados mas reconhecíveis: tra
 ### Registro Ritual
 
 O aelarian mágico é o registro litúrgico de elarinos e [[_wiki/racas/alvarar\|álvarars]] paladinos na Devotio Sancta. Seu léxico é de cognatos [[_wiki/racas/luminares\|luminares]] (*Isilmathé*, “luz eterna”; *Aelindra*, “aurora”), e sua estética sonora evoca o canto litúrgico. A Devotio Sancta não exige uma língua ritual única: responde à devoção e à tradição espiritual do praticante, de modo que a língua é o vaso cultural da prece, não uma chave exclusiva.
+
+A língua aparece também na onomástica. *Crys’Aelin*, nome aelariano de [[_wiki/locais/elenir\|Elenir]], traduz-se por “aurora cristalina” e deriva do luminar ancestral, fundindo *crys* (cristal) e *aelin* (cognato de *Aelindra*).

@@ -16,7 +16,7 @@ The ophideias are chosen from among Drul girls of the Matriarchal Houses, genera
 
 ### Magical Specialization
 
-Most ophideias operate with black magic through [[_wiki_en/magia/pactum_diaboli\|Pactum Diaboli]], in schools compatible with espionage. Spectro is the primary school: it allows them to pass through matter, project themselves in spectral form to probe bodies and spaces, and achieve partial invisibility. Umbra manipulates shadows and supports the invocation of [[_wiki_en/panteao/ulravaeth\|Ulravaeth]], the Custodian of the Between, who projects his own shadow in a “spectral headwind”. In invocations associated with the [[_wiki_en/cosmologia/diabos\|devils]] of the matriarchal pantheon, those who are fluent use [[_wiki_en/linguas/gholvyss\|Gholvyss]], an extremely secret matriarchal diabolical language, distinct from common [[_wiki_en/linguas/tenebraico\|Tenebraic]].
+Most ophideias operate with black magic through [[_wiki_en/magia/pactum_diaboli\|Pactum Diaboli]], in schools compatible with espionage. Spectro is the primary school: it allows them to pass through matter, project themselves in spectral form to probe bodies and spaces, and achieve partial invisibility. Umbra manipulates shadows and supports the invocation of [[_wiki_en/panteao/ulravaeth\|Ulravaeth]], the Custodian of the Between, who projects his own shadow in a “spectral headwind”. In invocations associated with the [[_wiki_en/cosmologia/diabos\|devils]] of the matriarchal pantheon, those who are fluent use [[_wiki/linguas/gholvyss\|Gholvyss]], an extremely secret matriarchal diabolical language, distinct from common [[_wiki/linguas/tenebraico\|Tenebraic]].
 
 ### Rites
 

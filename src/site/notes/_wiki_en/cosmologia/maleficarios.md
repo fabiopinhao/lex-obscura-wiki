@@ -8,4 +8,4 @@ The Maleficários are demonological scriptures of the ancient [[_wiki_en/organiz
 
 ### Origin and Expansion
 
-They were initially compiled in the ancient fortress of [[_wiki_en/locais/therion\|Therion]], during the [[_wiki_en/conceitos/primeira_era\|First Era]], by [[_wiki_en/racas/shadar\|Shadar]] scribes and human cultists. After the Shadar Exile, the codices were expanded by [[_wiki_en/racas/alvarar\|Álvarar]] clerics in the temples of [[_wiki_en/locais/myrgarde\|Myrgarde]], who added methods of identification and banishment to them.
+They were initially compiled in the ancient fortress of [[_wiki_en/locais/therion\|Therion]], during the [[_wiki_en/conceitos/primeira_era\|First Era]], by [[_wiki_en/racas/shadar\|Shadar]] scribes and human cultists. After the Shadar Exile, the codices were expanded by [[_wiki_en/racas/alvarar\|Álvarar]] clerics in the temples of [[_wiki/locais/myrgarde\|Myrgarde]], who added methods of identification and banishment to them.

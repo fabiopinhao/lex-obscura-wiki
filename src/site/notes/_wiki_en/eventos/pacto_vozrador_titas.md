@@ -8,7 +8,7 @@ The Vozrador-Titans Pact is an agreement from the [[_wiki_en/conceitos/primeira_
 
 ### The Ambition for Green
 
-Vozrador, the most complex of the black gods, turned his eyes toward Thal’Serin. Unlike other devils, who coveted the territories of the [[_wiki_en/cosmologia/anjos\|white gods]] or demanded expansion, he pursued supremacy within his own domains of interest: control of the soul mattered more to him than possession of the world. His ambition turned toward green, not to conquer it by force, but to extract from it a power that no other devil would dare challenge.
+Vozrador, the most complex of the black gods, turned his eyes toward Thal’Serin. Unlike other devils, who coveted the territories of the [[_wiki/cosmologia/anjos\|white gods]] or demanded expansion, he pursued supremacy within his own domains of interest: control of the soul mattered more to him than possession of the world. His ambition turned toward green, not to conquer it by force, but to extract from it a power that no other devil would dare challenge.
 
 ### The Agreement
 

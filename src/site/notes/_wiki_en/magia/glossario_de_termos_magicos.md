@@ -20,7 +20,7 @@ A collection of the basic terms that organize the study and practice of magic. E
 
 **[[_wiki_en/magia/teru\|Teru]]:** technical system of arcane study that requires no entities. It has high versatility and moderate depth.
 
-**School:** magical specialization. There are thirty schools in total, ten per [[_wiki_en/cosmologia/cor_arcana\|arcane color]].
+**School:** magical specialization. There are thirty schools in total, ten per [[_wiki/cosmologia/cor_arcana\|arcane color]].
 
 **Dominant Color:** primary aspect of a two-colored entity, which defines its access system.
 

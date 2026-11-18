@@ -4,7 +4,7 @@
 
 # Order of Azazel
 
-The Order of Azazel is a religious order of the luminous pantheon, devoted to the [[_wiki_en/cosmologia/anjos\|angels]] and the white [[_wiki_en/cosmologia/cor_arcana\|arcane color]]. Its status hidden and its leadership unknown, it secretly preserves fragments of angelic doctrine in a world dominated by the [[_wiki_en/cosmologia/diabos\|black gods]].
+The Order of Azazel is a religious order of the luminous pantheon, devoted to the [[_wiki/cosmologia/anjos\|angels]] and the white [[_wiki/cosmologia/cor_arcana\|arcane color]]. Its status hidden and its leadership unknown, it secretly preserves fragments of angelic doctrine in a world dominated by the [[_wiki_en/cosmologia/diabos\|black gods]].
 
 ### Public Face
 

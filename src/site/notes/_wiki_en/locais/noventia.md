@@ -4,7 +4,7 @@
 
 # Noventia
 
-Noventia is a settlement in [[_wiki_en/locais/ventrista\|Ventrista]], on the road that climbs from [[_wiki_en/locais/myrgarde\|Myrgarde]] toward the plateau. Before reaching it, the road splits at a junction: one branch leads to Noventia, the other to [[_wiki_en/locais/niedellin\|Niedellin]], farther ahead. The two destinations share almost the entire road, and the village is close enough to Niedellin for visits.
+Noventia is a settlement in [[_wiki_en/locais/ventrista\|Ventrista]], on the road that climbs from [[_wiki/locais/myrgarde\|Myrgarde]] toward the plateau. Before reaching it, the road splits at a junction: one branch leads to Noventia, the other to [[_wiki_en/locais/niedellin\|Niedellin]], farther ahead. The two destinations share almost the entire road, and the village is close enough to Niedellin for visits.
 
 ### Along the Route
 

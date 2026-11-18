@@ -4,7 +4,7 @@
 
 # De Anima Vendita
 
-De Anima Vendita, also known as On the Sold Soul or Ambrosin’s Treatise, is a theological treatise written in church Latin by the [[_wiki_en/racas/alvarar\|Álvarar]] cleric Ambrosin de [[_wiki_en/locais/myrgarde\|Myrgarde]], of the Scholarium attached to the [[_wiki_en/organizacoes/igreja_de_sao_lucian\|Church of Saint Lucian]]. Composed in the decades before the [[_wiki_en/conceitos/guerras_reinkardicas\|Reinkardic Wars]], it argues that the [[_wiki_en/racas/shadar\|Shadars]] sold their souls and have nothing left to lose. Its conclusion feeds the doctrine preached among the free peoples.
+De Anima Vendita, also known as On the Sold Soul or Ambrosin’s Treatise, is a theological treatise written in church Latin by the [[_wiki_en/racas/alvarar\|Álvarar]] cleric Ambrosin de [[_wiki/locais/myrgarde\|Myrgarde]], of the Scholarium attached to the [[_wiki_en/organizacoes/igreja_de_sao_lucian\|Church of Saint Lucian]]. Composed in the decades before the [[_wiki_en/conceitos/guerras_reinkardicas\|Reinkardic Wars]], it argues that the [[_wiki_en/racas/shadar\|Shadars]] sold their souls and have nothing left to lose. Its conclusion feeds the doctrine preached among the free peoples.
 
 ### The Thesis
 

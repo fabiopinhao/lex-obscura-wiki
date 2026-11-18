@@ -12,7 +12,7 @@ For the first time in history, the troops of [[_wiki_en/locais/morvgrad\|Morvgra
 
 ### The Garden of the Innocents
 
-Only the [[_wiki_en/locais/jardim_dos_inocentes\|Garden of the Innocents]], the children’s cemetery of [[_wiki_en/locais/myrgarde\|Myrgarde]], remained operational throughout the siege. It was the last refuge of dignity in a city that was losing its reason to resist with each week.
+Only the [[_wiki_en/locais/jardim_dos_inocentes\|Garden of the Innocents]], the children’s cemetery of [[_wiki/locais/myrgarde\|Myrgarde]], remained operational throughout the siege. It was the last refuge of dignity in a city that was losing its reason to resist with each week.
 
 ### Legacy
 

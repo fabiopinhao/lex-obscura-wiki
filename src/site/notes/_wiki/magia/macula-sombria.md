@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/macula-sombria.md","permalink":"/pt/magia/macula-sombria/","lexLang":"pt-BR","lexAlt":"/magia/macula-sombria/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/macula-sombria.md","permalink":"/pt/magia/macula-sombria/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Mácula-Sombria
@@ -8,11 +8,11 @@ A mácula-sombria, também chamada Marca Sombria ou Apodrecimento Sombrio, é o 
 
 ### Natureza
 
-A corrupção não destrói a floresta diretamente. Ela degrada a conexão entre a terra e o [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]], sufocando a capacidade de canalização druídica. Encantamentos básicos falham; rituais que antes bastava um canalizador para executar passam a exigir dois, e ainda assim rendem resultados raquíticos.
+A corrupção não destrói a floresta diretamente. Ela degrada a conexão entre a terra e o [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]], sufocando a capacidade de canalização druídica. Encantamentos básicos falham; rituais que antes bastava um canalizador para executar passam a exigir dois, e ainda assim rendem resultados raquíticos. Um encantamento de crescimento que os irmãos [[_wiki/personagens/mirin\|Mirin]] e [[_wiki/personagens/calel\|Calel]] faziam aos cinco verões falhou nas mãos de Mirin; os dois juntos, sob a condução do druida [[_wiki/personagens/peredur\|Peredur]], conseguiram apenas um palmo de planta, de folhas verde-pus.
 
 ### Escala Territorial
 
-Todas as florestas titânicas de [[_wiki/locais/reinkard\|Reinkard]] sofrem com a mácula em graus variáveis, e [[_wiki/locais/thal_serin\|Thal’Serin]], a mais próxima do planalto shadar, é a mais afetada. O processo acelerou desde que [[_wiki/personagens/arothistar\|Arothistar]] consolidou seu domínio sobre Reinkard. A estratégia imperial é paciente: deixar que a corrupção crescente force os [[_wiki/racas/luminares\|Titãs]] a abandonar os santuários, expondo as florestas. Druidas observam que a mácula se fortalece com o tempo em vez de enfraquecer, o que a faz arma de cerco lento, não de batalha.
+Todas as florestas titânicas de [[_wiki/locais/reinkard\|Reinkard]] sofrem com a mácula em graus variáveis, e [[_wiki/locais/thal_serin\|Thal’Serin]], a mais próxima do planalto shadar, é a mais afetada. O processo acelerou desde que [[_wiki/personagens/arothistar\|Arothistar]] consolidou seu domínio sobre Reinkard. A estratégia imperial é paciente: deixar que a corrupção crescente force os [[_wiki/cosmologia/titas\|Titãs]] a abandonar os santuários, expondo as florestas. Druidas observam que a mácula se fortalece com o tempo em vez de enfraquecer, o que a faz arma de cerco lento, não de batalha.
 
 ### Escala Individual
 

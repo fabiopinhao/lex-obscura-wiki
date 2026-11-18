@@ -12,7 +12,7 @@ Thandruk Varn did not resemble the other dwarven citadels in the mountain range.
 
 ### The Conditional Surrender
 
-The massacre did not come. The Shadow Cult general commanding the campaign assessed his own forces before the enemy’s and offered negotiations. Surprised by terms in place of blood, the dwarves accepted. The surrender came at a price: Thandruk Varn would cut off its supply of equipment to [[_wiki_en/locais/myrgarde\|Myrgarde]] and redirect its production to [[_wiki_en/locais/morvgrad\|Morvgrad]] and [[_wiki_en/locais/ghilanna\|Ghilanna]], the [[_wiki_en/racas/drul\|Drul]] capital. The dwarves would also hand over all the [[_wiki_en/racas/luminares\|Luminar]] artifacts they had kept since the [[_wiki_en/conceitos/primeira_era\|First Era]], relics whose nature they had never fully understood. In exchange, they would keep their forges, their trades, and their lives.
+The massacre did not come. The Shadow Cult general commanding the campaign assessed his own forces before the enemy’s and offered negotiations. Surprised by terms in place of blood, the dwarves accepted. The surrender came at a price: Thandruk Varn would cut off its supply of equipment to [[_wiki/locais/myrgarde\|Myrgarde]] and redirect its production to [[_wiki_en/locais/morvgrad\|Morvgrad]] and [[_wiki_en/locais/ghilanna\|Ghilanna]], the [[_wiki_en/racas/drul\|Drul]] capital. The dwarves would also hand over all the [[_wiki_en/racas/luminares\|Luminar]] artifacts they had kept since the [[_wiki_en/conceitos/primeira_era\|First Era]], relics whose nature they had never fully understood. In exchange, they would keep their forges, their trades, and their lives.
 
 ### From Surrender to Subjugation
 

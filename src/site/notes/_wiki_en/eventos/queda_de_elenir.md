@@ -4,7 +4,7 @@
 
 # Fall of Elenir
 
-The Fall of Elenir, also called the Capture of the Crystal Fortress, was the conquest of the most celebrated of the [[_wiki_en/racas/elarino\|Elarins]]’ magical citadels, which took place about thirty-three years ago, during the decade of final campaigns. An ally of [[_wiki_en/locais/myrgarde\|Myrgarde]] since the [[_wiki_en/conceitos/segunda_era\|Second Era]], [[_wiki_en/locais/elenir\|Elenir]] fell as the other elven citadels fell, one by one.
+The Fall of Elenir, also called the Capture of the Crystal Fortress, was the conquest of the most celebrated of the [[_wiki_en/racas/elarino\|Elarins]]’ magical citadels, which took place about thirty-three years ago, during the decade of final campaigns. An ally of [[_wiki/locais/myrgarde\|Myrgarde]] since the [[_wiki_en/conceitos/segunda_era\|Second Era]], [[_wiki_en/locais/elenir\|Elenir]] fell as the other elven citadels fell, one by one.
 
 ### Consequences
 

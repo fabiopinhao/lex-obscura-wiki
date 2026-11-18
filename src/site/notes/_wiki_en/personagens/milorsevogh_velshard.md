@@ -4,7 +4,7 @@
 
 # Milorsevogh Velshard
 
-Milorsevogh Velshard is a newly anointed [[_wiki_en/organizacoes/justiciares\|Justiciar]] and a veteran of the Reinkardic Wars, where he served in the campaigns of [[_wiki_en/locais/myrgarde\|Myrgarde]] and [[_wiki_en/locais/elenir\|Elenir]]. A [[_wiki_en/racas/shadar\|Shadar]] with keen analytical perception, he finds connections where others see only noise: patterns in delirium, confessions in silences, meaning in fragments of minds eroded by necromancy or torture. His interrogation methods are calculating, and his reputation for reading what destroyed minds hold precedes him.
+Milorsevogh Velshard is a newly anointed [[_wiki_en/organizacoes/justiciares\|Justiciar]] and a veteran of the Reinkardic Wars, where he served in the campaigns of [[_wiki/locais/myrgarde\|Myrgarde]] and [[_wiki_en/locais/elenir\|Elenir]]. A [[_wiki_en/racas/shadar\|Shadar]] with keen analytical perception, he finds connections where others see only noise: patterns in delirium, confessions in silences, meaning in fragments of minds eroded by necromancy or torture. His interrogation methods are calculating, and his reputation for reading what destroyed minds hold precedes him.
 
 ### Appearance
 

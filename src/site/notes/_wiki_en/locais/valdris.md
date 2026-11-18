@@ -12,7 +12,7 @@ Salt defines Valdris as shadow defines Morvgrad. The sea breeze deposits a const
 
 ### The Fall
 
-Before the conquest, [[_wiki_en/locais/myrgarde\|Myrgarde]] tightened its grip on Valdris’s throat, splitting the city between the salt of resistance and the sweet gleam of surrender. The division ran through the taverns: on one side, those who tasted Myrgarde’s silver on their tongues, on the other, those who still preferred the city’s salt; the saints Saint Lucian and Saint [[_wiki_en/panteao/borjean\|Borjean]] were invoked by both factions between sips of thin wine. When the [[_wiki_en/racas/alvarar\|Álvarars]] departed through the stone gate, they took the illusion of protection with them. Hunger then transformed the city: wells dried up, water came to be measured in gulps, and an unnamed count sealed the gates and withheld the soldiers’ pay.
+Before the conquest, [[_wiki/locais/myrgarde\|Myrgarde]] tightened its grip on Valdris’s throat, splitting the city between the salt of resistance and the sweet gleam of surrender. The division ran through the taverns: on one side, those who tasted Myrgarde’s silver on their tongues, on the other, those who still preferred the city’s salt; the saints Saint Lucian and Saint [[_wiki_en/panteao/borjean\|Borjean]] were invoked by both factions between sips of thin wine. When the [[_wiki_en/racas/alvarar\|Álvarars]] departed through the stone gate, they took the illusion of protection with them. Hunger then transformed the city: wells dried up, water came to be measured in gulps, and an unnamed count sealed the gates and withheld the soldiers’ pay.
 
 ### Dravhok and the Waves
 

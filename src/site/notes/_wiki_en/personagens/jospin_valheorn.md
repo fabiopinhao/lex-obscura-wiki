@@ -4,7 +4,7 @@
 
 # Jospin Valheorn
 
-Jospin Valheorn is a human alchemist and theorist of magic, born in [[_wiki_en/locais/myrgarde\|Myrgarde]], author of *De Magia Alchemica: Fundamenta Physica* and founder of [[_wiki_en/cosmologia/teoria_materialista\|the Materialist Theory]]. A historical figure, he lives on through his intellectual legacy. He was executed by Myrgarde itself during the Reinkardic Wars.
+Jospin Valheorn is a human alchemist and theorist of magic, born in [[_wiki/locais/myrgarde\|Myrgarde]], author of *De Magia Alchemica: Fundamenta Physica* and founder of [[_wiki_en/cosmologia/teoria_materialista\|the Materialist Theory]]. A historical figure, he lives on through his intellectual legacy. He was executed by Myrgarde itself during the Reinkardic Wars.
 
 ### The Materialist Theory
 

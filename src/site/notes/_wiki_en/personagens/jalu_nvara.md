@@ -4,7 +4,7 @@
 
 # Jalú’Nvara
 
-At the time of [[_wiki_en/personagens/orum-rahru\|Orum-Rahru]]’s interrogations, Jalú’Nvara was an old [[_wiki_en/racas/gerut\|Gerut]], a prisoner in the depths of [[_wiki_en/locais/ghol_drokh\|Ghol’Drokh]], and silence was all he had left to offer. He bore the burned seal of [[_wiki_en/locais/myrgarde\|Myrgarde]] on his chest, the house he had served before captivity, and guarded what Orum needed to extract. He would not give it up. The necromancers dug through his memory with spells, the interrogation dragged on day after day, and his mouth would not open in the way they wanted.
+At the time of [[_wiki_en/personagens/orum-rahru\|Orum-Rahru]]’s interrogations, Jalú’Nvara was an old [[_wiki_en/racas/gerut\|Gerut]], a prisoner in the depths of [[_wiki_en/locais/ghol_drokh\|Ghol’Drokh]], and silence was all he had left to offer. He bore the burned seal of [[_wiki/locais/myrgarde\|Myrgarde]] on his chest, the house he had served before captivity, and guarded what Orum needed to extract. He would not give it up. The necromancers dug through his memory with spells, the interrogation dragged on day after day, and his mouth would not open in the way they wanted.
 
 ### Appearance
 

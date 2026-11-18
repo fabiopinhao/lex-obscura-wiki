@@ -4,7 +4,7 @@
 
 # Devils
 
-Devils are the most ambitious among the divine categories. The black [[_wiki_en/cosmologia/cor_arcana\|arcane color]] defines them: control, dark order, dominion over souls. Their existential planes are hidden, distinct from one another, and shrouded in mystery.
+Devils are the most ambitious among the divine categories. The black [[_wiki/cosmologia/cor_arcana\|arcane color]] defines them: control, dark order, dominion over souls. Their existential planes are hidden, distinct from one another, and shrouded in mystery.
 
 ### Nature
 

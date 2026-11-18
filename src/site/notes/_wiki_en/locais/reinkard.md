@@ -8,7 +8,7 @@ Reinkard is the central continent of [[_wiki_en/locais/thamakard\|Thamakard]], t
 
 ### Geography
 
-Thamakard is not spherical, and Reinkard is divided into strategic zones. To the north lies the Shadar Plateau, [[_wiki_en/locais/dhar-morveth\|Dhar-Morveth]]; in the center, the plains of [[_wiki_en/locais/ventrista\|Ventrista]] and [[_wiki_en/locais/myrgarde\|Myrgarde]]; there are sacred forests in [[_wiki_en/locais/thal_serin\|Thal’Serin]], and the east coast lies in [[_wiki_en/locais/elenir\|Elenir]]. [[_wiki_en/locais/vor-ghol\|Vor-Ghol]] extends throughout the underground, and the [[_wiki_en/cosmologia/noctiluz\|noctiluz]] tears through the sky during significant events. To the west, the [[_wiki_en/locais/dorsal\|Dorsal]] separates the continent from Veinkard.
+Thamakard is not spherical, and Reinkard is divided into strategic zones. To the north lies the Shadar Plateau, [[_wiki_en/locais/dhar-morveth\|Dhar-Morveth]]; in the center, the plains of [[_wiki_en/locais/ventrista\|Ventrista]] and [[_wiki/locais/myrgarde\|Myrgarde]]; there are sacred forests in [[_wiki_en/locais/thal_serin\|Thal’Serin]], and the east coast lies in [[_wiki_en/locais/elenir\|Elenir]]. [[_wiki_en/locais/vor-ghol\|Vor-Ghol]] extends throughout the underground, and the [[_wiki_en/cosmologia/noctiluz\|noctiluz]] tears through the sky during significant events. To the west, the [[_wiki_en/locais/dorsal\|Dorsal]] separates the continent from Veinkard.
 
 ### History
 

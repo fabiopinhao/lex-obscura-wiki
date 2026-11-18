@@ -4,7 +4,7 @@
 
 # Marta
 
-Marta was a woman from [[_wiki_en/locais/myrgarde\|Myrgarde]], wife of the cabinetmaker Tobias and a devotee of Saint Lucian. She died in [[_wiki_en/locais/niedellin\|Niedellin]] and is buried in the burial ground of [[_wiki_en/personagens/abramis\|Abramis]]’s family, beneath a headstone that lichen has gnawed away at, nearly erasing the name.
+Marta was a woman from [[_wiki/locais/myrgarde\|Myrgarde]], wife of the cabinetmaker Tobias and a devotee of Saint Lucian. She died in [[_wiki_en/locais/niedellin\|Niedellin]] and is buried in the burial ground of [[_wiki_en/personagens/abramis\|Abramis]]’s family, beneath a headstone that lichen has gnawed away at, nearly erasing the name.
 
 ### Life
 

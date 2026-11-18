@@ -12,7 +12,7 @@ All interplanar magic passes through the [[_wiki_en/cosmologia/plano_etereo\|eth
 
 ### Attacks Between Planes
 
-[[_wiki_en/cosmologia/diabos\|Devils]] and [[_wiki_en/cosmologia/demonios\|demons]] can attack other gods’ existential planes, but rarely do so, as it is costly and there is little to gain. The imprisonment of [[_wiki_en/panteao/vozrador\|Vozrador]] is an exception, and required an alliance between two devils and extreme motivation. The white gods ([[_wiki_en/cosmologia/anjos\|angels]]) and green gods have mechanisms for protection against extraplanar attacks. The blue gods ([[_wiki_en/cosmologia/siderais\|sidereals]]), having no defined existential plane, are immune to this type of aggression.
+[[_wiki_en/cosmologia/diabos\|Devils]] and [[_wiki_en/cosmologia/demonios\|demons]] can attack other gods’ existential planes, but rarely do so, as it is costly and there is little to gain. The imprisonment of [[_wiki_en/panteao/vozrador\|Vozrador]] is an exception, and required an alliance between two devils and extreme motivation. The white gods ([[_wiki/cosmologia/anjos\|angels]]) and green gods have mechanisms for protection against extraplanar attacks. The blue gods ([[_wiki_en/cosmologia/siderais\|sidereals]]), having no defined existential plane, are immune to this type of aggression.
 
 ### Alignment Detection
 

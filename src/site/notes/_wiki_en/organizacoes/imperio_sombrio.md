@@ -12,7 +12,7 @@ The Empire did not begin as a monarchy. Its structure evolved from the Shadow Cu
 
 ### Territorial Extent
 
-With the fall of [[_wiki_en/locais/myrgarde\|Myrgarde]], the shadow dominion reached its maximum extent across Reinkard. The dwarven mountains of the west, the eastern belt, Dernessal, and the southern coastal cities were subjugated, and [[_wiki_en/locais/ventrista\|Ventrista]] became the breadbasket that fed Morvgrad and its legions. Only isolated pockets of resistance remained, with [[_wiki_en/locais/thal_serin\|Thal’Serin]] as the last significant refuge. The system of provincial lords, which predated the monarchy, allocated conquered territories to local lords, and the most consolidated territories became formal provinces.
+With the fall of [[_wiki/locais/myrgarde\|Myrgarde]], the shadow dominion reached its maximum extent across Reinkard. The dwarven mountains of the west, the eastern belt, Dernessal, and the southern coastal cities were subjugated, and [[_wiki_en/locais/ventrista\|Ventrista]] became the breadbasket that fed Morvgrad and its legions. Only isolated pockets of resistance remained, with [[_wiki_en/locais/thal_serin\|Thal’Serin]] as the last significant refuge. The system of provincial lords, which predated the monarchy, allocated conquered territories to local lords, and the most consolidated territories became formal provinces.
 
 ### Power Structure
 
@@ -20,8 +20,8 @@ The Empire operates on six hierarchical levels. Arothistar rules from the height
 
 ### Public Perception
 
-For many, the Empire represents freedom, progress, and historical justice against the oppression of the [[_wiki_en/cosmologia/anjos\|white gods]], and it attracted scholars, the ambitious, and renegades who saw it as a refuge for what the old world forbade. In practice, it merely exchanged one kind of repression for another: submission is the price of protection, and fear replaces faith as the social glue.
+For many, the Empire represents freedom, progress, and historical justice against the oppression of the [[_wiki/cosmologia/anjos\|white gods]], and it attracted scholars, the ambitious, and renegades who saw it as a refuge for what the old world forbade. In practice, it merely exchanged one kind of repression for another: submission is the price of protection, and fear replaces faith as the social glue.
 
 ### Language and Metaphysics
 
-The imposition of [[_wiki_en/linguas/reinkardico\|Reinkardic]] as the official language was a founding act of sovereignty, and the administration requires all documentation to be written in that language; the ritual layer, however, preserves [[_wiki_en/linguas/tenebraico\|Tenebraic]] and [[_wiki_en/linguas/gholvyss\|Gholvyss]] as the languages of diabolical contracts. On the metaphysical plane, decades of [[_wiki_en/racas/shadar\|Shadar]] rule fueled by diabolical pacts on an institutional scale generated the [[_wiki_en/cosmologia/manto_das_sombras\|mantle of shadows]], which altered Reinkard’s balance and weakened the influence of the non-shadow gods over the continent.
+The imposition of [[_wiki_en/linguas/reinkardico\|Reinkardic]] as the official language was a founding act of sovereignty, and the administration requires all documentation to be written in that language; the ritual layer, however, preserves [[_wiki/linguas/tenebraico\|Tenebraic]] and [[_wiki/linguas/gholvyss\|Gholvyss]] as the languages of diabolical contracts. On the metaphysical plane, decades of [[_wiki_en/racas/shadar\|Shadar]] rule fueled by diabolical pacts on an institutional scale generated the [[_wiki/cosmologia/manto_das_sombras\|mantle of shadows]], which altered Reinkard’s balance and weakened the influence of the non-shadow gods over the continent.

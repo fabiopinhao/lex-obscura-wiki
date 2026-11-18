@@ -4,7 +4,7 @@
 
 # Pip
 
-Pip is a [[_wiki_en/racas/hallirin\|Hallirin]], a surface gnome and former trader in [[_wiki_en/locais/myrgarde\|Myrgarde]], where he ran the shop “Pip’s Sundries” before the city’s fall. Captured after the fall, he lives enslaved in the Depths, under the coercive control of the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]], between [[_wiki_en/locais/vor-ghol\|Vor-Ghol]] and [[_wiki_en/locais/thandruk_varn\|Thandruk Varn]].
+Pip is a [[_wiki_en/racas/hallirin\|Hallirin]], a surface gnome and former trader in [[_wiki/locais/myrgarde\|Myrgarde]], where he ran the shop “Pip’s Sundries” before the city’s fall. Captured after the fall, he lives enslaved in the Depths, under the coercive control of the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]], between [[_wiki_en/locais/vor-ghol\|Vor-Ghol]] and [[_wiki_en/locais/thandruk_varn\|Thandruk Varn]].
 
 ### Appearance
 

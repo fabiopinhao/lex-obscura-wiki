@@ -4,7 +4,7 @@
 
 # Ioni
 
-Ioni is a human boy from [[_wiki_en/locais/myrgarde\|Myrgarde]], the son of [[_wiki_en/personagens/coveiro-mor\|the Sexton]] of the city. He was born with an intellectual disability and, after his death, was buried in the [[_wiki_en/locais/jardim_dos_inocentes\|Garden of the Innocents]], the section of the cemetery reserved for children.
+Ioni is a human boy from [[_wiki/locais/myrgarde\|Myrgarde]], the son of [[_wiki_en/personagens/coveiro-mor\|the Sexton]] of the city. He was born with an intellectual disability and, after his death, was buried in the [[_wiki_en/locais/jardim_dos_inocentes\|Garden of the Innocents]], the section of the cemetery reserved for children.
 
 ### Appearance
 

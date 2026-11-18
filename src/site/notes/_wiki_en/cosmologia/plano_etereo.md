@@ -36,4 +36,4 @@ The ethereal plane is not static, and its stability can be compromised. [[_wiki_
 
 ### Relationship with the Mantle of Shadows
 
-The [[_wiki_en/cosmologia/manto_das_sombras\|Mantle of Shadows]], a regional phenomenon that weakens the influence of the [[_wiki_en/cosmologia/anjos\|white gods]] and green gods in [[_wiki_en/locais/reinkard\|Reinkard]], does not directly reach the ethereal plane. This is why the sidereals are less affected by it: they operate in a layer that shadow energy does not penetrate. For the same reason, they are immune to extraplanar attacks, since there is no fixed domain where they can be struck.
+The [[_wiki/cosmologia/manto_das_sombras\|Mantle of Shadows]], a regional phenomenon that weakens the influence of the [[_wiki/cosmologia/anjos\|white gods]] and green gods in [[_wiki_en/locais/reinkard\|Reinkard]], does not directly reach the ethereal plane. This is why the sidereals are less affected by it: they operate in a layer that shadow energy does not penetrate. For the same reason, they are immune to extraplanar attacks, since there is no fixed domain where they can be struck.

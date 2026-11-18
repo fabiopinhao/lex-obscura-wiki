@@ -4,7 +4,7 @@
 
 # Differences Between Types of Entities
 
-The divine entities of [[_wiki_en/locais/thamakard\|Thamakard]] fall into five categories, distinguishable by what a mortal perceives of them: form, mode of communication, motivation, willingness to betray, temperament, and the mark they leave on anyone who makes a pact with them. The table below summarizes the surface contrasts between [[_wiki_en/cosmologia/diabos\|devils]], [[_wiki_en/cosmologia/demonios\|demons]], [[_wiki_en/cosmologia/titas\|titans]], [[_wiki_en/cosmologia/anjos\|angels]], and [[_wiki_en/cosmologia/siderais\|sidereals]].
+The divine entities of [[_wiki_en/locais/thamakard\|Thamakard]] fall into five categories, distinguishable by what a mortal perceives of them: form, mode of communication, motivation, willingness to betray, temperament, and the mark they leave on anyone who makes a pact with them. The table below summarizes the surface contrasts between [[_wiki_en/cosmologia/diabos\|devils]], [[_wiki_en/cosmologia/demonios\|demons]], [[_wiki_en/cosmologia/titas\|titans]], [[_wiki/cosmologia/anjos\|angels]], and [[_wiki_en/cosmologia/siderais\|sidereals]].
 
 ### Comparison
 
@@ -15,4 +15,4 @@ The divine entities of [[_wiki_en/locais/thamakard\|Thamakard]] fall into five c
 - **Personality** — Devils: Calculating | Demons: Violent | Titans: Compassionate | Angels: Imperative | Sidereals: Logical and alien
 - **Mark on the Caster** — Devils: Infernal rune | Demons: Grotesque mutation | Titans: Leaves, bark, natural | Angels: Halo and luminosity | Sidereals: Silver eyes
 
-The deeper contrasts, the reason closely related categories diverge in method, belong to [[_wiki_en/cosmologia/ontologia_divina\|Divine Ontology]], and the systems of bonds between mortal and entity, to [[_wiki_en/cosmologia/mecanismos_divinos\|Divine Mechanisms]].
+The deeper contrasts, the reason closely related categories diverge in method, belong to [[_wiki/cosmologia/ontologia_divina\|Divine Ontology]], and the systems of bonds between mortal and entity, to [[_wiki_en/cosmologia/mecanismos_divinos\|Divine Mechanisms]].

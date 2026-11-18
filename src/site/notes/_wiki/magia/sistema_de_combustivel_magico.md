@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/sistema_de_combustivel_magico.md","permalink":"/pt/magia/sistema-de-combustivel-magico/","lexLang":"pt-BR","lexAlt":"/magia/sistema-de-combustivel-magico/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/sistema_de_combustivel_magico.md","permalink":"/pt/magia/sistema-de-combustivel-magico/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Sistema de Combustível Mágico
@@ -20,9 +20,11 @@ A intensidade do custo acompanha a escala do feitiço. Efeitos menores cobram um
 
 Nas magnitudes maiores esse custo deixa de ser recuperável. Magias proibidas e de escala máxima queimam vitalidade que nem o descanso nem a cura devolvem: o que se gasta ali não volta. Isso não constitui um quarto tipo de custo, e sim o próprio custo temático levado ao extremo da escala.
 
-### Foco Consagrado
+### Focos
 
 Um foco consagrado, seja cetro, arma ou relíquia, pode assumir parcela do custo temático. Sem ele, o corpo do conjurador paga a diferença. O foco não fornece energia nem funciona como reservatório: ele absorve dano, e é essa a natureza da mitigação que oferece.
+
+Nem todo foco é consagrado. Um foco amplificador aumenta o alcance ou a força do efeito e não absorve custo algum: quem o empunha paga o sacrifício inteiro.
 
 ### Mitigação por Maestria
 

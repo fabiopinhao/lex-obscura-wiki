@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/cor_arcana.md","permalink":"/pt/cosmologia/cor-arcana/","lexLang":"pt-BR","lexAlt":"/cosmologia/cor-arcana/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/cor_arcana.md","permalink":"/pt/cosmologia/cor-arcana/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Cor Arcana
@@ -29,6 +29,14 @@ O que é canônico é a fragmentação. Quando os luminares se dividiram, cada l
 ### Conversão entre cores
 
 A conversão é possível, mas não é troca de camisa: é metamorfose total. O caso canônico é o [[_wiki/magia/rito_de_ossarium\|Rito de Ossárium]], que converte um humano em shadar, reescrevendo a natureza do ser. A conversão entre linhagens élficas é ainda mais drástica, pois corrompe a essência de origem e costuma envolver mistura racial, produzindo híbridos que não pertencem inteiramente a nenhuma linhagem. Ela também não é simétrica: descer de branco para preto parece mais fácil do que subir de preto para branco. A tradição alva lê nisso a prova de que a queda é a direção natural da entropia espiritual; a sombria, a de que o preto é o estado verdadeiro e as demais cores são desvios instáveis. O cânone não arbitra entre as duas.
+
+### Os cinquenta deuses
+
+O panteão tem cinquenta deuses e fecha numa simetria exata. Cada uma das cinco categorias divinas (anjos, titãs, siderais, diabos e demônios) conta oito deuses puros, quarenta ao todo. Os outros dez são deuses-ponte: pertencem a duas categorias ao mesmo tempo, e há exatamente um para cada par de cores, sem sobra nem repetição. [[_wiki/panteao/titania\|Titânia]] une o verde e o branco; [[_wiki/panteao/warguleth\|Wargûleth]], o preto e o vermelho; [[_wiki/panteao/velmorain\|Velmorain]], o preto e o azul. Cada ponte tem uma cor dominante, que decide o sistema pelo qual é acessada. Como cada cor forma par com as outras quatro, cada uma reúne doze deuses: oito puros e quatro pontes que a tocam.
+
+### Criaturas e cor
+
+A cor arcana é atributo de raça e de deus. A criatura natural não tem cor: o predador das cavernas, a montaria e a fera das montanhas vivem fora do sistema das cores. Em regra, só carrega cor a criatura que nasce de magia ou de um deus, e o que ela carrega depende de quem a fez.
 
 ### Acesso às escolas
 

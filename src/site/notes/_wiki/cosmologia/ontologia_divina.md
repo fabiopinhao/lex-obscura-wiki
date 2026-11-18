@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/ontologia_divina.md","permalink":"/pt/cosmologia/ontologia-divina/","lexLang":"pt-BR","lexAlt":"/cosmologia/ontologia-divina/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/ontologia_divina.md","permalink":"/pt/cosmologia/ontologia-divina/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Ontologia Divina
@@ -42,7 +42,7 @@ A distância entre cada categoria divina e Thamakard não é geográfica, mas fu
 
 Há dois estados distintos de enfraquecimento divino. O aprisionamento é real, mas só pela ação de outro deus ou aliança de deuses: a entidade é selada em seu próprio plano, mantendo consciência mas perdendo a capacidade de influenciar Thamakard. O caso mais conhecido é o de [[_wiki/panteao/vozrador\|Vozrador]], aprisionado há cerca de cinquenta e cinco anos por uma aliança entre [[_wiki/panteao/malagoth\|Malagoth]] e [[_wiki/panteao/velmorain\|Velmorain]]. O destino dos pactos existentes após o aprisionamento de um deus é objeto de disputa: a narrativa mais difundida sustenta que o pacto se rompe e a alma é liberada, enquanto uma posição minoritária defende que o vínculo permanece como cicatriz espiritual, enfraquecido mas capaz de pulsar sob certas condições.
 
-A redução de presença é diferente: um deus perde influência numa região sem ser aprisionado, como consequência do domínio de energias opostas. Os deuses brancos sofrem disso em [[_wiki/locais/reinkard\|Reinkard]], onde a fé luminosa está quase extinta não porque Azazel tenha sido derrotado, mas porque o [[_wiki/cosmologia/manto_das_sombras\|manto das sombras]] tornou o continente inóspito à sua influência. A distinção é crítica: Vozrador está selado e consciente, apenas enfraquecido, e poderia ser libertado por uma ação específica; Azazel está livre, mas irrelevante, e precisaria de uma transformação civilizacional para reconquistar presença.
+A redução de presença é diferente: um deus perde influência numa região sem ser aprisionado, como consequência do domínio de energias opostas. Os deuses brancos sofrem disso em [[_wiki/locais/reinkard\|Reinkard]], onde a fé luminosa está quase extinta não porque Azazel tenha sido derrotado, mas porque o [[_wiki/cosmologia/manto_das_sombras\|manto das sombras]] tornou o continente inóspito à sua influência. É esse o processo que [[_wiki/personagens/peredur\|Peredur]] resumiu numa sentença, “Os alvos escolheram pureza sem concessão, e pereceram por ela”, expressão poética sobre a perda de presença. A distinção é crítica: Vozrador está selado e consciente, apenas enfraquecido, e poderia ser libertado por uma ação específica; Azazel está livre, mas irrelevante, e precisaria de uma transformação civilizacional para reconquistar presença.
 
 A ausência de hierarquia fica demonstrada no próprio aprisionamento de Vozrador: Malagoth e Velmorain precisaram agir juntos e apanhá-lo de surpresa, ainda que Vozrador, em outros aspectos, seja considerado mais poderoso que ambos. A força relativa entre deuses não é escala fixa, e depende de domínio, contexto e circunstância.
 

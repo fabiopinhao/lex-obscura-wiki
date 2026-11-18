@@ -4,7 +4,7 @@
 
 # Luminar
 
-Luminar was the unified civil and magical language of the light elves, the now-extinct Luminars. Born in [[_wiki_en/conceitos/idade_esquecida\|the Forgotten Age]], it did not separate ordinary speech from magical speech: every word carried the potential for power, and the boundary between conversation and spell lay in the speaker’s intent, not in the form of the language. [[_wiki_en/linguas/aelarian\|Aelarian]] and [[_wiki_en/linguas/sylvaen\|Sylvaen]] descend from it.
+Luminar was the unified civil and magical language of the light elves, the now-extinct Luminars. Born in [[_wiki_en/conceitos/idade_esquecida\|the Forgotten Age]], it did not separate ordinary speech from magical speech: every word carried the potential for power, and the boundary between conversation and spell lay in the speaker’s intent, not in the form of the language. [[_wiki/linguas/aelarian\|Aelarian]] and [[_wiki_en/linguas/sylvaen\|Sylvaen]] descend from it.
 
 ### Sound
 

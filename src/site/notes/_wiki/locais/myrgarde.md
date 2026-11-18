@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/myrgarde.md","permalink":"/pt/locais/myrgarde/","lexLang":"pt-BR","lexAlt":"/locais/myrgarde/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/myrgarde.md","permalink":"/pt/locais/myrgarde/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Myrgarde
@@ -16,8 +16,8 @@ Foi a sede da fé humana de Reinkard. Na Catedral de São Lucian, escadarias de 
 
 ### Memória
 
-No [[_wiki/locais/jardim_dos_inocentes\|Jardim dos Inocentes]], a ala do cemitério reservada às crianças, depositava-se uma esfera de Aroada sobre o túmulo dos que partiam jovens, e os [[_wiki/racas/aviano\|avianos]] deixavam ali suas penas mais belas; no presente imperial, respira abandono. Da cidade vieram também os [[_wiki/cosmologia/maleficarios\|Maleficários]] de Myrgarde, escrituras demonológicas compiladas na fortaleza de [[_wiki/locais/therion\|Therion]] durante a [[_wiki/conceitos/primeira_era\|Primeira Era]] por escribas shadars e cultistas humanos, e depois ampliadas por clérigos [[_wiki/racas/alvarar\|álvarars]] nos templos da cidade, que lhes acrescentaram métodos de identificação e banimento de [[_wiki/cosmologia/demonios\|demônios]]. Dali vem ainda a peça clássica “A Viúva de [[_wiki/locais/valdris\|Valdris]]”, que sobrevive em adaptação shadar de moral invertida: onde Myrgarde via o pecado da ganância, Morvgrad enxerga virtude na ambição.
+No [[_wiki/locais/jardim_dos_inocentes\|Jardim dos Inocentes]], a ala do cemitério reservada às crianças, depositava-se uma esfera de Aroada sobre o túmulo dos que partiam jovens, e os [[_wiki/racas/aviano\|avianos]] deixavam ali suas penas mais belas; hoje está abandonado. Da cidade vieram também os [[_wiki/cosmologia/maleficarios\|Maleficários]] de Myrgarde, escrituras demonológicas compiladas na fortaleza de [[_wiki/locais/therion\|Therion]] durante a [[_wiki/conceitos/primeira_era\|Primeira Era]] por escribas shadars e cultistas humanos, e depois ampliadas por clérigos [[_wiki/racas/alvarar\|álvarars]] nos templos da cidade, que lhes acrescentaram métodos de identificação e banimento de [[_wiki/cosmologia/demonios\|demônios]]. Dali vem ainda a peça clássica “[[_wiki/conceitos/a_viuva_de_valdris\|A Viúva de Valdris]]”, que sobrevive em adaptação shadar de moral invertida: onde Myrgarde via o pecado da ganância, Morvgrad enxerga virtude na ambição.
 
 ### A lenda do infiltrado
 
-Das Guerras Reinkárdicas sobrevive a lenda de um espião que teria vivido anos infiltrado em Myrgarde nos anos que precederam a queda da cidade e, com ela, do último bastião do Império Central. A identidade permanece classificada nos arquivos imperiais, com os registros expurgados ou selados pelo [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]]. Entre veteranos ainda se menciona um tenente shadar que desapareceu por anos e retornou com inteligência crucial.
+Das Guerras Reinkárdicas sobrevive a lenda de um espião que teria vivido anos infiltrado em Myrgarde nos anos que precederam a queda da cidade e, com ela, do último bastião do Império Central. A identidade permanece classificada nos arquivos imperiais, com os registros expurgados ou selados pelo [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]]. Entre veteranos ainda se menciona um tenente shadar que desapareceu por anos e retornou com inteligência crucial, e cada veterano jura um nome diferente.

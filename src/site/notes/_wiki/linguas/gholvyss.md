@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/linguas/gholvyss.md","permalink":"/pt/linguas/gholvyss/","lexLang":"pt-BR","lexAlt":"/linguas/gholvyss/","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/linguas/gholvyss.md","permalink":"/pt/linguas/gholvyss/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Gholvyss
@@ -20,4 +20,4 @@ A escrita do gholvyss não é convencional: transmite-se por marcas em seda de a
 
 ### Uso no mundo
 
-O gholvyss é nativo dos druls, e as [[_wiki/organizacoes/ophideias\|ophideias]] o dominam no registro mágico. É a língua dos cânticos de intangibilidade e revelação da escola do [[_wiki/escolas/spectro\|Spectro]], dos rituais conduzidos em [[_wiki/locais/ghilanna\|Ghilanna]] e das invocações associadas a [[_wiki/personagens/syndrith_morghast\|Syndrith]] em [[_wiki/locais/niedellin\|Niedellin]]. Os [[_wiki/cosmologia/diabos\|diabos]] respondem a gholvyss ou ao tenebraico conforme a preferência. Versos como *Shevh ai gholn, sselir zhul ssolhi* ilustram sua sonoridade espiralada.
+O gholvyss é nativo dos druls, e as [[_wiki/organizacoes/ophideias\|ophideias]] o dominam no registro mágico. É a língua dos cânticos de intangibilidade e revelação da escola do [[_wiki/escolas/spectro\|Spectro]], dos rituais conduzidos em [[_wiki/locais/ghilanna\|Ghilanna]] e das invocações associadas a [[_wiki/personagens/syndrith_morghast\|Syndrith]] em [[_wiki/locais/niedellin\|Niedellin]]. Os [[_wiki/cosmologia/diabos\|diabos]] respondem a gholvyss ou ao tenebraico conforme a preferência. Versos como *Shevh ai gholn, sselir zhul ssolhi* ilustram sua sonoridade espiralada. Fora da magia, a mesma língua serve à constatação fria: *Ghrass vyss zhevhar. Szir vyss nyssh.* (“O sangue é o que foge. Isto é nada.”; *ghrass* é sangue) é o que uma ophideia murmura ao avaliar um ferimento que sangra sem tratamento.
