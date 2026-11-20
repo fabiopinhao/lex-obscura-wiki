@@ -4,7 +4,7 @@
 
 # Ophemus
 
-Ophemus, the Devastating Radiance, is an [[_wiki/cosmologia/anjos\|angel]] of the pantheon whose divine form is the Coruscating Cyclops. His domain combines the schools of [[_wiki_en/escolas/plasma\|Plasma]] and [[_wiki_en/escolas/electro\|Electro]], and the destruction he channels requires a just cause: the single eye carries out sentences out of conviction, and the morality of whoever invokes him serves as a targeting system.
+Ophemus, the Devastating Radiance, is an [[_wiki_en/cosmologia/anjos\|angel]] of the pantheon whose divine form is the Coruscating Cyclops. His domain combines the schools of [[_wiki_en/escolas/plasma\|Plasma]] and [[_wiki_en/escolas/electro\|Electro]], and the destruction he channels requires a just cause: the single eye carries out sentences out of conviction, and the morality of whoever invokes him serves as a targeting system.
 
 ### Manifestation
 

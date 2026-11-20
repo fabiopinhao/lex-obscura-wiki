@@ -137,7 +137,7 @@ Thirty schools, divided among the five colors of the arcane spectrum. Each schoo
 
 ## Mechanics and Concepts
 
-- [[_wiki/magia/sistema_de_combustivel_magico\|Magic Fuel System]]: how the body pays
+- [[_wiki_en/magia/sistema_de_combustivel_magico\|Magic Fuel System]]: how the body pays
 - [[_wiki_en/magia/hierarquia_de_poder_magico\|Hierarchy of Magical Power]]: caster levels
 - [[_wiki_en/magia/progressao_ontologica\|Ontological Progression]]: costs that scale geometrically
 - [[_wiki_en/magia/principios_canonicos\|Canonical Principles]]: fundamental laws of magic
@@ -153,7 +153,7 @@ Thirty schools, divided among the five colors of the arcane spectrum. Each schoo
 - [[_wiki_en/magia/circulo_de_sutura\|Circle of Suture]]: necromantic control heptagram
 - [[_wiki_en/magia/deteccao_de_alinhamento\|Alignment Detection]]: identification of magical color
 - [[_wiki_en/magia/maledictus_fidejussor\|Maledictus Fidejussor]]: contractual curse
-- [[_wiki/magia/macula-sombria\|Dark Taint]]: arcane corruption
+- [[_wiki_en/magia/macula-sombria\|Dark Taint]]: arcane corruption
 
 ## Costs and Consequences
 

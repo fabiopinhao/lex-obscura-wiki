@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/locais/myrgarde.md","permalink":"/pt/locais/myrgarde/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/locais/myrgarde.md","permalink":"/pt/locais/myrgarde/","lexLang":"pt-BR","lexAlt":"/locais/myrgarde/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Myrgarde

@@ -4,7 +4,7 @@
 
 # Gerut
 
-The Geruts are titanic humans of the woodlands and swamps of the continent’s southeast, hunters and druids who, in the [[_wiki_en/conceitos/idade_esquecida\|Forgotten Age]], embraced the green instead of the throne. As primitive humans expanded from tribes into kingdoms and pressed against elven borders, the Geruts refused the march and remained in the forests, while the majority formed the Central [[_wiki_en/organizacoes/imperio_sombrio\|Empire]], the future [[_wiki/locais/myrgarde\|Myrgarde]]. The [[_wiki_en/racas/luminares\|Luminars]], recognizing their peaceful stance, permitted them to inhabit the edges of their territories, and over time the Geruts ventured into the woodlands and never left.
+The Geruts are titanic humans of the woodlands and swamps of the continent’s southeast, hunters and druids who, in the [[_wiki_en/conceitos/idade_esquecida\|Forgotten Age]], embraced the green instead of the throne. As primitive humans expanded from tribes into kingdoms and pressed against elven borders, the Geruts refused the march and remained in the forests, while the majority formed the Central [[_wiki_en/organizacoes/imperio_sombrio\|Empire]], the future [[_wiki_en/locais/myrgarde\|Myrgarde]]. The [[_wiki_en/racas/luminares\|Luminars]], recognizing their peaceful stance, permitted them to inhabit the edges of their territories, and over time the Geruts ventured into the woodlands and never left.
 
 ### Origin
 
@@ -36,7 +36,7 @@ A tradition parallel to Symbiosis circulates among the Geruts, the doctrine of s
 
 ### Relationship with the Empire
 
-The Shadars classify the Geruts as [[_wiki_en/racas/pindoriar\|Pindoriars]] of an inferior grade, and the pejorative nickname “mudfoot” originated in the Reinkardic Wars, when refugees arrived at the camps with their feet covered in swamp mud. To Morvgrad’s bureaucratic apparatus, the Geruts barely exist as a category: censuses ignore them and military reports mention them only when one is captured. This invisibility is deliberate, since the titanic forests are the only ones the Empire has not directly invaded. The cost of confronting an awakened titan exceeds the territorial gain, and the imperial strategy is one of slow encirclement, allowing the [[_wiki/magia/macula-sombria\|Shadow-Taint]] to eat away at the roots before the soldiers arrive.
+The Shadars classify the Geruts as [[_wiki_en/racas/pindoriar\|Pindoriars]] of an inferior grade, and the pejorative nickname “mudfoot” originated in the Reinkardic Wars, when refugees arrived at the camps with their feet covered in swamp mud. To Morvgrad’s bureaucratic apparatus, the Geruts barely exist as a category: censuses ignore them and military reports mention them only when one is captured. This invisibility is deliberate, since the titanic forests are the only ones the Empire has not directly invaded. The cost of confronting an awakened titan exceeds the territorial gain, and the imperial strategy is one of slow encirclement, allowing the [[_wiki_en/magia/macula-sombria\|Shadow-Taint]] to eat away at the roots before the soldiers arrive.
 
 Geruts captured outside the forests are treated as curiosities or repositories of ancient knowledge. At the time of [[_wiki_en/personagens/orum-rahru\|Orum-Rahru]]’s interrogations, [[_wiki_en/personagens/jalu_nvara\|Jalú’Nvara]], of the last generation to live free before the subjugation of the Geruts of Myrgarde, was a prisoner in the dungeons of [[_wiki_en/locais/ghol_drokh\|Ghol’Drokh]], and what he knew about the old Empire was worth more than his death.
 

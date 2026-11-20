@@ -4,7 +4,7 @@
 
 # Eastern Campaign and Fall of Dernessal
 
-The Eastern Campaign, or Campaign of the East, was the second major offensive by the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]] during the [[_wiki_en/eventos/guerras_reinkardicas_inicio\|Reinkardic Wars]], led by [[_wiki_en/racas/shadar\|Shadar]] General Dravhok against the human cities that formed the eastern belt under the protection of [[_wiki/locais/myrgarde\|Myrgarde]]. Unlike the previous campaign, fought in the mountains, this one advanced across the eastern plains in a war of direct attrition, and culminated in the fall of Dernessal and an unprecedented retreat on the coast of [[_wiki_en/locais/valdris\|Valdris]].
+The Eastern Campaign, or Campaign of the East, was the second major offensive by the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]] during the [[_wiki_en/eventos/guerras_reinkardicas_inicio\|Reinkardic Wars]], led by [[_wiki_en/racas/shadar\|Shadar]] General Dravhok against the human cities that formed the eastern belt under the protection of [[_wiki_en/locais/myrgarde\|Myrgarde]]. Unlike the previous campaign, fought in the mountains, this one advanced across the eastern plains in a war of direct attrition, and culminated in the fall of Dernessal and an unprecedented retreat on the coast of [[_wiki_en/locais/valdris\|Valdris]].
 
 ### The Offensive on the Plains
 

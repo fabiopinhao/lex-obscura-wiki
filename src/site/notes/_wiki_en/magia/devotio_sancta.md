@@ -4,7 +4,7 @@
 
 # Devotio Sancta
 
-Devotio Sancta is the system of magical access anchored in religious faith: power comes from genuine devotion to entities of light, order, and purity, granted by the [[_wiki/cosmologia/anjos\|angels]] as a blessing. With high stability and medium difficulty, it is doctrinally tolerated under certain conditions in the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]].
+Devotio Sancta is the system of magical access anchored in religious faith: power comes from genuine devotion to entities of light, order, and purity, granted by the [[_wiki_en/cosmologia/anjos\|angels]] as a blessing. With high stability and medium difficulty, it is doctrinally tolerated under certain conditions in the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]].
 
 In common usage, the system is called simply Sancta, “the magic that rises through faith”; Devotio Sancta is the formal name. Sancta reverence, a rite of the hands among the free peoples, is a distinct practice.
 

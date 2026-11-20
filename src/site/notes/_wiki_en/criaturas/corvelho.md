@@ -4,7 +4,7 @@
 
 # Corvelho
 
-The corvelho is a common creature in the cemeteries of [[_wiki/locais/myrgarde\|Myrgarde]], half crow and half rat, with sparse feathers and a scaly tail.
+The corvelho is a common creature in the cemeteries of [[_wiki_en/locais/myrgarde\|Myrgarde]], half crow and half rat, with sparse feathers and a scaly tail.
 
 ### Habits
 

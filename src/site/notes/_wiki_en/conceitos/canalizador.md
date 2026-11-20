@@ -16,4 +16,4 @@ Outside the imperial framework, a channeler’s legitimacy is attested by signs 
 
 ### Vulnerability
 
-Channeling depends on the bond with the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]], and therefore falls ill when that bond falls ill. Under [[_wiki/magia/macula-sombria\|Shadow-Taint]], basic enchantments fail, and rituals that previously required one channeler come to require two, still producing stunted results.
+Channeling depends on the bond with the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]], and therefore falls ill when that bond falls ill. Under [[_wiki_en/magia/macula-sombria\|Shadow-Taint]], basic enchantments fail, and rituals that previously required one channeler come to require two, still producing stunted results.

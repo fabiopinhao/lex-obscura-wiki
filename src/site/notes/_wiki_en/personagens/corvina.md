@@ -4,7 +4,7 @@
 
 # Corvina
 
-Corvina, known as Mother Corvina, is a human of the [[_wiki_en/organizacoes/igreja_de_sao_lucian\|Church of Saint Lucian]] in [[_wiki/locais/myrgarde\|Myrgarde]]. An elderly woman bent under the weight of decades, she survived the fall of the city.
+Corvina, known as Mother Corvina, is a human of the [[_wiki_en/organizacoes/igreja_de_sao_lucian\|Church of Saint Lucian]] in [[_wiki_en/locais/myrgarde\|Myrgarde]]. An elderly woman bent under the weight of decades, she survived the fall of the city.
 
 ### Appearance
 

@@ -13,14 +13,14 @@ The structure of the planes, the divine hierarchy, and the forces that sustain o
 - [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]]: the space between that connects the material plane to the divine domains
 - [[_wiki_en/cosmologia/interacoes_entre_planos\|Interactions Between Planes]]: how the planes touch, bleed, and contaminate
 - [[_wiki_en/cosmologia/planos_divinos\|Divine Planes]]: the individual domains of each entity, shaped by its nature
-- [[_wiki/cosmologia/manto_das_sombras\|Mantle of Shadows]]: the metaphysical phenomenon that altered Reinkard’s planar balance
+- [[_wiki_en/cosmologia/manto_das_sombras\|Mantle of Shadows]]: the metaphysical phenomenon that altered Reinkard’s planar balance
 
 ## Ontology
 
-- [[_wiki/cosmologia/ontologia_divina\|Divine Ontology]]: what the entities mortals call gods actually are
+- [[_wiki_en/cosmologia/ontologia_divina\|Divine Ontology]]: what the entities mortals call gods actually are
 - [[_wiki_en/cosmologia/diferencas_entre_tipos_de_entidades\|Differences Between Categories]]: form, motivation, and the mark each divine category leaves on the caster
 - [[_wiki_en/cosmologia/entidades_bicolores_e_cor_dominante\|Dual Nature and Ruling Patron]]: entities of dual ancestry and the rule that defines which face governs the bond
-- [[_wiki/cosmologia/cor_arcana\|Arcane Color]]: the statistical affinity between each race and the gods of its color
+- [[_wiki_en/cosmologia/cor_arcana\|Arcane Color]]: the statistical affinity between each race and the gods of its color
 - [[_wiki_en/cosmologia/monogamia_divina\|Divine Monogamy]]: why the gods rarely share their servants
 - [[_wiki_en/cosmologia/mecanismos_divinos\|Divine Mechanisms]]: how divine power crosses the veil and operates on the material plane
 - [[_wiki_en/cosmologia/noctiluz\|Noctiluz]]: the light that emanates from ruptures in the celestial veil
@@ -45,7 +45,7 @@ The structure of the planes, the divine hierarchy, and the forces that sustain o
 - [[_wiki_en/cosmologia/diabos\|Devils]]: lords of contracts and souls. Their order does not serve justice: it serves dominion. To a devil, everything that exists, including another devil, is a bargaining chip
 - [[_wiki_en/cosmologia/demonios\|Demons]]: fire made flesh. Where a devil calculates, a demon sets fires. They do not want dominion: they want it to burn
 - [[_wiki_en/cosmologia/titas\|Titans]]: the gods who inhabit Thamakard. Older than empires, older than writing. Their cults speak of fecund rot and roots that devour stone
-- [[_wiki/cosmologia/anjos\|Angels]]: guardians of a moral order that Reinkard has almost forgotten. Light and judgment, mercy and rigor. The few who still revere them pay the price of isolation
+- [[_wiki_en/cosmologia/anjos\|Angels]]: guardians of a moral order that Reinkard has almost forgotten. Light and judgment, mercy and rigor. The few who still revere them pay the price of isolation
 - [[_wiki_en/cosmologia/siderais\|Sidereals]]: formless consciousnesses, patterns of pure thought that exist beyond matter. They do not ask for devotion; they demand understanding
 
 ## Deities

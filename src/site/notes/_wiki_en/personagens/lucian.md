@@ -4,7 +4,7 @@
 
 # Lucian
 
-Lucian, venerated as Saint Lucian, was a human warrior from the time of the [[_wiki_en/racas/luminares\|Luminars]], canonized in [[_wiki/locais/myrgarde\|Myrgarde]] some time after his death. He gives his name to the [[_wiki_en/organizacoes/igreja_de_sao_lucian\|Church of Saint Lucian]], the city’s cathedral, and the House of Saint Lucian, the orphanage adjoining the temple.
+Lucian, venerated as Saint Lucian, was a human warrior from the time of the [[_wiki_en/racas/luminares\|Luminars]], canonized in [[_wiki_en/locais/myrgarde\|Myrgarde]] some time after his death. He gives his name to the [[_wiki_en/organizacoes/igreja_de_sao_lucian\|Church of Saint Lucian]], the city’s cathedral, and the House of Saint Lucian, the orphanage adjoining the temple.
 
 ### Life
 

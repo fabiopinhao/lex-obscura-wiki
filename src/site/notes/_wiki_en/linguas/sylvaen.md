@@ -4,7 +4,7 @@
 
 # Sylvaen
 
-Sylvaen is the everyday language of the [[_wiki_en/racas/sylvano\|Sylvans]] and also the language of druidic invocations. Softer than [[_wiki/linguas/aelarian\|Aelarian]], it is distinguished by open syllables and a descending cadence, compared to falling leaves. It descends from [[_wiki_en/linguas/luminar\|Luminar]] fused with [[_wiki_en/linguas/titanico\|Titan-tongue]], a heritage that defines both its sound and its grammar.
+Sylvaen is the everyday language of the [[_wiki_en/racas/sylvano\|Sylvans]] and also the language of druidic invocations. Softer than [[_wiki_en/linguas/aelarian\|Aelarian]], it is distinguished by open syllables and a descending cadence, compared to falling leaves. It descends from [[_wiki_en/linguas/luminar\|Luminar]] fused with [[_wiki_en/linguas/titanico\|Titan-tongue]], a heritage that defines both its sound and its grammar.
 
 ### Sound and Registers
 

@@ -12,7 +12,7 @@ In this tradition, the planes of existence are shards of an original detonation,
 
 ### Classification of the Gods
 
-The red cosmogony orders the deities by each one’s relationship to the intensity of the original flame. The [[_wiki_en/cosmologia/demonios\|demons]] are the purest flames, those that retained the original intensity. The [[_wiki_en/cosmologia/diabos\|devils]] are flames that cooled and hardened, trading power for control. The [[_wiki/cosmologia/anjos\|angels]] are flames that tried to extinguish themselves, believing that stillness was a virtue. The [[_wiki_en/cosmologia/titas\|titans]] are flames that buried themselves in the earth, mistaking rootedness for purpose.
+The red cosmogony orders the deities by each one’s relationship to the intensity of the original flame. The [[_wiki_en/cosmologia/demonios\|demons]] are the purest flames, those that retained the original intensity. The [[_wiki_en/cosmologia/diabos\|devils]] are flames that cooled and hardened, trading power for control. The [[_wiki_en/cosmologia/anjos\|angels]] are flames that tried to extinguish themselves, believing that stillness was a virtue. The [[_wiki_en/cosmologia/titas\|titans]] are flames that buried themselves in the earth, mistaking rootedness for purpose.
 
 ### Place Among the Cosmogonies
 

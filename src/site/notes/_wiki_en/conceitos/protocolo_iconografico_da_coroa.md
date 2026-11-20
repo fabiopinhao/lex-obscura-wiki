@@ -8,7 +8,7 @@ The Iconographic Protocol of the Crown is the decree by which [[_wiki_en/persona
 
 ### Context
 
-With the fall of [[_wiki/locais/myrgarde\|Myrgarde]], about thirty years ago, Arothistar reached the maximum extent of [[_wiki_en/organizacoes/imperio_sombrio\|shadow dominion]] over [[_wiki_en/locais/reinkard\|Reinkard]]. With no walls left to tear down or armies to defeat, the monarch withdrew to the tower and never descended again. He abandoned the [[_wiki_en/locais/salao_do_conselho\|Council Hall]] and began governing through intermediaries and the [[_wiki_en/artefatos/oculus_morvgradi\|Oculus]]. The [[_wiki_en/organizacoes/conselho_sombrio\|Shadow Council]] operates as an instrument of the monarch’s will, not as a partner in government.
+With the fall of [[_wiki_en/locais/myrgarde\|Myrgarde]], about thirty years ago, Arothistar reached the maximum extent of [[_wiki_en/organizacoes/imperio_sombrio\|shadow dominion]] over [[_wiki_en/locais/reinkard\|Reinkard]]. With no walls left to tear down or armies to defeat, the monarch withdrew to the tower and never descended again. He abandoned the [[_wiki_en/locais/salao_do_conselho\|Council Hall]] and began governing through intermediaries and the [[_wiki_en/artefatos/oculus_morvgradi\|Oculus]]. The [[_wiki_en/organizacoes/conselho_sombrio\|Shadow Council]] operates as an instrument of the monarch’s will, not as a partner in government.
 
 ### Channels of Omnipresence
 

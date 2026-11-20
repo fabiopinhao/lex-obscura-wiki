@@ -12,7 +12,7 @@ Shared roots with [[_wiki_en/linguas/sylvaen\|Sylvaen]] allow partial understand
 
 ### Register and Writing
 
-The magical register is almost indistinguishable from the everyday register, paralleling [[_wiki/linguas/orcanico\|Orcanic]] and [[_wiki_en/linguas/draconico\|Draconic]]: the transition between common speech and ritual channeling is a matter of intention, not of distinct vocabulary or grammar. Gerut magic is affiliated with Symbiosis Naturae. Writing varies by tribe: some communities use systems of knots in plant fibers, others carve into stone with techniques close to Draconic, and still others have no written tradition. No system is mutually intelligible between distant tribes.
+The magical register is almost indistinguishable from the everyday register, paralleling [[_wiki_en/linguas/orcanico\|Orcanic]] and [[_wiki_en/linguas/draconico\|Draconic]]: the transition between common speech and ritual channeling is a matter of intention, not of distinct vocabulary or grammar. Gerut magic is affiliated with Symbiosis Naturae. Writing varies by tribe: some communities use systems of knots in plant fibers, others carve into stone with techniques close to Draconic, and still others have no written tradition. No system is mutually intelligible between distant tribes.
 
 ### In the World
 

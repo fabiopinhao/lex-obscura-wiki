@@ -4,7 +4,7 @@
 
 # Formal War and Continental Stalemate
 
-The Formal War was the explicit declaration of war in the [[_wiki_en/eventos/guerras_reinkardicas_inicio\|Reinkardic Wars]], issued by [[_wiki/locais/myrgarde\|Myrgarde]] and not by [[_wiki_en/locais/morvgrad\|Morvgrad]]. It marked the first continental war in the history of [[_wiki_en/locais/reinkard\|Reinkard]]: the entire continent allied against the shadowy plateau. The conflict, however, settled into a prolonged stalemate that, with each broken truce, tipped a little further toward Morvgrad.
+The Formal War was the explicit declaration of war in the [[_wiki_en/eventos/guerras_reinkardicas_inicio\|Reinkardic Wars]], issued by [[_wiki_en/locais/myrgarde\|Myrgarde]] and not by [[_wiki_en/locais/morvgrad\|Morvgrad]]. It marked the first continental war in the history of [[_wiki_en/locais/reinkard\|Reinkard]]: the entire continent allied against the shadowy plateau. The conflict, however, settled into a prolonged stalemate that, with each broken truce, tipped a little further toward Morvgrad.
 
 ### The Declaration and the Alliance
 

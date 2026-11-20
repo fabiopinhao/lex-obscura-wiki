@@ -14,7 +14,7 @@ The ceremony requires ritualized torture, blood sacrifices, and the voluntary ru
 
 ### Historical Use
 
-During the Reinkardic Wars, the subjugation of [[_wiki_en/locais/ventrista\|Ventrista]] generated two simultaneous and opposing migratory flows. Humans who could not bear living under the shadow of the plateau fled south, toward [[_wiki/locais/myrgarde\|Myrgarde]]; others, ambitious, headed in the opposite direction, ascending to the plateau to join the Shadars. The [[_wiki_en/organizacoes/culto_sombrio\|Cult]] accepted those who demonstrated sufficient determination and transformed them through the Rite, forging new shadow soldiers. The two flows grew in the same proportion: the further the shadow advanced, the more people fled and the more people sought it out.
+During the Reinkardic Wars, the subjugation of [[_wiki_en/locais/ventrista\|Ventrista]] generated two simultaneous and opposing migratory flows. Humans who could not bear living under the shadow of the plateau fled south, toward [[_wiki_en/locais/myrgarde\|Myrgarde]]; others, ambitious, headed in the opposite direction, ascending to the plateau to join the Shadars. The [[_wiki_en/organizacoes/culto_sombrio\|Cult]] accepted those who demonstrated sufficient determination and transformed them through the Rite, forging new shadow soldiers. The two flows grew in the same proportion: the further the shadow advanced, the more people fled and the more people sought it out.
 
 ### The Most Notorious Case
 

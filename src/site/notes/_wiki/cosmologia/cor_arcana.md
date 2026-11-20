@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/cosmologia/cor_arcana.md","permalink":"/pt/cosmologia/cor-arcana/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/cosmologia/cor_arcana.md","permalink":"/pt/cosmologia/cor-arcana/","lexLang":"pt-BR","lexAlt":"/cosmologia/cor-arcana/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Cor Arcana

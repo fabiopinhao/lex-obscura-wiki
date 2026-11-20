@@ -16,4 +16,4 @@ The ideological clash between [[_wiki_en/racas/alvarar\|Álvarars]] and Shadars 
 
 ### The Founding
 
-With the definitive expulsion of the dark race from the central lands, the five human citadels that bordered one another united and founded [[_wiki/locais/myrgarde\|Myrgarde]]. The city was born as proof that the light had prevailed and that the central plains belonged to the celestial faith. Over centuries, Myrgarde would grow to become the largest kingdom on the continent and the symbolic center of the alabastrine world.
+With the definitive expulsion of the dark race from the central lands, the five human citadels that bordered one another united and founded [[_wiki_en/locais/myrgarde\|Myrgarde]]. The city was born as proof that the light had prevailed and that the central plains belonged to the celestial faith. Over centuries, Myrgarde would grow to become the largest kingdom on the continent and the symbolic center of the alabastrine world.

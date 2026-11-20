@@ -4,7 +4,7 @@
 
 # Sir Grimald
 
-The most celebrated [[_wiki_en/racas/alvarar\|Álvarar]] in [[_wiki/locais/myrgarde\|Myrgarde]] is Sir Grimald, the Golden Blade: senior paladin of the [[_wiki_en/organizacoes/ordem_de_azazel\|Order of Azazel]], a luminous faith that lives in hiding, and guardian of the Temple’s thresholds, judge of those who ask to enter.
+The most celebrated [[_wiki_en/racas/alvarar\|Álvarar]] in [[_wiki_en/locais/myrgarde\|Myrgarde]] is Sir Grimald, the Golden Blade: senior paladin of the [[_wiki_en/organizacoes/ordem_de_azazel\|Order of Azazel]], a luminous faith that lives in hiding, and guardian of the Temple’s thresholds, judge of those who ask to enter.
 
 ### Appearance
 

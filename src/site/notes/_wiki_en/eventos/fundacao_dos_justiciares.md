@@ -12,6 +12,6 @@ Part of the shadow lord elite still resisted the changes imposed by the Verbum A
 
 ### Activities
 
-In the early years, several shadow lords considered dissidents against the new order were executed, sending an unequivocal message that the monarch’s law also reached internal resistance. At the same time, spies from [[_wiki/locais/myrgarde\|Myrgarde]] were discovered in Morvgrad: almost all were executed, some sent to the depths of [[_wiki_en/locais/ghol_drokh\|Ghol’Drokh]].
+In the early years, several shadow lords considered dissidents against the new order were executed, sending an unequivocal message that the monarch’s law also reached internal resistance. At the same time, spies from [[_wiki_en/locais/myrgarde\|Myrgarde]] were discovered in Morvgrad: almost all were executed, some sent to the depths of [[_wiki_en/locais/ghol_drokh\|Ghol’Drokh]].
 
 [[_wiki_en/personagens/orum-rahru\|Orum-Rahru]], a former Templar of [[_wiki_en/panteao/vozrador\|Vozrador]], was the first Justiciar appointed and would serve forty-four years in the office.

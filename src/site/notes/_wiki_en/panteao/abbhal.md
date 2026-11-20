@@ -16,7 +16,7 @@ His domain lies at the intersection of rule and sentence, shared between [[_wiki
 
 ### Profaned Grace
 
-The epithet is no metaphor. Abbhal carries real vestiges of his former nature: the angelic form, the remnants of light, the instinct to arbitrate. But what is clemency in the [[_wiki/cosmologia/anjos\|angels]] is automatic condemnation in him. Grace was inverted without being extinguished: he still judges, still arbitrates, only he does not forgive. In the moments preceding the sentence, the surrounding light cools to the pale hue of an empty sanctuary, and hanging scales tilt to one side on their own; a white lightning bolt then falls upon the perjurer, without any thunder. When the sentence falls, witnesses describe a brief radiance reminiscent of a blessing, lasting as long as an inhalation.
+The epithet is no metaphor. Abbhal carries real vestiges of his former nature: the angelic form, the remnants of light, the instinct to arbitrate. But what is clemency in the [[_wiki_en/cosmologia/anjos\|angels]] is automatic condemnation in him. Grace was inverted without being extinguished: he still judges, still arbitrates, only he does not forgive. In the moments preceding the sentence, the surrounding light cools to the pale hue of an empty sanctuary, and hanging scales tilt to one side on their own; a white lightning bolt then falls upon the perjurer, without any thunder. When the sentence falls, witnesses describe a brief radiance reminiscent of a blessing, lasting as long as an inhalation.
 
 ### Role Among the Devils
 

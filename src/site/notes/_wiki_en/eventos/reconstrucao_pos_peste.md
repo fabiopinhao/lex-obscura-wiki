@@ -4,7 +4,7 @@
 
 # Reconstruction and Rise of Myrgarde
 
-The Reconstruction and Rise of Myrgarde is the period of the [[_wiki_en/conceitos/segunda_era\|Second Era]] in which the continent recovered after the [[_wiki_en/eventos/sopro_do_eclipse\|Breath of the Eclipse]] and in which [[_wiki/locais/myrgarde\|Myrgarde]] established itself as the dominant power of the plains. It is not a single event, but the sociopolitical context that extends from the catastrophe to the founding of [[_wiki_en/locais/morvgrad\|Morvgrad]].
+The Reconstruction and Rise of Myrgarde is the period of the [[_wiki_en/conceitos/segunda_era\|Second Era]] in which the continent recovered after the [[_wiki_en/eventos/sopro_do_eclipse\|Breath of the Eclipse]] and in which [[_wiki_en/locais/myrgarde\|Myrgarde]] established itself as the dominant power of the plains. It is not a single event, but the sociopolitical context that extends from the catastrophe to the founding of [[_wiki_en/locais/morvgrad\|Morvgrad]].
 
 ### A Cosmopolitan Continent
 

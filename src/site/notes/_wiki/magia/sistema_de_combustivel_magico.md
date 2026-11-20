@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/magia/sistema_de_combustivel_magico.md","permalink":"/pt/magia/sistema-de-combustivel-magico/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/magia/sistema_de_combustivel_magico.md","permalink":"/pt/magia/sistema-de-combustivel-magico/","lexLang":"pt-BR","lexAlt":"/magia/sistema-de-combustivel-magico/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Sistema de Combustível Mágico

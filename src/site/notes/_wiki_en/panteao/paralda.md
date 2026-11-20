@@ -4,7 +4,7 @@
 
 # Paralda
 
-Paralda, the Lady of the Shroud, is an [[_wiki/cosmologia/anjos\|angel]] of the pantheon whose divine form is the Veiled Mourner. Her domain combines the schools of [[_wiki_en/escolas/sacro\|Sacro]] and [[_wiki_en/escolas/salvo\|Salvo]]: her hands restore the dying through touch, or her shroud envelops and sanctifies the end. Her name appears among the nearly extinct sacred ones, mentioned in the papyri of the chapel of [[_wiki_en/locais/niedellin\|Niedellin]] alongside [[_wiki_en/panteao/azazel\|Azazel]] and [[_wiki_en/panteao/israfil\|Israfil]].
+Paralda, the Lady of the Shroud, is an [[_wiki_en/cosmologia/anjos\|angel]] of the pantheon whose divine form is the Veiled Mourner. Her domain combines the schools of [[_wiki_en/escolas/sacro\|Sacro]] and [[_wiki_en/escolas/salvo\|Salvo]]: her hands restore the dying through touch, or her shroud envelops and sanctifies the end. Her name appears among the nearly extinct sacred ones, mentioned in the papyri of the chapel of [[_wiki_en/locais/niedellin\|Niedellin]] alongside [[_wiki_en/panteao/azazel\|Azazel]] and [[_wiki_en/panteao/israfil\|Israfil]].
 
 ### Manifestation
 

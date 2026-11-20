@@ -4,7 +4,7 @@
 
 # The Sexton
 
-In a cell in [[_wiki_en/locais/ghol_drokh\|Ghol’Drokh]] there is an old man whom the jailers call only the Mad Prisoner. He was once the sexton of the [[_wiki_en/locais/jardim_dos_inocentes\|Garden of the Innocents]], in [[_wiki/locais/myrgarde\|Myrgarde]], the man who opened the earth for the city’s dead. Today the earth that awaited him is denied him: for nearly three decades he has lived without dying, kept on his feet by a necromancy that prevents him from departing.
+In a cell in [[_wiki_en/locais/ghol_drokh\|Ghol’Drokh]] there is an old man whom the jailers call only the Mad Prisoner. He was once the sexton of the [[_wiki_en/locais/jardim_dos_inocentes\|Garden of the Innocents]], in [[_wiki_en/locais/myrgarde\|Myrgarde]], the man who opened the earth for the city’s dead. Today the earth that awaited him is denied him: for nearly three decades he has lived without dying, kept on his feet by a necromancy that prevents him from departing.
 
 ### Appearance
 

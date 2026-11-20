@@ -12,7 +12,7 @@ Pindoriars are second-class citizens. They have no citizenship rights, cannot ho
 
 ### Culture of Resistance
 
-Deprived of institutional power, Pindoriars have developed survival strategies that operate in the shadows of the system. Many maintain secret devotion to the white gods, the [[_wiki/cosmologia/anjos\|angels]], and the green gods, the [[_wiki_en/cosmologia/titas\|titans]]: [[_wiki_en/personagens/abramis\|Abramis]], a priest of Niedellin, exemplifies this spiritual resistance, keeping the faith alive under the Shadow Cult’s nose. Invisible support networks circulate information, shelter, and supplies beyond the imperial gaze, and figures such as [[_wiki_en/personagens/koliah\|Koliah]] exercise real leadership without formal titles, navigating partial truths to protect their own.
+Deprived of institutional power, Pindoriars have developed survival strategies that operate in the shadows of the system. Many maintain secret devotion to the white gods, the [[_wiki_en/cosmologia/anjos\|angels]], and the green gods, the [[_wiki_en/cosmologia/titas\|titans]]: [[_wiki_en/personagens/abramis\|Abramis]], a priest of Niedellin, exemplifies this spiritual resistance, keeping the faith alive under the Shadow Cult’s nose. Invisible support networks circulate information, shelter, and supplies beyond the imperial gaze, and figures such as [[_wiki_en/personagens/koliah\|Koliah]] exercise real leadership without formal titles, navigating partial truths to protect their own.
 
 ### Relations with Other Races
 

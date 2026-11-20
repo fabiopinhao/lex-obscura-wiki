@@ -4,7 +4,7 @@
 
 # Third Era
 
-The Third Era is the historiographical designation for the period in which the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]] consolidated its dominion over [[_wiki_en/locais/reinkard\|Reinkard]]. There is no formal consensus on its demarcation: some chroniclers date its beginning to the fall of [[_wiki/locais/myrgarde\|Myrgarde]], while others maintain that the Reinkardic Wars never ended, and that the conflict persists as long as the Empire continues to expand. In the liturgy of the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]] and in common usage within the Empire, the era is referred to simply as “the New Era”, in deliberate opposition to the old world it replaced.
+The Third Era is the historiographical designation for the period in which the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]] consolidated its dominion over [[_wiki_en/locais/reinkard\|Reinkard]]. There is no formal consensus on its demarcation: some chroniclers date its beginning to the fall of [[_wiki_en/locais/myrgarde\|Myrgarde]], while others maintain that the Reinkardic Wars never ended, and that the conflict persists as long as the Empire continues to expand. In the liturgy of the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]] and in common usage within the Empire, the era is referred to simply as “the New Era”, in deliberate opposition to the old world it replaced.
 
 ### The Consolidated Dominion
 

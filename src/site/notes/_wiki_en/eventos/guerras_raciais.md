@@ -8,7 +8,7 @@ The Racial Wars, also called the War of the Gods or the First Carnage, are the o
 
 ### Nature of the Event
 
-The term “war” is imprecise. The gods intervened directly in the material plane, crossbreeding primitive humans and wild animals to produce soldiers aligned with their [[_wiki/cosmologia/cor_arcana\|arcane colors]]. The result was the hybrid humanoids: races with bestial strength, combat instinct, and innate divine alignment. The interference was neither subtle nor gradual, but direct manipulation of blood and form, fusing human and animal in a single generation.
+The term “war” is imprecise. The gods intervened directly in the material plane, crossbreeding primitive humans and wild animals to produce soldiers aligned with their [[_wiki_en/cosmologia/cor_arcana\|arcane colors]]. The result was the hybrid humanoids: races with bestial strength, combat instinct, and innate divine alignment. The interference was neither subtle nor gradual, but direct manipulation of blood and form, fusing human and animal in a single generation.
 
 ### The Colors and Their Races
 

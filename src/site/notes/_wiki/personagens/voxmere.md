@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"_wiki/personagens/voxmere.md","permalink":"/pt/personagens/voxmere/","lexLang":"pt-BR","dg-note-properties":{"generated_by":"strip_sistema"}}
+{"dg-publish":true,"dg-path":"_wiki/personagens/voxmere.md","permalink":"/pt/personagens/voxmere/","lexLang":"pt-BR","lexAlt":"/personagens/voxmere/","dg-note-properties":{"generated_by":"strip_sistema"}}
 ---
 
 # Voxmere

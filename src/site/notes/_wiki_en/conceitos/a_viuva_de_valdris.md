@@ -4,7 +4,7 @@
 
 # The Widow of Valdris
 
-*The Widow of [[_wiki_en/locais/valdris\|Valdris]]* is a classic play from [[_wiki/locais/myrgarde\|Myrgarde]]. The plot follows a female elf, married to a man, who manipulates the family inheritance.
+*The Widow of [[_wiki_en/locais/valdris\|Valdris]]* is a classic play from [[_wiki_en/locais/myrgarde\|Myrgarde]]. The plot follows a female elf, married to a man, who manipulates the family inheritance.
 
 ### Two Moralities
 

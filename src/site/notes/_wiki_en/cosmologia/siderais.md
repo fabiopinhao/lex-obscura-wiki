@@ -4,7 +4,7 @@
 
 # Sidereals
 
-The sidereals are entities of pure or nearly pure consciousness that wander the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]]. They have no defined physical form: they are patterns of thought, living geometries, conscious concepts, such as djinns, leviathans, and sphinxes. The blue [[_wiki/cosmologia/cor_arcana\|arcane color]] defines them, associating them with knowledge, transcendence, and detachment. They are also called Blue Gods or Ethereal Entities.
+The sidereals are entities of pure or nearly pure consciousness that wander the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]]. They have no defined physical form: they are patterns of thought, living geometries, conscious concepts, such as djinns, leviathans, and sphinxes. The blue [[_wiki_en/cosmologia/cor_arcana\|arcane color]] defines them, associating them with knowledge, transcendence, and detachment. They are also called Blue Gods or Ethereal Entities.
 
 ### Nature
 
