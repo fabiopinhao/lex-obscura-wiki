@@ -154,6 +154,7 @@ Trinta escolas, divididas pelas cinco cores do espectro arcano. Cada escola poss
 - [[_wiki/magia/deteccao_de_alinhamento\|Detecção de Alinhamento]]: identificação de cor mágica
 - [[_wiki/magia/maledictus_fidejussor\|Maledictus Fidejussor]]: maldição contratual
 - [[_wiki/magia/macula-sombria\|Mácula Sombria]]: corrupção arcana
+- [[_wiki/magia/teia_verde\|Teia-Verde]]: magia druídica ancestral que dobra luz e som e cria um bolsão de mundo à parte
 
 ## Custos e Consequências
 

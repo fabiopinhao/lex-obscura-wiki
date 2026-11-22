@@ -18,6 +18,7 @@ As palavras que o Império usa para governar não foram escolhidas ao acaso. Cad
 
 - [[_wiki/conceitos/veredictum_exkarthon\|Veredictum Exkarthon]]: instrumento jurídico extremo que obriga o Justiciar a examinar provas antes de sentenciar
 - [[_wiki/conceitos/sigilo_de_abbhal\|Sigilo de Abbhal]]: aprisionamento eterno da alma em corpo vivo
+- [[_wiki/conceitos/foro_privilegiado\|Foro Privilegiado]]: prerrogativa dos lordes sombrios, julgados pelo Conselho Sombrio e pelo monarca
 
 ## Governança e Cerimonial
 
@@ -33,15 +34,31 @@ As palavras que o Império usa para governar não foram escolhidas ao acaso. Cad
 - [[_wiki/conceitos/vocabulario_administrativo\|Vocabulário Administrativo]]: eufemismos oficiais que ocultam a natureza dos procedimentos
 - [[_wiki/conceitos/sistema_de_medidas\|Sistema de Medidas]]: distância, tempo, peso, moeda
 
+## Expressões e Usos
+
+- [[_wiki/conceitos/canalizador\|Canalizador]]: termo imperial, ao mesmo tempo oficial e depreciativo, para os druidas
+- [[_wiki/conceitos/khemor\|Khemor]]: a máscara do medo, no uso shadar
+- [[_wiki/conceitos/moeda_de_chumbo\|Moeda de Chumbo]]: gíria shadar para o que parece valioso, mas é falso ou tóxico
+- [[_wiki/eventos/cerco_de_khordun\|Cerco de Khordun]]: episódio que deu origem à locução órquica “carregar barril”
+
+## Economia Paralela
+
+- [[_wiki/conceitos/mercado_negro\|Mercado Negro]]: economia paralela que atravessa o Império, tolerada onde é lucrativa
+- [[_wiki/conceitos/livros_razao\|Livros-Razão]]: registros do mercado negro, que anotam só o que seus donos admitem existir
+
 ## Calendário Imperial
 
 - [[_wiki/conceitos/varnum\|Varnum]]: unidade anual de 365 dias (treze Lúnias + Nullis)
 - [[_wiki/conceitos/lunia\|Lúnia]]: unidade mensal de 28 dias em quatro fáscias lunares
 - [[_wiki/conceitos/nullis\|Nullis]]: Dia do Vazio, dia avulso entre Varnums
 
-## Jogos e Cultura
+## Cultura e Cotidiano
 
 - [[_wiki/conceitos/aroada\|Aroada]]: esporte de Myrgarde, com esfera de couro lançada através de aros, usando pés e ombros
+- [[_wiki/conceitos/a_viuva_de_valdris\|A Viúva de Valdris]]: peça clássica de Myrgarde
+- [[_wiki/conceitos/charaba\|Charabã]]: veículo provincial de tração animal, de quatro rodas e caixa alongada
+- [[_wiki/conceitos/casca_viva\|Casca-Viva]]: material vegetal das armaduras leves dos sylvanos
+- [[_wiki/conceitos/carvalho_mae\|Carvalho-Mãe]]: o primeiro carvalho plantado em cada bosque sagrado
 
 ---
 

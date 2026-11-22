@@ -15,7 +15,7 @@ The Empire does not recognize equality among the races. It recognizes usefulness
 - [[_wiki_en/racas/pindoriar\|Pindoriar]]: a derogatory term for subjugated humans and elves, second-class citizens whose shortened lifespans are the first sign that the Empire exacts even time from those it rules.
 - [[_wiki_en/racas/varnakiano\|Varnakian]]: humans of infernal blood, whose demonic markings make them conditionally tolerated citizens in an empire that prefers devils to demons.
 - [[_wiki_en/racas/orc\|orc]]: demonic elves forged in the tundras and mountain ranges of the north, who despise the term “elf.” They embrace fury and the brief life cycle that accompanies it.
-- [[_wiki_en/racas/frenim\|Frenim]]: sidereal humans from Neranthis, isolationist blue mages who fear the shadows with the same intensity with which they command the aether.
+- [[_wiki_en/racas/frenim\|Frenim]]: sidereal humans from Neranthis, isolationist mages who fear the shadows with the same intensity with which they command the aether.
 - [[_wiki_en/racas/undine\|undine]]: sidereal elves aligned with oceans, rivers, and lakes in the far east of Neranthis, so detached from the material world that the Shadars are unaware of their existence.
 - [[_wiki_en/racas/gerut\|Gerut]]: titanic humans who inhabit woodlands, hunters and druids who rejected imperial expansion in the Forgotten Age and have never reconsidered.
 - [[_wiki_en/racas/sylvano\|Sylvan]]: forest elves, who traded Luminar purity for the protection of green and live as rebels in a land that was once entirely theirs.
@@ -54,8 +54,14 @@ The Empire does not recognize equality among the races. It recognizes usefulness
 
 ## Creatures
 
-- [[_wiki_en/criaturas/basilisco\|basilisk]]: a monstrous reptile with a petrifying gaze that inhabits the continent’s unmapped depths, existing in the bestiary as a known and feared threat without ever setting foot onstage.
+- [[_wiki_en/criaturas/basilisco\|basilisk]]: a monstrous reptile with a petrifying gaze that inhabits the continent’s unmapped depths, existing in the bestiary as a known and feared threat.
 - [[_wiki_en/criaturas/grifo\|griffin]]: a war mount with a lion’s body and an eagle’s wings, domesticated by humans and Álvarars in the Reinkardic Wars.
+- [[_wiki_en/criaturas/wyvern\|wyvern]]: a lesser, bipedal dragon with membranous wings, a distant and degenerate cousin of true dragons.
+- [[_wiki_en/criaturas/manticora\|manticore]]: a beast with a lion’s body, a scorpion’s tail, and a face that parodies human features.
+- [[_wiki_en/criaturas/harpia\|harpy]]: a creature with a female torso and a vulture’s body, known for the extreme filth of its nests.
+- [[_wiki_en/criaturas/estrige\|strige]]: a batlike winged creature with a long, bloodsucking beak.
+- [[_wiki_en/criaturas/corvelho\|corvelho]]: half crow and half rat, common in Myrgarde’s cemeteries.
+- [[_wiki_en/criaturas/cinereta\|cinereta]]: a beast of burden bred by the Shadars for the highlands.
 - [[_wiki_en/criaturas/troll\|troll]]: a territorial predator of colossal mass and extreme regeneration, which only truly dies when burned or dissolved.
 - [[_wiki_en/criaturas/sombralva\|Sombralva]]: a large feline with light-absorbing fur, domesticated exclusively by ophideias as a combat mount and status symbol among the Drul hierophant-assassins. Also called a “shadow panther” in popular speech.
 - [[_wiki_en/criaturas/servo_hediondo\|Hideous Servant]]: a necromantic construct animated from corpses, amalgams of flesh, or entities from lower planes, as varied in form as the summoner who created it and the material at hand.

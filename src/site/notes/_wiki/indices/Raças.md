@@ -15,7 +15,7 @@ O Império não reconhece igualdade entre as raças. Reconhece utilidade.
 - [[_wiki/racas/pindoriar\|Pindoriar]]: termo pejorativo para humanos e elfos subjugados, cidadãos de segunda classe cuja longevidade encurtada é o primeiro sinal de que o Império cobra até o tempo de quem domina.
 - [[_wiki/racas/varnakiano\|Varnakiano]]: humanos de sangue infernal, cujas marcas demoníacas os tornam cidadãos de tolerância condicional num império que prefere diabos a demônios.
 - [[_wiki/racas/orc\|Orc]]: elfos demoníacos forjados nas tundras e cordilheiras do norte, que desprezam o termo “elfo”. Abraçam a fúria e o ciclo de vida breve que a acompanha.
-- [[_wiki/racas/frenim\|Frenim]]: humanos siderais de Neranthis, magos azuis isolacionistas que temem as sombras com a mesma intensidade com que dominam o éter.
+- [[_wiki/racas/frenim\|Frenim]]: humanos siderais de Neranthis, magos isolacionistas que temem as sombras com a mesma intensidade com que dominam o éter.
 - [[_wiki/racas/undine\|Undine]]: elfos siderais alinhados a oceanos, rios e lagos no extremo leste de Neranthis, tão desvinculados do mundo material que os shadars ignoram sua existência.
 - [[_wiki/racas/gerut\|Gerut]]: humanos titânicos habitantes de matas, caçadores e druidas que rejeitaram a expansão imperial na Idade Esquecida e nunca reconsideraram.
 - [[_wiki/racas/sylvano\|Sylvano]]: elfos das florestas, que trocaram a pureza luminar pela proteção do verde e vivem como rebeldes numa terra que já foi inteiramente deles.
@@ -33,7 +33,7 @@ O Império não reconhece igualdade entre as raças. Reconhece utilidade.
 - [[_wiki/racas/draconideo\|Draconídeo]]: saurianos de elite com escamas grossas, caudas preênseis e sopro elemental, organizados em clãs drakhonins cuja linhagem dracônica é motivo de orgulho feroz.
 - [[_wiki/racas/kobold\|Kobold]]: saurianos gnômicos de origem artificial, manufaturados por manipulação shadar sobre ovos corrompidos de dragão.
 - [[_wiki/racas/lynxiano\|Lynxiano]]: família de humanoides híbridos felinos.
-- [[_wiki/racas/rajhar\|Rajhar]]: lynxianos de porte grande, predadores nômades de sublinhagens de tigre, lince e pantera, sem clã, território ou patrono. Se guiam pelo instinto e pelo próximo contrato.
+- [[_wiki/racas/rajhar\|Rajhar]]: lynxianos de porte grande, predadores nômades de sublinhagens de tigre, lince e pantera, sem clã, território ou patrono. Guiam-se pelo instinto e pelo próximo contrato.
 - [[_wiki/racas/margau\|Margáu]]: lynxianos gnômicos arborícolas e simbióticos com a flora, mais integrados ao mundo verde civilizado que seus primos rajhars, mas não menos carnívoros por isso.
 - [[_wiki/racas/aviano\|Aviano]]: família de humanoides híbridos de aves.
 - [[_wiki/racas/aquilar\|Aquilar]]: avianos de porte grande, híbridos de águia e falcão, ovíparos e urbanos antes da conquista, marcados pela bênção angelical de sua linhagem.
@@ -42,7 +42,7 @@ O Império não reconhece igualdade entre as raças. Reconhece utilidade.
 - [[_wiki/racas/saag\|Saag]]: ranidanos de porte grande, humanoides massivos de linhagem sapiana, com rara habilidade de cruzar o véu etéreo por contato com água.
 - [[_wiki/racas/boglin\|Boglin]]: ranidanos gnômicos de linhagem queloniana, tartarugas humanoides de casco natural e telepatia limitada.
 - [[_wiki/racas/murano\|Murano]]: humanoides ratiformes que se comunicam por ultrassom e feromônios, invisíveis nos censos, desprezados como vermes, e valiosos apenas enquanto descartáveis.
-- [[_wiki/racas/minotauro\|Minotauro]]: híbridos bovinos quase extintos, tão raro na Terceira Era que a maioria dos eruditos imperiais os classifica como lenda.
+- [[_wiki/racas/minotauro\|Minotauro]]: híbridos bovinos quase extintos, tão raros na Terceira Era que a maioria dos eruditos imperiais os classifica como lenda.
 
 ## Pequenos Povos
 
@@ -54,8 +54,14 @@ O Império não reconhece igualdade entre as raças. Reconhece utilidade.
 
 ## Criaturas
 
-- [[_wiki/criaturas/basilisco\|Basilisco]]: réptil monstruoso de olhar petrificante que habita as profundezas não mapeadas do continente, existindo no bestiário como ameaça conhecida e temida sem jamais pisar em cena.
+- [[_wiki/criaturas/basilisco\|Basilisco]]: réptil monstruoso de olhar petrificante que habita as profundezas não mapeadas do continente, existindo no bestiário como ameaça conhecida e temida.
 - [[_wiki/criaturas/grifo\|Grifo]]: montaria de guerra com corpo de leão e asas de águia, domesticada por humanos e álvarars nas Guerras Reinkárdicas.
+- [[_wiki/criaturas/wyvern\|Wyvern]]: dragão menor, bípede e de asas membranosas, primo distante e degenerado dos dragões verdadeiros.
+- [[_wiki/criaturas/manticora\|Mantícora]]: besta de corpo de leão, cauda de escorpião e rosto que parodia feições humanas.
+- [[_wiki/criaturas/harpia\|Harpia]]: criatura de torso feminino e corpo de abutre, conhecida pela imundície extrema dos ninhos.
+- [[_wiki/criaturas/estrige\|Estrige]]: criatura alada semelhante a um morcego, de bico longo e sugador de sangue.
+- [[_wiki/criaturas/corvelho\|Corvelho]]: meio corvo e meio rato, comum nos cemitérios de Myrgarde.
+- [[_wiki/criaturas/cinereta\|Cinereta]]: besta de carga criada pelos shadars para as terras altas.
 - [[_wiki/criaturas/troll\|Troll]]: predador territorial de massa colossal e regeneração extrema, que só morre de verdade quando queimado ou dissolvido.
 - [[_wiki/criaturas/sombralva\|Sombralva]]: felino de grande porte de pelagem que absorve luz, domesticado exclusivamente por ophideias como montaria de combate e símbolo de status entre as sacerdotisas-assassinas drul. Também chamada de “pantera sombria” no falar popular.
 - [[_wiki/criaturas/servo_hediondo\|Servo Hediondo]]: constructo necromântico animado a partir de cadáveres, amálgamas de carne ou entidades de planos inferiores, tão variado em forma quanto o invocador que o criou e o material que estava à mão.

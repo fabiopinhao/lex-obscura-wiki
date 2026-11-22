@@ -18,6 +18,7 @@ The words the Empire uses to govern were not chosen at random. Each term carries
 
 - [[_wiki_en/conceitos/veredictum_exkarthon\|Veredictum Exkarthon]]: extreme legal instrument that requires the Justiciar to examine evidence before passing sentence
 - [[_wiki_en/conceitos/sigilo_de_abbhal\|Sigil of Abbhal]]: eternal imprisonment of the soul in a living body
+- [[_wiki_en/conceitos/foro_privilegiado\|privileged jurisdiction]]: prerogative of the shadow lords, who are tried by the Shadow Council and the monarch
 
 ## Governance and Ceremony
 
@@ -33,15 +34,31 @@ The words the Empire uses to govern were not chosen at random. Each term carries
 - [[_wiki_en/conceitos/vocabulario_administrativo\|Administrative Vocabulary]]: official euphemisms that conceal the nature of procedures
 - [[_wiki_en/conceitos/sistema_de_medidas\|System of Measures]]: distance, time, weight, currency
 
+## Expressions and Usage
+
+- [[_wiki_en/conceitos/canalizador\|channeler]]: imperial term, both official and derogatory, for druids
+- [[_wiki_en/conceitos/khemor\|Khemor]]: the mask of fear, in Shadar usage
+- [[_wiki_en/conceitos/moeda_de_chumbo\|lead coin]]: Shadar slang for something that seems valuable but is fake or toxic
+- [[_wiki_en/eventos/cerco_de_khordun\|Siege of Khordun]]: episode that gave rise to the Orcish expression “carry a barrel”
+
+## Parallel Economy
+
+- [[_wiki_en/conceitos/mercado_negro\|Black Market]]: parallel economy that spans the Empire, tolerated where it is profitable
+- [[_wiki_en/conceitos/livros_razao\|Ledgers]]: black market records, which note only what their owners admit exists
+
 ## Imperial Calendar
 
 - [[_wiki_en/conceitos/varnum\|Varnum]]: annual unit of 365 days (thirteen Lúnias + Nullis)
 - [[_wiki_en/conceitos/lunia\|Lúnia]]: monthly unit of 28 days in four lunar fáscias
 - [[_wiki_en/conceitos/nullis\|Nullis]]: Day of the Void, standalone day between Varnums
 
-## Games and Culture
+## Culture and Daily Life
 
 - [[_wiki_en/conceitos/aroada\|Aroada]]: sport from Myrgarde, with a leather sphere launched through hoops, using feet and shoulders
+- [[_wiki_en/conceitos/a_viuva_de_valdris\|The Widow of Valdris]]: classic play from Myrgarde
+- [[_wiki_en/conceitos/charaba\|charabanc]]: provincial animal-drawn vehicle with four wheels and an elongated body
+- [[_wiki_en/conceitos/casca_viva\|living bark]]: plant material used in the Sylvans’ light armor
+- [[_wiki_en/conceitos/carvalho_mae\|Mother Oak]]: the first oak planted in each sacred grove
 
 ---
 

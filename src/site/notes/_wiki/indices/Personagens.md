@@ -41,10 +41,11 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[_wiki/personagens/vyrensen\|Malachar Vyrensen]]: conselheiro, Coletor de Dívidas
 - [[_wiki/personagens/nyssira_avaroth\|Nyssira Avaroth]]: mãe de Nidzina, nobreza imperial
 - [[_wiki/personagens/zanzer\|Zanzer]]: ex-conselheiro, o Veneno Púrpura, caído em desgraça
+- [[_wiki/personagens/orvhal\|Orvhal]]: lorde provincial de Elenir, participante remoto do Conselho
 
 ## Justiciares, Generais e Militares
 
-- [[_wiki/personagens/vekraal\|Vekraal]]: general “Punho de Arothistar,” Terceira Legião Oriental
+- [[_wiki/personagens/vekraal\|Vekraal]]: general “Punho de Arothistar”, Terceira Legião Oriental
 - [[_wiki/personagens/draven-thol\|Draven-Thol]]: Justiciar, estacionado em Thandruk Varn
 - [[_wiki/personagens/korven\|Korven]]: shadar, oficial da Coletoria de Morvgrad
 - [[_wiki/personagens/valhedras\|Valhedras]]: tenente shadar, aliado de Milorsevogh
@@ -53,6 +54,10 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[_wiki/personagens/kaedhras\|Kaedhras Morvil]]: tenente shadar, estacionado em Xarn’Zareth
 - [[_wiki/personagens/gorvash_tres-cicatrizes\|Gorvash Três-Cicatrizes]]: orc da Terceira Legião
 - [[_wiki/personagens/hugur_comedor-de-ferro\|Hugur Comedor-de-Ferro]]: orc da Terceira Legião
+- [[_wiki/personagens/belev-hesnek\|Belev-Hesnek]]: Justiciar shadar, jurisdição sobre o arco norte
+- [[_wiki/personagens/tashkur\|Tashkur]]: Justiciar shadar, jurisdição sobre a fronteira oriental, a partir de Qadesh
+- [[_wiki/personagens/sarquin\|Sarquin]]: Justiciar shadar, lotado em Morvgrad
+- [[_wiki/personagens/kravex_mordaine\|Kravex Mordaine]]: general shadar das Guerras Reinkárdicas (figura histórica)
 
 ## Matriarcas Druls
 
@@ -73,6 +78,7 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 ## Resistência e Thal’Serin
 
 - [[_wiki/personagens/gaelwyn\|Gaelwyn]]: sylvano, montaraz de Thal’Serin
+- [[_wiki/personagens/felaren\|Felaren]]: sylvano, montaraz veterano da Resistência, ex-soldado dos exércitos élficos
 - [[_wiki/personagens/calel\|Calel]]: sylvano mapeador da Resistência de Thal’Serin, irmão de Mirin
 - [[_wiki/personagens/mirin\|Mirin]]: sylvana, montaraz jovem da Resistência, irmã de Calel
 - [[_wiki/personagens/peredur\|Peredur]]: sylvano, druida ancião, devoto de Titânia
@@ -97,6 +103,8 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[_wiki/personagens/pip\|Pip]]: hallirin, ex-comerciante de Myrgarde, escravo nas forjas
 - [[_wiki/personagens/coveiro-mor\|Coveiro-mor]]: humano, coveiro do Jardim dos Inocentes, prisioneiro em Ghol’Drokh
 - [[_wiki/personagens/ioni\|Ioni]]: humano, filho do Coveiro-mor, morto
+- [[_wiki/personagens/marta\|Marta]]: humana de Myrgarde, devota de São Lucian, morta
+- [[_wiki/personagens/lucian\|Lucian]]: guerreiro humano do tempo dos Luminares, venerado como São Lucian (figura histórica)
 
 ## Magos e Figuras Arcanas
 
@@ -104,6 +112,7 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val’Kir]]: frenim, místico de Neranthis
 - [[_wiki/personagens/xarn\|Xarn]]: shadar ancião, líder espiritual do Culto Sombrio, criador da Lex Obscura
 - [[_wiki/personagens/elzakar\|Elzakar]]: preceptor da Torre de Khargoth, Mestre-Arcanista do Terceiro Círculo
+- [[_wiki/personagens/voxmere\|Voxmere]]: pontífice do Templo de Velmorain
 
 ## Outros Povos
 

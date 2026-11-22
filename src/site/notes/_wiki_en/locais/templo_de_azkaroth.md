@@ -4,11 +4,11 @@
 
 # Temple of Azkaroth
 
-The Temple of Azkaroth is a sanctuary of the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]] carved into the mountain, in the sacred district of [[_wiki_en/locais/xarn_aroth\|Xarn’Aroth]], within the middle ring of [[_wiki_en/locais/mor_draconis\|Mor’Draconis]], in [[_wiki_en/locais/morvgrad\|Morvgrad]]. It is there that the anointings of the [[_wiki_en/organizacoes/justiciares\|Justiciars]] take place. Among the at least twelve diabolical temples in the capital, it remains one of the most active.
+The Temple of Azkaroth is a sanctuary of the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]] carved into the mountain, in the sacred district of [[_wiki_en/locais/xarn_aroth\|Xarn’Aroth]], within the middle ring of [[_wiki_en/locais/mor_draconis\|Mor’Draconis]], in [[_wiki_en/locais/morvgrad\|Morvgrad]]. It is there that the anointings of the [[_wiki_en/organizacoes/justiciares\|Justiciars]] take place. It is one of Morvgrad’s foundations and, among the at least twelve diabolical temples in the capital, remains one of the most active.
 
 ### Architecture
 
-Embedded in the city’s entrails, the temple exhales incense through fissures in the black bone and preserves, in underground galleries, the memory of the [[_wiki_en/eventos/queda_dos_luminares\|Fall of the Luminars]]. The angular architecture compels reverence: the arches point downward and the corridors return echoes from the depths, and from the arches themselves emanates a low hum that makes the stone tremble before reaching the ears. The floor of the main hall is polished obsidian, rows of ancient pillars support the interior, and elevated galleries in half-light allow the ceremonies to be observed. At the high altar hangs a mural painting of [[_wiki_en/personagens/arothistar\|Arothistar]], with eyes of coal and hands raised as judge and executioner.
+Embedded in the city’s entrails, the temple exhales incense through fissures in the black bone and preserves, in underground galleries, the memory of the [[_wiki_en/eventos/queda_dos_luminares\|Fall of the Luminars]]. The angular architecture compels reverence: the arches point downward and the corridors return echoes from the depths, and from the arches themselves emanates a low hum that makes the stone tremble before reaching the ears. The floor of the main hall is polished obsidian, rows of ancient pillars support the interior, and elevated galleries in half-light allow the ceremonies to be observed. At the high altar hangs a mural painting of [[_wiki_en/personagens/arothistar\|Arothistar]], with golden eyes and hands raised as judge and executioner.
 
 ### Function and Hierarchy
 

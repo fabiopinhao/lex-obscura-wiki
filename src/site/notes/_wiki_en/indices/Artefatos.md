@@ -28,6 +28,7 @@ Objects that outlived their creators rarely did so by accident.
 - [[_wiki_en/artefatos/bombarda_ananica\|Dwarven Bombard]]: hybrid dwarven-Shadar artillery
 - [[_wiki_en/artefatos/tegmen\|Tegmen]]: standard armor of the Shadar aristocracy, a status symbol
 - [[_wiki_en/artefatos/insignia_durzken\|Insignia of Durzken]]: ring of authority of the matriarch of House Durzken
+- [[_wiki_en/artefatos/machadacha\|machadacha]]: Grothar’s double-bladed battle-ax
 
 ## Containment Artifacts
 
@@ -37,10 +38,12 @@ Objects that outlived their creators rarely did so by accident.
 ## Religious and Arcane Artifacts
 
 - [[_wiki_en/artefatos/estatueta_de_vozrador\|Statuette of Vozrador]]: obsidian idol from ancient Morvgrad
+- [[_wiki_en/artefatos/gargulas_de_protecao\|Gargoyles of Protection]]: stone statuettes known throughout Reinkard for repelling evil spirits
 
 ## Substances and Alchemy
 
 - [[_wiki_en/artefatos/luto_de_nyssis\|Mourning of Nyssis]]: antimagic alchemical substance distilled from the flower of Nyssis
+- [[_wiki_en/conceitos/sal_tonico\|tonic salt]]: caustic mixture of salts and ironroot used to revive soldiers who have fainted
 
 ## Documents and Texts
 

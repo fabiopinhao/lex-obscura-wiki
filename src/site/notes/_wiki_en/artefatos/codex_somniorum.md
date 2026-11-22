@@ -4,7 +4,7 @@
 
 # Codex Somniorum
 
-The Codex Somniorum, the “Codex of Dreams,” is the standard sacred grimoire of the [[_wiki_en/organizacoes/justiciares\|Justiciars]] of the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]]. More than a book, it presents itself as a living artifact that pulses with the condensed authority of the shadow realm, and each Justiciar carries a copy.
+The Codex Somniorum, the “Codex of Dreams,” is the standard sacred grimoire of the [[_wiki_en/organizacoes/justiciares\|Justiciars]] of the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]]. More than a book, it presents itself as a living artifact that pulses with the condensed authority of the shadow realm, and each Justiciar carries their own copy.
 
 ### Name
 
@@ -12,11 +12,13 @@ Three theories circulate about the origin of the name. One says that the laws ca
 
 ### Form
 
-It is bound in purple leather, with metal clasps shaped like claws.
+It is bound in purple leather, with metal clasps shaped like claws. On its cover it bears the symbol of [[_wiki_en/personagens/arothistar\|Arothistar]] in bas-relief, a mark the book did not display before the monarchy.
 
 ### Tripartite Structure
 
-The Codex is divided into three parts. The [[_wiki_en/conceitos/verbum_arkhon_codex\|Verbum Arkhon]], “the Word of the Sovereign,” collects direct pronouncements from [[_wiki_en/personagens/arothistar\|Arothistar]] (visions, decrees, and shadow parables), written in gold ink on black parchment, held to be infallible and immutable, and required reading during judicial vigils. The [[_wiki_en/conceitos/lex_obscura_decreto\|Lex Obscura]], “Law of Shadows,” contains the laws approved by the [[_wiki_en/organizacoes/conselho_sombrio\|Shadow Council]], organized by categories of crime (treason, heresy, disobedience, negligence), updated every decade, with binding precedents and case law that define punishments and exceptions. The [[_wiki_en/conceitos/tabula_umbrae_codex\|Tabula Umbrae]], “Tablet of Shadows,” is the arcane and alchemical section: spells, poison recipes, truth serums, execution rituals, and sigils for summoning spectral witnesses.
+The Codex is divided into three parts. The [[_wiki_en/conceitos/verbum_arkhon_codex\|Verbum Arkhon]], “the Word of the Sovereign,” collects direct pronouncements from Arothistar (visions, decrees, and shadow parables), written in gold ink on black parchment, held to be infallible and immutable, and required reading during judicial vigils. The [[_wiki_en/conceitos/lex_obscura_decreto\|Lex Obscura]], “Law of Shadows,” contains the laws approved by the [[_wiki_en/organizacoes/conselho_sombrio\|Shadow Council]], organized by categories of crime (treason, heresy, disobedience, negligence), updated every decade, with binding precedents and case law that define punishments and exceptions. The [[_wiki_en/conceitos/tabula_umbrae_codex\|Tabula Umbrae]], “Tablet of Shadows,” is the arcane and alchemical section: spells, poison recipes, truth serums, execution rituals, and sigils for summoning spectral witnesses.
+
+Before the monarchy, when the Lex belonged to Xarn alone, the Lex Obscura was purer, without the Verbum Arkhon superimposed on it.
 
 ### Hermeneutics
 
@@ -32,4 +34,4 @@ Each copy is reproduced at the [[_wiki_en/locais/scriptorium_de_morvgrad\|Script
 
 ### Doctrine
 
-The Codex carries maxims that epitomize its doctrine, such as “Where light fails, shadow judges,” from the Verbum Arkhon, and “Betrayal of the cult is betrayal of oneself,” from the Lex Obscura. Its motto encapsulates the hierarchy of the three parts: *In somniis veritas, in umbris lex, in codice imperium*, that is, in dreams the truth, in shadows the law, in the codex the empire.
+The Codex carries maxims that epitomize its doctrine, such as “Where light fails, shadow judges,” from the Verbum Arkhon, and “Betrayal of the Cult is betrayal of oneself,” from the Lex Obscura. Its motto encapsulates the hierarchy of the three parts: *In somniis veritas, in umbris lex, in codice imperium*, that is, in dreams the truth, in shadows the law, in the codex the Empire.

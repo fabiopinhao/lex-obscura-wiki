@@ -8,7 +8,7 @@
 
 ---
 
-Official record of the universe of **[[_wiki_en/indices/Lex Obscura\|Lex Obscura]]**, a dark fantasy trilogy set in an empire built on blood and bones, where the law weighs more heavily on those who enforce it.
+Official record of the universe of **Lex Obscura**, a dark fantasy trilogy set in an empire built on blood and bones, where the law weighs more heavily on those who enforce it.
 
 **Book I: [[_wiki_en/indices/Verbum Arkhon\|Verbum Arkhon]]** follows the living words that shape the fate of a world ruled by **Arothistar**, the demigod who built an Empire on ashes and forgotten pacts. Magic exacts flesh. To invoke a spell is to accept that the body must pay what the will demanded, and veteran spellcasters bear the cost in hands that tremble, in eyes that no longer focus.
 
@@ -23,7 +23,7 @@ What the Empire keeps secret is not included in this archive. The records of peo
 - **[[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]]**: the sovereign State of Arothistar
 - **[[_wiki_en/organizacoes/justiciares\|Justiciars]]**: judicial arm, judges with power over life and death
 - **[[_wiki_en/racas/shadar\|Shadar]]**: humans with a vampiric appearance who rule Reinkard with the calculated efficiency of those who traded light for control, and never looked back
-- **[[_wiki_en/indices/Sistema de Magia\|Magic System]]**: five colors, thirty schools, and ontological costs
+- **[[_wiki_en/locais/morvgrad\|Morvgrad]]**: the imperial capital, the seat of Arothistar’s power
 
 ---
 

@@ -41,6 +41,7 @@ No one in this Empire is innocent. Some simply have not yet been judged.
 - [[_wiki_en/personagens/vyrensen\|Malachar Vyrensen]]: Councilor, Collector of Debts
 - [[_wiki_en/personagens/nyssira_avaroth\|Nyssira Avaroth]]: Nidzina’s mother, imperial nobility
 - [[_wiki_en/personagens/zanzer\|Zanzer]]: former Councilor, the Purple Poison, fallen from favor
+- [[_wiki_en/personagens/orvhal\|Orvhal]]: provincial lord of Elenir, remote participant in the Council
 
 ## Justiciars, Generals, and Military Personnel
 
@@ -53,6 +54,10 @@ No one in this Empire is innocent. Some simply have not yet been judged.
 - [[_wiki_en/personagens/kaedhras\|Kaedhras Morvil]]: Shadar lieutenant, stationed in Xarn’Zareth
 - [[_wiki_en/personagens/gorvash_tres-cicatrizes\|Gorvash Three-Scars]]: orc of the Third Legion
 - [[_wiki_en/personagens/hugur_comedor-de-ferro\|Hugur Iron-Eater]]: orc of the Third Legion
+- [[_wiki_en/personagens/belev-hesnek\|Belev-Hesnek]]: Shadar Justiciar, with jurisdiction over the northern arc
+- [[_wiki_en/personagens/tashkur\|Tashkur]]: Shadar Justiciar, with jurisdiction over the eastern frontier, based in Qadesh
+- [[_wiki_en/personagens/sarquin\|Sarquin]]: Shadar Justiciar, assigned to Morvgrad
+- [[_wiki_en/personagens/kravex_mordaine\|Kravex Mordaine]]: Shadar general of the Reinkardic Wars (historical figure)
 
 ## Drul Matriarchs
 
@@ -73,6 +78,7 @@ No one in this Empire is innocent. Some simply have not yet been judged.
 ## Resistance and Thal’Serin
 
 - [[_wiki_en/personagens/gaelwyn\|Gaelwyn]]: Sylvan, ranger of Thal’Serin
+- [[_wiki_en/personagens/felaren\|Felaren]]: Sylvan, veteran ranger of the Resistance, former soldier of the elven armies
 - [[_wiki_en/personagens/calel\|Calel]]: Sylvan mapper of the Resistance of Thal’Serin, Mirin’s brother
 - [[_wiki_en/personagens/mirin\|Mirin]]: Sylvan, young ranger of the Resistance, Calel’s sister
 - [[_wiki_en/personagens/peredur\|Peredur]]: Sylvan, elder druid, devotee of Titânia
@@ -97,6 +103,8 @@ No one in this Empire is innocent. Some simply have not yet been judged.
 - [[_wiki_en/personagens/pip\|Pip]]: Hallirin, former trader of Myrgarde, slave in the forges
 - [[_wiki_en/personagens/coveiro-mor\|the Sexton]]: human, gravedigger of the Garden of the Innocents, prisoner in Ghol’Drokh
 - [[_wiki_en/personagens/ioni\|Ioni]]: human, son of the Sexton, dead
+- [[_wiki_en/personagens/marta\|Marta]]: human from Myrgarde, devotee of Saint Lucian, dead
+- [[_wiki_en/personagens/lucian\|Lucian]]: human warrior from the time of the Luminars, venerated as Saint Lucian (historical figure)
 
 ## Mages and Arcane Figures
 
@@ -104,6 +112,7 @@ No one in this Empire is innocent. Some simply have not yet been judged.
 - [[_wiki_en/personagens/lorvaq_val_kir\|Lorvaq Val’Kir]]: Frenim, mystic of Neranthis
 - [[_wiki_en/personagens/xarn\|Xarn]]: elder Shadar, spiritual leader of the Shadow Cult, creator of Lex Obscura
 - [[_wiki_en/personagens/elzakar\|Elzakar]]: preceptor of the Tower of Khargoth, Master Arcanist of the Third Circle
+- [[_wiki_en/personagens/voxmere\|Voxmere]]: pontiff of the Temple of Velmorain
 
 ## Other Peoples
 

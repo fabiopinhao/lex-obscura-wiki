@@ -26,6 +26,7 @@ The Empire functions because every cog believes itself indispensable. None is.
 
 - [[_wiki_en/organizacoes/templarios\|Templars]]: old military-religious order, weakened by the Justiciars
 - [[_wiki_en/organizacoes/ophideias\|Ophideias]]: Drul spy-assassin hierophants
+- [[_wiki_en/organizacoes/koltenmor\|Koltenmor]]: elven regiment of Elarins and Sylvans, broken up in the first clash with the orcs
 
 ## Cults and Religious Factions
 
@@ -50,6 +51,7 @@ The Empire functions because every cog believes itself indispensable. None is.
 
 - [[_wiki_en/organizacoes/circulos_de_khargoth\|the Circles of Khargoth]]: arcane academy, hierarchical system of knowledge
 - [[_wiki_en/organizacoes/guilda_dos_gnomos\|Gnome Guild]]: organized crime, black market, and counterfeiting
+- [[_wiki_en/organizacoes/guilda_de_engrenagens\|the Gear Guild]]: workshop-city and illegal brotherhood of gnome inventors
 - [[_wiki_en/organizacoes/khelg_dur\|Khelg’Dur]]: Karashim trading house, isopod caravans in Vor-Ghol
 - [[_wiki_en/organizacoes/tradicao_de_sirana\|Tradition of Sirana]]: contemplative discipline that trains Nalvirins for Meditatio Aetheris, in the Frenim citadels
 

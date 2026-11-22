@@ -28,6 +28,7 @@ Objetos que sobreviveram a seus criadores raramente o fizeram por acidente.
 - [[_wiki/artefatos/bombarda_ananica\|Bombarda Anânica]]: artilharia híbrida anã-shadar
 - [[_wiki/artefatos/tegmen\|Tegmen]]: armadura padrão da aristocracia shadar, símbolo de status
 - [[_wiki/artefatos/insignia_durzken\|Insígnia de Durzken]]: anel de autoridade da matriarca da Casa Durzken
+- [[_wiki/artefatos/machadacha\|Machadacha]]: machado de guerra de duas lâminas de Grothar
 
 ## Artefatos de Contenção
 
@@ -37,10 +38,12 @@ Objetos que sobreviveram a seus criadores raramente o fizeram por acidente.
 ## Artefatos Religiosos e Arcanos
 
 - [[_wiki/artefatos/estatueta_de_vozrador\|Estatueta de Vozrador]]: ídolo de obsidiana de Morvgrad antiga
+- [[_wiki/artefatos/gargulas_de_protecao\|Gárgulas de Proteção]]: estatuetas de pedra conhecidas em toda Reinkard por repelir espíritos malignos
 
 ## Substâncias e Alquimia
 
 - [[_wiki/artefatos/luto_de_nyssis\|Luto de Nyssis]]: substância alquímica antimagia destilada da flor de Nyssis
+- [[_wiki/conceitos/sal_tonico\|Sal Tônico]]: mistura cáustica de sais e raiz-de-ferro para reanimar soldados desmaiados
 
 ## Documentos e Textos
 

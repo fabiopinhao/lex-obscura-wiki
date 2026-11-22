@@ -16,7 +16,11 @@ Milorsevogh era o sétimo Justiciar vivo, de vinte e sete ordenados ao longo de 
 
 ### O Decano
 
-[[_wiki/personagens/orum-rahru\|Orum-Rahru]], o primeiro e o mais velho dos Justiciares, assistiu à cerimônia da galeria do templo, ao lado de [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]], sua pupila. Aos noventa e nove anos, servia havia quarenta e quatro, e sua fé em [[_wiki/panteao/vozrador\|Vozrador]], o deus a quem dedicara a vida inteira, permanecia inabalável.
+[[_wiki/personagens/orum-rahru\|Orum-Rahru]], o primeiro e o mais velho dos Justiciares, assistiu à cerimônia da galeria do templo, ao lado de [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]], sua pupila. Aos noventa e nove anos, servia havia quarenta e quatro, e sua fé em [[_wiki/panteao/vozrador\|Vozrador]], o deus a quem dedicara a vida inteira, permanecia inabalável, ainda que ele se sentisse abandonado pelo deus.
+
+### A assembleia
+
+Os outros três Justiciares presentes, [[_wiki/personagens/sarquin\|Sarquin]], [[_wiki/personagens/belev-hesnek\|Belev-Hesnek]] e [[_wiki/personagens/tashkur\|Tashkur]], repetiram a reverência ao novo colega. A sexta cadeira, a de [[_wiki/personagens/draven-thol\|Draven-Thol]], ficou vazia. Quatro membros do [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], uns de capuz, outros de máscara, abriram a reverência da assembleia, que reunia sacerdotisas [[_wiki/racas/drul\|drul]] de [[_wiki/locais/xarn_zareth\|Xarn’Zareth]], necromantes, bruxos, generais, majores e tenentes. Um dos dois iniciados que levaram os instrumentos do ofício era drul. Nem [[_wiki/personagens/arothistar\|Arothistar]] nem [[_wiki/personagens/xarn\|Xarn]] assistem às unções, ao menos pessoalmente; a voz que pede, do escuro entre os pilares, que os olhos do ausente estejam abertos faz parte do rito.
 
 ### Depois
 

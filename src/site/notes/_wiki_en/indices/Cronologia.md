@@ -49,7 +49,9 @@ Overviews of the Reinkardic Wars: [[_wiki_en/conceitos/guerras_reinkardicas_a_so
 
 ## Reinkardic Wars
 
+- [[_wiki_en/conceitos/guerras_reinkardicas\|Reinkardic Wars]]: the continental conflict that ended the Second Era and gave rise to the Shadow Empire
 - [[_wiki_en/eventos/guerras_reinkardicas_inicio\|Beginning of the Wars]]: the Cult depleted the plateau; about fifty years of continental conflict
+- [[_wiki_en/eventos/conversao_de_dravhok\|Conversion of Dravhok]]: the Rite of Ossárium by which a human became a Shadar and took the name Dravhok
 - [[_wiki_en/eventos/submissao_da_ventrista\|Submission of Ventrista]]: fertile lands at the base of the plateau; first target of the descent
 - [[_wiki_en/eventos/ataque_fracassado_a_thalserin\|Failed Attack on Thal’Serin]]: sacred forest resisted; Vozrador’s pact with the titans protected it
 - [[_wiki_en/eventos/frentes_de_guerra_e_destino_das_racas\|Fate of the Races]]: Sylvans, humans, and gnomes enslaved; Gerut survived because of the titanic terrain
@@ -74,6 +76,7 @@ Overviews of the Reinkardic Wars: [[_wiki_en/conceitos/guerras_reinkardicas_a_so
 - [[_wiki_en/eventos/tensoes_e_ameacas_da_terceira_era\|Tensions of the Third Era]]: weakened Drul alliance; orc migration; twenty of twenty-seven Justiciars dead
 - [[_wiki_en/eventos/cadeia_da_fendris\|Chain of Fendris]]: theft of the Luminar dagger from Dessian Broel’s private museum; the person who commissioned it and the motive remain unknown
 - [[_wiki_en/eventos/sabotagem_nas_forjas_de_thandruk_varn\|Sabotage in the Forges]]: drop in production in Thandruk Varn; nature and perpetrator unknown
+- [[_wiki_en/eventos/desaparecimento_de_draven-thol\|Disappearance of Draven-Thol]]: the Justiciar of Thandruk Varn vanished without a body, witnesses, or clues
 - [[_wiki_en/eventos/uncao_de_milorsevogh\|Anointing of Milorsevogh]]: seventh living Justiciar; received Spina Lexis, Codex, and Oculus in the Temple of Azkaroth
 - [[_wiki_en/eventos/nexus_silenciados_na_fortaleza_de_cristal\|Silenced Nexuses]]: Elenir’s crystals active but silenced from the inside out; deliberate sabotage
 

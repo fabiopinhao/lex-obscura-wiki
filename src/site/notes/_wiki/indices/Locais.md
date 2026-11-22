@@ -16,6 +16,7 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 - [[_wiki/locais/valdris\|Valdris]]: cidade-porto costeira, saída imperial para o oceano
 - [[_wiki/locais/varnak\|Varnak]]: região montanhosa em Veinkard, território tribal fragmentado
 - [[_wiki/locais/qadesh\|Qadesh]]: cidade-estado vassala no deserto oriental
+- [[_wiki/locais/noventia\|Noventia]]: povoado da Ventrista, na estrada de Myrgarde ao planalto
 
 ## Domínios conquistados
 
@@ -31,22 +32,27 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 - [[_wiki/locais/khar_tabreth\|Khar’Tabreth]]: Torre das Tábuas, arquivos e registros do Culto
 - [[_wiki/locais/khargoth\|Khargoth]]: torre arcana em Morvgrad, círculos hierárquicos de acesso
 - [[_wiki/locais/dhar-morveth\|Dhar-Morveth]]: planalto shadar onde Morvgrad foi erguida
+- [[_wiki/locais/fortalezas_orquicas_do_planalto\|Fortalezas Órquicas do Planalto]]: guarnições que cercam o perímetro de Dhar-Morveth
+  - [[_wiki/locais/drakmur\|Drakmur]]: a mais notória delas, próxima a Morvgrad
+  - [[_wiki/locais/druzhal\|Drúzhal]] · [[_wiki/locais/kharurz\|Kharúrz]] · [[_wiki/locais/vrokhmakh\|Vrokhmakh]]: demais guarnições do perímetro
 
 ## Locais Élficos e Antigos
 
 - [[_wiki/locais/elenir\|Elenir]]: castelo élfico, Fortaleza de Cristal, rico em magi
 - [[_wiki/locais/thal_serin\|Thal’Serin]]: floresta sagrada, refúgio dos sylvanos livres
 - [[_wiki/locais/lendalas\|Lendalas]]: floresta destruída por fogo alquímico de Vekraal
+- [[_wiki/locais/velintrae\|Velintrae]]: reino élfico das florestas ocidentais, conquistado nas Guerras Reinkárdicas
 
 ## Subterrâneo e Montanhas
 
-- [[_wiki/locais/vor-ghol\|Vor-Ghol]]: o Underdark, lar ancestral dos druls
+- [[_wiki/locais/vor-ghol\|Vor-Ghol]]: rede de cavernas e cidades subterrâneas, lar ancestral dos druls
 - [[_wiki/locais/ghilanna\|Ghilanna]]: cidadela drul em Vor-Ghol, sede matriarcal da Casa Durzken
 - [[_wiki/locais/xarn_zareth\|Xarn’Zareth]]: distrito sagrado em Ghilanna, Eparquia de Jaakurs
 - [[_wiki/locais/thandruk_varn\|Thandruk Varn]]: cidadela anã, forjas mestras dos arsenais imperiais
 - [[_wiki/locais/ghol_mournak\|Ghol’Mournak]]: nível subterrâneo sob Morvgrad; galerias inferiores com os poços de piche, onde Nyx’Ara atende
   - [[_wiki/locais/camara_de_othuun\|Câmara de Othuun]]: passagem para Ghol’Mournak; escadaria de 500 degraus sussurrantes
   - [[_wiki/locais/poco_etereo\|Poço Etéreo]]: nexo central de comunicações do Oculus
+  - [[_wiki/locais/ghol_maveth\|Ghol’Maveth]]: distrito das câmaras mais profundas de Ghol’Mournak
 - [[_wiki/locais/ghargash\|Ghargash]]: forte tribal, carnificina que marcou a juventude de Grothar
 
 ## Continentes e Regiões
@@ -54,21 +60,21 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 - [[_wiki/locais/thamakard\|Thamakard]]: plano material, contém Reinkard, Veinkard e Neranthis
 - [[_wiki/locais/reinkard\|Reinkard]]: continente central, hegemonia shadar
 - [[_wiki/locais/veinkard\|Veinkard]]: cordilheira e continente a oeste de Reinkard
-- [[_wiki/locais/ventrista\|Ventrista]]: região agrícola na base do planalto Shadar
+- [[_wiki/locais/ventrista\|Ventrista]]: região agrícola na base do planalto shadar
+- [[_wiki/locais/terras_geladas_do_norte\|Terras Geladas do Norte]]: tundras, geleiras e montanhas no extremo norte de Reinkard
 - [[_wiki/locais/karanthia\|Karanthia]]: província pobre na costa sul-oriental, a leste de Valdris
 - [[_wiki/locais/rio_parveni\|Rio Parveni]]: rio principal da Ventrista, corta Niedellin
 - [[_wiki/locais/dorsal\|Dorsal]]: cordilheira, fronteira natural entre Reinkard e Veinkard
 - [[_wiki/locais/pico_de_nethys\|Pico de Nethys]]: pico mais elevado da Dorsal, antigo ninho de dragão
-- [[_wiki/locais/neranthis\|Neranthis]]: continente independente das raças azuis
+- [[_wiki/locais/neranthis\|Neranthis]]: continente independente a leste, terra de frenins, undines e ranidanos
 - [[_wiki/locais/therion\|Therion]]: fortaleza da Primeira Era, onde foram compilados os Maleficários
 - [[_wiki/locais/xilaverth\|Xilaverth]]: cidadela drul hostil a Ghilanna em Vor-Ghol
 
 ## Locais Sagrados e Arcanos
 
 - [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]]: templo do diabo Azkaroth, unção dos Justiciares
-- [[_wiki/locais/templo_de_velmorain\|Templo de Velmorain]]: templo do diabo Velmorain, Cosmic Veil
+- [[_wiki/locais/templo_de_velmorain\|Templo de Velmorain]]: templo do diabo Velmorain, o Véu Cósmico
 - [[_wiki/locais/templo_de_vozrador\|Templo de Vozrador]]: templo abandonado do diabo Vozrador, infestado de mortos-vivos
-- [[_wiki/locais/poco_etereo\|Poço Etéreo]]: nexo central de comunicações do Oculus em Ghol’Mournak
 - [[_wiki/locais/scriptorium_de_morvgrad\|Scriptorium de Morvgrad]]: ala de copistas e exegetas do Codex Somniorum
 
 ## Marcos Urbanos de Morvgrad
@@ -89,6 +95,7 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
   - [[_wiki/locais/coracao_oco\|Coração Oco]]: cárcere e sala de interrogatório de acústica deformante
   - [[_wiki/locais/drokh_malahar\|Drokh’Malahar]]: pisos abissais de Ghol’Drokh, câmaras de tortura perpétua
 - [[_wiki/locais/fossa_dos_suplicantes\|Fossa dos Suplicantes]]: abismo urbano em Morvgrad
+- [[_wiki/locais/poco_dos_lamentos\|Poço dos Lamentos]]: antiga mina de sal sob Morvgrad, hoje prisão
 - [[_wiki/locais/fosso_da_purga\|Fosso da Purga]]: local de execuções sumárias
 - [[_wiki/locais/ermo_de_lendalas\|Ermo de Lendalas]]: descampado de cinzas onde Lendalas foi queimada
 - [[_wiki/locais/jardim_dos_inocentes\|Jardim dos Inocentes]]: cemitério de Myrgarde

@@ -16,6 +16,7 @@ Every stone of this Empire was laid upon something else. It is best not to ask w
 - [[_wiki_en/locais/valdris\|Valdris]]: coastal port city, imperial outlet to the ocean
 - [[_wiki_en/locais/varnak\|Varnak]]: mountainous region in Veinkard, fragmented tribal territory
 - [[_wiki_en/locais/qadesh\|Qadesh]]: vassal city-state in the eastern desert
+- [[_wiki_en/locais/noventia\|Noventia]]: settlement in Ventrista, on the road from Myrgarde to the plateau
 
 ## Conquered Domains
 
@@ -31,22 +32,27 @@ Every stone of this Empire was laid upon something else. It is best not to ask w
 - [[_wiki_en/locais/khar_tabreth\|Khar’Tabreth]]: Tower of Tablets, archives and records of the Cult
 - [[_wiki_en/locais/khargoth\|Khargoth]]: arcane tower in Morvgrad, hierarchical circles of access
 - [[_wiki_en/locais/dhar-morveth\|Dhar-Morveth]]: Shadar plateau where Morvgrad was built
+- [[_wiki_en/locais/fortalezas_orquicas_do_planalto\|orcish fortresses of the Plateau]]: garrisons surrounding the perimeter of Dhar-Morveth
+  - [[_wiki_en/locais/drakmur\|Drakmur]]: the most notorious of them, near Morvgrad
+  - [[_wiki_en/locais/druzhal\|Drúzhal]] · [[_wiki_en/locais/kharurz\|Kharúrz]] · [[_wiki_en/locais/vrokhmakh\|Vrokhmakh]]: other garrisons on the perimeter
 
 ## Elven and Ancient Sites
 
 - [[_wiki_en/locais/elenir\|Elenir]]: elven castle, Crystal Fortress, rich in magi
 - [[_wiki_en/locais/thal_serin\|Thal’Serin]]: sacred forest, refuge of the free Sylvans
 - [[_wiki_en/locais/lendalas\|Lendalas]]: forest destroyed by Vekraal’s alchemical fire
+- [[_wiki_en/locais/velintrae\|Velintrae]]: elven kingdom of the western forests, conquered in the Reinkardic Wars
 
 ## Underground and Mountains
 
-- [[_wiki_en/locais/vor-ghol\|Vor-Ghol]]: the Underdark, ancestral home of the Druls
+- [[_wiki_en/locais/vor-ghol\|Vor-Ghol]]: network of caves and underground cities, ancestral home of the Druls
 - [[_wiki_en/locais/ghilanna\|Ghilanna]]: Drul citadel in Vor-Ghol, matriarchal seat of House Durzken
 - [[_wiki_en/locais/xarn_zareth\|Xarn’Zareth]]: sacred district in Ghilanna, Eparchy of Jaakurs
 - [[_wiki_en/locais/thandruk_varn\|Thandruk Varn]]: dwarven citadel, master forges of the imperial arsenals
 - [[_wiki_en/locais/ghol_mournak\|Ghol’Mournak]]: subterranean level beneath Morvgrad; lower galleries with the tar pits, where Nyx’Ara receives visitors
   - [[_wiki_en/locais/camara_de_othuun\|Chamber of Othuun]]: passage to Ghol’Mournak; stairway of 500 whispering steps
   - [[_wiki_en/locais/poco_etereo\|Ethereal Well]]: central communications nexus of the Oculus
+  - [[_wiki_en/locais/ghol_maveth\|Ghol’Maveth]]: district of the deepest chambers of Ghol’Mournak
 - [[_wiki_en/locais/ghargash\|Ghargash]]: tribal fort, carnage that marked Grothar’s youth
 
 ## Continents and Regions
@@ -55,20 +61,20 @@ Every stone of this Empire was laid upon something else. It is best not to ask w
 - [[_wiki_en/locais/reinkard\|Reinkard]]: central continent, Shadar hegemony
 - [[_wiki_en/locais/veinkard\|Veinkard]]: mountain range and continent west of Reinkard
 - [[_wiki_en/locais/ventrista\|Ventrista]]: agricultural region at the base of the Shadar plateau
+- [[_wiki_en/locais/terras_geladas_do_norte\|Northern Frozen Lands]]: tundras, glaciers, and mountains in the far north of Reinkard
 - [[_wiki_en/locais/karanthia\|Karanthia]]: poor province on the southeastern coast, east of Valdris
 - [[_wiki_en/locais/rio_parveni\|River Parveni]]: main river of Ventrista, runs through Niedellin
 - [[_wiki_en/locais/dorsal\|Dorsal]]: mountain range, natural border between Reinkard and Veinkard
 - [[_wiki_en/locais/pico_de_nethys\|Peak of Nethys]]: highest peak in the Dorsal, former dragon’s nest
-- [[_wiki_en/locais/neranthis\|Neranthis]]: independent continent of the blue races
+- [[_wiki_en/locais/neranthis\|Neranthis]]: independent continent to the east, land of Frenims, undines, and Ranidans
 - [[_wiki_en/locais/therion\|Therion]]: First Era fortress, where the Maleficários were compiled
 - [[_wiki_en/locais/xilaverth\|Xilaverth]]: Drul citadel hostile to Ghilanna in Vor-Ghol
 
 ## Sacred and Arcane Sites
 
 - [[_wiki_en/locais/templo_de_azkaroth\|Temple of Azkaroth]]: temple of the devil Azkaroth, anointing of the Justiciars
-- [[_wiki_en/locais/templo_de_velmorain\|Temple of Velmorain]]: temple of the devil Velmorain, Cosmic Veil
+- [[_wiki_en/locais/templo_de_velmorain\|Temple of Velmorain]]: temple of the devil Velmorain, the Cosmic Veil
 - [[_wiki_en/locais/templo_de_vozrador\|temple of Vozrador]]: abandoned temple of the devil Vozrador, infested with undead
-- [[_wiki_en/locais/poco_etereo\|Ethereal Well]]: central communications nexus of the Oculus in Ghol’Mournak
 - [[_wiki_en/locais/scriptorium_de_morvgrad\|Scriptorium of Morvgrad]]: wing of copyists and exegetes of the Codex Somniorum
 
 ## Urban Landmarks of Morvgrad
@@ -89,6 +95,7 @@ Every stone of this Empire was laid upon something else. It is best not to ask w
   - [[_wiki_en/locais/coracao_oco\|Hollow Heart]]: prison and interrogation room with distorting acoustics
   - [[_wiki_en/locais/drokh_malahar\|Drokh’Malahar]]: abyssal levels of Ghol’Drokh, chambers of perpetual torture
 - [[_wiki_en/locais/fossa_dos_suplicantes\|Pit of the Supplicants]]: urban abyss in Morvgrad
+- [[_wiki_en/locais/poco_dos_lamentos\|Well of Lamentations]]: former salt mine beneath Morvgrad, now a prison
 - [[_wiki_en/locais/fosso_da_purga\|Pit of the Purge]]: site of summary executions
 - [[_wiki_en/locais/ermo_de_lendalas\|Waste of Lendalas]]: open expanse of ashes where Lendalas was burned
 - [[_wiki_en/locais/jardim_dos_inocentes\|Garden of the Innocents]]: cemetery of Myrgarde

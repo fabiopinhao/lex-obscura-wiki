@@ -154,6 +154,7 @@ Thirty schools, divided among the five colors of the arcane spectrum. Each schoo
 - [[_wiki_en/magia/deteccao_de_alinhamento\|Alignment Detection]]: identification of magical color
 - [[_wiki_en/magia/maledictus_fidejussor\|Maledictus Fidejussor]]: contractual curse
 - [[_wiki_en/magia/macula-sombria\|Dark Taint]]: arcane corruption
+- [[_wiki_en/magia/teia_verde\|greenweave]]: ancestral druidic magic that bends light and sound and creates a separate pocket of the world
 
 ## Costs and Consequences
 

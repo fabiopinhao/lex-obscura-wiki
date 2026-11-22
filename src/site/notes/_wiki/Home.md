@@ -8,7 +8,7 @@
 
 ---
 
-Registro oficial do universo de **[[_wiki/indices/Lex Obscura\|Lex Obscura]]**, uma trilogia de dark fantasy ambientada num império erguido sobre sangue e ossos, onde a lei pesa mais nos que a executam.
+Registro oficial do universo de **Lex Obscura**, uma trilogia de dark fantasy ambientada num império erguido sobre sangue e ossos, onde a lei pesa mais nos que a executam.
 
 O **Livro I: [[_wiki/indices/Verbum Arkhon\|Verbum Arkhon]]** acompanha as palavras vivas que moldam o destino de um mundo governado por **Arothistar**, o semideus que ergueu um Império sobre cinzas e pactos esquecidos. A magia cobra carne. Invocar um feitiço é aceitar que o corpo pague o que a vontade exigiu, e conjuradores veteranos carregam a conta nas mãos que tremem, nos olhos que já não focam.
 
@@ -23,7 +23,7 @@ O que o Império mantém em segredo não consta deste arquivo. Os registros de p
 - **[[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]**: o Estado soberano de Arothistar
 - **[[_wiki/organizacoes/justiciares\|Justiciares]]**: braço judiciário, juízes com poder de vida e morte
 - **[[_wiki/racas/shadar\|Shadar]]**: humanos de aparência vampírica que governam Reinkard com a eficiência calculada de quem trocou a luz por controle, e nunca olhou para trás
-- **[[_wiki/indices/Sistema de Magia\|Sistema de Magia]]**: cinco cores, trinta escolas e custos ontológicos
+- **[[_wiki/locais/morvgrad\|Morvgrad]]**: a capital imperial, sede do poder de Arothistar
 
 ---
 

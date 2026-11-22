@@ -28,4 +28,4 @@ Na campanha de Elenir coube-lhe a logística: manteve viva a rota de abastecimen
 
 ### Relações
 
-Com Orum-Rahru mantém uma relação de respeito tenso: os dois divergem sobre o destino do [[_wiki/organizacoes/imperio_sombrio\|Império]], e Milor não romantiza a era que Orum defende. Os dois se reencontram em Ghol’Drokh, onde Milor opera como carrasco-mor. Mantém rivalidade antiga com [[_wiki/personagens/vekraal\|Vekraal]], que vem das Guerras Reinkárdicas, e um aliado de lealdade firme em [[_wiki/personagens/grothar\|Grothar]], cuja confiança ele conquistou em vez de receber.
+Com Orum-Rahru mantém uma relação de respeito tenso: os dois divergem sobre o destino do [[_wiki/organizacoes/imperio_sombrio\|Império]], e Milor não romantiza a era que Orum defende. Os dois se reencontram em Ghol’Drokh, onde Milor era então carrasco-mor. Mantém rivalidade antiga com [[_wiki/personagens/vekraal\|Vekraal]], que vem das Guerras Reinkárdicas, e um aliado de lealdade firme em [[_wiki/personagens/grothar\|Grothar]], cuja confiança ele conquistou em vez de receber.

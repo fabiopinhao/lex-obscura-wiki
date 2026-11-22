@@ -4,11 +4,11 @@
 
 # Templo de Azkaroth
 
-O Templo de Azkaroth é um santuário do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]] escavado na montanha, no distrito sagrado de [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], dentro do anel médio de [[_wiki/locais/mor_draconis\|Mor’Draconis]], em [[_wiki/locais/morvgrad\|Morvgrad]]. É ali que se realizam as unções dos [[_wiki/organizacoes/justiciares\|Justiciares]]. Entre os ao menos doze templos diabólicos da capital, permanece um dos mais ativos.
+O Templo de Azkaroth é um santuário do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]] escavado na montanha, no distrito sagrado de [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], dentro do anel médio de [[_wiki/locais/mor_draconis\|Mor’Draconis]], em [[_wiki/locais/morvgrad\|Morvgrad]]. É ali que se realizam as unções dos [[_wiki/organizacoes/justiciares\|Justiciares]]. É uma das fundações de Morvgrad e, entre os ao menos doze templos diabólicos da capital, permanece um dos mais ativos.
 
 ### Arquitetura
 
-Cravado nas entranhas da cidade, o templo exala incenso pelas fissuras do osso negro e guarda, em galerias subterrâneas, a memória da [[_wiki/eventos/queda_dos_luminares\|Queda dos Luminares]]. A arquitetura angular força reverência: os arcos apontam para baixo e os corredores devolvem ecos das profundezas, e dos próprios arcos emana um zumbido grave que estremece a pedra antes de alcançar os ouvidos. O piso do salão principal é de obsidiana polida, fileiras de pilares antigos sustentam o interior, e galerias elevadas em penumbra permitem observar as cerimônias. No altar-mor pende uma pintura mural de [[_wiki/personagens/arothistar\|Arothistar]], de olhos de carvão e mãos erguidas como juiz e carrasco.
+Cravado nas entranhas da cidade, o templo exala incenso pelas fissuras do osso negro e guarda, em galerias subterrâneas, a memória da [[_wiki/eventos/queda_dos_luminares\|Queda dos Luminares]]. A arquitetura angular força reverência: os arcos apontam para baixo e os corredores devolvem ecos das profundezas, e dos próprios arcos emana um zumbido grave que estremece a pedra antes de alcançar os ouvidos. O piso do salão principal é de obsidiana polida, fileiras de pilares antigos sustentam o interior, e galerias elevadas em penumbra permitem observar as cerimônias. No altar-mor pende uma pintura mural de [[_wiki/personagens/arothistar\|Arothistar]], de olhos dourados e mãos erguidas como juiz e carrasco.
 
 ### Função e Hierarquia
 

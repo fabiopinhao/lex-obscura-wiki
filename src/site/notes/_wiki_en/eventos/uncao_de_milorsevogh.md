@@ -16,7 +16,11 @@ Milorsevogh was the seventh living Justiciar, out of twenty-seven ordained over 
 
 ### The Dean
 
-[[_wiki_en/personagens/orum-rahru\|Orum-Rahru]], the first and oldest of the Justiciars, watched the ceremony from the gallery of the Temple, beside [[_wiki_en/personagens/nidzina_avaroth\|Nidzina Avaroth]], his pupil. At ninety-nine years of age, he had served for forty-four, and his faith in [[_wiki_en/panteao/vozrador\|Vozrador]], the god to whom he had dedicated his entire life, remained unshakable.
+[[_wiki_en/personagens/orum-rahru\|Orum-Rahru]], the first and oldest of the Justiciars, watched the ceremony from the gallery of the Temple, beside [[_wiki_en/personagens/nidzina_avaroth\|Nidzina Avaroth]], his pupil. At ninety-nine years of age, he had served for forty-four, and his faith in [[_wiki_en/panteao/vozrador\|Vozrador]], the god to whom he had dedicated his entire life, remained unshakable, even though he felt abandoned by the god.
+
+### The Assembly
+
+The other three Justiciars present, [[_wiki_en/personagens/sarquin\|Sarquin]], [[_wiki_en/personagens/belev-hesnek\|Belev-Hesnek]], and [[_wiki_en/personagens/tashkur\|Tashkur]], repeated the bow to their new colleague. The sixth chair, [[_wiki_en/personagens/draven-thol\|Draven-Thol]]’s, remained empty. Four members of the [[_wiki_en/organizacoes/conselho_sombrio\|Shadow Council]], some hooded and others masked, began the assembly’s bow; the assembly brought together female [[_wiki_en/racas/drul\|Drul]] hierophants from [[_wiki_en/locais/xarn_zareth\|Xarn’Zareth]], necromancers, wizards, generals, majors, and lieutenants. One of the two initiates who carried the instruments of office was Drul. Neither [[_wiki_en/personagens/arothistar\|Arothistar]] nor [[_wiki_en/personagens/xarn\|Xarn]] attends the anointings, at least in person; the voice that asks, from the darkness between the pillars, that the absent one’s eyes be open is part of the rite.
 
 ### Afterward
 

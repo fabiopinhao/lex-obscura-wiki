@@ -23,6 +23,7 @@ The structure of the planes, the divine hierarchy, and the forces that sustain o
 - [[_wiki_en/cosmologia/cor_arcana\|Arcane Color]]: the statistical affinity between each race and the gods of its color
 - [[_wiki_en/cosmologia/monogamia_divina\|Divine Monogamy]]: why the gods rarely share their servants
 - [[_wiki_en/cosmologia/mecanismos_divinos\|Divine Mechanisms]]: how divine power crosses the veil and operates on the material plane
+- [[_wiki_en/cosmologia/manifestacoes_divinas\|Divine Manifestations]]: the ways a god touches the material plane without being invoked
 - [[_wiki_en/cosmologia/noctiluz\|Noctiluz]]: the light that emanates from ruptures in the celestial veil
 - [[_wiki_en/cosmologia/marca_das_luas_gemeas\|Mark of the Twin Moons]]: the druidic tattoo of initiates in Titânia’s third circle
 
@@ -39,6 +40,7 @@ The structure of the planes, the divine hierarchy, and the forces that sustain o
 
 - [[_wiki_en/cosmologia/magi\|Magi]]: the arcane energy that permeates Thamakard, the substrate of every invocation and divine bond
 - [[_wiki_en/cosmologia/canal_magi\|Magi Channel]]: the link between extradimensional entities and mortals, crossing the ethereal plane
+- [[_wiki_en/cosmologia/nexus\|Nexus Magi]]: a concentration of magi fixed in matter, where ordinary mineral becomes magi crystal
 
 ## The Five Orders
 

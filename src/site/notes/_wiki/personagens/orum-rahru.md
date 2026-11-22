@@ -36,4 +36,4 @@ Domina o [[_wiki/magia/teru\|Teru]], a magia não-pactuada, que desenvolveu já 
 
 ### Relações
 
-Foi tutor de [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]], a quem treina desde a infância. Com Milorsevogh Velshard mantém uma relação de respeito tenso: reconhece nele um herdeiro do entendimento, ainda que não do posto. Os dois divergem sobre o destino do [[_wiki/organizacoes/imperio_sombrio\|Império]], e se reencontram em Ghol’Drokh, onde Milor opera como carrasco-mor. Nas muralhas de [[_wiki/locais/mor_draconis\|Mor’Draconis]], partilha reflexões com [[_wiki/personagens/jaakurs\|Jaakurs]].
+Foi tutor de [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]], a quem treina desde a infância. Com Milorsevogh Velshard mantém uma relação de respeito tenso: reconhece nele um herdeiro do entendimento, ainda que não do posto. Os dois divergem sobre o destino do [[_wiki/organizacoes/imperio_sombrio\|Império]], e se reencontram em Ghol’Drokh, onde Milor era então carrasco-mor. Nas muralhas de [[_wiki/locais/mor_draconis\|Mor’Draconis]], partilha reflexões com [[_wiki/personagens/jaakurs\|Jaakurs]].

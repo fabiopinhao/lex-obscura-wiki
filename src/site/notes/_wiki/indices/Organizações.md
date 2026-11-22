@@ -26,6 +26,7 @@ O Império funciona porque cada engrenagem acredita ser indispensável. Nenhuma 
 
 - [[_wiki/organizacoes/templarios\|Templários]]: antiga ordem militar-religiosa, enfraquecida pelos Justiciares
 - [[_wiki/organizacoes/ophideias\|Ophideias]]: sacerdotisas espiãs-assassinas drul
+- [[_wiki/organizacoes/koltenmor\|Koltenmor]]: regimento élfico de elarinos e sylvanos, desfeito no primeiro choque contra os orcs
 
 ## Cultos e Facções Religiosas
 
@@ -50,6 +51,7 @@ O Império funciona porque cada engrenagem acredita ser indispensável. Nenhuma 
 
 - [[_wiki/organizacoes/circulos_de_khargoth\|Círculos de Khargoth]]: academia arcana, sistema hierárquico de conhecimento
 - [[_wiki/organizacoes/guilda_dos_gnomos\|Guilda dos Gnomos]]: crime organizado, mercado negro e falsificação
+- [[_wiki/organizacoes/guilda_de_engrenagens\|Guilda de Engrenagens]]: cidade-oficina e confraria ilegal de inventores gnomos
 - [[_wiki/organizacoes/khelg_dur\|Khelg’Dur]]: casa comercial karashim, caravanas de isópodes em Vor-Ghol
 - [[_wiki/organizacoes/tradicao_de_sirana\|Tradição de Sirana]]: disciplina contemplativa que forma as nalvirins para o Meditatio Aetheris, nas cidadelas frenim
 

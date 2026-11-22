@@ -49,7 +49,9 @@ Panoramas das Guerras Reinkárdicas: [[_wiki/conceitos/guerras_reinkardicas_a_so
 
 ## Guerras Reinkárdicas
 
+- [[_wiki/conceitos/guerras_reinkardicas\|Guerras Reinkárdicas]]: o conflito continental que encerrou a Segunda Era e produziu o Império Sombrio
 - [[_wiki/eventos/guerras_reinkardicas_inicio\|Início das Guerras]]: Culto esgotou o planalto; ~50 anos de conflito continental
+- [[_wiki/eventos/conversao_de_dravhok\|Conversão de Dravhok]]: o Rito de Ossárium pelo qual um humano se tornou shadar e passou a chamar-se Dravhok
 - [[_wiki/eventos/submissao_da_ventrista\|Submissão da Ventrista]]: terras férteis na base do planalto; primeiro alvo da descida
 - [[_wiki/eventos/ataque_fracassado_a_thalserin\|Ataque Fracassado a Thal’Serin]]: floresta sagrada resistiu; pacto de Vozrador com os Titãs a protegia
 - [[_wiki/eventos/frentes_de_guerra_e_destino_das_racas\|Destino das Raças]]: sylvanos, humanos e gnomos escravizados; gerut sobreviveram pelo terreno titânico
@@ -74,6 +76,7 @@ Panoramas das Guerras Reinkárdicas: [[_wiki/conceitos/guerras_reinkardicas_a_so
 - [[_wiki/eventos/tensoes_e_ameacas_da_terceira_era\|Tensões da Terceira Era]]: aliança drul fragilizada; migração órquica; 20 de 27 Justiciares mortos
 - [[_wiki/eventos/cadeia_da_fendris\|Cadeia da Fendris]]: roubo da adaga luminar do museu particular de Dessian Broel; mandante e motivo permanecem desconhecidos
 - [[_wiki/eventos/sabotagem_nas_forjas_de_thandruk_varn\|Sabotagem nas Forjas]]: queda de produção em Thandruk Varn; natureza e autoria desconhecidas
+- [[_wiki/eventos/desaparecimento_de_draven-thol\|Desaparecimento de Draven-Thol]]: o Justiciar de Thandruk Varn sumiu sem corpo, testemunhas ou indício
 - [[_wiki/eventos/uncao_de_milorsevogh\|Unção de Milorsevogh]]: sétimo Justiciar vivo; recebeu Spina Lexis, Codex e Oculus no templo de Azkaroth
 - [[_wiki/eventos/nexus_silenciados_na_fortaleza_de_cristal\|Nexus Silenciados]]: cristais de Elenir ativos mas silenciados de dentro para fora; sabotagem deliberada
 

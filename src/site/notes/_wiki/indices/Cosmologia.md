@@ -23,6 +23,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 - [[_wiki/cosmologia/cor_arcana\|Cor Arcana]]: a afinidade estatística entre cada raça e os deuses de sua cor
 - [[_wiki/cosmologia/monogamia_divina\|Monogamia Divina]]: por que os deuses raramente compartilham seus servos
 - [[_wiki/cosmologia/mecanismos_divinos\|Mecanismos Divinos]]: como o poder divino cruza o véu e opera no plano material
+- [[_wiki/cosmologia/manifestacoes_divinas\|Manifestações Divinas]]: os modos pelos quais um deus toca o plano material sem ser invocado
 - [[_wiki/cosmologia/noctiluz\|Noctiluz]]: a luz que emana de rupturas no véu celeste
 - [[_wiki/cosmologia/marca_das_luas_gemeas\|Marca das Luas Gêmeas]]: a tatuagem druídica dos iniciados no terceiro círculo de Titânia
 
@@ -39,6 +40,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/cosmologia/magi\|Magi]]: a energia arcana que permeia Thamakard, substrato de toda invocação e vínculo divino
 - [[_wiki/cosmologia/canal_magi\|Canal Magi]]: o elo entre entidades extradimensionais e mortais, atravessando o Plano Etéreo
+- [[_wiki/cosmologia/nexus\|Nexus Magi]]: concentração de magi fixada em matéria, onde o mineral comum se torna cristal magi
 
 ## As Cinco Ordens
 
