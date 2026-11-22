@@ -22,7 +22,7 @@ By the monarch’s decision, no martial branch dedicated to temples may exist: t
 
 ### Survival
 
-Fifty or more remaining members stayed active as subordinate clerics, without formal military power, but the ideological identity persisted. A “Templar” faction of the Shadow Council champions the return of the Templars and the decentralization of power as it existed before Arothistar. The core, however, wants to restore the principle the order embodied: religious supremacy over monarchical authority, with an end to the pairing of Verbum Arkhon and [[_wiki_en/conceitos/lex_obscura_decreto\|Lex Obscura]] so that only the Lex remains, a cause the [[_wiki_en/organizacoes/ordo_zathar\|Ordo Zathar]] carries forward.
+Fifty or more remaining members stayed active as subordinate clerics, without formal military power, but the ideological identity persisted. A “Templar” faction of the Shadow Council champions the return of the Templars and the decentralization of power as it existed before Arothistar.
 
 Orum-Rahru embodies the tension between the two orders. The only Templar to become a Justiciar, he was chosen as the first of them in a decision that honored the Templar tradition while subordinating it to the new system. His silver Templar armor, preserved since the pre-imperial era and rarely removed, is a physical symbol of this divided loyalty.
 

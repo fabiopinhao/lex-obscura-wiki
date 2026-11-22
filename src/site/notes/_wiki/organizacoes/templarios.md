@@ -22,7 +22,7 @@ Por decisão do monarca, nenhum braço marcial dedicado a templos pode existir: 
 
 ### Sobrevivência
 
-Cinquenta ou mais remanescentes permaneceram ativos como clérigos subordinados, sem poder militar formal, mas a identidade ideológica persistiu. Uma facção “templária” do Conselho Sombrio empunha como bandeira a volta dos templários e a descentralização do poder como existia antes de Arothistar. O núcleo, porém, quer restaurar o princípio que a ordem encarnava: a supremacia religiosa sobre a autoridade monárquica, com o fim do binômio Verbum Arkhon e [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]] para que reste somente a Lex, causa que o [[_wiki/organizacoes/ordo_zathar\|Ordo Zathar]] leva adiante.
+Cinquenta ou mais remanescentes permaneceram ativos como clérigos subordinados, sem poder militar formal, mas a identidade ideológica persistiu. Uma facção “templária” do Conselho Sombrio empunha como bandeira a volta dos templários e a descentralização do poder como existia antes de Arothistar.
 
 Orum-Rahru encarna a tensão entre as duas ordens. Único templário a tornar-se justiciar, foi escolhido como primeiro deles numa decisão que honrava a tradição templária enquanto a subordinava ao novo sistema. Sua armadura templária prateada, conservada desde a era pré-imperial e raramente removida, é símbolo físico dessa lealdade dividida.
 
