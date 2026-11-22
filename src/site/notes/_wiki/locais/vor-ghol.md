@@ -4,7 +4,7 @@
 
 # Vor-Ghol
 
-Vor-Ghol é o Underdark de [[_wiki/locais/reinkard\|Reinkard]]: uma vasta rede de cavernas e cidades subterrâneas, lar ancestral dos [[_wiki/racas/drul\|druls]]. Seu nome une “vor” (muito) e “ghol” (profundezas). É um reino invertido onde a luz é blasfêmia, conectado a [[_wiki/locais/morvgrad\|Morvgrad]] por um poço vertical de mil braças.
+Vor-Ghol é a vasta rede de cavernas e cidades subterrâneas de [[_wiki/locais/reinkard\|Reinkard]], lar ancestral dos [[_wiki/racas/drul\|druls]]. Seu nome une “vor” (muito) e “ghol” (profundezas). É um reino invertido onde a luz é blasfêmia, conectado a [[_wiki/locais/morvgrad\|Morvgrad]] por um poço vertical de mil braças.
 
 ### Geografia
 

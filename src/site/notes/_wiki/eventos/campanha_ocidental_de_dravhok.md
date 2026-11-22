@@ -4,7 +4,7 @@
 
 # Campanha Ocidental de Dravhok
 
-A Campanha Ocidental de Dravhok foi a primeira grande ofensiva conduzida pelo general [[_wiki/racas/shadar\|shadar]] Dravhok durante as Guerras Reinkárdicas, dirigida contra as fortalezas anânicas da cordilheira ocidental. Em vez de atacar [[_wiki/locais/myrgarde\|Myrgarde]] de frente, como tantos generais haviam tentado sem êxito, Dravhok contornou o [[_wiki/organizacoes/imperio_sombrio\|Império]] Central pelas montanhas, mirando as forjas que armavam os exércitos rivais. A campanha varreu a cordilheira de norte a sul e culminou em [[_wiki/locais/thandruk_varn\|Thandruk Varn]], a maior forja do continente.
+A Campanha Ocidental de Dravhok foi a primeira grande ofensiva conduzida pelo general [[_wiki/racas/shadar\|shadar]] Dravhok durante as Guerras Reinkárdicas, dirigida contra as fortalezas anânicas da cordilheira ocidental. Em vez de atacar [[_wiki/locais/myrgarde\|Myrgarde]] de frente, como tantos generais haviam tentado sem êxito, Dravhok contornou o Império Central pelas montanhas, mirando as forjas que armavam os exércitos rivais. A campanha varreu a cordilheira de norte a sul e culminou em [[_wiki/locais/thandruk_varn\|Thandruk Varn]], a maior forja do continente.
 
 ### A doutrina de Dravhok
 

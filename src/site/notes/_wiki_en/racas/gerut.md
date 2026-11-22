@@ -4,7 +4,7 @@
 
 # Gerut
 
-The Geruts are titanic humans of the woodlands and swamps of the continent’s southeast, hunters and druids who, in the [[_wiki_en/conceitos/idade_esquecida\|Forgotten Age]], embraced the green instead of the throne. As primitive humans expanded from tribes into kingdoms and pressed against elven borders, the Geruts refused the march and remained in the forests, while the majority formed the Central [[_wiki_en/organizacoes/imperio_sombrio\|Empire]], the future [[_wiki_en/locais/myrgarde\|Myrgarde]]. The [[_wiki_en/racas/luminares\|Luminars]], recognizing their peaceful stance, permitted them to inhabit the edges of their territories, and over time the Geruts ventured into the woodlands and never left.
+The Geruts are titanic humans of the woodlands and swamps of the continent’s southeast, hunters and druids who, in the [[_wiki_en/conceitos/idade_esquecida\|Forgotten Age]], embraced the green instead of the throne. As primitive humans expanded from tribes into kingdoms and pressed against elven borders, the Geruts refused the march and remained in the forests, while the majority formed the Central Empire, the future [[_wiki_en/locais/myrgarde\|Myrgarde]]. The [[_wiki_en/racas/luminares\|Luminars]], recognizing their peaceful stance, permitted them to inhabit the edges of their territories, and over time the Geruts ventured into the woodlands and never left.
 
 ### Origin
 

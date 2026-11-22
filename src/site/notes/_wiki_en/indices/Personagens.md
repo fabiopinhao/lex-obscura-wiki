@@ -23,7 +23,7 @@ No one in this Empire is innocent. Some simply have not yet been judged.
 - [[_wiki_en/personagens/syndrith_morghast\|Syndrith Morghast]]: Drul ophideia, field agent
 - [[_wiki_en/personagens/fandegarron\|Fandegarrón]]: gnoll, veteran of the Arena of Drakmur, bodyguard
 - [[_wiki_en/personagens/tibaut\|Tibaut]]: worg informant, extensive network of contacts in Morvgrad
-- [[_wiki_en/personagens/dribbel_olgund\|Dribbel Olgund]]: Derro, the “Trade-Breaker.” Member of the Gnome Guild
+- [[_wiki_en/personagens/dribbel_olgund\|Dribbel Olgund]]: Derro, the “Trade-Breaker” of the Gnome Guild
 - [[_wiki_en/personagens/skanivik\|Skanivik]]: Muran independent spy
 
 ## Shadow Council and Court of Morvgrad
@@ -36,12 +36,13 @@ No one in this Empire is innocent. Some simply have not yet been judged.
 - [[_wiki_en/personagens/noxmoor\|Noxmoor]]: Councilor, the Strategist of Fortifications
 - [[_wiki_en/personagens/ciravok_tharumen\|Ciravok Tharumen]]: Councilor, the Lord of the Granaries
 - [[_wiki_en/personagens/kazem_vorgrath\|Kazem Vorgrath]]: Councilor, the Fire Command
-- [[_wiki_en/personagens/harlen_vriss\|Harlen Vriss]]: Councilor of the Shadow Council
+- [[_wiki_en/personagens/harlen_vriss\|Harlen Vriss]]: Councilor, the Council’s voice on economic matters
 - [[_wiki_en/personagens/eliakim\|Eliakim]]: Councilor, Architect of Shadow Diplomacy
 - [[_wiki_en/personagens/vyrensen\|Malachar Vyrensen]]: Councilor, Collector of Debts
 - [[_wiki_en/personagens/nyssira_avaroth\|Nyssira Avaroth]]: Nidzina’s mother, imperial nobility
 - [[_wiki_en/personagens/zanzer\|Zanzer]]: former Councilor, the Purple Poison, fallen from favor
 - [[_wiki_en/personagens/orvhal\|Orvhal]]: provincial lord of Elenir, remote participant in the Council
+- [[_wiki_en/personagens/quaz_har\|Quaz’har]]: female imp messenger of the Court of Morvgrad
 
 ## Justiciars, Generals, and Military Personnel
 
@@ -92,7 +93,7 @@ No one in this Empire is innocent. Some simply have not yet been judged.
 - [[_wiki_en/personagens/berenice\|Berenice]]: human, Levi’s sister
 - [[_wiki_en/personagens/levi\|Levi]]: child with unusual perception, Abramis’s protégé
 - [[_wiki_en/personagens/talin\|Talin]]: human of the Resistance of Thal’Serin
-- [[_wiki_en/personagens/eralmir_vess\|Eralmir Vess]]: Shadar, Steward of Niedellin, scribe of Niedellin
+- [[_wiki_en/personagens/eralmir_vess\|Eralmir Vess]]: Shadar, steward and scribe of Niedellin
 
 ## Figures of Myrgarde
 
@@ -104,6 +105,7 @@ No one in this Empire is innocent. Some simply have not yet been judged.
 - [[_wiki_en/personagens/coveiro-mor\|the Sexton]]: human, gravedigger of the Garden of the Innocents, prisoner in Ghol’Drokh
 - [[_wiki_en/personagens/ioni\|Ioni]]: human, son of the Sexton, dead
 - [[_wiki_en/personagens/marta\|Marta]]: human from Myrgarde, devotee of Saint Lucian, dead
+- [[_wiki_en/personagens/jalu_nvara\|Jalú’Nvara]]: Gerut, formerly of Myrgarde
 - [[_wiki_en/personagens/lucian\|Lucian]]: human warrior from the time of the Luminars, venerated as Saint Lucian (historical figure)
 
 ## Mages and Arcane Figures
@@ -114,28 +116,44 @@ No one in this Empire is innocent. Some simply have not yet been judged.
 - [[_wiki_en/personagens/elzakar\|Elzakar]]: preceptor of the Tower of Khargoth, Master Arcanist of the Third Circle
 - [[_wiki_en/personagens/voxmere\|Voxmere]]: pontiff of the Temple of Velmorain
 
-## Other Peoples
+## Court of Mor’Severith
+
+- [[_wiki_en/personagens/odran\|Odran]]: minotaur, servant of Arothistar in Mor’Severith
+- [[_wiki_en/personagens/fing\|Fing]]: kobold, servant of Arothistar in Mor’Severith
+
+## Clan Myr’vethan and Varnak
 
 - [[_wiki_en/personagens/thrax\|Thrax]]: Draconid, warrior of Clan Myr’vethan
 - [[_wiki_en/personagens/yzmareth\|Yzmareth]]: Draconid, one of the leaders of Clan Myr’vethan
 - [[_wiki_en/personagens/varna\|Varna]]: female dragon from Varnak
 - [[_wiki_en/personagens/wijmarv\|Wijmarv]]: Varnakian, former shaman of a Drakhonin clan
+
+## Khelg’Dur Caravan
+
 - [[_wiki_en/personagens/borzrun\|Borzrun]]: Karashim, caravan leader of Khelg’Dur
 - [[_wiki_en/personagens/khreek_fio-fino\|Khreek Fine-Thread]]: Derro of the Khelg’Dur caravan
-- [[_wiki_en/personagens/jalu_nvara\|Jalú’Nvara]]: Gerut, formerly of Myrgarde
-- [[_wiki_en/personagens/naiu_wula\|Naiu’Wula]]: Gerut, wandering master, founder of the Doctrine of the Soul (dead, historical figure)
-- [[_wiki_en/personagens/jospin_valheorn\|Jospin Valheorn]]: human from Myrgarde, alchemist and theorist of magic (dead, historical figure)
-- [[_wiki_en/personagens/odran\|Odran]]: minotaur, servant of Arothistar in Mor’Severith
-- [[_wiki_en/personagens/quaz_har\|Quaz’har]]: female imp messenger of the Court of Morvgrad
-- [[_wiki_en/personagens/babua\|Babua]]: Saag, servant of Lorvaq Val’Kir
-- [[_wiki_en/personagens/fing\|Fing]]: kobold, servant of Arothistar in Mor’Severith
-- [[_wiki_en/personagens/skinitz\|Skinitz]]: Muran, Skanivik’s brother
+
+## Temple of Vozrador
+
 - [[_wiki_en/personagens/bactrak\|Bactrak]]: Shadar, former Templar of Vozrador
 - [[_wiki_en/personagens/qaelun\|Qaelun]]: necromancer of the temple of Vozrador
+
+## Orcs
+
 - [[_wiki_en/personagens/ulgorth\|Ulgorth]]: orc, imperial overseer
 - [[_wiki_en/personagens/ghur\|Ghur]]: orc, Grothar’s brother
+
+## Historical Figures
+
+- [[_wiki_en/personagens/naiu_wula\|Naiu’Wula]]: Gerut, wandering master, founder of the Doctrine of the Soul (dead)
+- [[_wiki_en/personagens/jospin_valheorn\|Jospin Valheorn]]: human from Myrgarde, alchemist and theorist of magic (dead)
 - [[_wiki_en/personagens/grasnak\|Grasnak]]: legendary orc, hero of the Lays of Grasnak
-- [[_wiki_en/personagens/selene\|Selene]]: woman from Valdris, wife of a fisherman from the port city
+
+## Other Figures
+
+- [[_wiki_en/personagens/babua\|Babua]]: Saag, servant of Lorvaq Val’Kir
+- [[_wiki_en/personagens/skinitz\|Skinitz]]: Muran, Skanivik’s brother
+- [[_wiki_en/personagens/selene\|Selene]]: human of southern origin, wife of a fisherman from Valdris
 - [[_wiki_en/personagens/svyarnov\|Svyarnov]]: Shadar, operational leader of the Purple Serpent in the West
 
 ---

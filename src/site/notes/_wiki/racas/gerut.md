@@ -4,7 +4,7 @@
 
 # Gerut
 
-Os geruts são humanos titânicos das matas e pântanos do sudeste do continente, caçadores e druidas que, na [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]], abraçaram o verde em vez do trono. Quando os humanos primitivos expandiam-se de tribos para reinos e pressionavam as fronteiras élficas, os geruts recusaram a marcha e permaneceram nas florestas, enquanto a maioria formava o [[_wiki/organizacoes/imperio_sombrio\|Império]] Central, futura [[_wiki/locais/myrgarde\|Myrgarde]]. Os [[_wiki/racas/luminares\|Luminares]], reconhecendo a postura pacífica, autorizaram-nos a habitar as bordas de seus territórios, e com o tempo os geruts adentraram as matas e não mais saíram.
+Os geruts são humanos titânicos das matas e pântanos do sudeste do continente, caçadores e druidas que, na [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]], abraçaram o verde em vez do trono. Quando os humanos primitivos expandiam-se de tribos para reinos e pressionavam as fronteiras élficas, os geruts recusaram a marcha e permaneceram nas florestas, enquanto a maioria formava o Império Central, futura [[_wiki/locais/myrgarde\|Myrgarde]]. Os [[_wiki/racas/luminares\|Luminares]], reconhecendo a postura pacífica, autorizaram-nos a habitar as bordas de seus territórios, e com o tempo os geruts adentraram as matas e não mais saíram.
 
 ### Origem
 

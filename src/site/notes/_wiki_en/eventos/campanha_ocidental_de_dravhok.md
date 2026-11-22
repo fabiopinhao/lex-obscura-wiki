@@ -4,7 +4,7 @@
 
 # Dravhok’s Western Campaign
 
-Dravhok’s Western Campaign was the first major offensive led by the [[_wiki_en/racas/shadar\|Shadar]] general Dravhok during the Reinkardic Wars, directed against the dwarven fortresses of the western mountain range. Instead of attacking [[_wiki_en/locais/myrgarde\|Myrgarde]] head-on, as so many generals had tried without success, Dravhok went around the Central [[_wiki_en/organizacoes/imperio_sombrio\|Empire]] through the mountains, targeting the forges that armed the rival armies. The campaign swept the mountain range from north to south and culminated at [[_wiki_en/locais/thandruk_varn\|Thandruk Varn]], the largest forge on the continent.
+Dravhok’s Western Campaign was the first major offensive led by the [[_wiki_en/racas/shadar\|Shadar]] general Dravhok during the Reinkardic Wars, directed against the dwarven fortresses of the western mountain range. Instead of attacking [[_wiki_en/locais/myrgarde\|Myrgarde]] head-on, as so many generals had tried without success, Dravhok went around the Central Empire through the mountains, targeting the forges that armed the rival armies. The campaign swept the mountain range from north to south and culminated at [[_wiki_en/locais/thandruk_varn\|Thandruk Varn]], the largest forge on the continent.
 
 ### Dravhok’s Doctrine
 

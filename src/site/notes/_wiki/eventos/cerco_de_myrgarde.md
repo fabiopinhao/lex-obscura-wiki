@@ -4,7 +4,7 @@
 
 # Cerco de Myrgarde
 
-O Cerco de Myrgarde, também lembrado como o Cerco da Capital Humana ou o Último Cerco de Myrgarde, foi o assédio de três anos imposto pelos exércitos do Culto à capital do [[_wiki/organizacoes/imperio_sombrio\|Império]] Antigo, cerca de trinta e três anos atrás, durante as Guerras Reinkárdicas. Foi a última grande resistência alabastrina do continente.
+O Cerco de Myrgarde, também lembrado como o Cerco da Capital Humana ou o Último Cerco de Myrgarde, foi o assédio de três anos imposto pelos exércitos do Culto à capital do Império Antigo, cerca de trinta e três anos atrás, durante as Guerras Reinkárdicas. Foi a última grande resistência alabastrina do continente.
 
 ### O cerco
 

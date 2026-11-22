@@ -14,7 +14,7 @@ As the Shadar generals fell in battle, their legions, far from the plateau and w
 
 ### Fall of Dernessal
 
-Dernessal was the largest independent kingdom southeast of the [[_wiki_en/organizacoes/imperio_sombrio\|Empire]] of Myrgarde, and for generations had resisted both incorporation by the Central Empire and shadow incursions. It fell. The area east of Myrgarde was subjugated, and the campaign continued to the Austral sea, sweeping through the coastal cities without encountering coordinated resistance.
+Dernessal was the largest independent kingdom southeast of the Empire of Myrgarde, and for generations had resisted both incorporation by the Central Empire and shadow incursions. It fell. The area east of Myrgarde was subjugated, and the campaign continued to the Austral, sweeping through the coastal cities without encountering coordinated resistance.
 
 ### The Retreat at Valdris
 

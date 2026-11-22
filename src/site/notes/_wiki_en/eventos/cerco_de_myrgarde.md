@@ -4,7 +4,7 @@
 
 # Siege of Myrgarde
 
-The Siege of Myrgarde, also remembered as the Siege of the Human Capital or the Last Siege of Myrgarde, was the three-year siege imposed by the armies of the Cult on the capital of the Old [[_wiki_en/organizacoes/imperio_sombrio\|Empire]], about thirty-three years ago, during the Reinkardic Wars. It was the continent’s last great alabastrine resistance.
+The Siege of Myrgarde, also remembered as the Siege of the Human Capital or the Last Siege of Myrgarde, was the three-year siege imposed by the armies of the Cult on the capital of the Old Empire, about thirty-three years ago, during the Reinkardic Wars. It was the continent’s last great alabastrine resistance.
 
 ### The Siege
 

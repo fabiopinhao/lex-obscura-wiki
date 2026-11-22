@@ -23,7 +23,7 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[_wiki/personagens/syndrith_morghast\|Syndrith Morghast]]: drul ophideia, agente de campo
 - [[_wiki/personagens/fandegarron\|Fandegarrón]]: gnoll, veterano da Arena de Drakmur, guarda-costas
 - [[_wiki/personagens/tibaut\|Tibaut]]: worg informante, vasta rede de contatos em Morvgrad
-- [[_wiki/personagens/dribbel_olgund\|Dribbel Olgund]]: derro, o “Quebra-Trocas”. Membro da Guilda dos Gnomos
+- [[_wiki/personagens/dribbel_olgund\|Dribbel Olgund]]: derro, o “Quebra-Trocas” da Guilda dos Gnomos
 - [[_wiki/personagens/skanivik\|Skanivik]]: murano espião independente
 
 ## Conselho Sombrio e Corte de Morvgrad
@@ -36,12 +36,13 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[_wiki/personagens/noxmoor\|Noxmoor]]: conselheiro, Estrategista de Fortificações
 - [[_wiki/personagens/ciravok_tharumen\|Ciravok Tharumen]]: conselheiro, Senhor dos Celeiros
 - [[_wiki/personagens/kazem_vorgrath\|Kazem Vorgrath]]: conselheiro, Comando Ígneo
-- [[_wiki/personagens/harlen_vriss\|Harlen Vriss]]: conselheiro do Conselho Sombrio
+- [[_wiki/personagens/harlen_vriss\|Harlen Vriss]]: conselheiro, voz econômica do Conselho
 - [[_wiki/personagens/eliakim\|Eliakim]]: conselheiro, Arquiteto da Diplomacia Sombria
 - [[_wiki/personagens/vyrensen\|Malachar Vyrensen]]: conselheiro, Coletor de Dívidas
 - [[_wiki/personagens/nyssira_avaroth\|Nyssira Avaroth]]: mãe de Nidzina, nobreza imperial
 - [[_wiki/personagens/zanzer\|Zanzer]]: ex-conselheiro, o Veneno Púrpura, caído em desgraça
 - [[_wiki/personagens/orvhal\|Orvhal]]: lorde provincial de Elenir, participante remoto do Conselho
+- [[_wiki/personagens/quaz_har\|Quaz’har]]: diabrete mensageira da corte de Morvgrad
 
 ## Justiciares, Generais e Militares
 
@@ -92,7 +93,7 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[_wiki/personagens/berenice\|Berenice]]: humana, irmã de Levi
 - [[_wiki/personagens/levi\|Levi]]: criança com percepção incomum, protegido de Abramis
 - [[_wiki/personagens/talin\|Talin]]: humano da Resistência de Thal’Serin
-- [[_wiki/personagens/eralmir_vess\|Eralmir Vess]]: shadar, Intendente de Niedellin, escriba de Niedellin
+- [[_wiki/personagens/eralmir_vess\|Eralmir Vess]]: shadar, Intendente e escriba de Niedellin
 
 ## Figuras de Myrgarde
 
@@ -104,6 +105,7 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[_wiki/personagens/coveiro-mor\|Coveiro-mor]]: humano, coveiro do Jardim dos Inocentes, prisioneiro em Ghol’Drokh
 - [[_wiki/personagens/ioni\|Ioni]]: humano, filho do Coveiro-mor, morto
 - [[_wiki/personagens/marta\|Marta]]: humana de Myrgarde, devota de São Lucian, morta
+- [[_wiki/personagens/jalu_nvara\|Jalú’Nvara]]: gerut, ex-Myrgarde
 - [[_wiki/personagens/lucian\|Lucian]]: guerreiro humano do tempo dos Luminares, venerado como São Lucian (figura histórica)
 
 ## Magos e Figuras Arcanas
@@ -114,28 +116,44 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[_wiki/personagens/elzakar\|Elzakar]]: preceptor da Torre de Khargoth, Mestre-Arcanista do Terceiro Círculo
 - [[_wiki/personagens/voxmere\|Voxmere]]: pontífice do Templo de Velmorain
 
-## Outros Povos
+## Corte de Mor’Severith
+
+- [[_wiki/personagens/odran\|Odran]]: minotauro, servo de Arothistar em Mor’Severith
+- [[_wiki/personagens/fing\|Fing]]: kobold, servo de Arothistar em Mor’Severith
+
+## Clã Myr’vethan e Varnak
 
 - [[_wiki/personagens/thrax\|Thrax]]: draconídeo, guerreiro do Clã Myr’vethan
 - [[_wiki/personagens/yzmareth\|Yzmareth]]: draconídeo, um dos líderes do Clã Myr’vethan
 - [[_wiki/personagens/varna\|Varna]]: dragão fêmea de Varnak
 - [[_wiki/personagens/wijmarv\|Wijmarv]]: varnakiano, ex-xamã de clã drakhonin
+
+## Caravana Khelg’Dur
+
 - [[_wiki/personagens/borzrun\|Borzrun]]: karashim, líder de caravana da Khelg’Dur
 - [[_wiki/personagens/khreek_fio-fino\|Khreek Fio-Fino]]: derro da caravana Khelg’Dur
-- [[_wiki/personagens/jalu_nvara\|Jalú’Nvara]]: gerut, ex-Myrgarde
-- [[_wiki/personagens/naiu_wula\|Naiu’Wula]]: gerut, mestre errante, fundador da Doutrina da Alma (morto, figura histórica)
-- [[_wiki/personagens/jospin_valheorn\|Jospin Valheorn]]: humano de Myrgarde, alquimista e teórico da magia (morto, figura histórica)
-- [[_wiki/personagens/odran\|Odran]]: minotauro, servo de Arothistar em Mor’Severith
-- [[_wiki/personagens/quaz_har\|Quaz’har]]: diabrete mensageira da corte de Morvgrad
-- [[_wiki/personagens/babua\|Babua]]: saag, servo de Lorvaq Val’Kir
-- [[_wiki/personagens/fing\|Fing]]: kobold, servo de Arothistar em Mor’Severith
-- [[_wiki/personagens/skinitz\|Skinitz]]: murano, irmão de Skanivik
+
+## Templo de Vozrador
+
 - [[_wiki/personagens/bactrak\|Bactrak]]: shadar, ex-templário de Vozrador
 - [[_wiki/personagens/qaelun\|Qaelun]]: necromante do Templo de Vozrador
+
+## Orcs
+
 - [[_wiki/personagens/ulgorth\|Ulgorth]]: orc, capataz imperial
 - [[_wiki/personagens/ghur\|Ghur]]: orc, irmão de Grothar
+
+## Figuras Históricas
+
+- [[_wiki/personagens/naiu_wula\|Naiu’Wula]]: gerut, mestre errante, fundador da Doutrina da Alma (morto)
+- [[_wiki/personagens/jospin_valheorn\|Jospin Valheorn]]: humano de Myrgarde, alquimista e teórico da magia (morto)
 - [[_wiki/personagens/grasnak\|Grasnak]]: orc lendário, herói dos Cantos de Grasnak
-- [[_wiki/personagens/selene\|Selene]]: mulher de Valdris, esposa de um pescador da cidade-porto
+
+## Outras Figuras
+
+- [[_wiki/personagens/babua\|Babua]]: saag, servo de Lorvaq Val’Kir
+- [[_wiki/personagens/skinitz\|Skinitz]]: murano, irmão de Skanivik
+- [[_wiki/personagens/selene\|Selene]]: humana de origem austral, esposa de um pescador de Valdris
 - [[_wiki/personagens/svyarnov\|Svyarnov]]: shadar, líder operacional da Serpente Púrpura no Oeste
 
 ---

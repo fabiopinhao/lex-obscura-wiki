@@ -14,7 +14,7 @@ A campanha foi concebida como esforço conjunto: vários generais, pares em pate
 
 ### Queda de Dernessal
 
-Dernessal era o maior reino independente a sudeste do [[_wiki/organizacoes/imperio_sombrio\|Império]] de Myrgarde, e por gerações resistira tanto à incorporação pelo Império Central quanto às incursões sombrias. Caiu. O entorno leste de Myrgarde foi subjugado, e a campanha prosseguiu até o mar Austral, varrendo as cidades costeiras sem encontrar resistência coordenada.
+Dernessal era o maior reino independente a sudeste do Império de Myrgarde, e por gerações resistira tanto à incorporação pelo Império Central quanto às incursões sombrias. Caiu. O entorno leste de Myrgarde foi subjugado, e a campanha prosseguiu até o mar Austral, varrendo as cidades costeiras sem encontrar resistência coordenada.
 
 ### O Recuo de Valdris
 
