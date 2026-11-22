@@ -4,7 +4,7 @@
 
 # Toxo
 
-Toxo is the hybrid school of green and black that poisons, corrodes, and degrades through chemical-arcane means, always as an external agent applied in the form of a substance. This is its fundamental distinction from [[_wiki_en/escolas/patho\|Patho]], where degradation is internal and biological: Toxo applies from outside, Patho rots from within. Its key feeling is fascination with what corrodes and transforms, the knowledge that every substance is a matter of dose. Its antagonistic counterpart is [[_wiki_en/escolas/abjuro\|Abjuro]].
+Toxo is the hybrid school of the titans and the devils that poisons, corrodes, and degrades through chemical-arcane means, always as an external agent applied in the form of a substance. This is its fundamental distinction from [[_wiki_en/escolas/patho\|Patho]], where degradation is internal and biological: Toxo applies from outside, Patho rots from within. Its key feeling is fascination with what corrodes and transforms, the knowledge that every substance is a matter of dose. Its antagonistic counterpart is [[_wiki_en/escolas/abjuro\|Abjuro]].
 
 ### Principle
 

@@ -16,7 +16,7 @@ The evidence of this presence is tangible. Rosaries of [[_wiki_en/panteao/azazel
 
 The two subraces had divergent fates. Aquilars are full-fledged Avians: tall, with functional wings at maturity and aerodynamic builds made for flight, with phenotypes of raptors, eagles, and falcons predominating. Before the [[_wiki_en/racas/shadar\|Shadar]] conquest, they held integrated positions in mixed cities such as [[_wiki_en/locais/myrgarde\|Myrgarde]], serving as sentinels, temple guardians, and hierophants of Devotio Sancta. In the [[_wiki_en/conceitos/terceira_era\|Third Era]], they are rare, scattered, and mutilated, for [[_wiki_en/organizacoes/imperio_sombrio\|the Empire]] stripped them of flight through multiple methods.
 
-Fringals are diminutive Avians, with vestigial wings that never enabled flight, with phenotypes of smaller passerines, wrens, and finches. They arose from the same angelic interference, without artificial manipulation or environmental degeneration, and the smaller phenotype is a natural expression of variation within the white lineage. Even so, Aquilars treat them as incomplete Avians, and the rest of the world treats them as prey.
+Fringals are diminutive Avians, with vestigial wings that never enabled flight, with phenotypes of smaller passerines, wrens, and finches. They arose from the same angelic interference, without artificial manipulation or environmental degeneration, and the smaller phenotype is a natural expression of variation within the angelic lineage. Even so, Aquilars treat them as incomplete Avians, and the rest of the world treats them as prey.
 
 ### Protection and Resentment
 

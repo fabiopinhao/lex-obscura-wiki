@@ -4,7 +4,7 @@
 
 # Urano
 
-Urano é a escola híbrida de magia da transcendência e da elevação. Combinação de azul e branco, liberta o espírito da matéria: infunde paz, dissolve vínculos e ergue o corpo acima das leis que governam o plano físico. Seu sentimento de base é a percepção de que o mundano é pequeno, a atração pelo que transcende o imediato.
+Urano é a escola híbrida de magia da transcendência e da elevação. Partilhada por siderais e anjos, liberta o espírito da matéria: infunde paz, dissolve vínculos e ergue o corpo acima das leis que governam o plano físico. Seu sentimento de base é a percepção de que o mundano é pequeno, a atração pelo que transcende o imediato.
 
 ### Princípio
 

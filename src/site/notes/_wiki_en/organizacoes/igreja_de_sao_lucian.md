@@ -12,7 +12,7 @@ The remnants of the luminous faith in Reinkard are organized into two distinct s
 
 ### Activities
 
-The heart of the Church is in [[_wiki_en/locais/myrgarde\|Myrgarde]], where it operates clandestinely. [[_wiki_en/personagens/abramis\|Abramis]] maintains a functioning chapel in [[_wiki_en/locais/niedellin\|Niedellin]] as an extension of this faith. The Church’s central figures are Sir [[_wiki_en/personagens/grimald\|Grimald]], a paladin known as the Golden Blade, and [[_wiki_en/personagens/corvina\|Mother Corvina]].
+The heart of the Church is in [[_wiki_en/locais/myrgarde\|Myrgarde]]. [[_wiki_en/personagens/abramis\|Abramis]] maintains a functioning chapel in [[_wiki_en/locais/niedellin\|Niedellin]] as an extension of this faith. The Church’s central figures are Sir [[_wiki_en/personagens/grimald\|Grimald]], a paladin known as the Golden Blade, and [[_wiki_en/personagens/corvina\|Mother Corvina]].
 
 The **House of Saint Lucian** is the orphanage attached to the temple, run by [[_wiki_en/personagens/corvina\|Mother Corvina]]: the name designates the institution providing shelter, not the building used for worship.
 

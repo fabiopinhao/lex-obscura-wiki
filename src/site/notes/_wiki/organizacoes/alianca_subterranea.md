@@ -12,6 +12,6 @@ A Aliança se formaliza em dois eixos. No político, articula o [[_wiki/organiza
 
 ### Tensão Permanente
 
-A desconfiança entre as duas raças é mútua e ancestral. Os shadars consideram os druls imprevisíveis e leais em excesso às matriarcas; os druls veem os shadars como arrogantes e incapazes de honrar alianças sem dominá-las. A Aliança funciona apesar dessa tensão, não sem ela.
+A desconfiança entre as duas raças é mútua e ancestral. Os shadars consideram os druls imprevisíveis e leais em excesso às matriarcas; os druls veem os shadars como arrogantes e incapazes de honrar alianças sem dominá-las. A Aliança funciona apesar dessa tensão.
 
 O equilíbrio piorou quando [[_wiki/personagens/arothistar\|Arothistar]] dominou Vor-Ghol após ascender ao poder, deslocando a relação de parceria para subordinação de fato. Os druls passaram a observar o monarca com a mesma cautela que reservam a qualquer poder centralizado em excesso numa só vontade, e suas matriarcas aguardam.

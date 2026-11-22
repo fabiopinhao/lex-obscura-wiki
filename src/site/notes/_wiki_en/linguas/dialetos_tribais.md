@@ -4,7 +4,7 @@
 
 # Tribal Dialects
 
-The Tribal dialects are the everyday languages of the hybrid races. They do not form a single language, but a set of distinct systems that each race developed independently, intended for communication within its own species.
+The tribal dialects are the everyday languages of the hybrid races, systems that each race developed independently for communication within its own species.
 
 ### Nature
 

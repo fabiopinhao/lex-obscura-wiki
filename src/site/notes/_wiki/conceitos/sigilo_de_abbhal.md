@@ -8,7 +8,7 @@ O Sigilo de [[_wiki/panteao/abbhal\|Abbhal]], também chamado Marca de Abbhal, �
 
 ### Natureza
 
-Na hierarquia de punições do [[_wiki/organizacoes/tribunal_de_morvgrad\|Tribunal de Morvgrad]], o Sigilo ocupa posição acima dos Crucitórios e de qualquer execução convencional. Não mata: condena à existência sem agência. O corpo respira e o coração bate, mas a consciência permanece presa em um limbo, com olhos vítreos e a boca aberta em grito mudo. É vida sem vida.
+Na hierarquia de punições do [[_wiki/organizacoes/tribunal_de_morvgrad\|Tribunal de Morvgrad]], o Sigilo ocupa posição acima dos Crucitórios e de qualquer execução convencional. Sem matar, condena à existência sem agência: o corpo respira e o coração bate, mas a consciência permanece presa em um limbo, com olhos vítreos e a boca aberta em grito mudo.
 
 ### Mecânica Arcana
 
@@ -24,4 +24,4 @@ Muito do que se segue à sentença permanece sem resposta: não se sabe se o con
 
 ### Significado
 
-O Sigilo condensa a filosofia penal do império: a ordem não pune para corrigir, mas para demonstrar que a transgressão custa mais do que a obediência. A sentença espelha, em plano divino, a função que o Justiciar exerce em plano terreno.
+O Sigilo condensa a filosofia penal do Império: a ordem pune para demonstrar que a transgressão custa mais do que a obediência, sem propósito corretivo. A sentença espelha, em plano divino, a função que o justiciar exerce em plano terreno.

@@ -4,7 +4,7 @@
 
 # Sacro
 
-Sacro é a escola de magia pura de branco, dedicada à Graça e à Santidade. Abençoa, purifica, consagra e protege por autoridade moral e intervenção divina, exigindo fé genuína como combustível: o cinismo enfraquece o poder. Diferente de [[_wiki/escolas/helio\|Helio]], que purifica por radiância física, Sacro purifica por ritual, lei divina e consagração. É a escola oposta a [[_wiki/escolas/anatho\|Anatho]].
+Sacro é a escola de magia pura dos anjos, dedicada à Graça e à Santidade. Abençoa, purifica, consagra e protege por autoridade moral e intervenção divina, exigindo fé genuína como combustível: o cinismo enfraquece o poder. Diferente de [[_wiki/escolas/helio\|Helio]], que purifica por radiância física, Sacro purifica por ritual, lei divina e consagração. É a escola oposta a [[_wiki/escolas/anatho\|Anatho]].
 
 ### Práticas
 
@@ -16,4 +16,4 @@ O custo temático é peso espiritual e sensação de indignidade e impureza, de 
 
 ### No Império
 
-O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como Inquisidores e purificadores rituais. Combinada com [[_wiki/escolas/aegis\|Aegis]], ergue fortalezas sagradas, com o perímetro consagrado e uma barreira de força sobre seus limites; com [[_wiki/escolas/belli\|Belli]], sustenta a cruzada, soldados abençoados e clamados lutando além do limite humano; com [[_wiki/escolas/nomos\|Nomos]], sacraliza juramentos que ferem em duas camadas, dano arcano e corrupção espiritual.
+O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como inquisidores e purificadores rituais. Combinada com [[_wiki/escolas/aegis\|Aegis]], ergue fortalezas sagradas, com o perímetro consagrado e uma barreira de força sobre seus limites; com [[_wiki/escolas/belli\|Belli]], sustenta a cruzada, soldados abençoados e clamados lutando além do limite humano; com [[_wiki/escolas/nomos\|Nomos]], sacraliza juramentos que ferem em duas camadas, dano arcano e corrupção espiritual.

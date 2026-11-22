@@ -4,7 +4,7 @@
 
 # Phobos
 
-Phobos is the hybrid school of red and black that turns fear into a weapon, one of the disciplines of black magic. It operates on what the victim feels, not on what they think, and its key feeling is intimacy with horror: the perception that others’ fear has texture, form, and utility.
+Phobos is the hybrid school of demons and devils that turns fear into a weapon, one of the disciplines of black magic. It operates on what the victim feels, not on what they think, and its key feeling is intimacy with horror: the perception that others’ fear has texture, form, and utility.
 
 ### Practices
 

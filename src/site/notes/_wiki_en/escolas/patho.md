@@ -4,7 +4,7 @@
 
 # Patho
 
-Patho is the hybrid school of the colors black and green, dedicated to decay and putrefaction. It causes decomposition, disease, and putrefaction as accelerated biological entropy: it rots organic matter, induces fever, infects wounds, and turns targets into vectors of contagion. It differs from [[_wiki_en/escolas/toxo\|Toxo]], which corrodes through an external chemical substance, because Patho’s degradation is internal, the body decomposing without a visible agent.
+Patho is the hybrid school of devils and titans, dedicated to decay and putrefaction. It causes decomposition, disease, and putrefaction as accelerated biological entropy: it rots organic matter, induces fever, infects wounds, and turns targets into vectors of contagion. It differs from [[_wiki_en/escolas/toxo\|Toxo]], which corrodes through an external chemical substance, because Patho’s degradation is internal, the body decomposing without a visible agent.
 
 ### Principle
 

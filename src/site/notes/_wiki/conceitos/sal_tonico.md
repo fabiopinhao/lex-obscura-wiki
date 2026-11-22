@@ -8,7 +8,7 @@ O sal tônico é uma mistura cáustica de sais minerais e extrato de raiz-de-fer
 
 ### Reconversão Inquisitorial
 
-Alquimistas e carrascos [[_wiki/racas/shadar\|shadars]] refinaram a fórmula para uso inquisitorial, com o mesmo princípio do emprego militar e o propósito invertido: como impede que a vítima perca a consciência, garante que a tortura não seja interrompida pelo desmaio. Figura entre os instrumentos de interrogatório dos [[_wiki/organizacoes/justiciares\|Justiciares]].
+Alquimistas e carrascos [[_wiki/racas/shadar\|shadars]] refinaram a fórmula para uso inquisitorial, com o mesmo princípio do emprego militar e o propósito invertido: como impede que a vítima perca a consciência, garante que a tortura não seja interrompida pelo desmaio. Figura entre os instrumentos de interrogatório dos [[_wiki/organizacoes/justiciares\|justiciares]].
 
 ### Aplicação
 

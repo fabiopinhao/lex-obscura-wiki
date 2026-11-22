@@ -12,6 +12,6 @@ A queda foi menos uma destruição e mais uma diáspora. Os Luminares que sobrev
 
 Os [[_wiki/racas/drul\|druls]] e os [[_wiki/racas/orc\|orcs]], cuja separação dos Luminares era anterior à queda, já habitavam respectivamente as profundezas de [[_wiki/locais/vor-ghol\|Vor-Ghol]] e as regiões selvagens do norte, e a destruição da raça-mãe pouco alterou seus destinos.
 
-### As relíquias
+### As Relíquias
 
 As relíquias deixadas pelos Luminares tornaram-se tão poderosas quanto incompreendidas: artefatos de um tempo anterior à Primeira Era, cujos efeitos e métodos de forja jamais foram reproduzidos. A [[_wiki/artefatos/fendris\|Fendris]], forjada contra dragões, acabou enterrada nas profundezas de [[_wiki/locais/thandruk_varn\|Thandruk Varn]], cidadela dos anões que a guardaram sem compreender plenamente seu propósito. Outros artefatos foram disputados, preservados ou ocultados por ordens secretas, reinos ambiciosos e templos silenciosos.

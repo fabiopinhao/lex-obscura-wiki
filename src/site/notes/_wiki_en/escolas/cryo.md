@@ -4,7 +4,7 @@
 
 # Cryo
 
-Cryo is the pure blue school that manipulates cold and ice. Its principle is emotional distance as clarity: the conviction that feeling less means seeing better. Its domain is ice and glaciation, and its antagonistic counterpart is [[_wiki_en/escolas/plasma\|Plasma]], where stasis opposes excitation, cold preserving what energy dissolves.
+Cryo is the pure school of the sidereals that manipulates cold and ice. Its principle is emotional distance as clarity: the conviction that feeling less means seeing better. Its domain is ice and glaciation, and its antagonistic counterpart is [[_wiki_en/escolas/plasma\|Plasma]], where stasis opposes excitation, cold preserving what energy dissolves.
 
 ### Principle
 

@@ -4,7 +4,7 @@
 
 # Lyldraeth
 
-Lyldraeth, the Howling Prayer, is a [[_wiki_en/cosmologia/siderais\|sidereal]] entity that manifests as an instrument rather than a figure. Its domain combines [[_wiki_en/escolas/aegis\|Aegis]], protection, with [[_wiki_en/escolas/spectro\|Spectro]], partial displacement into the Ethereal. Protection operates through frequency: the scream exists between planes, and what crosses the boundary acts as a barrier.
+Lyldraeth, the Howling Prayer, is a [[_wiki_en/cosmologia/siderais\|sidereal]] entity that manifests as an instrument. Its domain combines [[_wiki_en/escolas/aegis\|Aegis]], protection, with [[_wiki_en/escolas/spectro\|Spectro]], partial displacement into the Ethereal. Protection operates through frequency: the scream exists between planes, and what crosses the boundary acts as a barrier.
 
 ### Nature
 

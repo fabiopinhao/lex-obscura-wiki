@@ -18,7 +18,7 @@ Shaevan opera na interseção entre substância venenosa e degradação biológi
 
 ### A Fiação
 
-Shaevan não libera pragas: fia. Cada epidemia é uma teia com arquitetura própria, com pontos de origem e vetores de propagação calculados. A paciência da aranha é literal. Shaevan deposita o primeiro fio numa vítima e espera que o contágio trame os demais sozinho, pois intervir mais do que o necessário é desperdício, e uma boa praga, como uma boa teia, sustenta-se depois que a estrutura está posta. Pactuados reproduzem esse método: identificam o nó de uma rede, o mercador itinerante, o pregador de aldeia, e nele depositam o primeiro fio. A fiação exige paciência que a urgência militar não tolera; em campo aberto, servos de Shaevan perdem função, mas em campanhas de atrito prolongado nenhum outro pactuado os substitui.
+Shaevan fia suas pragas: cada epidemia é uma teia com arquitetura própria, com pontos de origem e vetores de propagação calculados. A paciência da aranha é literal. Shaevan deposita o primeiro fio numa vítima e espera que o contágio trame os demais sozinho, pois intervir mais do que o necessário é desperdício, e uma boa praga, como uma boa teia, sustenta-se depois que a estrutura está posta. Pactuados reproduzem esse método: identificam o nó de uma rede, o mercador itinerante, o pregador de aldeia, e nele depositam o primeiro fio. A fiação exige paciência que a urgência militar não tolera; em campo aberto, servos de Shaevan perdem função, mas em campanhas de atrito prolongado nenhum outro pactuado os substitui.
 
 ### Posição no Panteão
 

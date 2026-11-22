@@ -10,7 +10,7 @@ Lorvaq Val’Kir é um [[_wiki/racas/frenim\|frenim]], humano sideral de [[_wiki
 
 É um frenim esguio e magro, de pele amarelo-esverdeada em que veias azuladas pulsam sob a superfície. Os olhos são fendas horizontais de chamas vermelhas e líquidas, que se movem devagar; o rosto é alongado, e véus translúcidos flutuam ao redor dele sem vento.
 
-### Origem e papel
+### Origem e Papel
 
 Vem de Neranthis, terra dos frenim, os humanos siderais. Místico de notável ofício, ocupa-se da arte do [[_wiki/cosmologia/plano_etereo\|plano etéreo]] e do véu que separa os planos.
 

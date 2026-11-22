@@ -17,27 +17,27 @@ Objects that outlived their creators rarely did so by accident.
 
 ## Major Relics
 
-- [[_wiki_en/artefatos/oculus_maior\|Oculus Maior]]: command center for imperial communications
+- [[_wiki_en/artefatos/oculus_maior\|Oculus Maior]]: enlarged sphere, command center for imperial communications
 - [[_wiki_en/artefatos/fendris\|Fendris]]: Luminar dagger capable of cleaving planes
 - [[_wiki_en/artefatos/efigie_de_arothistar\|Effigy of Arothistar]]: animated sentinel of the bridge of Mor’Severith
 
 ## Weapons, Armor, and Insignia
 
-- [[_wiki_en/artefatos/armadura_templaria_de_orum\|Templar Armor of Orum]]: enchanted with strength, endurance, and vigor
-- [[_wiki_en/artefatos/capacete_de_maraxus\|Helmet of Maraxus]]: relic of the defunct arenas of Dromos Draconis; completely conceals its wearer’s face
-- [[_wiki_en/artefatos/bombarda_ananica\|Dwarven Bombard]]: hybrid dwarven-Shadar artillery
-- [[_wiki_en/artefatos/tegmen\|Tegmen]]: standard armor of the Shadar aristocracy, a status symbol
+- [[_wiki_en/artefatos/armadura_templaria_de_orum\|Templar Armor of Orum]]: pre-imperial silver-colored cuirass, enchanted with strength, endurance, and vigor
+- [[_wiki_en/artefatos/capacete_de_maraxus\|Helmet of Maraxus]]: bronze-and-copper relic of the defunct arenas of Dromos Draconis; completely conceals its wearer’s face
+- [[_wiki_en/artefatos/bombarda_ananica\|Dwarven Bombard]]: hybrid dwarven-Shadar firearm from the forges of Thandruk Varn
+- [[_wiki_en/artefatos/tegmen\|tegmen]]: standard armor of the Shadar aristocracy, a status symbol
 - [[_wiki_en/artefatos/insignia_durzken\|Insignia of Durzken]]: ring of authority of the matriarch of House Durzken
 - [[_wiki_en/artefatos/machadacha\|machadacha]]: Grothar’s double-bladed battle-ax
 
 ## Containment Artifacts
 
-- [[_wiki_en/artefatos/grilhoes_de_contencao_arcana\|Shackles of Arcane Containment]]: chains that suppress flow from the ethereal plane
-- [[_wiki_en/artefatos/algemas_de_supressao_arcana\|Manacles of Arcane Suppression]]: bracelets that drain magi (or a convincing bluff)
+- [[_wiki_en/artefatos/grilhoes_de_contencao_arcana\|Shackles of Arcane Containment]]: chains with magi crystals that block the flow from the ethereal plane for those they restrain
+- [[_wiki_en/artefatos/algemas_de_supressao_arcana\|manacles of arcane suppression]]: pair of bracelets that drain magi; one of them once served as a collar in a bluff
 
 ## Religious and Arcane Artifacts
 
-- [[_wiki_en/artefatos/estatueta_de_vozrador\|Statuette of Vozrador]]: obsidian idol from ancient Morvgrad
+- [[_wiki_en/artefatos/estatueta_de_vozrador\|Statuette of Vozrador]]: obsidian devotional effigy, probably of pre-imperial origin
 - [[_wiki_en/artefatos/gargulas_de_protecao\|Gargoyles of Protection]]: stone statuettes known throughout Reinkard for repelling evil spirits
 
 ## Substances and Alchemy
@@ -48,12 +48,12 @@ Objects that outlived their creators rarely did so by accident.
 ## Documents and Texts
 
 - [[_wiki_en/artefatos/de_anima_vendita\|De Anima Vendita]]: treatise by Ambrosin on the Shadars and the pledging of the soul
-- [[_wiki_en/artefatos/livro_vermelho_dos_dragoes\|Red Book of Dragons]]: draconological treatise bound in scales
-- [[_wiki_en/artefatos/tratado_de_wijmarv\|Treatise of Wijmarv]]: reveals the true function of Fendris
+- [[_wiki_en/artefatos/livro_vermelho_dos_dragoes\|Red Book of Dragons]]: draconic grimoire with a cover of stitched scales
+- [[_wiki_en/artefatos/tratado_de_wijmarv\|Treatise of Wijmarv]]: reptile-hide scroll of the tiefling shaman Wijmarv; reveals the true function and limits of Fendris
 
 ## Fragments and Derivatives
 
-- [[_wiki_en/artefatos/gema-viva\|living gem]]: drídar egg incubating with the appearance of a precious gem
+- [[_wiki_en/artefatos/gema-viva\|living gem]]: drídar egg with the appearance of a precious gem
 - [[_wiki_en/artefatos/caco_de_oculus\|Shard of Oculus]]: tracking fragment bound to a surety-curse
 
 ---

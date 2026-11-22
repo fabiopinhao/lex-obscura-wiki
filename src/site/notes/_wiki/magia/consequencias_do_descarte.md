@@ -6,7 +6,7 @@
 
 O descarte é o modo como a instituição encerra a existência funcional de um de seus membros. Cada método deixa um resíduo distinto, redistribui o que o indivíduo possuía e ensina, a quem observa, uma lição sobre o próprio destino.
 
-### O Que Sobra
+### O que Sobra
 
 Cada forma de descarte produz um vestígio próprio. A Consagração Final deixa artefatos imbuídos de [[_wiki/cosmologia/magi\|magi]] e relíquias. A Missão de Honra deixa um nome em memorial e uma lenda de heroísmo. A Transferência não deixa nada, como se a pessoa nunca tivesse existido. O Recolhimento deixa rumores sobre “alas proibidas” e um medo institucional difuso. A Vigília Eterna deixa o mito dos “que dormem”, uma ameaça velada.
 

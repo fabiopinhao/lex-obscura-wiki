@@ -4,7 +4,7 @@
 
 # Cryo
 
-Cryo é a escola pura de azul que manipula frio e gelo. Seu princípio é a distância emocional como clareza: a convicção de que sentir menos é ver melhor. Seu domínio é o gelo e a glaciação, e seu par antagônico é [[_wiki/escolas/plasma\|Plasma]], onde a estase se opõe à excitação, o frio preservando o que a energia dissolve.
+Cryo é a escola pura dos siderais que manipula frio e gelo. Seu princípio é a distância emocional como clareza: a convicção de que sentir menos é ver melhor. Seu domínio é o gelo e a glaciação, e seu par antagônico é [[_wiki/escolas/plasma\|Plasma]], onde a estase se opõe à excitação, o frio preservando o que a energia dissolve.
 
 ### Princípio
 
@@ -20,4 +20,4 @@ Combinada com Necro, produz a morte emocional completa, a incapacidade de sentir
 
 ### Custos
 
-O custo temático é hipotermia leve e tremores incontroláveis, de dois minutos a três horas. O custo ontológico é a frieza emocional progressiva: as emoções resfriam, o amor torna-se afeição distante, a paixão vira memória. Diferente de [[_wiki/escolas/patho\|Patho]], que faz sentir demais, Cryo faz sentir de menos, uma anestesia emocional. A progressão atravessa quatro estágios, do leve atenuamento das reações até o gelo interior permanente, em que sentir passa a ser conceito abstrato. O quarto estágio raramente leva ao descarte, porque a frieza é funcional em todas as fases. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta seus praticantes como [[_wiki/organizacoes/justiciares\|Justiciares]], executores e interrogadores, funções em que a apatia emocional é vantagem operacional.
+O custo temático é hipotermia leve e tremores incontroláveis, de dois minutos a três horas. O custo ontológico é a frieza emocional progressiva: as emoções resfriam, o amor torna-se afeição distante, a paixão vira memória. Diferente de [[_wiki/escolas/patho\|Patho]], que faz sentir demais, Cryo faz sentir de menos, uma anestesia emocional. A progressão atravessa quatro estágios, do leve atenuamento das reações até o gelo interior permanente, em que sentir passa a ser conceito abstrato. O quarto estágio raramente leva ao descarte, porque a frieza é funcional em todas as fases. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta seus praticantes como [[_wiki/organizacoes/justiciares\|justiciares]], executores e interrogadores, funções em que a apatia emocional é vantagem operacional.

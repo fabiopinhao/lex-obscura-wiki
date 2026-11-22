@@ -17,7 +17,7 @@ The progression passes through four stages, measured in years of practice.
 
 ### Progress Through Use
 
-The cost of a school progresses through use, not through merely possessing access. Those who master many schools but concentrate their practice on two or three progress quickly in those and hardly at all in the others. Those who distribute their use equally advance slowly in all of them. Versatility merely divides the cost.
+The cost of a school progresses to the extent that the school is used. Those who master many schools but concentrate their practice on two or three progress quickly in those and hardly at all in the others. Those who distribute their use equally advance slowly in all of them. Thus, versatility divides the cost without lessening it.
 
 ### Access Systems
 
@@ -25,8 +25,8 @@ Each path of access to power shapes this progression. [[_wiki_en/magia/teru\|Ter
 
 ### Mutually Reinforcing Combinations
 
-Some combinations of schools produce costs that add up dangerously. [[_wiki_en/escolas/necro\|Necro]] and [[_wiki_en/escolas/cryo\|Cryo]] lead to complete emotional death, the inability to feel. [[_wiki_en/escolas/phobos\|Phobos]] and [[_wiki_en/escolas/spectro\|Spectro]] generate the terror that nothing may be real. [[_wiki_en/escolas/anatho\|Anatho]] and [[_wiki_en/escolas/psycho\|Psycho]] erode the capacity for genuine interaction. [[_wiki_en/escolas/vita\|Vita]] and [[_wiki_en/escolas/salvo\|Salvo]] create the compulsion to drain and heal without end.
+Some combinations of schools produce costs that add up dangerously. [[_wiki_en/escolas/necro\|Necro]] and [[_wiki_en/escolas/cryo\|Cryo]] lead to complete emotional death, the inability to feel. [[_wiki_en/escolas/phobos\|Phobos]] and [[_wiki_en/escolas/spectro\|Spectro]] generate the terror that nothing may be real. [[_wiki_en/escolas/anatho\|Anatho]] and [[_wiki_en/escolas/psycho\|Psycho]] erode the capacity for genuine interaction. [[_wiki_en/escolas/nomos\|Nomos]] and [[_wiki_en/escolas/geo\|Geo]] petrify the psyche to the point that the caster cannot change anything. [[_wiki_en/escolas/vita\|Vita]] and [[_wiki_en/escolas/salvo\|Salvo]] create the compulsion to drain and heal without end. [[_wiki_en/escolas/belli\|Belli]] and [[_wiki_en/escolas/pyro\|Pyro]] make the caster uncontrollable: they attack allies in the absence of enemies. [[_wiki_en/escolas/gnosi\|Gnosi]] and Nomos lead to total paralysis, in which one knows everything and decides nothing.
 
 ### Neighboring Schools
 
-Different schools can produce costs that feel similar internally. The cold of Necro radiates from the inside out, while that of Cryo penetrates from the outside in. [[_wiki_en/escolas/patho\|Patho]] brings detachment through feeling too much, in active melancholy; Cryo, through feeling too little, in numbness. And the questioning of reality shifts focus according to the school: Spectro asks whether that is real, Psycho whether the thought is one’s own, [[_wiki_en/escolas/hypno\|Hypno]] whether one is actually awake.
+Different schools can produce costs that feel similar internally. The cold of Necro radiates from the inside out, while that of Cryo penetrates from the outside in. [[_wiki_en/escolas/patho\|Patho]] brings detachment through feeling too much, in active melancholy; Cryo, through feeling too little, in numbness. And the questioning of reality shifts focus according to the school: Spectro asks whether that is real, Psycho whether the thought is one’s own, [[_wiki_en/escolas/hypno\|Hypno]] whether one is actually awake. Detachment from the world also follows two directions: [[_wiki_en/escolas/plasma\|Plasma]] is horizontal, a dissolution that discards matter; [[_wiki_en/escolas/urano\|Urano]] is vertical, an ascent that transcends the mundane.

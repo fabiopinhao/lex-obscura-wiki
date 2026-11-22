@@ -4,7 +4,7 @@
 
 # Geo
 
-Geo é a escola pura de verde que manipula terra, pedra e solo como matéria real, com peso e permanência. Seu domínio exige contato com o chão: torna-se inútil sobre água ou no ar. Seu sentimento-chave é a obstinação, a recusa de ceder sentida no corpo como convicção de que permanecer já é resistir. Seu par antagônico é [[_wiki/escolas/aero\|Aero]], a escola do movimento.
+Geo é a escola pura dos titãs que manipula terra, pedra e solo como matéria real, com peso e permanência. Seu domínio exige contato com o chão: torna-se inútil sobre água ou no ar. Seu sentimento-chave é a obstinação, a recusa de ceder sentida no corpo como convicção de que permanecer já é resistir. Seu par antagônico é [[_wiki/escolas/aero\|Aero]], a escola do movimento.
 
 ### Princípio
 
@@ -16,7 +16,7 @@ A mecânica escala da vibração ao redesenho da geografia. Tremor libera vibra�
 
 ### Custos
 
-O custo temático é peso aumentado e músculos enrijecidos como pedra, durando de um minuto a duas horas. O custo ontológico é o imobilismo psicológico, em que a mudança se torna aversiva e as rotinas calcificam. Avança em estágios: primeiro a preferência por rotinas; depois a resistência ativa à novidade; em seguida a percepção de qualquer alteração como ameaça à estabilidade; por fim, o estágio em que o movimento parece violência e só a imobilidade parece segura. Nesse ponto o praticante é mantido em posições defensivas permanentes, onde a recusa de se realocar deixa de ser defeito e vira função. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta geomantes como [[_wiki/organizacoes/templarios\|Templários]], guardas de posição fixa e defensores de fortificações.
+O custo temático é peso aumentado e músculos enrijecidos como pedra, durando de um minuto a duas horas. O custo ontológico é o imobilismo psicológico, em que a mudança se torna aversiva e as rotinas calcificam. Avança em estágios: primeiro a preferência por rotinas; depois a resistência ativa à novidade; em seguida a percepção de qualquer alteração como ameaça à estabilidade; por fim, o estágio em que o movimento parece violência e só a imobilidade parece segura. Nesse ponto o praticante é mantido em posições defensivas permanentes, onde a recusa de se realocar deixa de ser defeito e vira função. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta geomantes como [[_wiki/organizacoes/templarios\|templários]], guardas de posição fixa e defensores de fortificações.
 
 ### Combinações
 

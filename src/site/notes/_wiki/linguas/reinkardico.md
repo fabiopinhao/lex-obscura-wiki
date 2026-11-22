@@ -6,9 +6,9 @@
 
 Reinkárdico é a língua franca do continente, o idioma comum que atravessa fronteiras e raças e serve de base ao entendimento entre povos que, de outro modo, mal se compreenderiam. Surgida na Primeira Era, não carrega poder mágico algum e é tida como a mais fácil de aprender entre as línguas conhecidas.
 
-### Origem e alcance
+### Origem e Alcance
 
-O reinkárdico se formou a partir de dialetos humanos, que pesam mais em sua estrutura, somados a heranças do [[_wiki/linguas/tenebraico\|tenebraico]], do [[_wiki/linguas/aelarian\|aelarian]] e do [[_wiki/linguas/luminar\|luminar]], das quais restou a etimologia, não a magia. Sua gramática é analítica e flexível, fácil de aprender e adaptável à fisiologia de qualquer raça, e foi essa plasticidade, não prestígio mágico, que o espalhou. Seu alcance é universal: falado em toda parte, foi assimilado por completo pelos [[_wiki/racas/shadar\|shadars]], enquanto os [[_wiki/racas/orc\|orcs]] imperiais o falam com sotaque. A difusão o tornou menos a língua de um povo e mais o terreno comum em que o continente conversa consigo mesmo.
+O reinkárdico se formou a partir de dialetos humanos, que pesam mais em sua estrutura, somados a heranças do [[_wiki/linguas/tenebraico\|tenebraico]], do [[_wiki/linguas/aelarian\|aelarian]] e do [[_wiki/linguas/luminar\|luminar]], das quais restou apenas a etimologia. Sua gramática é analítica e flexível, fácil de aprender e adaptável à fisiologia de qualquer raça, e foi essa plasticidade que o espalhou. Seu alcance é universal: falado em toda parte, foi assimilado por completo pelos [[_wiki/racas/shadar\|shadars]], enquanto os [[_wiki/racas/orc\|orcs]] imperiais o falam com sotaque.
 
 ### Escrita
 
@@ -16,4 +16,4 @@ Sua escrita usa um alfabeto humano adaptado, padronizado como a escrita administ
 
 ### Sotaques
 
-O reinkárdico não tem um perfil fonético próprio marcado; o que distingue seus falantes são os sotaques. Entre os nativos, eles são regionais, variando de região para região. Entre as raças que o aprenderam como segunda língua, são de interferência: marcas da língua materna que persistem na pronúncia.
+O reinkárdico não tem um perfil fonético próprio marcado, e seus falantes distinguem-se pelos sotaques. Entre os nativos, eles são regionais. Entre as raças que o aprenderam como segunda língua, são de interferência: marcas da língua materna que persistem na pronúncia.

@@ -24,7 +24,7 @@ In [[_wiki_en/locais/reinkard\|Reinkard]], goblins are almost completely subordi
 
 ### Culture and Customs
 
-Goblin culture in Reinkard has been absorbed by the imperial machine. Domesticated goblins have no recognizable traditions of their own: their rhythms are those of the fortress, their calendars are supply calendars, their rites are maintenance procedures. What remains is behavioral, not ritualistic. Goblins accumulate food scraps, broken tools, pieces of metal, copper wires, lost screws. The compulsion is not avarice, as among the Derros, but anxiety made material: they stockpile because the next period of scarcity is always imminent. The death of a goblin interrupts nothing; the body is removed, the role is filled, and the dead goblin’s possessions are redistributed among its coworkers before the body grows cold.
+Goblin culture in Reinkard has been absorbed by the imperial machine. Domesticated goblins have no recognizable traditions of their own: they live by the rhythms of the fortress and by supply calendars, and their only rites are maintenance procedures. What remains is behavioral. Goblins accumulate food scraps, broken tools, pieces of metal, copper wires, lost screws. The compulsion is anxiety made material, distinct from the avarice of the Derros: they stockpile because the next period of scarcity is always imminent. The death of a goblin interrupts nothing; the body is removed, the role is filled, and the dead goblin’s possessions are redistributed among its coworkers before the body grows cold.
 
 ### Role in the Empire
 
@@ -32,7 +32,7 @@ Goblins occupy the space that Shadars refuse and that orcs are incapable of fill
 
 ### Relationship with Magic
 
-As a gnomish subrace linked to demons, goblins have access to [[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]] on the same terms as orcs, but bonded goblins are rare in fortresses: the cost of the bond is disproportionate to the gain in creatures of such small stature, and the Empire prefers functional goblins to powerful and unstable goblins. Where they excel is in improvised alchemy and trap engineering: without arcane training, they work naturally with volatile materials, explosive mixtures, and trigger mechanisms. [[_wiki_en/panteao/thurgash\|Thûrgash]] is the demon most associated with goblinoids in general, but the goblins’ relationship with him is less devotional and more transactional.
+As a gnomish subrace linked to demons, goblins have access to [[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]] on the same terms as orcs, but goblins who are among the bonded are rare in fortresses: the cost of the bond is disproportionate to the gain in creatures of such small stature, and the Empire prefers functional goblins to powerful and unstable goblins. Where they excel is in improvised alchemy and trap engineering: without arcane training, they work naturally with volatile materials, explosive mixtures, and trigger mechanisms. [[_wiki_en/panteao/thurgash\|Thûrgash]] is the demon most associated with goblinoids in general, but the goblins’ relationship with him is less devotional and more transactional.
 
 ### Voice
 
@@ -40,8 +40,8 @@ Goblins speak quickly, in short, truncated sentences, swallowing syllables when 
 
 ### Internal Conflicts
 
-The central conflict of goblins is not dramatic, it is existential through erosion. Generations of domestication have erased any collective identity that may have existed, and the imperial goblin does not know what it is beyond its function. When that function disappears, when a fortress is abandoned or a kitchen closes, the goblin assigned to that post neither rebels nor migrates: it freezes. The compulsion to accumulate is the only vestige of something predating the Empire, and even that has been channeled toward practical ends.
+The central conflict of goblins is existential and operates through erosion. Generations of domestication have erased any collective identity that may have existed, and the imperial goblin does not know what it is beyond its function. When that function disappears, when a fortress is abandoned or a kitchen closes, the goblin assigned to that post freezes, neither rebelling nor migrating. The compulsion to accumulate is the only vestige of something predating the Empire, and even that has been channeled toward practical ends.
 
 In Veinkard, wild goblins retain a vitality that imperial goblins have lost: aggression, territory, competition for resources. The distance between the two groups grows with each generation, and a wild goblin encountering an imperial one would probably not recognize it as an equal.
 
-Beneath all this lies disposability, which is the most concrete tension of all: goblins survive in the Empire through the inertia of their own invisible indispensability.
+The most concrete tension is disposability: goblins survive in the Empire through inertia, because they remain indispensable in roles no one sees.

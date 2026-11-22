@@ -11,8 +11,8 @@ The structure of the planes, the divine hierarchy, and the forces that sustain o
 ## Structure of the Planes
 
 - [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]]: the space between that connects the material plane to the divine domains
-- [[_wiki_en/cosmologia/interacoes_entre_planos\|Interactions Between Planes]]: how the planes touch, bleed, and contaminate
-- [[_wiki_en/cosmologia/planos_divinos\|Divine Planes]]: the individual domains of each entity, shaped by its nature
+- [[_wiki_en/cosmologia/interacoes_entre_planos\|Interactions Between Planes]]: how the planes touch, bleed, and contaminate one another
+- [[_wiki_en/cosmologia/planos_divinos\|Divine Planes]]: the individual domains of each entity, shaped to suit its nature
 - [[_wiki_en/cosmologia/manto_das_sombras\|Mantle of Shadows]]: the metaphysical phenomenon that altered Reinkard’s planar balance
 
 ## Ontology
@@ -24,8 +24,8 @@ The structure of the planes, the divine hierarchy, and the forces that sustain o
 - [[_wiki_en/cosmologia/monogamia_divina\|Divine Monogamy]]: why the gods rarely share their servants
 - [[_wiki_en/cosmologia/mecanismos_divinos\|Divine Mechanisms]]: how divine power crosses the veil and operates on the material plane
 - [[_wiki_en/cosmologia/manifestacoes_divinas\|Divine Manifestations]]: the ways a god touches the material plane without being invoked
-- [[_wiki_en/cosmologia/noctiluz\|Noctiluz]]: the light that emanates from ruptures in the celestial veil
-- [[_wiki_en/cosmologia/marca_das_luas_gemeas\|Mark of the Twin Moons]]: the druidic tattoo of initiates in Titânia’s third circle
+- [[_wiki_en/cosmologia/noctiluz\|noctiluz]]: the light that emanates from ruptures in the celestial veil
+- [[_wiki_en/cosmologia/marca_das_luas_gemeas\|Mark of the Twin Moons]]: the druidic tattoo of initiates in Titânia’s Third Circle
 
 ## Cosmogony and Theology
 
@@ -38,7 +38,7 @@ The structure of the planes, the divine hierarchy, and the forces that sustain o
 
 ## Arcane Foundations
 
-- [[_wiki_en/cosmologia/magi\|Magi]]: the arcane energy that permeates Thamakard, the substrate of every invocation and divine bond
+- [[_wiki_en/cosmologia/magi\|magi]]: the arcane energy that permeates Thamakard, the substrate of every invocation and divine bond
 - [[_wiki_en/cosmologia/canal_magi\|Magi Channel]]: the link between extradimensional entities and mortals, crossing the ethereal plane
 - [[_wiki_en/cosmologia/nexus\|Nexus Magi]]: a concentration of magi fixed in matter, where ordinary mineral becomes magi crystal
 
@@ -130,7 +130,7 @@ The structure of the planes, the divine hierarchy, and the forces that sustain o
 
 - [[_wiki_en/panteao/corvanthos\|Corvanthos]], Judgment of the Zenith *(Zenith Judgement)*: sepulchral lion who judges from the highest point; the sentence descends like vertical light, with no shadow in which to hide
 
-- [[_wiki_en/panteao/zephrak\|Zephrak]], Merciless Breath *(Merciless Gust)*: feral griffin whose sacred wind does not cool: it tears out, exposes, and carries away what has no root
+- [[_wiki_en/panteao/zephrak\|Zephrak]], Merciless Gust *(Merciless Gust)*: feral griffin whose sacred wind does not cool: it tears out, exposes, and carries away what has no root
 
 - [[_wiki_en/panteao/israfil\|Israfil]], Herald of the Dawn *(Herald of Dawn)*: oliphaunt with incandescent tusks whose restoration cauterizes and sterilizes through light
 

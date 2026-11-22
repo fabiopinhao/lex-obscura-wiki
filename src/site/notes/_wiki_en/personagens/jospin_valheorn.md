@@ -8,7 +8,7 @@ Jospin Valheorn is a human alchemist and theorist of magic, born in [[_wiki_en/l
 
 ### The Materialist Theory
 
-He postulated that all magic is manipulation of [[_wiki_en/cosmologia/magi\|Magi]], a real and invisible alchemical force, and defined the gods by their abundance of Magi, not by spiritual status. He considered alchemy the only conscious and autonomous form of magic, treated [[_wiki_en/magia/teru\|Teru]] as a “metabolic anomaly,” and rejected the concept of the soul, consistent with a system that measures the sacred by the quantity of Magi and not by spiritual essence. His voice comes through only in the written word: an academic, precise, radically materialist tone.
+He postulated that all magic is manipulation of [[_wiki_en/cosmologia/magi\|magi]], a real and invisible alchemical force, and defined the gods by their abundance of magi, not by spiritual status. He considered alchemy the only conscious and autonomous form of magic, treated [[_wiki_en/magia/teru\|Teru]] as a “metabolic anomaly,” and rejected the concept of the soul. His voice comes through only in the written word: an academic, precise, radically materialist tone.
 
 ### Legacy and Irony
 

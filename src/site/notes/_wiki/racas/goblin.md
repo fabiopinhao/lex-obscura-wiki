@@ -24,7 +24,7 @@ Em [[_wiki/locais/reinkard\|Reinkard]], os goblins são quase completamente subo
 
 ### Cultura e Costumes
 
-A cultura goblin em Reinkard foi absorvida pela máquina imperial. Os goblins domesticados não possuem tradições próprias reconhecíveis: seus ritmos são os da fortaleza, seus calendários são os de suprimento, seus ritos são os procedimentos de manutenção. O que resta é comportamental, não ritualístico. Goblins acumulam restos de comida, ferramentas quebradas, pedaços de metal, fios de cobre, parafusos perdidos. A compulsão não é avareza, como entre os derros, mas ansiedade materializada: estocam porque o próximo período de escassez é sempre iminente. A morte de um goblin não interrompe nada; o corpo é removido, a função é preenchida e as posses do morto são redistribuídas entre os colegas antes que o corpo esfrie.
+A cultura goblin em Reinkard foi absorvida pela máquina imperial. Os goblins domesticados não possuem tradições próprias reconhecíveis: vivem pelos ritmos da fortaleza e pelos calendários de suprimento, e seus únicos ritos são os procedimentos de manutenção. O que resta é comportamental. Goblins acumulam restos de comida, ferramentas quebradas, pedaços de metal, fios de cobre, parafusos perdidos. A compulsão é ansiedade materializada, distinta da avareza dos derros: estocam porque o próximo período de escassez é sempre iminente. A morte de um goblin não interrompe nada; o corpo é removido, a função é preenchida e as posses do morto são redistribuídas entre os colegas antes que o corpo esfrie.
 
 ### Papel no Império
 
@@ -40,8 +40,8 @@ Goblins falam rápido, em frases curtas e truncadas, engolindo sílabas quando a
 
 ### Conflitos Internos
 
-O conflito central dos goblins não é dramático, é existencial por erosão. Gerações de domesticação apagaram qualquer identidade coletiva que tenha existido, e o goblin imperial não sabe o que é além de sua função. Quando a função desaparece, quando uma fortaleza é abandonada ou uma cozinha se fecha, o goblin designado para aquele posto não se rebela nem migra: paralisa. A compulsão por acumulação é o único vestígio de algo anterior ao Império, e mesmo ela foi canalizada para fins práticos.
+O conflito central dos goblins é existencial e opera por erosão. Gerações de domesticação apagaram qualquer identidade coletiva que tenha existido, e o goblin imperial não sabe o que é além de sua função. Quando a função desaparece, quando uma fortaleza é abandonada ou uma cozinha se fecha, o goblin designado para aquele posto paralisa, sem se rebelar nem migrar. A compulsão por acumulação é o único vestígio de algo anterior ao Império, e mesmo ela foi canalizada para fins práticos.
 
 Em Veinkard, os goblins selvagens conservam uma vitalidade que os imperiais perderam: agressividade, território, disputa por recursos. A distância entre os dois grupos cresce a cada geração, e um goblin selvagem que encontrasse um imperial provavelmente não o reconheceria como igual.
 
-Sob tudo isso está a descartabilidade, que é a tensão mais concreta de todas: os goblins sobrevivem no Império pela inércia de sua própria indispensabilidade invisível.
+A tensão mais concreta é a descartabilidade: os goblins sobrevivem no Império por inércia, porque continuam indispensáveis em funções que ninguém vê.

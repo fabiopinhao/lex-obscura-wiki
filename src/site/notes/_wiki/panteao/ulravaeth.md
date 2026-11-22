@@ -12,7 +12,7 @@ Ulravaeth se manifesta como duas silhuetas idênticas, uma voltada para o observ
 
 ### Domínio
 
-Ulravaeth governa os limiares, espaços onde a vigília se confunde com o sono e os mortos ainda não sabem que morreram. Suas ilusões funcionam por subtração: apagam referências e dissolvem certezas até que a mente perca toda âncora para distinguir o real do projetado. Quem entra em seu domínio não vê coisas que não existem, mas deixa de ver coisas que existem. O Custódio se alimenta da incerteza de quem perdeu a capacidade de confirmar que ainda está vivo. A sinergia entre as escolas reforça o método: Umbra anima sombras reais e Spectro projeta ilusões sobre elas, produzindo sombras detalhadas, capazes de simular soldados ou o próprio alvo. Os [[_wiki/racas/drul\|druls]] de [[_wiki/locais/vor-ghol\|Vor-Ghol]] empregam essa combinação como desinformação tática.
+Ulravaeth governa os limiares, espaços onde a vigília se confunde com o sono e os mortos ainda não sabem que morreram. Suas ilusões funcionam por subtração: apagam referências e dissolvem certezas até que a mente perca toda âncora para distinguir o real do projetado. Quem entra em seu domínio deixa de ver coisas que existem. O Custódio se alimenta da incerteza de quem perdeu a capacidade de confirmar que ainda está vivo. A sinergia entre as escolas reforça o método: Umbra anima sombras reais e Spectro projeta ilusões sobre elas, produzindo sombras detalhadas, capazes de simular soldados ou o próprio alvo. Os [[_wiki/racas/drul\|druls]] de [[_wiki/locais/vor-ghol\|Vor-Ghol]] empregam essa combinação como desinformação tática.
 
 ### Função no Panteão
 
@@ -20,4 +20,4 @@ Entre os [[_wiki/cosmologia/diabos\|diabos]], Ulravaeth ocupa o papel que nenhum
 
 ### O Pacto
 
-Os [[_wiki/organizacoes/ophideias\|Ophideias]] invocam Ulravaeth para projeção espectral e controle da própria sombra em missões de infiltração. O pactuado ganha acuidade em Spectro e Umbra, com ênfase nas ilusões subtrativas, mas o custo corrói por duas frentes. Spectro instala uma dúvida epistemológica: o pactuado toca objetos para confirmar que são sólidos e desconfia do que acabou de ver. Umbra instala fotofobia crescente, até a luz se tornar agressão. As duas erosões se reforçam: quem duvida do que vê prefere a penumbra, e quem vive na penumbra tem cada vez menos referências para confirmar o que é real.
+As [[_wiki/organizacoes/ophideias\|ophideias]] invocam Ulravaeth para projeção espectral e controle da própria sombra em missões de infiltração. O pactuado ganha acuidade em Spectro e Umbra, com ênfase nas ilusões subtrativas, mas o custo corrói por duas frentes. Spectro instala uma dúvida epistemológica: o pactuado toca objetos para confirmar que são sólidos e desconfia do que acabou de ver. Umbra instala fotofobia crescente, até a luz se tornar agressão. As duas erosões se reforçam: quem duvida do que vê prefere a penumbra, e quem vive na penumbra tem cada vez menos referências para confirmar o que é real.

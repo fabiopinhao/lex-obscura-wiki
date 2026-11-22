@@ -16,7 +16,7 @@ A evidência dessa presença é tangível. Rosários de [[_wiki/panteao/azazel\|
 
 As duas sub-raças seguiram destinos divergentes. Os aquilars são os avianos plenos: altos, com asas funcionais na maturidade e construção aerodinâmica feita para o voo, predominando fenótipos de rapinantes, águias e falcões. Antes da conquista [[_wiki/racas/shadar\|shadar]], ocupavam posições integradas em cidades mistas como [[_wiki/locais/myrgarde\|Myrgarde]], servindo como sentinelas, guardiões de templo e sacerdotes de Devotio Sancta. Na [[_wiki/conceitos/terceira_era\|Terceira Era]] são raros, dispersos e mutilados, pois o [[_wiki/organizacoes/imperio_sombrio\|Império]] cortou-lhes o voo por múltiplos métodos.
 
-Os fringais são avianos diminutos, de asas vestigiais que nunca conferiram voo, com fenótipos de passeriformes menores, carriças e tentilhões. Nasceram da mesma interferência angelical, sem manipulação artificial nem degeneração ambiental, e o fenótipo menor é expressão natural da variação dentro da linhagem branca. Ainda assim, os aquilars os tratam como avianos incompletos, e o resto do mundo os trata como presa.
+Os fringais são avianos diminutos, de asas vestigiais que nunca conferiram voo, com fenótipos de passeriformes menores, carriças e tentilhões. Nasceram da mesma interferência angelical, sem manipulação artificial nem degeneração ambiental, e o fenótipo menor é expressão natural da variação dentro da linhagem angélica. Ainda assim, os aquilars os tratam como avianos incompletos, e o resto do mundo os trata como presa.
 
 ### A Proteção e o Ressentimento
 

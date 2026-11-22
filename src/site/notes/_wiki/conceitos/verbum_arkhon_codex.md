@@ -8,13 +8,13 @@ O Verbum Arkhon, ou Palavra do Soberano, é a primeira e mais sagrada seção do
 
 ### Supremacia sobre a Lex Obscura
 
-O Verbum Arkhon não revogou a [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]]: alinhou-se a ela e sobrepôs-se a ela, sendo ao mesmo tempo revolução e continuidade, mudança radical em corpo de reforma administrativa. Na prática, qualquer decreto do Verbum pode suspender ou sobrepor qualquer cláusula da Lex quando o soberano assim decide. A dinâmica encena uma noção de soberania em que o soberano não é quem aplica a lei, mas quem decide quando a lei não se aplica: Arothistar pode declarar herege até [[_wiki/personagens/xarn\|Xarn]], o próprio criador da Lex, porque a decisão soberana precede a norma.
+O Verbum Arkhon alinhou-se à [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]] e sobrepôs-se a ela sem revogá-la, sendo ao mesmo tempo revolução e continuidade, mudança radical em corpo de reforma administrativa. Na prática, qualquer decreto do Verbum pode suspender ou sobrepor qualquer cláusula da Lex quando o soberano assim decide. A dinâmica encena uma noção de soberania em que o soberano é quem decide quando a lei não se aplica: Arothistar pode declarar herege até [[_wiki/personagens/xarn\|Xarn]], o próprio criador da Lex, porque a decisão soberana precede a norma.
 
 ### Relação com os Justiciares
 
-Para os [[_wiki/organizacoes/justiciares\|Justiciares]], o Verbum Arkhon é ao mesmo tempo fonte de autoridade e limitação absoluta. Sua palavra justifica cada interrogatório, cada execução e cada sentença, mas essa mesma palavra pode revogá-los, destituí-los ou condená-los sem recurso. A fórmula pronunciada durante a Unção expressa essa subordinação: “Arothistar est lex. [[_wiki/panteao/abbhal\|Abbhal]] est vox. Tu es martellus.”
+Para os [[_wiki/organizacoes/justiciares\|justiciares]], o Verbum Arkhon é ao mesmo tempo fonte de autoridade e limitação absoluta. Sua palavra justifica cada interrogatório, cada execução e cada sentença, mas essa mesma palavra pode revogá-los, destituí-los ou condená-los sem recurso. A fórmula pronunciada durante a Unção expressa essa subordinação: “Arothistar est lex. [[_wiki/panteao/abbhal\|Abbhal]] est vox. Tu es martellus.”
 
-### A língua da exceção
+### A Língua da Exceção
 
 A soberania que o Verbum Arkhon encarna tem um correlato linguístico. Assim como o soberano decide quando a Lex Obscura não se aplica, decide também em que língua a exceção é declarada. A hegemonia imperial do [[_wiki/linguas/reinkardico\|reinkárdico]] é esse mesmo princípio de soberania transposto para o plano da língua: a Palavra do Soberano e a língua única do governo são duas faces de um só gesto, o de decidir o que vale. É o princípio que estrutura a [[_wiki/conceitos/politica_linguistica\|Política Linguística do Império Sombrio]].
 

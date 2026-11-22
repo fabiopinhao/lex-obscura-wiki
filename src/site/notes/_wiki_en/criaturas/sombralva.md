@@ -8,11 +8,11 @@ The sombralva is a large feline from the underground depths of [[_wiki_en/locais
 
 ### Nomenclature
 
-“Sombralva” is the species’ proper name, the canonical technical term used in zoological studies, imperial records, and any context requiring precision. “Shadow panther” is the descriptive designation commonly used among ordinary speakers of [[_wiki_en/linguas/reinkardico\|Reinkardic]], the way surface peoples identify the animal: it is a functional description, rather than a proper name. The word Sombralva was coined from this descriptive concept, rooted in *shadow*, as scholars and the Druls themselves needed to distinguish the domesticated species from ordinary surface panthers. Literate characters and Druls tend to say “sombralva”; ordinary characters say “shadow panther,” or just “panther” when the context is clear.
+“Sombralva” is the species’ proper name, the canonical technical term used in zoological studies, imperial records, and any context requiring precision. “Shadow panther” is the descriptive and functional designation commonly used among ordinary speakers of [[_wiki_en/linguas/reinkardico\|Reinkardic]], the way surface peoples identify the animal. The word Sombralva was coined from this descriptive concept, rooted in *shadow*, as scholars and the Druls themselves needed to distinguish the domesticated species from ordinary surface panthers. Literate characters and Druls tend to say “sombralva”; ordinary characters say “shadow panther,” or just “panther” when the context is clear.
 
 ### Nature
 
-The sombralva has fur ranging from absolute black to dark purple, absorbing ambient light, and eyes with a nocturnal glow that shifts from violet to amber. It is silent as shadow, agile on rough and underground terrain, and sees fully in the dark. It is trained to obey whispered commands and to tolerate its female riders’ shadow magic.
+The sombralva has fur ranging from absolute black to dark purple, absorbing ambient light, and eyes with a nocturnal glow that shifts from violet to amber. It is silent as shadow and agile on rough and underground terrain. It is trained to obey whispered commands and to tolerate its female riders’ shadow magic.
 
 ### Use
 

@@ -20,7 +20,7 @@ Mur fala em frases curtas e exclamativas, sem floreio, todas cheias de nomes e a
 
 Gosta de plateia e de fazer piada. Ri da própria piada antes dos outros, e boa parte delas não tem graça; o humor dele se dirige a quem está perto, entenda ou não. Sela a piada com uma pancada de amizade no braço do companheiro.
 
-### A obsessão
+### A Obsessão
 
 Mur carrega um impulso obsessivo por elfos, em especial os [[_wiki/racas/sylvano\|sylvanos]]: um ódio racial profundo que se mistura à vontade de humilhar e violentar e se manifesta como fixação ao mesmo tempo sexualizada e violenta. É o traço que o distingue dos outros orcs da guarda, e também sua maior fragilidade tática: diante de prisioneiros élficos, a obsessão pode comprometer a disciplina. Por isso Grothar o tolera, mas o mantém sob vigilância.
 

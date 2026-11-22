@@ -8,11 +8,11 @@ Half of the divine entities are bicolored, that is, they represent two of the ar
 
 ### Dominant Color Rule
 
-Every entity has a dominant color that determines three things: which system is used to access it, its primary philosophy, and the type of relationship it establishes with the caster. The dominant color does not indicate superior power, only the bond system required to reach the entity. In an entity with two colors, dominance determines whether access is through [[_wiki_en/magia/pactum_diaboli\|Pactum Diaboli]], [[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]], [[_wiki_en/magia/symbiosis_naturae\|Symbiosis Naturae]], [[_wiki_en/magia/devotio_sancta\|Devotio Sancta]], or [[_wiki_en/magia/meditatio_aetheris\|Meditatio Aetheris]]. Each god grants exactly two schools of magic, without exception.
+Every entity has a dominant color that determines three things: which system is used to access it, its primary philosophy, and the type of relationship it establishes with the caster. The dominant color indicates only the bond system required to reach the entity, without implying superior power. In an entity with two colors, dominance determines whether access is through [[_wiki_en/magia/pactum_diaboli\|Pactum Diaboli]], [[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]], [[_wiki_en/magia/symbiosis_naturae\|Symbiosis Naturae]], [[_wiki_en/magia/devotio_sancta\|Devotio Sancta]], or [[_wiki_en/magia/meditatio_aetheris\|Meditatio Aetheris]]. Each god grants exactly two schools of magic, without exception.
 
 ### Racial Compatibility
 
-Each race has a primary affinity for a system and a color, which is the most common bond, but not an exclusive one:
+Each race has a primary affinity for a system and a color, which is the most common bond but is not exclusive:
 
 - [[_wiki_en/racas/shadar\|Shadars]]: Pactum Diaboli or [[_wiki_en/magia/teru\|Teru]]
 - [[_wiki_en/racas/varnakiano\|Varnakians]]: Vinculum Daemonis or Teru
@@ -20,4 +20,4 @@ Each race has a primary affinity for a system and a color, which is the most com
 - [[_wiki_en/racas/elarino\|Elarins]]: Devotio Sancta or Teru
 - [[_wiki_en/racas/frenim\|Frenim]]: Meditatio Aetheris or Teru
 
-Bonds of other kinds are possible, not forbidden. A Shadar bonds more easily with [[_wiki_en/cosmologia/demonios\|demons]] and [[_wiki_en/cosmologia/siderais\|sidereals]] (similar natures), almost always as a secondary bond to a primary devil, and almost never with [[_wiki_en/cosmologia/titas\|titans]] and [[_wiki_en/cosmologia/anjos\|angels]] (opposing natures). The restriction that prevents pacts between a Shadar and a demon is imperial law, not a natural incompatibility of color.
+Bonds of other kinds are possible. A Shadar bonds more easily with [[_wiki_en/cosmologia/demonios\|demons]] and [[_wiki_en/cosmologia/siderais\|sidereals]] (similar natures), almost always as a bond secondary to a primary bond with a devil, and almost never with [[_wiki_en/cosmologia/titas\|titans]] and [[_wiki_en/cosmologia/anjos\|angels]] (opposing natures). The restriction that prevents pacts between a Shadar and a demon is imperial law, with no basis in a natural incompatibility of color.

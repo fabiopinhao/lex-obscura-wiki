@@ -8,4 +8,4 @@ O Culto de Hazburim é um culto demoníaco clandestino dedicado a [[_wiki/pantea
 
 ### Falha de Detecção
 
-Sua permanência ilustra uma falha do [[_wiki/organizacoes/imperio_sombrio\|império]] na detecção de pactos clandestinos: um culto proscrito sustenta-se por anos sem que o Culto Sombrio o identifique. A magia capaz de expor tais vínculos é a mesma que revelaria aliados inconvenientes, o que torna seu uso politicamente perigoso.
+Sua permanência ilustra uma falha do [[_wiki/organizacoes/imperio_sombrio\|Império]] na detecção de pactos clandestinos: um culto proscrito sustenta-se por anos sem que o Culto Sombrio o identifique. A magia capaz de expor tais vínculos é a mesma que revelaria aliados inconvenientes, o que torna seu uso politicamente perigoso.

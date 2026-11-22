@@ -4,7 +4,7 @@
 
 # Anjos
 
-Os Anjos, também chamados Deuses Brancos ou Celestiais, são a categoria divina associada à [[_wiki/cosmologia/cor_arcana\|cor arcana]] branca: justiça, pureza e ordem moral. Habitam planos celestes distantes, descritos pelos devotos como maravilhosos e perfeitos.
+Os anjos, também chamados Deuses Brancos ou Celestiais, são a categoria divina associada à [[_wiki/cosmologia/cor_arcana\|cor arcana]] branca: justiça, pureza e ordem moral. Habitam planos celestes distantes, descritos pelos devotos como maravilhosos e perfeitos.
 
 ### Natureza
 
@@ -12,7 +12,7 @@ Crença difundida sustenta que os anjos sejam os únicos deuses a compartilhar s
 
 ### Sistema de Acesso
 
-O vínculo com anjos opera por [[_wiki/magia/devotio_sancta\|Devotio Sancta]]: devoção genuína canalizada em preces, dogmas e rituais sagrados. Anjos não concedem poder por contrato nem por vínculo de força, e sim por fé. Quanto mais genuína a devoção, mais generosa a resposta; a transgressão do código moral resulta em perda imediata de poder, e a dúvida enfraquece a magia.
+O vínculo com anjos opera por [[_wiki/magia/devotio_sancta\|Devotio Sancta]]: devoção genuína canalizada em preces, dogmas e rituais sagrados. Anjos concedem poder apenas pela fé, sem contrato nem vínculo de força. Quanto mais genuína a devoção, mais generosa a resposta; a transgressão do código moral resulta em perda imediata de poder, e a dúvida enfraquece a magia.
 
 ### Os Álvarar
 
@@ -20,7 +20,7 @@ Entre os praticantes mais devotos da Sancta surgiram os [[_wiki/racas/alvarar\|�
 
 ### Declínio em Reinkard
 
-Os anjos não foram derrotados nem aprisionados: perderam relevância. O domínio das sombras tornou [[_wiki/locais/reinkard\|Reinkard]] inóspito para sua influência. Onde os [[_wiki/cosmologia/titas\|Titãs]] negociaram compromissos pragmáticos, os anjos recusaram qualquer concessão e viram sua presença minguar. [[_wiki/personagens/peredur\|Peredur]] formulou a sentença: “Os alvos escolheram pureza sem concessão, e pereceram por ela.” [[_wiki/panteao/azazel\|Azazel]] está livre, mas irrelevante em Reinkard, e precisaria de uma transformação civilizacional para reconquistar presença. A fé luminosa sobrevive clandestinamente nas margens do [[_wiki/organizacoes/imperio_sombrio\|império]], sem força institucional: [[_wiki/personagens/abramis\|Abramis]], padre de [[_wiki/locais/niedellin\|Niedellin]], é devoto da [[_wiki/organizacoes/ordem_de_azazel\|Ordem de Azazel]].
+Os anjos perderam relevância sem terem sido derrotados nem aprisionados. O domínio das sombras tornou [[_wiki/locais/reinkard\|Reinkard]] inóspito para sua influência. Onde os [[_wiki/cosmologia/titas\|titãs]] negociaram compromissos pragmáticos, os anjos recusaram qualquer concessão e viram sua presença minguar. [[_wiki/personagens/peredur\|Peredur]] formulou a sentença: “Os alvos escolheram pureza sem concessão, e pereceram por ela.” [[_wiki/panteao/azazel\|Azazel]] está livre, mas irrelevante em Reinkard, e precisaria de uma transformação civilizacional para reconquistar presença. A fé luminosa sobrevive clandestinamente nas margens do [[_wiki/organizacoes/imperio_sombrio\|Império]], sem força institucional: [[_wiki/personagens/abramis\|Abramis]], padre de [[_wiki/locais/niedellin\|Niedellin]], é devoto da [[_wiki/organizacoes/ordem_de_azazel\|Ordem de Azazel]].
 
 ### Anjos Nomeados
 

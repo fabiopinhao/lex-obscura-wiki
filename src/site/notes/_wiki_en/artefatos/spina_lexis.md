@@ -12,7 +12,7 @@ The name works through two images. As an architectural column, the scepter suppo
 
 ### Form
 
-It is a short, portable scepter for judicial use, wielded in one hand, and not a staff or long rod. Its length equals that of a [[_wiki_en/cosmologia/magi\|magi]] sword, the standard weapon of shadow lords. Its compact form follows its function: interrogations, ritual executions, and mobility in the field.
+It is a short, portable scepter for judicial use, wielded in one hand, without the bulk of a staff or long rod. Its length equals that of a [[_wiki_en/cosmologia/magi\|magi]] sword, the standard weapon of shadow lords. Its compact form follows its function: interrogations, ritual executions, and mobility in the field.
 
 ### Composition
 

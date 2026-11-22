@@ -4,7 +4,7 @@
 
 # Psycho
 
-Psycho is the hybrid school of red and blue magic, dedicated to the Mind and the Psyche. It invades, reads, destroys, and rewrites the minds of others through intrusive force: where [[_wiki_en/escolas/gnosi\|Gnosi]] knows passively, Psycho breaks the door open and enters. Its key feeling is the impulse to enter, another’s mind as a door that can, and must, be opened. It is the school opposite to [[_wiki_en/escolas/hypno\|Hypno]].
+Psycho is the hybrid magic school of the demons and the sidereals, dedicated to the Mind and the Psyche. It invades, reads, destroys, and rewrites the minds of others through intrusive force: where [[_wiki_en/escolas/gnosi\|Gnosi]] knows passively, Psycho breaks the door open and enters. Its key feeling is the impulse to enter, another’s mind as a door that can, and must, be opened. It is the school opposite to [[_wiki_en/escolas/hypno\|Hypno]].
 
 ### Practices
 

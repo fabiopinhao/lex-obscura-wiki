@@ -4,11 +4,11 @@
 
 # Worg
 
-Os worgs são [[_wiki/racas/vulfano\|vulfanos]] de porte grande, presos para sempre numa dualidade entre homem e besta. Conscientes demais para serem feras e bestiais demais para serem aceitos como pessoas, habitam o limiar entre civilização e selvageria. Vivem nas margens das cidades do [[_wiki/organizacoes/imperio_sombrio\|Império]], tolerados porque úteis e nunca aceitos.
+Os worgs são [[_wiki/racas/vulfano\|vulfanos]] de porte grande, presos para sempre numa dualidade entre homem e besta. Conscientes demais para serem feras e bestiais demais para serem aceitos como pessoas, habitam o limiar entre civilização e selvageria. Vivem nas margens das cidades do [[_wiki/organizacoes/imperio_sombrio\|Império]].
 
 ### Natureza Dual
 
-Os worgs não são nem homem nem besta, e diferem dos lobisomens por não alternarem entre formas separadas: estão eternamente presos em sua dualidade. As origens da raça são matéria de disputa entre sábios, sem consenso. Algumas tradições os tomam por antigos metamorfos que ficaram travados entre formas durante um ritual corrompido; outras, por criações deliberadas de arcanistas em busca de soldados que unissem força bestial e inteligência humana; outras ainda, por lobos expostos por gerações a energias planares. As teorias não se excluem, e diferentes linhagens podem ter origens distintas, todas talvez interpretações posteriores de um evento mais simples: a interferência divina das [[_wiki/eventos/guerras_raciais\|Guerras Raciais]], quando entidades diabólicas cruzaram humanos e caninos selvagens.
+Os worgs diferem dos lobisomens por não alternarem entre formas separadas. As origens da raça são matéria de disputa entre sábios, sem consenso. Algumas tradições os tomam por antigos metamorfos que ficaram travados entre formas durante um ritual corrompido; outras, por criações deliberadas de arcanistas em busca de soldados que unissem força bestial e inteligência humana; outras ainda, por lobos expostos por gerações a energias planares. As teorias não se excluem, e diferentes linhagens podem ter origens distintas, todas talvez interpretações posteriores de um evento mais simples: a interferência divina das [[_wiki/eventos/guerras_raciais\|Guerras Raciais]], quando entidades diabólicas cruzaram humanos e caninos selvagens.
 
 ### Fisiologia
 
@@ -24,7 +24,7 @@ Cada decisão de um worg é um conflito entre instinto e intelecto, e muitos des
 
 ### Sociedade e a Skuld
 
-Nas eras primordiais, os worgs organizavam-se em alcateias tribais conhecidas como Vargskol, de cinco a quinze indivíduos, lideradas por quem mantivesse o grupo vivo e invisível, e não pela força bruta. Nessas alcateias, worgs e [[_wiki/racas/varglin\|varglins]] coexistiam em simbiose. Na [[_wiki/conceitos/terceira_era\|Terceira Era]], porém, a alcateia como estrutura praticamente desapareceu: os worgs urbanos vivem em grupos fluidos de conveniência nos bairros periféricos, esgotos e zonas portuárias, e migram quando uma cidade se torna hostil.
+Nas eras primordiais, os worgs organizavam-se em alcateias tribais conhecidas como Vargskol, de cinco a quinze indivíduos, lideradas por quem mantivesse o grupo vivo e invisível, sem que a força bruta decidisse a liderança. Nessas alcateias, worgs e [[_wiki/racas/varglin\|varglins]] coexistiam em simbiose. Na [[_wiki/conceitos/terceira_era\|Terceira Era]], porém, a alcateia como estrutura praticamente desapareceu: os worgs urbanos vivem em grupos fluidos de conveniência nos bairros periféricos, esgotos e zonas portuárias, e migram quando uma cidade se torna hostil.
 
 A cultura worg gira em torno de um sistema informal de dívidas e favores chamado skuld. Todo favor prestado é registrado pela memória olfativa, infalível, e todo favor recebido gera obrigação. Lealdade, gratidão e honra passam pelo cálculo de skuld, e a traição máxima entre worgs é a dívida não paga. O sistema funciona como economia paralela e alicerce das redes de informantes e mercados negros onde a raça prospera.
 

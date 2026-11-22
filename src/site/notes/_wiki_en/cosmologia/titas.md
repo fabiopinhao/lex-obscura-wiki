@@ -8,11 +8,11 @@ The titans, also called Green Gods or Natural Guardians, are the gods closest to
 
 ### Nature
 
-They are believed to have existential planes of their own, but, if that is the case, they spend more time outside them than within. They create avatars relatively frequently, protect chosen regions, and grant power to those who fight for the sovereignty of life and nature. They do not moralize or judge mortal behavior by abstract codes; they react when the cycle is broken, when the earth is poisoned, when the balance is forced toward one extreme or the other. Their tolerance is not weakness, but patience: when they act, they are implacable.
+They are believed to have existential planes of their own, but, if that is the case, they spend more time outside them than within. They create avatars relatively frequently, protect chosen regions, and grant power to those who fight for the sovereignty of life and nature. They do not moralize or judge mortal behavior by abstract codes; they react when the cycle is broken, when the earth is poisoned, when the balance is forced toward one extreme or the other. Their tolerance is patience: when they act, they are implacable.
 
 ### Access System
 
-The bond with the titans operates through [[_wiki_en/magia/symbiosis_naturae\|Symbiosis Naturae]], a symbiotic relationship that requires the titan’s initial grant but is sustained by mutual respect. The titans are tolerant of the mistakes of those who have made pacts with them and do not abandon allies over minor failings. The system requires immersion in the natural world and sensitivity to the cycle of life and death, not ritualistic devotion.
+The bond with the titans operates through [[_wiki_en/magia/symbiosis_naturae\|Symbiosis Naturae]], a symbiotic relationship that requires the titan’s initial grant but is sustained by mutual respect. The titans are tolerant of the mistakes of those who have made pacts with them and do not abandon allies over minor failings. The system requires immersion in the natural world and sensitivity to the cycle of life and death, and does not require ritualistic devotion.
 
 ### Relationship with Mortals
 
@@ -20,4 +20,4 @@ The bond with the titans operates through [[_wiki_en/magia/symbiosis_naturae\|Sy
 
 ### Named Titans
 
-Titânia, the Green Mother, is patron of the Sylvans and counts Gaelwyn among her devotees. [[_wiki_en/panteao/morlgrund\|Morlgrund]] is the Titan of the Earth, guardian of Thal’Serin. [[_wiki_en/panteao/durathain\|Durathain]] appears only in a folk curse that swears by his dirty fingers.
+Titânia, the Green Mother, is patron of the Sylvans and counts Gaelwyn among her devotees. [[_wiki_en/panteao/morlgrund\|Morlgrund]] is the Titan of the Earth, guardian of Thal’Serin. [[_wiki_en/panteao/durathain\|Durathain]] appears only in a folk curse in which people swear by his dirty fingers.

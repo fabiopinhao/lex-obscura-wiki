@@ -4,11 +4,11 @@
 
 # Fluxus Aetheris
 
-Fluxus Aetheris, also called Direct Ethereal Manipulation, is the informal term for the direct manipulation of the conduits of the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]]. It does not constitute a formal school of magic, but rather the advanced application of the schools [[_wiki_en/escolas/cosmo\|Cosmo]] and [[_wiki_en/escolas/spectro\|Spectro]], the only two that interact directly with the ethereal plane. Both share the colors blue and black, with their predominance reversed: in Cosmo, ethereal and intellectual blue prevails; in Spectro, shadowy and spectral black.
+Fluxus Aetheris, also called Direct Ethereal Manipulation, is the informal term for the direct manipulation of the conduits of the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]]. Without the status of a formal school of magic, it constitutes the advanced application of the schools [[_wiki_en/escolas/cosmo\|Cosmo]] and [[_wiki_en/escolas/spectro\|Spectro]], the only two that interact directly with the ethereal plane. Both are hybrids of sidereals and devils, with their predominance reversed: in Cosmo, the sidereal, ethereal, and intellectual part prevails; in Spectro, the devilish, shadowy, and spectral part.
 
 ### Principle
 
-All interplanar magic crosses the ethereal plane through the [[_wiki_en/cosmologia/canal_magi\|magi channel]], a temporary interface that forms during invocation and dissolves at its conclusion. In most access systems, the caster uses the channel only as a means of passage. Fluxus Aetheris reverses this logic: the channel ceases to be a means and becomes the target. Instead of casting through the ethereal plane, the practitioner attempts to cast upon it, forcing the channel to remain open, widening it, or redirecting its flow.
+All interplanar magic crosses the ethereal plane through the [[_wiki_en/cosmologia/canal_magi\|magi channel]], a temporary interface that forms during invocation and dissolves at its conclusion. In most access systems, the caster uses the channel only as a means of passage. Fluxus Aetheris reverses this logic and makes the channel the target: the practitioner attempts to cast upon the ethereal plane, forcing the channel to remain open, widening it, or redirecting its flow.
 
 ### Danger
 

@@ -8,7 +8,7 @@ The Reinkardic Wars were the first continental war in the history of [[_wiki_en/
 
 ### The Exhaustion of the Plateau
 
-In the last century of the Second Era, the Shadow Cult had garrisoned its outlying fortresses, unified the temples under the [[_wiki_en/conceitos/lex_obscura_decreto\|Lex Obscura]], and consolidated the [[_wiki_en/organizacoes/alianca_subterranea\|Underground Alliance]]. [[_wiki_en/locais/morvgrad\|Morvgrad]] operated as the religious and military capital of a power that had nowhere left to expand without descending. The descent began not with armies, but with hunger and extortion.
+In the last century of the Second Era, the Shadow Cult had garrisoned its outlying fortresses, unified the temples under the [[_wiki_en/conceitos/lex_obscura_decreto\|Lex Obscura]], and consolidated the [[_wiki_en/organizacoes/alianca_subterranea\|Underground Alliance]]. [[_wiki_en/locais/morvgrad\|Morvgrad]] operated as the religious and military capital of a power that had nowhere left to expand without descending. The descent began with hunger and extortion, before the armies.
 
 ### Command and Strategy
 

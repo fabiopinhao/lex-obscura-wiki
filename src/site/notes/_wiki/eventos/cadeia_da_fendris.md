@@ -4,7 +4,7 @@
 
 # Cadeia da Fendris
 
-A Cadeia da [[_wiki/artefatos/fendris\|Fendris]] designa a sequência de eventos iniciada com o roubo de uma adaga da galeria privada do Lorde Sombrio, em [[_wiki/locais/morvgrad\|Morvgrad]]. A Fendris, relíquia [[_wiki/racas/luminares\|luminar]] que os anões de [[_wiki/locais/thandruk_varn\|Thandruk Varn]] guardavam desde a [[_wiki/conceitos/primeira_era\|Primeira Era]] sem compreender sua natureza, fora trazida à cidade como troféu de conquista e exibida no museu particular do Conselheiro [[_wiki/personagens/dessian_broel\|Dessian Broel]], Administrador de Recursos.
+A Cadeia da [[_wiki/artefatos/fendris\|Fendris]] designa a sequência de eventos iniciada com o roubo de uma adaga da galeria privada do lorde sombrio, em [[_wiki/locais/morvgrad\|Morvgrad]]. A Fendris, relíquia [[_wiki/racas/luminares\|luminar]] que os anões de [[_wiki/locais/thandruk_varn\|Thandruk Varn]] guardavam desde a [[_wiki/conceitos/primeira_era\|Primeira Era]] sem compreender sua natureza, fora trazida à cidade como troféu de conquista e exibida no museu particular do Conselheiro [[_wiki/personagens/dessian_broel\|Dessian Broel]], Administrador de Recursos.
 
 ### O Roubo
 

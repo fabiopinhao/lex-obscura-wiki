@@ -4,11 +4,11 @@
 
 # Hydro
 
-Hydro é a escola híbrida de magia que manipula a água existente. Governa o domínio da água e da corrente com precisão superior a qualquer escola que afete a matéria em geral. Exige a proximidade de um corpo d’água ou de umidade, mas compensa essa dependência com uma versatilidade que vai do utilitário ao geológico. Seu sentimento de base é a inclinação a ceder e contornar, a percepção de que a resistência é um obstáculo a ser erodido, não enfrentado.
+Hydro é a escola híbrida de magia que manipula a água existente. Governa o domínio da água e da corrente com precisão superior a qualquer escola que afete a matéria em geral. Exige a proximidade de um corpo d’água ou de umidade, mas compensa essa dependência com uma versatilidade que vai do utilitário ao geológico. Seu sentimento de base é a inclinação a ceder e contornar, a percepção de que a resistência é um obstáculo a ser erodido.
 
 ### Princípio
 
-A escola não cria água: comanda a que já existe, ou a que pode extrair do ar, do solo e dos corpos. Sua especialização a separa das aparentadas: [[_wiki/escolas/cryo\|Cryo]] trabalha o gelo, [[_wiki/escolas/aero\|Aero]] trabalha o ar, e Hydro permanece no líquido. Mesmo uma lâmina de água basta para cortar, e um palmo de correnteza basta para derrubar quem pisa.
+A escola comanda a água que já existe, ou a que pode extrair do ar, do solo e dos corpos, sem criá-la. Sua especialização a separa das aparentadas: [[_wiki/escolas/cryo\|Cryo]] trabalha o gelo, [[_wiki/escolas/aero\|Aero]] trabalha o ar, e Hydro permanece no líquido. Mesmo uma lâmina de água basta para cortar, e um palmo de correnteza basta para derrubar quem pisa.
 
 ### Práticas
 
@@ -26,4 +26,4 @@ Com Cryo, a Bruma satura o ar de umidade que vira gelo fino sobre toda superfíc
 
 ### Par Antagônico
 
-Hydro opõe-se a Pyro: a água apaga e contorna o que o fogo devora e consome. A defesa natural de uma é o domínio da outra, e o que o Dilúvio alaga, o Maremoto apaga.
+Hydro opõe-se a Pyro: a água apaga e contorna o que o fogo devora e consome. A defesa natural de uma é o domínio da outra.

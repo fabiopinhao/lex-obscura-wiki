@@ -4,7 +4,7 @@
 
 # Psycho
 
-Psycho é a escola de magia híbrida de vermelho e azul, dedicada à Mente e à Psique. Invade, lê, destrói e reescreve a mente alheia por força intrusiva: onde [[_wiki/escolas/gnosi\|Gnosi]] sabe passivamente, Psycho arromba a porta e entra. Seu sentimento-chave é o impulso de entrar, a mente alheia como porta que pode, e deve, ser aberta. É a escola oposta a [[_wiki/escolas/hypno\|Hypno]].
+Psycho é a escola de magia híbrida dos demônios e dos siderais, dedicada à Mente e à Psique. Invade, lê, destrói e reescreve a mente alheia por força intrusiva: onde [[_wiki/escolas/gnosi\|Gnosi]] sabe passivamente, Psycho arromba a porta e entra. Seu sentimento-chave é o impulso de entrar, a mente alheia como porta que pode, e deve, ser aberta. É a escola oposta a [[_wiki/escolas/hypno\|Hypno]].
 
 ### Práticas
 
@@ -16,4 +16,4 @@ O custo temático é tontura, confusão mental e dificuldade de concentração, 
 
 ### No Império
 
-O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como Inquisidores de extração mental e como [[_wiki/organizacoes/ophideias\|Ophideias]]. Combinada com [[_wiki/escolas/phobos\|Phobos]], produz interrogatório cirúrgico, técnica de [[_wiki/organizacoes/justiciares\|Justiciares]] de alto nível; com [[_wiki/escolas/spectro\|Spectro]], fabrica testemunhos, fazendo o alvo lembrar de ter visto o que nunca existiu; com [[_wiki/escolas/anatho\|Anatho]], manipulação total, combinação sinérgica perigosa que acelera ambos os custos ontológicos.
+O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como inquisidores de extração mental e como [[_wiki/organizacoes/ophideias\|ophideias]]. Combinada com [[_wiki/escolas/phobos\|Phobos]], produz interrogatório cirúrgico, técnica de [[_wiki/organizacoes/justiciares\|justiciares]] de alto nível; com [[_wiki/escolas/spectro\|Spectro]], fabrica testemunhos, fazendo o alvo lembrar de ter visto o que nunca existiu; com [[_wiki/escolas/anatho\|Anatho]], manipulação total, combinação sinérgica perigosa que acelera ambos os custos ontológicos.

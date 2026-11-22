@@ -10,13 +10,13 @@ Mirin é uma jovem montaraz sylvana da [[_wiki/organizacoes/resistencia_de_thal_
 
 Tem cabelo cor de cobre escuro e veste uma armadura de [[_wiki/conceitos/casca_viva\|casca-viva]], presente de Gaelwyn no terceiro verão de treinamento. Carrega um arco élfico.
 
-### Origem e papel
+### Origem e Papel
 
 Órfã, perdeu os pais cedo e cresceu na resistência ao lado de [[_wiki/personagens/calel\|Calel]], dois anos mais novo. Gaelwyn a recolheu aos onze anos e a transformou em montaraz, e foi nesse ofício que ela encontrou o propósito que a morte havia tirado.
 
 O peso de seu papel chega no círculo druídico. É Mirin quem relata a reação da mata a Gael: as árvores sussurram quando ele passa, as raízes recuam de sua presença. Dizendo isso, traz à tona a marca [[_wiki/racas/shadar\|shadar]] que o mestre carrega.
 
-### Método e voz
+### Método e Voz
 
 Age por impulso, mas com competência. Quando a mata sussurra contra o mestre, é ela quem repete o sussurro em voz alta.
 

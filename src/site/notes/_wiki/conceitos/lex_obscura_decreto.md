@@ -12,7 +12,7 @@ Organiza-se por categorias: traição, heresia, desobediência e negligência. �
 
 ### Relação com o Verbum Arkhon
 
-A Lex Obscura e o [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] não são sistemas opostos, mas sobrepostos. O Verbum não revogou a Lex: alinhou-se e sobrepôs-se a ela. [[_wiki/personagens/arothistar\|Arothistar]] compreendeu que destruir o sistema antigo geraria resistência, ao passo que absorvê-lo garantiu submissão. Na prática, o Verbum pode suspender qualquer cláusula da Lex quando o soberano assim decide, o que faz dela uma lei subordinada à vontade do monarca.
+A Lex Obscura e o [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] são sistemas sobrepostos: sem revogar a Lex, o Verbum alinhou-se a ela e a ela se sobrepôs. [[_wiki/personagens/arothistar\|Arothistar]] compreendeu que destruir o sistema antigo geraria resistência, ao passo que absorvê-lo garantiu submissão. Na prática, o Verbum pode suspender qualquer cláusula da Lex quando o soberano assim decide, o que faz dela uma lei subordinada à vontade do monarca.
 
 Essa tensão entre a lei fundacional de Xarn e a palavra do soberano é a fissura que o [[_wiki/organizacoes/ordo_zathar\|Ordo Zathar]] explora. A facção defende prerrogativas templárias e uma ordem política menos subordinada ao monarca.
 

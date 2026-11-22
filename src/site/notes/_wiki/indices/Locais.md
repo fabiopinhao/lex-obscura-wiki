@@ -11,14 +11,14 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 ## Capitais e Cidades
 
 - [[_wiki/locais/morvgrad\|Morvgrad]]: capital imperial, sede do poder de Arothistar
-- [[_wiki/locais/niedellin\|Niedellin]]: povoado na Ventrista, às margens do Rio Parveni
+- [[_wiki/locais/niedellin\|Niedellin]]: povoado na Ventrista, às margens do rio Parveni
 - [[_wiki/locais/myrgarde\|Myrgarde]]: ex-capital humana, subjugada pelo Império
 - [[_wiki/locais/valdris\|Valdris]]: cidade-porto costeira, saída imperial para o oceano
 - [[_wiki/locais/varnak\|Varnak]]: região montanhosa em Veinkard, território tribal fragmentado
 - [[_wiki/locais/qadesh\|Qadesh]]: cidade-estado vassala no deserto oriental
 - [[_wiki/locais/noventia\|Noventia]]: povoado da Ventrista, na estrada de Myrgarde ao planalto
 
-## Domínios conquistados
+## Domínios Conquistados
 
 - [[_wiki/locais/danvorn\|Danvorn]]: domínio arrasado pelo Culto, com as cinzas salgadas
 - [[_wiki/locais/orandia\|Orandia]]: domínio cujo templo foi convertido em depósito de grãos
@@ -72,7 +72,7 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 
 ## Locais Sagrados e Arcanos
 
-- [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]]: templo do diabo Azkaroth, unção dos Justiciares
+- [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]]: templo do diabo Azkaroth, unção dos justiciares
 - [[_wiki/locais/templo_de_velmorain\|Templo de Velmorain]]: templo do diabo Velmorain, o Véu Cósmico
 - [[_wiki/locais/templo_de_vozrador\|Templo de Vozrador]]: templo abandonado do diabo Vozrador, infestado de mortos-vivos
 - [[_wiki/locais/scriptorium_de_morvgrad\|Scriptorium de Morvgrad]]: ala de copistas e exegetas do Codex Somniorum
@@ -80,7 +80,7 @@ Cada pedra deste Império foi assentada sobre outra coisa. Convém não pergunta
 ## Marcos Urbanos de Morvgrad
 
 - [[_wiki/locais/xarn_aroth\|Xarn’Aroth]]: distrito sagrado, torres de basalto com braseiros azuis
-- [[_wiki/locais/arquivo_central\|Arquivo Central]]: arquivo judicial, anexo ao Tribunal Supremo
+- [[_wiki/locais/arquivo_central\|Arquivo Central]]: arquivo judicial, anexo ao Supremo Tribunal
 - [[_wiki/locais/praca_dos_juramentos\|Praça dos Juramentos]]: praça cerimonial em Xarn’Aroth
 - [[_wiki/locais/salao_do_conselho\|Salão do Conselho]]: sede do Conselho Sombrio em Mor’Draconis
 - [[_wiki/locais/arena_de_drakmur\|Arena de Drakmur]]: arena de combate na fronteira do Planalto

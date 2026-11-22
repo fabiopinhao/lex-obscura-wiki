@@ -4,7 +4,7 @@
 
 # Vita
 
-Vita is the pure school of green, dedicated to manipulating vital energy through addition. Where other schools repair what has already been damaged, Vita acts before the blow: it infuses vigor, accelerates growth, and forces life to multiply where it should not. It is proactive by nature, and this anticipation is what distinguishes it from [[_wiki_en/escolas/salvo\|Salvo]], which restores after damage. Its domain is life and growth, and its antagonistic counterpart is [[_wiki_en/escolas/necro\|Necro]].
+Vita is the pure school of the titans, dedicated to manipulating vital energy through addition. Where other schools repair what has already been damaged, Vita acts before the blow: it infuses vigor, accelerates growth, and forces life to multiply where it should not. It is proactive by nature, and this anticipation is what distinguishes it from [[_wiki_en/escolas/salvo\|Salvo]], which restores after damage. Its domain is life and growth, and its antagonistic counterpart is [[_wiki_en/escolas/necro\|Necro]].
 
 ### Practices
 

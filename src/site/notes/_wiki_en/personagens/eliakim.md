@@ -4,7 +4,7 @@
 
 # Eliakim
 
-Eliakim is a [[_wiki_en/racas/shadar\|Shadar]] who holds the highest seat on the [[_wiki_en/organizacoes/conselho_sombrio\|Shadow Council]], in [[_wiki_en/locais/morvgrad\|Morvgrad]], and bears the epithet Architect of Shadow Diplomacy. A veteran councilor whose reputation rests on erudition and rhetoric, he distinguishes himself by his habit of cutting short another’s argument with a laconic, precise phrase, always exact enough to end the discussion.
+Eliakim is a [[_wiki_en/racas/shadar\|Shadar]] who holds the highest seat on the [[_wiki_en/organizacoes/conselho_sombrio\|Shadow Council]], in [[_wiki_en/locais/morvgrad\|Morvgrad]], and bears the epithet Architect of Shadow Diplomacy. A veteran councilor whose reputation rests on erudition and rhetoric, he distinguishes himself by his habit of cutting short another’s argument with a laconic, precise phrase.
 
 ### Appearance
 
@@ -12,7 +12,7 @@ No one sees him in person. Eliakim manifests through the [[_wiki_en/artefatos/oc
 
 ### Role
 
-Within the machinery of the Shadow Council, Eliakim holds the seat that sets the tone of the sessions. His authority comes from economy rather than a raised voice: he says little, and what little he says arrives as a verdict. His reputation as a scholar sustains the weight; his sharp rhetoric does the rest.
+Within the machinery of the Shadow Council, Eliakim holds the seat that sets the tone of the sessions. His authority comes from economy: he says little, and what little he says arrives as a verdict.
 
 ### Method and Voice
 

@@ -10,6 +10,6 @@ A Sabotagem nas Forjas de [[_wiki/locais/thandruk_varn\|Thandruk Varn]], também
 
 Thandruk Varn, subjugada pelo Império décadas antes, tornara-se a única fortaleza anânica original ainda operacional no continente. A queda de produção revela que a subjugação dos clãs não foi tão completa quanto [[_wiki/locais/morvgrad\|Morvgrad]] presumia.
 
-### Risco logístico
+### Risco Logístico
 
 A redução ameaça uma cadeia que alimenta tanto a superfície quanto o subterrâneo, através do túnel que liga Thandruk Varn a [[_wiki/locais/vor-ghol\|Vor-Ghol]]. Se a sabotagem persistir, suas consequências se propagarão muito além das montanhas.

@@ -10,9 +10,9 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 
 ## Protagonistas
 
-- [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]]: Justiciar recém-ungido, veterano das Guerras Reinkárdicas
-- [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]]: Justiciar shadar, sobrinha de Vekraal
-- [[_wiki/personagens/orum-rahru\|Orum-Rahru]]: Justiciar veterano, ex-templário de Vozrador
+- [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]]: justiciar recém-ungido, veterano das Guerras Reinkárdicas
+- [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]]: justiciar shadar, sobrinha de Vekraal
+- [[_wiki/personagens/orum-rahru\|Orum-Rahru]]: justiciar veterano, ex-templário de Vozrador
 - [[_wiki/personagens/arothistar\|Arothistar]]: o Semideus-Imperador, fundador do Império Sombrio
 
 ## Principais
@@ -29,7 +29,7 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 ## Conselho Sombrio e Corte de Morvgrad
 
 - [[_wiki/personagens/dessian_broel\|Dessian Broel]]: conselheiro, Administrador de Recursos
-- [[_wiki/personagens/jaakurs\|Jaakurs]]: conselheiro, Feiticeiro cerimonialista do Templo de Azkaroth
+- [[_wiki/personagens/jaakurs\|Jaakurs]]: conselheiro, feiticeiro cerimonialista do Templo de Azkaroth
 - [[_wiki/personagens/ulrik_morzenn\|Ulrik Morzenn]]: conselheiro, o Decano Arcânico
 - [[_wiki/personagens/gorvam_threnk\|Gorvam Threnk]]: conselheiro, Mestre das Forjas
 - [[_wiki/personagens/suriev_molkhiir\|Suriev Molkhiir]]: conselheiro, Servo da Verdade
@@ -47,7 +47,7 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 ## Justiciares, Generais e Militares
 
 - [[_wiki/personagens/vekraal\|Vekraal]]: general “Punho de Arothistar”, Terceira Legião Oriental
-- [[_wiki/personagens/draven-thol\|Draven-Thol]]: Justiciar, estacionado em Thandruk Varn
+- [[_wiki/personagens/draven-thol\|Draven-Thol]]: justiciar, estacionado em Thandruk Varn
 - [[_wiki/personagens/korven\|Korven]]: shadar, oficial da Coletoria de Morvgrad
 - [[_wiki/personagens/valhedras\|Valhedras]]: tenente shadar, aliado de Milorsevogh
 - [[_wiki/personagens/ravhor\|Ravhor]]: oficial da Terceira Legião
@@ -55,9 +55,9 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 - [[_wiki/personagens/kaedhras\|Kaedhras Morvil]]: tenente shadar, estacionado em Xarn’Zareth
 - [[_wiki/personagens/gorvash_tres-cicatrizes\|Gorvash Três-Cicatrizes]]: orc da Terceira Legião
 - [[_wiki/personagens/hugur_comedor-de-ferro\|Hugur Comedor-de-Ferro]]: orc da Terceira Legião
-- [[_wiki/personagens/belev-hesnek\|Belev-Hesnek]]: Justiciar shadar, jurisdição sobre o arco norte
-- [[_wiki/personagens/tashkur\|Tashkur]]: Justiciar shadar, jurisdição sobre a fronteira oriental, a partir de Qadesh
-- [[_wiki/personagens/sarquin\|Sarquin]]: Justiciar shadar, lotado em Morvgrad
+- [[_wiki/personagens/belev-hesnek\|Belev-Hesnek]]: justiciar shadar, jurisdição sobre o arco norte
+- [[_wiki/personagens/tashkur\|Tashkur]]: justiciar shadar, jurisdição sobre a fronteira oriental, a partir de Qadesh
+- [[_wiki/personagens/sarquin\|Sarquin]]: justiciar shadar, lotado em Morvgrad
 - [[_wiki/personagens/kravex_mordaine\|Kravex Mordaine]]: general shadar das Guerras Reinkárdicas (figura histórica)
 
 ## Matriarcas Druls
@@ -87,18 +87,18 @@ Ninguém neste Império é inocente. Alguns apenas ainda não foram julgados.
 ## Figuras de Niedellin
 
 - [[_wiki/personagens/abramis\|Abramis]]: padre humano, líder espiritual
-- [[_wiki/personagens/merari_d_khunvel\|Merari d’Khunvel]]: shadar, Lorde de Niedellin
+- [[_wiki/personagens/merari_d_khunvel\|Merari d’Khunvel]]: shadar, lorde de Niedellin
 - [[_wiki/personagens/maraxus\|Maraxus]]: humano, chefe da guarda de Niedellin
 - [[_wiki/personagens/koliah\|Koliah]]: humana, filha de Abramis, líder da Resistência de Thal’Serin
 - [[_wiki/personagens/berenice\|Berenice]]: humana, irmã de Levi
 - [[_wiki/personagens/levi\|Levi]]: criança com percepção incomum, protegido de Abramis
 - [[_wiki/personagens/talin\|Talin]]: humano da Resistência de Thal’Serin
-- [[_wiki/personagens/eralmir_vess\|Eralmir Vess]]: shadar, Intendente e escriba de Niedellin
+- [[_wiki/personagens/eralmir_vess\|Eralmir Vess]]: shadar, intendente e escriba de Niedellin
 
 ## Figuras de Myrgarde
 
 - [[_wiki/personagens/grimald\|Sir Grimald]]: álvarar, Lâmina Dourada, paladino da Ordem de Azazel
-- [[_wiki/personagens/corvina\|Corvina]]: Madre da Igreja de São Lucian em Myrgarde
+- [[_wiki/personagens/corvina\|Corvina]]: madre da Igreja de São Lucian em Myrgarde
 - [[_wiki/personagens/auren\|Auren]]: aquilar, ex-soldado de Myrgarde, prisioneiro do Império
 - [[_wiki/personagens/iluvrae\|Ilúvrae]]: elarina, ex-curadora de Elenir, prisioneira em Mor’Severith
 - [[_wiki/personagens/pip\|Pip]]: hallirin, ex-comerciante de Myrgarde, escravo nas forjas

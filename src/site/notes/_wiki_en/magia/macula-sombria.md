@@ -8,11 +8,11 @@ The shadow-taint, also called the Shadow Mark or Shadow Rot, is the arcane decay
 
 ### Nature
 
-The corruption does not destroy the forest directly. It degrades the connection between the land and the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]], suffocating the capacity for druidic channeling. Basic enchantments fail; rituals that once required only one channeler to perform now require two, and even then yield stunted results. A growth enchantment that the siblings [[_wiki_en/personagens/mirin\|Mirin]] and [[_wiki_en/personagens/calel\|Calel]] used to cast at the age of five summers failed in Mirin’s hands; working together under the guidance of the druid [[_wiki_en/personagens/peredur\|Peredur]], the two managed to grow only a span of plant, with pus-green leaves.
+The corruption affects the forest indirectly: it degrades the connection between the land and the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]], suffocating the capacity for druidic channeling. Basic enchantments fail; rituals that once required only one channeler to perform now require two, and even then yield stunted results. A growth enchantment that the siblings [[_wiki_en/personagens/mirin\|Mirin]] and [[_wiki_en/personagens/calel\|Calel]] used to cast at the age of five summers failed in Mirin’s hands; working together under the guidance of the druid [[_wiki_en/personagens/peredur\|Peredur]], the two managed to grow only a span of plant, with pus-green leaves.
 
 ### Territorial Scale
 
-All the titan forests of [[_wiki_en/locais/reinkard\|Reinkard]] suffer from the taint to varying degrees, and [[_wiki_en/locais/thal_serin\|Thal’Serin]], the closest to the Shadar plateau, is the most affected. The process has accelerated since [[_wiki_en/personagens/arothistar\|Arothistar]] consolidated his dominion over Reinkard. The imperial strategy is patient: to let the growing corruption force the [[_wiki_en/cosmologia/titas\|titans]] to abandon the sanctuaries, exposing the forests. Druids observe that the taint strengthens over time instead of weakening, making it a weapon for slow sieges, not for battle.
+All the titan forests of [[_wiki_en/locais/reinkard\|Reinkard]] suffer from the taint to varying degrees, and [[_wiki_en/locais/thal_serin\|Thal’Serin]], the closest to the Shadar plateau, is the most affected. The process has accelerated since [[_wiki_en/personagens/arothistar\|Arothistar]] consolidated his dominion over Reinkard. The imperial strategy is patient: to let the growing corruption force the [[_wiki_en/cosmologia/titas\|titans]] to abandon the sanctuaries, exposing the forests. Druids observe that the taint strengthens over time, making it a weapon for slow sieges.
 
 ### Individual Scale
 
@@ -20,7 +20,7 @@ The taint can also be planted directly in living beings as an instrument of coer
 
 ### Arcane Classification
 
-The shadow-taint is not explicitly classified as a spell belonging to a school in the grimoire. Its accursed nature, composed of corruption, degradation, and tracking, aligns it with [[_wiki_en/escolas/anatho\|Anatho]], the school of Curse and Corruption, whose primary color is black. Spells such as Mark, Hex, and Scourge share traits with the taint: persistent tracking, continuous degradation, and bidirectional cost. The formal classification remains open.
+The shadow-taint is not explicitly classified as a spell belonging to a school in the grimoire. Its accursed nature, composed of corruption, degradation, and tracking, aligns it with [[_wiki_en/escolas/anatho\|Anatho]], the school of Curse and Corruption, a hybrid of devils and demons. Spells such as Mark, Hex, and Scourge share traits with the taint: persistent tracking, continuous degradation, and bidirectional cost. The formal classification remains open.
 
 ### Mysteries
 

@@ -4,7 +4,7 @@
 
 # Patho
 
-Patho é a escola híbrida das cores preto e verde, dedicada ao decaimento e à putrefação. Causa decomposição, doença e putrefação como entropia biológica acelerada: apodrece matéria orgânica, induz febre, infecta ferimentos e transforma alvos em vetores de contágio. Distingue-se de [[_wiki/escolas/toxo\|Toxo]], que corrói por substância química externa, porque a degradação de Patho é interna, o corpo decompondo-se sem agente visível.
+Patho é a escola híbrida dos diabos e dos titãs, dedicada ao decaimento e à putrefação. Causa decomposição, doença e putrefação como entropia biológica acelerada: apodrece matéria orgânica, induz febre, infecta ferimentos e transforma alvos em vetores de contágio. Distingue-se de [[_wiki/escolas/toxo\|Toxo]], que corrói por substância química externa, porque a degradação de Patho é interna, o corpo decompondo-se sem agente visível.
 
 ### Princípio
 
@@ -20,6 +20,6 @@ O Contágio transforma o alvo infectado em vetor: quem o toca, respira perto ou 
 
 O custo temático é náusea, febre leve e mal-estar físico, durando de cinco minutos a quatro horas. O custo ontológico é a consciência da entropia: dos sinais de decadência que outros ignoram à melancolia diante de toda beleza, até o ponto em que tudo parece em decomposição ativa e construir qualquer coisa parece absurdo. A distinção com [[_wiki/escolas/cryo\|Cryo]] é fundamental: Patho faz sentir demais, em melancolia ativa e depressão, enquanto Cryo faz sentir de menos, em anestesia emocional. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como necromantes de apoio e avaliadores de deterioração.
 
-### Combinações e oposição
+### Combinações e Oposição
 
-Combinado com [[_wiki/escolas/necro\|Necro]], produz zona de exclusão total, em que Ceifar mata o que vive e o Contágio impede que algo novo cresça, tática de terra arrasada. Com Toxo, soma infecção e veneno para transformar ferimentos menores em sentenças de morte, recurso de [[_wiki/organizacoes/ophideias\|Ophideias]] para assassinatos que parecem morte natural. Com [[_wiki/escolas/rupto\|Rupto]], muralhas apodrecidas cedem com uma fissura mínima, doutrina de cerco prolongado. Seu par antagônico é Salvo, que restaura a integridade onde Patho a degrada, numa corrida entre curandeiro e praga.
+Combinado com [[_wiki/escolas/necro\|Necro]], produz zona de exclusão total, em que Ceifar mata o que vive e o Contágio impede que algo novo cresça, tática de terra arrasada. Com Toxo, soma infecção e veneno para transformar ferimentos menores em sentenças de morte, recurso de [[_wiki/organizacoes/ophideias\|ophideias]] para assassinatos que parecem morte natural. Com [[_wiki/escolas/rupto\|Rupto]], muralhas apodrecidas cedem com uma fissura mínima, doutrina de cerco prolongado. Seu par antagônico é Salvo, que restaura a integridade onde Patho a degrada, numa corrida entre curandeiro e praga.

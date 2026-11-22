@@ -8,7 +8,7 @@ The Underground Alliance was the formal pact between [[_wiki_en/locais/morvgrad\
 
 ### The Pact
 
-The Alliance was not a gesture of fraternity, but a calculation. The Druls brought with them millennia of subterranean arcane tradition, pact rituals refined by the experience of eras, and a network of influence in [[_wiki_en/locais/vor-ghol\|Vor-Ghol]] that the Shadars could never have attained alone. The Shadars offered military discipline, administrative capacity, and an expansionist ambition that the Druls, isolationist by temperament, had never cultivated. Each side obtained what it could not generate on its own, and the cultural exchange transformed both races.
+The Alliance was born of calculation. The Druls brought with them millennia of subterranean arcane tradition, pact rituals refined by the experience of eras, and a network of influence in [[_wiki_en/locais/vor-ghol\|Vor-Ghol]] that the Shadars could never have attained alone. The Shadars offered military discipline, administrative capacity, and an expansionist ambition that the Druls, isolationist by temperament, had never cultivated. Each side obtained what it could not generate on its own, and the cultural exchange transformed both races.
 
 ### Consequences
 

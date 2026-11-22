@@ -10,11 +10,11 @@ Odran é um [[_wiki/racas/minotauro\|minotauro]] a serviço de [[_wiki/personage
 
 Os chifres quase raspam os batentes quando ele passa. Os músculos repuxam sob o pelo castanho-escuro, e um colar de correntes de aço lhe cinge o pescoço. Os olhos, surpreendentemente gentis, contrastam com o porte.
 
-### Origem e papel
+### Origem e Papel
 
 Como administrador da fortaleza, Odran zela pela biblioteca e pelos prisioneiros sob sua guarda, que chama de hóspedes involuntários. Leva-lhes as refeições com cautela meticulosa e conhece em detalhe o mecanismo arcano dos [[_wiki/artefatos/grilhoes_de_contencao_arcana\|grilhões de contenção arcana]] que os prendem, tendo já tentado rompê-los por curiosidade empírica. É também um intelectual de hábito: lê crônicas [[_wiki/racas/varnakiano\|varnakianas]], relatos de campanhas e diários de mercadores, e mantém a erudição como forma de ordem num ambiente de caos.
 
-### Método e voz
+### Método e Voz
 
 Odran filosofa sobre a natureza do [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] e o defende como credo, por convicção. Para ele, o Senhor da Torre jamais recua a palavra dada, e é essa inflexibilidade que serve de alicerce ao [[_wiki/organizacoes/imperio_sombrio\|Império]]. A erudição lhe dá os argumentos, e ele os usa com a contenção de quem prefere a ordem ao espetáculo.
 

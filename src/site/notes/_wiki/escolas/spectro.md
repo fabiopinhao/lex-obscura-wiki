@@ -4,7 +4,7 @@
 
 # Spectro
 
-Spectro é a escola híbrida de preto e azul cuja ilusão engana a percepção sem alterar a realidade. Cria estímulos sensoriais falsos que existem apenas nos sentidos de quem observa, e é uma das disciplinas da magia negra, especializada em distorcer o tangível e transitar o [[_wiki/cosmologia/plano_etereo\|plano etéreo]]. Sua pergunta central, “isso é real?”, a distingue de [[_wiki/escolas/psycho\|Psycho]], que pergunta “isso é meu pensamento?”, e de [[_wiki/escolas/hypno\|Hypno]], que pergunta “estou acordado?”.
+Spectro é a escola híbrida dos diabos e dos siderais cuja ilusão engana a percepção sem alterar a realidade. Cria estímulos sensoriais falsos que existem apenas nos sentidos de quem observa, e é uma das disciplinas da magia negra, especializada em distorcer o tangível e transitar o [[_wiki/cosmologia/plano_etereo\|plano etéreo]]. Sua pergunta central, “isso é real?”, a distingue de [[_wiki/escolas/psycho\|Psycho]], que pergunta “isso é meu pensamento?”, e de [[_wiki/escolas/hypno\|Hypno]], que pergunta “estou acordado?”.
 
 ### Princípio
 
@@ -28,8 +28,8 @@ Com [[_wiki/escolas/phobos\|Phobos]], a Miragem fornece o cenário sensorial com
 
 ### Custos
 
-O custo temático é a translucidez parcial: o conjurador torna-se brevemente etéreo contra a própria vontade, por um período de um minuto a uma hora. O custo ontológico é a dúvida epistemológica. No primeiro estágio, há dúvida ocasional sobre o que se viu; no segundo, o praticante toca objetos para confirmar sua solidez; no terceiro, memória e percepção tornam-se categorias instáveis; no quarto, torna-se impossível distinguir experiência de ilusão, e tudo passa a ser suspeito. O Império recruta praticantes como [[_wiki/organizacoes/ophideias\|Ophideias]] até o terceiro estágio e isola o quarto para a função de verificar ilusões de outros, na qual a paranoia epistemológica vira ferramenta.
+O custo temático é a translucidez parcial: o conjurador torna-se brevemente etéreo contra a própria vontade, por um período de um minuto a uma hora. O custo ontológico é a dúvida epistemológica. No primeiro estágio, há dúvida ocasional sobre o que se viu; no segundo, o praticante toca objetos para confirmar sua solidez; no terceiro, memória e percepção tornam-se categorias instáveis; no quarto, torna-se impossível distinguir experiência de ilusão, e tudo passa a ser suspeito. O Império recruta praticantes como [[_wiki/organizacoes/ophideias\|ophideias]] até o terceiro estágio e isola o quarto para a função de verificar ilusões de outros, na qual a paranoia epistemológica vira ferramenta.
 
-### Par antagônico
+### Par Antagônico
 
 O oposto de Spectro é [[_wiki/escolas/morpho\|Morpho]], e a distinção entre os dois é a que separa o parecer do ser. Spectro engana a percepção com uma imagem que pode ser desmascarada, enquanto Morpho altera a realidade com uma transformação que resiste ao escrutínio. O custo ontológico é espelhado: Morpho pergunta “quem sou eu?”, e à dúvida de Spectro sobre a percepção opõe a dúvida sobre a identidade.

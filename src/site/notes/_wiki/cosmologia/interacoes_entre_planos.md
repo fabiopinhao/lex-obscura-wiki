@@ -10,7 +10,7 @@ As interações entre planos existenciais regem como deuses e mortais alcançam 
 
 Toda magia interplanária atravessa o [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]] por meio do [[_wiki/cosmologia/canal_magi\|canal magi]], a interface temporária entre a entidade extradimensional e o mortal. A manipulação direta do Etéreo cabe às escolas [[_wiki/escolas/cosmo\|Cosmo]] e [[_wiki/escolas/spectro\|Spectro]] e ao perigoso [[_wiki/magia/fluxus_aetheris\|Fluxus Aetheris]].
 
-### Ataques Entre Planos
+### Ataques entre Planos
 
 [[_wiki/cosmologia/diabos\|Diabos]] e [[_wiki/cosmologia/demonios\|demônios]] podem atacar os planos existenciais de outros deuses, mas raramente o fazem, pois é custoso e há pouco a ganhar. O aprisionamento de [[_wiki/panteao/vozrador\|Vozrador]] é exceção, e exigiu aliança entre dois diabos e motivação extrema. Os deuses brancos ([[_wiki/cosmologia/anjos\|anjos]]) e verdes possuem mecanismos de proteção contra ataques extraplanares. Os deuses azuis ([[_wiki/cosmologia/siderais\|siderais]]), por não terem plano existencial definido, são imunes a esse tipo de agressão.
 

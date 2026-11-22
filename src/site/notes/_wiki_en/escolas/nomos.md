@@ -4,7 +4,7 @@
 
 # Nomos
 
-Nomos is the hybrid school of white and black that imposes restrictions, bonds, and prohibitions as laws inscribed in reality, an arcane force that maintains cohesion and obedience where the target’s will would attempt to resist. Its key feeling is the certainty that the imposed bond is just, the legitimate possession of what has been sealed. Its antagonistic counterpart is [[_wiki_en/escolas/rupto\|Rupto]], the school that undoes structure and liberates.
+Nomos is the hybrid school of angels and devils that imposes restrictions, bonds, and prohibitions as laws inscribed in reality, an arcane force that maintains cohesion and obedience where the target’s will would attempt to resist. Its key feeling is the certainty that the imposed bond is just, the legitimate possession of what has been sealed. Its antagonistic counterpart is [[_wiki_en/escolas/rupto\|Rupto]], the school that undoes structure and liberates.
 
 ### Principle
 

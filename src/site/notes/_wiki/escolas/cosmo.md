@@ -4,7 +4,7 @@
 
 # Cosmo
 
-Cosmo é a escola híbrida de azul e preto cujo domínio é o espaço e a gravidade. Manipula gravidade e espaço como ferramentas de controle físico, prendendo, comprimindo e deslocando a matéria pela alteração das leis que a governam. Seu par antagônico é [[_wiki/escolas/urano\|Urano]].
+Cosmo é a escola híbrida dos siderais e dos diabos cujo domínio é o espaço e a gravidade. Manipula gravidade e espaço como ferramentas de controle físico, prendendo, comprimindo e deslocando a matéria pela alteração das leis que a governam. Seu par antagônico é [[_wiki/escolas/urano\|Urano]].
 
 ### Princípio
 
@@ -22,4 +22,4 @@ A invocação conhecida como Vácuo Negro, *Vacuum aeternum*, abre uma Singulari
 
 ### Combinações
 
-O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes para pesquisa arcana e experimentos gravitacionais, funções em que a dissociação compromete a coordenação mas não a obediência. Com [[_wiki/escolas/nomos\|Nomos]], produz aprisionamento absoluto, recurso de [[_wiki/organizacoes/justiciares\|Justiciares]] em apreensões de alto risco. Com [[_wiki/escolas/spectro\|Spectro]], gera a emboscada invisível, apagando a presença do atacante enquanto o alvo flutua desorientado. Seu par antagônico é Urano, que solta e eleva onde Cosmo prende e comprime.
+O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes para pesquisa arcana e experimentos gravitacionais, funções em que a dissociação compromete a coordenação mas não a obediência. Com [[_wiki/escolas/nomos\|Nomos]], produz aprisionamento absoluto, recurso de [[_wiki/organizacoes/justiciares\|justiciares]] em apreensões de alto risco. Com [[_wiki/escolas/spectro\|Spectro]], gera a emboscada invisível, apagando a presença do atacante enquanto o alvo flutua desorientado. Seu par antagônico é Urano, que solta e eleva onde Cosmo prende e comprime.

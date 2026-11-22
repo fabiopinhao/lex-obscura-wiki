@@ -4,15 +4,15 @@
 
 # Vulfan
 
-The Vulfans are a family of canine hybrid humanoids with a black arcane mark, divided into two subraces: the [[_wiki_en/racas/worg\|worgs]], of humanoid stature, and the [[_wiki_en/racas/varglin\|Varglins]], of gnomish stature. They share canine traits and alternate between bipedal and quadrupedal postures, but differ in stature, temperament, and fate. They have never formed a nation, government, or territory: dispersal has been the family’s constant since the beginning.
+The Vulfans are a family of canine hybrid humanoids with a diabolical arcane mark, divided into two subraces: the [[_wiki_en/racas/worg\|worgs]], of humanoid stature, and the [[_wiki_en/racas/varglin\|Varglins]], of gnomish stature. They share canine traits and alternate between bipedal and quadrupedal postures, but differ in stature, temperament, and fate. They have never formed a nation, government, or territory: dispersal has been the family’s constant since the beginning.
 
 ### Cosmogonic Origin
 
-Like all hybrid humanoids, the Vulfans trace their origins to the [[_wiki_en/eventos/guerras_raciais\|Racial Wars]], an event of [[_wiki_en/conceitos/idade_esquecida\|the Forgotten Age]] before the fragmentation of the [[_wiki_en/racas/luminares\|Luminars]]. During this period the gods intervened directly in the material plane, crossing humans and animals to produce soldiers aligned with their pantheons, with the Vulfans attributed to diabolical entities that fused human and wild canine blood. The Racial Wars were not organized conflicts: the hybrid races did not build cities or claim territories, they were brute forces in the struggle between gods, more adept at direct combat than pure humans and aligned by instinct with their patrons. When the Wars ended and the gods withdrew, the hybrids remained, abandoned by their patrons and deprived of instruction or territory, left with only their form and instinct.
+Like all hybrid humanoids, the Vulfans trace their origins to the [[_wiki_en/eventos/guerras_raciais\|Racial Wars]], an event of [[_wiki_en/conceitos/idade_esquecida\|the Forgotten Age]] before the fragmentation of the [[_wiki_en/racas/luminares\|Luminars]]. During this period the gods intervened directly in the material plane, crossing humans and animals to produce soldiers aligned with their pantheons; the creation of the Vulfans is attributed to diabolical entities that fused human and wild canine blood. The Racial Wars were not organized conflicts: the hybrid races did not build cities or claim territories, they were brute forces in the struggle between gods, more adept at direct combat than pure humans and aligned by instinct with their patrons. When the Wars ended and the gods withdrew, the hybrids remained, abandoned by their patrons and deprived of instruction or territory, left with only their form and instinct.
 
 ### Familial Nature
 
-The two subraces share canine ancestry, a bond with devils, and alternating postures, but the distance between them is great. The worgs inherited stature and strength; the Varglins, smallness and the role of scouts. What was once complementarity became almost complete separation.
+The two subraces also share a bond with devils, but the distance between them is great. The worgs inherited stature and strength; the Varglins, smallness and the role of scouts.
 
 ### The Internal Rupture
 

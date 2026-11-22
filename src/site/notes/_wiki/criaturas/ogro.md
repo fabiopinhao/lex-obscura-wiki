@@ -8,7 +8,7 @@ Os ogros são humanoides de grande porte, mais massivos que os [[_wiki/racas/orc
 
 ### Natureza
 
-Têm pele espessa, em tons de cinza-amarelado a pardo-esverdeado, e musculatura densa sob camadas de gordura que funcionam como armadura natural. A altura fica entre 2,20m e 2,80m. As mandíbulas são largas, os dentes achatados para triturar, os olhos pequenos e fundos. O fedor corporal é intenso, distinto do dos [[_wiki/criaturas/gnoll\|gnolls]]: onde gnolls fedem a carniça, ogros fedem a sebo rançoso e suor azedo.
+Têm pele espessa, em tons de cinza-amarelado a pardo-esverdeado, e musculatura densa sob camadas de gordura que funcionam como armadura natural. A altura fica entre 2,20 m e 2,80 m. As mandíbulas são largas, os dentes achatados para triturar, os olhos pequenos e fundos. O fedor corporal é intenso, distinto do dos [[_wiki/criaturas/gnoll\|gnolls]]: onde gnolls fedem a carniça, ogros fedem a sebo rançoso e suor azedo.
 
 ### Comportamento
 

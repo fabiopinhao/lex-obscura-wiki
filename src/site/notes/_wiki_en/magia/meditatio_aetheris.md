@@ -4,15 +4,15 @@
 
 # Meditatio Aetheris
 
-Meditatio Aetheris is the system of access to blue magic, established neither by contract nor by sacrifice, but by mental discipline. Through continuous training of consciousness, the practitioner reaches the [[_wiki_en/cosmologia/siderais\|sidereals]], entities of pure intellect from the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]], and receives from them power proportional to the clarity of their meditation.
+Meditatio Aetheris is the system of access to blue magic, established through mental discipline, without contract or sacrifice. Through continuous training of consciousness, the practitioner reaches the [[_wiki_en/cosmologia/siderais\|sidereals]], entities of pure consciousness and intellect from the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]], and receives from them power proportional to the clarity of their meditation.
 
 ### Nature
 
-Blue entities are beings of pure consciousness and intellect that inhabit the ethereal plane. They have no physical form: they are patterns of thought, living geometries, conscious concepts. Because they have neither ego nor ambition, they do not betray the practitioner as other entities do.
+Without physical form, blue entities are patterns of thought, living geometries, conscious concepts. Because they have neither ego nor ambition, they do not betray the practitioner as other entities do.
 
 ### Provision
 
-The channeling of Meditatio Aetheris is called Provision, and it is neutral and impersonal. The sidereals have no plane of existence of their own and operate through the ethereal plane. Provision amplifies the key feelings of the granted schools in proportion to the practitioner’s mental attunement, not the entity’s will: the response depends on the clarity of the meditation, not the sidereal’s generosity.
+The channeling of Meditatio Aetheris is called Provision, and it is neutral and impersonal. The sidereals have no plane of existence of their own and operate through the ethereal plane. Provision amplifies the key feelings of the granted schools in proportion to the practitioner’s mental attunement, independently of the sidereal’s will or generosity.
 
 ### Types of Entities
 

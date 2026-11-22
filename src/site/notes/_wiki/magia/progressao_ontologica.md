@@ -6,7 +6,7 @@
 
 A prática da magia cobra um custo pago na própria identidade do conjurador, à parte do [[_wiki/cosmologia/magi\|magi]]. Esse custo ontológico avança com o tempo e o uso, remodelando aos poucos o caráter de quem conjura até que a marca da escola se torne inseparável da pessoa.
 
-### Os quatro estágios
+### Os Quatro Estágios
 
 A progressão atravessa quatro estágios, medidos em anos de prática.
 
@@ -15,18 +15,18 @@ A progressão atravessa quatro estágios, medidos em anos de prática.
 - **III** — Natureza: Característica que passa a definir a identidade | Tempo: 15 a 30 anos
 - **IV** — Natureza: Transformação completa e irreversível | Tempo: 30 anos ou mais
 
-### Progresso pelo uso
+### Progresso pelo Uso
 
-O custo de uma escola avança pelo uso, não pela mera posse do acesso. Quem domina muitas escolas mas concentra a prática em duas ou três progride depressa nessas e quase nada nas demais. Quem distribui o uso por igual avança devagar em todas. A versatilidade apenas reparte o custo.
+O custo de uma escola avança na medida em que ela é usada. Quem domina muitas escolas mas concentra a prática em duas ou três progride depressa nessas e quase nada nas demais. Quem distribui o uso por igual avança devagar em todas. Assim, a versatilidade reparte o custo sem atenuá-lo.
 
-### Sistemas de acesso
+### Sistemas de Acesso
 
 Cada via de acesso ao poder molda essa progressão. O [[_wiki/magia/teru\|Teru]] concede acesso amplo a muitas escolas com menor profundidade, e seus custos se diluem porque o uso se distribui, o que produz tendências mistas nas escolas mais frequentadas, sem transformação completa. Os pactos concentram o poder em poucas escolas e intensificam o custo, pois somam à concentração de uso a amplificação do sentimento que a entidade alimenta, de modo que a transformação chega mais rápida e mais funda. Um mesmo praticante pode operar sob mais de um sistema ao mesmo tempo, e cada vínculo acrescenta o seu próprio custo. Nesses casos, os custos ontológicos somam conforme o uso de cada escola, sem que a soma de sistemas gere por si qualquer multiplicação. O que acumula integralmente é o custo próprio de cada via, com suas obrigações, marcas e exigências. A tensão entre entidades que disputam o mesmo praticante manifesta-se em exigências conflitantes e em ciúme divino, sem dano adicional.
 
-### Combinações que se reforçam
+### Combinações que se Reforçam
 
-Algumas combinações de escolas produzem custos que se somam de forma perigosa. [[_wiki/escolas/necro\|Necro]] e [[_wiki/escolas/cryo\|Cryo]] levam à morte emocional completa, a incapacidade de sentir. [[_wiki/escolas/phobos\|Phobos]] e [[_wiki/escolas/spectro\|Spectro]] geram o terror de que nada seja real. [[_wiki/escolas/anatho\|Anatho]] e [[_wiki/escolas/psycho\|Psycho]] corroem a capacidade de interação genuína. [[_wiki/escolas/vita\|Vita]] e [[_wiki/escolas/salvo\|Salvo]] criam a compulsão de drenar e curar sem fim.
+Algumas combinações de escolas produzem custos que se somam de forma perigosa. [[_wiki/escolas/necro\|Necro]] e [[_wiki/escolas/cryo\|Cryo]] levam à morte emocional completa, a incapacidade de sentir. [[_wiki/escolas/phobos\|Phobos]] e [[_wiki/escolas/spectro\|Spectro]] geram o terror de que nada seja real. [[_wiki/escolas/anatho\|Anatho]] e [[_wiki/escolas/psycho\|Psycho]] corroem a capacidade de interação genuína. [[_wiki/escolas/nomos\|Nomos]] e [[_wiki/escolas/geo\|Geo]] petrificam a psique, a ponto de o conjurador não conseguir mudar coisa alguma. [[_wiki/escolas/vita\|Vita]] e [[_wiki/escolas/salvo\|Salvo]] criam a compulsão de drenar e curar sem fim. [[_wiki/escolas/belli\|Belli]] e [[_wiki/escolas/pyro\|Pyro]] tornam o conjurador incontrolável: ele ataca aliados na ausência de inimigos. [[_wiki/escolas/gnosi\|Gnosi]] e Nomos levam à paralisia total, em que se sabe tudo e não se decide nada.
 
-### Escolas vizinhas
+### Escolas Vizinhas
 
-Escolas distintas podem produzir custos parecidos por dentro. O frio do Necro irradia de dentro para fora, enquanto o do Cryo penetra de fora para dentro. O [[_wiki/escolas/patho\|Patho]] distancia por sentir demais, em melancolia ativa; o Cryo, por sentir de menos, em anestesia. E o questionamento da realidade muda de foco conforme a escola: o Spectro pergunta se aquilo é real, o Psycho se o pensamento é seu, o [[_wiki/escolas/hypno\|Hypno]] se está de fato acordado.
+Escolas distintas podem produzir custos parecidos por dentro. O frio do Necro irradia de dentro para fora, enquanto o do Cryo penetra de fora para dentro. O [[_wiki/escolas/patho\|Patho]] distancia por sentir demais, em melancolia ativa; o Cryo, por sentir de menos, em anestesia. E o questionamento da realidade muda de foco conforme a escola: o Spectro pergunta se aquilo é real, o Psycho se o pensamento é seu, o [[_wiki/escolas/hypno\|Hypno]] se está de fato acordado. O desapego do mundo também segue duas direções: o [[_wiki/escolas/plasma\|Plasma]] é horizontal, dissolução que descarta a matéria; o [[_wiki/escolas/urano\|Urano]] é vertical, ascensão que transcende o mundano.

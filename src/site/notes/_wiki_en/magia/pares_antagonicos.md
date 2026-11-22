@@ -8,7 +8,7 @@ The thirty known schools of magic are organized into fifteen antagonistic pairs,
 
 ### Opposition and Interference
 
-Antagonistic pairs indicate thematic opposition and preferential interference, not absolute nullification. In direct confrontation, there is mutual resistance, increased cost, or partial dissipation, never automatic cancellation; the environment, preparation, and the caster’s mastery influence the outcome.
+Antagonistic pairs indicate thematic opposition and preferential interference. In direct confrontation, there is mutual resistance, increased cost, or partial dissipation, without automatic cancellation; the environment, preparation, and the caster’s mastery influence the outcome.
 
 ### Elemental Oppositions
 

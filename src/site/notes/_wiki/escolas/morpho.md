@@ -16,8 +16,8 @@ O grimório escala do cosmético à reescrita biológica total. Semblante altera
 
 ### Custos
 
-O custo temático é desorientação corporal e dificuldade de coordenação, de dois minutos a duas horas. O custo ontológico é a identidade fluida: o eu se torna categoria instável e o espelho passa a provocar estranhamento. Começa como estranhamento ocasional e avança até que qualquer forma sirva e a forma original se perca. Nesse ponto, quando ninguém conhece sua forma original e a lealdade se torna inverificável, o praticante é descartado numa Transferência silenciosa. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como [[_wiki/organizacoes/ophideias\|Ophideias]] de infiltração de longo prazo, porque a identidade sem âncora torna o vínculo impossível de verificar.
+O custo temático é desorientação corporal e dificuldade de coordenação, de dois minutos a duas horas. O custo ontológico é a identidade fluida: o eu se torna categoria instável e o espelho passa a provocar estranhamento. Começa como estranhamento ocasional e avança até que qualquer forma sirva e a forma original se perca. Nesse ponto, quando ninguém conhece sua forma original e a lealdade se torna inverificável, o praticante é descartado numa Transferência silenciosa. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como [[_wiki/organizacoes/ophideias\|ophideias]] de infiltração de longo prazo, porque a identidade sem âncora torna o vínculo impossível de verificar.
 
-### Combinações e oposição
+### Combinações e Oposição
 
 Com [[_wiki/escolas/vita\|Vita]], a metamorfose é cultivada em vez de forçada, mais lenta porém mais estável e de menor custo, especialidade de druidas e [[_wiki/racas/sylvano\|sylvanos]]; com [[_wiki/escolas/patho\|Patho]], a transformação degenera o alvo em algo errado em vez de funcional. A combinação com [[_wiki/escolas/belli\|Belli]] é proibida por protocolo imperial. Seu par antagônico é Spectro, a distinção entre tornar-se e parecer: Morpho lida com a dúvida sobre a identidade, Spectro com a dúvida sobre a percepção.

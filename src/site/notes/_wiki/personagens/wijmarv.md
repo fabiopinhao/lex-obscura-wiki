@@ -6,7 +6,7 @@
 
 Wijmarv é um xamã [[_wiki/racas/varnakiano\|varnakiano]], tiefling, estudioso de [[_wiki/racas/draconideo\|draconídeos]], dragões e [[_wiki/racas/luminares\|Luminares]], e autor de um tratado sobre a [[_wiki/artefatos/fendris\|Fendris]]. Foragido de um clã drakhonin que ele serviu e atraiçoou, é tido como refugiado em [[_wiki/locais/varnak\|Varnak]].
 
-### Origem e papel
+### Origem e Papel
 
 Antes de fugir, Wijmarv serviu como feiticeiro de um clã drakhonin, e a ele se atribui o fechamento, ou a falha em fechar, dos túneis do oeste de [[_wiki/locais/vor-ghol\|Vor-Ghol]]. Quando a passagem pelo subsolo deixou de estar segura, foi o nome dele que [[_wiki/personagens/yzmareth\|Yzmareth]] ergueu, e Wijmarv fugiu de volta para Varnak. [[_wiki/personagens/thrax\|Thrax]] o chama de *mraz’kor*, “Coração de Cinza”, termo do varnakiano arcaico para quem perdeu a capacidade de produzir fogo: na cultura guerreira das cordilheiras, quem o carrega é tido como um morto que caminha, pois sua existência já não possui o calor da honra. Thrax o odeia por duas razões distintas: a falha com o clã e a ameaça do tratado, que deslegitima o mito fundador [[_wiki/linguas/draconico\|dracônico]] ao afirmar que a Fendris fere draconídeos tanto quanto dragões.
 

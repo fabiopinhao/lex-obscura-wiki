@@ -16,7 +16,7 @@ Anatho também produz selamentos malditos: padrões de contenção e proteção 
 
 ### Rastro
 
-Invocação recente de Anatho deixa vestígio legível para quem sabe procurá-lo: não uma temperatura no ar, mas o frio que o resíduo arcano imprime nos nervos de quem examina o lugar. É o que permite reconstruir autoria depois do ato, distinguindo qual escola operou e por qual mão, mesmo quando quase todo o rastro já se dispersou. Não se confunde com o calor constante dos selamentos ancorados em nome de entidade demoníaca: aquele é contenção ativa e permanece; este é resíduo, e se apaga.
+Invocação recente de Anatho deixa vestígio legível para quem sabe procurá-lo: um frio que não está no ar, impresso pelo resíduo arcano nos nervos de quem examina o lugar. É o que permite reconstruir autoria depois do ato, distinguindo qual escola operou e por qual mão, mesmo quando quase todo o rastro já se dispersou. O calor constante dos selamentos ancorados em nome de entidade demoníaca é outro fenômeno: o selamento é contenção ativa e permanece; o rastro é resíduo, e se apaga.
 
 ### Custos
 
@@ -24,4 +24,4 @@ O custo temático são marcas temporárias de corrupção na própria carne, e o
 
 ### No Império
 
-O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes de Anatho como [[_wiki/organizacoes/justiciares\|Justiciares]], Inquisidores e [[_wiki/organizacoes/ophideias\|Ophideias]] de interrogatório, funções que exigem leitura de vulnerabilidades. Combinada com [[_wiki/escolas/psycho\|Psycho]], produz manipulação total; com [[_wiki/escolas/belli\|Belli]], acua a presa, degradando o corpo enquanto força o alvo a atacar mesmo debilitado.
+O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes de Anatho como [[_wiki/organizacoes/justiciares\|justiciares]], inquisidores e [[_wiki/organizacoes/ophideias\|ophideias]] de interrogatório, funções que exigem leitura de vulnerabilidades. Combinada com [[_wiki/escolas/psycho\|Psycho]], produz manipulação total; com [[_wiki/escolas/belli\|Belli]], acua a presa, degradando o corpo enquanto força o alvo a atacar mesmo debilitado.

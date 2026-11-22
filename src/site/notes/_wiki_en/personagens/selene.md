@@ -4,7 +4,7 @@
 
 # Selene
 
-Selene was a woman of southern origin who lived in [[_wiki_en/locais/valdris\|Valdris]]. Brought from elsewhere by her husband, a fisherman from the city, she was thin and brittle, the kind the angels make to decorate, not to last. She kept her eyes lowered, turned toward the ground and to the sides, and the curls that the wind of the Austral seemed to want to tear out.
+Selene was a woman of southern origin who lived in [[_wiki_en/locais/valdris\|Valdris]]. Brought from elsewhere by her husband, a fisherman from the city, she was thin and brittle. She kept her eyes lowered, turned toward the ground and to the sides, and the curls that the wind of the Austral seemed to want to tear out.
 
 ### In Valdris
 

@@ -4,7 +4,7 @@
 
 # Veinkard
 
-Veinkard is a mountainous continent west of [[_wiki_en/locais/reinkard\|Reinkard]], about six hundred leagues west of [[_wiki_en/locais/morvgrad\|Morvgrad]] and separated from it by the mountain range known as the [[_wiki_en/locais/dorsal\|Dorsal]]. With a harsh climate, chaotic territory, and no political unification, it is the place of origin of the [[_wiki_en/racas/draconideo\|Draconids]] and the region to which dragons were driven ages ago. In practice, the names “Veinkard” and “[[_wiki_en/locais/varnak\|Varnak]]” (its only region inhabited by humanoids) are used almost as synonyms.
+Veinkard is a mountainous continent west of [[_wiki_en/locais/reinkard\|Reinkard]], about six hundred leagues west of [[_wiki_en/locais/morvgrad\|Morvgrad]] and separated from Reinkard by the mountain range known as the [[_wiki_en/locais/dorsal\|Dorsal]]. With a harsh climate, chaotic territory, and no political unification, it is the place of origin of the [[_wiki_en/racas/draconideo\|Draconids]] and the region to which dragons were driven ages ago. In practice, the names “Veinkard” and “[[_wiki_en/locais/varnak\|Varnak]]” (its only region inhabited by humanoids) are used almost as synonyms.
 
 ### Geography and Politics
 
@@ -16,4 +16,4 @@ A hostile region with little [[_wiki_en/racas/shadar\|Shadar]] presence, Veinkar
 
 ### Balance of Power
 
-Varnak rests on a triad of forces: Varna, with overwhelming individual power; Clan Myr’vethan, with organized military power; and the smaller tribes, fragmented but numerous. None of them can eliminate the others without catastrophic cost, and the region’s stability rests on mutual threat, not agreement. For the allied tribes, Varna is worshiped as a protector goddess; for Clan Myr’vethan, she is the obstacle to total domination; for the Shadow Empire, a latent threat.
+Varnak rests on a triad of forces: Varna, with overwhelming individual power; Clan Myr’vethan, with organized military power; and the smaller tribes, fragmented but numerous. None of them can eliminate the others without catastrophic cost, and the region’s stability rests on mutual threat, with no agreement among them. For the allied tribes, Varna is worshiped as a protector goddess; for Clan Myr’vethan, she is the obstacle to total domination; for the Shadow Empire, a latent threat.

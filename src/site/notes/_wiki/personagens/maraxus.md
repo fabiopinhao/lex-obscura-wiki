@@ -12,7 +12,7 @@ Tem a pele bronzeada de quem viveu sob o sol e o físico de força bruta. Exibe 
 
 ### Origem
 
-Vem de [[_wiki/locais/karanthia\|Karanthia]], província pobre da costa sul-oriental, e por isso carrega o termo pejorativo de “pindoriar” que o império reserva a gente de sua classe. Sua posição é irregular: a hierarquia do Culto reserva o comando armado aos filhos das sombras, e um humano de berço humilde no topo da guarda é uma anomalia que a estrutura tolera enquanto lhe convém. Cúmplice de Merari, tornou-se na prática o instrumento que sustenta o domínio do lorde sobre Niedellin: a obediência da guarda órquica passa por sua mão.
+Vem de [[_wiki/locais/karanthia\|Karanthia]], província pobre da costa sul-oriental, e por isso carrega o termo pejorativo de “pindoriar” que o Império reserva a gente de sua classe. Sua posição é irregular: a hierarquia do Culto reserva o comando armado aos filhos das sombras, e um humano de berço humilde no topo da guarda é uma anomalia que a estrutura tolera enquanto lhe convém. Cúmplice de Merari, tornou-se na prática o instrumento que sustenta o domínio do lorde sobre Niedellin: a obediência da guarda órquica passa por sua mão.
 
 ### Método e Voz
 

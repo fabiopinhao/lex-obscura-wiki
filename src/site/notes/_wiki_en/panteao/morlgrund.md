@@ -16,7 +16,7 @@ Geo gives Morlgrund dominion over tremors, tectonic walls, and the weight of roc
 
 ### The Guardian
 
-Thal’Serin endures because Morlgrund protects it, and that protection is not free. [[_wiki_en/panteao/vozrador\|Vozrador]] made an agreement with Morlgrund and [[_wiki_en/panteao/titania\|Titânia]]: the forest would remain inviolable as long as Vozrador maintained supremacy over [[_wiki_en/escolas/patho\|Patho]], the school of putrefaction. The pact worked through a convergence of interests, since Morlgrund wanted the forest intact and Vozrador wanted a domain that no other [[_wiki_en/cosmologia/diabos\|devil]] dared contest. A titan negotiating with a devil was unthinkable to most of the pantheon, but green philosophy operates through survival, not purism. Vozrador’s imprisonment destabilized this balance.
+Thal’Serin endures because Morlgrund protects it, and that protection is not free. [[_wiki_en/panteao/vozrador\|Vozrador]] made an agreement with Morlgrund and [[_wiki_en/panteao/titania\|Titânia]]: the forest would remain inviolable as long as Vozrador maintained supremacy over [[_wiki_en/escolas/patho\|Patho]], the school of putrefaction. The pact worked through a convergence of interests, since Morlgrund wanted the forest intact and Vozrador wanted a domain that no other [[_wiki_en/cosmologia/diabos\|devil]] dared contest. A titan negotiating with a devil was unthinkable to most of the pantheon, but green philosophy puts survival above purism. Vozrador’s imprisonment destabilized this balance.
 
 ### The Forbidden Name
 
@@ -28,4 +28,4 @@ When the forest is wounded, the name vibrates: a low tremor, felt in the bones a
 
 ### The Symbiosis
 
-“Green does not destroy black when it depends on it for contrast.” The relationship between Morlgrund and Vozrador is not an alliance, but ecological necessity transposed to the scale of the divine: nature that survives in the shadows needs the shadow that feeds on nature. Removing either term causes both to collapse.
+“Green does not destroy black when it depends on it for contrast.” The relationship between Morlgrund and Vozrador is ecological necessity transposed to the scale of the divine: nature that survives in the shadows needs the shadow that feeds on nature. Removing either term causes both to collapse.

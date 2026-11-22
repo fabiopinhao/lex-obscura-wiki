@@ -4,7 +4,7 @@
 
 # Elenir
 
-Elenir, known as the Crystal Fortress, is an [[_wiki_en/racas/elarino\|Elarin]] elven city in eastern [[_wiki_en/locais/reinkard\|Reinkard]], about thirty-five leagues east of [[_wiki_en/locais/morvgrad\|Morvgrad]], conquered by the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]] during the Reinkardic Wars. Rich in [[_wiki_en/cosmologia/magi\|magi]], extracted there as an alchemical reagent, it became a symbol of the elves’ subjugation by the empire.
+Elenir, known as the Crystal Fortress, is an [[_wiki_en/racas/elarino\|Elarin]] elven city in eastern [[_wiki_en/locais/reinkard\|Reinkard]], about thirty-five leagues east of [[_wiki_en/locais/morvgrad\|Morvgrad]], conquered by the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]] during the Reinkardic Wars. Rich in [[_wiki_en/cosmologia/magi\|magi]], extracted there as an alchemical reagent, it became a symbol of the elves’ subjugation by the Empire.
 
 ### Geography
 
@@ -16,7 +16,7 @@ Before the fall, Elenir was an ally of [[_wiki_en/locais/myrgarde\|Myrgarde]] in
 
 ### The Crystal Fortress
 
-The epithet comes from the [[_wiki_en/cosmologia/nexus\|magi nexuses]] that run through the fortress, the largest known natural outcrop in [[_wiki_en/locais/thamakard\|Thamakard]], from which the empire extracts the magi that drives its industry. These nexuses were silenced from the inside out, according to the report by [[_wiki_en/personagens/vyrensen\|Vyrensen]], and [[_wiki_en/personagens/arothistar\|Arothistar]] reads the anomaly as deliberate interference.
+The epithet comes from the [[_wiki_en/cosmologia/nexus\|magi nexuses]] that run through the fortress, the largest known natural outcrop in [[_wiki_en/locais/thamakard\|Thamakard]], from which the Empire extracts the magi that drives its industry. These nexuses were silenced from the inside out, according to the report by [[_wiki_en/personagens/vyrensen\|Vyrensen]], and [[_wiki_en/personagens/arothistar\|Arothistar]] reads the anomaly as deliberate interference.
 
 ### Crys’Aelin
 

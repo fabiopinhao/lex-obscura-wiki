@@ -12,7 +12,7 @@ O conflito entre Luminares e [[_wiki/racas/sauriano\|saurianos]] definiu a geopo
 
 Para combatê-los, os artífices luminares forjaram artefatos de guerra imbuídos de magi antiga. Os mais poderosos foram deliberadamente forjados para rejeitar mãos corrompidas por pactos diabólicos ou vínculos demoníacos, de modo que nem [[_wiki/racas/drul\|druls]] nem [[_wiki/racas/orc\|orcs]] pudessem empunhá-los contra seus criadores. Nenhum era mais temido que a [[_wiki/artefatos/fendris\|Fendris]], adaga encantada capaz de ferir qualquer criatura dracônica, que só respondia a mãos não-pactuadas.
 
-### A barreira
+### A Barreira
 
 O conflito culminou na construção das grandes barreiras arcanas. Os Luminares impregnaram a própria rocha das cordilheiras com magi, e dragões deixaram de cruzar as montanhas. Sem o apoio dos dragões, os draconídeos tampouco ousavam descer, pois os artefatos luminares eram letais demais para enfrentá-los sozinhos. A barreira tornou-se o sinal da supremacia luminar sobre os répteis.
 

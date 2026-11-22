@@ -18,7 +18,7 @@ Seventy centimeters to one meter in height, with fine scales in shades of rust, 
 
 Manufactured devotion is the defining trait. Kobolds develop an absolute bond with a master, and the bond operates with the intensity of a religious pact: [[_wiki_en/personagens/fing\|Fing]], a kobold in the service of [[_wiki_en/personagens/arothistar\|Arothistar]], prepares baths, fetches books, and anticipates requests with a dedication that observers mistake for love and that results from generations of selection that eliminated every alternative: kobolds that do not bond do not survive, because they receive no food, shelter, or purpose. The bond is a biological cage.
 
-Kobold identity is inseparable from the master. “I” is defined by “whom I serve,” and a kobold without a master, to itself, is nothing. Hence the severity of the trauma caused by the phrase “you are a thing”: it confirms what the kobold silently fears, that devotion is only a function, and that functions can be replaced. Kobolds that serve the same master compete for the closest position, within the only hierarchy they understand. Fear is a permanent state: they fear masters, other servants, shadows, noises, the future. It is the end product of centuries of selection in which the fearless died, and when fear is insufficient to protect it, the kobold freezes.
+Kobold identity is inseparable from the master. “I” is defined by “whom I serve,” and a kobold without a master, to itself, is nothing. Hence the severity of the trauma in response to the phrase “you are a thing”: it confirms what the kobold silently fears, that devotion is only a function, and that functions can be replaced. Kobolds that serve the same master compete for the closest position, within the only hierarchy they understand. Fear is a permanent state: they fear masters, other servants, shadows, noises, the future. It is the end product of centuries of selection in which the fearless died, and it is what keeps the kobold alive, obedient, and invisible; when fear is insufficient to protect it, the kobold freezes.
 
 ### Social Structure
 
@@ -34,7 +34,7 @@ Kobolds are listed as movable property in the inventories of Shadar lords, along
 
 ### Relationship with Magic
 
-Although of demonic lineage through corrupted draconic heritage, kobolds do not practice magic: the capacity was eliminated along with breath weapons and aggression during selection. What remains is residual sensitivity, the perception of arcane fluctuations and agitation in the presence of supernatural beings or powerful artifacts. Fing interprets the [[_wiki_en/cosmologia/noctiluz\|noctiluz]] instinctively, a sign that the draconic heritage still pulses beneath the imposed docility.
+Although of demonic lineage through corrupted draconic heritage, kobolds do not practice magic: the capacity was eliminated along with breath weapons and aggression during selection. What remains is residual sensitivity, the perception of arcane fluctuations and agitation in the presence of supernatural presences or powerful artifacts. Fing interprets the [[_wiki_en/cosmologia/noctiluz\|noctiluz]] instinctively, a sign that the draconic heritage still pulses beneath the imposed docility.
 
 ### Life Cycle
 
@@ -42,4 +42,4 @@ Kobolds are oviparous, with clutches of four to eight eggs and an incubation per
 
 ### Voice
 
-Kobolds speak little and quietly, either omitting the subject or using the first person. Sentences are short and functional, vocabulary restricted to service. When frightened, their speech is reduced to isolated syllables and their tails coil around their bodies; when praised, they respond with stunned silence, incapable of processing approval. Where [[_wiki_en/racas/murano\|Murans]] speak to exist and Draconids to declare, kobolds speak to confirm that they still serve. In the presence of a Draconid, a kobold confronts what it should have been, and the instinctive reaction is to shrink back.
+Kobolds speak little and quietly, either omitting the subject or using the first person. Sentences are short and functional, vocabulary restricted to service. When frightened, their speech is reduced to isolated syllables and their tails coil around their bodies; when praised, they respond with stunned silence, incapable of processing approval. Where [[_wiki_en/racas/murano\|Murans]] speak to exist and Draconids to declare, kobolds speak to confirm that they still serve. In the presence of a Draconid, a kobold confronts what it should have been, and the instinctive reaction is to make itself small.

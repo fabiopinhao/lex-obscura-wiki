@@ -4,7 +4,7 @@
 
 # Templo de Azkaroth
 
-O Templo de Azkaroth é um santuário do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]] escavado na montanha, no distrito sagrado de [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], dentro do anel médio de [[_wiki/locais/mor_draconis\|Mor’Draconis]], em [[_wiki/locais/morvgrad\|Morvgrad]]. É ali que se realizam as unções dos [[_wiki/organizacoes/justiciares\|Justiciares]]. É uma das fundações de Morvgrad e, entre os ao menos doze templos diabólicos da capital, permanece um dos mais ativos.
+O Templo de Azkaroth é um santuário do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]] escavado na montanha, no distrito sagrado de [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], dentro do anel médio de [[_wiki/locais/mor_draconis\|Mor’Draconis]], em [[_wiki/locais/morvgrad\|Morvgrad]]. É ali que se realizam as unções dos [[_wiki/organizacoes/justiciares\|justiciares]]. É uma das fundações de Morvgrad e, entre os ao menos doze templos diabólicos da capital, permanece um dos mais ativos.
 
 ### Arquitetura
 
@@ -16,7 +16,7 @@ Além das unções, o Templo é o centro das questões místicas e dos mistério
 
 ### A Unção dos Justiciares
 
-Na unção, conduzida em língua antiga, invoca-se [[_wiki/panteao/abbhal\|Abbhal]] como juiz supremo enquanto dez discípulos de Xarn entoam um cântico dissonante em semicírculo. No gesto que marca a passagem, o feiticeiro deita a espada consagrada sobre as palmas abertas do ungido, com o fio voltado para ele: a lei é recebida em sustentação, sem que a mão a tome pelo punho. O ungido recebe ali os três artefatos da consagração: a [[_wiki/artefatos/spina_lexis\|Spina Lexis]], cetro de pedra lunar e ossos de condenados; o [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]], tomo púrpura com o símbolo de Arothistar; e o [[_wiki/artefatos/oculus_morvgradi\|Oculus Morvgradi]], esfera de ônix. Na unção de [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh]], a pintura mural de Arothistar emanou um fulgor incomum; da galeria elevada, [[_wiki/personagens/orum-rahru\|Orum-Rahru]] e [[_wiki/personagens/nidzina_avaroth\|Nidzina]] observaram a cerimônia, e uma sexta cadeira permaneceu vazia entre os Justiciares.
+Na unção, conduzida em língua antiga, invoca-se [[_wiki/panteao/abbhal\|Abbhal]] como juiz supremo enquanto dez discípulos de Xarn entoam um cântico dissonante em semicírculo. No gesto que marca a passagem, o feiticeiro deita a espada consagrada sobre as palmas abertas do ungido, com o fio voltado para ele: a lei é recebida em sustentação, sem que a mão a tome pelo punho. O ungido recebe ali os três artefatos da consagração: a [[_wiki/artefatos/spina_lexis\|Spina Lexis]], cetro de pedra lunar e ossos de condenados; o [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]], tomo púrpura com o símbolo de Arothistar; e o [[_wiki/artefatos/oculus_morvgradi\|Oculus Morvgradi]], esfera de ônix. Na unção de [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh]], a pintura mural de Arothistar emanou um fulgor incomum; da galeria elevada, [[_wiki/personagens/orum-rahru\|Orum-Rahru]] e [[_wiki/personagens/nidzina_avaroth\|Nidzina]] observaram a cerimônia, e uma sexta cadeira permaneceu vazia entre os justiciares.
 
 ### O Selo de Azkaroth
 

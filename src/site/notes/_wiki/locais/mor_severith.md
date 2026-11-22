@@ -4,7 +4,7 @@
 
 # Mor’Severith
 
-Mor’Severith é a torre de [[_wiki/personagens/arothistar\|Arothistar]], fundida ao [[_wiki/locais/pico_de_nethys\|Pico de Nethys]] em [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], dentro de [[_wiki/locais/morvgrad\|Morvgrad]]. Seu nome significa “Torre da Separação” em [[_wiki/racas/drul\|drul]] arcaico. De fora, as janelas quase não se distinguem na pedra, e nenhum som escapa de suas paredes. Da sacada mais alta, o monarca contempla o [[_wiki/organizacoes/imperio_sombrio\|império]]. Seus servos são criaturas menores, híbridas e quebradas, como [[_wiki/racas/kobold\|kobolds]] e [[_wiki/criaturas/diabrete\|diabretes]], e nunca um [[_wiki/racas/shadar\|shadar]] ou um drul. O [[_wiki/racas/minotauro\|minotauro]] [[_wiki/personagens/odran\|Odran]] é exceção, pois minotauros não são raça servil.
+Mor’Severith é a torre de [[_wiki/personagens/arothistar\|Arothistar]], fundida ao [[_wiki/locais/pico_de_nethys\|Pico de Nethys]] em [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], dentro de [[_wiki/locais/morvgrad\|Morvgrad]]. Seu nome significa “Torre da Separação” em [[_wiki/racas/drul\|drul]] arcaico. De fora, as janelas quase não se distinguem na pedra, e nenhum som escapa de suas paredes. Da sacada mais alta, o monarca contempla o [[_wiki/organizacoes/imperio_sombrio\|Império]]. Seus servos são criaturas menores, híbridas e quebradas, como [[_wiki/racas/kobold\|kobolds]] e [[_wiki/criaturas/diabrete\|diabretes]], e nunca um [[_wiki/racas/shadar\|shadar]] ou um drul. O [[_wiki/racas/minotauro\|minotauro]] [[_wiki/personagens/odran\|Odran]] é exceção, pois minotauros não são raça servil.
 
 ### Estrutura
 

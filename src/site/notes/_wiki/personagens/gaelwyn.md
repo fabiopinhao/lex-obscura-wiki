@@ -4,7 +4,7 @@
 
 # Gaelwyn
 
-Gaelwyn, ou Gael, é um montaraz sylvano veterano e canalizador druídico, tido como o melhor montaraz de [[_wiki/locais/thal_serin\|Thal’Serin]]. Lutou nas [[_wiki/conceitos/guerras_reinkardicas\|Guerras Reinkárdicas]] na idade em que hoje estão os aprendizes que treinou. Devoto de [[_wiki/panteao/titania\|Titânia]], carrega a [[_wiki/cosmologia/marca_das_luas_gemeas\|marca das luas gêmeas]] e serve à [[_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal’Serin]]. Empunha o arco élfico e a magia druídica, e é amante de [[_wiki/personagens/koliah\|Koliah]].
+Gaelwyn, ou Gael, é um montaraz sylvano veterano e canalizador druídico, tido como o melhor montaraz de [[_wiki/locais/thal_serin\|Thal’Serin]]. Lutou nas [[_wiki/conceitos/guerras_reinkardicas\|Guerras Reinkárdicas]] na idade em que hoje estão os aprendizes que treinou. Devoto de [[_wiki/panteao/titania\|Titânia]], carrega a [[_wiki/cosmologia/marca_das_luas_gemeas\|marca das luas gêmeas]] e serve à [[_wiki/organizacoes/resistencia_de_thal_serin\|Resistência de Thal’Serin]]. Empunha o arco élfico e a magia druídica.
 
 ### Aparência
 
@@ -20,4 +20,4 @@ Algo na presença de Gael move a própria floresta de Thal’Serin: as árvores 
 
 ### Relações
 
-É amante de Koliah e mentor da nova geração de montarazes da resistência, entre eles Mirin e [[_wiki/personagens/calel\|Calel]], que treinou. Os que ele formou devem a ele o ofício, e Mirin, também o propósito.
+É amante de [[_wiki/personagens/koliah\|Koliah]] e mentor da nova geração de montarazes da resistência, entre eles Mirin e [[_wiki/personagens/calel\|Calel]]. Os que ele formou devem a ele o ofício, e Mirin, também o propósito.

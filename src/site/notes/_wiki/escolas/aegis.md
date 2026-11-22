@@ -4,11 +4,11 @@
 
 # Aegis
 
-Aegis é a escola híbrida de proteção e barreira, combinação de branco e azul. Cria escudos, barreiras e auras protetoras, deflete golpes, absorve dano, reflete ataques e manifesta sentinelas de força, em proteção pessoal ou de grupo. Seu sentimento-chave é a vigília protetora: a percepção de que algo precisa ser defendido, agora.
+Aegis é a escola híbrida de proteção e barreira, partilhada por anjos e siderais. Cria escudos, barreiras e auras protetoras, deflete golpes, absorve dano, reflete ataques e manifesta sentinelas de força, em proteção pessoal ou de grupo. Seu sentimento-chave é a vigília protetora: a percepção de que algo precisa ser defendido, agora.
 
 ### Princípio
 
-Aegis protege por força arcana pura, e é isso que a distingue de escolas vizinhas: bloqueia dano, não matéria, não vínculo, não fluxo. Difere de [[_wiki/escolas/geo\|Geo]], que protege com pedra real, de [[_wiki/escolas/nomos\|Nomos]], que restringe por lei arcana, e de [[_wiki/escolas/abjuro\|Abjuro]], que nega magia. Sua mecânica escala do reflexo defensivo à esfera impenetrável.
+Aegis protege por força arcana pura e bloqueia dano, e é isso que a distingue de escolas vizinhas: [[_wiki/escolas/geo\|Geo]] protege com pedra real, [[_wiki/escolas/nomos\|Nomos]] restringe por lei arcana e [[_wiki/escolas/abjuro\|Abjuro]] nega magia. Sua mecânica escala do reflexo defensivo à esfera impenetrável.
 
 ### Práticas
 
@@ -22,7 +22,7 @@ Aegis se entrelaça com outras escolas. Com a Consagração do [[_wiki/escolas/s
 
 ### Custos
 
-O custo temático é vulnerabilidade emocional, ansiedade e medo amplificado, durando de cinco minutos a quatro horas. O custo ontológico é a hipervigilância: ameaças passam a aparecer em todo lugar, relaxar se torna impossível e a proteção vira obsessão. A progressão vai da vigilância aumentada à incapacidade de baixar a guarda, até um estágio em que repouso parece negligência e descuido parece traição. Nesse extremo, a Redoma sustentada demais precisa ser quebrada por fora, porque o conjurador não consegue soltá-la. Diferentemente de outras escolas, o praticante em estágio avançado raramente é descartado: a vigilância permanente é útil para proteger um local ou uma pessoa única. No [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], esses praticantes são recrutados como [[_wiki/organizacoes/templarios\|Templários]], curandeiros imperiais e guarda pessoal de dignitários.
+O custo temático é vulnerabilidade emocional, ansiedade e medo amplificado, durando de cinco minutos a quatro horas. O custo ontológico é a hipervigilância: ameaças passam a aparecer em todo lugar, relaxar se torna impossível e a proteção vira obsessão. A progressão vai da vigilância aumentada à incapacidade de baixar a guarda, até um estágio em que repouso parece negligência e descuido parece traição. Nesse extremo, a Redoma sustentada demais precisa ser quebrada por fora, porque o conjurador não consegue soltá-la. Diferentemente de outras escolas, o praticante em estágio avançado raramente é descartado: a vigilância permanente é útil para proteger um local ou uma pessoa única. No [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], esses praticantes são recrutados como [[_wiki/organizacoes/templarios\|templários]], curandeiros imperiais e guarda pessoal de dignitários.
 
 ### Par Antagônico
 

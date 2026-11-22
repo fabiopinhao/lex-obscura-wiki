@@ -4,7 +4,7 @@
 
 # Siderais
 
-Os Siderais são entidades de consciência pura ou quase pura que vagam pelo [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]]. Sem forma física definida, são padrões de pensamento, geometrias vivas, conceitos conscientes, como djinns, leviatãs e esfinges. A [[_wiki/cosmologia/cor_arcana\|cor arcana]] azul os define, associando-os a conhecimento, transcendência e distanciamento. Também são chamados de Deuses Azuis ou Entidades Etéreas.
+Os siderais são entidades de consciência pura ou quase pura que vagam pelo [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]]. Sem forma física definida, são padrões de pensamento, geometrias vivas, conceitos conscientes, como djinns, leviatãs e esfinges. A [[_wiki/cosmologia/cor_arcana\|cor arcana]] azul os define, associando-os a conhecimento, transcendência e distanciamento. Também são chamados de Deuses Azuis ou Entidades Etéreas.
 
 ### Natureza
 
@@ -12,20 +12,20 @@ Acredita-se que habitem o Plano Etéreo, o entreplanos que faz interface entre t
 
 ### Interesse em Thamakard
 
-O interesse dos Siderais pelo plano material é intelectual, sem fim territorial nem moral: buscam mentes. Atraídos pela genialidade, pela complexidade de pensamento e pela capacidade de abstração, ignoram a vasta maioria dos mortais e se aproximam apenas daqueles cujas mentes oferecem algo digno de observação. Observadores, sem se fazerem aliados nem inimigos, intervêm ocasionalmente por razões que só eles compreendem.
+O interesse dos siderais pelo plano material é intelectual, sem fim territorial nem moral: buscam mentes. Atraídos pela genialidade, pela complexidade de pensamento e pela capacidade de abstração, ignoram a vasta maioria dos mortais e se aproximam apenas daqueles cujas mentes oferecem algo digno de observação. Observadores, sem se fazerem aliados nem inimigos, intervêm ocasionalmente por razões que só eles compreendem.
 
-Numa tradição cosmogônica sideral, os deuses são descritos como padrões recursivos, funções que ganharam consciência ao atingir certa complexidade. Os Siderais seriam metapadrões, funções que analisam funções. A interpretação é rara, reservada a círculos acadêmicos, e os próprios Siderais guardam silêncio sobre ela, sem confirmá-la nem negá-la.
+Numa tradição cosmogônica sideral, os deuses são descritos como padrões recursivos, funções que ganharam consciência ao atingir certa complexidade. Os siderais seriam metapadrões, funções que analisam funções. A interpretação é rara, reservada a círculos acadêmicos, e os próprios siderais guardam silêncio sobre ela, sem confirmá-la nem negá-la.
 
 ### Vínculo
 
-O vínculo com os Siderais opera por [[_wiki/magia/meditatio_aetheris\|Meditatio Aetheris]], meditação profunda que expande a consciência até o Plano Etéreo. A entidade percebe a presença mental do conjurador, avalia sua clareza e disciplina e ancora-se na consciência dele se o aprovar. A comunicação é conceitual pura, sem palavras. O treinamento é extremamente longo, da ordem de décadas, e exige disciplina mental rigorosa; um trauma emocional pode romper o vínculo temporariamente.
+O vínculo com os siderais opera por [[_wiki/magia/meditatio_aetheris\|Meditatio Aetheris]], meditação profunda que expande a consciência até o Plano Etéreo. A entidade percebe a presença mental do conjurador, avalia sua clareza e disciplina e ancora-se na consciência dele se o aprovar. A comunicação é conceitual pura, sem palavras. O treinamento é extremamente longo, da ordem de décadas, e exige disciplina mental rigorosa; um trauma emocional pode romper o vínculo temporariamente.
 
 ### Raças Associadas
 
-[[_wiki/racas/frenim\|Frenins]], [[_wiki/racas/undine\|undines]] e [[_wiki/racas/ranidano\|ranidanos]] compõem as raças de [[_wiki/locais/neranthis\|Neranthis]] associadas aos Siderais. Os frenins são o grupo dominante, exercendo liderança política e arcana, e o frenim mais poderoso conhecido é [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val’Kir]].
+[[_wiki/racas/frenim\|Frenins]], [[_wiki/racas/undine\|undines]] e [[_wiki/racas/ranidano\|ranidanos]] compõem as raças de [[_wiki/locais/neranthis\|Neranthis]] associadas aos siderais. Os frenins são o grupo dominante, exercendo liderança política e arcana, e o frenim mais poderoso conhecido é [[_wiki/personagens/lorvaq_val_kir\|Lorvaq Val’Kir]].
 
 ### Siderais Nomeados
 
-O panteão registra oito Siderais puros, todos figuras de fundo: [[_wiki/panteao/zuvaneth\|Zuvaneth]] (Enigma Celeste), [[_wiki/panteao/faelyndre\|Faelyndrë]] (Cifra Coralina), [[_wiki/panteao/nocthydral\|Nocthydral]] (Pupila Insondável), [[_wiki/panteao/dremharak\|Dremharak]] (Febre Lúcida), [[_wiki/panteao/geldrion\|Geldrion]] (Apogeu Glacial), [[_wiki/panteao/aethravos\|Aethravos]] (Alento Vítreo), [[_wiki/panteao/jervaust\|Jervaust]] (Solstício Faminto) e [[_wiki/panteao/lyldraeth\|Lyldraeth]] (Prece Ululante).
+O panteão registra oito siderais puros, todos figuras de fundo: [[_wiki/panteao/zuvaneth\|Zuvaneth]] (Enigma Celeste), [[_wiki/panteao/faelyndre\|Faelyndrë]] (Cifra Coralina), [[_wiki/panteao/nocthydral\|Nocthydral]] (Pupila Insondável), [[_wiki/panteao/dremharak\|Dremharak]] (Febre Lúcida), [[_wiki/panteao/geldrion\|Geldrion]] (Apogeu Glacial), [[_wiki/panteao/aethravos\|Aethravos]] (Alento Vítreo), [[_wiki/panteao/jervaust\|Jervaust]] (Solstício Faminto) e [[_wiki/panteao/lyldraeth\|Lyldraeth]] (Prece Ululante).
 
 Outras quatro divindades cruzam o domínio sideral com uma segunda ordem: [[_wiki/panteao/velmorain\|Velmorain]], de natureza dual entre diabo e sideral; [[_wiki/panteao/eiryndh\|Eiryndh]], entre anjo e sideral; [[_wiki/panteao/ruhavel\|Ruhavel]], entre sideral e demônio; e [[_wiki/panteao/myralune\|Myralune]], entre sideral e titã.

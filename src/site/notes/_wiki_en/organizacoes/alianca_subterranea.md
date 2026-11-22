@@ -12,6 +12,6 @@ The Alliance is formalized along two axes. In the political sphere, it brings to
 
 ### Permanent Tension
 
-Distrust between the two races is mutual and ancestral. The Shadars consider the Druls unpredictable and excessively loyal to the matriarchs; the Druls see the Shadars as arrogant and incapable of honoring alliances without dominating them. The Alliance functions despite this tension, not without it.
+Distrust between the two races is mutual and ancestral. The Shadars consider the Druls unpredictable and excessively loyal to the matriarchs; the Druls see the Shadars as arrogant and incapable of honoring alliances without dominating them. The Alliance functions despite this tension.
 
 The balance worsened when [[_wiki_en/personagens/arothistar\|Arothistar]] took control of Vor-Ghol after rising to power, shifting the relationship from partnership to de facto subordination. The Druls began watching the monarch with the same caution they reserve for any power excessively centralized in a single will, and their matriarchs wait.

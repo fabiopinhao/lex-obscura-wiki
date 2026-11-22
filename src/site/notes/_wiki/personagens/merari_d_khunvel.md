@@ -4,7 +4,7 @@
 
 # Merari d’Khunvel
 
-Merari d’Khunvel é um [[_wiki/racas/shadar\|shadar]] e o Lorde Sombrio designado para administrar [[_wiki/locais/niedellin\|Niedellin]] e seus arredores, incluindo as bordas de [[_wiki/locais/thal_serin\|Thal’Serin]]. De temperamento menos sádico que outros lordes provinciais do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], prefere o controle indireto à violência aberta e governa como administrador antes de governar como carrasco.
+Merari d’Khunvel é um [[_wiki/racas/shadar\|shadar]] e o lorde sombrio designado para administrar [[_wiki/locais/niedellin\|Niedellin]] e seus arredores, incluindo as bordas de [[_wiki/locais/thal_serin\|Thal’Serin]]. De temperamento menos sádico que outros lordes provinciais do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], prefere o controle indireto à violência aberta e governa como administrador antes de governar como carrasco.
 
 ### Aparência
 

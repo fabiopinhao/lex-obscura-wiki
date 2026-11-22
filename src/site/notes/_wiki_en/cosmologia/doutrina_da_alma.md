@@ -8,7 +8,7 @@ The Doctrine of the Soul, also called Arcane Spiritualism, is the magical philos
 
 ### Foundations
 
-According to the doctrine, [[_wiki_en/cosmologia/magi\|magi]] is merely “the soul’s trace in the world, not its flame”. The gods are not reservoirs of energy, but ancient and vast souls; mortals are young souls, potentially capable of awakening. This awakening arises in moments of profound emotion and cannot be taught, predicted, or forced. Naiu’Wula founded neither a school nor an institution: he preached in open spaces, taught by demonstrating rather than arguing, and offered “inner listening” as a method, the stilling of the mind until the soul responded.
+According to the doctrine, [[_wiki_en/cosmologia/magi\|magi]] is merely “the soul’s trace in the world, not its flame”. The gods are ancient and vast souls, whereas the Materialist Theory sees reservoirs of energy; mortals are young souls, potentially capable of awakening. This awakening arises in moments of profound emotion and cannot be taught, predicted, or forced. Naiu’Wula founded neither a school nor an institution: he preached in open spaces, taught by demonstration, without resorting to argument, and offered “inner listening” as a method, the stilling of the mind until the soul responded.
 
 ### Foundation of Teru
 
@@ -16,4 +16,4 @@ The Doctrine of the Soul is the philosophical basis of [[_wiki_en/magia/teru\|Te
 
 ### Reception
 
-Naiu’Wula was received in opposing ways depending on his audience. Religious people called him a heretic, alchemists called him a charlatan, and academic mages ignored him, while [[_wiki_en/racas/sylvano\|Sylvan]] elves, Geruts, woodland rebels, and hermits treated him as a prophet. The divergence persists in a contradiction that is not accidental: the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]] adopted the Materialist Theory as its official doctrine, but trains its Justiciars in the system born of the opposing philosophy. Disciples of the doctrine still gather in secret circles to teach inner listening, and it survives on the margins, nurturing precisely the kind of power that the Empire uses as an instrument without acknowledging its origin.
+Naiu’Wula was received in opposing ways depending on his audience. Religious people called him a heretic, alchemists called him a charlatan, and academic mages ignored him, while [[_wiki_en/racas/sylvano\|Sylvan]] elves, Geruts, woodland rebels, and hermits treated him as a prophet. The divergence persists in a contradiction: the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]] adopted the Materialist Theory as its official doctrine, but trains its Justiciars in the system born of the opposing philosophy. Disciples of the doctrine still gather in secret circles to teach inner listening, and it survives on the margins, nurturing precisely the kind of power that the Empire uses as an instrument without acknowledging its origin.

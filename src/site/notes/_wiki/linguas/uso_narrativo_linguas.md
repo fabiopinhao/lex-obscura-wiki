@@ -4,13 +4,13 @@
 
 # O Uso das Línguas
 
-As línguas de Lex Obscura são mais do que meios de comunicação: marcam identidade, poder e custo. A fala revela de onde vem quem fala; quem determina o idioma de uma conversa determina a relação; e toda canalização mágica feita em língua ritual cobra um preço. O [[_wiki/linguas/reinkardico\|reinkárdico]] é a língua comum, presente sem ser notada, e só se torna visível quando alguém muda para outro idioma, quando um sotaque chama atenção ou quando a compreensão falha.
+As línguas do mundo conhecido marcam identidade, poder e custo. A fala revela de onde vem quem fala, e toda canalização mágica feita em língua ritual cobra um preço. O [[_wiki/linguas/reinkardico\|reinkárdico]] é a língua comum, presente sem ser notada, e só se torna visível quando alguém muda para outro idioma, quando um sotaque chama atenção ou quando a compreensão falha.
 
-### Línguas rituais
+### Línguas Rituais
 
 A maioria dos sistemas mágicos exige a língua ritual certa: dita no idioma errado, a conjuração simplesmente não funciona. Cada via tem a sua. O [[_wiki/linguas/tenebraico\|tenebraico]], de consoantes duras e frases sem artigos, serve às escolas pretas acessadas pelo [[_wiki/magia/teru\|Teru]]. O [[_wiki/linguas/gholvyss\|gholvyss]], sibilante e de estrutura espiral, é a língua das canalizações [[_wiki/organizacoes/ophideias\|ophídeas]]. O registro titânico do [[_wiki/linguas/sylvaen\|sylvaen]], feito de estados descritos e pausas significativas, pertence aos druidas em comunhão com os [[_wiki/cosmologia/titas\|titãs]]. O [[_wiki/linguas/orcanico\|orcânico]], gutural e imperativo, é a língua da fúria berserker, cuja gramática se desfaz conforme a raiva cresce. A [[_wiki/magia/devotio_sancta\|Devotio Sancta]] é a exceção: não exige um idioma único, pois responde à devoção e à tradição do praticante, e a língua é apenas o vaso cultural da prece.
 
-### Língua e poder
+### Língua e Poder
 
 Todo diálogo entre idiomas é uma relação de poder, e quem escolhe a língua controla a conversa. Um interrogador que conduz a inquirição na língua comum afirma sua autoridade; ao mudar para a língua ritual de uma canalização, revela que seu poder vem de outra fonte. O silêncio, por sua vez, pode ser o recurso mais eloquente de todos. Falar a própria língua materna diante de quem não a entende é também uma forma de exclusão deliberada, e recair nela sob estresse denuncia a perda de controle.
 

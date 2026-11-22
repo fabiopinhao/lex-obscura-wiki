@@ -4,11 +4,11 @@
 
 # Prohibition of the Rite of Ossárium
 
-The Prohibition of the Rite of Ossárium was the decree by which the monarch [[_wiki_en/personagens/arothistar\|Arothistar]] banned the [[_wiki_en/magia/rito_de_ossarium\|Rite of Ossárium]], the practice that converted humans into [[_wiki_en/racas/shadar\|Shadars]]. The measure, which did not yet carry the death penalty, was contemporaneous with the [[_wiki_en/eventos/fundacao_dos_justiciares\|founding of the Justiciars]], during the Reinkardic Wars; definitive abolition came fourteen years later.
+The Prohibition of the Rite of Ossárium was the decree by which the monarch [[_wiki_en/personagens/arothistar\|Arothistar]] banned the [[_wiki_en/magia/rito_de_ossarium\|Rite of Ossárium]], the practice that converted humans into [[_wiki_en/racas/shadar\|Shadars]]. The measure, which was decreed forty-four years ago and did not yet carry the death penalty, was contemporaneous with the [[_wiki_en/eventos/fundacao_dos_justiciares\|founding of the Justiciars]], during the Reinkardic Wars; definitive abolition came fourteen years later.
 
 ### Effects on Conversion
 
-The prohibition reduced the flow of converted humans into the [[_wiki_en/organizacoes/imperio_sombrio\|Empire]]. Closing that door, however, did not mean closing all the others.
+The prohibition reduced the flow of converted humans into the [[_wiki_en/organizacoes/imperio_sombrio\|Empire]].
 
 ### The Espionage Program
 
@@ -16,4 +16,4 @@ As part of the same strategy, [[_wiki_en/locais/morvgrad\|Morvgrad]] began sendi
 
 ### Definitive Abolition
 
-The prohibition of forty-four years ago was not the final sentence. The Rite was only abolished for good at the [[_wiki_en/eventos/queda_de_myrgarde_e_fim_das_guerras_reinkardicas\|fall of Myrgarde]], when Arothistar, in his last appearance in the field, decreed in a speech the end of conversion and made it a capital heresy. [[_wiki_en/personagens/milorsevogh_velshard\|Milor]] and [[_wiki_en/personagens/vekraal\|Vekraal]] were present. For those who use the fall of [[_wiki_en/locais/myrgarde\|Myrgarde]] as the dividing point between eras, the end of the Rite belongs to the close of the [[_wiki_en/conceitos/segunda_era\|Second Era]].
+The Rite was only abolished for good at the [[_wiki_en/eventos/queda_de_myrgarde_e_fim_das_guerras_reinkardicas\|fall of Myrgarde]], when Arothistar, in his last appearance in the field, decreed in a speech the end of conversion and made it a capital heresy. [[_wiki_en/personagens/milorsevogh_velshard\|Milor]] and [[_wiki_en/personagens/vekraal\|Vekraal]] were present. For those who use the fall of [[_wiki_en/locais/myrgarde\|Myrgarde]] as the dividing point between eras, the end of the Rite belongs to the close of the [[_wiki_en/conceitos/segunda_era\|Second Era]].

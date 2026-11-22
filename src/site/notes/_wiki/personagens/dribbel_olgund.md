@@ -4,7 +4,7 @@
 
 # Dribbel Olgund
 
-Dribbel Olgund, o Quebra-Trocas, é um [[_wiki/racas/derro\|derro]] que faz do mercado negro de [[_wiki/locais/morvgrad\|Morvgrad]] o seu reino estreito. No [[_wiki/locais/mercado_oeste\|Mercado Oeste]] opera a [[_wiki/organizacoes/guilda_dos_gnomos\|Guilda dos Gnomos]] sob um selo falsificado, vendendo curas duvidosas e guardando, enterrado sob a tagarelice, um saber raro: as rotas das profundezas de [[_wiki/locais/vor-ghol\|Vor-Ghol]]. Sobrevive pela astúcia, não pela força, e teme o suficiente para ser perigoso justamente quando fala demais.
+Dribbel Olgund, o Quebra-Trocas, é um [[_wiki/racas/derro\|derro]] que faz do mercado negro de [[_wiki/locais/morvgrad\|Morvgrad]] o seu reino estreito. No [[_wiki/locais/mercado_oeste\|Mercado Oeste]] opera a [[_wiki/organizacoes/guilda_dos_gnomos\|Guilda dos Gnomos]] sob um selo falsificado, vendendo curas duvidosas e guardando, enterrado sob a tagarelice, um saber raro: as rotas das profundezas de [[_wiki/locais/vor-ghol\|Vor-Ghol]]. Medroso e tagarela, sobrevive pela astúcia.
 
 ### Aparência
 
@@ -14,14 +14,14 @@ Dribbel Olgund, o Quebra-Trocas, é um [[_wiki/racas/derro\|derro]] que faz do m
 
 Conhecedor das veias subterrâneas que ligam Morvgrad às profundezas, Dribbel vende informação e passagem com a mesma desenvoltura com que vende remédio falso. Sua banca no submundo prospera porque ele sabe onde correm os túneis de Vor-Ghol, e porque poucos descem até lá sem um guia. Foi assim que recolheu o gnoll [[_wiki/personagens/fandegarron\|Fandegarrón]] depois que este perdeu a toca, atribuindo o ataque a um meteoro de magia vermelha, e foi assim que se viu, certo dia, arrancado da própria banca: a [[_wiki/organizacoes/justiciares\|Justiciar]] [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]] o coagiu a guiar um grupo pelas profundezas atrás de uma carga clandestina.
 
-### Voz e método
+### Voz e Método
 
-O medo, em Dribbel, não se traduz em silêncio: vira verborragia. As frases se alongam, digressivas, semeadas de interjeições, e nelas ele entrega mais do que pretendia, porque não consegue parar de falar. A informação útil vem enterrada na baboseira, e quem souber escutar a colhe quase sem que ele perceba. Às vezes a percepção chega tarde demais, junto com o que já escapou: testemunhas da Serpente não envelhecem, murmura ele certa vez, a frase de quem acabou de se condenar pela própria boca.
+O medo, em Dribbel, vira verborragia. As frases se alongam, digressivas, semeadas de interjeições, e nelas ele entrega mais do que pretendia, porque não consegue parar de falar. A informação útil vem enterrada na baboseira, e quem souber escutar a colhe quase sem que ele perceba. Às vezes a percepção chega tarde demais, junto com o que já escapou: testemunhas da Serpente não envelhecem, murmura ele certa vez, a frase de quem acabou de se condenar pela própria boca.
 
-### Alquimia de mercador
+### Alquimia de Mercador
 
 Dribbel não conjura. O seu poder cabe em frascos. As poções de cura que vende são de qualidade questionável, e ainda assim já salvaram vidas nas profundezas, onde não há escolha melhor. Quando a astúcia falha e a fuga não basta, recorre ao truque do ofício: um frasco de gás ácido que estoura numa névoa amarela e desorienta quem o cerca, tempo suficiente para um derro pequeno desaparecer no escuro.
 
 ### Relações
 
-Com Fandegarrón, a dependência é mútua e disfuncional. O gnoll o chama de patrão e falha na única função que tem, avisar sobre patrulhas, e mesmo assim os dois seguem presos um ao outro, resgatado e resgatador sem destino melhor à vista. Com Nidzina, não há vínculo, há coerção: forçado a guiá-la sob ameaça, Dribbel desceu com ela às profundezas e por pouco não pagou a viagem com a vida. Que tenha voltado dela é, talvez, a sua maior conquista.
+Com Fandegarrón, a dependência é mútua e disfuncional. O gnoll o chama de patrão e falha na única função que tem, avisar sobre patrulhas, e mesmo assim os dois seguem presos um ao outro, resgatado e resgatador sem destino melhor à vista. Com Nidzina, a relação é de coerção: forçado a guiá-la sob ameaça, Dribbel desceu com ela às profundezas e por pouco não pagou a viagem com a vida. Que tenha voltado dela é, talvez, a sua maior conquista.

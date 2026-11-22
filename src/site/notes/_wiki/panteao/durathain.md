@@ -4,7 +4,7 @@
 
 # Durathain
 
-Durathain, a Mão Imunda, é o [[_wiki/cosmologia/titas\|Titã]] do trabalho braçal, das forjas e do submundo. Seu domínio combina [[_wiki/escolas/toxo\|Toxo]], o veneno e a corrosão, com [[_wiki/escolas/geo\|Geo]], a terra e o que o subsolo esconde. Entre os Titãs, é o único que governa pelo utilitário: onde os demais presidem forças ou instintos primordiais, Durathain preside o ofício.
+Durathain, a Mão Imunda, é o [[_wiki/cosmologia/titas\|titã]] do trabalho braçal, das forjas e do submundo. Seu domínio combina [[_wiki/escolas/toxo\|Toxo]], o veneno e a corrosão, com [[_wiki/escolas/geo\|Geo]], a terra e o que o subsolo esconde. Entre os titãs, é o único que governa pelo utilitário: onde os demais presidem forças ou instintos primordiais, Durathain preside o ofício.
 
 ### Natureza
 
@@ -16,7 +16,7 @@ Geo arranca o minério da rocha; Toxo o processa através de banhos corrosivos, 
 
 ### A Mão
 
-“Pelos dedos sujos de Durathain!” é praga de minerador, de ferreiro, de qualquer trabalhador cujo ofício exige contato com substâncias que queimam ou envenenam. A invocação não é reverência, mas reconhecimento de parentesco: quem trabalha no fundo de um túnel ou diante de uma forja conhece a sujeira que define o Titã e a sujeira que ele impõe a quem se aproxima de seus domínios. O epíteto é advertência tanto quanto identidade. A mão imunda faz o trabalho necessário, e o preço é carregar nos dedos o resíduo de tudo que tocou. Não há templo dedicado ao seu nome. Seus devotos se reconhecem pelo estado das mãos.
+“Pelos dedos sujos de Durathain!” é praga de minerador, de ferreiro, de qualquer trabalhador cujo ofício exige contato com substâncias que queimam ou envenenam. A invocação, isenta de reverência, é reconhecimento de parentesco: quem trabalha no fundo de um túnel ou diante de uma forja conhece a sujeira que define o titã e a sujeira que ele impõe a quem se aproxima de seus domínios. O epíteto é advertência tanto quanto identidade. A mão imunda faz o trabalho necessário, e o preço é carregar nos dedos o resíduo de tudo que tocou. Não há templo dedicado ao seu nome. Seus devotos se reconhecem pelo estado das mãos.
 
 ### Manifestação
 

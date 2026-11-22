@@ -4,7 +4,7 @@
 
 # Subjugation of Thandruk Varn
 
-The Subjugation of Thandruk Varn was the capture of the great volcanic mountain [[_wiki_en/locais/thandruk_varn\|Thandruk Varn]] by the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]] during the Reinkardic Wars. Also called the Surrender or Fall of Thandruk Varn, it was the only one of these dwarven fortresses conquered through negotiation rather than massacre.
+The Subjugation of Thandruk Varn was the capture of the great volcanic mountain [[_wiki_en/locais/thandruk_varn\|Thandruk Varn]] by the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]] during the Reinkardic Wars. Also called the Surrender or Fall of Thandruk Varn, it was the only dwarven fortress conquered through negotiation.
 
 ### The Different Fortress
 
@@ -16,13 +16,13 @@ The massacre did not come. The Shadow Cult general commanding the campaign asses
 
 ### From Surrender to Subjugation
 
-The terms were reasonable for a battlefield, and the clans accepted them with the pragmatism of those who prefer to give up tools rather than bones. Over time, however, the initial generosity dissolved. The clans were confined to their citadels and forced to produce under increasing quotas and imperial supervision. What had begun as a negotiated surrender deteriorated into actual subjugation, and Thandruk Varn learned what so many peoples already knew: the Shadow Cult’s terms last until the moment they cease to be convenient.
+The terms were reasonable for a battlefield, and the clans accepted them with the pragmatism of those who prefer to give up tools rather than bones. Over time, however, the initial generosity dissolved. The clans were confined to their citadels and forced to produce under increasing quotas and imperial supervision. What had begun as a negotiated surrender deteriorated into actual subjugation, as had already happened to so many peoples: the Shadow Cult’s terms last until the moment they cease to be convenient.
 
 ### Garrisons and Quotas
 
 To ensure production, Morvgrad maintained [[_wiki_en/racas/orc\|orc]] garrisons in the [[_wiki_en/racas/varnakiano\|Varnakian]] mountains as a routine instrument of coercion, a measure that had proved effective with other subjugated peoples of [[_wiki_en/locais/reinkard\|Reinkard]]. The result was the opposite of what was intended. The rivalry between orcs and [[_wiki_en/racas/karashim\|dwarves]] predates the Shadow Cult by eras and rests on the struggle for the bowels of the mountains, between lineages that, for generations, have mined the same vein in opposite directions. Cyclical revolts, sabotage in the forges, and recurring drops in production followed. The [[_wiki_en/racas/shadar\|Shadars]] learned there, the hard way, what [[_wiki_en/racas/draconideo\|Drakhonins]] and [[_wiki_en/racas/elarino\|Elarins]] already knew: dwarves do not yield to fear as [[_wiki_en/racas/pindoriar\|Pindoriars]] do.
 
-With the garrisons withdrawn, overt coercion gave way to quotas, trade clauses, and lineage concessions capable of stoking the clans’ greed, and production stabilized within a few [[_wiki_en/conceitos/varnum\|Varnums]]. Since then, the mountain’s dwarves have lived in supervised freedom, governed more by the promise of profit than by the blade. Some orcs remain there as individual guards, under the command of the Shadar garrison, and are among those questioned in cases of forge sabotage and lineage disputes investigated by justiciar [[_wiki_en/personagens/draven-thol\|Draven-Thol]], alongside the dwarven anvil workers and the neighboring Draconid clans.
+With the garrisons withdrawn, overt coercion gave way to quotas, trade clauses, and lineage concessions capable of stoking the clans’ greed, and production stabilized within a few [[_wiki_en/conceitos/varnum\|Varnums]]. Since then, the mountain’s dwarves have lived in supervised freedom, governed more by the promise of profit than by the blade. Some orcs remain there as individual guards, under the command of the Shadar garrison, and are among those questioned in cases of forge sabotage and lineage disputes investigated by Justiciar [[_wiki_en/personagens/draven-thol\|Draven-Thol]], alongside the dwarven anvil workers and the neighboring Draconid clans.
 
 ### The Route to Vor-Ghol
 

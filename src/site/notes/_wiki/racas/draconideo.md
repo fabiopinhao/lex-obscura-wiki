@@ -4,7 +4,7 @@
 
 # Draconídeo
 
-Os draconídeos, ou drakhonins, são o subgrupo de elite dos [[_wiki/racas/sauriano\|saurianos]]: os maiores, mais fortes e mais orgulhosos dos humanoides répteis. Vinculados aos demônios, reivindicam herança divina dos dragões e agem conforme essa crença. Seu porte excede o dos [[_wiki/racas/shadar\|shadars]] em massa e altura, suas escamas defletem aço temperado, e seu sopro elemental transforma emboscada em cremação. São as criaturas mais próximas de dragões que o mundo ainda produz, e nunca deixam ninguém esquecer.
+Os draconídeos, ou drakhonins, são o subgrupo de elite dos [[_wiki/racas/sauriano\|saurianos]]: os maiores, mais fortes e mais orgulhosos dos humanoides répteis. Vinculados aos demônios, reivindicam herança divina dos dragões e agem conforme essa crença. Seu porte excede o dos [[_wiki/racas/shadar\|shadars]] em massa e altura, suas escamas defletem aço temperado, e seu sopro elemental transforma emboscada em cremação. São as criaturas mais próximas de dragões que o mundo ainda produz.
 
 ### Origem
 
@@ -18,7 +18,7 @@ Eretos, medem de 1,90 m a 2,40 m, com musculatura densa sob escamas que variam c
 
 ### Psicologia
 
-O orgulho de linhagem é a estrutura identitária que sustenta a coesão dos clãs: questionar a linhagem é questionar a razão de existir do clã. A ele soma-se um pragmatismo predatório em que a continuidade do clã se sobrepõe à honra, e trair um aliado é aceitável quando a alternativa é a extinção. Draconídeos medem o mundo por tamanho e tratam raças menores com condescendência automática; os shadars recebem respeito relutante pelo poder, não pelo porte, e os [[_wiki/racas/kobold\|kobolds]] provocam reação visceral, vistos pelos draconídeos de [[_wiki/locais/varnak\|Varnak]] como paródia ofensiva da linhagem dracônica.
+O orgulho de linhagem é a estrutura identitária que sustenta a coesão dos clãs: questionar a linhagem é questionar a razão de existir do clã. A ele soma-se um pragmatismo predatório em que a continuidade do clã se sobrepõe à honra, e trair um aliado é aceitável quando a alternativa é a extinção. Draconídeos medem o mundo por tamanho e tratam raças menores com condescendência automática; os shadars recebem respeito relutante pelo poder, apesar do porte, e os [[_wiki/racas/kobold\|kobolds]] provocam reação visceral, vistos pelos draconídeos de [[_wiki/locais/varnak\|Varnak]] como paródia ofensiva da linhagem dracônica.
 
 ### Estrutura Social
 
@@ -26,11 +26,11 @@ Os clãs drakhonins organizam-se por linhagem dracônica, cada um reivindicando 
 
 ### Cultura
 
-O ritual de vínculo drakhonin liga cada indivíduo ao deus-dragão do clã desde o ovo: ovos são banhados em sangue ritual e expostos ao fogo do sopro de um ancião, e os que não sobrevivem ao calor são tidos como purificação natural. Cada draconídeo recebe um nome de ninhada ao nascer e um nome de combate após a primeira vitória; [[_wiki/personagens/thrax\|Thrax]] é “Guerreiro das Chamas Profundas”, enquanto Yzmareth opera com o nome de nascimento, o que pode sugerir que suas vitórias são políticas, não físicas. Colecionam troféus de inimigos derrotados, dentes, garras e escamas de rivais, como registro de feitos. Os clãs mantêm cronistas que registram linhagens, batalhas e dívidas de sangue, e xamãs varnakianos como Wijmarv servem como estudiosos.
+O ritual de vínculo drakhonin liga cada indivíduo ao deus-dragão do clã desde o ovo: ovos são banhados em sangue ritual e expostos ao fogo do sopro de um ancião, e os que não sobrevivem ao calor são tidos como purificação natural. Cada draconídeo recebe um nome de ninhada ao nascer e um nome de combate após a primeira vitória; [[_wiki/personagens/thrax\|Thrax]] é “Guerreiro das Chamas Profundas”, enquanto Yzmareth opera com o nome de nascimento, o que pode sugerir que suas vitórias são políticas. Colecionam troféus de inimigos derrotados, dentes, garras e escamas de rivais, como registro de feitos. Os clãs mantêm cronistas que registram linhagens, batalhas e dívidas de sangue, e xamãs varnakianos como Wijmarv servem como estudiosos.
 
 ### Magia
 
-Draconídeos acessam a magia pelo [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], vínculo demoníaco firmado desde o ovo, e sua magia tende ao fogo, à destruição e ao medo, nas escolas de [[_wiki/escolas/pyro\|Pyro]] e [[_wiki/escolas/phobos\|Phobos]]. O sopro elemental é a manifestação mágica mais visível, inscrita na própria fisiologia. O custo se manifesta como queimadura interna progressiva: draconídeos que abusam do sopro ou de invocações de fogo desenvolvem necrose nos tecidos internos, e as escamas permanecem intactas enquanto os órgãos carbonizam por dentro. Os velhos e poderosos frequentemente morrem de colapso interno, não de combate.
+Draconídeos acessam a magia pelo [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], vínculo demoníaco firmado desde o ovo, e sua magia tende ao fogo, à destruição e ao medo, nas escolas de [[_wiki/escolas/pyro\|Pyro]] e [[_wiki/escolas/phobos\|Phobos]]. O sopro elemental é a manifestação mágica mais visível, inscrita na própria fisiologia. O custo se manifesta como queimadura interna progressiva: draconídeos que abusam do sopro ou de invocações de fogo desenvolvem necrose nos tecidos internos, e as escamas permanecem intactas enquanto os órgãos carbonizam por dentro. Os velhos e poderosos frequentemente morrem de colapso interno.
 
 ### Ciclo Vital
 

@@ -10,6 +10,6 @@ O wyvern é um dragão menor, bípede e de asas membranosas, primo distante e de
 
 Predador oportunista, de apetite sem critério. Carrega um ferrão venenoso na cauda.
 
-### Forma divina
+### Forma Divina
 
 A wyvern dá figura à manifestação de [[_wiki/panteao/aethravos\|Aethravos]], a Wyvern Nacarada, que é ordem de ser distinta da besta das montanhas.

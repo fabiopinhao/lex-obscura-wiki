@@ -16,7 +16,7 @@ Os teólogos pré-conquista chamavam a radiância de Azazel de “a espada e o e
 
 ### Declínio
 
-Azazel não foi derrotado, aprisionado nem destruído. Onde os [[_wiki/cosmologia/titas\|Titãs]] negociaram compromissos com o [[_wiki/organizacoes/imperio_sombrio\|domínio sombrio]], o serafim recusou qualquer concessão. A recusa preservou sua integridade doutrinária e custou-lhe toda a influência. O druida [[_wiki/personagens/peredur\|Peredur]] formulou que os [[_wiki/cosmologia/anjos\|anjos]] pereceram por pureza inflexível. O serafim permanece além das fronteiras da percepção mortal, respondendo a preces cada vez mais raras com um poder que se adelgaça a cada geração.
+Azazel não foi derrotado, aprisionado nem destruído. Onde os [[_wiki/cosmologia/titas\|titãs]] negociaram compromissos com o [[_wiki/organizacoes/imperio_sombrio\|domínio sombrio]], o serafim recusou qualquer concessão. A recusa preservou sua integridade doutrinária e custou-lhe toda a influência. O druida [[_wiki/personagens/peredur\|Peredur]] formulou que os [[_wiki/cosmologia/anjos\|anjos]] pereceram por pureza inflexível. O serafim permanece além das fronteiras da percepção mortal, respondendo a preces cada vez mais raras com um poder que se adelgaça a cada geração.
 
 ### Vestígios
 

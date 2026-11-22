@@ -4,7 +4,7 @@
 
 # Selene
 
-Selene foi uma mulher de origem austral que viveu em [[_wiki/locais/valdris\|Valdris]]. Trazida de fora pelo marido, um pescador da cidade, era magra e quebradiça, do tipo que os anjos fazem para decorar, não para durar. Mantinha os olhos baixos, voltados para o chão e para os lados, e os cachos que o vento do Austral parecia querer arrancar.
+Selene foi uma mulher de origem austral que viveu em [[_wiki/locais/valdris\|Valdris]]. Trazida de fora pelo marido, um pescador da cidade, era magra e quebradiça. Mantinha os olhos baixos, voltados para o chão e para os lados, e os cachos que o vento do Austral parecia querer arrancar.
 
 ### Em Valdris
 

@@ -33,7 +33,7 @@ O que o Império mantém em segredo não consta deste arquivo. Os registros de p
 - **[[_wiki/indices/Locais\|Locais]]**: fortalezas, ruínas e o que prospera embaixo delas
 - **[[_wiki/indices/Organizações\|Organizações]]**: quem obedece ao trono, quem conspira contra ele
 - **[[_wiki/indices/Personagens\|Personagens]]**: os que executam a lei. Os que a sofrem. Os que a escreveram.
-- **[[_wiki/indices/Sistema de Magia\|Sistema de Magia]]**: cinco cores, trinta escolas e custos ontológicos
+- **[[_wiki/indices/Sistema de Magia\|Sistema de Magia]]**: trinta escolas, quinze oposições e custos ontológicos
 - **[[_wiki/indices/Artefatos\|Artefatos]]**: o que o Império forjou e o que encontrou antes de existir
 - **[[_wiki/indices/Conceitos\|Conceitos]]**: terminologia, instrumentos jurídicos, política e cultura
 - **[[_wiki/indices/Línguas\|Línguas]]**: idiomas das raças e política linguística imperial

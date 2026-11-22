@@ -12,7 +12,7 @@ Thirteen Lúnias make up the body of the [[_wiki_en/conceitos/varnum\|Varnum]], 
 
 ### Seasonal Distribution
 
-The seasons of the Varnum are measured in Lúnias. Germa, Zenith, and Quédia receive three Lúnias each, that is, eighty-four days. Brûma, the winter of the [[_wiki_en/racas/shadar\|Shadar]] plateau, receives four, totaling one hundred twelve days, reflecting the severity of the northern climate. The asymmetry is not arbitrary: the prolonged winter dictates the rhythm of imperial life, from troop withdrawals to the duration of defensive sieges.
+The seasons of the Varnum are measured in Lúnias. Germa, Zenith, and Quédia receive three Lúnias each, that is, eighty-four days. Brûma, the winter of the [[_wiki_en/racas/shadar\|Shadar]] plateau, receives four, totaling one hundred twelve days, reflecting the severity of the northern climate. The prolonged winter dictates the rhythm of imperial life, from troop withdrawals to the duration of defensive sieges.
 
 ### Usage
 

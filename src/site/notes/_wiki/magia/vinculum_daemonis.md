@@ -4,7 +4,7 @@
 
 # Vinculum Daemonis
 
-O Vinculum Daemonis é um dos sistemas de acesso à magia, um vínculo de força firmado com [[_wiki/cosmologia/demonios\|demônios]] em troca de poder bruto, e proscrito pela doutrina imperial. Onde outros sistemas dependem de contrato ou hierarquia, este dispensa burocracia: os demônios são caos puro, violência e destruição sem lei, e não respeitam contratos, apenas força. O acesso é imediato, e o preço é a instabilidade.
+O Vinculum Daemonis é um dos sistemas de acesso à magia, um vínculo de força firmado com [[_wiki/cosmologia/demonios\|demônios]] em troca de poder bruto, e proscrito pela doutrina imperial. Onde outros sistemas dependem de contrato ou hierarquia, este dispensa burocracia: os demônios são caos puro, violência e destruição sem lei, e só respeitam a força. O acesso é imediato, e o preço é a instabilidade.
 
 No [[_wiki/organizacoes/imperio_sombrio\|Império]], o vínculo é proibido, salvo com a bênção pessoal do monarca, [[_wiki/personagens/arothistar\|Arothistar]]: a Palavra do Soberano exige essa bênção para os deuses do caos. A proibição vale para [[_wiki/racas/shadar\|shadars]] e [[_wiki/racas/drul\|druls]], e há [[_wiki/racas/orc\|orcs]] vinculados a serviço do Império.
 
@@ -18,7 +18,7 @@ A transferência de [[_wiki/cosmologia/magi\|magi]] no Vinculum Daemonis é visc
 
 ### O Vínculo
 
-O vínculo não se firma por convocação, mas por atração. A invocação dispensa círculo de contenção, que os demônios ignoram, e exige um ato de violência extrema como portal, com o conjurador em estado de fúria ou desespero; o demônio é atraído pelo caos. Segue-se uma provação física, em que o demônio testa o conjurador por combate ou tortura: sobreviver forma o vínculo, sucumbir entrega a alma. O selamento se dá por troca de sangue, e uma marca caótica aparece no corpo, queimadura, cicatriz irregular ou chifres brotando. O vínculo é empático, e o conjurador passa a sentir a fome destrutiva do demônio.
+O vínculo se firma por atração, sem convocação. A invocação dispensa círculo de contenção, que os demônios ignoram, e exige um ato de violência extrema como portal, com o conjurador em estado de fúria ou desespero; o demônio é atraído pelo caos. Segue-se uma provação física, em que o demônio testa o conjurador por combate ou tortura: sobreviver forma o vínculo, sucumbir entrega a alma. O selamento se dá por troca de sangue, e uma marca caótica aparece no corpo, queimadura, cicatriz irregular ou chifres brotando. O vínculo é empático, e o conjurador passa a sentir a fome destrutiva do demônio.
 
 ### Obrigações e Custos
 

@@ -4,7 +4,7 @@
 
 # Koliah
 
-Koliah is a human, the adopted daughter of the priest [[_wiki_en/personagens/abramis\|Abramis]] and one of the leaders of the resistance in [[_wiki_en/locais/niedellin\|Niedellin]]. A shrewd strategist, she moves skillfully among lies and partial truths, and speaks to act, not to impress.
+Koliah is a human, the adopted daughter of the priest [[_wiki_en/personagens/abramis\|Abramis]] and one of the leaders of the resistance in [[_wiki_en/locais/niedellin\|Niedellin]]. A shrewd strategist, she moves skillfully among lies and partial truths, and speaks to act, without seeking to impress.
 
 ### Appearance
 
@@ -12,7 +12,7 @@ She wears worked leather that hugs her body, the protection of someone who knows
 
 ### Role
 
-She leads among the rebels through tactical clarity: she assesses threats without dramatizing them and sustains the group’s hope as though giving an order. She fights with bow and arrow and short blades. She is [[_wiki_en/personagens/gaelwyn\|Gaelwyn]]’s lover, in a bond that survives trauma and imperial pressure.
+She leads among the rebels through tactical clarity: she assesses threats without dramatizing them. She fights with bow and arrow and short blades. She is [[_wiki_en/personagens/gaelwyn\|Gaelwyn]]’s lover, in a bond that survives trauma and imperial pressure.
 
 ### Trauma
 

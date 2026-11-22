@@ -14,6 +14,6 @@ Algumas mantícoras aprendem a imitar choro de criança ou pedidos de socorro pa
 
 “Beijo de mantícora” é expressão comum para traições fatais, do tipo que sorri antes de matar.
 
-### Forma divina
+### Forma Divina
 
 A mantícora dá figura à manifestação de [[_wiki/panteao/kaelgrym\|Kaelgrym]], a Mantícora Funérea, que é ordem de ser distinta da besta descrita acima.

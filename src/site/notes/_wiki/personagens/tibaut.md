@@ -14,7 +14,7 @@ Alto e esguio, move-se com a economia de quem aprendeu a não desperdiçar nem u
 
 O ofício de Tibaut é a informação. Mantém uma rede de contatos espalhada por Morvgrad e conhece os becos e as sombras da cidade com a intimidade de quem já fez o suficiente para perder a conta. Quando se desloca por terreno hostil, lê o ambiente como um mapa: identifica patrulhas pelo compasso das botas, percebe a troca de sentinelas no suor estagnado e no couro afrouxado, fareja os pontos cegos pela poeira espessa que nenhuma pegada perturbou. A interdição de worgs em certos distritos é antiga, anterior ao reinado de [[_wiki/personagens/arothistar\|Arothistar]], e Tibaut a contorna explorando a janela exata entre a passagem de uma ronda e o retorno da outra.
 
-### Método e voz
+### Método e Voz
 
 Tibaut é econômico, no aço e na palavra. As frases são curtas, funcionais, talhadas para entregar exatamente o que precisa ser entregue e nada além. A ironia existe, mas é seca, sem espalhafato. É um informante eficiente justamente porque sabe medir o silêncio: diz o necessário, omite o perigoso, e a contenção física se espelha na contenção verbal. Diante de uma pergunta arriscada, as respostas só ficam mais curtas.
 

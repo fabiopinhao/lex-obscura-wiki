@@ -10,7 +10,7 @@ Sarquin é um [[_wiki/racas/shadar\|shadar]] e [[_wiki/organizacoes/justiciares\
 
 Atua na corte, longe do campo. Conhece a [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]] e o [[_wiki/artefatos/codex_somniorum\|Codex Somniorum]] pela letra, lê em sessão pública as sentenças que outros apuraram e responde por pauta marcada. A distinção pesa dentro da própria ordem, porque o ofício do justiciar nasceu para investigar em território hostil, e o Tribunal é a única jurisdição onde a lei se aplica sentada.
 
-Não carrega nome de casa. Como [[_wiki/personagens/tashkur\|Tashkur]], ascendeu sem linhagem, pelos três pilares da seleção: domínio marcial e arcano, erudição jurídica e devoção ao culto.
+Não carrega nome de casa. Como [[_wiki/personagens/tashkur\|Tashkur]], ascendeu sem linhagem, pelos três pilares da seleção: domínio marcial e arcano, erudição jurídica e devoção ao Culto.
 
 ### Relações
 

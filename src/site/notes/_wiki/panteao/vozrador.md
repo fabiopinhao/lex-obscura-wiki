@@ -4,7 +4,7 @@
 
 # Vozrador
 
-Vozrador, o Relâmpago Cativo, é um dos doze [[_wiki/cosmologia/diabos\|diabos]] do panteão, de domínios [[_wiki/escolas/electro\|Electro]] e [[_wiki/escolas/umbra\|Umbra]]. Manifesta-se como gárgula tempestuosa e é tido como o mais complexo e o mais temido dos doze. Hoje encontra-se aprisionado, selado e consciente, ainda que enfraquecido.
+Vozrador, o Relâmpago Cativo, é um dos doze [[_wiki/cosmologia/diabos\|diabos]] do panteão, de domínios [[_wiki/escolas/electro\|Electro]] e [[_wiki/escolas/umbra\|Umbra]], tido como o mais complexo dos doze. Hoje encontra-se aprisionado.
 
 ### Natureza
 
@@ -20,9 +20,9 @@ Electro lhe conferia a sentença instantânea, o raio que não negocia nem avisa
 
 ### O Templário Único
 
-Vozrador mantinha muitos pactuados, mas aceitava um único templário por vez. O templário ocupa posição à parte entre eles: recebe a totalidade do vínculo, sem diluição, e serve como representante do diabo no plano material, o que explica a restrição a um de cada vez. Em contrapartida, a perda de um templário o deixava sem representante, num ciclo de escolha lento e seletivo. A maldição do pacto valia para todos os pactuados, era permanente e sobrevivia ao próprio deus: nenhum deles consegue pisar em solo consagrado alabastrino sem que a pele escureça e forme bolhas. A cláusula é eterna.
+Vozrador mantinha muitos pactuados, mas aceitava um único templário por vez. O templário ocupa posição à parte entre eles: recebe a totalidade do vínculo, sem diluição, e serve como representante do diabo no plano material, o que explica a restrição a um de cada vez. Em contrapartida, a perda de um templário deixava Vozrador sem representante, num ciclo de escolha lento e seletivo. A maldição do pacto valia para todos os pactuados, era permanente e sobrevivia ao próprio deus: nenhum deles consegue pisar em solo consagrado alabastrino sem que a pele escureça e forme bolhas.
 
-### O pacto e o silêncio
+### O Pacto e o Silêncio
 
 Pactuar com Vozrador nunca envolveu conversar com ele. O vínculo se estabelece sem voz: o diabo escolhe, o pacto sela, e o pactuado serve sem receber palavra direta. [[_wiki/personagens/orum-rahru\|Orum-Rahru]], seu último templário, nunca teve canal algum, e o que conheceu do deus foi o poder, a exigência e a maldição. Comunicação direta com os deuses negros é privilégio de pouquíssimos, entre eles os líderes de templo, e não decorre de pacto algum. Vozrador tampouco precisa de objeto para vincular ou cobrar: a [[_wiki/artefatos/estatueta_de_vozrador\|estatueta de obsidiana]] que leva seu nome é relíquia devocional, e nenhum templário recebeu uma.
 

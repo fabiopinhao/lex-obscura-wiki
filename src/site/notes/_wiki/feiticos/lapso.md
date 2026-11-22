@@ -6,6 +6,6 @@
 
 Lapso é um feitiço menor da escola do [[_wiki/escolas/chrono\|Chrono]]. Impõe uma breve falha no fluxo temporal do alvo: o movimento desacelera, o braço que desfere um golpe perde velocidade a meio caminho, as pernas arrastam uma lama invisível.
 
-### Uso e custo
+### Uso e Custo
 
 É um efeito pontual, um único instante de descompasso, suficiente para esquivar ou desferir o primeiro golpe; distingue-se da lentidão sustentada de outros feitiços da escola. O custo recai sobre o conjurador, cujos reflexos embotam por alguns segundos.

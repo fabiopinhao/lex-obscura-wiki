@@ -19,6 +19,6 @@ O Vocabulário Administrativo é o conjunto de eufemismos institucionais do [[_w
 - **“Serviço Voluntário”**: Missão suicida aceita
 - **“Aposentadoria Honrosa”**: Morte por causas naturais
 
-### Funcionamento social
+### Funcionamento Social
 
 A eficácia do vocabulário está na cumplicidade tácita que ele organiza. Os civis ignoram a realidade por trás das palavras; os iniciantes repetem os termos sem saber o que dizem; os veteranos entendem tudo e calam; as famílias não fazem perguntas. O eufemismo não engana apenas: ele distribui graus de saber, e o silêncio de quem compreende é parte do procedimento.

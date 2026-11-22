@@ -16,7 +16,7 @@ O vínculo com demônios opera por [[_wiki/magia/vinculum_daemonis\|Vinculum Dae
 
 ### Proscrição Imperial
 
-No [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], o vínculo demoníaco é crime. [[_wiki/personagens/arothistar\|Arothistar]] tipificou-o como Vinculum Daemonis, punível nos [[_wiki/locais/drokh_malahar\|Fossos de Drokh’Malahar]], com o propósito de eliminar fontes de caos dentro do império. O sistema, porém, carece de meio eficiente para detectar vínculos clandestinos.
+No [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]], o vínculo demoníaco é crime. [[_wiki/personagens/arothistar\|Arothistar]] tipificou-o como Vinculum Daemonis, punível nos [[_wiki/locais/drokh_malahar\|Fossos de Drokh’Malahar]], com o propósito de eliminar fontes de caos dentro do Império. O sistema, porém, carece de meio eficiente para detectar vínculos clandestinos.
 
 ### Relação com os Draconídeos
 

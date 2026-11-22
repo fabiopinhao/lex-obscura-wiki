@@ -12,10 +12,10 @@ Murano de pelagem de roedor e magreza de fome, a cauda fina rasando o chão. A c
 
 ### Filosofia
 
-Skanivik move-se por uma ética pragmática de sobrevivência, temperada por autoironia sobre a própria espécie: para ele, a possibilidade de escolha é um luxo reservado a quem não nasceu com rabo de rato. A grandiloquência cômica do apelido que se dá diz mais de astúcia que de força.
+Skanivik move-se por uma ética pragmática de sobrevivência, temperada por autoironia sobre a própria espécie: para ele, a possibilidade de escolha é um luxo reservado a quem não nasceu com rabo de rato. A grandiloquência cômica do apelido que se dá é a de quem sobrevive por astúcia.
 
 Os bigodes são o mostrador do que ele sabe e esconde. O esquerdo palpita sozinho quando fabrica mentira; os dois vibram juntos diante de perigo, como antenas diante de tempestade. Entre um extremo e outro, eriçam de indignação quando erram seu nome e tremem de medo. Depois de fechar um negócio torto, ajeita a gola, a manga ou a capa de quem acabou de enganar: intimidade falsa entregue como cortesia, no instante em que já levou o que queria, e a única forma de carinho que produz.
 
 ### Relações
 
-Foi empregado do necromante [[_wiki/personagens/qaelun\|Qaelun]], a quem acabou traindo, e que Orum matou: para Skanivik, lealdade é mercadoria, não valor. A relação com Orum-Rahru nasceu da coerção e terminou em libertação, desfecho raro entre os Justiciares.
+Foi empregado do necromante [[_wiki/personagens/qaelun\|Qaelun]], a quem acabou traindo, e que Orum matou: para Skanivik, lealdade é mercadoria. A relação com Orum-Rahru nasceu da coerção e terminou em libertação, desfecho raro entre os justiciares.

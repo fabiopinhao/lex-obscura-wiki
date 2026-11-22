@@ -16,4 +16,4 @@ Thal’Serin abriga a resistência élfica liderada por [[_wiki/personagens/koli
 
 ### Proteção Antiga
 
-A floresta está sob um pacto antigo: [[_wiki/panteao/vozrador\|Vozrador]] prometeu aos [[_wiki/cosmologia/titas\|titãs]], Morlgrund e [[_wiki/panteao/titania\|Titânia]], que o [[_wiki/organizacoes/imperio_sombrio\|império]] [[_wiki/racas/shadar\|shadar]] não queimaria Thal’Serin. Foi também em Thal’Serin que o [[_wiki/organizacoes/justiciares\|Justiciar]] [[_wiki/personagens/milorsevogh_velshard\|Milor]] fez seu juramento a Morlgrund.
+A floresta está sob um pacto antigo: [[_wiki/panteao/vozrador\|Vozrador]] prometeu aos [[_wiki/cosmologia/titas\|titãs]], Morlgrund e [[_wiki/panteao/titania\|Titânia]], que o [[_wiki/organizacoes/imperio_sombrio\|Império]] [[_wiki/racas/shadar\|shadar]] não queimaria Thal’Serin. Foi também em Thal’Serin que o [[_wiki/organizacoes/justiciares\|Justiciar]] [[_wiki/personagens/milorsevogh_velshard\|Milor]] fez seu juramento a Morlgrund.

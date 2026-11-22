@@ -8,14 +8,14 @@ The name Arothistar comes from *Aroth de Histar* (*aroth*, “sacred”; *histar
 
 ### Governance
 
-Arothistar rarely appears in person, and has not been seen in public for about thirty years. He leads the Empire from a distance, from Mor’Severith, communicating with officers, generals, and Justiciars through the [[_wiki_en/artefatos/oculus_morvgradi\|Oculus]], the Eye of Morvgrad. His will reaches the world through representation: an effigy that stands in for him in the tower, decrees, and seals that carry his word where his body is absent.
+Arothistar rarely appears in person, and has not been seen in public for about thirty years. He leads the Empire from a distance, communicating with officers, generals, and Justiciars through the [[_wiki_en/artefatos/oculus_morvgradi\|Oculus]], the Eye of Morvgrad. His will reaches the world through representation: an effigy that stands in for him in the tower, decrees, and seals that carry his word where his body is absent.
 
 ### Semi-Divine Figure
 
-In the eyes of the Shadow Cult, Arothistar is the apex of the state religion, revered as a semi-divine figure. The distance he maintains and the rarity of his appearances feed this aura, and what is seen of him almost always comes filtered through symbol, rite, and representation.
+The distance he maintains feeds the semi-divine aura that the Shadow Cult attributes to him, and what is seen of him almost always comes filtered through symbol, rite, and representation.
 
 He is considered the ultimate example of [[_wiki_en/conceitos/khemor\|Khemor]], the mask of fear in Shadar doctrine. In his case, the mask is absence itself, and it covers the entire Empire.
 
 ### Voice
 
-When he speaks, Arothistar speaks in definitive statements, not arguments, in the tone of someone who has never needed to raise his voice to be obeyed. He offers no justification, makes no requests, and rarely refuses outright: he redirects. He uses the name of whoever is listening to him as a marker of power, so that a form of address in his mouth is as much praise as a snare.
+Arothistar speaks in definitive statements, without arguing, in the tone of someone who has never needed to raise his voice to be obeyed. He neither offers justification nor makes requests, rarely refuses outright, and prefers to redirect. He uses the name of whoever is listening to him as a marker of power, so that a form of address in his mouth is as much a compliment as a tie.

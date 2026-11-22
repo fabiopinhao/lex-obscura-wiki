@@ -8,7 +8,7 @@ Numa cela de [[_wiki/locais/ghol_drokh\|Ghol’Drokh]] há um velho a quem os ca
 
 ### Aparência
 
-Décadas de cárcere sem alimento adequado reduziram-no a pouco mais que ossos cobertos de pele. As costelas se desenham sob o tórax, as articulações apontam aos cantos do corpo, o pescoço afina entre clavículas salientes. A pele cola ao esqueleto e ainda assim ele se mantém de pé, anda, fala. Não é a fragilidade de um doente à beira do fim. É o registro de um homem mantido vivo contra a própria carne, esvaziado pela fome e sustentado por uma vontade que não é a sua.
+Décadas de cárcere sem alimento adequado reduziram-no a pouco mais que ossos cobertos de pele. As costelas se desenham sob o tórax, as articulações apontam aos cantos do corpo, o pescoço afina entre clavículas salientes. A pele cola ao esqueleto e ainda assim ele se mantém de pé, anda, fala. É um homem mantido vivo contra a própria carne, esvaziado pela fome e sustentado por uma vontade que não é a sua.
 
 ### Origem e Papel
 
@@ -16,8 +16,8 @@ Cavava covas no Jardim dos Inocentes quando Myrgarde ainda existia, e viu a cida
 
 ### Método e Voz
 
-Sua fala é o delírio, mas não a loucura vazia. É memória desorganizada com verdades intactas, fragmentos que afloram entre os tormentos e às vezes escapam inteiros, lúcidos, antes de afundar de novo no balbucio. Quem o escuta com cuidado percebe que o velho não inventa: ele apenas devolve, fora de ordem, coisas que de fato viu. Os ciclos da fala voltam sempre a um mesmo ponto de calor, o filho que perdeu, e dali partem para o resto do mundo arruinado que carrega na cabeça.
+Sua fala é um delírio de memória desorganizada com verdades intactas, fragmentos que afloram entre os tormentos e às vezes escapam inteiros, lúcidos, antes de afundar de novo no balbucio. Quem o escuta com cuidado percebe que tudo o que o velho diz são coisas que de fato viu, devolvidas fora de ordem. Os ciclos da fala voltam sempre a um mesmo ponto de calor, o filho que perdeu, e dali partem para o resto do mundo arruinado que carrega na cabeça.
 
 ### Relações
 
-Acima de tudo está [[_wiki/personagens/ioni\|Ioni]], o filho morto, a quem o velho enxerga ainda vivo a seu lado, como um fantasma que o acompanha pela cela. É o único ponto luminoso de um mundo feito de tormento, e o nome para o qual sua voz sempre retorna. Os carcereiros que o cercam não são para ele rostos, apenas sombras de uma rotina sem fim; o velho fala menos com eles do que com os mortos que só ele vê.
+Acima de tudo está [[_wiki/personagens/ioni\|Ioni]], o filho morto, a quem o velho enxerga ainda vivo a seu lado, como um fantasma que o acompanha pela cela. É o único ponto luminoso de um mundo feito de tormento, e o nome para o qual sua voz sempre retorna. Os carcereiros que o cercam são para ele sombras sem rosto de uma rotina sem fim; o velho fala menos com eles do que com os mortos que só ele vê.

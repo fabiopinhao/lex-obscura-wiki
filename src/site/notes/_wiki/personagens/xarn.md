@@ -4,13 +4,13 @@
 
 # Xarn
 
-Xarn é um [[_wiki/racas/shadar\|shadar]] ancião, clérigo grão-mestre e líder espiritual do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]]. Autor do Codex que rege a [[_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]] entre shadars e [[_wiki/racas/drul\|druls]], escreveu as leis que outros agora recitam. Vive em [[_wiki/locais/morvgrad\|Morvgrad]].
+Xarn é um [[_wiki/racas/shadar\|shadar]] ancião, clérigo grão-mestre e líder espiritual do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]]. Autor do Codex que rege a [[_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]] entre shadars e [[_wiki/racas/drul\|druls]], vive em [[_wiki/locais/morvgrad\|Morvgrad]].
 
 ### Papel
 
-Lidera as casas gêmeas do culto: a eparquia de [[_wiki/locais/xarn_zareth\|Xarn’Zareth]], na cidadela subterrânea de [[_wiki/locais/ghilanna\|Ghilanna]], e a eparquia [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], na região sagrada de Morvgrad. Foi ele quem unificou os templos diabólicos dispersos sob o Culto Sombrio e arquitetou a aliança entre shadars e druls. Diz-se que pode ter sido divinizado, embora seu estado permaneça incerto.
+Lidera as casas gêmeas do Culto: a eparquia de [[_wiki/locais/xarn_zareth\|Xarn’Zareth]], na cidadela subterrânea de [[_wiki/locais/ghilanna\|Ghilanna]], e a eparquia [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], na região sagrada de Morvgrad. Foi ele quem unificou os templos diabólicos dispersos sob o Culto Sombrio e arquitetou a aliança entre shadars e druls. Diz-se que pode ter sido divinizado, embora seu estado permaneça incerto.
 
-### Atos de ofício
+### Atos de Ofício
 
 [[_wiki/personagens/arothistar\|Arothistar]] proibiu os vínculos com [[_wiki/cosmologia/demonios\|demônios]] (a prática do [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]]), e Xarn endossou a proibição por édito. O endosso somou a força espiritual do Culto Sombrio à força política do trono. A proibição é antiga, e a punição corre nos [[_wiki/locais/drokh_malahar\|Fossos de Drokh’Malahar]]. Sob ela, o vínculo com demônios é escândalo jurídico antes de ser perigo.
 

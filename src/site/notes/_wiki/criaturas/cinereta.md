@@ -10,6 +10,6 @@ A cinereta é uma besta de carga criada pelos [[_wiki/racas/shadar\|shadars]] pa
 
 Não relincha nem bufa. O silêncio é traço da espécie e independe do adestramento, o que faz da cinereta o animal de tração preferido de quem precisa mover carga sem anunciar a rota.
 
-### O nome
+### O Nome
 
 O nome vem da pelagem cinza-ardósia. Há quem prefira outra leitura, a do temperamento: frias como cinza morta.

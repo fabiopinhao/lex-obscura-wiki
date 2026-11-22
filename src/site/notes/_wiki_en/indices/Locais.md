@@ -11,7 +11,7 @@ Every stone of this Empire was laid upon something else. It is best not to ask w
 ## Capitals and Cities
 
 - [[_wiki_en/locais/morvgrad\|Morvgrad]]: imperial capital, seat of Arothistar’s power
-- [[_wiki_en/locais/niedellin\|Niedellin]]: settlement in Ventrista, on the banks of the River Parveni
+- [[_wiki_en/locais/niedellin\|Niedellin]]: settlement in Ventrista, on the banks of the river Parveni
 - [[_wiki_en/locais/myrgarde\|Myrgarde]]: former human capital, subjugated by the Empire
 - [[_wiki_en/locais/valdris\|Valdris]]: coastal port city, imperial outlet to the ocean
 - [[_wiki_en/locais/varnak\|Varnak]]: mountainous region in Veinkard, fragmented tribal territory
@@ -86,7 +86,7 @@ Every stone of this Empire was laid upon something else. It is best not to ask w
 - [[_wiki_en/locais/arena_de_drakmur\|Arena of Drakmur]]: combat arena on the border of the Plateau
 - [[_wiki_en/locais/mercado_oeste\|West Market]]: black market, operated by the Gnome Guild
 - [[_wiki_en/locais/dromos_draconis\|Dromos Draconis]]: defunct gladiatorial arena, suppressed by the Shadow Council
-- [[_wiki_en/locais/ezrath\|Ezrath]]: noble commercial district of Morvgrad
+- [[_wiki_en/locais/ezrath\|Ezrath]]: upscale commercial district of Morvgrad
 - [[_wiki_en/locais/mor_draconis\|Mor’Draconis]]: wall, fortified ring of Morvgrad, former home of dragons
 
 ## Dark Places

@@ -12,7 +12,7 @@ Berenice’s skin is very pale, with a whiteness reminiscent of a porcelain doll
 
 ### Origin and Role
 
-An orphan, Berenice grows up in the chapel of Niedellin alongside Levi, each the other’s only remaining family tie. She was the one who witnessed a rare celestial phenomenon over the village, and she was nearby when [[_wiki_en/personagens/syndrith_morghast\|Syndrith Morghast]] passed through the village. What happens in Niedellin, she sees, records, and does not forget.
+An orphan, Berenice grows up in the chapel of Niedellin alongside Levi, each the other’s only remaining family tie. She was the one who witnessed a rare celestial phenomenon over the village, and she was nearby when [[_wiki_en/personagens/syndrith_morghast\|Syndrith Morghast]] passed through the village.
 
 ### Method and Voice
 

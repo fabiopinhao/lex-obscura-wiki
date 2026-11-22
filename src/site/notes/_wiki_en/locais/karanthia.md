@@ -4,7 +4,7 @@
 
 # Karanthia
 
-Karanthia is an imperial province on the southeastern coast of [[_wiki_en/locais/reinkard\|Reinkard]], east of [[_wiki_en/locais/valdris\|Valdris]], under the rule of the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]]. A poor land far from [[_wiki_en/locais/morvgrad\|Morvgrad]], it is one of the regions the plateau governs more out of inertia than interest.
+Karanthia is an imperial province on the southeastern coast of [[_wiki_en/locais/reinkard\|Reinkard]], east of [[_wiki_en/locais/valdris\|Valdris]], under the rule of the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]]. A poor land far from [[_wiki_en/locais/morvgrad\|Morvgrad]], it is one of the regions the plateau governs out of inertia.
 
 ### Geography and Position
 
@@ -12,7 +12,7 @@ Where Valdris has a port and salt, Karanthia has the coastline no one contests: 
 
 ### The Cauldron of the South
 
-What defines the province is neither territory nor wealth, but blood. Its reputation in the Empire is that of a land where blood mixes like spices in a border market: Pindoriars of various lineages, descendants of deserter soldiers, refugees from conflicts the Empire has forgotten, half-breeds of origins Morvgrad prefers not to catalog. There are no elves in Karanthia; the province is entirely human, but its humanity is one the plateau does not recognize as pure. To the [[_wiki_en/racas/shadar\|Shadar]] racial hierarchy, it is impure by definition, and a Karanthian in Morvgrad carries the stigma before opening his mouth.
+Karanthia’s reputation in the Empire is that of the land where blood mixes like spices in a border market: Pindoriars of various lineages, descendants of deserter soldiers, refugees from conflicts the Empire has forgotten, half-breeds of origins Morvgrad prefers not to catalog. There are no elves in Karanthia; the province is entirely human, but its humanity is one the plateau does not recognize as pure. To the [[_wiki_en/racas/shadar\|Shadar]] racial hierarchy, it is impure by definition, and a Karanthian in Morvgrad carries the stigma before opening his mouth. Even among Pindoriars, those from the deep south occupy the lowest rung: borderland people of uncertain blood.
 
 ### Abandoned Province
 
@@ -20,4 +20,4 @@ The Empire rules Karanthia in its decrees. In practice, the garrison is minimal,
 
 ### Stigma and Ambition
 
-Karanthian marginality produces two kinds of people: those who accept being forgotten and those who seek violent paths to escape it. That [[_wiki_en/personagens/maraxus\|Maraxus]] has attained the post of chief of the guard in [[_wiki_en/locais/niedellin\|Niedellin]], nominally reserved for Shadars, says less about the province and more about what a man from the deep south is capable of doing when the world offers him nothing.
+Karanthian marginality produces two kinds of people: those who accept being forgotten and those who seek violent paths to escape it. [[_wiki_en/personagens/maraxus\|Maraxus]]’s rise to the post of chief of the guard in [[_wiki_en/locais/niedellin\|Niedellin]], nominally reserved for Shadars, shows what a man from the deep south is capable of doing when the world offers him nothing.

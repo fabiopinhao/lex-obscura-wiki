@@ -12,7 +12,7 @@ Devils are evil legalists who revere binding contracts, hierarchy, and legal pre
 
 ### Bestowal
 
-The channeling of Pactum Diaboli is called Bestowal and is formal and contractual. The devil grants power according to the terms of the pact, in a predictable, stable flow proportional to obedience. Bestowal amplifies the key feelings of the schools granted, deepening the emotional exposure of the person bound by the pact; the devil does not replace the feeling, but intensifies it, sustains it, and makes it harder to turn off.
+The channeling of Pactum Diaboli is called Bestowal and is formal and contractual. The devil grants power according to the terms of the pact, in a predictable, stable flow proportional to obedience. Bestowal amplifies the key feelings of the schools granted, deepening the emotional exposure of the person bound by the pact; the devil intensifies the feeling without replacing it, sustains it, and makes it harder to turn off.
 
 ### Invocation Process
 

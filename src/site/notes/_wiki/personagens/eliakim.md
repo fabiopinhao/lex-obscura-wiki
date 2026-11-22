@@ -4,7 +4,7 @@
 
 # Eliakim
 
-Eliakim é um [[_wiki/racas/shadar\|shadar]] que ocupa a cadeira maior do [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], em [[_wiki/locais/morvgrad\|Morvgrad]], e carrega o epíteto de Arquiteto da Diplomacia Sombria. Conselheiro veterano, de reputação erguida sobre a erudição e a retórica, distingue-se pelo hábito de cortar o argumento alheio com uma frase lacônica e precisa, sempre exata o bastante para encerrar a discussão.
+Eliakim é um [[_wiki/racas/shadar\|shadar]] que ocupa a cadeira maior do [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], em [[_wiki/locais/morvgrad\|Morvgrad]], e carrega o epíteto de Arquiteto da Diplomacia Sombria. Conselheiro veterano, de reputação erguida sobre a erudição e a retórica, distingue-se pelo hábito de cortar o argumento alheio com uma frase lacônica e precisa.
 
 ### Aparência
 
@@ -12,8 +12,8 @@ Ninguém o vê em corpo presente. Eliakim se manifesta pela [[_wiki/artefatos/oc
 
 ### Papel
 
-Na engrenagem do Conselho Sombrio, Eliakim ocupa o assento que define o tom das sessões. A autoridade dele não vem da voz erguida, e sim da economia: fala pouco, e o pouco que diz chega como veredito. A reputação de erudito sustenta o peso; a retórica afiada faz o resto.
+Na engrenagem do Conselho Sombrio, Eliakim ocupa o assento que define o tom das sessões. A autoridade dele vem da economia: fala pouco, e o pouco que diz chega como veredito.
 
-### Método e voz
+### Método e Voz
 
 O instrumento de Eliakim é a frase curta. Onde outros se alongam em justificativa, ele responde com a sentença que reduz o interlocutor ao essencial. Não confundas clemência tática com justiça, adverte quando alguém apresenta a brandura como virtude, e a distinção fica suspensa no ar como uma régua. A voz é a substância do conselheiro: precisa, sem floreio, treinada para separar o que parece nobre do que é apenas conveniente.

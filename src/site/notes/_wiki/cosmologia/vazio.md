@@ -4,11 +4,11 @@
 
 # Vazio
 
-O Vazio, também chamado Negrume Primordial, é um conceito cosmogônico e teológico central na tradição sombria de [[_wiki/locais/reinkard\|Reinkard]]. Mais que origem mítica do universo, opera como força ativa no mundo, justificativa política e até medida do tempo. Nenhuma tradição cosmogônica é confirmada ou negada pelo sistema do mundo, e a coexistência de versões contraditórias é deliberada.
+O Vazio, também chamado Negrume Primordial, é um conceito cosmogônico e teológico central na tradição sombria de [[_wiki/locais/reinkard\|Reinkard]]. Além de origem mítica do universo, opera como força ativa no mundo, justificativa política e medida do tempo. Nenhuma tradição cosmogônica é confirmada ou negada, e as versões contraditórias coexistem.
 
 ### Cosmogonia
 
-Na Versão Sombria, tradição oral dos [[_wiki/racas/shadar\|shadars]] e do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]], o Vazio é um negrume consciente que precedeu toda existência. Não criou por bondade ou propósito, mas por necessidade, porque a ausência absoluta é instável; a matéria surgiu como resíduo, um defeito na superfície do Vazio.
+Na Versão Sombria, tradição oral dos [[_wiki/racas/shadar\|shadars]] e do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]], o Vazio é um negrume consciente que precedeu toda existência. Criou sem bondade nem propósito, por necessidade, porque a ausência absoluta é instável; a matéria surgiu como resíduo, um defeito na superfície do Vazio.
 
 Nessa interpretação, os deuses são fragmentos do Vazio que ganharam vontade própria. Os [[_wiki/cosmologia/diabos\|diabos]] são os mais próximos da natureza original, os que melhor compreendem que controle é a única resposta ao caos da existência. Os [[_wiki/cosmologia/anjos\|anjos]] são deformações, fragmentos que se recusaram a aceitar a verdade do Vazio e inventaram conceitos como luz e pureza para justificar sua fraqueza. Os [[_wiki/cosmologia/titas\|titãs]] se apegaram ao defeito, a matéria, em vez de transcendê-lo. Os [[_wiki/cosmologia/siderais\|siderais]] escolheram não escolher, vagando entre o Vazio e o defeito.
 
@@ -20,11 +20,11 @@ O palavrão “Vaz”, xingamento corrente entre as raças servas ([[_wiki/racas
 
 ### O Dia do Vazio
 
-O [[_wiki/conceitos/nullis\|Nullis]], coloquialmente o Dia do Vaz, é o dia avulso entre a última [[_wiki/conceitos/lunia\|Lúnia]] do [[_wiki/conceitos/varnum\|Varnum]] e a primeira do seguinte. Não pertence a nenhuma Lúnia nem estação. É dia de superstição, recolhimento e rituais imperiais. A conexão calendárica reforça a presença do Vazio como conceito estruturante da civilização shadar: não apenas teologia, mas medida do tempo.
+O [[_wiki/conceitos/nullis\|Nullis]], coloquialmente o Dia do Vaz, é o dia avulso entre a última [[_wiki/conceitos/lunia\|Lúnia]] do [[_wiki/conceitos/varnum\|Varnum]] e a primeira do seguinte. Não pertence a nenhuma Lúnia nem estação. É dia de superstição, recolhimento e rituais imperiais. A conexão calendárica reforça a presença do Vazio como conceito estruturante da civilização shadar, também na medida do tempo.
 
 ### Manifestação Metafísica
 
-O Vazio não é só narrativa cosmogônica: manifesta-se no plano material como energia ativa. Sua expressão regional é o [[_wiki/cosmologia/manto_das_sombras\|Manto das Sombras]], a saturação de energia sombria que fez de Reinkard o continente de sombras e enfraquece os deuses de espectro oposto; sua face visível nas florestas é a [[_wiki/magia/macula-sombria\|Mácula-Sombria]]. [[_wiki/personagens/gaelwyn\|Gaelwyn]], [[_wiki/racas/sylvano\|sylvano]] criado entre shadars, carrega em si a marca desse conflito, um fragmento de vazio dentro de alguém cuja natureza deveria ser verde: a floresta o rejeita parcialmente, as árvores sussurram quando ele passa e as raízes recuam de sua presença.
+No plano material, o Vazio manifesta-se como energia ativa. Sua expressão regional é o [[_wiki/cosmologia/manto_das_sombras\|Manto das Sombras]], a saturação de energia sombria que fez de Reinkard o continente de sombras e enfraquece os deuses de espectro oposto; sua face visível nas florestas é a [[_wiki/magia/macula-sombria\|Mácula-Sombria]]. [[_wiki/personagens/gaelwyn\|Gaelwyn]], [[_wiki/racas/sylvano\|sylvano]] criado entre shadars, carrega em si a marca desse conflito, um fragmento de vazio dentro de alguém cuja natureza deveria ser verde: a floresta o rejeita parcialmente, as árvores sussurram quando ele passa e as raízes recuam de sua presença.
 
 ### Camadas Simultâneas
 

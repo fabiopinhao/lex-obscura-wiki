@@ -6,7 +6,7 @@
 
 A política linguística do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] trata a língua como instrumento de soberania. A imposição do [[_wiki/linguas/reinkardico\|reinkárdico]] é ato fundador: soberano é quem decide em qual língua a exceção é declarada. A [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]], redigida por [[_wiki/personagens/xarn\|Xarn]] na [[_wiki/conceitos/segunda_era\|Segunda Era]], já formaliza o reinkárdico como língua de governo, e os decretos de [[_wiki/personagens/arothistar\|Arothistar]] na [[_wiki/conceitos/terceira_era\|Terceira Era]] radicalizam a lógica em três camadas de controle.
 
-### As três camadas
+### As Três Camadas
 
 A camada administrativa obriga toda documentação oficial, de contratos a ordens militares, a ser redigida em reinkárdico. Documentos em outras línguas não têm validade jurídica, e o acordo que um [[_wiki/racas/gerut\|gerut]] registre em seu dialeto tribal não existe para o Império.
 
@@ -14,15 +14,15 @@ A camada ritual preserva o [[_wiki/linguas/tenebraico\|tenebraico]] e o [[_wiki/
 
 A camada proibida criminaliza ou marginaliza o uso público de certas línguas. O [[_wiki/linguas/orcanico\|orcânico]] fora do contexto militar soa como insubordinação, o [[_wiki/linguas/draconico\|dracônico]] na boca de [[_wiki/racas/varnakiano\|varnakianos]] gera desconfiança, o [[_wiki/linguas/sylvaen\|sylvaen]] diante de oficiais imperiais é tratado como desrespeito. O gholvyss é caso particular: tolerado para uso mágico mesmo em [[_wiki/locais/morvgrad\|Morvgrad]] por força da aliança com as Casas Matriarcais, mas suspeito no cotidiano da superfície.
 
-### Multilinguismo como ameaça
+### Multilinguismo como Ameaça
 
-Para o aparelho de Estado imperial, um cidadão multilíngue é um cidadão dividido, e lealdade dividida equivale a deslealdade. Por essa lógica, os poliglotas são os indivíduos mais perigosos de [[_wiki/locais/reinkard\|Reinkard]], mais que os poderosos. As [[_wiki/organizacoes/ophideias\|Ophideias]], sacerdotisas-espiãs fluentes em gholvyss, tenebraico e reinkárdico, são a exceção tolerada, porque sua competência opera a serviço do poder. Os [[_wiki/organizacoes/justiciares\|Justiciares]] ocupam posição peculiar, pois o sistema [[_wiki/magia/teru\|Teru]] exige o estudo técnico de frases rituais de várias escolas sem pacto. Um Justiciar como [[_wiki/personagens/milorsevogh_velshard\|Milor]] pronuncia feitiços em tenebraico por estudo arcano, sem devoção, e esse multilinguismo fragmentado é o único verdadeiramente seguro no Império.
+Para o aparelho de Estado imperial, um cidadão multilíngue é um cidadão dividido, e lealdade dividida equivale a deslealdade. Por essa lógica, os poliglotas são os indivíduos mais perigosos de [[_wiki/locais/reinkard\|Reinkard]], mais que os poderosos. As [[_wiki/organizacoes/ophideias\|ophideias]], sacerdotisas-espiãs fluentes em gholvyss, tenebraico e reinkárdico, são a exceção tolerada, porque sua competência opera a serviço do poder. Os [[_wiki/organizacoes/justiciares\|justiciares]] ocupam posição peculiar, pois o sistema [[_wiki/magia/teru\|Teru]] exige o estudo técnico de frases rituais de várias escolas sem pacto. Um justiciar como [[_wiki/personagens/milorsevogh_velshard\|Milor]] pronuncia feitiços em tenebraico por estudo arcano, sem devoção, e esse multilinguismo fragmentado é o único verdadeiramente seguro no Império.
 
-### Línguas clandestinas
+### Línguas Clandestinas
 
 Onde há proibição, há clandestinidade. A resistência sylvana é a mais visível: [[_wiki/locais/thal_serin\|Thal’Serin]] mantém o sylvaen como língua única de comunicação interna e [[_wiki/personagens/peredur\|Peredur]] conduz rituais no registro mágico. A resistência subterrânea dos [[_wiki/racas/drul\|druls]] opera em silêncio, pois o gholvyss nunca foi proscrito formalmente, mas seu uso na superfície, como nas invocações de [[_wiki/personagens/syndrith_morghast\|Syndrith]] em [[_wiki/locais/niedellin\|Niedellin]], carrega risco. A resistência orcânica é a mais difusa: os [[_wiki/racas/orc\|orcs]] preservam sua língua sem convicção política, porque é nela que sonham, brigam e rezam, e os [[_wiki/personagens/grasnak\|Cantos de Grasnak]], épicos orais como a defesa de Khaz-Ankor, sobrevivem porque ninguém jamais os traduziu. A resistência elarina é silenciosa e orgulhosa: em [[_wiki/locais/elenir\|Elenir]], os [[_wiki/racas/elarino\|elarinos]] falam reinkárdico sob vigilância, mas entre si guardam o [[_wiki/linguas/aelarian\|aelarian]], memória do [[_wiki/linguas/luminar\|luminar]] que o Império não consegue confiscar.
 
-### Os paradoxos do Tenebraico e do Gholvyss
+### Os Paradoxos do Tenebraico e do Gholvyss
 
 O tenebraico é, ao mesmo tempo, a língua sagrada do poder e a língua que nenhum cidadão comum deveria dominar. Sacerdotes aprendem fragmentos de liturgia e pactuados memorizam cláusulas, mas a fluência real, a capacidade de compor sentenças originais, é prerrogativa de pouquíssimos. A escassez é funcional: enquanto o tenebraico opera como língua semi-morta, conhecida em fragmentos e nunca em totalidade, os mortais não compreendem por inteiro os contratos que assinam. Os raros mortais que alcançam fluência completa são vigiados por causa da própria competência, que o Culto teme mais que heresia, pois quem lê os contratos sem mediação pode recusar cláusulas, e quem os escreve negocia como igual.
 

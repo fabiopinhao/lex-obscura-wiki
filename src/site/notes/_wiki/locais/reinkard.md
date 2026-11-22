@@ -16,4 +16,4 @@ Antes da conquista, Reinkard era um continente fragmentado: reinos humanos centr
 
 ### Fronteiras
 
-A geopolítica do continente é definida por fronteiras naturais. A Dorsal impede o avanço sobre Veinkard; pântanos e clima úmido barram a conquista de Neranthis; e Thal’Serin resiste sob proteção titânica, fruto do pacto entre [[_wiki/panteao/vozrador\|Vozrador]] e os Titãs. O selo púrpura de [[_wiki/personagens/arothistar\|Arothistar]] não cruza a Dorsal.
+A geopolítica do continente é definida por fronteiras naturais. A Dorsal impede o avanço sobre Veinkard; pântanos e clima úmido barram a conquista de Neranthis; e Thal’Serin resiste sob proteção titânica, fruto do pacto entre [[_wiki/panteao/vozrador\|Vozrador]] e os titãs. O selo púrpura de [[_wiki/personagens/arothistar\|Arothistar]] não cruza a Dorsal.

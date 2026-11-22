@@ -8,7 +8,7 @@ The Siege of Myrgarde, also remembered as the Siege of the Human Capital or the 
 
 ### The Siege
 
-For the first time in history, the troops of [[_wiki_en/locais/morvgrad\|Morvgrad]] mustered the numbers, organization, and logistical efficiency to surround the entire capital at once. The siege lasted three years. Within the sacred walls, hunger, plague, and despair were consuming the population, and the luminous gods were falling silent one by one: prayers were losing their potency and blessings were waning, as though the divinities themselves were retreating before what was approaching.
+For the first time in history, the troops of [[_wiki_en/locais/morvgrad\|Morvgrad]] mustered the numbers, organization, and logistical efficiency to surround the entire capital at once. Within the sacred walls, hunger, plague, and despair were consuming the population, and the luminous gods were falling silent one by one: prayers were losing their potency and blessings were waning, as though the divinities themselves were retreating before what was approaching.
 
 ### The Garden of the Innocents
 
@@ -16,4 +16,4 @@ Only the [[_wiki_en/locais/jardim_dos_inocentes\|Garden of the Innocents]], the 
 
 ### Legacy
 
-The sacred walls, reinforced by centuries of celestial blessings, held out longer than any military structure would have, but the defenders were wasting away at a rate that no wall could compensate for. The siege preceded the final fall of Myrgarde and marked the end of the continent’s last great alabastrine resistance.
+The sacred walls, reinforced by centuries of celestial blessings, held out longer than any military structure would have, but the defenders were wasting away at a rate that no wall could compensate for. The siege preceded the final fall of Myrgarde.

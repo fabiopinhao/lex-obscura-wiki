@@ -4,7 +4,7 @@
 
 # Primordial Conflagration
 
-The Primordial Conflagration is the red cosmogony, the version of the universe’s creation upheld by [[_wiki_en/racas/varnakiano\|Varnakians]], scattered demonic cults, and the oral traditions of the [[_wiki_en/racas/orc\|orc]] clans. According to it, the universe was not born from [[_wiki_en/cosmologia/vazio\|the Void]], but from excess: too much force, motion, and simultaneous creation. It is an emotional and visceral cosmogony that celebrates chaos as the natural state.
+The Primordial Conflagration is the red cosmogony, the version of the universe’s creation upheld by [[_wiki_en/racas/varnakiano\|Varnakians]], scattered demonic cults, and the oral traditions of the [[_wiki_en/racas/orc\|orc]] clans. According to it, the universe was born from excess: too much force, motion, and simultaneous creation. It is an emotional and visceral cosmogony that celebrates chaos as the natural state.
 
 ### The Original Detonation
 
@@ -16,4 +16,4 @@ The red cosmogony orders the deities by each one’s relationship to the intensi
 
 ### Place Among the Cosmogonies
 
-The red version does not seek to justify order: it condemns stability as a betrayal of the universe’s nature. It contrasts with the dark version, which sees the Void as perfection, and with the green version, which understands the universe as a living organism. No cosmogonic tradition is confirmed or denied, and the coexistence of contradictory versions is deliberate.
+The red version condemns stability as a betrayal of the universe’s nature. It contrasts with the dark version, which sees [[_wiki_en/cosmologia/vazio\|the Void]] as the origin and as perfection, and with the green version, which understands the universe as a living organism. No cosmogonic tradition is confirmed or denied, and the contradictory versions coexist.

@@ -10,7 +10,7 @@ O Coração Oco é a faixa de níveis intermediários e terminais de [[_wiki/loc
 
 A acústica natural da rocha distorce o som de maneira perturbadora, e a distorção já se ouve no piso dos intendentes, nos níveis superiores de Ghol’Drokh, adensando-se conforme se desce. Palavras e passos não retornam como foram emitidos: voltam atrasados e tortos, como se a pedra os mastigasse antes de devolvê-los. Diz-se ali que um sussurro ganha presas e volta para morder.
 
-### Celas gêmeas
+### Celas Gêmeas
 
 Duas câmaras espelhadas, separadas por um corredor estreito, são reservadas a prisioneiros de interesse do trono. Numa delas está o [[_wiki/personagens/coveiro-mor\|Coveiro-mor]] do [[_wiki/locais/jardim_dos_inocentes\|Jardim dos Inocentes]].
 

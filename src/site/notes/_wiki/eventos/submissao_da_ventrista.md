@@ -4,18 +4,18 @@
 
 # Submissão da Ventrista
 
-A Submissão da Ventrista foi a primeira região a cair sob o domínio do Culto sem que uma única batalha formal fosse travada. Faixa de terras férteis na base do planalto, a [[_wiki/locais/ventrista\|Ventrista]] foi dobrada pela fome, sem que um exército formal precisasse marchar sobre ela, durante as Guerras Reinkárdicas.
+A Submissão da Ventrista foi a queda da [[_wiki/locais/ventrista\|Ventrista]], faixa de terras férteis na base do planalto, durante as Guerras Reinkárdicas. Dobrada pela fome, a Ventrista foi a primeira região a cair sob o domínio do Culto sem que uma única batalha formal fosse travada.
 
-### Terra fértil, alvo próximo
+### Terra Fértil, Alvo Próximo
 
 Irrigada pelo [[_wiki/locais/rio_parveni\|rio Parveni]], a Ventrista era a mais produtiva das planícies: suas vilas agrícolas alimentavam reinos inteiros e seus celeiros jamais conheceram escassez prolongada. Também era a região mais próxima de [[_wiki/locais/morvgrad\|Morvgrad]], e essa proximidade selou seu destino.
 
-### O cerco da fome
+### O Cerco da Fome
 
-Grupos de [[_wiki/racas/orc\|orcs]] desciam do planalto em bandos cada vez maiores. Sem os dragões que outrora os caçavam na [[_wiki/locais/dorsal\|Dorsal]], nada mais continha o fluxo vindo do norte, e os [[_wiki/racas/shadar\|shadars]] o canalizavam com precisão: facilitavam a passagem, escolhiam os alvos, coordenavam o saque. As vilas que resistiam eram arrasadas; as que se submetiam recebiam uma oferta: pagar tributos em grãos, carne salgada, couro, cerveja e ferro bruto, e os saques cessariam. A alternativa era evidente.
+Grupos de [[_wiki/racas/orc\|orcs]] desciam do planalto em bandos cada vez maiores. Sem os dragões que outrora os caçavam na [[_wiki/locais/dorsal\|Dorsal]], nada mais continha o fluxo vindo do norte, e os [[_wiki/racas/shadar\|shadars]] o canalizavam com precisão: facilitavam a passagem, escolhiam os alvos, coordenavam o saque. As vilas que resistiam eram arrasadas; as que se submetiam recebiam uma oferta: pagar tributos em grãos, carne salgada, couro, cerveja e ferro bruto, e os saques cessariam.
 
-Os tributos alimentavam não apenas Morvgrad, mas um projeto específico: a domesticação e a reprodução ampliada de goblinoides nas fortalezas do perímetro, criaturas que em poucos anos se tornariam a engrenagem logística da máquina de guerra sombria.
+Os tributos alimentavam Morvgrad e também um projeto específico: a domesticação e a reprodução ampliada de goblinoides nas fortalezas do perímetro, criaturas que em poucos anos se tornariam a engrenagem logística da máquina de guerra sombria.
 
-### Os dois fluxos
+### Os Dois Fluxos
 
 A submissão gerou dois fluxos migratórios simultâneos e opostos. Humanos que não suportavam viver sob a sombra do planalto fugiam para o sul, em direção às terras centrais e à proteção de [[_wiki/locais/myrgarde\|Myrgarde]]. Ao mesmo tempo, humanos ambiciosos seguiam na direção contrária, subindo ao planalto para se juntar aos shadars. O Culto aceitava os que demonstrassem determinação suficiente e os transformava pelo [[_wiki/magia/rito_de_ossarium\|Rito de Ossárium]], apagando sua humanidade e forjando novos soldados sombrios. Os dois fluxos cresciam na mesma proporção: quanto mais a sombra avançava, mais gente fugia e mais gente a procurava.

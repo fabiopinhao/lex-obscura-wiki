@@ -12,4 +12,4 @@ Sua decisão de enviar a filha a [[_wiki/locais/vor-ghol\|Vor-Ghol]], convencida
 
 ### Relações
 
-Com Nidzina, é a mãe que permitiu ao treinamento drul moldar a filha e permanece em Khargoth enquanto a filha opera como Justiciar. A Orum-Rahru confiou a formação da herdeira, e foi ela quem conduziu a filha, ainda pequena, pela mão até ele: das lembranças de infância de Nidzina, é das poucas que ficaram inteiras. Vekraal, tio de Nidzina, é parente cujo comentário deixa entrever familiaridade e talvez desaprovação velada.
+Com Nidzina, é a mãe que permitiu ao treinamento drul moldar a filha e permanece em Khargoth enquanto a filha opera como justiciar. A Orum-Rahru confiou a formação da herdeira, e foi ela quem conduziu a filha, ainda pequena, pela mão até ele: das lembranças de infância de Nidzina, é das poucas que ficaram inteiras. Vekraal, tio de Nidzina, é parente cujo comentário deixa entrever familiaridade e talvez desaprovação velada.

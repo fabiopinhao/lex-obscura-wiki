@@ -8,7 +8,7 @@ The Verbum Arkhon, or the Word of the Sovereign, is the first and most sacred se
 
 ### Supremacy over the Lex Obscura
 
-The Verbum Arkhon did not repeal the [[_wiki_en/conceitos/lex_obscura_decreto\|Lex Obscura]]: it aligned itself with it and superseded it, being both revolution and continuity, radical change in the form of administrative reform. In practice, any decree of the Verbum can suspend or supersede any clause of the Lex when the sovereign so decides. This dynamic enacts a notion of sovereignty in which the sovereign is not the one who applies the law, but the one who decides when the law does not apply: Arothistar can declare even [[_wiki_en/personagens/xarn\|Xarn]], the very creator of the Lex, a heretic, because the sovereign decision precedes the norm.
+The Verbum Arkhon aligned itself with the [[_wiki_en/conceitos/lex_obscura_decreto\|Lex Obscura]] and superseded it without repealing it, being both revolution and continuity, radical change in the form of administrative reform. In practice, any decree of the Verbum can suspend or supersede any clause of the Lex when the sovereign so decides. This dynamic enacts a notion of sovereignty in which the sovereign is the one who decides when the law does not apply: Arothistar can declare even [[_wiki_en/personagens/xarn\|Xarn]], the very creator of the Lex, a heretic, because the sovereign decision precedes the norm.
 
 ### Relationship with the Justiciars
 

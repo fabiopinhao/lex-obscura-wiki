@@ -8,7 +8,7 @@ Geldrion, o Apogeu Glacial, é uma divindade sideral do panteão de fundo, descr
 
 ### Natureza
 
-De longe, Geldrion justifica o nome: uma silhueta de proporções astronômicas recortada contra o Etéreo, de contornos nítidos e vagamente humanoide. De perto, a superfície se revela como a fronteira entre o espaço em funcionamento e o espaço parado. Os membros são acidentes topológicos dessa descontinuidade, regiões onde o limite entre movimento e cessação faz curvas que o olho interpreta como anatomia. Quem cruza o limiar percebe a transição em camadas: primeiro o silêncio, depois o esvaziamento das cores, do azul ao vermelho surdo que se apaga, até a temperatura não baixar gradualmente, mas terminar.
+De longe, Geldrion justifica o nome: uma silhueta de proporções astronômicas recortada contra o Etéreo, de contornos nítidos e vagamente humanoide. De perto, a superfície se revela como a fronteira entre o espaço em funcionamento e o espaço parado. Os membros são acidentes topológicos dessa descontinuidade, regiões onde o limite entre movimento e cessação faz curvas que o olho interpreta como anatomia. Quem cruza o limiar percebe a transição em camadas: primeiro o silêncio, depois o esvaziamento das cores, do azul ao vermelho surdo que se apaga, até a temperatura cessar de uma vez.
 
 ### Manifestação
 
@@ -16,8 +16,8 @@ Um sinal mais discreto também lhe é atribuído, o quieto glacial: numa noite, 
 
 ### Domínio
 
-Geldrion drena calor e curvatura gravitacional numa operação única. O gelo que produz prescinde de água, pois cristaliza o próprio espaço. As regiões afetadas exibem o que cartógrafos etéreos chamam de geometria morta, áreas onde as trajetórias se tornam retas absolutas porque a curvatura congelou junto com a temperatura. Cosmo determina a escala e Cryo executa a cessação. Seres vivos que entram na geometria morta não morrem, porque morrer exige processos biológicos e processos exigem movimento. Permanecem.
+Geldrion drena calor e curvatura gravitacional numa operação única. O gelo que produz prescinde de água, pois cristaliza o próprio espaço. As regiões afetadas exibem o que cartógrafos etéreos chamam de geometria morta, áreas onde as trajetórias se tornam retas absolutas porque a curvatura congelou junto com a temperatura. Cosmo determina a escala e Cryo executa a cessação. Seres vivos que entram na geometria morta permanecem ali sem morrer, porque morrer exige processos biológicos e processos exigem movimento.
 
 ### O Apogeu
 
-Navegadores do [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]] usam o termo para as regiões onde Geldrion permaneceu tempo suficiente para que o espaço local perca de vez sua elasticidade. Nessas zonas, restaurar o movimento custa mais energia do que a região continha antes do congelamento, e esse excesso cresce a cada tentativa. Numa delas, expedicionários encontraram os resíduos de um [[_wiki/cosmologia/canal_magi\|canal magi]] interrompido, com cada feixe travado em trajetória de fuga que nenhuma força sustentava havia séculos. Eruditos [[_wiki/cosmologia/siderais\|siderais]] tratam o fenômeno como evidência de que o zero absoluto funciona como um ralo, um ponto de drenagem irreversível.
+Navegadores do [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]] usam o termo para as regiões onde Geldrion permaneceu tempo suficiente para que o espaço local perdesse de vez sua elasticidade. Nessas zonas, restaurar o movimento custa mais energia do que a região continha antes do congelamento, e esse excesso cresce a cada tentativa. Numa delas, expedicionários encontraram os resíduos de um [[_wiki/cosmologia/canal_magi\|canal magi]] interrompido, com cada feixe travado em trajetória de fuga que nenhuma força sustentava havia séculos. Eruditos [[_wiki/cosmologia/siderais\|siderais]] tratam o fenômeno como evidência de que o zero absoluto funciona como um ralo, um ponto de drenagem irreversível.

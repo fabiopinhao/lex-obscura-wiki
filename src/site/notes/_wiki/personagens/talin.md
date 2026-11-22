@@ -10,11 +10,11 @@ Talin é um rapaz [[_wiki/racas/pindoriar\|pindoriar]] de [[_wiki/locais/niedell
 
 Magro, de costas largas e pernas rápidas, tem o porte de quem foi feito para correr à frente e voltar com notícias, e as mãos calejadas de batedor. A voz é tagarela e suave, derramada sem filtro, mas enrouquece quando o medo aperta a garganta.
 
-### Origem e papel
+### Origem e Papel
 
 Garoto órfão de Niedellin, atira-se à resistência pelo caminho mais curto entre a indignação e o ato, e sua casa sem fechadura vira ponto de reunião dos rebeldes. Quando tentou atacar [[_wiki/personagens/maraxus\|Maraxus]], foi detido por [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] com um feitiço de [[_wiki/escolas/phobos\|Phobos]], o pavor sem nome, que lhe salvou a vida.
 
-### Método e voz
+### Método e Voz
 
 É um batedor de instinto, mais rápido com os pés e com a língua do que com o juízo. Não há cálculo em sua bravura, só a fé crua de que a coisa certa precisa ser feita agora, neste instante, com o que estiver à mão.
 

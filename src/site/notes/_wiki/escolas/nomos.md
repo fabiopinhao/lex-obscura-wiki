@@ -4,7 +4,7 @@
 
 # Nomos
 
-Nomos é a escola híbrida de branco e preto que impõe restrições, vínculos e proibições como leis inscritas na realidade, força arcana que mantém coesão e obediência onde a vontade do alvo tentaria resistir. Seu sentimento-chave é a certeza de que o vínculo imposto é justo, a posse legítima sobre o que foi selado. Seu par antagônico é [[_wiki/escolas/rupto\|Rupto]], a escola que desfaz estrutura e liberta.
+Nomos é a escola híbrida dos anjos e dos diabos que impõe restrições, vínculos e proibições como leis inscritas na realidade, força arcana que mantém coesão e obediência onde a vontade do alvo tentaria resistir. Seu sentimento-chave é a certeza de que o vínculo imposto é justo, a posse legítima sobre o que foi selado. Seu par antagônico é [[_wiki/escolas/rupto\|Rupto]], a escola que desfaz estrutura e liberta.
 
 ### Princípio
 
@@ -16,7 +16,7 @@ A mecânica escala da tranca ao édito cósmico. Selo tranca por toque uma porta
 
 ### Custos
 
-O custo temático é rigidez mental e dificuldade de questionar ou improvisar, durando de cinco minutos a quatro horas. O custo ontológico é um literalismo patológico. Primeiro vem o desconforto com a ambiguidade e a preferência por regras claras; depois piadas e metáforas confundem genuinamente; em seguida as exceções parecem ameaças à ordem; por fim a realidade só existe onde há lei, e o caos torna-se literalmente invisível. Nesse estágio o praticante é recolhido das funções de campo, mas mantido em funções jurídicas e administrativas, onde a rigidez absoluta é desejável. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes de Nomos como [[_wiki/organizacoes/justiciares\|Justiciares]], Magistrados, Conselheiros e árbitros de última instância.
+O custo temático é rigidez mental e dificuldade de questionar ou improvisar, durando de cinco minutos a quatro horas. O custo ontológico é um literalismo patológico. Primeiro vem o desconforto com a ambiguidade e a preferência por regras claras; depois piadas e metáforas confundem genuinamente; em seguida as exceções parecem ameaças à ordem; por fim a realidade só existe onde há lei, e o caos torna-se literalmente invisível. Nesse estágio o praticante é recolhido das funções de campo, mas mantido em funções jurídicas e administrativas, onde a rigidez absoluta é desejável. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes de Nomos como [[_wiki/organizacoes/justiciares\|justiciares]], magistrados, conselheiros e árbitros de última instância.
 
 ### Combinações
 

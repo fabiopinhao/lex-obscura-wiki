@@ -4,7 +4,7 @@
 
 # Solvara
 
-Solvara, a Cinza Imortal, é uma divindade de natureza demônio-anjo que se manifesta como uma fênix imolada. Seu domínio combina as escolas do [[_wiki/escolas/plasma\|Plasma]] e do [[_wiki/escolas/aero\|Aero]], presa num ciclo de imolação que nunca se completa.
+Solvara, a Cinza Imortal, é uma divindade de natureza demônio-anjo que se manifesta como uma fênix imolada. Seu domínio combina as escolas do [[_wiki/escolas/plasma\|Plasma]] e do [[_wiki/escolas/aero\|Aero]], e ela vive presa num ciclo de imolação que nunca se completa.
 
 ### Manifestação
 
@@ -12,7 +12,7 @@ Solvara surge como uma fênix em combustão permanente, envolta em plasma branco
 
 ### Domínio
 
-A combustão de Solvara prescinde de combustível externo. O plasma que a envolve é energia autogerada, matéria ionizada que funde o que toca sem consumir nada além de si mesma, enquanto o Aero alimenta o ciclo: o vento das asas sopra oxigênio para a queima e carrega cinzas incandescentes para longe, semeando ignição onde aterram. O rastro é reconhecível à distância. O solo se vitrifica sob a passagem, areia fundida em obsidiana lisa que reflete o céu como espelho negro. A vegetação não queima: sublima, e árvores desaparecem sem deixar carvão, apenas sombras impressas no vidro do chão onde estiveram.
+A combustão de Solvara prescinde de combustível externo. O plasma que a envolve é energia autogerada, matéria ionizada que funde o que toca sem consumir nada além de si mesma, enquanto o Aero alimenta o ciclo: o vento das asas sopra oxigênio para a queima e carrega cinzas incandescentes para longe, semeando ignição onde aterram. O rastro é reconhecível à distância. O solo se vitrifica sob a passagem, areia fundida em obsidiana lisa que reflete o céu como espelho negro. A vegetação sublima sem queimar, e árvores desaparecem sem deixar carvão, apenas sombras impressas no vidro do chão onde estiveram.
 
 ### A Imolação
 

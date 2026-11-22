@@ -4,7 +4,7 @@
 
 # Rupto
 
-Rupto is the school of pure magic within the domain of destruction and rupture, aligned with the red of the grimoire. It breaks, fragments, and destroys by negating structural cohesion, an arcane force that undoes what holds matter and bonds together. Its key feeling is unease at what is intact, the sense that what has not yet broken has simply not been tested.
+Rupto is the school of pure magic within the domain of destruction and rupture, characteristic of demons. It breaks, fragments, and destroys by negating structural cohesion, an arcane force that undoes what holds matter and bonds together. Its key feeling is unease at what is intact, the sense that what has not yet broken has simply not been tested.
 
 ### Principle
 

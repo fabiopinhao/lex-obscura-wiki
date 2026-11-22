@@ -4,7 +4,7 @@
 
 # Diabrete
 
-A diabrete é uma criatura menor de origem diabólica, de porte pequeno, pele vermelho-sangue e asas escarlates funcionais. Nasce de ovos e serve a lordes [[_wiki/racas/shadar\|shadars]] como mensageira e criatura de trabalho; o voo sustentado a longa distância faz dela mensageira natural nos centros urbanos do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. O uso corrente trata a espécie no feminino: a diabrete, as diabretes.
+A diabrete é uma criatura menor de origem diabólica que serve a lordes [[_wiki/racas/shadar\|shadars]] como mensageira e criatura de trabalho nos centros urbanos do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. O uso corrente trata a espécie no feminino: a diabrete, as diabretes.
 
 ### Fisiologia
 
@@ -16,7 +16,7 @@ De porte pequeno, grande demais para pássaro e pequena demais para valer como a
 
 ### Servidão
 
-As diabretes existem quase exclusivamente como criaturas servis, presas à servidão desde o ovo e tratadas como propriedade descartável, de substituição trivial. Servem em torres shadars ao lado de [[_wiki/racas/kobold\|kobolds]], classificadas entre as “criaturas menores, híbridas, quebradas” que ali trabalham; nenhum shadar ou [[_wiki/racas/drul\|drul]] divide com elas essa função. Carregam fama de insolência, e um provérbio kobold cristaliza o preconceito: servo bom não sorri sem ordem, como diabretes. O ofício característico é a mensageria alada, rolos e papiros selados levados em voo direto entre remetente e destinatário. São proibidas de entrar em [[_wiki/locais/khar_tabreth\|Khar’Tabreth]], restrição não explicada mas obedecida; a correspondência selada com tinta púrpura não passa pelo centro cartorial, e viaja por diabrete, de mão em mão, fora do registro oficial.
+As diabretes existem quase exclusivamente como criaturas servis, presas à servidão desde o ovo e tratadas como propriedade descartável, de substituição trivial. Servem em torres shadars ao lado de [[_wiki/racas/kobold\|kobolds]], classificadas entre as “criaturas menores, híbridas, quebradas” que ali trabalham; nenhum shadar ou [[_wiki/racas/drul\|drul]] divide com elas essa função. Carregam fama de insolência, e um provérbio kobold cristaliza o preconceito: servo bom não sorri sem ordem, como diabretes. O ofício característico é a mensageria alada, rolos e papiros selados levados em voo direto entre remetente e destinatário. São proibidas de entrar em [[_wiki/locais/khar_tabreth\|Khar’Tabreth]], restrição obedecida, de motivo não explicado; a correspondência selada com tinta púrpura não passa pelo centro cartorial, e viaja por diabrete, de mão em mão, fora do registro oficial.
 
 ### Cultura
 

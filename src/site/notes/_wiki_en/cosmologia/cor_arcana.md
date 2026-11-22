@@ -8,7 +8,7 @@ Arcane color describes the affinity between a race and the gods it can bind itse
 
 ### Affinity
 
-Color does not function as a metaphysical constraint, and no divine plane rejects those who do not carry the right color: affinity is a statistical tendency, never absolute. The [[_wiki_en/racas/shadar\|Shadar]] tends toward the [[_wiki_en/cosmologia/diabos\|devil]], the [[_wiki_en/racas/gerut\|Gerut]] toward the [[_wiki_en/cosmologia/titas\|titan]], the [[_wiki_en/racas/frenim\|Frenim]] toward the [[_wiki_en/cosmologia/siderais\|sidereal]].
+Color affinity is a statistical tendency: no divine plane rejects those who do not carry the right color, and nothing about color functions as a metaphysical constraint. The [[_wiki_en/racas/shadar\|Shadar]] tends toward the [[_wiki_en/cosmologia/diabos\|devil]], the [[_wiki_en/racas/gerut\|Gerut]] toward the [[_wiki_en/cosmologia/titas\|titan]], the [[_wiki_en/racas/frenim\|Frenim]] toward the [[_wiki_en/cosmologia/siderais\|sidereal]].
 
 The vast majority of magic users have a single bond because the gods prefer exclusivity and may reject those who already serve another (see [[_wiki_en/cosmologia/monogamia_divina\|divine monogamy]]); nothing forbids a second. This rejection extends to any god, including those of the same color. When a second bond occurs, its probability decreases according to the affinity between the divine natures: bonds between gods of the same nature are the most common, followed by those joining allied natures and, finally, those joining opposing natures, which are exceedingly rare. A Shadar bound to a devil and a sidereal, such as [[_wiki_en/personagens/nyx_ara\|Nyx’Ara]], is a plausible exception; a Shadar bound to an [[_wiki_en/cosmologia/anjos\|angel]] is almost inconceivable.
 
@@ -28,7 +28,7 @@ What is known for certain is the fragmentation. When the Luminars split, each li
 
 ### Conversion Between Colors
 
-Conversion is possible and constitutes a total metamorphosis. The exemplary case is [[_wiki_en/magia/rito_de_ossarium\|the Rite of Ossárium]], which rewrites the being’s nature. Conversion between elven lineages is even more drastic, since it corrupts the original essence and usually involves racial mixing, producing hybrids that do not belong entirely to any lineage. It is also not symmetrical: descending from white to black seems easier than ascending from black to white. The white tradition reads this as proof that the fall is the natural direction of spiritual entropy; the dark tradition, as proof that black is the true state and the other colors are unstable deviations. Neither reading prevails over the other.
+Conversion is possible and constitutes a total metamorphosis. The exemplary case is [[_wiki_en/magia/rito_de_ossarium\|the Rite of Ossárium]], which rewrites the being’s nature. Conversion between elven lineages is even more drastic, since it corrupts the original essence and usually involves racial mixing, producing hybrids that do not belong entirely to any lineage. This conversion is also asymmetrical: descending from white to black seems easier than ascending from black to white. The white tradition reads this as proof that the fall is the natural direction of spiritual entropy; the dark tradition, as proof that black is the true state and the other colors are unstable deviations. Neither reading prevails over the other.
 
 ### The Fifty Gods
 
@@ -36,10 +36,10 @@ The pantheon has fifty gods and is exactly symmetrical. Each of the five divine 
 
 ### Creatures and Color
 
-Arcane color is an attribute of races and gods. Natural creatures have no color: cave predators, mounts, and mountain beasts live outside the color system. As a rule, only a creature born of magic or of a god carries color, and what it carries depends on who made it.
+Arcane color is an attribute of races and gods. Natural creatures have no color: cave predators, mounts, and mountain beasts live outside the color system. As a rule, only a creature born of magic or of a god carries color, and what it carries depends on who made it. The [[_wiki_en/criaturas/gnoll\|gnoll]] is the known exception: with no defined racial origin, it carries black and red.
 
 ### Access to the Schools
 
-Access to the schools comes from the gods one is bound to, not from the color as a whole. Each god grants two schools (see [[_wiki_en/cosmologia/entidades_bicolores_e_cor_dominante\|dominant color]]), and a pact-bound individual accesses exactly the two schools of each entity they bind themselves to. A Shadar bound to a single devil accesses only that devil’s two schools out of the ten black schools; if they also bind themselves to a sidereal, they add his two.
+Access to the schools comes from the gods one is bound to. Each god grants two schools (see [[_wiki_en/cosmologia/entidades_bicolores_e_cor_dominante\|dominant color]]), and a pact-bound individual accesses exactly the two schools of each entity they bind themselves to. A Shadar bound to a single devil accesses only that devil’s two schools out of the ten black schools; if they also bind themselves to a sidereal, they add his two.
 
 [[_wiki_en/magia/teru\|Teru]] is the exception that encompasses the entire color, with broad versatility and shallow depth, the opposite of a pact: the practitioner accesses the ten schools of their own racial color without a divine bond, because the color’s key emotion already inhabits their soul.

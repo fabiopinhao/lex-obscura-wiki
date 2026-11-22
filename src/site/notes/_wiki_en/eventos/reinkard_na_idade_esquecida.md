@@ -4,7 +4,7 @@
 
 # Reinkard in the Forgotten Age
 
-Before the counting of the eras, [[_wiki_en/locais/reinkard\|Reinkard]] belonged to the [[_wiki_en/racas/luminares\|Luminars]]. Light elves and wielders of the continent’s oldest magic, they did not rule as conquerors: their supremacy was arcane and cultural, not territorial. They lived in harmony with the cycles of the earth and with the races that respected their borders, and for eras nothing disturbed the balance they maintained.
+Before the counting of the eras, [[_wiki_en/locais/reinkard\|Reinkard]] belonged to the [[_wiki_en/racas/luminares\|Luminars]]. Light elves and wielders of the continent’s oldest magic, they exercised arcane and cultural supremacy without territorial conquest or rule by conquerors. They lived in harmony with the cycles of the earth and with the races that respected their borders, and for eras nothing disturbed the balance they maintained.
 
 ### The Luminar Citadels
 

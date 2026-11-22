@@ -4,17 +4,17 @@
 
 # Aegis
 
-Aegis is the hybrid school of protection and barriers, a combination of white and blue. It creates shields, barriers, and protective auras, deflects blows, absorbs damage, reflects attacks, and manifests sentinels of force, for personal or group protection. Its key feeling is protective vigilance: the perception that something needs to be defended, now.
+Aegis is the hybrid school of protection and barriers, shared by angels and sidereals. It creates shields, barriers, and protective auras, deflects blows, absorbs damage, reflects attacks, and manifests sentinels of force, for personal or group protection. Its key feeling is protective vigilance: the perception that something needs to be defended, now.
 
 ### Principle
 
-Aegis protects through pure arcane force, and this is what distinguishes it from neighboring schools: it blocks damage, not matter, not bonds, not flow. It differs from [[_wiki_en/escolas/geo\|Geo]], which protects with real stone, from [[_wiki_en/escolas/nomos\|Nomos]], which restricts through arcane law, and from [[_wiki_en/escolas/abjuro\|Abjuro]], which negates magic. Its mechanics scale from the defensive reflex to the impenetrable sphere.
+Aegis protects through pure arcane force and blocks damage, and this is what distinguishes it from neighboring schools: [[_wiki_en/escolas/geo\|Geo]] protects with real stone, [[_wiki_en/escolas/nomos\|Nomos]] restricts through arcane law, and [[_wiki_en/escolas/abjuro\|Abjuro]] negates magic. Its mechanics scale from the defensive reflex to the impenetrable sphere.
 
 ### Practices
 
 At the simplest level, Deflection diverts a single blow at the instant the air hardens, and dissipates after impact. Shield creates a disk of force fixed in space that absorbs successive blows until it cracks and collapses. Shelter filters arcane effects before they reach the flesh, diluting curses and mitigating magical poisons. Barrier raises a semitransparent wall of force that blocks a corridor or protects a formation, impenetrable to projectiles and partially permeable to high-powered magic, and disappears when the [[_wiki_en/cosmologia/magi\|magi]] ceases.
 
-Above these come linked and reactive protections. Custody links the protector to an ally, redirecting some of the damage the protected ally receives to the caster, in the form of exhaustion and pain. Reprisal returns the blow suffered by the caster through arcane force. Cuirass covers the entire body in armor of force that follows its movements. Aegis projects a radial field that covers nearby allies, weakening with each blow absorbed. Guardian manifests a semiautonomous sentinel of force that physically interposes itself before threats. At the pinnacle, Dome creates a sphere of absolute force where nothing enters and nothing leaves, neither projectile, nor blade, nor magic, nor sound, nor air.
+Above these come linked and reactive protections. Custody links the protector to an ally, redirecting some of the damage the protected ally receives to the caster, in the form of exhaustion and pain. Reprisal returns the blow suffered by the caster through arcane force. Cuirass covers the entire body in armor of force that follows its movements. Ward projects a radial field that covers nearby allies, weakening with each blow absorbed. Guardian manifests a semiautonomous sentinel of force that physically interposes itself before threats. At the pinnacle, Dome creates a sphere of absolute force where nothing enters and nothing leaves, neither projectile, nor blade, nor magic, nor sound, nor air.
 
 ### Combinations
 

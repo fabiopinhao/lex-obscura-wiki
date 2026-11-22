@@ -4,11 +4,11 @@
 
 # Destruição de Lendalas
 
-A Destruição de Lendalas, também chamada de Queda de Lendalas, foi a destruição de uma das maiores florestas sagradas dos [[_wiki/racas/sylvano\|sylvanos]] durante as campanhas finais das Guerras Reinkárdicas. Consumida por fogo alquímico, a floresta deu lugar ao Ermo de Lendalas, um descampado cinzento que permanece estéril.
+A Destruição de Lendalas, também chamada de Queda de Lendalas, foi a destruição de uma das maiores florestas sagradas dos [[_wiki/racas/sylvano\|sylvanos]] durante as campanhas finais das Guerras Reinkárdicas.
 
 ### As Campanhas Finais
 
-A partir de cerca de trinta e nove anos atrás, com [[_wiki/locais/morvgrad\|Morvgrad]] reestruturada e os [[_wiki/organizacoes/justiciares\|Justiciares]] garantindo a nova ordem na capital, [[_wiki/personagens/arothistar\|Arothistar]] voltou ao campo de batalha com novos generais. As tropas órquicas, mais treinadas do que em qualquer momento anterior da história do Culto, formavam o grosso das legiões. Seguiram-se dez anos de conquistas devastadoras, e foi nesse período que as florestas mais densas de [[_wiki/locais/reinkard\|Reinkard]] queimaram.
+A partir de cerca de trinta e nove anos atrás, com [[_wiki/locais/morvgrad\|Morvgrad]] reestruturada e os [[_wiki/organizacoes/justiciares\|justiciares]] garantindo a nova ordem na capital, [[_wiki/personagens/arothistar\|Arothistar]] voltou ao campo de batalha com novos generais. As tropas órquicas, mais treinadas do que em qualquer momento anterior da história do Culto, formavam o grosso das legiões. Seguiram-se dez anos de conquistas devastadoras, e foi nesse período que as florestas mais densas de [[_wiki/locais/reinkard\|Reinkard]] queimaram.
 
 ### O Ermo de Lendalas
 
@@ -16,4 +16,4 @@ A partir de cerca de trinta e nove anos atrás, com [[_wiki/locais/morvgrad\|Mor
 
 ### Thal’Serin
 
-Apenas as florestas titânicas, protegidas por pactos antigos com os [[_wiki/cosmologia/titas\|Titãs]], resistiram às chamas. [[_wiki/locais/thal_serin\|Thal’Serin]] permaneceu inviolada. A estratégia do Culto manteve-se a mesma estabelecida nas primeiras investidas: esperar que a corrupção sombria realizasse o que os exércitos não conseguiam.
+Apenas as florestas titânicas, protegidas por pactos antigos com os [[_wiki/cosmologia/titas\|titãs]], resistiram às chamas. [[_wiki/locais/thal_serin\|Thal’Serin]] permaneceu inviolada. A estratégia do Culto manteve-se a mesma estabelecida nas primeiras investidas: esperar que a corrupção sombria realizasse o que os exércitos não conseguiam.

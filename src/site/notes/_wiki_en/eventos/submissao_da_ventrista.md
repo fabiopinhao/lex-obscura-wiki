@@ -4,7 +4,7 @@
 
 # Submission of Ventrista
 
-The Submission of Ventrista was the first region to fall under the Cult’s rule without a single formal battle being fought. A strip of fertile land at the base of the plateau, [[_wiki_en/locais/ventrista\|Ventrista]] was subdued by hunger, without a formal army needing to march on it, during the Reinkardic Wars.
+The Submission of Ventrista was the fall of [[_wiki_en/locais/ventrista\|Ventrista]], a strip of fertile land at the base of the plateau, during the Reinkardic Wars. Subdued by hunger, Ventrista was the first region to fall under the Cult’s rule without a single formal battle being fought.
 
 ### Fertile Land, a Nearby Target
 
@@ -12,9 +12,9 @@ Irrigated by the [[_wiki_en/locais/rio_parveni\|river Parveni]], Ventrista was t
 
 ### The Siege of Hunger
 
-Groups of [[_wiki_en/racas/orc\|orcs]] descended from the plateau in ever larger bands. Without the dragons that had once hunted them in the [[_wiki_en/locais/dorsal\|Dorsal]], nothing held back the flow from the north any longer, and the [[_wiki_en/racas/shadar\|Shadars]] channeled it with precision: they facilitated passage, chose the targets, and coordinated the plunder. The villages that resisted were razed; those that submitted received an offer: pay tribute in grain, salted meat, leather, beer, and raw iron, and the raids would cease. The alternative was obvious.
+Groups of [[_wiki_en/racas/orc\|orcs]] descended from the plateau in ever larger bands. Without the dragons that had once hunted them in the [[_wiki_en/locais/dorsal\|Dorsal]], nothing held back the flow from the north any longer, and the [[_wiki_en/racas/shadar\|Shadars]] channeled it with precision: they facilitated passage, chose the targets, and coordinated the plunder. The villages that resisted were razed; those that submitted received an offer: pay tribute in grain, salted meat, leather, beer, and raw iron, and the raids would cease.
 
-The tribute fed not only Morvgrad but also a specific project: the domestication and expanded breeding of goblinoids in the perimeter fortresses, creatures that within a few years would become the logistical machinery of the dark war machine.
+The tribute fed Morvgrad and also a specific project: the domestication and expanded breeding of goblinoids in the perimeter fortresses, creatures that within a few years would become the logistical machinery of the dark war machine.
 
 ### The Two Flows
 

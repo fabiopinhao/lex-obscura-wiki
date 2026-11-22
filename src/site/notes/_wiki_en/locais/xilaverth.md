@@ -8,7 +8,7 @@ Xilaverth is a [[_wiki_en/racas/drul\|Drul]] citadel in western [[_wiki_en/locai
 
 ### Diplomacy
 
-[[_wiki_en/personagens/nylothrae_durzken\|Nylothrae Durzken]], of [[_wiki_en/organizacoes/casa_durzken\|House Durzken]], conducts secret diplomacy with Xilaverth. The goal is not conquest, but indebtedness: to accumulate obligations rather than territories, turning debts into leverage for the opportune moment. The caverns of the west, with their poor soil and rats, matter less than the promise of a favor owed.
+[[_wiki_en/personagens/nylothrae_durzken\|Nylothrae Durzken]], of [[_wiki_en/organizacoes/casa_durzken\|House Durzken]], conducts secret diplomacy with Xilaverth. The goal is indebtedness: to accumulate obligations rather than territories, turning debts into leverage for the opportune moment. The caverns of the west, with their poor soil and numerous rats, matter less than the promise of a favor owed.
 
 ### The Caravan
 

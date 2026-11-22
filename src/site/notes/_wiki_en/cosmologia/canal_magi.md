@@ -8,7 +8,7 @@ The [[_wiki_en/cosmologia/magi\|magi]] channel, also called the arcane channel o
 
 ### Nature
 
-The channel is not permanent. It forms during the invocation and dissolves when the spellcasting ends: it is an event, not a place, and each invocation generates its own, carrying the signature of the arcane school used and of the entity that responds. No channel is permanently open, and the pact-holder is not a conduit always connected to their god; each invocation is an opening and each ending a closing. Frequent use can make opening the channel almost reflexive for experienced practitioners, but the flow is never continuous.
+The channel is not permanent. It forms during the invocation and dissolves when the spellcasting ends: it is an event, not a place, and each invocation generates its own, carrying the signature of the arcane school used and of the entity that responds. The pact-holder is not a conduit always connected to their god; each invocation is an opening and each ending a closing. Frequent use can make opening the channel almost reflexive for experienced practitioners, but the flow is never continuous.
 
 ### Operation by Access System
 
@@ -18,7 +18,7 @@ The channel operates differently according to the bond. In [[_wiki_en/magia/pact
 
 ### Entity Agency
 
-The existential plane responds automatically to any valid communication, which combines a compatible color, a key emotion, and the correct invocation. This is the basic mechanism and the only one Teru uses. In pact systems, however, the bound entity can exercise agency over the response, amplifying, distorting, or blocking it. The Teru practitioner, by contrast, is invisible to the god: there is no bond or mechanism for intervention, and the plane responds on its own. It is, by nature, the most stable and least powerful system.
+The existential plane responds automatically to any valid communication, which combines a compatible color, a key emotion, and the correct invocation. This is the basic mechanism and the only one Teru uses. In pact systems, however, the bound entity can exercise agency over the response, amplifying, distorting, or blocking it. The Teru practitioner, by contrast, is invisible to the god: there is no bond or mechanism for intervention, and the plane responds on its own. Teru is, by nature, the most stable and least powerful system.
 
 ### Artifact Channels
 
@@ -30,7 +30,7 @@ The channel can be blocked, suppressed, or severed. The [[_wiki_en/artefatos/gri
 
 ### Sealed Planes
 
-When a god is imprisoned on its own existential plane, as is the case with [[_wiki_en/panteao/vozrador\|Vozrador]], sealed about fifty-five years ago, the seal blocks the plane’s interface with the outside and the automatic response ceases. The seal blocks the plane, not the school: Vozrador’s schools remain accessible through other gods who share them, since the school is a universal pattern and the plane is a particular instance. The pact-holders of a sealed god lose access to magi channeling, although the fate of the pact itself remains disputed between those who consider it broken and those who see it persisting as a weakened scar.
+When a god is imprisoned on its own existential plane, as is the case with [[_wiki_en/panteao/vozrador\|Vozrador]], sealed about fifty-five years ago, the seal blocks the plane’s interface with the outside and the automatic response ceases. The blockage is limited to the plane: Vozrador’s schools remain accessible through other gods who share them, since the school is a universal pattern and the plane is a particular instance. The pact-holders of a sealed god lose access to magi channeling, although the fate of the pact itself remains disputed between those who consider it broken and those who see it persisting as a weakened scar.
 
 ### Decline
 

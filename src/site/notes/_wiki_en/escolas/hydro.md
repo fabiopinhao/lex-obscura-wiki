@@ -4,11 +4,11 @@
 
 # Hydro
 
-Hydro is the hybrid school of magic that manipulates existing water. It governs the domain of water and currents with greater precision than any school that affects matter in general. It requires proximity to a body of water or moisture, but compensates for this dependence with versatility ranging from the utilitarian to the geological. Its underlying feeling is the inclination to yield and circumvent, the perception that resistance is an obstacle to be eroded, not confronted.
+Hydro is the hybrid school of magic that manipulates existing water. It governs the domain of water and currents with greater precision than any school that affects matter in general. It requires proximity to a body of water or moisture, but compensates for this dependence with versatility ranging from the utilitarian to the geological. Its underlying feeling is the inclination to yield and circumvent, the perception that resistance is an obstacle to be eroded.
 
 ### Principle
 
-The school does not create water: it commands what already exists, or what it can extract from the air, the soil, and bodies. Its specialization sets it apart from related schools: [[_wiki_en/escolas/cryo\|Cryo]] works with ice, [[_wiki_en/escolas/aero\|Aero]] works with air, and Hydro stays with liquid. Even a blade of water is enough to cut, and a span of rushing water is enough to knock down anyone who steps into it.
+The school commands water that already exists, or water it can extract from the air, the soil, and bodies, without creating it. Its specialization sets it apart from related schools: [[_wiki_en/escolas/cryo\|Cryo]] works with ice, [[_wiki_en/escolas/aero\|Aero]] works with air, and Hydro stays with liquid. Even a blade of water is enough to cut, and a span of rushing water is enough to knock down anyone who steps into it.
 
 ### Practices
 
@@ -18,7 +18,7 @@ On larger scales, Bubble imprisons the target in a suspended sphere where they s
 
 ### Costs
 
-The thematic cost is severe dehydration, dry mouth and skin, lasting from five minutes to four hours; Deluge exacts a paradoxical dehydration, in which the body gives up water while the spell multiplies it. The ontological cost is emotional fluidity: feelings shift like tides, and emotional stability becomes impossible. In the advanced stages, the practitioner takes the shape of the nearest emotional vessel, and their loyalty becomes unverifiable, potentially switching sides without realizing it themselves, at which point they are discarded in a silent Transfer. For this reason, the [[_wiki_en/organizacoes/imperio_sombrio\|Empire]] recruits practitioners only for short-term roles and missions where loyalty is not critical.
+The thematic cost is severe dehydration, dry mouth and skin, lasting from five minutes to four hours; Deluge exacts a paradoxical dehydration, in which the body gives up water while the spell multiplies it. The ontological cost is emotional fluidity: feelings shift like tides, and emotional stability becomes impossible. In the advanced stages, the practitioner takes the shape of the nearest emotional vessel, and their loyalty becomes unverifiable: they may switch sides without realizing it themselves, at which point they are discarded in a silent Transfer. For this reason, the [[_wiki_en/organizacoes/imperio_sombrio\|Empire]] recruits practitioners only for short-term roles and missions where loyalty is not critical.
 
 ### Combinations
 
@@ -26,4 +26,4 @@ With Cryo, Mist saturates the air with moisture that turns into thin ice on ever
 
 ### Antagonistic Pair
 
-Hydro opposes Pyro: water extinguishes and circumvents what fire devours and consumes. The natural defense of one is the domain of the other, and what Deluge floods, Tidal Wave erases.
+Hydro opposes Pyro: water extinguishes and circumvents what fire devours and consumes. The natural defense of one is the domain of the other.

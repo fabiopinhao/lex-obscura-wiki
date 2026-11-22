@@ -8,7 +8,7 @@ As trinta escolas de magia conhecidas organizam-se em quinze pares antagônicos,
 
 ### Oposição e Interferência
 
-Os pares antagônicos indicam oposição temática e interferência preferencial, não anulação absoluta. Em confronto direto há resistência mútua, aumento de custo ou dissipação parcial, nunca cancelamento automático; o ambiente, o preparo e a maestria do conjurador influenciam o resultado.
+Os pares antagônicos indicam oposição temática e interferência preferencial. Em confronto direto há resistência mútua, aumento de custo ou dissipação parcial, sem cancelamento automático; o ambiente, o preparo e a maestria do conjurador influenciam o resultado.
 
 ### Oposições Elementais
 

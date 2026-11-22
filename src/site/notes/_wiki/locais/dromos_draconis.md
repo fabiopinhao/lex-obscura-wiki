@@ -4,7 +4,7 @@
 
 # Dromos Draconis
 
-O Dromos Draconis, também chamado Coliseu Dromos Draconis, foi um coliseu de combate gladiatorial na região de [[_wiki/locais/morvgrad\|Morvgrad]]. Suas arenas estão extintas: foram suprimidas pelo [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], e a ausência de qualquer registro vivo aponta para um ato político deliberado, não para simples abandono.
+O Dromos Draconis, também chamado Coliseu Dromos Draconis, foi um coliseu de combate gladiatorial na região de [[_wiki/locais/morvgrad\|Morvgrad]]. Suas arenas estão extintas: foram suprimidas pelo [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], e a ausência de qualquer registro vivo aponta para um ato político deliberado.
 
 ### A Arena
 
@@ -14,7 +14,7 @@ No dromo, o circuito oval da arena, condenados eram perseguidos por [[_wiki/cria
 
 ### História
 
-As arenas do Dromos Draconis pertencem a um tempo que o Conselho Sombrio enterrou junto com elas. A supressão apagou a prática do combate gladiatorial daquela região, e o coliseu sobrevive hoje apenas como referência a uma era encerrada.
+As arenas do Dromos Draconis pertencem a um tempo que o Conselho Sombrio enterrou junto com elas. A supressão apagou a prática do combate gladiatorial daquela região.
 
 ### Vestígios
 

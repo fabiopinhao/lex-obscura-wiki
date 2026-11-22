@@ -4,7 +4,7 @@
 
 # Karanthia
 
-Karanthia é uma província imperial na costa sul-oriental de [[_wiki/locais/reinkard\|Reinkard]], a leste de [[_wiki/locais/valdris\|Valdris]], sob domínio do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Terra pobre e distante de [[_wiki/locais/morvgrad\|Morvgrad]], é uma das regiões que o planalto governa mais por inércia do que por interesse.
+Karanthia é uma província imperial na costa sul-oriental de [[_wiki/locais/reinkard\|Reinkard]], a leste de [[_wiki/locais/valdris\|Valdris]], sob domínio do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Terra pobre e distante de [[_wiki/locais/morvgrad\|Morvgrad]], é uma das regiões que o planalto governa por inércia.
 
 ### Geografia e Posição
 
@@ -12,7 +12,7 @@ Onde Valdris tem porto e sal, Karanthia tem o litoral que ninguém disputa: terr
 
 ### O Caldeirão do Sul
 
-O que define a província não é território nem riqueza, mas sangue. A reputação imperial a descreve como a terra onde o sangue se mistura como especiarias em mercado fronteiriço: pindoriares de linhagens diversas, descendentes de soldados desertores, refugiados de conflitos que o Império esqueceu, mestiços de origens que Morvgrad prefere não catalogar. Não há elfos em Karanthia; a província é inteiramente humana, mas de uma humanidade que o planalto não reconhece como pura. Para a hierarquia racial [[_wiki/racas/shadar\|shadar]], é impura por definição, e um karanthiano em Morvgrad carrega o estigma antes de abrir a boca.
+A reputação imperial descreve Karanthia como a terra onde o sangue se mistura como especiarias em mercado fronteiriço: pindoriares de linhagens diversas, descendentes de soldados desertores, refugiados de conflitos que o Império esqueceu, mestiços de origens que Morvgrad prefere não catalogar. Não há elfos em Karanthia; a província é inteiramente humana, mas de uma humanidade que o planalto não reconhece como pura. Para a hierarquia racial [[_wiki/racas/shadar\|shadar]], é impura por definição, e um karanthiano em Morvgrad carrega o estigma antes de abrir a boca. Mesmo entre pindoriares, os do sul profundo ocupam o degrau mais baixo: gente de fronteira e de sangue incerto.
 
 ### Província Abandonada
 
@@ -20,4 +20,4 @@ O Império domina Karanthia nos decretos. Na prática, a guarnição é mínima,
 
 ### Estigma e Ambição
 
-A marginalidade karanthiana produz dois tipos de gente: os que aceitam o esquecimento e os que buscam caminhos violentos para escapar dele. Que [[_wiki/personagens/maraxus\|Maraxus]] tenha alcançado o posto de chefe da guarda em [[_wiki/locais/niedellin\|Niedellin]], nominalmente reservado a shadars, diz menos sobre a província e mais sobre o que um homem do sul profundo é capaz de fazer quando o mundo não lhe oferece nada.
+A marginalidade karanthiana produz dois tipos de gente: os que aceitam o esquecimento e os que buscam caminhos violentos para escapar dele. A ascensão de [[_wiki/personagens/maraxus\|Maraxus]] ao posto de chefe da guarda em [[_wiki/locais/niedellin\|Niedellin]], nominalmente reservado a shadars, mostra o que um homem do sul profundo é capaz de fazer quando o mundo não lhe oferece nada.

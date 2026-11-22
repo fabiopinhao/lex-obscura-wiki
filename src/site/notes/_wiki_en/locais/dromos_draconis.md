@@ -4,7 +4,7 @@
 
 # Dromos Draconis
 
-Dromos Draconis, also called Dromos Draconis Coliseum, was a coliseum for gladiatorial combat in the region of [[_wiki_en/locais/morvgrad\|Morvgrad]]. Its arenas are defunct: they were suppressed by the [[_wiki_en/organizacoes/conselho_sombrio\|Shadow Council]], and the absence of any surviving record points to a deliberate political act, not simple abandonment.
+Dromos Draconis, also called Dromos Draconis Coliseum, was a coliseum for gladiatorial combat in the region of [[_wiki_en/locais/morvgrad\|Morvgrad]]. Its arenas are defunct: they were suppressed by the [[_wiki_en/organizacoes/conselho_sombrio\|Shadow Council]], and the absence of any surviving record points to a deliberate political act.
 
 ### The Arena
 
@@ -14,7 +14,7 @@ On the drome, the arena’s oval circuit, the condemned were pursued by smaller 
 
 ### History
 
-The arenas of Dromos Draconis belong to a time that the Shadow Council buried along with them. The suppression erased the practice of gladiatorial combat from that region, and the coliseum survives today only as a reference to an era that has ended.
+The arenas of Dromos Draconis belong to a time that the Shadow Council buried along with them. The suppression erased the practice of gladiatorial combat from that region.
 
 ### Traces
 

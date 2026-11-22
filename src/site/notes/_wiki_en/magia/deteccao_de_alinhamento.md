@@ -8,7 +8,7 @@ Alignment detection is the specialized magic that reveals the spiritual mark lef
 
 ### Applications
 
-The ability is strategic, and those who master it are highly valued. Hierophants and inquisitors trained in it identify traitors, spies, and false devotees. The [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]] maintains detectors at key posts, and Ardorados are among the easiest targets: their color is visible to those who know how to look.
+The ability is strategic, and those who master it are highly valued. Hierophants and Inquisitors trained in it identify traitors, spies, and false devotees. The [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]] maintains detectors at key posts, and Ardorados are among the easiest targets: their color is visible to those who know how to look.
 
 ### Imperial Screening
 
@@ -16,4 +16,4 @@ The same ability underpins talent screening in [[_wiki_en/organizacoes/imperio_s
 
 ### Limitations
 
-The reading has limits. It reveals the existence of a pact, not the content of its clauses. Pacts made with dead or imprisoned gods may produce ambiguous readings, and certain artifacts or rituals mask the mark for some time.
+The reading reveals the existence of a pact, not the content of its clauses. Pacts made with dead or imprisoned gods may produce ambiguous readings, and certain artifacts or rituals mask the mark for some time.

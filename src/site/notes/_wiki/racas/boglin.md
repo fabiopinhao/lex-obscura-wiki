@@ -4,7 +4,7 @@
 
 # Boglin
 
-Os boglins são [[_wiki/racas/ranidano\|ranidanos]] de porte gnômico, descendentes da linhagem queloniana: tartarugas humanoides protegidas por um casco dorsal. São os menores e mais reclusos habitantes de [[_wiki/locais/neranthis\|Neranthis]], avistados com menos frequência que qualquer outra raça do continente.
+Os boglins são [[_wiki/racas/ranidano\|ranidanos]] de porte gnômico, descendentes da linhagem queloniana: tartarugas humanoides. São os menores e mais reclusos habitantes de [[_wiki/locais/neranthis\|Neranthis]], avistados com menos frequência que qualquer outra raça do continente.
 
 ### Natureza
 
@@ -12,7 +12,7 @@ Subgrupo de porte menor dos ranidanos, os boglins raramente ultrapassam um metro
 
 ### Fisiologia
 
-A estatura fica entre 0,80m e 1,10m, com membros curtos e robustos e mãos de cinco dedos funcionais, de destreza superior à dos saags. O casco dorsal cobre das escápulas à base da coluna, espesso o bastante para defletir flechas e golpes de lâminas leves, e a cabeça pode se retrair parcialmente sob a borda superior do casco, reflexo defensivo involuntário que os boglins executam antes de qualquer decisão consciente. A pele é coriácea, em tons pardos, oliváceos ou acinzentados, e os olhos, menores e mais frontais que os dos saags, têm visão adaptada a ambientes de pouca luz. A longevidade, de 40 a 50 anos, é inferior à dos saags. A dependência de umidade é compartilhada com a família, embora o casco ofereça proteção parcial contra a dessecação, estendendo por algumas horas a tolerância a ambientes secos.
+A estatura fica entre 0,80 m e 1,10 m, com membros curtos e robustos e mãos de cinco dedos funcionais, de destreza superior à dos saags. O casco dorsal cobre das escápulas à base da coluna, espesso o bastante para defletir flechas e golpes de lâminas leves, e a cabeça pode se retrair parcialmente sob a borda superior do casco, reflexo defensivo involuntário que os boglins executam antes de qualquer decisão consciente. A pele é coriácea, em tons pardos, oliváceos ou acinzentados, e os olhos, menores e mais frontais que os dos saags, têm visão adaptada a ambientes de pouca luz. A longevidade, de 40 a 50 anos, é inferior à dos saags. A dependência de umidade é compartilhada com a família, embora o casco ofereça proteção parcial contra a dessecação, estendendo por algumas horas a tolerância a ambientes secos.
 
 ### Telepatia Limitada
 
@@ -20,4 +20,4 @@ Os boglins compartilham a capacidade telepática ranidana, mas em grau atenuado.
 
 ### Comportamento e Papel
 
-Reclusos por temperamento e por circunstância, os boglins habitam as regiões interiores mais remotas de Neranthis, em charcos rasos e margens lodosas onde outras raças não se aventuram. A retração sob o casco não é só reflexo físico, mas disposição social: os boglins evitam contato, exposição e atenção. A estratégia funciona, e são a raça menos documentada de Neranthis e possivelmente de todo o mundo conhecido.
+Reclusos por temperamento e por circunstância, os boglins habitam as regiões interiores mais remotas de Neranthis, em charcos rasos e margens lodosas onde outras raças não se aventuram. A retração sob o casco é também disposição social: os boglins evitam contato, exposição e atenção. Por isso, são a raça menos documentada de Neranthis e possivelmente de todo o mundo conhecido.

@@ -6,14 +6,14 @@
 
 O Templo de [[_wiki/panteao/vozrador\|Vozrador]] é uma ruína da [[_wiki/conceitos/primeira_era\|Primeira Era]] num distrito de [[_wiki/locais/morvgrad\|Morvgrad]] hoje abandonado e interditado por ordem do monarca. É construção de uma época em que a pedra obedecia ao canto, não ao cinzel, e guarda um enigma que ninguém soube explicar.
 
-### O anacronismo
+### O Anacronismo
 
 O templo foi selado antes do [[_wiki/conceitos/protocolo_iconografico_da_coroa\|Protocolo Iconográfico da Coroa]], e ainda assim uma efígie de [[_wiki/personagens/arothistar\|Arothistar]] vigia a ruína. A imagem não deveria existir ali. Resta a pergunta de por que a efígie do monarca guarda o santuário de um deus que ele aprisionou.
 
-### Vozrador e a ruína
+### Vozrador e a Ruína
 
 Em vida de culto, Vozrador tinha uma característica única entre os [[_wiki/cosmologia/diabos\|diabos]]: só aceitava um [[_wiki/organizacoes/templarios\|templário]] por vez, enquanto os demais templos mantinham vários, alguns sete ou oito. Quando [[_wiki/personagens/orum-rahru\|Orum-Rahru]] investigou o lugar, encontrou-o infestado de mortos-vivos, fruto da necromancia que [[_wiki/personagens/qaelun\|Qaelun]] operava entre as ruínas.
 
-### O interior
+### O Interior
 
 O salão de entrada guarda caixões, uns de pé e outros deitados, feitos ossuário. O piso é de basalto, em lajes ciclópicas encaixadas sem argamassa. Nas sombras altas entre os arcos, as gárgulas têm a forma do próprio Vozrador; Orum se lembra delas saltando sobre intrusos e não sabe se ainda estão ativas. A nave foi projetada para amplificar ecos rítmicos, usados nos ritos para marcar litanias e silêncios.

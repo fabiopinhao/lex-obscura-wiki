@@ -4,11 +4,11 @@
 
 # Orcanic
 
-Orcanic is the language of the [[_wiki_en/racas/orc\|orcs]], used both in everyday speech and in berserker and shamanic rituals. Monosyllabic by preference and polysyllabic only by necessity, it is made up of hard, aspirated consonants (*kh*, *gh*, *hrr*) and open, shouted vowels. It has no quiet tone: it was shaped for battlefields, not for intimate conversations.
+Orcanic is the language of the [[_wiki_en/racas/orc\|orcs]], used both in everyday speech and in berserker and shamanic rituals. Monosyllabic by preference and polysyllabic only by necessity, it is made up of hard, aspirated consonants (*kh*, *gh*, *hrr*) and open, shouted vowels. It has no quiet tone because it was shaped for battlefields.
 
 ### Register and Ritual
 
-There is no real separation between the everyday and sacred forms, only between speed and intent: the same language serves to bark orders and to channel [[_wiki_en/cosmologia/demonios\|demons]] under [[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]], and the difference lies in the cadence. In the berserker register, grammar disintegrates as fury escalates, and entire sentences break down into explosive monosyllables, as though the language were accompanying the speaker back to instinct. Shamans warn that prolonged exposure to this register erodes mental stability, a cost that comes not from the language but from the fury it channels. Demons that answer the call can distort the language during channeling, forcing the caster to improvise from one invocation to the next.
+The everyday and sacred forms differ only in speed and intent: the same language serves to bark orders and to channel [[_wiki_en/cosmologia/demonios\|demons]] under [[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]], and the difference lies in the cadence. In the berserker register, grammar disintegrates as fury escalates, and entire sentences break down into explosive monosyllables, as though the language were accompanying the speaker back to instinct. Shamans warn that prolonged exposure to this register erodes mental stability, a cost that comes from the fury the language channels. Demons that answer the call can distort the language during channeling, forcing the caster to improvise from one invocation to the next.
 
 ### Writing and Grammar
 

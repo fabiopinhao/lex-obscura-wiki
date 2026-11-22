@@ -12,10 +12,10 @@ A Muran with rodent fur and the gauntness of hunger, his thin tail skimming the 
 
 ### Philosophy
 
-Skanivik is driven by a pragmatic ethic of survival, tempered by self-mockery about his own species: to him, having a choice is a luxury reserved for those who were not born with a rat’s tail. The comic grandiloquence of his self-given nickname speaks more to cunning than strength.
+Skanivik is driven by a pragmatic ethic of survival, tempered by self-mockery about his own species: to him, having a choice is a luxury reserved for those who were not born with a rat’s tail. The comic grandiloquence of his self-given nickname is that of someone who survives by cunning.
 
 His whiskers display what he knows and hides. The left one twitches on its own when he fabricates a lie; both vibrate together in the face of danger, like antennae before a storm. Between one extreme and the other, they bristle with indignation when others get his name wrong and tremble with fear. After closing a crooked deal, he adjusts the collar, sleeve, or cloak of the person he has just deceived: false intimacy offered as a courtesy, at the moment when he has already taken what he wanted, and the only form of affection he produces.
 
 ### Relationships
 
-He was employed by the necromancer [[_wiki_en/personagens/qaelun\|Qaelun]], whom he eventually betrayed, and whom Orum killed: to Skanivik, loyalty is a commodity, not a value. His relationship with Orum-Rahru arose from coercion and ended in liberation, a rare outcome among the Justiciars.
+He was employed by the necromancer [[_wiki_en/personagens/qaelun\|Qaelun]], whom he eventually betrayed, and whom Orum killed: to Skanivik, loyalty is a commodity. His relationship with Orum-Rahru arose from coercion and ended in liberation, a rare outcome among the Justiciars.

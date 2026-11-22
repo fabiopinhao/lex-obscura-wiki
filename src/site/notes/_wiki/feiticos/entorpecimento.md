@@ -6,6 +6,6 @@
 
 O Entorpecimento é um feitiço da escola do [[_wiki/escolas/cryo\|Cryo]], de escala Menor, um frio que desacelera e degrada: dedos que não fecham, músculos que respondem tarde, reflexos que falham. É o prelúdio de tudo o que o Cryo faz.
 
-### Distinção e custo
+### Distinção e Custo
 
 Difere do Lapso, da escola do [[_wiki/escolas/chrono\|Chrono]], que retarda por manipulação temporal. O Entorpecimento retarda por hipotermia: o frio penetra de fora. O custo é um tremor nas mãos do conjurador.

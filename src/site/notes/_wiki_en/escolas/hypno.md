@@ -4,11 +4,11 @@
 
 # Hypno
 
-Hypno is the hybrid school of sleep and hypnosis magic. A combination of green and blue, it suppresses consciousness without invading it: it lulls the will to sleep instead of subjugating it, and the target yields without knowing it should resist. Its foundational feeling is comfort at the threshold between wakefulness and sleep, the boundary treated as a habitat, not a passage.
+Hypno is the hybrid school of sleep and hypnosis magic. Shared by titans and sidereals, it lulls the target’s will to sleep, and the target yields without knowing it should resist. Its foundational feeling is comfort at the threshold between wakefulness and sleep.
 
 ### Principle
 
-The school’s central question is “am I awake?”. This separates it from its mental neighbors: [[_wiki_en/escolas/spectro\|Spectro]] asks “is this real?” and [[_wiki_en/escolas/psycho\|Psycho]] asks “is this my thought?”. Where Psycho invades consciousness, Hypno suppresses it; it is domination versus lulling to sleep. The school acts on the boundary between sleep and wakefulness, and those who master it learn to inhabit this threshold.
+The school’s central question is “am I awake?”. This separates it from its mental neighbors: [[_wiki_en/escolas/spectro\|Spectro]] asks “is this real?” and [[_wiki_en/escolas/psycho\|Psycho]] asks “is this my thought?”. The school acts on the boundary between sleep and wakefulness, and those who master it learn to inhabit this threshold.
 
 ### Practices
 
@@ -18,7 +18,7 @@ At deeper levels, Nightmare allows the caster to enter a sleeper’s dream as a 
 
 ### Costs
 
-The thematic cost is profound exhaustion and irresistible drowsiness, lasting from ten minutes to eight hours. The ontological cost is the erosion of the boundary between sleep and wakefulness: dreams become too vivid and wakefulness clouded. In the advanced stages, the practitioner ceases to distinguish what they dreamed from what they experienced, until reality becomes a continuous dream; at that point they are taken away, their testimony loses legal value, and they begin living in isolation in a chamber of perpetual sleep, awake only for specific missions. The [[_wiki_en/organizacoes/imperio_sombrio\|Empire]] recruits practitioners as [[_wiki_en/organizacoes/ophideias\|Ophideias]] for silent neutralization.
+The thematic cost is profound exhaustion and irresistible drowsiness, lasting from ten minutes to eight hours. The ontological cost is the erosion of the boundary between sleep and wakefulness: dreams become too vivid and wakefulness clouded. In the advanced stages, the practitioner ceases to distinguish what they dreamed from what they experienced, until reality becomes a continuous dream; at that point they are taken away, their testimony loses legal value, and they begin living in isolation in a chamber of perpetual sleep, awake only for specific missions. The [[_wiki_en/organizacoes/imperio_sombrio\|Empire]] recruits practitioners as [[_wiki_en/organizacoes/ophideias\|ophideias]] for silent neutralization.
 
 ### Combinations
 

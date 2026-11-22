@@ -4,27 +4,27 @@
 
 # Guerras Raciais
 
-As Guerras Raciais, também chamadas Guerra dos Deuses ou Primeira Carnificina, são o estrato mais antigo da história de [[_wiki/locais/reinkard\|Reinkard]]: uma disputa entre deuses travada com carne em vez de palavras, anterior a tratados, fronteiras e qualquer estratégia organizada. Delas nasceram as raças de humanoides híbridos, e seu legado biológico atravessa todas as eras posteriores. O evento não possui documentação direta e é reconstruído por fragmentos de tradição oral, vestígios arqueológicos e inferência teológica; cada raça guarda sua própria versão, e nenhuma é completa.
+As Guerras Raciais, também chamadas Guerra dos Deuses ou Primeira Carnificina, são o estrato mais antigo da história de [[_wiki/locais/reinkard\|Reinkard]]: uma disputa entre deuses travada com carne em vez de palavras, anterior a tratados, fronteiras e qualquer estratégia organizada. Delas nasceram as raças de humanoides híbridos, e seu legado biológico atravessa todas as eras posteriores. Cada raça guarda sua própria versão do evento, e nenhuma é completa.
 
 ### Natureza do Evento
 
-O termo “guerra” é impreciso. Os deuses intervieram diretamente no plano material, cruzando humanos primitivos e animais selvagens para produzir soldados alinhados às suas [[_wiki/cosmologia/cor_arcana\|cores arcanas]]. O resultado foram os humanoides híbridos: raças com força bestial, instinto de combate e alinhamento divino inato. A interferência não foi sutil nem gradual, mas manipulação direta de sangue e forma, fundindo humano e animal numa única geração.
+O termo “guerra” é impreciso. Os deuses intervieram diretamente no plano material, cruzando humanos primitivos e animais selvagens para produzir soldados alinhados às suas [[_wiki/cosmologia/cor_arcana\|cores arcanas]]. O resultado foram os humanoides híbridos: raças com força bestial, instinto de combate e alinhamento divino inato. A interferência foi manipulação direta de sangue e forma, fundindo humano e animal numa única geração.
 
-### As Cores e suas Raças
+### As Cores e Suas Raças
 
 Cada cor arcana produziu suas raças:
 
-- **Preto (Diabólico):** [[_wiki/racas/vulfano\|Vulfanos]], de linhagem canina
-- **Vermelho (Demoníaco):** [[_wiki/racas/sauriano\|Saurianos]], répteis
-- **Verde ([[_wiki/linguas/titanico\|Titânico]]):** [[_wiki/racas/lynxiano\|Lynxianos]], felinos
-- **Branco (Angelical):** [[_wiki/racas/aviano\|Avianos]], aves
-- **Azul (Sideral):** [[_wiki/racas/ranidano\|Ranidanos]], anfíbios
+- **Diabólicos:** [[_wiki/racas/vulfano\|vulfanos]], de linhagem canina
+- **Demoníacos:** [[_wiki/racas/sauriano\|saurianos]], répteis
+- **[[_wiki/cosmologia/titas\|Titânicos]]:** [[_wiki/racas/lynxiano\|lynxianos]], felinos
+- **Angelicais:** [[_wiki/racas/aviano\|avianos]], aves
+- **Siderais:** [[_wiki/racas/ranidano\|ranidanos]], anfíbios
 
 Humanos puros não são alinhados racialmente a nenhuma cor; os híbridos, sim. Essa distinção é a marca mais visível da interferência divina: o humano era o material bruto, e os deuses moldaram a partir dele variações alinhadas a si mesmos.
 
 ### Escala e Fim
 
-As raças híbridas permaneceram pré-civilizacionais, operando por instinto e alinhamento divino, sem cidades, escrita ou governo. Mais fortes na luta direta que humanos puros, jamais converteram força bruta em estrutura política. Os conflitos eram dispersos e sem objetivo permanente: matilhas contra bandos, cor contra cor. As Guerras terminaram sem armistício e sem vencedor; os deuses simplesmente recuaram. As razões permanecem disputadas entre teólogos e arcanistas: perda de interesse, equilíbrio atingido ou impossibilidade de vitória definitiva no plano material. O legado biológico, porém, ficou.
+As raças híbridas permaneceram pré-civilizacionais, operando por instinto e alinhamento divino, sem cidades, escrita ou governo. Mais fortes na luta direta que humanos puros, jamais converteram força bruta em estrutura política. Os conflitos eram dispersos e sem objetivo permanente: matilhas contra bandos, cor contra cor. As Guerras terminaram sem armistício e sem vencedor; os deuses simplesmente recuaram. As razões permanecem disputadas entre teólogos e arcanistas: perda de interesse, equilíbrio atingido ou impossibilidade de vitória definitiva no plano material.
 
 ### Consequências de Longo Prazo
 

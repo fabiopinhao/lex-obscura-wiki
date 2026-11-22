@@ -12,7 +12,7 @@ A widespread belief holds that angels are the only gods to share their planes of
 
 ### Access System
 
-The bond with angels operates through [[_wiki_en/magia/devotio_sancta\|Devotio Sancta]]: genuine devotion channeled into prayers, dogmas, and sacred rituals. Angels grant power through faith, not through a contract or a bond of force. The more genuine the devotion, the more generous the response; transgression of the moral code results in an immediate loss of power, and doubt weakens magic.
+The bond with angels operates through [[_wiki_en/magia/devotio_sancta\|Devotio Sancta]]: genuine devotion channeled into prayers, dogmas, and sacred rituals. Angels grant power only through faith, without a contract or a bond of force. The more genuine the devotion, the more generous the response; transgression of the moral code results in an immediate loss of power, and doubt weakens magic.
 
 ### The Álvarars
 
@@ -20,7 +20,7 @@ Among the most devout practitioners of Sancta emerged the [[_wiki_en/racas/alvar
 
 ### Decline in Reinkard
 
-The angels were neither defeated nor imprisoned: they lost relevance. The dominion of shadows made [[_wiki_en/locais/reinkard\|Reinkard]] inhospitable to their influence. Where the [[_wiki_en/cosmologia/titas\|titans]] negotiated pragmatic compromises, the angels refused any concession and saw their presence dwindle. [[_wiki_en/personagens/peredur\|Peredur]] formulated the judgment: “The white ones chose purity without compromise, and perished for it.” [[_wiki_en/panteao/azazel\|Azazel]] is free, but irrelevant in Reinkard, and would need a civilizational transformation to regain a presence. The luminous faith survives clandestinely on the fringes of the [[_wiki_en/organizacoes/imperio_sombrio\|Empire]], without institutional strength: [[_wiki_en/personagens/abramis\|Abramis]], priest of [[_wiki_en/locais/niedellin\|Niedellin]], is a devotee of the [[_wiki_en/organizacoes/ordem_de_azazel\|Order of Azazel]].
+The angels lost relevance without having been defeated or imprisoned. The dominion of shadows made [[_wiki_en/locais/reinkard\|Reinkard]] inhospitable to their influence. Where the [[_wiki_en/cosmologia/titas\|titans]] negotiated pragmatic compromises, the angels refused any concession and saw their presence dwindle. [[_wiki_en/personagens/peredur\|Peredur]] formulated the judgment: “The white ones chose purity without compromise, and perished for it.” [[_wiki_en/panteao/azazel\|Azazel]] is free, but irrelevant in Reinkard, and would need a civilizational transformation to regain a presence. The luminous faith survives clandestinely on the fringes of the [[_wiki_en/organizacoes/imperio_sombrio\|Empire]], without institutional strength: [[_wiki_en/personagens/abramis\|Abramis]], priest of [[_wiki_en/locais/niedellin\|Niedellin]], is a devotee of the [[_wiki_en/organizacoes/ordem_de_azazel\|Order of Azazel]].
 
 ### Named Angels
 

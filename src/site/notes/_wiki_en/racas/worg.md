@@ -4,11 +4,11 @@
 
 # Worg
 
-Worgs are large [[_wiki_en/racas/vulfano\|Vulfans]], forever trapped in a duality between man and beast. Too conscious to be wild beasts and too bestial to be accepted as people, they inhabit the threshold between civilization and savagery. They live on the outskirts of cities in [[_wiki_en/organizacoes/imperio_sombrio\|the Empire]], tolerated because they are useful and never accepted.
+Worgs are large [[_wiki_en/racas/vulfano\|Vulfans]], forever trapped in a duality between man and beast. Too conscious to be wild beasts and too bestial to be accepted as people, they inhabit the threshold between civilization and savagery. They live on the outskirts of cities in [[_wiki_en/organizacoes/imperio_sombrio\|the Empire]].
 
 ### Dual Nature
 
-Worgs are neither man nor beast, and differ from werewolves in that they do not alternate between separate forms: they are eternally trapped in their duality. The race’s origins are disputed among scholars, with no consensus. Some traditions consider them ancient shapeshifters who became trapped between forms during a corrupted ritual; others, deliberate creations of arcanists seeking soldiers who combined bestial strength and human intelligence; still others, wolves exposed to planar energies over generations. The theories are not mutually exclusive, and different lineages may have distinct origins, all perhaps later interpretations of a simpler event: the divine interference of the [[_wiki_en/eventos/guerras_raciais\|Racial Wars]], when diabolical entities crossbred humans and wild canines.
+Worgs differ from werewolves in that they do not alternate between separate forms. The race’s origins are disputed among scholars, with no consensus. Some traditions consider them ancient shapeshifters who became trapped between forms during a corrupted ritual; others, deliberate creations of arcanists seeking soldiers who combined bestial strength and human intelligence; still others, wolves exposed to planar energies over generations. The theories are not mutually exclusive, and different lineages may have distinct origins, all perhaps later interpretations of a simpler event: the divine interference of the [[_wiki_en/eventos/guerras_raciais\|Racial Wars]], when diabolical entities crossbred humans and wild canines.
 
 ### Physiology
 
@@ -24,7 +24,7 @@ Every decision a worg makes is a conflict between instinct and intellect, and ma
 
 ### Society and the Skuld
 
-In the primordial eras, worgs organized themselves into tribal packs known as Vargskol, of five to fifteen individuals, led by whoever kept the group alive and invisible, rather than through brute strength. In these packs, worgs and [[_wiki_en/racas/varglin\|Varglins]] coexisted in symbiosis. In the [[_wiki_en/conceitos/terceira_era\|Third Era]], however, the pack as a structure has practically disappeared: urban worgs live in fluid groups of convenience in outlying neighborhoods, sewers, and port areas, and migrate when a city becomes hostile.
+In the primordial eras, worgs organized themselves into tribal packs known as Vargskol, of five to fifteen individuals, led by whoever kept the group alive and invisible, without brute strength determining leadership. In these packs, worgs and [[_wiki_en/racas/varglin\|Varglins]] coexisted in symbiosis. In the [[_wiki_en/conceitos/terceira_era\|Third Era]], however, the pack as a structure has practically disappeared: urban worgs live in fluid groups of convenience in outlying neighborhoods, sewers, and port areas, and migrate when a city becomes hostile.
 
 Worg culture revolves around an informal system of debts and favors called skuld. Every favor granted is recorded by their infallible olfactory memory, and every favor received creates an obligation. Loyalty, gratitude, and honor are subject to the calculation of skuld, and the ultimate betrayal among worgs is an unpaid debt. The system functions as a parallel economy and the foundation of the informant networks and black markets where the race thrives.
 

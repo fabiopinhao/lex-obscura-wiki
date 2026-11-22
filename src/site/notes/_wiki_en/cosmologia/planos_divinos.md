@@ -4,7 +4,7 @@
 
 # Divine Planes
 
-The Divine Planes, also called Existential Planes, are the individual domains of each god, devil, demon, or angel: each entity inhabits its own plane, a dimension separate and distant from the material plane. These domains reflect the essence of their inhabitants, and there is no ontological hierarchy among them, only distinct natures that coexist.
+The Divine Planes, also called Existential Planes, are the individual domains of each god, devil, demon, or angel: each entity inhabits its own plane, a dimension separate and distant from the material plane. These domains reflect the essence of their inhabitants and coexist without any ontological hierarchy among them.
 
 ### Cosmological Structure
 
@@ -12,7 +12,7 @@ The universe consists of three categories of planes. [[_wiki_en/locais/thamakard
 
 ### Proximity to the Material Plane
 
-The distance between each divine category and Thamakard is not geographical but functional: it is measured by each group’s degree of interest in, presence in, and influence over the world of mortals. The [[_wiki_en/cosmologia/titas\|titans]] are the closest and inhabit the periphery of the material plane. The [[_wiki_en/cosmologia/siderais\|sidereals]] wander through the ethereal plane. [[_wiki_en/cosmologia/anjos\|Angels]], [[_wiki_en/cosmologia/diabos\|devils]], and [[_wiki_en/cosmologia/demonios\|demons]] inhabit distant planes of their own. The demonic planes are described as true hells, landscapes of fire, blood, and perpetual ruin; the angelic ones, described by the devout as wonderful and perfect; the diabolical ones, hidden and shrouded in mystery. The sidereals are unique: they have no plane of their own and permanently inhabit the ethereal plane, which makes them impossible to imprison.
+The distance between each divine category and Thamakard is functional: it is measured by each group’s degree of interest in, presence in, and influence over the world of mortals. The [[_wiki_en/cosmologia/titas\|titans]] are the closest and inhabit the periphery of the material plane. The [[_wiki_en/cosmologia/siderais\|sidereals]] wander through the ethereal plane. The [[_wiki_en/cosmologia/anjos\|angels]], [[_wiki_en/cosmologia/diabos\|devils]], and [[_wiki_en/cosmologia/demonios\|demons]] inhabit distant planes of their own. The demonic planes are described as true hells, landscapes of fire, blood, and perpetual ruin; the angelic ones, described by the devout as wonderful and perfect; the diabolical ones, hidden and shrouded in mystery. The sidereals are unique: they have no plane of their own and permanently inhabit the ethereal plane, which makes them impossible to imprison.
 
 ### Imprisonment
 

@@ -12,4 +12,4 @@ Scribes maintain the records on continuous duty. Those who make errors in transc
 
 ### Distinction
 
-The Central Archive is distinct from [[_wiki_en/locais/khar_tabreth\|Khar’Tabreth]], the Tower of Tablets in [[_wiki_en/locais/mor_draconis\|Mor’Draconis]], which serves as a registry center and repository of administrative jurisprudence. Khar’Tabreth processes the empire’s bureaucracy; the Central Archive preserves the judicial history of the Justiciars.
+The Central Archive is distinct from [[_wiki_en/locais/khar_tabreth\|Khar’Tabreth]], the Tower of Tablets in [[_wiki_en/locais/mor_draconis\|Mor’Draconis]], which serves as a registry center and repository of administrative jurisprudence. Khar’Tabreth processes the Empire’s bureaucracy; the Central Archive preserves the judicial history of the Justiciars.

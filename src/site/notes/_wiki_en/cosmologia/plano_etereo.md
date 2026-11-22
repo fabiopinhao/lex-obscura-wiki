@@ -12,7 +12,7 @@ All interplanar magic crosses the ethereal plane through the [[_wiki_en/cosmolog
 
 ### Inhabitants
 
-The [[_wiki_en/cosmologia/siderais\|sidereals]], the blue gods, are the divine entities most associated with the ethereal plane, and they are believed to inhabit it. Even so, the Ethereal is an interface between the planes: no being has it as its own plane of existence. They roam between planes according to their interests, without a fixed domain, which makes them impossible to imprison: there is no dimension in which they can be confined. They are beings of pure or nearly pure consciousness, djinn, leviathans, sphinxes, thought patterns, living geometries, conscious concepts; their interest in Thamakard is intellectual, for they seek minds, not lands.
+The [[_wiki_en/cosmologia/siderais\|sidereals]], the blue gods, are the divine entities most associated with the ethereal plane, and they are believed to inhabit it. Even so, the Ethereal is an interface between the planes: no being has it as its own plane of existence. They roam between planes according to their interests, without a fixed domain, which makes them impossible to imprison: there is no dimension in which they can be confined. They are beings of pure or nearly pure consciousness, djinn, leviathans, sphinxes, thought patterns, living geometries, conscious concepts; their interest in Thamakard is intellectual, focused on minds and without territorial ambition.
 
 ### Cosmogonic Interpretations
 
@@ -24,7 +24,7 @@ The magical access system that operates directly on the plane is [[_wiki_en/magi
 
 ### The Veil
 
-The boundary between Thamakard and the ethereal plane is called the veil, and it has no fixed thickness: it varies with the place and with what has happened there. The veil is thinned by geological depth, the centuries-long consecration of temples and sacred ground, the accumulated arcane presence in [[_wiki_en/racas/luminares\|Luminar]] ruins (the reason why [[_wiki_en/cosmologia/nexus\|magi nexuses]] arise over them), repeated crossings at the same point, and death or blood on a ritual scale. It is thickened by the [[_wiki_en/artefatos/luto_de_nyssis\|Mourning of Nyssis]] and other magi suppressors, the [[_wiki_en/escolas/abjuro\|Abjuro]] school, whose Gap creates a zone where no channel exists, and the simple absence of arcane history.
+The boundary between Thamakard and the ethereal plane is called the veil, and it has no fixed thickness: it varies with the place and with what has happened there. The veil is thinned by geological depth, the centuries-long consecration of temples and sacred ground, the accumulated arcane presence in [[_wiki_en/racas/luminares\|Luminar]] ruins (the reason why [[_wiki_en/cosmologia/nexus\|magi nexuses]] arise over them), repeated crossings at the same point, and death or blood on a ritual scale. It is thickened by the [[_wiki_en/artefatos/luto_de_nyssis\|Mourning of Nyssis]] and other magi suppressors, the [[_wiki_en/escolas/abjuro\|Abjuro]] school, whose Lacuna creates a zone where no channel exists, and the simple absence of arcane history.
 
 ### Physical Crossing
 

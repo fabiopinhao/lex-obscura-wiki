@@ -4,13 +4,13 @@
 
 # Establishment of the Verbum Arkhon
 
-The Establishment of the Verbum Arkhon was the political act that established the constitution of the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]]. Promulgated by the monarch [[_wiki_en/personagens/arothistar\|Arothistar]] during the Reinkardic Wars, the Verbum Arkhon unified the authority of the monarchy and reorganized the empire’s power structure, which until then had been divided among the temples.
+The Establishment of the Verbum Arkhon was the political act that established the constitution of the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]]. Promulgated by the monarch [[_wiki_en/personagens/arothistar\|Arothistar]] during the Reinkardic Wars, the Verbum Arkhon unified the authority of the monarchy and reorganized the Empire’s power structure, which until then had been divided among the temples.
 
 ### The Constitution of the Empire
 
 The [[_wiki_en/conceitos/lex_obscura_decreto\|Lex Obscura]] was adopted in full, without alteration, to continue forming part of the monarchy’s legal framework alongside the new sovereign decrees. The gesture preserved the tradition and authority of [[_wiki_en/personagens/xarn\|Xarn]], even though the practical effect was different: the Verbum Arkhon concentrated power in the fist of the monarchy.
 
-The official pretext stated that the individual wills of the [[_wiki_en/cosmologia/diabos\|devils]] could not exceed the sum of the empire’s collective power. In practice, the decentralized decision-making power that each priesthood exercised over its own troops, tributes, and territories was abolished. The [[_wiki_en/organizacoes/templarios\|Templars]] ceased to exist as separate military forces; initially, the term survived only for [[_wiki_en/organizacoes/ophideias\|ophideias]], sorcerers, and necromancers of the temples.
+The official pretext stated that the individual wills of the [[_wiki_en/cosmologia/diabos\|devils]] could not exceed the sum of the Empire’s collective power. In practice, the decentralized decision-making power that each priesthood exercised over its own troops, tributes, and territories was abolished. The [[_wiki_en/organizacoes/templarios\|Templars]] ceased to exist as separate military forces; initially, the term survived only for [[_wiki_en/organizacoes/ophideias\|ophideias]], sorcerers, and necromancers of the temples.
 
 ### Racial Opening
 

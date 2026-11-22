@@ -14,7 +14,7 @@ Vozrador, o mais complexo dos deuses negros, voltou seus olhos para Thal’Serin
 
 [[_wiki/panteao/morlgrund\|Morlgrund]] e [[_wiki/panteao/titania\|Titânia]], os [[_wiki/cosmologia/titas\|titãs]] primordiais que guardavam Thal’Serin, pactuaram por convergência de interesses, sem que o temor entrasse no cálculo: queriam a floresta intacta, e era exatamente isso que Vozrador oferecia. Do acordo, impensável para o restante do panteão, nasceu uma simbiose entre o verde e o negro.
 
-Ele prometeu que o [[_wiki/organizacoes/imperio_sombrio\|império]] [[_wiki/racas/shadar\|shadar]] jamais queimaria Thal’Serin, e que a floresta permaneceria inviolável enquanto tivesse influência sobre seus seguidores. Em troca, os titãs permitiram que extraísse poder da própria Thal’Serin, prerrogativa que nenhum outro diabo jamais teve, e drenar por consentimento o vigor de um santuário titânico fez dele o diabo mais temido de Reinkard enquanto mantivesse sua palavra.
+Ele prometeu que o [[_wiki/organizacoes/imperio_sombrio\|Império]] [[_wiki/racas/shadar\|shadar]] jamais queimaria Thal’Serin, e que a floresta permaneceria inviolável enquanto tivesse influência sobre seus seguidores. Em troca, os titãs permitiram que extraísse poder da própria Thal’Serin, prerrogativa que nenhum outro diabo jamais teve, e drenar por consentimento o vigor de um santuário titânico fez dele o diabo mais temido de Reinkard enquanto mantivesse sua palavra.
 
 ### Consequências
 

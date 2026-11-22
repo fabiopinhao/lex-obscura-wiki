@@ -18,6 +18,6 @@ Quando a corrupção sombria tornou o Pico insustentável, Varna migrou para oes
 
 Varna permaneceu em Varnak quando novas migrações dispersaram as grandes tribos de dragões para regiões mais distantes. Tornou-se uma presença singular em Veinkard e uma referência para parte das tribos [[_wiki/racas/draconideo\|draconídeas]] e dos [[_wiki/racas/varnakiano\|varnakianos]].
 
-### A guardiã e a adaga
+### A Guardiã e a Adaga
 
 Varna guarda Varnak, e sua presença mantém o equilíbrio de poder da região por meio de uma ameaça individual de escala apocalíptica. A [[_wiki/artefatos/fendris\|Fendris]], adaga [[_wiki/racas/luminares\|luminar]] forjada para atravessar escamas draconídeas, é a chave capaz de derrotá-la: quem a detém, detém esse poder. O draconídeo [[_wiki/personagens/yzmareth\|Yzmareth]] busca a destruição de Varna para unificar Varnak, e a lâmina encontra-se atualmente com a [[_wiki/organizacoes/justiciares\|Justiciar]] [[_wiki/personagens/nidzina_avaroth\|Nidzina Avaroth]].

@@ -4,7 +4,7 @@
 
 # Destruction of Lendalas
 
-The Destruction of Lendalas, also called the Fall of Lendalas, was the destruction of one of the largest sacred forests of the [[_wiki_en/racas/sylvano\|Sylvans]] during the final campaigns of the Reinkardic Wars. Consumed by alchemical fire, the forest gave way to the Waste of Lendalas, a gray expanse that remains barren.
+The Destruction of Lendalas, also called the Fall of Lendalas, was the destruction of one of the largest sacred forests of the [[_wiki_en/racas/sylvano\|Sylvans]] during the final campaigns of the Reinkardic Wars.
 
 ### The Final Campaigns
 
@@ -12,7 +12,7 @@ Beginning around thirty-nine years ago, with [[_wiki_en/locais/morvgrad\|Morvgra
 
 ### The Waste of Lendalas
 
-[[_wiki_en/locais/lendalas\|Lendalas]] was consumed by the alchemical fire unleashed by [[_wiki_en/personagens/vekraal\|Vekraal]]’s legions. What remained became the Waste of Lendalas: a gray expanse where the earth refuses to sprout and where, on stormy nights, voices seem to echo beneath the cauterized ground.
+[[_wiki_en/locais/lendalas\|Lendalas]] was consumed by the alchemical fire unleashed by [[_wiki_en/personagens/vekraal\|Vekraal]]’s legions. What remained became the Waste of Lendalas: a gray stretch of open, treeless ground where the earth refuses to sprout and where, on stormy nights, voices seem to echo beneath the cauterized ground.
 
 ### Thal’Serin
 

@@ -4,7 +4,7 @@
 
 # Rupto
 
-Rupto é a escola de magia pura do domínio da destruição e da ruptura, alinhada ao vermelho do grimório. Quebra, fragmenta e destrói por negação de coesão estrutural, uma força arcana que desfaz o que mantém a matéria e os vínculos unidos. Seu sentimento-chave é a inquietação diante do intacto, a sensação de que o que ainda não quebrou apenas não foi testado.
+Rupto é a escola de magia pura do domínio da destruição e da ruptura, própria dos demônios. Quebra, fragmenta e destrói por negação de coesão estrutural, uma força arcana que desfaz o que mantém a matéria e os vínculos unidos. Seu sentimento-chave é a inquietação diante do intacto, a sensação de que o que ainda não quebrou apenas não foi testado.
 
 ### Princípio
 
@@ -18,6 +18,6 @@ O grimório escala da rachadura à ruptura catastrófica. Fissura cria rachadura
 
 O custo temático é dor aguda nas articulações e a sensação de fraturas, de dois minutos a três horas. O custo ontológico é o impulso destrutivo: construir se torna tedioso e quebrar, satisfatório. Começa como uma satisfação sutil ao ver coisas quebrarem e avança até que objetos intactos provoquem desconforto e só a destruição produza significado. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes entre os [[_wiki/organizacoes/templarios\|templários]], empregando-os em demolição e trabalho de sapa.
 
-### Combinações e oposição
+### Combinações e Oposição
 
 Com [[_wiki/escolas/patho\|Patho]], a degradação estrutural derruba muralhas apodrecidas com uma fissura mínima; com [[_wiki/escolas/belli\|Belli]], a guerra de demolição abre a armadura antes do golpe; com [[_wiki/escolas/cryo\|Cryo]], a doutrina imperial que torna a matéria quebradiça antes de estilhaçá-la, reduzindo muralhas a cascalho. Seu par antagônico é [[_wiki/escolas/nomos\|Nomos]], que impõe e vincula onde Rupto desfaz e liberta: um declara que aquilo permanece, o outro que aquilo cede, espelhos do mesmo custo ontológico em polaridades opostas.

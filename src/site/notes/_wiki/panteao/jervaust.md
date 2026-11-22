@@ -4,11 +4,11 @@
 
 # Jervaust
 
-Jervaust, o Solstício Faminto, é uma divindade do panteão sideral que se manifesta como Scylla Famélica. Rege as escolas do [[_wiki/escolas/chrono\|Chrono]] e do [[_wiki/escolas/cryo\|Cryo]], e devora tempo e temperatura como um único recurso: onde se alimenta, as coisas des-acontecem e resta geada.
+Jervaust, o Solstício Faminto, é uma divindade do panteão sideral que se manifesta como Scylla Famélica. Rege as escolas do [[_wiki/escolas/chrono\|Chrono]] e do [[_wiki/escolas/cryo\|Cryo]], e devora tempo e temperatura como um único recurso.
 
 ### Natureza
 
-Manifesta-se como algo que deveria ter corpo suficiente para sustentar seis cabeças e não tem. A estrutura é cadavérica além do que a anatomia permite: sulcos na caixa torácica exposta, cada um correspondendo a um século consumido, incisos com a precisão de quem conta o que come, e membros afilados como gnômons vergados que apontam para sóis devorados. As seis bocas estão permanentemente abertas. Geada cobre as bordas, geada que nunca derrete porque o calor que a derreteria já foi consumido. Dentro de cada boca não há garganta, há recessão visível: olhar para dentro é observar um corredor que se estende para trás no tempo, cada centímetro mais fundo correspondendo a um instante mais distante. Nenhuma boca fecha. O maxilar inferior de cada cabeça fundiu na posição aberta, travado pela própria fome que o deformou.
+Manifesta-se como algo que deveria ter corpo suficiente para sustentar seis cabeças e não tem. A estrutura é cadavérica além do que a anatomia permite: sulcos na caixa torácica exposta, cada um correspondendo a um século consumido, incisos com a precisão de quem conta o que come, e membros afilados como gnômons vergados que apontam para sóis devorados. As seis bocas estão permanentemente abertas. Geada cobre as bordas, geada que nunca derrete porque o calor que a derreteria já foi consumido. Dentro de cada boca, no lugar da garganta, há recessão visível: olhar para dentro é observar um corredor que se estende para trás no tempo, cada centímetro mais fundo correspondendo a um instante mais distante. Nenhuma boca fecha. O maxilar inferior de cada cabeça fundiu na posição aberta, travado pela própria fome que o deformou.
 
 ### Domínio
 
@@ -16,6 +16,6 @@ Onde Jervaust se alimenta, as coisas des-acontecem. O frio é subproduto do cons
 
 ### O Solstício
 
-O solstício marca o dia mais longo ou mais curto do ano. O Solstício Faminto é o dia que nunca terminou porque não teve permissão de acabar. As vítimas de Jervaust não congelam nem envelhecem. O que sofrem é incompletude: um gesto iniciado que jamais se conclui, um pensamento semi-formado que permanecerá semi-formado porque o tempo necessário para completá-lo foi devorado. A geada que resta é a confirmação fria de que ali havia duração e agora não há. Investigadores que examinam regiões afetadas relatam objetos cortados pela metade de forma limpa: uma vela cuja chama parou no ar, o pavio ainda incandescente de um lado e geada seca do outro, como se alguém tivesse removido os segundos necessários para a combustão se completar.
+O solstício marca o dia mais longo ou mais curto do ano. O Solstício Faminto é o dia que nunca terminou porque não teve permissão de acabar. As vítimas de Jervaust sofrem incompletude, sem congelar nem envelhecer: um gesto iniciado que jamais se conclui, um pensamento semi-formado que permanecerá semi-formado porque o tempo necessário para completá-lo foi devorado. A geada que resta é o sinal de que ali havia duração e agora não há. Investigadores que examinam regiões afetadas relatam objetos cortados pela metade de forma limpa: uma vela cuja chama parou no ar, o pavio ainda incandescente de um lado e geada seca do outro, como se alguém tivesse removido os segundos necessários para a combustão se completar.
 
-Aldeias inteiras relatam a mesma hora perdida sem perceber a emenda: a tarde salta de um instante a outro, e ninguém nota o intervalo que falta. Nas bordas das portas, mesmo em pleno verão, cresce geada que o sol não derrete.
+Aldeias inteiras perdem a mesma hora sem perceber a emenda: a tarde salta de um instante a outro. Nas bordas das portas, mesmo em pleno verão, cresce geada que o sol não derrete.

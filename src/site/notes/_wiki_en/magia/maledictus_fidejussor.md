@@ -4,11 +4,11 @@
 
 # Maledictus Fidejussor
 
-Maledictus fidejussor, the “guarantor-curse” (in Portuguese, *surety-curse*), is a contractual enchantment that functions as a living insurance policy: it magically binds the bearer to fulfill the clauses of a contract, and a violation triggers progressive penalties. It is an instrument of magical coercion used to guarantee service, secrecy, and payment.
+Maledictus fidejussor, the “guarantor-curse” (in English, *surety-curse*), is a contractual enchantment that functions as a living insurance policy: it magically binds the bearer to fulfill the clauses of a contract, and a violation triggers progressive penalties. It is an instrument of magical coercion used to guarantee service, secrecy, and payment.
 
 ### Spheres of Application
 
-The mechanism is the same, but it serves two distinct institutional purposes, distinguished by the authority that imposes it. In the public and judicial sphere, it is called *Stigma Damnati*, the “Mark of the Condemned,” imposed by a sentence of the [[_wiki_en/organizacoes/tribunal_de_morvgrad\|Tribunal of Morvgrad]] as a binding penalty that binds the condemned to fulfill their punishment. In the private and contractual sphere, it is the maledictus fidejussor proper: bonds of service and subjugation established outside judicial channels, such as contracts for sensitive services, the subjugation of slaves, collection from defaulters, and guarantees of delivery and secrecy. The spell is the same; its purpose and who imposes it change.
+The mechanism is the same, but it serves two distinct institutional purposes, distinguished by the authority that imposes it. In the public and judicial sphere, it is called *Stigma Damnati*, the “Mark of the Condemned,” imposed by a sentence of the [[_wiki_en/organizacoes/tribunal_de_morvgrad\|Tribunal of Morvgrad]] as a binding penalty that binds the condemned to fulfill their punishment. In the private and contractual sphere, it is the maledictus fidejussor proper: bonds of service and subjugation established outside judicial channels, such as contracts for sensitive services, the subjugation of slaves, collection from defaulters, and guarantees of delivery and secrecy.
 
 ### Origin
 
@@ -24,4 +24,4 @@ The punishment escalates instead of killing immediately, following a logic that 
 
 ### Not to Be Confused With
 
-The maledictus fidejussor is not a system of magical access. It is distinct from [[_wiki_en/magia/pactum_diaboli\|Pactum Diaboli]], a pact made with a devil: both involve the idea of a contract, but they serve different roles. Nor should it be confused with the invocation *Maledictus revelare*, which is a spell for detecting curses, rather than the surety-enchantment itself.
+The maledictus fidejussor is not a system of magical access. It is distinct from [[_wiki_en/magia/pactum_diaboli\|Pactum Diaboli]], a pact made with a devil: both involve the idea of contract, but they serve different roles. Nor should it be confused with the invocation *Maledictus revelare*, a spell for detecting curses.

@@ -8,7 +8,7 @@ Os diabos são os mais ambiciosos entre as categorias divinas. A [[_wiki/cosmolo
 
 ### Natureza
 
-Cada diabo é um caso à parte, e o egoísmo é seu traço definidor: persegue objetivos próprios e considera todos os demais, inclusive outros diabos, peças a serem manipuladas. São ordeiros e organizados, mas sua ordem não serve à justiça, e sim ao controle. Pensam estruturalmente, planejam a longo prazo e nada os detém diante de um objetivo. Não existe moralidade para um diabo: os fins justificam os meios. Buscam exercer domínio sobre outros planos existenciais, com o plano material como alvo prioritário.
+Cada diabo é um caso à parte, e o egoísmo é seu traço definidor: persegue objetivos próprios e considera todos os demais, inclusive outros diabos, peças a serem manipuladas. São ordeiros e organizados, e sua ordem, alheia à justiça, serve ao controle. Pensam estruturalmente, planejam a longo prazo e nada os detém diante de um objetivo. Não existe moralidade para um diabo: os fins justificam os meios. Buscam exercer domínio sobre outros planos existenciais, com o plano material como alvo prioritário.
 
 ### Sistema de Acesso
 
@@ -18,7 +18,7 @@ O vínculo com diabos opera por [[_wiki/magia/pactum_diaboli\|Pactum Diaboli]], 
 
 O Salão do [[_wiki/organizacoes/conselho_sombrio\|Conselho Sombrio]], em [[_wiki/locais/morvgrad\|Morvgrad]], exibe doze estátuas de obsidiana no teto, que representam os doze diabos do panteão sombrio. [[_wiki/panteao/vozrador\|Vozrador]] é o décimo segundo, e o desgaste de sua estátua contrasta com as demais.
 
-Os diabos dividem-se em duas facções informais: a institucionalista, alinhada a [[_wiki/panteao/velmorain\|Velmorain]], que prioriza ordem, sistema Justiciar e burocracia rigorosa; e a expansionista, alinhada a [[_wiki/panteao/malagoth\|Malagoth]], que exige conquista territorial perpétua.
+Os diabos dividem-se em duas facções informais: a institucionalista, alinhada a [[_wiki/panteao/velmorain\|Velmorain]], que prioriza ordem, sistema justiciar e burocracia rigorosa; e a expansionista, alinhada a [[_wiki/panteao/malagoth\|Malagoth]], que exige conquista territorial perpétua.
 
 ### Aprisionamento
 

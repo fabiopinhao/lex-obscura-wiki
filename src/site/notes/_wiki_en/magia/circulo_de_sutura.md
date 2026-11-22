@@ -12,7 +12,7 @@ Activation occurs by releasing amber-colored ossuary dust over the channels insc
 
 ### Continuous Suture
 
-More than animating, the Circle stitches anew. Each bone is sealed by amber filaments, so that blows capable of severing limbs are then undone, with the halves seeking each other again. The necromancer conducts the beat with the crystal-rings, and the ring on the floor pulses in faithful cadence: while the conductor maintains the rhythm, the seal repairs itself, and even displaced dust returns to its place.
+The Circle also stitches the dead it animates back together. Each bone is sealed by amber filaments, so that blows capable of severing limbs are then undone, with the halves seeking each other again. The necromancer conducts the beat with the crystal-rings, and the ring on the floor pulses in faithful cadence: while the conductor maintains the rhythm, the seal repairs itself, and even displaced dust returns to its place.
 
 ### Vulnerability
 

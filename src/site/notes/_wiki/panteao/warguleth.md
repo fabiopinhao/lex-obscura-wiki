@@ -22,7 +22,7 @@ Os selamentos de Anatho ancorados em seu nome emanam calor seco e constante e qu
 
 ### O Fosso
 
-O Fosso que Wargûleth guarda não é uma prisão, mas o estado de confinamento em si, e ele se instala por etapas. Primeiro vem o medo, a desconfiança que faz o alvo hesitar antes de pedir ajuda. Depois vem a maldição, o infortúnio que transforma a hesitação em justificativa: amigos convocados não aparecem, favores cobrados se perdem em acidentes que parecem coincidência. Quando o alvo percebe que está isolado, o Fosso já se fechou. Wargûleth senta-se à borda e vigia, uma cabeça farejando tentativas de fuga, outra rosnando para dissuadir quem se aproxima, a terceira apenas assistindo. Entrar no Fosso não exige grades: basta perder o último laço.
+O Fosso que Wargûleth guarda é o próprio estado de confinamento, e se instala por etapas. Primeiro vem o medo, a desconfiança que faz o alvo hesitar antes de pedir ajuda. Depois vem a maldição, o infortúnio que transforma a hesitação em justificativa: amigos convocados não aparecem, favores cobrados se perdem em acidentes que parecem coincidência. Quando o alvo percebe que está isolado, o Fosso já se fechou. Wargûleth senta-se à borda e vigia, uma cabeça farejando tentativas de fuga, outra rosnando para dissuadir quem se aproxima, a terceira apenas assistindo. Para entrar no Fosso, basta perder o último laço.
 
 ### Os Vulfanos
 

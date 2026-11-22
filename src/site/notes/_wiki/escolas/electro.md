@@ -18,7 +18,7 @@ No domínio magnético, Magnetizar atrai e repele objetos pequenos, Imantação 
 
 ### Custos
 
-O custo temático é espasmos musculares e tremores involuntários, durando de trinta segundos a uma hora. O custo ontológico é uma inquietação crônica: a calmaria agita e o repouso se torna impossível. Nos primeiros estágios surgem dificuldade de ficar parado, sono fragmentado e pensamentos acelerados; nos avançados, o silêncio se torna insuportável e o praticante só existe em movimento. Nesse extremo ele é descartado numa Missão de Honra, lançado em infiltrações relâmpago de velocidade suicida. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como [[_wiki/organizacoes/templarios\|Templários]], mensageiros de urgência e agentes de operações relâmpago, em que a velocidade é a própria função.
+O custo temático é espasmos musculares e tremores involuntários, durando de trinta segundos a uma hora. O custo ontológico é uma inquietação crônica: a calmaria agita e o repouso se torna impossível. Nos primeiros estágios surgem dificuldade de ficar parado, sono fragmentado e pensamentos acelerados; nos avançados, o silêncio se torna insuportável e o praticante só existe em movimento. Nesse extremo ele é descartado numa Missão de Honra, lançado em infiltrações relâmpago de velocidade suicida. O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes como [[_wiki/organizacoes/templarios\|templários]], mensageiros de urgência e agentes de operações relâmpago, em que a velocidade é a própria função.
 
 ### Combinações
 

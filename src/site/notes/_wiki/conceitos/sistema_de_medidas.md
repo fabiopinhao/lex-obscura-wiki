@@ -12,11 +12,11 @@ A escala segue progressão corporal e ambiental, do micro ao macro: Grão (5 mm)
 
 ### Tempo
 
-O dia divide-se em quatro vigílias de seis horas. A unidade mínima é o Batimento (1 segundo), definido pelo pulso em repouso de um shadar adulto, seguida da Stilha (1 minuto) e da Hora. As [[_wiki/organizacoes/ophideias\|Ophideias]] treinam para contar batimentos internos com precisão cirúrgica, e a Stilha é a pausa ritual antes das sentenças dos [[_wiki/organizacoes/justiciares\|Justiciares]]. Meia stilha corresponde a cerca de trinta segundos, e entre as Ophideias a expressão “uma sangria de stilhas” designa quinze stilhas, o tempo médio que estimam para um sangramento fatal sem tratamento. Cada vigília carrega caráter próprio: a Prima (Sombra Profunda, 0h a 6h) é a hora dos interrogatórios e execuções, com patrulhas dobradas em Morvgrad; a Segunda (Ascensão, 6h a 12h) abre mercados e tribunais; a Tércia (Zênite, 12h a 18h) é o pico da atividade militar e comercial; a Quarta (Crepúsculo, 18h a 24h) impõe o toque de recolher aos pindoriares nas cidades imperiais. É na Segunda que os Justiciares recebem petições, e é na Tércia, homônima da estação Zênite, que correm as audiências militares e as execuções públicas. Cada vigília deixou marca na fala: “nascido na Prima” é presságio sombrio, “ascensão sem luz” nomeia a manhã nublada e o mau agouro que ela carrega em [[_wiki/locais/myrgarde\|Myrgarde]], e “conversa de Quarta” é o negócio fechado às pressas antes do escuro.
+O dia divide-se em quatro vigílias de seis horas. A unidade mínima é o Batimento (1 segundo), definido pelo pulso em repouso de um shadar adulto, seguida da Stilha (1 minuto) e da Hora. As [[_wiki/organizacoes/ophideias\|ophideias]] treinam para contar batimentos internos com precisão cirúrgica, e a Stilha é a pausa ritual antes das sentenças dos [[_wiki/organizacoes/justiciares\|justiciares]]. Meia stilha corresponde a cerca de trinta segundos, e entre as ophideias a expressão “uma sangria de stilhas” designa quinze stilhas, o tempo médio que estimam para um sangramento fatal sem tratamento. Cada vigília carrega caráter próprio: a Prima (Sombra Profunda, 0h a 6h) é a hora dos interrogatórios e execuções, com patrulhas dobradas em Morvgrad; a Segunda (Ascensão, 6h a 12h) abre mercados e tribunais; a Tércia (Zênite, 12h a 18h) é o pico da atividade militar e comercial; a Quarta (Crepúsculo, 18h a 24h) impõe o toque de recolher aos pindoriares nas cidades imperiais. É na Segunda que os justiciares recebem petições, e é na Tércia, homônima da estação Zênite, que correm as audiências militares e as execuções públicas. Cada vigília deixou marca na fala: “nascido na Prima” é presságio sombrio, “ascensão sem luz” nomeia a manhã nublada e o mau agouro que ela carrega em [[_wiki/locais/myrgarde\|Myrgarde]], e “conversa de Quarta” é o negócio fechado às pressas antes do escuro.
 
-### Calendário e estações
+### Calendário e Estações
 
-A [[_wiki/conceitos/lunia\|Lúnia]] (28 dias) equivale ao mês e divide-se em quatro fáscias de sete dias, cada uma coincidindo com uma fase lunar. Contratos e prazos legais contam-se em lúnias, e vencimentos militares pagam-se por fáscia; a fáscia de lua nova é a “fáscia de sangue”, período preferido para operações das Ophideias. O [[_wiki/conceitos/varnum\|Varnum]] (365 dias) equivale ao ano, composto por treze lúnias mais o [[_wiki/conceitos/nullis\|Nullis]], e é literalmente o ciclo completo do sol (a raiz *varn-* liga-se a calor, como em [[_wiki/personagens/varna\|Varna]], [[_wiki/locais/varnak\|Varnak]] e Thandruk Varn). A contagem imperial dos Varnums começa na coroação de Arothistar, e “quantos Varnums você carrega?” é a forma comum de perguntar a idade.
+A [[_wiki/conceitos/lunia\|Lúnia]] (28 dias) equivale ao mês e divide-se em quatro fáscias de sete dias, cada uma coincidindo com uma fase lunar. Contratos e prazos legais contam-se em lúnias, e vencimentos militares pagam-se por fáscia; a fáscia de lua nova é a “fáscia de sangue”, período preferido para operações das ophideias. O [[_wiki/conceitos/varnum\|Varnum]] (365 dias) equivale ao ano, composto por treze lúnias mais o [[_wiki/conceitos/nullis\|Nullis]], e é literalmente o ciclo completo do sol (a raiz *varn-* liga-se a calor, como em [[_wiki/personagens/varna\|Varna]], [[_wiki/locais/varnak\|Varnak]] e Thandruk Varn). A contagem imperial dos Varnums começa na coroação de Arothistar, e “quantos Varnums você carrega?” é a forma comum de perguntar a idade.
 
 O ano tem quatro estações; os nomes formais são de uso erudito e cerimonial, enquanto no cotidiano prevalecem primavera, verão, outono e inverno.
 
@@ -27,7 +27,7 @@ O ano tem quatro estações; os nomes formais são de uso erudito e cerimonial, 
 
 O Nullis (Dia do [[_wiki/cosmologia/vazio\|Vazio]]), coloquialmente “Dia do Vaz”, é o dia avulso entre a última lúnia de um Varnum e a primeira do seguinte. Não pertence a nenhuma lúnia nem estação: é dia de superstição e recolhimento, em que muitos pindoriares fecham a porta, apagam o fogo e não pronunciam o nome de ninguém que tenha morrido no ano anterior.
 
-### Peso e volume
+### Peso e Volume
 
 A mesma lógica ascendente rege peso e volume. O Grão (cerca de 0,05 g) cumpre dupla função como micro-distância e micro-peso, e mede venenos, poções e dosagens alquímicas; a Onça (cerca de 30 g) é padrão de boticários para reagentes mágicos; o Punho (cerca de 500 g) é a unidade do comércio cotidiano, base da ração diária de um soldado; o Quintal (cerca de 50 kg) mede minério bruto e tributos provinciais em espécie. Para volume, a escala vai do Gole (cerca de 50 ml), dose padrão de poções e antídotos, à Caneca (cerca de 300 ml) de tavernas e quartéis, ao Frasco (cerca de 500 ml), padrão alquímico imperial, e ao Barril (cerca de 50 L). Frascos selados com cera negra indicam conteúdo regulado pelo Culto, e barris imperiais trazem glifo de origem provincial para rastreamento de carga.
 
@@ -35,7 +35,7 @@ A mesma lógica ascendente rege peso e volume. O Grão (cerca de 0,05 g) cumpre 
 
 O sistema monetário é ternário: Coroa (ouro), Cunho (prata) e Cravo (cobre). Uma Coroa vale dez Cunhos, e um Cunho vale doze Cravos. A Coroa leva o perfil de Arothistar cunhado em relevo e é produzida exclusivamente em Morvgrad; tesouros e tributos contam-se em coroas, e “quanto pesa uma coroa?” é pergunta filosófica shadar sobre o custo do poder, à qual ninguém espera resposta. O Cunho é a moeda mais comum no comércio formal e paga os vencimentos militares. O Cravo é a moeda do povo: “não vale um cravo” equivale a “não vale nada”. Os gnomos do [[_wiki/locais/mercado_oeste\|Mercado Oeste]] operam em cravos, os mendigos de [[_wiki/locais/ghol_mournak\|Ghol’Mournak]] cobram neles por informação, e os [[_wiki/racas/derro\|derros]] mantêm tocas-cambistas onde os trocam por favores e selos falsificados.
 
-### As eras
+### As Eras
 
 As eras têm durações variáveis e não servem como unidade de medida; cada uma é recordada de forma diferente conforme a perspectiva.
 
@@ -46,6 +46,6 @@ As eras têm durações variáveis e não servem como unidade de medida; cada um
 
 O apelido imperial da Terceira Era é debatido, pois nem todos os shadars concordam em nomear a era por um único monarca.
 
-### Expressões idiomáticas
+### Expressões Idiomáticas
 
 O sistema de medidas permeia a fala cotidiana de todas as castas. Na distância, “a um passo da sombra” significa estar à beira da morte, “a duas braças do chão” alude ao cadafalso e “a dois estirões daqui” serve de referência casual. “Nem a um estirão se ouve a verdade” e “nem um grão de piedade” são de uso shadar; “um palmo de aço resolve o que um marn de palavras não alcança” é provérbio militar; e “três sárns de silêncio”, entre os sylvanos, nomeia a zona morta da floresta, onde o perigo é iminente. No tempo, “entre duas vigílias” marca período indefinido e “treze lúnias e um vazio” é forma poética de dizer um ano. Na moeda, “não vale um cravo” e “quanto pesa uma coroa?” correm em toda parte.

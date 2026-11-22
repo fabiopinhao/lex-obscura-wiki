@@ -10,11 +10,11 @@ O [[_wiki/racas/alvarar\|álvarar]] mais célebre de [[_wiki/locais/myrgarde\|My
 
 Seu retrato é dourado por inteiro: a armadura dourada e, nos olhos, o mesmo brilho de metal aquecido. Atribui-se a ele uma compostura firme diante de recrutas comuns, que cede ao tremor diante de certas presenças.
 
-### Origem e papel
+### Origem e Papel
 
 A Ordem de Azazel é uma devoção que precisa esconder-se para sobreviver. Ao nome de Grimald se ligam a proteção da [[_wiki/organizacoes/igreja_de_sao_lucian\|Igreja de São Lucian]], em Myrgarde, o juízo sobre quem merece o manto de paladino e quem deve ser mandado embora, e uma máxima: algumas portas permanecem fechadas por uma razão.
 
-### Método e voz
+### Método e Voz
 
 Sua marca é uma percepção que alcança o que não está à vista e, diante de certos pretendentes, a presença de algo que não deveria estar ali condensada num veredito de uma frase só: você carrega algo que não pertence aqui. É a detecção do sobrenatural dita como juízo moral, com uma autoridade esmagadora atravessada por um medo mal escondido.
 

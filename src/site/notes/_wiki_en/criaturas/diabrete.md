@@ -4,7 +4,7 @@
 
 # Imp
 
-The imp is a lesser creature of diabolic origin, small in size, with blood-red skin and functional scarlet wings. It hatches from eggs and serves [[_wiki_en/racas/shadar\|Shadar]] lords as a messenger and working creature; sustained long-distance flight makes it a natural messenger in the urban centers of the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]]. In common usage, an imp is always referred to as female.
+The imp is a lesser creature of diabolic origin that serves [[_wiki_en/racas/shadar\|Shadar]] lords as a messenger and working creature in the urban centers of the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]]. In common usage, the species is referred to in the feminine.
 
 ### Physiology
 
@@ -16,11 +16,11 @@ It is common around [[_wiki_en/locais/xarn_aroth\|Xarn’Aroth]] and rare among 
 
 ### Servitude
 
-Imps exist almost exclusively as servile creatures, bound to servitude from the egg and treated as disposable property, trivial to replace. They serve in Shadar towers alongside [[_wiki_en/racas/kobold\|kobolds]], classified among the “lesser, hybrid, broken creatures” that work there; no Shadar or [[_wiki_en/racas/drul\|Drul]] shares this role with them. They have a reputation for insolence, and a kobold proverb crystallizes the prejudice: a good servant does not smile without orders, as imps do. Their characteristic occupation is winged messenger service, carrying scrolls and sealed papyri in direct flight between sender and recipient. They are forbidden to enter [[_wiki_en/locais/khar_tabreth\|Khar’Tabreth]], a restriction neither explained nor disobeyed; correspondence sealed with purple ink does not pass through the registry center, and travels by imp, from hand to hand, outside the official record.
+Imps exist almost exclusively as servile creatures, bound to servitude from the egg and treated as disposable property, trivial to replace. They serve in Shadar towers alongside [[_wiki_en/racas/kobold\|kobolds]], classified among the “lesser, hybrid, broken creatures” that work there; no Shadar or [[_wiki_en/racas/drul\|Drul]] shares this role with them. They have a reputation for insolence, and a kobold proverb crystallizes the prejudice: a good servant does not smile without orders, as imps do. Their characteristic occupation is winged messenger service, carrying sealed scrolls and sealed papyri in direct flight between sender and recipient. They are forbidden to enter [[_wiki_en/locais/khar_tabreth\|Khar’Tabreth]], a restriction they obey and for which no reason is given; correspondence sealed with purple ink does not pass through the registry center, and travels by imp, from hand to hand, outside the official record.
 
 ### Culture
 
-There is no imp culture. There are no communities, traditions, or organizations of the species’ own: imps appear as individuals only when useful to a master. If a society exists outside Shadar dominion, it is unknown, and the species lacks collective identity, a people, or memory.
+There is no imp culture. There are no communities, traditions, or social organization of its own: imps appear as individuals only when useful to a master. If a society exists outside Shadar dominion, it is unknown, and the species lacks collective identity, a people, or memory.
 
 ### Quaz’har
 

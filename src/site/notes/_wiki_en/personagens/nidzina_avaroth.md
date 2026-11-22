@@ -4,7 +4,7 @@
 
 # Nidzina Avaroth
 
-Nidzina Avaroth is a [[_wiki_en/organizacoes/justiciares\|Justiciar]] [[_wiki_en/racas/shadar\|Shadar]] from [[_wiki_en/locais/morvgrad\|Morvgrad]] and the youngest of her time to attain the office. She belongs to House Avaroth, of high noble lineage, which [[_wiki_en/personagens/tibaut\|Tibaut]] says descends directly from the First Aegis. She refuses to let the name define her: in her view, she earned the mantle through her own merit, not through her ancestors.
+Nidzina Avaroth is a [[_wiki_en/organizacoes/justiciares\|Justiciar]] [[_wiki_en/racas/shadar\|Shadar]] from [[_wiki_en/locais/morvgrad\|Morvgrad]] and the youngest of her time to attain the office. She belongs to House Avaroth, of high noble lineage, which [[_wiki_en/personagens/tibaut\|Tibaut]] says descends directly from the First Aegis. She refuses to let the name define her: in her view, she earned the mantle through her own merit.
 
 ### Appearance
 
@@ -16,7 +16,7 @@ She was [[_wiki_en/personagens/orum-rahru\|Orum-Rahru]]’s pupil from childhood
 
 ### Method
 
-A legalistic investigator, she operates strictly according to the Lex: chain of custody, jurisdiction, the arrest decree “In the name of the Lex and of [[_wiki_en/personagens/arothistar\|Arothistar]]”. She turns a scene into a map and reads lies during interrogation, though she frequently acts on her own, outside official channels. There is tension in her method: in the eyes of her ally Tibaut, she uses terror as a tool and not as a pleasure, and walks between justice and revenge trying to pretend they are the same thing; she herself fears that the line between justice and massacre may blur. Beneath the coldness, there is constant self-criticism and an icy authority that intimidates effortlessly. This method is [[_wiki_en/conceitos/khemor\|Khemor]] on a personal scale: she wears the mask to produce fear and discards it afterward.
+A legalistic investigator, she operates strictly according to the Lex: chain of custody, jurisdiction, the arrest decree “In the name of the Lex and of [[_wiki_en/personagens/arothistar\|Arothistar]]”. She turns a scene into a map and reads lies during interrogation, though she frequently acts on her own, outside official channels. There is tension in her method: in the eyes of her ally Tibaut, she uses terror as a tool, without taking pleasure in it, and walks between justice and revenge trying to pretend they are the same thing; she herself fears that the line between justice and massacre may blur. Beneath the coldness, there is constant self-criticism and an icy authority that intimidates effortlessly. This method is [[_wiki_en/conceitos/khemor\|Khemor]] on a personal scale: she wears the mask to produce fear and discards it afterward.
 
 ### History
 

@@ -6,9 +6,9 @@
 
 O Cerco de Myrgarde, também lembrado como o Cerco da Capital Humana ou o Último Cerco de Myrgarde, foi o assédio de três anos imposto pelos exércitos do Culto à capital do Império Antigo, cerca de trinta e três anos atrás, durante as Guerras Reinkárdicas. Foi a última grande resistência alabastrina do continente.
 
-### O cerco
+### O Cerco
 
-Pela primeira vez na história, as tropas de [[_wiki/locais/morvgrad\|Morvgrad]] reuniram tamanho, organização e eficiência logística para cercar toda a capital de uma vez. O assédio durou três anos. Dentro das muralhas sagradas, a fome, a peste e o desespero consumiam a população, e os deuses luminosos silenciavam um por um: as orações perdiam potência e as bênçãos se esvaziavam, como se as próprias divindades recuassem diante do que se aproximava.
+Pela primeira vez na história, as tropas de [[_wiki/locais/morvgrad\|Morvgrad]] reuniram tamanho, organização e eficiência logística para cercar toda a capital de uma vez. Dentro das muralhas sagradas, a fome, a peste e o desespero consumiam a população, e os deuses luminosos silenciavam um por um: as orações perdiam potência e as bênçãos se esvaziavam, como se as próprias divindades recuassem diante do que se aproximava.
 
 ### O Jardim dos Inocentes
 
@@ -16,4 +16,4 @@ Apenas o [[_wiki/locais/jardim_dos_inocentes\|Jardim dos Inocentes]], o cemitér
 
 ### Legado
 
-As muralhas sagradas, reforçadas por séculos de bênçãos celestiais, aguentaram mais do que qualquer estrutura militar teria aguentado, mas os defensores definhavam num ritmo que nenhuma muralha podia compensar. O cerco precedeu a queda definitiva de Myrgarde e marcou o fim da última grande resistência alabastrina do continente.
+As muralhas sagradas, reforçadas por séculos de bênçãos celestiais, aguentaram mais do que qualquer estrutura militar teria aguentado, mas os defensores definhavam num ritmo que nenhuma muralha podia compensar. O cerco precedeu a queda definitiva de Myrgarde.

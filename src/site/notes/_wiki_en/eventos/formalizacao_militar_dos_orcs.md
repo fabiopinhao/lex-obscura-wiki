@@ -4,11 +4,11 @@
 
 # Military Formalization of the Orcs
 
-The Military Formalization of the [[_wiki_en/racas/orc\|orcs]] was the turning point of the Reinkardic Wars, the process by which the Cult transformed tribal orc fury into battlefield discipline. It is also known as the Domestication of the Goblinoids. In the [[_wiki_en/conceitos/segunda_era\|Second Era]], orcs already served the Cult as a defensive barrier and occasional brute force, pillaging the plains with [[_wiki_en/racas/shadar\|Shadar]] connivance, but pillage is not war, and disorganized bands do not win campaigns. The process began with the fortresses along the perimeter of the [[_wiki_en/locais/dhar-morveth\|Shadar Plateau]].
+The Military Formalization of the [[_wiki_en/racas/orc\|orcs]] was the turning point of the Reinkardic Wars, the process by which the Cult transformed tribal orc fury into battlefield discipline. It is also known as the Domestication of the Goblinoids. In the [[_wiki_en/conceitos/segunda_era\|Second Era]], orcs already served the Cult as a defensive barrier and occasional brute force, pillaging the plains with [[_wiki_en/racas/shadar\|Shadar]] connivance, but in disorganized bands incapable of winning campaigns. The process began with the fortresses along the perimeter of the [[_wiki_en/locais/dhar-morveth\|Shadar Plateau]].
 
 ### The Failed Attempt
 
-The first attempt used [[_wiki_en/racas/kobold\|kobolds]], small, obedient creatures, for the logistical and administrative tasks that orcs did not perform. In practice, the kobolds lasted days. The orcs killed them for amusement or used them as throwing targets, not out of calculated cruelty, but out of instinctive aversion: they carried in their racial memory the terror of [[_wiki_en/personagens/varna\|Varna]] and the dragons that had hunted them in the mountain ranges for millennia, and any creature with a reptilian appearance provoked a hostility that no order from above could suppress.
+The first attempt used [[_wiki_en/racas/kobold\|kobolds]], small, obedient creatures, for the logistical and administrative tasks that orcs did not perform. In practice, the kobolds lasted days. The orcs killed them for amusement or used them as throwing targets, driven by an instinctive aversion and without calculated cruelty: they carried in their racial memory the terror of [[_wiki_en/personagens/varna\|Varna]] and the dragons that had hunted them in the mountain ranges for millennia, and any creature with a reptilian appearance provoked a hostility that no order from above could suppress.
 
 ### The Goblinoid Solution
 

@@ -8,12 +8,12 @@ Draconic is the primordial language of dragons, the everyday language of [[_wiki
 
 ### Sound
 
-In its primordial register, Draconic produces sounds impossible for human throats: infrasound that vibrates the diaphragm, guttural clicks from membranes that bipeds do not possess, and simultaneous harmonics, two vocal notes at the same time. Mortal transcription resorts to approximations such as *Khr*, *Zzm*, *Ghrl*. The everyday register accommodates smaller throats but retains the original’s long sibilants and retroflex fricatives, a “scaly” quality that identifies the speaker before they finish their first sentence. To hear it is to feel scale before meaning: when a Saurian shaman chants ritual fragments, listeners report pressure in the chest and the urge to lower their eyes.
+In its primordial register, Draconic produces sounds impossible for human throats: infrasound that vibrates the diaphragm, guttural clicks from membranes that bipeds do not possess, and simultaneous harmonics, two vocal notes at the same time. Mortal transcription resorts to approximations such as *Khr*, *Zzm*, *Ghrl*. The everyday register accommodates smaller throats but retains the original’s long sibilants and retroflex fricatives, a “scaly” quality that identifies the speaker before they finish their first sentence. When a Saurian shaman chants ritual fragments, listeners report pressure in the chest and the urge to lower their eyes, an effect of the sound’s scale, perceived before any meaning.
 
 ### Writing
 
-Draconic is not written with ink, but by incision. Each stroke is a physical and permanent groove, a claw mark in stone and bone. Saurians engrave records on rock faces; [[_wiki_en/racas/varnakiano\|Varnakian]] shamans imitate the system on treated leather. The writing does not separate letters from symbols: a single mark can be a phoneme, an ideogram, or both, depending on the context.
+Draconic is written by incision. Each stroke is a physical and permanent groove, a claw mark in stone and bone. Saurians engrave records on rock faces; [[_wiki_en/racas/varnakiano\|Varnakian]] shamans imitate the system on treated leather. The writing does not separate letters from symbols: a single mark can be a phoneme, an ideogram, or both, depending on the context.
 
 ### Grammar
 
-The language does not ask: it declares or commands. Questions take the form of commands (“Reveal your name” in place of “What is your name?”), and this imperative tendency intensifies in the magical register, where each sentence is a demand directed at the entity that responds. Demons contacted in Draconic may distort the grammar during channeling, changing the conjugation from one invocation to the next, indifferent to mortal consistency.
+The language declares or commands. Questions take the form of commands (“Reveal your name” in place of “What is your name?”), and this imperative tendency intensifies in the magical register, where each sentence is a demand directed at the entity that responds. Demons contacted in Draconic may distort the grammar during channeling, changing the conjugation from one invocation to the next, indifferent to mortal consistency.

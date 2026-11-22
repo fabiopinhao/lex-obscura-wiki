@@ -4,7 +4,7 @@
 
 # Plasma
 
-Plasma is the hybrid school of red and white whose domain is energy and fusion. It manipulates extreme energy, in which matter melts, ionizes, and superheats, with a self-contained bluish-white glow that needs no fuel. This autonomy distinguishes it from [[_wiki_en/escolas/pyro\|Pyro]], whose chemical combustion consumes matter and depends on it to burn. Its antagonistic counterpart is [[_wiki_en/escolas/cryo\|Cryo]].
+Plasma is the hybrid school of demons and angels whose domain is energy and fusion. It manipulates extreme energy, in which matter melts, ionizes, and superheats, with a self-contained bluish-white glow that needs no fuel. This autonomy distinguishes it from [[_wiki_en/escolas/pyro\|Pyro]], whose chemical combustion consumes matter and depends on it to burn. Its antagonistic counterpart is [[_wiki_en/escolas/cryo\|Cryo]].
 
 ### Principle
 

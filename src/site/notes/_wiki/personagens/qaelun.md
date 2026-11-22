@@ -12,11 +12,11 @@ Era magro até a transparência e não tinha pálpebras: pagou-as como dízimo. 
 
 ### Práticas
 
-Usava o [[_wiki/magia/circulo_de_sutura\|Círculo de Sutura]], um heptagrama necromântico, para animar os mortos. Sua necromancia derivava de um pacto com [[_wiki/panteao/naelkur\|Naelkur]], o diabo de [[_wiki/escolas/necro\|Necro]] que colhe legiões de mortos-vivos. Usou o [[_wiki/artefatos/luto_de_nyssis\|Luto de Nyssis]], substância alquímica antimagia, contra o Justiciar que o investigava, soprando-a por um tubo de cobre; o Círculo, regia-o com anéis-cristal. Era famoso por levantar muitos mortos de uma vez, poucos que prestassem, e por suprir com alquímica (vitríolos, resinas, sais) o que lhe faltava de talento fino; chamava isso de método. Falava seco e tratava o adversário como peça de bancada.
+Usava o [[_wiki/magia/circulo_de_sutura\|Círculo de Sutura]], um heptagrama necromântico, para animar os mortos. Sua necromancia derivava de um pacto com [[_wiki/panteao/naelkur\|Naelkur]], o diabo de [[_wiki/escolas/necro\|Necro]] que colhe legiões de mortos-vivos. Usou o [[_wiki/artefatos/luto_de_nyssis\|Luto de Nyssis]], substância alquímica antimagia, contra o justiciar que o investigava, soprando-a por um tubo de cobre; o Círculo, regia-o com anéis-cristal. Era famoso por levantar muitos mortos de uma vez, poucos que prestassem, e por suprir com alquímica (vitríolos, resinas, sais) o que lhe faltava de talento fino; chamava isso de método. Falava seco e tratava o adversário como peça de bancada.
 
 ### Fim
 
-A investigação do templo pelo Justiciar veterano [[_wiki/personagens/orum-rahru\|Orum-Rahru]] terminou com a eliminação de Qaelun.
+A investigação do templo pelo justiciar veterano [[_wiki/personagens/orum-rahru\|Orum-Rahru]] terminou com a eliminação de Qaelun.
 
 ### Relações
 

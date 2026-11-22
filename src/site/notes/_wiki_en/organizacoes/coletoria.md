@@ -8,7 +8,7 @@ The Collectory is the administrative arm of the [[_wiki_en/organizacoes/imperio_
 
 ### Parallel Espionage Network
 
-Beneath its fiscal facade, the Collectory maintains a network of informants that extends beyond its official jurisdiction. In Morvgrad, it is said, not all eyes answer to the same eyelids. The apparatus gathers intelligence on the State’s own arms: it monitors operations of the [[_wiki_en/organizacoes/justiciares\|Justiciars]], detects leaks in the Empire’s communication channels, and circulates sensitive reports. It is this information of its own, more than its fiscal office, that makes the Collectory a power player.
+Beneath its fiscal facade, the Collectory maintains a network of informants that extends beyond its official jurisdiction. In Morvgrad, it is said, not all eyes answer to the same eyelids. The apparatus gathers intelligence on the State’s own arms: it monitors operations of the [[_wiki_en/organizacoes/justiciares\|Justiciars]], detects leaks in the Empire’s communication channels, and circulates sensitive reports. This information of its own makes the Collectory a power player.
 
 ### Institutional Relations
 

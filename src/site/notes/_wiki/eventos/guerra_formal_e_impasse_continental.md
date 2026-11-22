@@ -4,7 +4,7 @@
 
 # Guerra Formal e Impasse Continental
 
-A Guerra Formal foi a declaração explícita de guerra das [[_wiki/eventos/guerras_reinkardicas_inicio\|Guerras Reinkárdicas]], partida de [[_wiki/locais/myrgarde\|Myrgarde]] e não de [[_wiki/locais/morvgrad\|Morvgrad]]. Marcou a primeira guerra continental da história de [[_wiki/locais/reinkard\|Reinkard]]: todo o continente aliado contra o planalto sombrio. O conflito, porém, assentou-se num impasse prolongado que, a cada trégua rompida, pendia um pouco mais para Morvgrad.
+A Guerra Formal foi a declaração explícita de guerra das [[_wiki/eventos/guerras_reinkardicas_inicio\|Guerras Reinkárdicas]], feita por [[_wiki/locais/myrgarde\|Myrgarde]] contra [[_wiki/locais/morvgrad\|Morvgrad]]. Marcou a primeira guerra continental da história de [[_wiki/locais/reinkard\|Reinkard]]: todo o continente aliado contra o planalto sombrio. O conflito, porém, assentou-se num impasse prolongado, que pendia para Morvgrad.
 
 ### A Declaração e a Aliança
 

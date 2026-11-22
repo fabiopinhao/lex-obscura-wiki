@@ -8,12 +8,12 @@ The Ethereal Well is the central communications nexus of the [[_wiki_en/organiza
 
 ### Location
 
-The subterranean location is not accidental. The [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]], through which [[_wiki_en/cosmologia/magi\|magi]] circulates, is more accessible in the depths, where the boundary between the planes thins. For this reason, the nexus lies below the surface, closer to the medium that makes transmission possible.
+The subterranean location is deliberate. The [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]], through which [[_wiki_en/cosmologia/magi\|magi]] circulates, is more accessible in the depths, where the boundary between the planes thins. For this reason, the nexus lies below the surface, closer to the medium that makes transmission possible.
 
 ### Repeaters
 
-The network’s range does not depend solely on the central nexus. The enchanted pitch wells of [[_wiki_en/locais/ghol_maveth\|Ghol’Maveth]], in the deep chambers of Ghol’Mournak, mirror the ethereal signal and function as regional repeaters, extending the range of transmissions. The energy for each call comes from the consecrated infrastructure itself, rather than from the magi of whoever operates the sphere.
+The enchanted pitch wells of [[_wiki_en/locais/ghol_maveth\|Ghol’Maveth]], in the deep chambers of Ghol’Mournak, mirror the ethereal signal and function as regional repeaters, extending the range of transmissions. The energy for each call comes from the consecrated infrastructure itself and does not require the magi of whoever operates the sphere.
 
 ### Blindness of the Eye
 
-The degradation of a neglected Oculus is called “Blindness of the Eye”: the depletion of the artifact’s charge when the maintenance ritual is neglected. The farther the instrument is from the Ethereal Well and its repeaters, the more vulnerable it becomes.
+The degradation of a neglected Oculus is called “Blindness of the Eye”: the depletion of the artifact’s charge when the maintenance ritual is neglected.

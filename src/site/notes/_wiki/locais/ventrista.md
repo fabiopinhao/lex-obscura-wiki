@@ -4,8 +4,8 @@
 
 # Ventrista
 
-Ventrista é uma região agrícola na base do planalto [[_wiki/racas/shadar\|shadar]], adjacente a [[_wiki/locais/morvgrad\|Morvgrad]] e sob domínio do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Suas terras férteis e vilas camponesas alimentam o império. O nome deriva do antigo shadar *ventrus*, ventre que nutre.
+Ventrista é uma região agrícola na base do planalto [[_wiki/racas/shadar\|shadar]], adjacente a [[_wiki/locais/morvgrad\|Morvgrad]] e sob domínio do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Suas terras férteis e vilas camponesas alimentam o Império. O nome deriva do antigo shadar *ventrus*, ventre que nutre.
 
 ### Geografia
 
-Faixa de terras férteis na base do planalto, cortada pelo [[_wiki/locais/rio_parveni\|Rio Parveni]]. Abriga cerca de cinquenta mil habitantes distribuídos por vilas agrícolas. A povoação de [[_wiki/locais/niedellin\|Niedellin]] situa-se na região.
+Faixa de terras férteis na base do planalto, cortada pelo [[_wiki/locais/rio_parveni\|rio Parveni]]. Abriga cerca de cinquenta mil habitantes distribuídos por vilas agrícolas. A povoação de [[_wiki/locais/niedellin\|Niedellin]] situa-se na região.

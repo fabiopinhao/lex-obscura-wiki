@@ -12,7 +12,7 @@ Usou o posto militar para atravessar rotas restritas da Torre Lateral com chaves
 
 ### Julgamento
 
-Pelas leis de [[_wiki/personagens/xarn\|Xarn]], os druls não podem punir diretamente militares shadars, e por isso Kaedhras é entregue ao Justiciar [[_wiki/personagens/orum-rahru\|Orum-Rahru]]. Foi Quavarra Ulvondra quem o entregou, chamando o Justiciar e não outro lorde. A sentença é selada com a espada: “Não há doutrina que proteja o traidor”.
+Pelas leis de [[_wiki/personagens/xarn\|Xarn]], os druls não podem punir diretamente militares shadars, e por isso Kaedhras é entregue ao Justiciar [[_wiki/personagens/orum-rahru\|Orum-Rahru]]. Foi Quavarra Ulvondra quem o entregou, chamando o justiciar e não outro lorde. A sentença é selada com a espada: “Não há doutrina que proteja o traidor”.
 
 ### A Cicatriz
 

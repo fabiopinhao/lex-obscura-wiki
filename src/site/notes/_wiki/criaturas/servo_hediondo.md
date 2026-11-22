@@ -4,7 +4,7 @@
 
 # Servo Hediondo
 
-O servo hediondo é uma criatura invocada por magia necromântica ou pactos sombrios. Não é espécie natural, mas constructo animado, de formas variadas conforme o invocador e o material disponível: cadáveres reanimados, amálgamas de carne e osso ou entidades convocadas de planos inferiores.
+O servo hediondo é uma criatura invocada por magia necromântica ou pactos sombrios. É um constructo animado, alheio a qualquer espécie natural, de formas variadas conforme o invocador e o material disponível: cadáveres reanimados, amálgamas de carne e osso ou entidades convocadas de planos inferiores.
 
 ### Uso
 

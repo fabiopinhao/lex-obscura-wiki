@@ -10,7 +10,7 @@ Aelarian é a língua élfica dos [[_wiki/racas/elarino\|elarinos]], derivada do
 
 O registro cotidiano preserva a formalidade do luminar: estruturas complexas, tempos verbais múltiplos, registro alto como padrão. As vogais são claras e precisas, as consoantes líquidas (*l*, *r*, *n*), e as sílabas se articulam com a nitidez de quem recita.
 
-O registro mágico incorpora a herança angelical. As vogais são puras e prolongadas, as frases ascendem em escala, cada palavra ligeiramente mais aguda que a anterior. Não há oclusivas duras: o aelarian ritual literalmente não consegue soar agressivo. Tampouco possui formas negativas, e reformula tudo de modo positivo; onde outra língua proibiria, o aelarian afirma. Quando um [[_wiki/cosmologia/anjos\|anjo]] abandona seu mortal, a última palavra é sempre descendente, única exceção à regra prosódica, e por isso devastadora.
+O registro mágico incorpora a herança angelical. As vogais são puras e prolongadas, as frases ascendem em escala, cada palavra ligeiramente mais aguda que a anterior. Não há oclusivas duras: o aelarian ritual não consegue soar agressivo. Tampouco possui formas negativas, e reformula tudo de modo positivo; onde outra língua proibiria, o aelarian afirma. Quando um [[_wiki/cosmologia/anjos\|anjo]] abandona seu mortal, a última palavra é sempre descendente, única exceção à regra prosódica, e por isso devastadora.
 
 ### Gramática e Escrita
 
@@ -20,6 +20,6 @@ A escrita usa glifos derivados do luminar, simplificados mas reconhecíveis: tra
 
 ### Registro Ritual
 
-O aelarian mágico é o registro litúrgico de elarinos e [[_wiki/racas/alvarar\|álvarars]] paladinos na Devotio Sancta. Seu léxico é de cognatos [[_wiki/racas/luminares\|luminares]] (*Isilmathé*, “luz eterna”; *Aelindra*, “aurora”), e sua estética sonora evoca o canto litúrgico. A Devotio Sancta não exige uma língua ritual única: responde à devoção e à tradição espiritual do praticante, de modo que a língua é o vaso cultural da prece, não uma chave exclusiva.
+O aelarian mágico é o registro litúrgico de elarinos e [[_wiki/racas/alvarar\|álvarars]] paladinos na Devotio Sancta. Seu léxico é de cognatos [[_wiki/racas/luminares\|luminares]] (*Isilmathé*, “luz eterna”; *Aelindra*, “aurora”), e sua estética sonora evoca o canto litúrgico. A Devotio Sancta não exige uma língua ritual única: responde à devoção e à tradição espiritual do praticante, de modo que a língua é o vaso cultural da prece.
 
 A língua aparece também na onomástica. *Crys’Aelin*, nome aelariano de [[_wiki/locais/elenir\|Elenir]], traduz-se por “aurora cristalina” e deriva do luminar ancestral, fundindo *crys* (cristal) e *aelin* (cognato de *Aelindra*).

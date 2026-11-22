@@ -4,7 +4,7 @@
 
 # Spectro
 
-Spectro is the hybrid school of black and blue whose illusion deceives perception without altering reality. It creates false sensory stimuli that exist only in the observer’s senses, and is one of the disciplines of black magic, specializing in distorting the tangible and traversing the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]]. Its central question, “is this real?”, distinguishes it from [[_wiki_en/escolas/psycho\|Psycho]], which asks “is this my thought?”, and from [[_wiki_en/escolas/hypno\|Hypno]], which asks “am I awake?”.
+Spectro is the hybrid school of devils and sidereals whose illusion deceives perception without altering reality. It creates false sensory stimuli that exist only in the observer’s senses, and is one of the disciplines of black magic, specializing in distorting the tangible and traversing the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]]. Its central question, “is this real?”, distinguishes it from [[_wiki_en/escolas/psycho\|Psycho]], which asks “is this my thought?”, and from [[_wiki_en/escolas/hypno\|Hypno]], which asks “am I awake?”.
 
 ### Principle
 

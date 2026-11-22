@@ -8,10 +8,10 @@ The Corruption of the Dragon Eggs is the event of the First Era that gave rise t
 
 ### The Experiment
 
-Upon noticing the deserted nests, the Shadars collected the eggs and tried to corrupt them in the shadows, hoping to domesticate dragons to serve them. They failed. The creatures born under diabolical influence were not dragons: they were diminutive, docile draconic beings, incapable of the breath attack or flight that defined the ancestral species.
+Upon noticing the deserted nests, the Shadars collected the eggs and tried to corrupt them in the shadows, hoping to domesticate dragons to serve them. They failed: the creatures born under diabolical influence were diminutive, docile draconic beings, incapable of the dragon breath or flight that defined the ancestral species.
 
 Over generations, the Shadars altered these creatures through deliberate selection, crossing bloodlines, purifying desirable traits, and discarding what was of no use, until they achieved a stable form: small reptiles with large eyes and long tails, agile and obedient, whose devotion to the masters who offered them purpose was absolute. They were called kobolds, and they were enslaved.
 
 ### Significance
 
-The episode exposes in miniature the Shadars’ relationship with the other races: absolute pragmatism. What could not be dominated was destroyed or driven out; what could be shaped was shaped until it served. The kobolds are a product of this logic, and their existence exclusively on the plateau, absent from [[_wiki_en/locais/veinkard\|Veinkard]], is proof that they arose from dark corruption, and not from any natural process.
+The episode exposes in miniature the Shadars’ relationship with the other races: absolute pragmatism. What could not be dominated was destroyed or driven out; what could be shaped was shaped until it served. The kobolds are a product of this logic, and their existence exclusively on the plateau, absent from [[_wiki_en/locais/veinkard\|Veinkard]], is proof that they arose from dark corruption.

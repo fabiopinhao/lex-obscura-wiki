@@ -10,7 +10,7 @@ All magic exacts a price, and the magical fuel system governs two of the fundame
 
 Every caster possesses a limited reserve of magical energy, magi, and each spell consumes part of it. An empty reserve means an inability to cast, like a weapon without ammunition. The reserve recovers with rest: about ten to twenty percent in an hour of light rest, and almost all of it after a full eight hours of sleep. Deep meditation accelerates the process, and certain special rituals restore it faster, at a cost of their own.
 
-Forcing spellcasting with a depleted reserve is overload, and its consequences are severe: severe hemorrhaging, physical collapse, permanent damage to the magical channels, and, at the extreme, death. Pulling the trigger without bullets does not fire a shot; forcing magic without magi destroys the caster.
+Forcing spellcasting with a depleted reserve is overload, and its consequences are severe: severe hemorrhaging, physical collapse, permanent damage to the magical channels, and, at the extreme, death.
 
 ### Thematic Cost
 
@@ -18,11 +18,11 @@ Beyond fuel, each school imposes a thematic cost conceptually linked to the spel
 
 The intensity of the cost follows the scale of the spell. Minor effects exact a light cost, lasting seconds to minutes, and consume little fuel; legendary effects can impose potentially permanent costs and require almost the entire reserve.
 
-At greater magnitudes, this cost can no longer be recovered from. Forbidden spells and spells of maximum scale burn vitality that neither rest nor healing restores: what is spent there does not return. This does not constitute a fourth type of cost, but rather the thematic cost itself taken to the extreme of the scale.
+At greater magnitudes, this cost can no longer be recovered from. Forbidden spells and spells of maximum scale burn vitality that neither rest nor healing restores. This is the thematic cost itself taken to the extreme of the scale, not a fourth type of cost.
 
 ### Foci
 
-A consecrated focus, whether a scepter, weapon, or relic, can bear a portion of the thematic cost. Without it, the caster’s body pays the difference. The focus neither supplies energy nor functions as a reservoir: it absorbs damage, and that is the nature of the mitigation it offers.
+A consecrated focus, whether a scepter, weapon, or relic, can bear a portion of the thematic cost. Without it, the caster’s body pays the difference. The focus absorbs damage without supplying energy or functioning as a reservoir.
 
 Not every focus is consecrated. An amplifying focus increases the range or strength of the effect and absorbs none of the cost: whoever wields it pays the full sacrifice.
 

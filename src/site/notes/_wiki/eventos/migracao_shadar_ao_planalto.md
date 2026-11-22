@@ -6,19 +6,19 @@
 
 A Migração shadar ao Planalto é o evento da Primeira Era em que os [[_wiki/racas/shadar\|shadars]], diante da repressão crescente, migraram para o extremo norte, uma região fria, árida e negligenciada pelos reinos alabastrinos. Foi no isolamento desse [[_wiki/locais/dhar-morveth\|planalto]] que se consolidou a cultura shadar e nasceram suas primeiras alianças com os [[_wiki/racas/drul\|druls]].
 
-### O refúgio do norte
+### O Refúgio do Norte
 
 Os shadars não estavam sozinhos. O planalto norte já abrigava comunidades humanas dispersas, em grande parte formadas por quem havia rejeitado a conversão religiosa. Sob a influência dos [[_wiki/racas/alvarar\|álvarars]], os reinos das planícies ofereciam pouca margem para dissidência: quem recusava a fé celestial perdia acesso ao poder, à proteção e ao comércio. Pagãos e transgressores buscavam refúgio onde os estandartes alabastrinos não alcançavam.
 
 As opções eram poucas. Ao sul ficavam os próprios reinos que os rejeitavam. As cordilheiras a oeste eram território de [[_wiki/racas/draconideo\|draconídeos]] territorialistas, e os poucos lugares seguros pertenciam aos anões, que não aceitavam o estabelecimento permanente de humanos. Os alagadiços a leste abrigavam apenas os mais determinados, que acabavam por se juntar aos [[_wiki/racas/frenim\|frenins]], humanos que haviam buscado o conhecimento dos [[_wiki/racas/undine\|undines]] e, rejeitados, se dedicaram ao estudo do [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]] até aprenderem a transitar entre os dois planos. Restava o norte.
 
-### A barreira e seus perigos
+### A Barreira e Seus Perigos
 
 O norte tinha seus próprios riscos: as tundras além do planalto eram domínio dos [[_wiki/racas/orc\|orcs]], que pilhavam qualquer assentamento ao alcance. O planalto, porém, oferecia proteção por um motivo inesperado, a barreira mágica dos [[_wiki/racas/luminares\|Luminares]]. Os dragões ficavam confinados às vertentes externas das montanhas, e o planalto, embora árido e gelado, era um dos poucos territórios do norte onde humanos podiam viver sem temer ataques dracônicos. Os orcs precisavam cruzar montanhas patrulhadas por dragões para alcançar o planalto, e poucos conseguiam. A barreira exercia, assim, dupla função: continha os dragões e, de forma indireta, reduzia o fluxo de orcs.
 
 Os shadars encontraram as comunidades pagãs do planalto e as subjugaram sem piedade, algumas convertidas à força, outras sacrificadas em rituais de consagração. Foi nesse isolamento brutal que a cultura shadar se forjou, na exclusão, na disciplina, na devoção ao poder sombrio e na vingança.
 
-### O contato com os druls
+### O Contato com os Druls
 
 No planalto, os shadars cruzaram caminhos com os druls. O primeiro contato trouxe tensão e desconfiança. Os druls, orgulhosos e antigos, guardavam os segredos de [[_wiki/locais/vor-ghol\|Vor-Ghol]] havia milênios; os shadars, recém-estabelecidos, representavam ambição e expansão. Como os druls não desejavam colonizar a superfície e os shadars não se interessavam por Vor-Ghol, suas rotas permaneceram separadas por muito tempo.
 

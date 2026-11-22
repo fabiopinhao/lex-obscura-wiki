@@ -6,7 +6,7 @@
 
 O Pico de Nethys, também chamado Dente de Reinkard, é o ponto mais elevado da [[_wiki/locais/dorsal\|Dorsal]] na margem voltada para o planalto [[_wiki/racas/shadar\|shadar]]. Antigo ninho de dragão, hoje está abandonado, ainda que permaneça um marco geográfico de peso na paisagem de [[_wiki/locais/morvgrad\|Morvgrad]].
 
-### Geografia e história
+### Geografia e História
 
 Foi ninho de dragão pela maior parte da [[_wiki/conceitos/primeira_era\|Primeira Era]], morada da anciã [[_wiki/personagens/varna\|Varna]]. Na [[_wiki/conceitos/segunda_era\|Segunda Era]], a corrupção sombria dos shadars tornou a região insustentável, e Varna migrou para [[_wiki/locais/varnak\|Varnak]], no continente de [[_wiki/locais/veinkard\|Veinkard]]. O pico segue abandonado desde então.
 
@@ -14,6 +14,6 @@ Foi ninho de dragão pela maior parte da [[_wiki/conceitos/primeira_era\|Primeir
 
 [[_wiki/locais/mor_severith\|Mor’Severith]], a torre de [[_wiki/personagens/arothistar\|Arothistar]], está fundida à base do Pico de Nethys, em [[_wiki/locais/xarn_aroth\|Xarn’Aroth]]. Uma ponte sem corrimão conecta o [[_wiki/locais/oculario\|Oculário]] à trilha que sobe ao pico. A relação pessoal de Arothistar com o lugar não é de conhecimento público, mas ele o contempla com frequência.
 
-### A cicatriz no céu
+### A Cicatriz no Céu
 
 Sobre o Pico de Nethys, fendas de [[_wiki/cosmologia/noctiluz\|noctiluz]] abrem-se periodicamente, deixando cicatrizes prateadas no firmamento. A fenda que se abriu durante a unção de [[_wiki/personagens/milorsevogh_velshard\|Milor]], vista de [[_wiki/locais/niedellin\|Niedellin]], foi outra, e deixou no céu do planalto uma cicatriz cerúlea.

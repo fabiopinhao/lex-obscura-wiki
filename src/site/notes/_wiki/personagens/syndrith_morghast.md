@@ -4,17 +4,17 @@
 
 # Syndrith Morghast
 
-Syndrith Morghast é uma [[_wiki/racas/drul\|drul]] ophideia do [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]], das [[_wiki/organizacoes/ophideias\|Ophideias]]. Porta o selo púrpura do Conselho, autoridade que sobrepõe a jurisdição de outros oficiais, e com ele supervisiona [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] em [[_wiki/locais/niedellin\|Niedellin]].
+Syndrith Morghast é uma [[_wiki/racas/drul\|drul]] ophideia do [[_wiki/locais/templo_de_azkaroth\|Templo de Azkaroth]], das [[_wiki/organizacoes/ophideias\|ophideias]]. Porta o selo púrpura do Conselho, autoridade que sobrepõe a jurisdição de outros oficiais, e com ele supervisiona [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] em [[_wiki/locais/niedellin\|Niedellin]].
 
 ### Aparência
 
 Tem pele negro-púrpura e olhos violáceos de leve brilho, semicerrados quando avalia. O cabelo longo é platinado, fino e claro como teia de aranha. Veste o traje ophideia drul: panos drapeados sobre couro, faixas e aberturas estratégicas que mostram o corpo de propósito, nunca a couraça pesada que travaria um giro ou uma queda. O sigilo da [[_wiki/organizacoes/casa_morghast\|Casa Morghast]] aparece como ornamento ritual no manto. Empunha balestra de repetição e rapieiras gêmeas, e cavalga uma [[_wiki/criaturas/sombralva\|Sombralva]], felino de grande porte e pelagem que bebe a luz em vez de refleti-la.
 
-### Origem e papel
+### Origem e Papel
 
 Ela é espiã e sacerdotisa ao mesmo tempo: o peso litúrgico da ophideia somado ao ofício do campo. Opera infiltração e exploração noturna de alto nível e recruta inteligência de campo. Em Niedellin, desceu à noite e leu o terreno. Seu próximo rito é a Oblátio Ereba.
 
-### Método e voz
+### Método e Voz
 
 Syndrith raramente improvisa. Lê o ambiente antes de agir e prefere deixar o erro alheio render como moeda a corrigi-lo. Quase nunca insulta de frente; o veneno dela vem embrulhado em polidez, sarcasmo como cortesia invertida, o elogio que degrada enquanto soa como cumprimento. Chamar um superior de oficial superior, na boca dela, soa menos como deferência e mais como aviso. Recitar uma oração luminosa em voz alta vira, com a entonação certa, o sagrado reduzido a absurdo cômico. O fascínio genuíno, quando aparece, sai disfarçado de espanto irônico, como diante de um [[_wiki/racas/orc\|orc]] erudito, raro como piedade em [[_wiki/locais/vor-ghol\|Vor-Ghol]].
 

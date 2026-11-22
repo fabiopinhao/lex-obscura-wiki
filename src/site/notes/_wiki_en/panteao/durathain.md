@@ -16,7 +16,7 @@ Geo tears the ore from the rock; Toxo processes it through corrosive baths, acid
 
 ### The Hand
 
-“By Durathain’s dirty fingers!” is a curse used by miners, smiths, and any worker whose trade requires contact with substances that burn or poison. The invocation is not reverence, but recognition of kinship: those who work deep in a tunnel or before a forge know the filth that defines the titan and the filth he imposes on those who approach his domains. The epithet is as much a warning as an identity. The filthy hand does the necessary work, and the price is to carry on its fingers the residue of everything it has touched. There is no temple dedicated to his name. His devotees recognize one another by the state of their hands.
+“By Durathain’s dirty fingers!” is a curse used by miners, smiths, and any worker whose trade requires contact with substances that burn or poison. The invocation, devoid of reverence, is recognition of kinship: those who work deep in a tunnel or before a forge know the filth that defines the titan and the filth he imposes on those who approach his domains. The epithet is as much a warning as an identity. The filthy hand does the necessary work, and the price is to carry on its fingers the residue of everything it has touched. There is no temple dedicated to his name. His devotees recognize one another by the state of their hands.
 
 ### Manifestation
 

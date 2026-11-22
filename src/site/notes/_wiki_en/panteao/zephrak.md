@@ -4,7 +4,7 @@
 
 # Zephrak
 
-Zephrak, the Merciless Breath, is an angelic deity of consecrated wind, aligned with the schools of [[_wiki_en/escolas/aero\|Aero]] and [[_wiki_en/escolas/sacro\|Sacro]]. His breath acts as a sieve: the air separates those who carry corruption from those who do not, and the mercilessness of the title denotes not cruelty, but a complete lack of regard for context.
+Zephrak, the Merciless Breath, is an angelic deity of consecrated wind, aligned with the schools of [[_wiki_en/escolas/aero\|Aero]] and [[_wiki_en/escolas/sacro\|Sacro]]. His breath acts as a sieve: the air separates those who carry corruption from those who do not, and the mercilessness of the title, unrelated to cruelty, denotes a complete lack of regard for context.
 
 ### Manifestation
 
@@ -14,7 +14,7 @@ A subtler sign is also attributed to him: a cutting gust that tears away only th
 
 ### Domain
 
-Zephrak’s breath is consecrated wind that separates. Arcane corruption, active curses, demonic bonds, and profanation of any origin cause friction against the air, and the friction generates heat, and the heat generates pain proportional to the severity of the taint. The unblemished believer feels only a cold breeze; the pact-bound person feels the wind scrape the skin like coarse sandpaper; the committed desecrator feels the air enter the lungs and burn from within. The discrimination is automatic and indifferent to intent, without appeal, confession, or mitigating circumstance. The wind does not listen. The wind separates. The angel who blows the sacred gale over a field of innocents and guilty alike does not deliberately protect the innocents: they survive because the wind does not find in them what it needs to cut.
+Zephrak’s breath is consecrated wind that separates. Arcane corruption, active curses, demonic bonds, and profanation of any origin cause friction against the air, and the friction generates heat, and the heat generates pain proportional to the severity of the taint. The unblemished believer feels only a cold breeze; the pact-bound person feels the wind scrape the skin like coarse sandpaper; the committed desecrator feels the air enter the lungs and burn from within. The discrimination is automatic and indifferent to intent, without appeal, confession, or mitigating circumstance. The angel who blows the sacred gale over a field of innocents and guilty alike does not deliberately protect the innocents: they survive because the wind does not find in them what it needs to cut.
 
 ### The Breath
 

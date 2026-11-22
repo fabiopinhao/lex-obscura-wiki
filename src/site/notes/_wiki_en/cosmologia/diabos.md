@@ -8,7 +8,7 @@ Devils are the most ambitious among the divine categories. The black [[_wiki_en/
 
 ### Nature
 
-Each devil is a case unto itself, and selfishness is its defining trait: it pursues its own objectives and considers all others, including other devils, pieces to be manipulated. They are orderly and organized, but their order serves control rather than justice. They think structurally, plan for the long term, and nothing stops them in pursuit of an objective. There is no morality for a devil: the ends justify the means. They seek to exercise dominion over other existential planes, with the material plane as their primary target.
+Each devil is a case unto itself, and selfishness is its defining trait: it pursues its own objectives and considers all others, including other devils, pieces to be manipulated. They are orderly and organized, and their order, unconcerned with justice, serves control. They think structurally, plan for the long term, and nothing stops them in pursuit of an objective. There is no morality for a devil: the ends justify the means. They seek to exercise dominion over other existential planes, with the material plane as their primary target.
 
 ### Access System
 

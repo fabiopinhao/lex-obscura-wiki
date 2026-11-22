@@ -4,7 +4,7 @@
 
 # Dialetos Tribais
 
-Os dialetos Tribais são as línguas cotidianas das raças híbridas. Não formam um idioma único, mas um conjunto de sistemas próprios que cada raça desenvolveu de modo independente, voltados à comunicação dentro da própria espécie.
+Os dialetos tribais são as línguas cotidianas das raças híbridas, sistemas que cada raça desenvolveu de modo independente para a comunicação dentro da própria espécie.
 
 ### Natureza
 

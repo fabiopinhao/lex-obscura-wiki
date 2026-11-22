@@ -8,4 +8,4 @@ Voxmere é o pontífice do [[_wiki/locais/templo_de_velmorain\|Templo de Velmora
 
 ### Relações
 
-Na juventude foi aspirante, e [[_wiki/personagens/orum-rahru\|Orum-Rahru]] via nele grande potencial. O Justiciar o conheceu nesse tempo e ainda guarda a lembrança do que esperava dele.
+Na juventude foi aspirante, e [[_wiki/personagens/orum-rahru\|Orum-Rahru]] via nele grande potencial. O justiciar o conheceu nesse tempo e ainda guarda a lembrança do que esperava dele.

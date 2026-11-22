@@ -4,7 +4,7 @@
 
 # Geo
 
-Geo is the pure green school that manipulates earth, stone, and soil as real matter, with weight and permanence. Its domain requires contact with the ground: it becomes useless over water or in the air. Its key feeling is obstinacy, the refusal to yield felt in the body as the conviction that remaining is already resisting. Its antagonistic counterpart is [[_wiki_en/escolas/aero\|Aero]], the school of movement.
+Geo is the pure school of the titans that manipulates earth, stone, and soil as real matter, with weight and permanence. Its domain requires contact with the ground: it becomes useless over water or in the air. Its key feeling is obstinacy, the refusal to yield felt in the body as the conviction that remaining is already resisting. Its antagonistic counterpart is [[_wiki_en/escolas/aero\|Aero]], the school of movement.
 
 ### Principle
 

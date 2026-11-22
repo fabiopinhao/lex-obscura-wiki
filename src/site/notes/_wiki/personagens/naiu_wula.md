@@ -4,7 +4,7 @@
 
 # Naiu’Wula
 
-Naiu’Wula é um mestre errante [[_wiki/racas/gerut\|gerut]] do fim da [[_wiki/conceitos/segunda_era\|Segunda Era]], anterior às Guerras Reinkárdicas, lembrado como fundador da [[_wiki/cosmologia/doutrina_da_alma\|Doutrina da Alma]] e base filosófica do sistema de magia [[_wiki/magia/teru\|Teru]]. Pregava sem cátedra nem sobrenome, em espaços abertos, ensinando ao demonstrar mais do que ao argumentar.
+Naiu’Wula é um mestre errante [[_wiki/racas/gerut\|gerut]] do fim da [[_wiki/conceitos/segunda_era\|Segunda Era]], anterior às Guerras Reinkárdicas, lembrado como fundador da [[_wiki/cosmologia/doutrina_da_alma\|Doutrina da Alma]] e base filosófica do sistema de magia [[_wiki/magia/teru\|Teru]]. Pregava sem cátedra nem sobrenome, em espaços abertos, ensinando ao demonstrar, sem argumentar.
 
 ### Doutrina
 
@@ -16,4 +16,4 @@ Em vida, dividiu o mundo que o ouviu. Religiosos o chamavam de herético, alquim
 
 ### Legado
 
-O sistema que parte de sua doutrina permite conjurar sem subordinação divina, e é por essa via que os [[_wiki/organizacoes/justiciares\|Justiciares]] acessam a magia. [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] domina o Teru como herdeiro prático da tradição de Naiu’Wula. No extremo oposto está [[_wiki/personagens/jospin_valheorn\|Jospin Valheorn]], que viveu depois: o materialismo de Jospin e o espiritualismo de Naiu’Wula são pólos que nunca se reconheceram, e Jospin não o menciona em seus escritos.
+O sistema que parte de sua doutrina permite conjurar sem subordinação divina, e é por essa via que os [[_wiki/organizacoes/justiciares\|justiciares]] acessam a magia. [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] domina o Teru como herdeiro prático da tradição de Naiu’Wula. No extremo oposto está [[_wiki/personagens/jospin_valheorn\|Jospin Valheorn]], que viveu depois: o materialismo de Jospin e o espiritualismo de Naiu’Wula são pólos que nunca se reconheceram, e Jospin não o menciona em seus escritos.

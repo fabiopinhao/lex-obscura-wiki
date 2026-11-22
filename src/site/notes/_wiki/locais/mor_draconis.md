@@ -8,7 +8,7 @@ Mor’Draconis é o anel fortificado que serve de núcleo administrativo e relig
 
 ### Estruturas
 
-O Círculo Obsidiano, ou [[_wiki/locais/salao_do_conselho\|Salão do Conselho]], é uma abóbada monumental de pedra viva, com mesa circular ao redor de um poço de piche central que reflete as tochas. Doze estátuas de [[_wiki/cosmologia/diabos\|diabos]] de obsidiana ocupam o teto. Assentos de granito bruto, marcados por runas ásperas, cabem a [[_wiki/organizacoes/justiciares\|Justiciares]] e Generais, enquanto assentos de seda e ouro recebem os Arcontes; uma cadeira maior, rotativa, preside o conjunto.
+O Círculo Obsidiano, ou [[_wiki/locais/salao_do_conselho\|Salão do Conselho]], é uma abóbada monumental de pedra viva, com mesa circular ao redor de um poço de piche central que reflete as tochas. Doze estátuas de [[_wiki/cosmologia/diabos\|diabos]] de obsidiana ocupam o teto. Assentos de granito bruto, marcados por runas ásperas, cabem a [[_wiki/organizacoes/justiciares\|justiciares]] e generais, enquanto assentos de seda e ouro recebem os arcontes; uma cadeira maior, rotativa, preside o conjunto.
 
 Outras estruturas compõem o anel:
 
@@ -18,6 +18,6 @@ Outras estruturas compõem o anel:
 
 Completam o distrito os bairros nobres, onde shadars de alta linhagem residem e conspiram, e as bibliotecas e laboratórios dedicados ao conhecimento arcano e alquímico.
 
-### Segurança e acessos
+### Segurança e Acessos
 
 Mor’Draconis protege-se por rotina: patrulhas de seis em seis e rotação dos pontos cegos a cada troca de turno. A interdição de [[_wiki/racas/worg\|worgs]] é antiga, anterior ao reinado de Arothistar, e nunca foi revogada. O elevador vertical para [[_wiki/locais/ghilanna\|Ghilanna]] fica no distrito, antes da entrada de Xarn’Aroth; sua plataforma de carga opera com longas correntes de metal pesado, travas gravitacionais que gemem ao encaixar e manivelas acionadas por [[_wiki/criaturas/ogro\|ogros]] acorrentados nos níveis inferiores. O topo do anel oferece ponto de observação estratégico sobre a cidade e o planalto.

@@ -4,7 +4,7 @@
 
 # Vinculum Daemonis
 
-Vinculum Daemonis is one of the systems of access to magic, a bond of force forged with [[_wiki_en/cosmologia/demonios\|demons]] in exchange for raw power, and is proscribed by imperial doctrine. Where other systems depend on a contract or hierarchy, this one dispenses with bureaucracy: demons are pure chaos, violence and destruction without law, and respect no contracts, only force. Access is immediate, and the price is instability.
+Vinculum Daemonis is one of the systems of access to magic, a bond of force forged with [[_wiki_en/cosmologia/demonios\|demons]] in exchange for raw power, and is proscribed by imperial doctrine. Where other systems depend on a contract or hierarchy, this one dispenses with bureaucracy: demons are pure chaos, violence and destruction without law, and respect only force. Access is immediate, and the price is instability.
 
 In the [[_wiki_en/organizacoes/imperio_sombrio\|Empire]], the bond is forbidden, except with the personal blessing of the monarch, [[_wiki_en/personagens/arothistar\|Arothistar]]: the Word of the Sovereign requires this blessing for the gods of chaos. The prohibition applies to [[_wiki_en/racas/shadar\|Shadars]] and [[_wiki_en/racas/drul\|Druls]], and there are bonded [[_wiki_en/racas/orc\|orcs]] in the Empire’s service.
 
@@ -18,7 +18,7 @@ The transfer of [[_wiki_en/cosmologia/magi\|magi]] in Vinculum Daemonis is visce
 
 ### The Bond
 
-The bond is forged not through summoning, but through attraction. The invocation dispenses with a containment circle, which demons ignore, and requires an act of extreme violence as a portal, with the caster in a state of rage or despair; the demon is drawn by the chaos. A physical ordeal follows, in which the demon tests the caster through combat or torture: surviving forms the bond, succumbing surrenders the soul. The sealing takes place through an exchange of blood, and a chaotic mark appears on the body, a burn, an irregular scar, or sprouting horns. The bond is empathic, and the caster begins to feel the demon’s destructive hunger.
+The bond is forged through attraction, without summoning. The invocation dispenses with a containment circle, which demons ignore, and requires an act of extreme violence as a portal, with the caster in a state of rage or despair; the demon is drawn by the chaos. A physical ordeal follows, in which the demon tests the caster through combat or torture: surviving forms the bond, succumbing surrenders the soul. The sealing takes place through an exchange of blood, and a chaotic mark appears on the body, a burn, an irregular scar, or sprouting horns. The bond is empathic, and the caster begins to feel the demon’s destructive hunger.
 
 ### Obligations and Costs
 

@@ -8,7 +8,7 @@ Yelvanna, o Réquiem Consagrado, é uma divindade da categoria Anjo associada à
 
 ### Manifestação
 
-A figura de Yelvanna é feminina, moldada em sal e osso. O rosto existe sob uma camada de sal tão espessa que lembra máscara mortuária, e a boca é uma fenda horizontal por onde passa ar que vibra ao sair. O corpo é oco: o torso contém cavidades irregulares, cada uma moldada pela morte de alguém que pereceu sob proteção do réquiem, e o vento que as atravessa produz harmônicos que o ouvido humano processa como canto coral. As menores correspondem a crianças que não sobreviveram ao parto consagrado, as maiores a soldados caídos dentro da barreira. Da forma emana névoa salgada que deposita cristal fino sobre tudo que toca, com cheiro de maré baixa e cinza de incensário apagado.
+A figura de Yelvanna é feminina. O rosto existe sob uma camada de sal tão espessa que lembra máscara mortuária, e a boca é uma fenda horizontal por onde passa ar que vibra ao sair. O corpo é oco: o torso contém cavidades irregulares, cada uma moldada pela morte de alguém que pereceu sob proteção do réquiem, e o vento que as atravessa produz harmônicos que o ouvido humano processa como canto coral. As menores correspondem a crianças que não sobreviveram ao parto consagrado, as maiores a soldados caídos dentro da barreira. Da forma emana névoa salgada que deposita cristal fino sobre tudo que toca, com cheiro de maré baixa e cinza de incensário apagado.
 
 Um sinal mais discreto também é atribuído a ela: nas noites em que uma muralha sitiada resiste, sitiados relatam ouvir o réquiem no vento, harmônicos de canto coral sem voz alguma que os entoe, enquanto uma bruma salgada deposita cristal fino sobre pedra e metal.
 

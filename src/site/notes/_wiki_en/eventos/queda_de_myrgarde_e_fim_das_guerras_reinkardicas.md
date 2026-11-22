@@ -12,7 +12,7 @@ When the gates finally gave way, [[_wiki_en/personagens/arothistar\|Arothistar]]
 
 ### The Fate of the Defenders
 
-[[_wiki_en/personagens/auren\|Auren]], a winged guard of the Temple and aspiring paladin, had already been a prisoner of the empire for years, captured before the siege; with the fall, he was transferred to the Empire’s dungeons, a fate also shared by [[_wiki_en/personagens/iluvrae\|Ilúvrae]], an Elarin healer captured in [[_wiki_en/locais/elenir\|Elenir]].
+[[_wiki_en/personagens/auren\|Auren]], a winged guard of the Temple and aspiring paladin, had already been a prisoner of the Empire for years, captured before the siege; with the fall, he was transferred to the Empire’s dungeons, a fate also shared by [[_wiki_en/personagens/iluvrae\|Ilúvrae]], an Elarin healer captured in [[_wiki_en/locais/elenir\|Elenir]].
 
 Gnomes who had prospered under the protection of the walls were enslaved in the deep forges. Few members of the clergy survived; among them, the old cleric [[_wiki_en/personagens/corvina\|Mother Corvina]], bent under the weight of decades. Humans who resisted or who knew too much were imprisoned in [[_wiki_en/locais/ghol_drokh\|Ghol’Drokh]], some sustained by necromancy so that oblivion would not free them.
 

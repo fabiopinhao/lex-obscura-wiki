@@ -10,7 +10,7 @@ Enfraquecimento é um feitiço de escala média da escola [[_wiki/escolas/anatho
 
 Diferente da Supressão, da escola [[_wiki/escolas/abjuro\|Abjuro]], que bloqueia o arcano, Enfraquecimento corrói o corpo sem tocar na magia. O alvo não apodrece, como sob [[_wiki/escolas/patho\|Patho]], nem adoece: apenas perde capacidade.
 
-### Diagnóstico e reversão
+### Diagnóstico e Reversão
 
 A Diagnose detecta o efeito. Salvaguarda, da escola [[_wiki/escolas/sacro\|Sacro]], e Anulação, da escola Abjuro, podem revertê-lo.
 

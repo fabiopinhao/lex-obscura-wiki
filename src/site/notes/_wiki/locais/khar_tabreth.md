@@ -10,9 +10,9 @@ Khar’Tabreth, a Torre das Tábuas, é o centro cartorial do [[_wiki/organizaco
 
 O nome deriva das tabuletas de argila em que se gravavam as primeiras denúncias contra traidores, na [[_wiki/conceitos/segunda_era\|Segunda Era]]. Hoje a torre concentra a burocracia do Culto Sombrio: cerca de mil funcionários processam jurisprudência, precedentes e a documentação oficial do regime. A [[_wiki/artefatos/tabua_reversa\|Tábua Reversa]] e os selos cromáticos vermelho e preto originam-se e são autenticados ali, e conselheiros como [[_wiki/personagens/eliakim\|Eliakim]] a referenciam como repositório legal do [[_wiki/organizacoes/imperio_sombrio\|Império]].
 
-### Acervo restrito
+### Acervo Restrito
 
-O acervo não é uniformemente acessível. Seções específicas da torre guardam material de circulação restrita, aberto apenas a Lordes Sombrios e a determinadas faixas hierárquicas do Culto. O funcionalismo cartorial comum não alcança essas salas, e o que ali se arquiva não circula como jurisprudência ordinária.
+O acervo não é uniformemente acessível. Seções específicas da torre guardam material de circulação restrita, aberto apenas a lordes sombrios e a determinadas faixas hierárquicas do Culto. O funcionalismo cartorial comum não alcança essas salas, e o que ali se arquiva não circula como jurisprudência ordinária.
 
 ### Regras da Torre
 

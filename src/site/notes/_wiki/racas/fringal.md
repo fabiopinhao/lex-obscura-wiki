@@ -4,11 +4,11 @@
 
 # Fringal
 
-Os fringais são um subtipo gnômico dos [[_wiki/racas/aviano\|avianos]], aves humanoides de pequeno porte e marca arcana branca. Nasceram da mesma interferência angelical das [[_wiki/eventos/guerras_raciais\|Guerras Raciais]] que produziu os [[_wiki/racas/aquilar\|aquilars]], e onde a elevação gerou rapinantes de grande envergadura, gerou também passeriformes diminutos, de asas que nunca sustentaram voo. Na [[_wiki/conceitos/terceira_era\|Terceira Era]] vivem marginalizados nas franjas urbanas do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]].
+Os fringais são um subtipo gnômico dos [[_wiki/racas/aviano\|avianos]], aves humanoides de pequeno porte e marca arcana angélica. Nasceram da mesma interferência angelical das [[_wiki/eventos/guerras_raciais\|Guerras Raciais]] que produziu os [[_wiki/racas/aquilar\|aquilars]], e onde a elevação gerou rapinantes de grande envergadura, gerou também passeriformes diminutos, de asas que nunca sustentaram voo. Na [[_wiki/conceitos/terceira_era\|Terceira Era]] vivem marginalizados nas franjas urbanas do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]].
 
 ### Natureza
 
-A marca branca fringal é tão genuína quanto a dos aquilars, sem manipulação artificial nem degeneração. O fenótipo menor é variação, mas a distinção entre variação e defeito depende de quem tem força para impô-la, e os fringais nunca tiveram essa força. Os aquilars os tratam como avianos incompletos, o Império os trata como resíduo, os [[_wiki/racas/goblin\|goblinoides]] os tratam como alimento. Os fringais se tratam como sobreviventes e não pedem opinião a ninguém.
+A marca angélica fringal é tão genuína quanto a dos aquilars, sem manipulação artificial nem degeneração. O fenótipo menor é variação, mas a distinção entre variação e defeito depende de quem tem força para impô-la, e os fringais nunca tiveram essa força. Os aquilars os tratam como avianos incompletos, o Império os trata como resíduo, os [[_wiki/racas/goblin\|goblinoides]] os tratam como alimento. Os fringais se tratam como sobreviventes e não pedem opinião a ninguém.
 
 ### Fisiologia
 

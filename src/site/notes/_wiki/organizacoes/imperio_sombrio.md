@@ -8,7 +8,7 @@ O Império Sombrio, também chamado simplesmente Império ou Domínio Sombrio, �
 
 ### Fundação
 
-O Império não nasceu monarquia. Sua estrutura evoluiu a partir do Culto Sombrio, fundado por [[_wiki/personagens/xarn\|Xarn]] na [[_wiki/conceitos/segunda_era\|Segunda Era]] ao unificar os templos diabólicos dispersos no planalto norte; a criação de Morvgrad como capital política e religiosa selou a fusão entre fé e governo. A ascensão de Arothistar transformou o Culto em instrumento de monarquia absoluta: o [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] não revogou a [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]], mas alinhou-se e sobrepôs-se a ela. Foi revolução e continuidade ao mesmo tempo, pois absorver o sistema antigo garantiu submissão onde destruí-lo teria gerado resistência.
+O Império não nasceu monarquia. Sua estrutura evoluiu a partir do Culto Sombrio, fundado por [[_wiki/personagens/xarn\|Xarn]] na [[_wiki/conceitos/segunda_era\|Segunda Era]] ao unificar os templos diabólicos dispersos no planalto norte; a criação de Morvgrad como capital política e religiosa selou a fusão entre fé e governo. A ascensão de Arothistar transformou o Culto em instrumento de monarquia absoluta: o [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] alinhou-se à [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]] e sobrepôs-se a ela sem revogá-la. Foi revolução e continuidade ao mesmo tempo, pois absorver o sistema antigo garantiu submissão onde destruí-lo teria gerado resistência.
 
 ### Extensão Territorial
 

@@ -8,7 +8,7 @@ Abbhal, a Graça Profanada, é um diabo de origem angelical, o único entre os d
 
 ### A Queda
 
-Abbhal não escolheu cair. Quando os humanos que participaram do massacre dos [[_wiki/racas/luminares\|Luminares]] se dividiram na [[_wiki/conceitos/primeira_era\|Primeira Era]], a própria partição gerou sua queda. Os que abraçaram a culpa tornaram-se [[_wiki/racas/shadar\|shadars]]; os que buscaram absolvição tornaram-se [[_wiki/racas/alvarar\|álvarars]]. Nesse momento de cisão, algo se rompeu também na esfera angelical, e Abbhal, até então vinculado ao panteão luminoso, foi arrastado para o lado sombrio pelo peso coletivo dos que escolheram a escuridão. Não houve rebelião nem traição, apenas uma fratura ontológica que partiu uma raça e levou um anjo junto.
+Abbhal não escolheu cair. Quando os humanos que participaram do massacre dos [[_wiki/racas/luminares\|Luminares]] se dividiram na [[_wiki/conceitos/primeira_era\|Primeira Era]], a própria partição gerou sua queda. Os que abraçaram a culpa tornaram-se [[_wiki/racas/shadar\|shadars]]; os que buscaram absolvição tornaram-se [[_wiki/racas/alvarar\|álvarars]]. Nesse momento de cisão, algo se rompeu também na esfera angelical, e Abbhal, até então vinculado ao panteão luminoso, foi arrastado para o lado sombrio pelo peso coletivo dos que escolheram a escuridão. A queda veio sem rebelião nem traição, de uma fratura ontológica que partiu uma raça e levou um anjo junto.
 
 ### Domínio
 
@@ -16,7 +16,7 @@ Seu domínio está na interseção entre regra e sentença, partilhado entre [[_
 
 ### Graça Profanada
 
-O epíteto não é metáfora. Abbhal carrega vestígios reais de sua natureza anterior: a forma angelical, os resíduos de luz, o instinto de arbitrar. Mas o que nos [[_wiki/cosmologia/anjos\|anjos]] é clemência, nele é condenação automática. A graça se inverteu sem se extinguir: ele ainda julga, ainda arbitra, apenas não perdoa. Nos instantes que precedem a sentença, a luz do ambiente esfria para o tom pálido de um santuário vazio, e balanças penduradas oscilam sozinhas para um lado; sobre o perjuro, cai então um relâmpago branco, sem trovão algum. Quando a sentença cai, testemunhas descrevem uma luminosidade breve que lembra bênção, e que dura o tempo de uma inspiração.
+Abbhal carrega vestígios reais de sua natureza anterior: a forma angelical, os resíduos de luz, o instinto de arbitrar. Mas o que nos [[_wiki/cosmologia/anjos\|anjos]] é clemência, nele é condenação automática. A graça se inverteu sem se extinguir: ele ainda julga, ainda arbitra, apenas não perdoa. Nos instantes que precedem a sentença, a luz do ambiente esfria para o tom pálido de um santuário vazio, e balanças penduradas oscilam sozinhas para um lado; sobre o perjuro, cai então um relâmpago branco, sem trovão algum. Quando a sentença cai, testemunhas descrevem uma luminosidade breve que lembra bênção, e que dura o tempo de uma inspiração.
 
 ### Função entre os Diabos
 
@@ -24,4 +24,4 @@ Abbhal ocupa posição singular no Conselho dos 12. Sua origem angelical lhe con
 
 ### O Guerreiro que Virou Juiz
 
-Antes da queda, Abbhal era senhor das batalhas, o anjo cuja guerra justa se media pelo raio. A partição o transfigurou em juiz supremo, o Deus da Justiça entre os cultistas, e o Electro que outrora abria combate passou a fechar sentenças. Essa passagem, de guerreiro a juiz, é o próprio molde dos [[_wiki/organizacoes/justiciares\|Justiciares]], que a reencenam na ordenação, invocando o julgamento de Abbhal. Em sua forma mais extrema, esse julgamento desce sobre o condenado marcado com o [[_wiki/conceitos/sigilo_de_abbhal\|Sigilo de Abbhal]], a sentença máxima do tribunal imperial, na qual a projeção do diabo sela a alma dentro do corpo vivo.
+Antes da queda, Abbhal era senhor das batalhas, o anjo cuja guerra justa se media pelo raio. A partição o transfigurou em juiz supremo, o Deus da Justiça entre os cultistas, e o Electro que outrora abria combate passou a fechar sentenças. Essa passagem, de guerreiro a juiz, é o próprio molde dos [[_wiki/organizacoes/justiciares\|justiciares]], que a reencenam na ordenação, invocando o julgamento de Abbhal. Em sua forma mais extrema, esse julgamento desce sobre o condenado marcado com o [[_wiki/conceitos/sigilo_de_abbhal\|Sigilo de Abbhal]], a sentença máxima do tribunal imperial, na qual a projeção do diabo sela a alma dentro do corpo vivo.

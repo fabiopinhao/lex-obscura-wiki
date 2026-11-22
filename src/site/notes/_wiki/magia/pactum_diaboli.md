@@ -12,7 +12,7 @@ Os diabos são legalistas malignos que veneram contratos vinculantes, hierarquia
 
 ### Outorga
 
-A canalização do Pactum Diaboli chama-se Outorga e é formal e contratual. O diabo concede poder conforme os termos do pacto, num fluxo previsível, estável e proporcional à obediência. A Outorga amplifica os sentimentos-chave das escolas concedidas, aprofundando a exposição emocional do pactuado; o diabo não substitui o sentimento, mas o intensifica, sustenta e torna mais difícil de desligar.
+A canalização do Pactum Diaboli chama-se Outorga e é formal e contratual. O diabo concede poder conforme os termos do pacto, num fluxo previsível, estável e proporcional à obediência. A Outorga amplifica os sentimentos-chave das escolas concedidas, aprofundando a exposição emocional do pactuado; o diabo intensifica o sentimento sem substituí-lo, sustenta-o e torna-o mais difícil de desligar.
 
 ### Processo de Invocação
 

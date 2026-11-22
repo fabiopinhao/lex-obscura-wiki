@@ -4,11 +4,11 @@
 
 # Naiu’Wula
 
-Naiu’Wula is a wandering [[_wiki_en/racas/gerut\|Gerut]] master of the late [[_wiki_en/conceitos/segunda_era\|Second Era]], before the Reinkardic Wars, remembered as the founder of the [[_wiki_en/cosmologia/doutrina_da_alma\|Doctrine of the Soul]] and the philosophical foundation of the [[_wiki_en/magia/teru\|Teru]] magic system. He preached without a chair or a surname, in open spaces, teaching more through demonstration than through argument.
+Naiu’Wula is a wandering [[_wiki_en/racas/gerut\|Gerut]] master of the late [[_wiki_en/conceitos/segunda_era\|Second Era]], before the Reinkardic Wars, remembered as the founder of the [[_wiki_en/cosmologia/doutrina_da_alma\|Doctrine of the Soul]] and the philosophical foundation of the [[_wiki_en/magia/teru\|Teru]] magic system. He preached without a chair or a surname, in open spaces, teaching by demonstrating, without arguing.
 
 ### Doctrine
 
-He taught that all magic is born of the soul, and that [[_wiki_en/cosmologia/magi\|Magi]] is merely “the soul’s trace in the world, not its flame”. For Naiu’Wula, the gods are ancient and vast souls, and mortals, young souls potentially capable of awakening. This awakening arises in moments of profound emotion: it cannot be taught, predicted, or forced. The practice that inherits this view is the “inner listening of Teru”, still passed down today in secret circles of disciples.
+He taught that all magic is born of the soul, and that [[_wiki_en/cosmologia/magi\|magi]] is merely “the soul’s trace in the world, not its flame”. For Naiu’Wula, the gods are ancient and vast souls, and mortals, young souls potentially capable of awakening. This awakening arises in moments of profound emotion: it cannot be taught, predicted, or forced. The practice that inherits this view is the “inner listening of Teru”, still passed down today in secret circles of disciples.
 
 ### Reception
 

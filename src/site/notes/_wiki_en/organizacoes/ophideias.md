@@ -4,11 +4,11 @@
 
 # Ophideias
 
-The ophideias are [[_wiki_en/racas/drul\|Drul]] hierophants trained as spies and assassins. They are not soldiers, but precision instruments, operating at the intersection of religion, espionage, and surgical violence. They serve both the Matriarchal Houses of [[_wiki_en/locais/vor-ghol\|Vor-Ghol]] and the imperial apparatus of the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]].
+The ophideias are [[_wiki_en/racas/drul\|Drul]] hierophants trained as spies and assassins. They are precision instruments, operating at the intersection of religion, espionage, and surgical violence. They serve both the Matriarchal Houses of [[_wiki_en/locais/vor-ghol\|Vor-Ghol]] and the imperial apparatus of the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]].
 
 ### Nature and Function
 
-The duality is functional: the matriarchs of [[_wiki_en/locais/ghilanna\|Ghilanna]] train them, and the temples of [[_wiki_en/locais/morvgrad\|Morvgrad]] employ them. Where their ultimate loyalty lies depends on each ophideia, and it is precisely this ambiguity that makes them valuable and dangerous to all sides. The name is liturgical: in ancient Drul, “ophid” (serpent) and “eia” (she who) form “she who slithers”, referring to their sinuous movement through the Cult’s political shadows.
+The duality is functional: the matriarchs of [[_wiki_en/locais/ghilanna\|Ghilanna]] train them, and the temples of [[_wiki_en/locais/morvgrad\|Morvgrad]] employ them. Where their ultimate loyalty lies depends on each ophideia, and it is precisely this ambiguity that makes them valuable and dangerous to all sides. The name is liturgical: in Old Drul, “ophid” (serpent) and “eia” (she who) form “she who slithers”, referring to their sinuous movement through the Cult’s political shadows.
 
 ### Selection and Training
 

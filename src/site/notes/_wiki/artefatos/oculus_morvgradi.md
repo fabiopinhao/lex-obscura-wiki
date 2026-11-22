@@ -4,7 +4,7 @@
 
 # Oculus Morvgradi
 
-O Oculus Morvgradi, “Olho de [[_wiki/locais/morvgrad\|Morvgrad]]”, é uma esfera de comunicação mágica remota usada pelo culto sombrio. O nome reflete tanto a função de vigilância quanto a conexão umbilical com a capital sombria. Receber um oculus representa confiança absoluta do culto e é, ao mesmo tempo, ferramenta e corrente: conecta o portador ao poder central e o submete à vigilância constante.
+O Oculus Morvgradi, “Olho de [[_wiki/locais/morvgrad\|Morvgrad]]”, é uma esfera de comunicação mágica remota usada pelo Culto Sombrio. O nome reflete tanto a função de vigilância quanto a conexão umbilical com a capital sombria. Receber um oculus representa confiança absoluta do Culto e é, ao mesmo tempo, ferramenta e corrente: conecta o portador ao poder central e o submete à vigilância constante.
 
 ### Aparência
 
@@ -18,11 +18,11 @@ O Oculus Morvgradi, “Olho de [[_wiki/locais/morvgrad\|Morvgrad]]”, é uma es
 
 Para usá-la, posiciona-se a esfera sobre superfície plana e estável, traça-se o símbolo da sentença no ar e pronuncia-se a invocação *“Ut Oculus videat, ut vox transeat, ut presentia resonet”* (“Que o olho veja, que a voz atravesse, que a presença ressoe”). A cerimônia admite duas redações latinas equivalentes dessa fórmula, sendo a outra *“Ut Oculus videat, ut vox transit, ut praesentia echoet”*. Numa chamada direcionada, a invocação também pode ser dita em shadar arcaico, nomeando o destinatário. Uma chama negra se manifesta antes de a conexão se abrir.
 
-As esferas não se comunicam diretamente entre si, mas através de um nexo central, o [[_wiki/locais/poco_etereo\|Poço Etéreo]], construção metafísica ancorada nas profundezas de Ghol’Mournak. Funciona como um espelho d’água vertical de energia condensada, onde todas as transmissões convergem antes de serem redirecionadas. O Conselho poderia, em tese, monitorar qualquer comunicação, mas na prática o volume torna isso impossível.
+Toda comunicação entre as esferas passa por um nexo central, o [[_wiki/locais/poco_etereo\|Poço Etéreo]], construção metafísica ancorada nas profundezas de Ghol’Mournak. Funciona como um espelho d’água vertical de energia condensada, onde todas as transmissões convergem antes de serem redirecionadas. O Conselho poderia, em tese, monitorar qualquer comunicação, mas na prática o volume torna isso impossível.
 
 ### Posse e Assinatura
 
-A posse não se restringe aos [[_wiki/organizacoes/justiciares\|Justiciares]]: todos os lordes sombrios de alto escalão portam uma esfera. O que liga dois comunicantes é uma “assinatura”, um par de chave público-privada, de modo que a transmissão só alcança o destinatário cuja chave corresponde à do remetente. O funcionamento exato dessa cifra permanece deliberadamente obscuro: sabe-se que vincula remetente e destinatário, não como. Por isso a posse de uma chave alheia é uma brecha grave, pois permite alcançar alguém que se julgava inalcançável, furando por dentro o próprio sistema. A chave estabelece um vínculo permanente entre as esferas, distinto do canal de comunicação, que se forma apenas durante cada chamada; a energia da transmissão vem do próprio artefato consagrado, e não do [[_wiki/cosmologia/magi\|magi]] de quem o opera, razão pela qual até um não-conjurador pode usá-lo.
+A posse não se restringe aos [[_wiki/organizacoes/justiciares\|justiciares]]: todos os lordes sombrios de alto escalão portam uma esfera. O que liga dois comunicantes é uma “assinatura”, um par de chave público-privada, de modo que a transmissão só alcança o destinatário cuja chave corresponde à do remetente. O funcionamento exato dessa cifra permanece deliberadamente obscuro; sabe-se apenas que ela vincula remetente e destinatário. Por isso a posse de uma chave alheia é uma brecha grave, pois permite alcançar alguém que se julgava inalcançável, furando por dentro o próprio sistema. A chave estabelece um vínculo permanente entre as esferas, distinto do canal de comunicação, que se forma apenas durante cada chamada; a energia da transmissão vem do próprio artefato consagrado e dispensa o [[_wiki/cosmologia/magi\|magi]] de quem o opera, razão pela qual até um não-conjurador pode usá-lo.
 
 ### Fenomenologia
 

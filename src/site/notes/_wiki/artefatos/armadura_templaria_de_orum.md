@@ -4,7 +4,7 @@
 
 # Armadura Templária de Orum
 
-A Armadura Templária de Orum é uma couraça prateada de fabricação templária, forjada na era pré-imperial, quando os [[_wiki/organizacoes/templarios\|Templários]] ainda operavam como força militar autônoma dos templos. Vestida por [[_wiki/personagens/orum-rahru\|Orum-Rahru]], é a mais visível das relíquias templárias sobreviventes e anuncia, a cada sala que ele cruza, sua condição de templário entre [[_wiki/organizacoes/justiciares\|Justiciares]].
+A Armadura Templária de Orum é uma couraça prateada de fabricação templária, forjada na era pré-imperial, quando os [[_wiki/organizacoes/templarios\|templários]] ainda operavam como força militar autônoma dos templos. Vestida por [[_wiki/personagens/orum-rahru\|Orum-Rahru]], é a mais visível das relíquias templárias sobreviventes e anuncia, a cada sala que ele cruza, sua condição de templário entre [[_wiki/organizacoes/justiciares\|justiciares]].
 
 ### Forma
 
@@ -12,7 +12,7 @@ O aço é antigo, de estilo anterior às reformas de [[_wiki/locais/morvgrad\|Mo
 
 ### História
 
-A peça pertence à tradição dos Templários de Vozrador, ordem extinta como força militar há mais de quatro décadas, quando [[_wiki/personagens/arothistar\|Arothistar]] fundou os Justiciares como substituição calculada. Orum a vestiu pela primeira vez aos 23 anos, na cerimônia do templo de [[_wiki/panteao/vozrador\|Vozrador]], no rito que o selou como único templário do deus que aceitava um servo por vez. Conservada por mais de 76 anos, atravessou o desaparecimento de Vozrador, a extinção militar da ordem, a conversão de Orum em Justiciar e décadas de serviço imperial.
+A peça pertence à tradição dos Templários de Vozrador, ordem extinta como força militar há mais de quatro décadas, quando [[_wiki/personagens/arothistar\|Arothistar]] fundou os justiciares como substituição calculada. Orum a vestiu pela primeira vez aos 23 anos, na cerimônia do templo de [[_wiki/panteao/vozrador\|Vozrador]], no rito que o selou como único templário do deus que aceitava um servo por vez. Conservada por mais de 76 anos, atravessou o desaparecimento de Vozrador, a extinção militar da ordem, a conversão de Orum em justiciar e décadas de serviço imperial.
 
 Diante de quem a vê, provoca reações opostas. Jovens acólitos a reverenciam, pois a maioria nunca viu uma armadura templária original intacta. Em ambientes hostis, há quem a considere bela e quem a despreze como relíquia profana. A couraça prateada é anacrônica entre as vestes sombrias do [[_wiki/organizacoes/culto_sombrio\|Culto]].
 

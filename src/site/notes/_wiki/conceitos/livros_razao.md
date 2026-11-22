@@ -6,4 +6,4 @@
 
 Os livros-razão do [[_wiki/conceitos/mercado_negro\|mercado negro]] registram, por convenção, apenas o que seus donos admitem que exista.
 
-A disputa sobre a veracidade desses registros corre entre quem os audita e quem os escreve, e permanece questão filosófica até que um [[_wiki/organizacoes/justiciares\|Justiciar]] a converta em questão penal.
+A disputa sobre a veracidade desses registros corre entre quem os audita e quem os escreve, e permanece questão filosófica até que um [[_wiki/organizacoes/justiciares\|justiciar]] a converta em questão penal.

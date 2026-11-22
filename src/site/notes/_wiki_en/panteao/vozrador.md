@@ -4,7 +4,7 @@
 
 # Vozrador
 
-Vozrador, the Captive Lightning, is one of the twelve [[_wiki_en/cosmologia/diabos\|devils]] of the pantheon, whose domains are [[_wiki_en/escolas/electro\|Electro]] and [[_wiki_en/escolas/umbra\|Umbra]]. He manifests as a storm-wracked gargoyle and is considered the most complex and the most feared of the twelve. Today he is imprisoned, sealed, and conscious, though weakened.
+Vozrador, the Captive Lightning, is one of the twelve [[_wiki_en/cosmologia/diabos\|devils]] of the pantheon, with [[_wiki_en/escolas/electro\|Electro]] and [[_wiki_en/escolas/umbra\|Umbra]] as his domains, and is considered the most complex of the twelve. Today he is imprisoned.
 
 ### Nature
 
@@ -20,7 +20,7 @@ Electro granted him instant judgment, the lightning bolt that neither negotiates
 
 ### The Sole Templar
 
-Vozrador maintained many pact holders, but accepted only one Templar at a time. The Templar occupies a position apart among them: he receives the entirety of the bond, undiluted, and serves as the devil’s representative on the material plane, which explains the restriction to one at a time. In return, the loss of a Templar left him without a representative, in a slow and selective cycle of choosing. The pact’s curse applied to all pact holders, was permanent, and outlived the god himself: none of them can set foot on consecrated alabastrine ground without their skin darkening and blistering. The clause is eternal.
+Vozrador maintained many pact holders, but accepted only one Templar at a time. The Templar occupies a position apart among them: he receives the entirety of the bond, undiluted, and serves as the devil’s representative on the material plane, which explains the restriction to one at a time. In return, the loss of a Templar left Vozrador without a representative, in a slow and selective cycle of choosing. The pact’s curse applied to all pact holders, was permanent, and would outlast even the god himself: none of them can set foot on consecrated alabastrine ground without their skin darkening and blistering.
 
 ### The Pact and the Silence
 

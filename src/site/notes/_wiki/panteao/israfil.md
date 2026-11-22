@@ -4,7 +4,7 @@
 
 # Israfil
 
-Israfil, o Arauto da Aurora, é um Anjo da tradição luminosa cujo domínio une cura e luz. Manifesta-se como um olifante de pele cinza-pérola translúcida, e sua restauração opera por exposição radiante: feridas se fecham sob intensidade luminosa que cauteriza, esteriliza e regenera no mesmo gesto.
+Israfil, o Arauto da Aurora, é um anjo da tradição luminosa cujo domínio une cura e luz. Manifesta-se como um olifante de pele cinza-pérola translúcida, e sua restauração opera por exposição radiante: feridas se fecham sob intensidade luminosa que cauteriza, esteriliza e regenera no mesmo gesto.
 
 ### Natureza
 

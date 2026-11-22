@@ -4,7 +4,7 @@
 
 # Luminar
 
-O luminar foi a língua civil e mágica unificada dos elfos da luz, os luminares, hoje extintos. Nascida na [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]], não separava fala comum de fala mágica: toda palavra carregava potencial de poder, e a fronteira entre conversa e feitiço estava na intenção do falante, não na forma da língua. Dela descendem o [[_wiki/linguas/aelarian\|aelarian]] e o [[_wiki/linguas/sylvaen\|sylvaen]].
+O luminar foi a língua civil e mágica unificada dos elfos da luz, os luminares, hoje extintos. Nascida na [[_wiki/conceitos/idade_esquecida\|Idade Esquecida]], não separava fala comum de fala mágica: toda palavra carregava potencial de poder, e a fronteira entre conversa e feitiço estava na intenção do falante. Dela descendem o [[_wiki/linguas/aelarian\|aelarian]] e o [[_wiki/linguas/sylvaen\|sylvaen]].
 
 ### Som
 
@@ -12,8 +12,8 @@ Vogais longas e ditongos, consoantes suaves, predominância de líquidas e nasai
 
 ### Escrita
 
-Glifos curvos interligados, traçados em linhas contínuas sem separação entre palavras. Um texto em luminar parece uma partitura: lê-se por ritmo visual, não por sequência linear. Os fragmentos guardados na torre de [[_wiki/locais/khargoth\|Khargoth]], em [[_wiki/locais/morvgrad\|Morvgrad]], exigem treinamento especializado para serem decifrados.
+Glifos curvos interligados, traçados em linhas contínuas sem separação entre palavras. Um texto em luminar parece uma partitura: lê-se por ritmo visual. Os fragmentos guardados na torre de [[_wiki/locais/khargoth\|Khargoth]], em [[_wiki/locais/morvgrad\|Morvgrad]], exigem treinamento especializado para serem decifrados.
 
-### Gramática e legado
+### Gramática e Legado
 
-A gramática completa se perdeu. Estudiosos reconstruíram o suficiente para identificar uma estrutura fundada na intenção, e não em ordem sintática fixa: a mesma sequência de palavras muda de sentido conforme o propósito de quem a pronuncia. Essa ambiguidade explica por que fragmentos lidos por eruditos desavisados ocasionalmente produzem efeitos residuais, quando a intenção involuntária do leitor ativa a carga adormecida. Da língua restam fragmentos em textos antigos, cognatos reconhecíveis no aelarian e no sylvaen, e a contribuição que ela deu à formação do [[_wiki/linguas/reinkardico\|reinkárdico]].
+A gramática completa se perdeu. Estudiosos reconstruíram o suficiente para identificar uma estrutura fundada na intenção: a mesma sequência de palavras muda de sentido conforme o propósito de quem a pronuncia. Essa ambiguidade explica por que fragmentos lidos por eruditos desavisados ocasionalmente produzem efeitos residuais, quando a intenção involuntária do leitor ativa a carga adormecida. Da língua restam fragmentos em textos antigos, cognatos reconhecíveis no aelarian e no sylvaen, e a contribuição que ela deu à formação do [[_wiki/linguas/reinkardico\|reinkárdico]].

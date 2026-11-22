@@ -4,11 +4,11 @@
 
 # Fringal
 
-Fringals are a gnomish subtype of [[_wiki_en/racas/aviano\|Avians]], small humanoid birds with a white arcane mark. They arose from the same angelic interference during the [[_wiki_en/eventos/guerras_raciais\|Racial Wars]] that produced the [[_wiki_en/racas/aquilar\|Aquilars]], and where the uplift produced raptors with great wingspans, it also produced diminutive passerines, whose wings never sustained flight. In the [[_wiki_en/conceitos/terceira_era\|Third Era]], they live marginalized on the urban fringes of the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]].
+Fringals are a gnomish subtype of [[_wiki_en/racas/aviano\|Avians]], small humanoid birds with an angelic arcane mark. They arose from the same angelic interference during the [[_wiki_en/eventos/guerras_raciais\|Racial Wars]] that produced the [[_wiki_en/racas/aquilar\|Aquilars]], and where the uplift produced raptors with great wingspans, it also produced diminutive passerines, whose wings never sustained flight. In the [[_wiki_en/conceitos/terceira_era\|Third Era]], they live marginalized on the urban fringes of the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]].
 
 ### Nature
 
-Fringals’ white mark is as genuine as that of Aquilars, without artificial manipulation or degeneration. The smaller phenotype is a variation, but the distinction between variation and defect depends on who has the strength to impose it, and Fringals have never had that strength. Aquilars treat them as incomplete Avians, the Empire treats them as waste, and [[_wiki_en/racas/goblin\|goblinoids]] treat them as food. Fringals regard themselves as survivors and ask no one’s opinion.
+Fringals’ angelic mark is as genuine as that of Aquilars, without artificial manipulation or degeneration. The smaller phenotype is a variation, but the distinction between variation and defect depends on who has the strength to impose it, and Fringals have never had that strength. Aquilars treat them as incomplete Avians, the Empire treats them as waste, and [[_wiki_en/racas/goblin\|goblinoids]] treat them as food. Fringals regard themselves as survivors and ask no one’s opinion.
 
 ### Physiology
 

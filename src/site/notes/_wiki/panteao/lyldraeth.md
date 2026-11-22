@@ -4,7 +4,7 @@
 
 # Lyldraeth
 
-Lyldraeth, a Prece Ululante, é uma entidade [[_wiki/cosmologia/siderais\|sideral]] que não se manifesta como figura, mas como instrumento. Seu domínio combina [[_wiki/escolas/aegis\|Aegis]], a proteção, com [[_wiki/escolas/spectro\|Spectro]], o deslocamento parcial para o Etéreo. A proteção opera por frequência: o grito existe entre planos, e o que atravessa a fronteira funciona como barreira.
+Lyldraeth, a Prece Ululante, é uma entidade [[_wiki/cosmologia/siderais\|sideral]] que se manifesta como instrumento. Seu domínio combina [[_wiki/escolas/aegis\|Aegis]], a proteção, com [[_wiki/escolas/spectro\|Spectro]], o deslocamento parcial para o Etéreo. A proteção opera por frequência: o grito existe entre planos, e o que atravessa a fronteira funciona como barreira.
 
 ### Natureza
 

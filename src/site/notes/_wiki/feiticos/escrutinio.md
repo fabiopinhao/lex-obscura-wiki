@@ -6,6 +6,6 @@
 
 O Escrutínio é um feitiço da escola da [[_wiki/escolas/gnosi\|Gnosi]], de escala Menor. Ao tocar ou observar um objeto, o conjurador faz a sua natureza se revelar: a composição, a presença de encantamentos, a função primária. Armas traem a sua escola e venenos denunciam os seus componentes.
 
-### Distinção e custo
+### Distinção e Custo
 
 Difere do Discernimento, que revela como uma coisa funciona: o Escrutínio revela o que a coisa é. O custo é dor nas têmporas e a sobrecarga de informação sensorial.

@@ -4,7 +4,7 @@
 
 # Sulkavrim
 
-Sulkavrim, a Muralha Perene, é um dos [[_wiki/cosmologia/titas\|Titãs]], divindade defensiva que ergue barreiras de pedra impermeáveis a força física e a magia. Manifesta-se como uma serpente colossal de mármore vivo, e seu domínio combina a negação de encantamentos hostis com a matéria erguida do subsolo: o que Sulkavrim envolve, permanece envolvido.
+Sulkavrim, a Muralha Perene, é um dos [[_wiki/cosmologia/titas\|titãs]], divindade defensiva que ergue barreiras de pedra impermeáveis a força física e a magia. Manifesta-se como uma serpente colossal de mármore vivo, e seu domínio combina a negação de encantamentos hostis com a matéria erguida do subsolo: o que Sulkavrim envolve, permanece envolvido.
 
 ### Natureza
 

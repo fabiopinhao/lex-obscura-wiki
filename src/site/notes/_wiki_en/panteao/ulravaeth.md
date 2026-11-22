@@ -12,7 +12,7 @@ Ulravaeth manifests as two identical silhouettes, one facing the observer and th
 
 ### Domain
 
-Ulravaeth rules the thresholds, spaces where wakefulness blurs with sleep and the dead do not yet know they have died. His illusions work by subtraction: they erase reference points and dissolve certainties until the mind loses every anchor for distinguishing the real from the projected. Those who enter his domain do not see things that do not exist, but cease to see things that do exist. The Custodian feeds on the uncertainty of those who have lost the ability to confirm that they are still alive. The synergy between the schools reinforces the method: Umbra animates real shadows and Spectro projects illusions onto them, producing detailed shadows capable of simulating soldiers or the target themself. The [[_wiki_en/racas/drul\|Druls]] of [[_wiki_en/locais/vor-ghol\|Vor-Ghol]] employ this combination as tactical disinformation.
+Ulravaeth rules the thresholds, spaces where wakefulness blurs with sleep and the dead do not yet know they have died. His illusions work by subtraction: they erase reference points and dissolve certainties until the mind loses every anchor for distinguishing the real from the projected. Those who enter his domain cease to see things that do exist. The Custodian feeds on the uncertainty of those who have lost the ability to confirm that they are still alive. The synergy between the schools reinforces the method: Umbra animates real shadows and Spectro projects illusions onto them, producing detailed shadows capable of simulating soldiers or the target themself. The [[_wiki_en/racas/drul\|Druls]] of [[_wiki_en/locais/vor-ghol\|Vor-Ghol]] employ this combination as tactical disinformation.
 
 ### Role in the Pantheon
 

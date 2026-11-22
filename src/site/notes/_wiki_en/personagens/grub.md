@@ -12,15 +12,15 @@ He carries the protruding belly of someone who never refuses a meal and the buil
 
 ### Origin and role
 
-A veteran of Milor’s guard, Grub serves less out of conviction than out of habit and simple loyalty. He follows Grothar, follows Milor, follows Mur, and seeks no abstract reasons in this menu of allegiances. He is a soldier of presence, not of command: his worth lies in what he can withstand and what he can bring down. He venerates [[_wiki_en/panteao/thurgash\|Thûrgash]], the god of orc berserkers, and aspires to one day attain the bond ([[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]]) and the combat powers Grothar already possesses; so far he remains without a bond.
+A veteran of Milor’s guard, Grub serves out of habit and simple loyalty. He follows Grothar, follows Milor, follows Mur, and seeks no abstract reasons in this menu of allegiances. He is a soldier of presence: his worth lies in what he can withstand and what he can bring down. He venerates [[_wiki_en/panteao/thurgash\|Thûrgash]], the god of orc berserkers, and aspires to one day attain the bond ([[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]]) and the combat powers Grothar already possesses; so far he remains without a bond.
 
 ### Voice and method
 
-Reserved to the point of seeming mute beside Mur, Grub responds more than he initiates, and all his concerns fit within the concrete: what there is to eat, whether the axes are sharp, where his companion is. He speaks without an emotional filter, just as he sees things. His dim-wittedness is not an act he puts on for others, but is genuine, and that is why no one can predict what he will say. When there is no skull to split, he snores in a duet of saw and stone with Mur, and the two spend hours in cordial dispute over which of them has killed more.
+Reserved to the point of seeming mute beside Mur, Grub has concerns that all fit within the concrete: what there is to eat, whether the axes are sharp, where his companion is. He speaks without an emotional filter, just as he sees things. His dim-wittedness is genuine, and that is why no one can predict what he will say. When there is no skull to split, he snores in a duet of saw and stone with Mur, and the two spend hours in cordial dispute over which of them has killed more.
 
 ### Combat
 
-In [[_wiki_en/locais/thal_serin\|Thal’Serin]], Grub was given the work no one else wanted: burning the [[_wiki_en/criaturas/troll\|trolls]] that regenerated faster than they could be cut. He did so with alchemical fire, flasks of [[_wiki_en/criaturas/salamandra\|salamander]] blood that Milor put in his hands, and what kept closing up no longer did. His effectiveness coexists with his literal-minded nature: the same orc who incinerates what refuses to die is the one who debates kill tallies as though counting coins.
+In [[_wiki_en/locais/thal_serin\|Thal’Serin]], Grub was given the work no one else wanted: burning the [[_wiki_en/criaturas/troll\|trolls]] that regenerated faster than they could be cut. He did so with alchemical fire, flasks of [[_wiki_en/criaturas/salamandra\|salamander]] blood that Milor put in his hands, and what kept closing up no longer did.
 
 ### Relationships
 

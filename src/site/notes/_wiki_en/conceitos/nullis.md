@@ -8,7 +8,7 @@ Nullis is the intercalary day that separates the last [[_wiki_en/conceitos/lunia
 
 ### Cultural Significance
 
-Nullis is a day of superstition, seclusion, and imperial rituals. The population avoids important decisions, travel, and negotiations, and the most superstitious lock doors and windows at nightfall. For the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]], it marks ceremonies of renewal and atonement, a day when order is suspended before beginning anew. The connection to the Void is no coincidence: in a world where the void is the absence that precedes and outlasts order, a day that belongs to no temporal structure carries proportional symbolic weight.
+Nullis is a day of superstition, seclusion, and imperial rituals. The population avoids important decisions, travel, and negotiations, and the most superstitious lock doors and windows at nightfall. For the [[_wiki_en/organizacoes/culto_sombrio\|Shadow Cult]], it marks ceremonies of renewal and atonement, a day when order is suspended before beginning anew. In a world where the void is the absence that precedes and outlasts order, a day that belongs to no temporal structure carries proportional symbolic weight.
 
 ### Calendar and Power
 

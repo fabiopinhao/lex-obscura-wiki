@@ -4,11 +4,11 @@
 
 # Grifo
 
-O grifo é uma montaria nobre de guerra e prestígio, criatura de corpo de leão com asas e cabeça de águia. Foi domesticado ao longo de gerações por criadores humanos e [[_wiki/racas/alvarar\|álvarars]], e nunca esteve a serviço do [[_wiki/organizacoes/imperio_sombrio\|Império]]: os [[_wiki/racas/shadar\|shadars]] não montam grifos.
+O grifo é uma montaria nobre de guerra e prestígio, criatura de corpo de leão com asas e cabeça de águia. Nunca esteve a serviço do [[_wiki/organizacoes/imperio_sombrio\|Império]]: os [[_wiki/racas/shadar\|shadars]] não montam grifos.
 
 ### Natureza
 
-Reúne a força do leão à águia que lhe dá a cabeça e as asas. Não é criatura imperial nem selvagem por vocação: chegou ao campo de batalha pelas mãos de criadores humanos e álvarars, que o domesticaram durante gerações para a guerra e o prestígio.
+Reúne a força do leão à águia que lhe dá a cabeça e as asas. Chegou ao campo de batalha pelas mãos de criadores humanos e [[_wiki/racas/alvarar\|álvarars]], que o domesticaram durante gerações para a guerra e o prestígio.
 
 ### Papel nas Guerras Reinkárdicas
 

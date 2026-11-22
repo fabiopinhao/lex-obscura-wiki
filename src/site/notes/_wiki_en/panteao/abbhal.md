@@ -8,7 +8,7 @@ Abbhal, the Profaned Grace, is a devil of angelic origin, the only one among the
 
 ### The Fall
 
-Abbhal did not choose to fall. When the humans who participated in the massacre of the [[_wiki_en/racas/luminares\|Luminars]] divided in the [[_wiki_en/conceitos/primeira_era\|First Era]], the division itself brought about his fall. Those who embraced guilt became [[_wiki_en/racas/shadar\|Shadars]]; those who sought absolution became [[_wiki_en/racas/alvarar\|Álvarars]]. At that moment of schism, something also broke in the angelic sphere, and Abbhal, until then linked to the luminous pantheon, was dragged to the dark side by the collective weight of those who chose darkness. There was neither rebellion nor betrayal, only an ontological fracture that split a race and took an angel with it.
+Abbhal did not choose to fall. When the humans who participated in the massacre of the [[_wiki_en/racas/luminares\|Luminars]] divided in the [[_wiki_en/conceitos/primeira_era\|First Era]], the division itself brought about his fall. Those who embraced guilt became [[_wiki_en/racas/shadar\|Shadars]]; those who sought absolution became [[_wiki_en/racas/alvarar\|Álvarars]]. At that moment of schism, something also broke in the angelic sphere, and Abbhal, until then linked to the luminous pantheon, was dragged to the dark side by the collective weight of those who chose darkness. The fall came without rebellion or betrayal, from an ontological fracture that split a race and took an angel with it.
 
 ### Domain
 
@@ -16,7 +16,7 @@ His domain lies at the intersection of rule and sentence, shared between [[_wiki
 
 ### Profaned Grace
 
-The epithet is no metaphor. Abbhal carries real vestiges of his former nature: the angelic form, the remnants of light, the instinct to arbitrate. But what is clemency in the [[_wiki_en/cosmologia/anjos\|angels]] is automatic condemnation in him. Grace was inverted without being extinguished: he still judges, still arbitrates, only he does not forgive. In the moments preceding the sentence, the surrounding light cools to the pale hue of an empty sanctuary, and hanging scales tilt to one side on their own; a white lightning bolt then falls upon the perjurer, without any thunder. When the sentence falls, witnesses describe a brief radiance reminiscent of a blessing, lasting as long as an inhalation.
+Abbhal carries real vestiges of his former nature: the angelic form, the remnants of light, the instinct to arbitrate. But what is clemency in the [[_wiki_en/cosmologia/anjos\|angels]] is automatic condemnation in him. Grace was inverted without being extinguished: he still judges, still arbitrates, only he does not forgive. In the moments preceding the sentence, the surrounding light cools to the pale hue of an empty sanctuary, and hanging scales tilt to one side on their own; a white lightning bolt then falls upon the perjurer, without any thunder. When the sentence falls, witnesses describe a brief radiance reminiscent of a blessing, lasting as long as an inhalation.
 
 ### Role Among the Devils
 

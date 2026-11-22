@@ -8,7 +8,7 @@ The tegmen is the standard armor of the high-status [[_wiki_en/racas/shadar\|Sha
 
 ### Form
 
-Every tegmen shares three traits. The black plates come from a dark alloy of subterranean origin, often worked by [[_wiki_en/racas/karashim\|Karashim]] smiths under imperial seal; absolute black is a racial marker, and colored tegmen does not exist. The construction is light, geared toward agile combat, quick escape, and a command role, rather than the weight of an assault cuirass. And the ensemble is sophisticated, with inlaid obsidian, personal or House runes, and ornaments that communicate lineage and position.
+Every tegmen shares three traits. The black plates come from a dark alloy of subterranean origin, often worked by [[_wiki_en/racas/karashim\|Karashim]] smiths under imperial seal; absolute black is a racial marker, and colored tegmen does not exist. The construction is light, geared toward agile combat, quick escape, and a command role, without the weight of an assault cuirass. And the ensemble is sophisticated, with inlaid obsidian, personal or House runes, and ornaments that communicate lineage and position.
 
 The ensemble may include a breastplate of the same lightweight design, hence the common use of “black cuirass” to name the entire tegmen.
 
@@ -20,6 +20,6 @@ Wearing tegmen is a declaration of importance in the Empire. The piece serves in
 
 ### Use Among the Justiciars
 
-The tegmen is the standard armor of all Justiciars, issued as part of the order’s equipment, and of some high-ranking military officers. The only known exception is [[_wiki_en/personagens/orum-rahru\|Orum-Rahru]], who retains the [[_wiki_en/artefatos/armadura_templaria_de_orum\|Templar armor]] of his former order in place of a tegmen. Without it, he bears a justiciar’s seal on his Templar cuirass.
+The tegmen is the standard armor of all Justiciars, issued as part of the order’s equipment, and of some high-ranking military officers. The only known exception is [[_wiki_en/personagens/orum-rahru\|Orum-Rahru]], who retains the [[_wiki_en/artefatos/armadura_templaria_de_orum\|Templar armor]] of his former order in place of a tegmen. Without it, he bears a Justiciar’s seal on his Templar cuirass.
 
 The order’s tegmen is a distinct, recognizable variant. A shadow lord’s is ceremonial attire, almost combat wear, tailored for court and command; the order’s is a tool of service, with an issued, standardized cut. It is recognized from a distance, and the passage of someone wearing it is enough to silence conversations. Apart from Orum-Rahru’s seal, there is no separate Justiciar insignia, and the order’s tegmen itself serves as a visible credential.

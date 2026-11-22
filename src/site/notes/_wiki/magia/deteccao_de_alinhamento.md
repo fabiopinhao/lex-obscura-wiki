@@ -16,4 +16,4 @@ A mesma capacidade sustenta a triagem de talentos do [[_wiki/organizacoes/imperi
 
 ### Limitações
 
-A leitura tem fronteiras. Ela revela a existência de um pacto, não o conteúdo de suas cláusulas. Pactos firmados com deuses mortos ou aprisionados podem gerar leituras ambíguas, e certos artefatos ou rituais mascaram a marca por algum tempo.
+A leitura revela a existência de um pacto, não o conteúdo de suas cláusulas. Pactos firmados com deuses mortos ou aprisionados podem gerar leituras ambíguas, e certos artefatos ou rituais mascaram a marca por algum tempo.

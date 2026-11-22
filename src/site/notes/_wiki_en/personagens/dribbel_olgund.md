@@ -4,7 +4,7 @@
 
 # Dribbel Olgund
 
-Dribbel Olgund, the Trade-Breaker, is a [[_wiki_en/racas/derro\|Derro]] who makes the black market of [[_wiki_en/locais/morvgrad\|Morvgrad]] his narrow kingdom. At the [[_wiki_en/locais/mercado_oeste\|West Market]], he operates the [[_wiki_en/organizacoes/guilda_dos_gnomos\|Gnome Guild]] under a forged seal, selling dubious cures and keeping, buried beneath his chatter, a rare knowledge: the routes through the Depths of [[_wiki_en/locais/vor-ghol\|Vor-Ghol]]. He survives by cunning, not strength, and is afraid enough to be dangerous precisely when he talks too much.
+Dribbel Olgund, the Trade-Breaker, is a [[_wiki_en/racas/derro\|Derro]] who makes the black market of [[_wiki_en/locais/morvgrad\|Morvgrad]] his narrow kingdom. At the [[_wiki_en/locais/mercado_oeste\|West Market]], he operates the [[_wiki_en/organizacoes/guilda_dos_gnomos\|Gnome Guild]] under a forged seal, selling dubious cures and keeping, buried beneath his chatter, a rare knowledge: the routes through the Depths of [[_wiki_en/locais/vor-ghol\|Vor-Ghol]]. Fearful and talkative, he survives by cunning.
 
 ### Appearance
 
@@ -16,7 +16,7 @@ Familiar with the underground veins that connect Morvgrad to the Depths, Dribbel
 
 ### Voice and Method
 
-Fear, in Dribbel, does not translate into silence: it turns into logorrhea. His sentences grow long and digressive, peppered with interjections, and in them he gives away more than he intended, because he cannot stop talking. Useful information comes buried in the drivel, and anyone who knows how to listen gathers it almost without his noticing. Sometimes realization comes too late, along with what has already slipped out: the Serpent’s witnesses do not grow old, he murmurs on one occasion, the words of someone who has just condemned himself with his own mouth.
+Fear, in Dribbel, turns into logorrhea. His sentences grow long and digressive, peppered with interjections, and in them he gives away more than he intended, because he cannot stop talking. Useful information comes buried in the drivel, and anyone who knows how to listen gathers it almost without his noticing. Sometimes realization comes too late, along with what has already slipped out: the Serpent’s witnesses do not grow old, he murmurs on one occasion, the words of someone who has just condemned himself with his own mouth.
 
 ### Merchant’s Alchemy
 
@@ -24,4 +24,4 @@ Dribbel does not cast spells. His power fits into flasks. The healing potions he
 
 ### Relationships
 
-With Fandegarrón, the dependence is mutual and dysfunctional. The gnoll calls him boss and fails at the only task he has, giving warning of patrols, and even so the two remain bound to each other, rescued and rescuer with no better fate in sight. With Nidzina, there is no bond, there is coercion: forced to guide her under threat, Dribbel descended with her into the Depths and nearly paid for the journey with his life. That he returned from it is, perhaps, his greatest achievement.
+With Fandegarrón, the dependence is mutual and dysfunctional. The gnoll calls him boss and fails at the only task he has, giving warning of patrols, and even so the two remain bound to each other, rescued and rescuer with no better fate in sight. With Nidzina, the relationship is one of coercion: forced to guide her under threat, Dribbel descended with her into the Depths and nearly paid for the journey with his life. That he returned from it is, perhaps, his greatest achievement.

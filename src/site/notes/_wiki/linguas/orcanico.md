@@ -4,13 +4,13 @@
 
 # Orcânico
 
-Orcânico é a língua dos [[_wiki/racas/orc\|orcs]], usada tanto na fala cotidiana quanto nos rituais berserker e xamânicos. Monossilábica por preferência e polissilábica apenas por necessidade, é feita de consoantes duras e aspiradas (*kh*, *gh*, *hrr*) e vogais abertas e gritadas. Não possui tom baixo: foi moldada para campos de batalha, não para conversas íntimas.
+Orcânico é a língua dos [[_wiki/racas/orc\|orcs]], usada tanto na fala cotidiana quanto nos rituais berserker e xamânicos. Monossilábica por preferência e polissilábica apenas por necessidade, é feita de consoantes duras e aspiradas (*kh*, *gh*, *hrr*) e vogais abertas e gritadas. Não possui tom baixo, pois foi moldada para campos de batalha.
 
-### Registro e ritual
+### Registro e Ritual
 
-Não há separação real entre a forma cotidiana e a sagrada, apenas entre velocidade e intenção: a mesma língua serve para latir ordens e para canalizar [[_wiki/cosmologia/demonios\|demônios]] sob o [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], e a diferença mora na cadência. No registro berserker, a gramática se desintegra conforme a fúria escala, e frases inteiras se decompõem em monossílabos explosivos, como se a língua acompanhasse o falante de volta ao instinto. Os xamãs advertem que a exposição prolongada a esse registro corrói a estabilidade mental, custo que vem não da língua, mas da fúria que ela canaliza. Demônios que respondem ao chamado podem distorcer a língua durante o canal, forçando o conjurador a improvisar de uma invocação para a outra.
+A forma cotidiana e a sagrada diferem apenas em velocidade e intenção: a mesma língua serve para latir ordens e para canalizar [[_wiki/cosmologia/demonios\|demônios]] sob o [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]], e a diferença mora na cadência. No registro berserker, a gramática se desintegra conforme a fúria escala, e frases inteiras se decompõem em monossílabos explosivos, como se a língua acompanhasse o falante de volta ao instinto. Os xamãs advertem que a exposição prolongada a esse registro corrói a estabilidade mental, custo que vem da fúria que a língua canaliza. Demônios que respondem ao chamado podem distorcer a língua durante o canal, forçando o conjurador a improvisar de uma invocação para a outra.
 
-### Escrita e gramática
+### Escrita e Gramática
 
 A escrita orc é rudimentar: marcas talhadas em madeira, osso ou pedra para registros práticos como contagem, marcação de território e advertências. Não existe tradição literária em orcânico, e épicos como os [[_wiki/personagens/grasnak\|Cantos de Grasnak]] são transmitidos apenas pela voz; para um orc, escrever uma canção seria tão absurdo quanto engarrafar o vento. A gramática é imperativa por padrão, com o sujeito frequentemente omitido, artigos e preposições suprimidos por economia e o tempo verbal reduzido a dois estados, o “agora” e o “não-agora”.
 

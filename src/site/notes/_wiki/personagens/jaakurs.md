@@ -8,4 +8,4 @@ Jaakurs é um [[_wiki/racas/shadar\|shadar]] necromante e feiticeiro cerimoniali
 
 ### Papel
 
-Conduziu a unção de [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] como [[_wiki/organizacoes/justiciares\|Justiciar]] no [[_wiki/locais/templo_de_azkaroth\|templo de Azkaroth]]. Na sessão do Conselho Sombrio, apoiou o envio de [[_wiki/personagens/orum-rahru\|Orum-Rahru]] a [[_wiki/locais/elenir\|Elenir]].
+Conduziu a unção de [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] como [[_wiki/organizacoes/justiciares\|justiciar]] no [[_wiki/locais/templo_de_azkaroth\|templo de Azkaroth]]. Na sessão do Conselho Sombrio, apoiou o envio de [[_wiki/personagens/orum-rahru\|Orum-Rahru]] a [[_wiki/locais/elenir\|Elenir]].

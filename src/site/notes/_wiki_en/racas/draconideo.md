@@ -4,7 +4,7 @@
 
 # Draconid
 
-Draconids, or Drakhonins, are the elite subgroup of [[_wiki_en/racas/sauriano\|Saurians]]: the largest, strongest, and proudest of the reptilian humanoids. Bonded to demons, they claim a divine heritage from dragons and act in accordance with that belief. Their build exceeds that of [[_wiki_en/racas/shadar\|Shadars]] in mass and height, their scales deflect tempered steel, and their elemental breath turns ambush into cremation. They are the closest creatures to dragons that the world still produces, and they never let anyone forget it.
+Draconids, or Drakhonins, are the elite subgroup of [[_wiki_en/racas/sauriano\|Saurians]]: the largest, strongest, and proudest of the reptilian humanoids. Bonded to demons, they claim a divine heritage from dragons and act in accordance with that belief. Their build exceeds that of [[_wiki_en/racas/shadar\|Shadars]] in mass and height, their scales deflect tempered steel, and their elemental breath turns ambush into cremation. They are the closest creatures to dragons that the world still produces.
 
 ### Origin
 
@@ -18,7 +18,7 @@ Standing upright, they measure from 1.90 m to 2.40 m, with dense musculature ben
 
 ### Psychology
 
-Pride in lineage is the identity structure that sustains clan cohesion: to question the lineage is to question the clan’s reason for existing. Added to this is a predatory pragmatism in which the clan’s continuity takes precedence over honor, and betraying an ally is acceptable when the alternative is extinction. Draconids measure the world by size and treat smaller races with automatic condescension; Shadars receive reluctant respect for their power, not their stature, and [[_wiki_en/racas/kobold\|kobolds]] provoke a visceral reaction, seen by the Draconids of [[_wiki_en/locais/varnak\|Varnak]] as an offensive parody of the draconic lineage.
+Pride in lineage is the identity structure that sustains clan cohesion: to question the lineage is to question the clan’s reason for existing. Added to this is a predatory pragmatism in which the clan’s continuity takes precedence over honor, and betraying an ally is acceptable when the alternative is extinction. Draconids measure the world by size and treat smaller races with automatic condescension; Shadars receive reluctant respect for their power, despite their stature, and [[_wiki_en/racas/kobold\|kobolds]] provoke a visceral reaction, seen by the Draconids of [[_wiki_en/locais/varnak\|Varnak]] as an offensive parody of the draconic lineage.
 
 ### Social Structure
 
@@ -26,11 +26,11 @@ Drakhonin clans organize themselves by draconic lineage, each claiming an ancest
 
 ### Culture
 
-The Drakhonin bonding ritual binds each individual to the clan’s dragon-god from the egg: eggs are bathed in ritual blood and exposed to the fire of an elder’s breath, and those that do not survive the heat are regarded as natural purification. Each Draconid receives a brood name at birth and a battle name after the first victory; [[_wiki_en/personagens/thrax\|Thrax]] is “Warrior of the Deep Flames”, while Yzmareth operates under his birth name, which may suggest that his victories are political, not physical. They collect trophies from defeated enemies, teeth, claws, and scales from rivals, as a record of deeds. The clans maintain chroniclers who record lineages, battles, and blood debts, and Varnakian shamans such as Wijmarv serve as scholars.
+The Drakhonin bonding ritual binds each individual to the clan’s dragon-god from the egg: eggs are bathed in ritual blood and exposed to the fire of an elder’s breath, and those that do not survive the heat are regarded as natural purification. Each Draconid receives a brood name at birth and a battle name after the first victory; [[_wiki_en/personagens/thrax\|Thrax]] is “Warrior of the Deep Flames”, while Yzmareth operates under his birth name, which may suggest that his victories are political. They collect trophies from defeated enemies, teeth, claws, and scales from rivals, as a record of deeds. The clans maintain chroniclers who record lineages, battles, and blood debts, and Varnakian shamans such as Wijmarv serve as scholars.
 
 ### Magic
 
-Draconids access magic through [[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]], a demonic bond established from the egg, and their magic tends toward fire, destruction, and fear, in the schools of [[_wiki_en/escolas/pyro\|Pyro]] and [[_wiki_en/escolas/phobos\|Phobos]]. Elemental breath is the most visible magical manifestation, inscribed in their very physiology. The cost manifests as progressive internal burning: Draconids who overuse their breath or fire invocations develop necrosis in their internal tissues, and their scales remain intact while their organs char within. The old and powerful frequently die of internal collapse, not combat.
+Draconids access magic through [[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]], a demonic bond established from the egg, and their magic tends toward fire, destruction, and fear, in the schools of [[_wiki_en/escolas/pyro\|Pyro]] and [[_wiki_en/escolas/phobos\|Phobos]]. Elemental breath is the most visible magical manifestation, inscribed in their very physiology. The cost manifests as progressive internal burning: Draconids who overuse their breath or fire invocations develop necrosis in their internal tissues, and their scales remain intact while their organs char within. The old and powerful frequently die of internal collapse.
 
 ### Life Cycle
 

@@ -8,7 +8,7 @@ The Sigil of [[_wiki_en/panteao/abbhal\|Abbhal]], also called the Mark of Abbhal
 
 ### Nature
 
-In the hierarchy of punishments of the [[_wiki_en/organizacoes/tribunal_de_morvgrad\|Tribunal of Morvgrad]], the Sigil ranks above the Crucitórios and any conventional execution. It does not kill: it condemns one to existence without agency. The body breathes and the heart beats, but consciousness remains trapped in a limbo, with glassy eyes and the mouth open in a silent scream. It is life without life.
+In the hierarchy of punishments of the [[_wiki_en/organizacoes/tribunal_de_morvgrad\|Tribunal of Morvgrad]], the Sigil ranks above the Crucitórios and any conventional execution. Without killing, it condemns one to existence without agency: the body breathes and the heart beats, but consciousness remains trapped in a limbo, with glassy eyes and the mouth open in a silent scream.
 
 ### Arcane Mechanics
 
@@ -24,4 +24,4 @@ Much of what follows the sentence remains unanswered: it is not known whether th
 
 ### Significance
 
-The Sigil encapsulates the Empire’s penal philosophy: order does not punish to correct, but to demonstrate that transgression costs more than obedience. The sentence mirrors, on the divine plane, the function the Justiciar performs on the earthly plane.
+The Sigil encapsulates the Empire’s penal philosophy: order punishes to demonstrate that transgression costs more than obedience, without any corrective purpose. The sentence mirrors, on the divine plane, the function the Justiciar performs on the earthly plane.

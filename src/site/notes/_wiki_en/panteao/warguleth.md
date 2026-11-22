@@ -22,7 +22,7 @@ The Anatho sealings anchored in his name emanate dry, constant heat and burn the
 
 ### The Pit
 
-The Pit that Wargûleth guards is not a prison, but the state of confinement itself, and it takes hold in stages. First comes fear, the distrust that makes the target hesitate before asking for help. Then comes the curse, the misfortune that turns hesitation into justification: friends summoned do not appear, favors called in are lost in accidents that seem coincidental. By the time the target realizes they are isolated, the Pit has already closed. Wargûleth sits at the edge and keeps watch, one head sniffing out escape attempts, another growling to deter anyone who approaches, the third merely watching. Entering the Pit requires no bars: losing the last tie is enough.
+The Pit that Wargûleth guards is the state of confinement itself, and it takes hold in stages. First comes fear, the distrust that makes the target hesitate before asking for help. Then comes the curse, the misfortune that turns hesitation into justification: friends summoned do not appear, favors called in are lost in accidents that seem coincidental. By the time the target realizes they are isolated, the Pit has already closed. Wargûleth sits at the edge and keeps watch, one head sniffing out escape attempts, another growling to deter anyone who approaches, the third merely watching. To enter the Pit, one need only lose the last tie.
 
 ### The Vulfans
 

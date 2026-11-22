@@ -6,7 +6,7 @@
 
 O tenebraico é uma língua ritual da Primeira Era, associada aos [[_wiki/racas/shadar\|shadars]] e voltada para pactos diabólicos e maldições. Por vezes é chamado de “shadar antigo”, denominação enganosa. É um latim sombrio, concebido para contratos e não para conversa: cada palavra é uma sentença, e o duplo sentido não existe porque os contratos não o permitem.
 
-### Som e ritmo
+### Som e Ritmo
 
 Predominam consoantes oclusivas duras (*k*, *t*, *d*) e fricativas sibilantes (*s*, *sh*, *th*), com vogais curtas e escuras (*o*, *u*), raramente abertas. O ritmo é marcial e as frases são declarativas, sem ambiguidade. A inspiração sonora é o latim eclesiástico com a suavidade removida: onde o latim da Igreja sobe em oração, o tenebraico desce em decreto.
 
@@ -18,7 +18,7 @@ O registro é exclusivamente formal; não existe registro informal, pois a líng
 
 O campo lexical é extenso em termos de poder, dor, obrigação e morte, e de pobreza extrema em termos de afeto, natureza ou abstração filosófica. Não existe palavra para “perdão”; a mais próxima, *dolth-khem*, traduz-se literalmente como “dívida suspensa”. Entre as fórmulas conhecidas estão *Veth-kalar mortem*, ligada ao toque vampírico, e *Khet-amn devoeth*, ligada a um campo de trevas absolutas. O padrão é raiz verbal seguida de modificador e domínio: três palavras, sem artigos, sem cortesia.
 
-### Registro arcaico
+### Registro Arcaico
 
 O tenebraico arcaico é o estrato mais velho da língua, o mesmo que os shadars chamam de “shadar arcaico”. Trata-se do próprio tenebraico em sua forma mais antiga, que sobrevive em nomes e nas fórmulas que operam artefatos antigos do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]]. Guarda as oclusivas duras e a junção por hífen do registro ritual, e partilha com ele a raiz *khet*.
 

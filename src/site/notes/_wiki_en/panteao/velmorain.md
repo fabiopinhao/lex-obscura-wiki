@@ -8,7 +8,7 @@ Velmorain, the Cosmic Veil, is a deity of the devil-sidereal category who manife
 
 ### Nature
 
-Velmorain’s body appears wrapped in cosmic bands that undulate like fabric submerged in dark water, crowned with a miter of cold spectral light. The bands do not touch the body: they float millimeters from its surface, and between them there is neither flesh nor bone, only a star field, points of light that blink so slowly they seem fixed until they are not. The miter emits a radiance that neither warms nor illuminates the ground, and illuminates only the bands, light that exists only for itself. There is no face beneath the bands, only the suggestion of a form that may never have existed. Anyone who stays nearby feels the distance between their own bones increase, as though the space inside their body had become larger than it should be.
+Velmorain’s body appears wrapped in cosmic bands that undulate like fabric submerged in dark water, crowned with a miter of cold spectral light. The bands float millimeters from the body’s surface without touching it, and between them there is neither flesh nor bone, only a star field, points of light that blink very slowly and seem fixed until the next blink. The miter emits a heatless radiance that illuminates only the bands. There is no face beneath the bands, only the suggestion of a form that may never have existed. Anyone who stays nearby feels the distance between their own bones increase, as though the space inside their body had become larger than it should be.
 
 ### Domain
 

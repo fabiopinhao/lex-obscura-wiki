@@ -18,7 +18,7 @@ Duas fontes de luz dividem o subterrâneo, e a diferença entre elas diz onde se
 
 Governam Vor-Ghol as Casas Matriarcais drul, em aliança com os [[_wiki/racas/shadar\|shadars]]. É uma cultura onde a traição é virtude destilada no leite materno, e as alianças se fazem e se desfazem ao sabor da conveniência.
 
-### Sub-locais
+### Sub-Locais
 
 A rede subterrânea reúne cidadelas e rotas de nome próprio: [[_wiki/locais/ghilanna\|Ghilanna]], principal cidadela drul e parceira de Morvgrad na [[_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]]; [[_wiki/locais/xilaverth\|Xilaverth]], cidadela do oeste que nasceu satélite de Ghilanna, rompeu com ela e lhe é hostil; Nulbareth e Vel’Kora, cidadelas irmãs de Xilaverth que também nasceram satélites de Ghilanna e lhe fornecem minério e sangue jovem; o [[_wiki/locais/eixo_de_drenn\|Eixo de Drenn]], antiga cidadela virada ninho de [[_wiki/criaturas/dridar\|drídar]] e rota de contorno; os [[_wiki/locais/quintos_de_irkhal\|Quintos de Irkhal]], confins remotos do subterrâneo; o [[_wiki/locais/veio_morto\|Veio Morto]], passagem perigosa de drídares selvagens; e a [[_wiki/locais/galeria_menor\|Galeria Menor]], corredor sujeito a marés que força desvios pelo Eixo de Drenn.
 

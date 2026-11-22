@@ -18,8 +18,8 @@ Na tradição de [[_wiki/panteao/azazel\|Azazel]], Helio é também restauraçã
 
 ### Custos
 
-O custo temático é cegueira temporária e pontos cegos na visão, de trinta segundos a uma hora. O custo ontológico é a exposição compulsiva: os segredos se tornam intoleráveis e a transparência vira imperativo. Começa como desconforto em guardar segredos e avança até que esconder qualquer coisa pareça moralmente errado. O estágio mais avançado é tratado como risco sistêmico irreversível, e o [[_wiki/organizacoes/imperio_sombrio\|Império]] só recruta praticantes para funções públicas e cerimoniais até o ponto em que a transparência não compromete; quem serve a [[_wiki/organizacoes/ophideias\|Ophideias]] ou à Inquisição e avança demais é descartado numa Consagração Final antes que exponha operações sigilosas.
+O custo temático é cegueira temporária e pontos cegos na visão, de trinta segundos a uma hora. O custo ontológico é a exposição compulsiva: os segredos se tornam intoleráveis e a transparência vira imperativo. Começa como desconforto em guardar segredos e avança até que esconder qualquer coisa pareça moralmente errado. O estágio mais avançado é tratado como risco sistêmico irreversível, e o [[_wiki/organizacoes/imperio_sombrio\|Império]] só recruta praticantes para funções públicas e cerimoniais até o ponto em que a transparência não compromete; quem serve a [[_wiki/organizacoes/ophideias\|ophideias]] ou à Inquisição e avança demais é descartado numa Consagração Final antes que exponha operações sigilosas.
 
-### Combinações e oposição
+### Combinações e Oposição
 
 Com [[_wiki/escolas/belli\|Belli]], Helio acende as lâminas de uma formação inteira antes do avanço; com [[_wiki/escolas/vita\|Vita]], serve à cauterização cirúrgica de curandeiros de campo; contra [[_wiki/escolas/necro\|Necro]], é oposição funcional direta, e um heliomante num campo de batalha necromântico é o recurso mais valioso do exército. Seu par antagônico é Umbra, o eixo mais binário de todo o sistema: a luz expõe o que as trevas escondem, as trevas consomem o que a luz revela, e Eclipse apaga o que Apogeu incendeia.

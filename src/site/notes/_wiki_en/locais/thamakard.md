@@ -8,7 +8,7 @@ Thamakard is the material plane, the physical world inhabited by its peoples. It
 
 ### Shape and Contention
 
-Thamakard is flat, not spherical. Earlier ages believed otherwise, and were wrong. No god owns it, but many vie for it: it is the battleground for all divine forces. The [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]] functions as a universal alchemical corridor, linking Thamakard to the [[_wiki_en/cosmologia/planos_divinos\|divine planes]], and it is through it that [[_wiki_en/cosmologia/magi\|magi]] circulates.
+Thamakard is flat. Earlier ages believed it to be spherical, and were wrong. No god owns it, but many vie for it: it is the battleground for all divine forces. The [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]] functions as a universal alchemical corridor, linking Thamakard to the [[_wiki_en/cosmologia/planos_divinos\|divine planes]], and it is through it that [[_wiki_en/cosmologia/magi\|magi]] circulates.
 
 ### The Decline of Magi
 

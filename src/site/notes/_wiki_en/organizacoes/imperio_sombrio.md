@@ -8,7 +8,7 @@ The Shadow Empire, also called simply the Empire or the Shadow Dominion, is the 
 
 ### Foundation
 
-The Empire did not begin as a monarchy. Its structure evolved from the Shadow Cult, founded by [[_wiki_en/personagens/xarn\|Xarn]] in the [[_wiki_en/conceitos/segunda_era\|Second Era]] by unifying the diabolical temples scattered across the northern plateau; the creation of Morvgrad as the political and religious capital sealed the fusion of faith and government. Arothistar’s rise transformed the Cult into an instrument of absolute monarchy: the [[_wiki_en/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] did not repeal the [[_wiki_en/conceitos/lex_obscura_decreto\|Lex Obscura]], but aligned itself with it and overlaid it. It was revolution and continuity at the same time, since absorbing the old system ensured submission where destroying it would have generated resistance.
+The Empire did not begin as a monarchy. Its structure evolved from the Shadow Cult, founded by [[_wiki_en/personagens/xarn\|Xarn]] in the [[_wiki_en/conceitos/segunda_era\|Second Era]] by unifying the diabolical temples scattered across the northern plateau; the creation of Morvgrad as the political and religious capital sealed the fusion of faith and government. Arothistar’s rise transformed the Cult into an instrument of absolute monarchy: the [[_wiki_en/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] aligned itself with the [[_wiki_en/conceitos/lex_obscura_decreto\|Lex Obscura]] and superseded it without repealing it. It was revolution and continuity at the same time, since absorbing the old system ensured submission where destroying it would have generated resistance.
 
 ### Territorial Extent
 

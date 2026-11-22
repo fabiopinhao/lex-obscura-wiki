@@ -4,7 +4,7 @@
 
 # Gaelwyn
 
-Gaelwyn, or Gael, is a veteran Sylvan ranger and druidic channeler, considered the best ranger in [[_wiki_en/locais/thal_serin\|Thal’Serin]]. He fought in the [[_wiki_en/conceitos/guerras_reinkardicas\|Reinkardic Wars]] when he was the age the apprentices he trained are today. A devotee of [[_wiki_en/panteao/titania\|Titânia]], he bears the [[_wiki_en/cosmologia/marca_das_luas_gemeas\|mark of the twin moons]] and serves [[_wiki_en/organizacoes/resistencia_de_thal_serin\|the Resistance of Thal’Serin]]. He wields the elven bow and druidic magic, and is [[_wiki_en/personagens/koliah\|Koliah]]’s lover.
+Gaelwyn, or Gael, is a veteran Sylvan ranger and druidic channeler, considered the best ranger in [[_wiki_en/locais/thal_serin\|Thal’Serin]]. He fought in the [[_wiki_en/conceitos/guerras_reinkardicas\|Reinkardic Wars]] when he was the age the apprentices he trained are today. A devotee of [[_wiki_en/panteao/titania\|Titânia]], he bears the [[_wiki_en/cosmologia/marca_das_luas_gemeas\|mark of the twin moons]] and serves [[_wiki_en/organizacoes/resistencia_de_thal_serin\|the Resistance of Thal’Serin]]. He wields the elven bow and druidic magic.
 
 ### Appearance
 
@@ -20,4 +20,4 @@ Something in Gael’s presence moves the very forest of Thal’Serin: the trees 
 
 ### Relationships
 
-He is Koliah’s lover and a mentor to the resistance’s new generation of rangers, among them Mirin and [[_wiki_en/personagens/calel\|Calel]], whom he trained. Those he trained owe him their craft, and Mirin, her purpose as well.
+He is [[_wiki_en/personagens/koliah\|Koliah]]’s lover and a mentor to the resistance’s new generation of rangers, among them Mirin and [[_wiki_en/personagens/calel\|Calel]]. Those he trained owe him their craft, and Mirin, her purpose as well.

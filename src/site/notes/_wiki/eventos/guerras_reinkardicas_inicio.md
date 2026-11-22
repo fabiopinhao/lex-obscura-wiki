@@ -8,7 +8,7 @@ As Guerras Reinkárdicas foram a primeira guerra continental da história de [[_
 
 ### O Esgotamento do Planalto
 
-No último século da Segunda Era, o Culto Sombrio havia guarnecido suas fortalezas periféricas, unificado os templos sob a [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]] e consolidado a [[_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]]. [[_wiki/locais/morvgrad\|Morvgrad]] operava como capital religiosa e militar de uma potência que não tinha mais para onde crescer sem descer. A descida não começou com exércitos, mas com fome e extorsão.
+No último século da Segunda Era, o Culto Sombrio havia guarnecido suas fortalezas periféricas, unificado os templos sob a [[_wiki/conceitos/lex_obscura_decreto\|Lex Obscura]] e consolidado a [[_wiki/organizacoes/alianca_subterranea\|Aliança Subterrânea]]. [[_wiki/locais/morvgrad\|Morvgrad]] operava como capital religiosa e militar de uma potência que não tinha mais para onde crescer sem descer. A descida começou com fome e extorsão, antes dos exércitos.
 
 ### Comando e Estratégia
 

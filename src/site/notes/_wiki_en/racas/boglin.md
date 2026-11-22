@@ -4,7 +4,7 @@
 
 # Boglin
 
-Boglins are [[_wiki_en/racas/ranidano\|Ranidans]] of gnomish stature, descended from the chelonian lineage: humanoid turtles protected by a dorsal shell. They are the smallest and most reclusive inhabitants of [[_wiki_en/locais/neranthis\|Neranthis]], sighted less frequently than any other race on the continent.
+Boglins are [[_wiki_en/racas/ranidano\|Ranidans]] of gnomish stature, descended from the chelonian lineage: humanoid turtles. They are the smallest and most reclusive inhabitants of [[_wiki_en/locais/neranthis\|Neranthis]], sighted less frequently than any other race on the continent.
 
 ### Nature
 
@@ -20,4 +20,4 @@ Boglins share the Ranidan telepathic ability, but to a diminished degree. Its ra
 
 ### Behavior and Role
 
-Reclusive by temperament and circumstance, Boglins inhabit the most remote interior regions of Neranthis, in shallow marshes and along muddy banks where other races do not venture. Retreating beneath the shell is not just a physical reflex but a social disposition: Boglins avoid contact, exposure, and attention. The strategy works, and they are the least documented race in Neranthis and possibly in the entire known world.
+Reclusive by temperament and circumstance, Boglins inhabit the most remote interior regions of Neranthis, in shallow marshes and along muddy banks where other races do not venture. Retreating beneath the shell is also a social disposition: Boglins avoid contact, exposure, and attention. For this reason, they are the least documented race in Neranthis and possibly in the entire known world.

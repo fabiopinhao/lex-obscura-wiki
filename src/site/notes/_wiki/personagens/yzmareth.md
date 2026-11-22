@@ -10,11 +10,11 @@ Yzmareth é um [[_wiki/racas/draconideo\|draconídeo]] [[_wiki/racas/sauriano\|s
 
 É imponente, de escamas vermelhas escuras. Porta uma lança com um grande rubi cravado na extremidade oposta à lâmina. A armadura é forjada com vãos para as asas, embora a raça quase não voe.
 
-### Origem e papel
+### Origem e Papel
 
 Vem de [[_wiki/locais/veinkard\|Veinkard]] e [[_wiki/locais/varnak\|Varnak]], terras dos draconídeos além da Dorsal, e pertence ao Clã Myr’vethan. É o único que se vê cruzar a Dorsal em voo, singularidade entre os de sua espécie. Chega a [[_wiki/locais/reinkard\|Reinkard]] com uma missão estreita: encontrar a Fendris, a adaga [[_wiki/racas/luminares\|luminar]] de [[_wiki/locais/thandruk_varn\|Thandruk Varn]] capaz de abrir fendas entre os planos e ferir até criaturas anciãs. Segundo os xamãs, ela é a chave para matar um dragão ancião como [[_wiki/personagens/varna\|Varna]], de quem Yzmareth é inimigo: trama destruir Varna para unificar os clãs sob os Myr’vethan. Negocia a carga e a adaga com [[_wiki/personagens/svyarnov\|Svyarnov]], da [[_wiki/organizacoes/serpente_purpura\|Serpente Púrpura]], no arsenal clandestino a oeste de [[_wiki/locais/vor-ghol\|Vor-Ghol]].
 
-### Método e voz
+### Método e Voz
 
 Yzmareth fala como dragão pragmático. Enuncia o objetivo e o obstáculo, nunca o sentimento. Cada frase sua mede o que falta para a missão e o que está no caminho dela, e ele negocia a Fendris como quem fecha um trato de carregamento, sem digressão. Quando decide não atacar, bate uma garra na própria placa peitoral, uma vez, e fala em tom quase casual; é com esse gesto que, depois do ultimato de Nidzina, transfere a Svyarnov a decisão sobre a Serpente Púrpura. A derrota diante de Nidzina é para ele uma conta em aberto, algo a reparar.
 

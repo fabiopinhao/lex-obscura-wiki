@@ -12,7 +12,7 @@ Treze Lúnias compõem o corpo do [[_wiki/conceitos/varnum\|Varnum]], o ano impe
 
 ### Distribuição Sazonal
 
-As estações do Varnum são medidas em Lúnias. Germa, Zênite e Quédia recebem três Lúnias cada, ou seja, 84 dias. Brûma, o inverno do planalto [[_wiki/racas/shadar\|shadar]], recebe quatro, num total de 112 dias, refletindo a severidade do clima setentrional. A assimetria não é arbitrária: o inverno prolongado dita o ritmo da vida imperial, do recuo de tropas à duração dos cercos defensivos.
+As estações do Varnum são medidas em Lúnias. Germa, Zênite e Quédia recebem três Lúnias cada, ou seja, 84 dias. Brûma, o inverno do planalto [[_wiki/racas/shadar\|shadar]], recebe quatro, num total de 112 dias, refletindo a severidade do clima setentrional. O inverno prolongado dita o ritmo da vida imperial, do recuo de tropas à duração dos cercos defensivos.
 
 ### Uso
 

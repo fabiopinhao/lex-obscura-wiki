@@ -4,20 +4,20 @@
 
 # Levi
 
-Levi é um menino órfão de [[_wiki/locais/niedellin\|Niedellin]], humano dos [[_wiki/racas/pindoriar\|pindoriares]] e irmão de [[_wiki/personagens/berenice\|Berenice]]. Vive na capela sob a guarda de [[_wiki/personagens/abramis\|Abramis]], que dorme no celeiro junto das crianças que protege. É um observador, dos que enxergam antes dos adultos o que ainda não tem nome.
+Levi é um menino órfão de [[_wiki/locais/niedellin\|Niedellin]], humano dos [[_wiki/racas/pindoriar\|pindoriares]] e irmão de [[_wiki/personagens/berenice\|Berenice]]. Vive na capela sob a guarda de [[_wiki/personagens/abramis\|Abramis]]. É um observador, dos que enxergam antes dos adultos o que ainda não tem nome.
 
 ### Aparência
 
-É um menino magro, de peito franzino, o rosto sempre pálido. Os olhos lhe valem o apelido de olhos de coruja: grandes, entreabertos, vigilantes, fixos no que os outros preferem não notar. Quando fala, a voz sai baixa, em sussurros entrecortados, como quem guarda um segredo que pesa mais do que o corpo aguenta.
+É um menino magro, de peito franzino, o rosto sempre pálido. Os olhos lhe valem o apelido de olhos de coruja: grandes, entreabertos, vigilantes, fixos no que os outros preferem não notar. Quando fala, a voz sai baixa, em sussurros entrecortados.
 
-### Origem e papel
+### Origem e Papel
 
-Cresce nas ruas e nos cantos de Niedellin, órfão entre órfãos, mais quieto que os demais. Sob o teto da capela, fica perto de Abramis e da irmã, Berenice, e ali a sua atenção se afia. Onde os adultos veem rotina, ele vê fissuras.
+Sob o teto da capela, perto de Abramis e da irmã, a sua atenção se afiou.
 
-### Método e voz
+### Método e Voz
 
-O traço que o define é uma percepção incomum da maldade. Levi não argumenta nem mede consequências: aponta o que vê, antes que qualquer prova exista, e diz a verdade que enxerga sem calcular o peso político ou social das palavras, do jeito que só uma criança ousa. Mantém vigília noturna costumeira, acordado quando a casa dorme, e foi assim que viu passar [[_wiki/personagens/syndrith_morghast\|Syndrith Morghast]] na escuridão. Quem cruza com ele percebe que aqueles olhos registram mais do que deveriam.
+O traço que o define é uma percepção incomum da maldade. Levi aponta o que vê antes que qualquer prova exista, sem argumentar, e diz a verdade que enxerga sem calcular o peso político ou social das palavras, do jeito que só uma criança ousa. Mantém vigília noturna costumeira, acordado quando a casa dorme, e foi assim que viu passar [[_wiki/personagens/syndrith_morghast\|Syndrith Morghast]] na escuridão.
 
 ### Relações
 
-Sob a guarda de Abramis, Levi tem teto, comida e uma fronteira moral; é o homem que dorme no celeiro com as crianças e responde por elas. A irmã, Berenice, é o seu laço mais próximo, os dois um para o outro a única família que resta. O Justiciar [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] mede o menino e reconhece nele um dom raro, dito em poucas palavras: perspicaz, você tem um dom raro.
+Sob a guarda de Abramis, Levi tem teto, comida e uma fronteira moral; o padre dorme no celeiro com as crianças e responde por elas. A irmã, Berenice, é o seu laço mais próximo, os dois um para o outro a única família que resta. O Justiciar [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]] mede o menino e reconhece nele um dom raro, dito em poucas palavras: perspicaz, você tem um dom raro.

@@ -4,7 +4,7 @@
 
 # Vita
 
-Vita é a escola pura do verde, dedicada à manipulação da energia vital por adição. Onde outras escolas reparam o que já foi danificado, Vita atua antes do golpe: infunde vigor, acelera o crescimento e força a vida a se multiplicar onde não deveria. É proativa por natureza, e essa antecipação é o que a distingue de [[_wiki/escolas/salvo\|Salvo]], que restaura depois do dano. Seu domínio é a vida e o crescimento, e seu par antagônico é [[_wiki/escolas/necro\|Necro]].
+Vita é a escola pura dos titãs, dedicada à manipulação da energia vital por adição. Onde outras escolas reparam o que já foi danificado, Vita atua antes do golpe: infunde vigor, acelera o crescimento e força a vida a se multiplicar onde não deveria. É proativa por natureza, e essa antecipação é o que a distingue de [[_wiki/escolas/salvo\|Salvo]], que restaura depois do dano. Seu domínio é a vida e o crescimento, e seu par antagônico é [[_wiki/escolas/necro\|Necro]].
 
 ### Práticas
 

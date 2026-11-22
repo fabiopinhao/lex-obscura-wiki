@@ -10,7 +10,7 @@ Aelarian is the elven language of the [[_wiki_en/racas/elarino\|Elarins]], deriv
 
 The everyday register preserves the formality of Luminar: complex structures, multiple verb tenses, a high register as the norm. The vowels are clear and precise, the consonants liquid (*l*, *r*, *n*), and the syllables are articulated with the clarity of someone reciting.
 
-The magical register incorporates the angelic heritage. The vowels are pure and prolonged, the phrases ascend the scale, each word slightly higher in pitch than the one before it. There are no hard plosives: ritual Aelarian literally cannot sound aggressive. Nor does it have negative forms, and it reformulates everything in positive terms; where another language would prohibit, Aelarian affirms. When an [[_wiki_en/cosmologia/anjos\|angel]] abandons its mortal, the final word is always descending, the only exception to the prosodic rule, and therefore devastating.
+The magical register incorporates the angelic heritage. The vowels are pure and prolonged, the phrases ascend the scale, each word slightly higher in pitch than the one before it. There are no hard plosives: ritual Aelarian cannot sound aggressive. Nor does it have negative forms, and it reformulates everything in positive terms; where another language would prohibit, Aelarian affirms. When an [[_wiki_en/cosmologia/anjos\|angel]] abandons its mortal, the final word is always descending, the only exception to the prosodic rule, and therefore devastating.
 
 ### Grammar and Writing
 
@@ -20,6 +20,6 @@ The writing uses glyphs derived from Luminar, simplified but recognizable: inter
 
 ### Ritual Register
 
-Magical Aelarian is the liturgical register of Elarin and [[_wiki_en/racas/alvarar\|Álvarar]] paladins in Devotio Sancta. Its lexicon consists of [[_wiki_en/racas/luminares\|Luminar]] cognates (*Isilmathé*, “eternal light”; *Aelindra*, “dawn”), and its sound aesthetic evokes liturgical chant. Devotio Sancta does not require a single ritual language: it responds to the practitioner’s devotion and spiritual tradition, so that language is the cultural vessel of prayer, not an exclusive key.
+Magical Aelarian is the liturgical register of Elarin and [[_wiki_en/racas/alvarar\|Álvarar]] paladins in Devotio Sancta. Its lexicon consists of [[_wiki_en/racas/luminares\|Luminar]] cognates (*Isilmathé*, “eternal light”; *Aelindra*, “dawn”), and its sound aesthetic evokes liturgical chant. Devotio Sancta does not require a single ritual language: it responds to the practitioner’s devotion and spiritual tradition, so that language is the cultural vessel of prayer.
 
 The language also appears in onomastics. *Crys’Aelin*, the Aelarian name for [[_wiki_en/locais/elenir\|Elenir]], translates as “crystalline dawn” and derives from ancestral Luminar, fusing *crys* (crystal) and *aelin* (a cognate of *Aelindra*).

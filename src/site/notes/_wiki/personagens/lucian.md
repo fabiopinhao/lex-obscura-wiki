@@ -16,6 +16,6 @@ Em Myrgarde, antes da conquista, São Lucian presidia o culto ao lado de [[_wiki
 
 A devoção também é doméstica: há fiéis que guardam a imagem dele em casa e rezam a ele no dia a dia, como fazia [[_wiki/personagens/marta\|Marta]]. Na capela de [[_wiki/locais/niedellin\|Niedellin]], a imagem de São Lucian fica junto ao altar, com a de Santa Merania, e o nicho de Borjean fica entre as duas.
 
-### Em tempo de guerra
+### Em Tempo de Guerra
 
 Durante a mobilização contra os shadars do norte, a igreja de São Lucian em Myrgarde foi selada e suas atividades passaram ao Templo Maior, que servia também de posto de recrutamento. Em [[_wiki/locais/valdris\|Valdris]], nos anos que antecederam a queda da cidade, o nome dele e o de São Borjean eram invocados nas tavernas pelas duas facções, e corria o boato de que os santos agora abençoavam o avanço de Myrgarde sobre a cidade, ou de que suas imagens tinham sido derretidas para cunhar moeda.

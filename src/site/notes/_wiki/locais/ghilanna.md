@@ -10,7 +10,7 @@ Ghilanna é a principal cidadela [[_wiki/racas/drul\|drul]] do subterrâneo, erg
 
 A entrada principal tem a forma de um maxilar de pedra: duas placas basálticas polidas por séculos de passagem, trilhos de osso petrificado nos encaixes e contrapesos ocultos em nichos escuros. As sentinelas detectam quem se aproxima encostando o ouvido na parede natural, e o som das pedras correndo nos trilhos serve de teste de alerta. Junto ao portão, uma mesa de inspeção com tigela rasa e bastão de carvão salgado registra os selos de passagem.
 
-### Arena de treinamento
+### Arena de Treinamento
 
 O chão da arena de treinamento é do mesmo basalto negro das placas dos Portões, com o mesmo polimento, feito por gerações de sangue drul. [[_wiki/personagens/nidzina_avaroth\|Nidzina]] duelou ali durante as descidas a Vor-Ghol.
 

@@ -18,7 +18,7 @@ Shaevan operates at the intersection of poisonous substance and biological degra
 
 ### The Spinning
 
-Shaevan does not release plagues: she spins them. Each epidemic is a web with its own architecture, with calculated points of origin and vectors of transmission. The spider’s patience is literal. Shaevan places the first thread in a victim and waits for contagion to weave the others on its own, for intervening more than necessary is wasteful, and a good plague, like a good web, sustains itself once the structure is in place. The pact-bound reproduce this method: they identify the node of a network, the itinerant merchant, the village preacher, and place the first thread within that person. Spinning requires patience that military urgency does not tolerate; in the open field, Shaevan’s servants lose their function, but in prolonged campaigns of attrition none of the other pact-bound can replace them.
+Shaevan spins her plagues: each epidemic is a web with its own architecture, with calculated points of origin and vectors of transmission. The spider’s patience is literal. Shaevan places the first thread in a victim and waits for contagion to weave the others on its own, for intervening more than necessary is wasteful, and a good plague, like a good web, sustains itself once the structure is in place. The pact-bound reproduce this method: they identify the node of a network, the itinerant merchant, the village preacher, and place the first thread within that person. Spinning requires patience that military urgency does not tolerate; in the open field, Shaevan’s servants lose their function, but in prolonged campaigns of attrition none of the other pact-bound can replace them.
 
 ### Position in the Pantheon
 

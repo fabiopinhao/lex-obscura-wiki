@@ -4,22 +4,22 @@
 
 # Shaezrith
 
-Shaezrith é uma [[_wiki/racas/drul\|drul]] ophideia, companheira de missão de [[_wiki/personagens/syndrith_morghast\|Syndrith]]. Morre nos corredores de [[_wiki/locais/ghilanna\|Ghilanna]], debilitada pelo Sopro de Lúrio.
+Shaezrith é uma [[_wiki/racas/drul\|drul]] ophideia morta em [[_wiki/locais/ghilanna\|Ghilanna]], companheira de missão de [[_wiki/personagens/syndrith_morghast\|Syndrith]].
 
 ### Aparência
 
-Veste o véu de sacerdotisa e a túnica púrpura da ordem. O Sopro de Lúrio marca o corpo: palidez, língua manchada de lúrio, petéquias sutis no branco dos olhos.
+Vestia o véu de sacerdotisa e a túnica púrpura da ordem. O Sopro de Lúrio marcava o corpo: palidez, língua manchada de lúrio, petéquias sutis no branco dos olhos.
 
-### Origem e papel
+### Origem e Papel
 
-Pertence às ophideias e atua ao lado de Syndrith na missão à superfície. Pouco antes de morrer, atravessa o Sopro de Lúrio, rito que debilita de modo progressivo quem o suporta. É encontrada morta nos corredores de Ghilanna, o corpo sereno e sem sinal de luta, o véu rasgado no canto.
+Pertencia às ophideias e atuava ao lado de Syndrith na missão à superfície. Pouco antes de morrer, atravessou o Sopro de Lúrio, rito que debilita de modo progressivo quem o suporta. Foi encontrada morta nos corredores de Ghilanna, o corpo sereno e sem sinal de luta, o véu rasgado no canto.
 
-Acredita que o fardo da missão à superfície é só dela, e diz isso a Syndrith: deveria ir sozinha, o peso era seu, não da companheira. Mas curva-se ao destino com fé fatalista, na convicção de que [[_wiki/personagens/jaakurs\|Jaakurs]] escolhe certo.
+Acreditava que o fardo da missão à superfície era só dela, e disse isso a Syndrith: deveria ir sozinha. Mas curvava-se ao destino com fé fatalista, na convicção de que [[_wiki/personagens/jaakurs\|Jaakurs]] escolhe certo.
 
-### Método e voz
+### Método e Voz
 
-A dúvida em voz baixa é o traço que a define. É ela, e não Syndrith, quem verbaliza a desconfiança: as matronas murmuram que [[_wiki/personagens/arothistar\|Arothistar]] anda errático, e é ela quem repete o murmúrio em voz alta. Sustenta entre as ophideias a fórmula de que são a mão invisível no mundo.
+A dúvida em voz baixa era o traço que a definia. Entre ela e Syndrith, era Shaezrith quem verbalizava a desconfiança: as matronas murmuravam que [[_wiki/personagens/arothistar\|Arothistar]] andava errático, e ela repetia o murmúrio em voz alta. Sustentava entre as ophideias a fórmula de que são a mão invisível no mundo.
 
 ### Relações
 
-Companheira de missão de Syndrith, que conhece os limites do Sopro de Lúrio. A morte de Shaezrith permanece como referência do risco que o rito impõe a qualquer ophideia. As duas debatiam juntas a fama de [[_wiki/panteao/malagoth\|Malagoth]]. Para Syndrith, Shaezrith é a companheira que Ghilanna lhe custou.
+Syndrith conhece os limites do Sopro de Lúrio, e a morte de Shaezrith permanece como referência do risco que o rito impõe a qualquer ophideia. As duas debatiam juntas a fama de [[_wiki/panteao/malagoth\|Malagoth]]. Para Syndrith, Shaezrith é a companheira que Ghilanna lhe custou.

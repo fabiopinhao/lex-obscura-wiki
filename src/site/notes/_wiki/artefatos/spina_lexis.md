@@ -4,25 +4,25 @@
 
 # Spina Lexis
 
-A Spina Lexis, a “Coluna da Lei”, é o cetro judicial portado por cada [[_wiki/organizacoes/justiciares\|Justiciar]] do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Entregue na Unção que ordena o juiz, é instrumento de interrogatório, sentença e execução ritual, e amplifica as magias sombrias de quem o empunha.
+A Spina Lexis, a “Coluna da Lei”, é o cetro judicial portado por cada [[_wiki/organizacoes/justiciares\|justiciar]] do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Entregue na Unção que ordena o juiz, é instrumento de interrogatório, sentença e execução ritual, e amplifica as magias sombrias de quem o empunha.
 
 ### Nomenclatura
 
-O nome opera em duas imagens. Como coluna arquitetônica, o cetro sustenta a estrutura judicial do Império; como coluna vertebral, mantém ereto o corpo da justiça. Nessa leitura, cada Justiciar é uma vértebra individual conectada à coluna maior, a vontade de [[_wiki/personagens/arothistar\|Arothistar]].
+O nome opera em duas imagens. Como coluna arquitetônica, o cetro sustenta a estrutura judicial do Império; como coluna vertebral, mantém ereto o corpo da justiça. Nessa leitura, cada justiciar é uma vértebra individual conectada à coluna maior, a vontade de [[_wiki/personagens/arothistar\|Arothistar]].
 
 ### Forma
 
-É um cetro curto, de uso judicial portátil, empunhado com uma só mão, e não um cajado ou bastão longo. Seu comprimento equivale ao de uma espada [[_wiki/cosmologia/magi\|magi]], a arma padrão dos Lordes Sombrios. A forma compacta acompanha a função: interrogatórios, execuções rituais e mobilidade em campo.
+É um cetro curto, de uso judicial portátil, empunhado com uma só mão, sem o porte de um cajado ou de um bastão longo. Seu comprimento equivale ao de uma espada [[_wiki/cosmologia/magi\|magi]], a arma padrão dos lordes sombrios. A forma compacta acompanha a função: interrogatórios, execuções rituais e mobilidade em campo.
 
 ### Composição
 
-O núcleo é pedra lunar extraída das cavernas sagradas de [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], escolhida pela ressonância com magias negras. Fragmentos ósseos, relíquias dos primeiros traidores executados pelo culto, foram incorporados à haste. Runas gravadas em espiral descendente trazem trechos do [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] em escrita microscópica.
+O núcleo é pedra lunar extraída das cavernas sagradas de [[_wiki/locais/xarn_aroth\|Xarn’Aroth]], escolhida pela ressonância com magias negras. Fragmentos ósseos, relíquias dos primeiros traidores executados pelo Culto, foram incorporados à haste. Runas gravadas em espiral descendente trazem trechos do [[_wiki/conceitos/verbum_arkhon_codex\|Verbum Arkhon]] em escrita microscópica.
 
 A pedra lunar apaga quando o portador paga o custo até o limite: perde o pulso, fica opaca, e o cetro escapa da mão que já não consegue fechar-se sobre ele.
 
 ### Vinculação
 
-Durante a ordenação, o cetro é apresentado ao novo Justiciar com a fórmula “Spina Lexis. Canalem voluntatis. Percute, dirige, sententia.”, que o consagra como canal de vontade e nomeia a tríade de seus poderes. A partir daí, responde apenas ao toque de seu juiz designado; quem mais tente empunhá-lo experimenta dor lancinante e, em casos extremos, paralisia.
+Durante a ordenação, o cetro é apresentado ao novo justiciar com a fórmula “Spina Lexis. Canalem voluntatis. Percute, dirige, sententia.”, que o consagra como canal de vontade e nomeia a tríade de seus poderes. A partir daí, responde apenas ao toque de seu juiz designado; quem mais tente empunhá-lo experimenta dor lancinante e, em casos extremos, paralisia.
 
 ### Poderes
 
@@ -34,4 +34,4 @@ Seus poderes formam uma tríade. Percute estilhaça proteções mágicas menores
 
 ### Simbolismo
 
-A tradição do culto lê o cetro como um dente: a mordida da lei feita matéria, o canino da justiça que perfura, segura e não solta até a sentença ser cumprida.
+A tradição do Culto lê o cetro como um dente: a mordida da lei feita matéria, o canino da justiça que perfura, segura e não solta até a sentença ser cumprida.

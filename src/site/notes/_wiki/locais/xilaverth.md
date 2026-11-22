@@ -8,7 +8,7 @@ Xilaverth é uma cidadela [[_wiki/racas/drul\|drul]] no oeste de [[_wiki/locais/
 
 ### Diplomacia
 
-[[_wiki/personagens/nylothrae_durzken\|Nylothrae Durzken]], da [[_wiki/organizacoes/casa_durzken\|Casa Durzken]], conduz diplomacia secreta com Xilaverth. O objetivo não é conquista, mas endividamento: acumular obrigações em vez de territórios, transformando dívidas em alavancagem para o momento oportuno. As cavernas do oeste, de terra ruim e rataria, importam menos que a promessa de um favor devido.
+[[_wiki/personagens/nylothrae_durzken\|Nylothrae Durzken]], da [[_wiki/organizacoes/casa_durzken\|Casa Durzken]], conduz diplomacia secreta com Xilaverth. O objetivo é o endividamento: acumular obrigações em vez de territórios, transformando dívidas em alavancagem para o momento oportuno. As cavernas do oeste, de terra ruim e rataria, importam menos que a promessa de um favor devido.
 
 ### A Caravana
 

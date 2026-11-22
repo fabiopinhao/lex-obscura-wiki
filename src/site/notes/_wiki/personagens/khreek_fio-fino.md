@@ -10,7 +10,7 @@ Khreek Fio-Fino, ou simplesmente Khreek, é um [[_wiki/racas/derro\|derro]] miú
 
 É diminuto até para um derro, um corpo pequeno que se encolhe ainda mais quando a luz fica forte. As mãos vêm manchadas de cinza, tingidas pela tinta de pedágio que só revela seu brilho sob a limo-luz dos túneis, marca do ofício gravada na própria pele. Os olhos são inquietos, sempre adiantados, correndo à frente do que a boca alcança; sob medo, as pálpebras palpitam sem descanso e a fala desaba atropelada, sílaba por cima de sílaba, sem nunca encontrar o fim.
 
-### Origem e ofício
+### Origem e Ofício
 
 Pertence à Khelg’Dur e conhece as profundezas como poucos. Seu trabalho é ler o que o subterrâneo escreve para quem sabe enxergar: os avisos de escoramento, que dizem onde a rocha aguenta e onde cede, e as marcações de trânsito, que apontam por qual galeria a carga passa em segurança. Decifra os sinais riscados nas paredes das galerias e os entalhes nos batentes de pedra, lê a tinta de pedágio que sela cada cruzamento e confere a contagem de fardos contra o que o entalhe declara. Num lugar onde um teto mal lido sepulta uma caravana inteira, esse saber vale ouro, e qualquer comboio que desça a Vor-Ghol faz bem em levar consigo alguém capaz de decifrá-lo.
 

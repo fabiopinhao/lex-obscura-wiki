@@ -4,7 +4,7 @@
 
 # Sacro
 
-Sacro is the school of pure white magic, dedicated to Grace and Holiness. It blesses, purifies, consecrates, and protects through moral authority and divine intervention, requiring genuine faith as fuel: cynicism weakens its power. Unlike [[_wiki_en/escolas/helio\|Helio]], which purifies through physical radiance, Sacro purifies through ritual, divine law, and consecration. It is the school opposed to [[_wiki_en/escolas/anatho\|Anatho]].
+Sacro is the pure magic school of the angels, dedicated to Grace and Holiness. It blesses, purifies, consecrates, and protects through moral authority and divine intervention, requiring genuine faith as fuel: cynicism weakens its power. Unlike [[_wiki_en/escolas/helio\|Helio]], which purifies through physical radiance, Sacro purifies through ritual, divine law, and consecration. It is the school opposed to [[_wiki_en/escolas/anatho\|Anatho]].
 
 ### Practices
 

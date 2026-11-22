@@ -4,15 +4,15 @@
 
 # Meditatio Aetheris
 
-A Meditatio Aetheris é o sistema de acesso à magia azul, firmado não por contrato nem por sacrifício, mas por disciplina mental. Pelo treino contínuo da consciência, o praticante alcança os [[_wiki/cosmologia/siderais\|Siderais]], entidades de puro intelecto do [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]], e delas recebe poder proporcional à clareza de sua meditação.
+A Meditatio Aetheris é o sistema de acesso à magia azul, firmado por disciplina mental, sem contrato nem sacrifício. Pelo treino contínuo da consciência, o praticante alcança os [[_wiki/cosmologia/siderais\|siderais]], entidades de pura consciência e intelecto do [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]], e delas recebe poder proporcional à clareza de sua meditação.
 
 ### Natureza
 
-As entidades azuis são seres de pura consciência e intelecto que habitam o Plano Etéreo. Não possuem forma física: são padrões de pensamento, geometrias vivas, conceitos conscientes. Por não terem ego nem ambição, não traem o praticante como fazem outras entidades.
+Sem forma física, as entidades azuis são padrões de pensamento, geometrias vivas, conceitos conscientes. Por não terem ego nem ambição, não traem o praticante como fazem outras entidades.
 
 ### Provimento
 
-A canalização da Meditatio Aetheris chama-se Provimento, e é neutra e impessoal. Os Siderais não possuem plano existencial próprio e operam através do Plano Etéreo. O Provimento amplifica os sentimentos-chave das escolas concedidas de forma proporcional à sintonização mental do praticante, não à vontade da entidade: a resposta depende da clareza da meditação, não da generosidade do sideral.
+A canalização da Meditatio Aetheris chama-se Provimento, e é neutra e impessoal. Os siderais não possuem plano existencial próprio e operam através do Plano Etéreo. O Provimento amplifica os sentimentos-chave das escolas concedidas na proporção da sintonização mental do praticante, sem depender da vontade nem da generosidade do sideral.
 
 ### Tipos de Entidades
 

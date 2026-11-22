@@ -33,7 +33,7 @@ What the Empire keeps secret is not included in this archive. The records of peo
 - **[[_wiki_en/indices/Locais\|Places]]**: fortresses, ruins, and what thrives beneath them
 - **[[_wiki_en/indices/Organizações\|Organizations]]**: who obeys the throne, who conspires against it
 - **[[_wiki_en/indices/Personagens\|Characters]]**: those who enforce the law. Those who suffer it. Those who wrote it.
-- **[[_wiki_en/indices/Sistema de Magia\|Magic System]]**: five colors, thirty schools, and ontological costs
+- **[[_wiki_en/indices/Sistema de Magia\|Magic System]]**: thirty schools, fifteen oppositions, and ontological costs
 - **[[_wiki_en/indices/Artefatos\|Artifacts]]**: what the Empire forged and what it found before it existed
 - **[[_wiki_en/indices/Conceitos\|Concepts]]**: terminology, legal instruments, politics, and culture
 - **[[_wiki_en/indices/Línguas\|Languages]]**: languages of the races and imperial language policy

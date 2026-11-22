@@ -4,7 +4,7 @@
 
 # Codex Somniorum
 
-O Codex Somniorum, o “Códice dos Sonhos”, é o grimório sagrado padrão dos [[_wiki/organizacoes/justiciares\|Justiciares]] do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Mais que um livro, apresenta-se como artefato vivo que pulsa com a autoridade condensada do reino sombrio, e cada Justiciar carrega o seu exemplar.
+O Codex Somniorum, o “Códice dos Sonhos”, é o grimório sagrado padrão dos [[_wiki/organizacoes/justiciares\|justiciares]] do [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Mais que um livro, apresenta-se como artefato vivo que pulsa com a autoridade condensada do reino sombrio, e cada justiciar carrega o seu exemplar.
 
 ### Nome
 
@@ -30,7 +30,7 @@ Destruir um Codex é crime hediondo, e os métodos comuns falham: o fogo apenas 
 
 ### Produção
 
-Cada exemplar é reproduzido no [[_wiki/locais/scriptorium_de_morvgrad\|Scriptorium de Morvgrad]], por copistas e exegetas juramentados sob tutela dos Arcontes. Os códices recebem cifra ritual e colofão consagrado, que garantem autenticidade e rastreabilidade. Falsificar um códice é crime capital, e apenas Justiciares e o Alto Clero possuem exemplares.
+Cada exemplar é reproduzido no [[_wiki/locais/scriptorium_de_morvgrad\|Scriptorium de Morvgrad]], por copistas e exegetas juramentados sob tutela dos arcontes. Os códices recebem cifra ritual e colofão consagrado, que garantem autenticidade e rastreabilidade. Falsificar um códice é crime capital, e apenas justiciares e o Alto Clero possuem exemplares.
 
 ### Doutrina
 

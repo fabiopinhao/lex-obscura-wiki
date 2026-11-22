@@ -4,7 +4,7 @@
 
 # Hideous Servant
 
-The hideous servant is a creature summoned through necromantic magic or dark pacts. It is not a natural species, but an animated construct, with forms that vary according to the summoner and the available material: reanimated corpses, amalgams of flesh and bone, or entities summoned from lower planes.
+The hideous servant is a creature summoned through necromantic magic or dark pacts. It is an animated construct, belonging to no natural species, with forms that vary according to the summoner and the available material: reanimated corpses, amalgams of flesh and bone, or entities summoned from lower planes.
 
 ### Use
 

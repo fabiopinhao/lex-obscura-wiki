@@ -4,7 +4,7 @@
 
 # Solvara
 
-Solvara, the Immortal Ash, is a deity of a demon-angel nature who manifests as an immolated phoenix. Her domain combines the schools of [[_wiki_en/escolas/plasma\|Plasma]] and [[_wiki_en/escolas/aero\|Aero]], while she is trapped in a cycle of immolation that never reaches completion.
+Solvara, the Immortal Ash, is a deity of a demon-angel nature who manifests as an immolated phoenix. Her domain combines the schools of [[_wiki_en/escolas/plasma\|Plasma]] and [[_wiki_en/escolas/aero\|Aero]], and she lives trapped in a cycle of immolation that never reaches completion.
 
 ### Manifestation
 
@@ -12,7 +12,7 @@ Solvara appears as a phoenix in perpetual combustion, enveloped in bluish-white 
 
 ### Domain
 
-Solvara’s combustion requires no external fuel. The plasma that envelops her is self-generated energy, ionized matter that melts whatever it touches without consuming anything beyond itself, while Aero feeds the cycle: the wind from her wings blows oxygen into the burning and carries incandescent ashes away, sowing ignition wherever they land. The trail is recognizable from a distance. The ground vitrifies beneath her passage, sand melted into smooth obsidian that reflects the sky like a black mirror. Vegetation does not burn: it sublimates, and trees disappear without leaving charcoal, only shadows imprinted on the glassy ground where they stood.
+Solvara’s combustion requires no external fuel. The plasma that envelops her is self-generated energy, ionized matter that melts whatever it touches without consuming anything beyond itself, while Aero feeds the cycle: the wind from her wings blows oxygen into the burning and carries incandescent ashes away, sowing ignition wherever they land. The trail is recognizable from a distance. The ground vitrifies beneath her passage, sand melted into smooth obsidian that reflects the sky like a black mirror. Vegetation sublimates without burning, and trees disappear without leaving charcoal, only shadows imprinted on the glassy ground where they stood.
 
 ### The Immolation
 

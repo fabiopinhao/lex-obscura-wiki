@@ -10,11 +10,11 @@ Berenice é uma menina humana de [[_wiki/locais/niedellin\|Niedellin]], órfã e
 
 A pele de Berenice é muito pálida, de uma brancura que lembra boneca de porcelana, e os olhos guardam uma curiosidade viva, infantil, que se acende mesmo no medo. A voz é fina e doce, voz de criança que ainda não desaprendeu a ternura. Veste saia, e o conjunto compõe a figura miúda de uma menina que parece mais frágil do que se prova ser.
 
-### Origem e papel
+### Origem e Papel
 
-Órfã, Berenice cresce na capela de Niedellin ao lado de Levi, os dois um para o outro o único laço de família que resta. Foi ela quem testemunhou um raro fenômeno celeste sobre a vila, e estava por perto quando [[_wiki/personagens/syndrith_morghast\|Syndrith Morghast]] passou pela aldeia. O que se passa em Niedellin, ela vê, registra e não esquece.
+Órfã, Berenice cresce na capela de Niedellin ao lado de Levi, os dois um para o outro o único laço de família que resta. Foi ela quem testemunhou um raro fenômeno celeste sobre a vila, e estava por perto quando [[_wiki/personagens/syndrith_morghast\|Syndrith Morghast]] passou pela aldeia.
 
-### Método e voz
+### Método e Voz
 
 Berenice tem medo, e o medo nela é mais visível do que em Levi, aflora no rosto antes que ela consiga contê-lo. Ainda assim tenta parecer forte, ergue a fala fina contra o pavor e finge uma firmeza que o corpo ainda não tem. É testemunha por vocação e por destino: enxerga o que se passa, registra o que muda, não esquece.
 

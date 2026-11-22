@@ -4,7 +4,7 @@
 
 # Zephrak
 
-Zephrak, o Sopro Inclemente, é uma divindade angélica do vento consagrado, alinhada às escolas do [[_wiki/escolas/aero\|Aero]] e do [[_wiki/escolas/sacro\|Sacro]]. Seu sopro opera como peneira: o ar separa os que carregam corrupção daqueles que não a carregam, e a inclemência do título não designa crueldade, mas ausência completa de consideração pelo contexto.
+Zephrak, o Sopro Inclemente, é uma divindade angélica do vento consagrado, alinhada às escolas do [[_wiki/escolas/aero\|Aero]] e do [[_wiki/escolas/sacro\|Sacro]]. Seu sopro opera como peneira: o ar separa os que carregam corrupção daqueles que não a carregam, e a inclemência do título, alheia à crueldade, designa ausência completa de consideração pelo contexto.
 
 ### Manifestação
 
@@ -14,7 +14,7 @@ Um sinal mais discreto também é atribuído a ele: uma rajada cortante que arra
 
 ### Domínio
 
-O sopro de Zephrak é vento consagrado que separa. Corrupção arcana, maldições ativas, vínculos demoníacos e profanação de qualquer origem provocam atrito contra o ar, e o atrito gera calor, e o calor gera dor proporcional à gravidade da mácula. O fiel sem mancha sente apenas brisa fria; o pactuado sente o vento raspar a pele como lixa grossa; o profanador convicto sente o ar entrar nos pulmões e queimar por dentro. A discriminação é automática e indiferente à intenção, sem apelação, confissão ou circunstância atenuante. O vento não ouve. O vento separa. O anjo que sopra a ventania sagrada sobre um campo misto de inocentes e culpados não protege os inocentes deliberadamente: eles sobrevivem porque o vento não encontra neles o que precisa para cortar.
+O sopro de Zephrak é vento consagrado que separa. Corrupção arcana, maldições ativas, vínculos demoníacos e profanação de qualquer origem provocam atrito contra o ar, e o atrito gera calor, e o calor gera dor proporcional à gravidade da mácula. O fiel sem mancha sente apenas brisa fria; o pactuado sente o vento raspar a pele como lixa grossa; o profanador convicto sente o ar entrar nos pulmões e queimar por dentro. A discriminação é automática e indiferente à intenção, sem apelação, confissão ou circunstância atenuante. O anjo que sopra a ventania sagrada sobre um campo misto de inocentes e culpados não protege os inocentes deliberadamente: eles sobrevivem porque o vento não encontra neles o que precisa para cortar.
 
 ### O Sopro
 

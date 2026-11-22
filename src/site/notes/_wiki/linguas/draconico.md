@@ -8,12 +8,12 @@ O dracônico é a língua primordial dos dragões, idioma cotidiano dos [[_wiki/
 
 ### Som
 
-No registro primordial, o dracônico produz sons impossíveis para gargantas humanas: infrassons que vibram o diafragma, cliques guturais de membranas que os bípedes não possuem, e harmônicos simultâneos, duas notas vocais ao mesmo tempo. A transcrição mortal recorre a aproximações como *Khr*, *Zzm*, *Ghrl*. O registro cotidiano acomoda gargantas menores, mas conserva as sibilantes longas e as fricativas retroflexas do original, uma qualidade “escamosa” que identifica o falante antes que ele termine a primeira frase. Ouvi-lo é sentir escala antes de sentido: quando um xamã sauriano entoa fragmentos rituais, ouvintes relatam pressão torácica e o impulso de baixar os olhos.
+No registro primordial, o dracônico produz sons impossíveis para gargantas humanas: infrassons que vibram o diafragma, cliques guturais de membranas que os bípedes não possuem, e harmônicos simultâneos, duas notas vocais ao mesmo tempo. A transcrição mortal recorre a aproximações como *Khr*, *Zzm*, *Ghrl*. O registro cotidiano acomoda gargantas menores, mas conserva as sibilantes longas e as fricativas retroflexas do original, uma qualidade “escamosa” que identifica o falante antes que ele termine a primeira frase. Quando um xamã sauriano entoa fragmentos rituais, ouvintes relatam pressão torácica e o impulso de baixar os olhos, efeito da escala do som, percebida antes de qualquer sentido.
 
 ### Escrita
 
-Não se escreve dracônico com tinta, mas por incisão. Cada traço é um sulco físico e permanente, marca de garra em pedra e osso. Os saurianos gravam registros em faces de rocha; xamãs [[_wiki/racas/varnakiano\|varnakianos]] imitam o sistema em couro tratado. A escrita não separa letras de símbolos: uma mesma marca pode ser fonema, ideograma ou ambos, conforme o contexto.
+O dracônico escreve-se por incisão. Cada traço é um sulco físico e permanente, marca de garra em pedra e osso. Os saurianos gravam registros em faces de rocha; xamãs [[_wiki/racas/varnakiano\|varnakianos]] imitam o sistema em couro tratado. A escrita não separa letras de símbolos: uma mesma marca pode ser fonema, ideograma ou ambos, conforme o contexto.
 
 ### Gramática
 
-A língua não pede: declara ou ordena. Perguntas tomam a forma de comandos (“Revela teu nome” no lugar de “Qual é teu nome?”), e essa tendência imperativa se intensifica no registro mágico, onde cada frase é uma exigência dirigida à entidade que responde. Demônios contatados em dracônico podem distorcer a gramática durante o canal, mudando a conjugação de uma invocação para a seguinte, indiferentes à consistência mortal.
+A língua declara ou ordena. Perguntas tomam a forma de comandos (“Revela teu nome” no lugar de “Qual é teu nome?”), e essa tendência imperativa se intensifica no registro mágico, onde cada frase é uma exigência dirigida à entidade que responde. Demônios contatados em dracônico podem distorcer a gramática durante o canal, mudando a conjugação de uma invocação para a seguinte, indiferentes à consistência mortal.

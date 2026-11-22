@@ -4,7 +4,7 @@
 
 # The Use of Languages
 
-The languages of Lex Obscura are more than means of communication: they mark identity, power, and cost. Speech reveals where the speaker comes from; whoever determines the language of a conversation determines the relationship; and every magical channeling performed in a ritual language exacts a price. [[_wiki_en/linguas/reinkardico\|Reinkardic]] is the common language, present without being noticed, and only becomes visible when someone switches to another language, when an accent draws attention, or when comprehension fails.
+The languages of the known world mark identity, power, and cost. Speech reveals where the speaker comes from, and every magical channeling performed in a ritual language exacts a price. [[_wiki_en/linguas/reinkardico\|Reinkardic]] is the common language, present without being noticed, and only becomes visible when someone switches to another language, when an accent draws attention, or when comprehension fails.
 
 ### Ritual Languages
 

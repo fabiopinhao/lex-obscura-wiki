@@ -4,7 +4,7 @@
 
 # Morlgrund
 
-Morlgrund, o Osso do Mundo, é o [[_wiki/cosmologia/titas\|Titã]] guardião de [[_wiki/locais/thal_serin\|Thal’Serin]], cujo domínio combina [[_wiki/escolas/geo\|Geo]], a substância da terra e da pedra, com [[_wiki/escolas/morpho\|Morpho]], que reconfigura o inorgânico em forma nova. Onde outros Titãs cultivam vida ou veneno, Morlgrund reconfigura a própria fundação sobre a qual tudo se apoia.
+Morlgrund, o Osso do Mundo, é o [[_wiki/cosmologia/titas\|titã]] guardião de [[_wiki/locais/thal_serin\|Thal’Serin]], cujo domínio combina [[_wiki/escolas/geo\|Geo]], a substância da terra e da pedra, com [[_wiki/escolas/morpho\|Morpho]], que reconfigura o inorgânico em forma nova. Onde outros titãs cultivam vida ou veneno, Morlgrund reconfigura a própria fundação sobre a qual tudo se apoia.
 
 ### Natureza
 
@@ -16,7 +16,7 @@ Geo dá a Morlgrund domínio sobre tremores, muralhas tectônicas e o peso da ro
 
 ### O Guardião
 
-Thal’Serin persiste porque Morlgrund a protege, e a proteção não é gratuita. [[_wiki/panteao/vozrador\|Vozrador]] firmou acordo com Morlgrund e [[_wiki/panteao/titania\|Titânia]]: a floresta permaneceria inviolável enquanto Vozrador mantivesse supremacia sobre [[_wiki/escolas/patho\|Patho]], a escola da putrefação. O pacto funcionava por convergência de interesses, pois Morlgrund queria a floresta intacta e Vozrador queria um domínio que nenhum outro [[_wiki/cosmologia/diabos\|diabo]] ousasse contestar. Um Titã negociando com um diabo era impensável para a maioria do panteão, mas a filosofia verde opera por sobrevivência, não por purismo. O aprisionamento de Vozrador desestabilizou esse equilíbrio.
+Thal’Serin persiste porque Morlgrund a protege, e a proteção não é gratuita. [[_wiki/panteao/vozrador\|Vozrador]] firmou acordo com Morlgrund e [[_wiki/panteao/titania\|Titânia]]: a floresta permaneceria inviolável enquanto Vozrador mantivesse supremacia sobre [[_wiki/escolas/patho\|Patho]], a escola da putrefação. O pacto funcionava por convergência de interesses, pois Morlgrund queria a floresta intacta e Vozrador queria um domínio que nenhum outro [[_wiki/cosmologia/diabos\|diabo]] ousasse contestar. Um titã negociando com um diabo era impensável para a maioria do panteão, mas a filosofia verde põe a sobrevivência acima do purismo. O aprisionamento de Vozrador desestabilizou esse equilíbrio.
 
 ### O Nome Proibido
 
@@ -28,4 +28,4 @@ Quando a floresta é ferida, o nome vibra: um tremor grave, sentido nos ossos e 
 
 ### A Simbiose
 
-“O verde não destrói o negro quando dele depende o contraste.” A relação entre Morlgrund e Vozrador não é aliança, mas necessidade ecológica transposta para a escala do divino: a natureza que sobrevive nas sombras precisa da sombra que se nutre da natureza. Remover um dos termos colapsa ambos.
+“O verde não destrói o negro quando dele depende o contraste.” A relação entre Morlgrund e Vozrador é necessidade ecológica transposta para a escala do divino: a natureza que sobrevive nas sombras precisa da sombra que se nutre da natureza. Remover um dos termos colapsa ambos.

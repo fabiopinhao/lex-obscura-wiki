@@ -8,7 +8,7 @@ A Aliança Subterrânea foi o pacto formal entre [[_wiki/locais/morvgrad\|Morvgr
 
 ### O Pacto
 
-A Aliança não foi gesto de fraternidade, mas cálculo. Os druls levaram consigo milênios de tradição arcana subterrânea, rituais de pacto refinados pela experiência de eras e uma rede de influência em [[_wiki/locais/vor-ghol\|Vor-Ghol]] que os shadars jamais teriam alcançado sozinhos. Os shadars ofereceram disciplina militar, capacidade administrativa e uma ambição expansionista que os druls, isolacionistas por temperamento, nunca haviam cultivado. Cada lado obteve o que não podia gerar por conta própria, e a troca cultural transformou ambas as raças.
+A Aliança nasceu do cálculo. Os druls levaram consigo milênios de tradição arcana subterrânea, rituais de pacto refinados pela experiência de eras e uma rede de influência em [[_wiki/locais/vor-ghol\|Vor-Ghol]] que os shadars jamais teriam alcançado sozinhos. Os shadars ofereceram disciplina militar, capacidade administrativa e uma ambição expansionista que os druls, isolacionistas por temperamento, nunca haviam cultivado. Cada lado obteve o que não podia gerar por conta própria, e a troca cultural transformou ambas as raças.
 
 ### Consequências
 

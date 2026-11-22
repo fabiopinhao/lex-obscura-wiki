@@ -10,7 +10,7 @@ Toda magia cobra um preço, e o sistema de combustível mágico governa dois dos
 
 Todo conjurador possui uma reserva limitada de energia mágica, o magi, e cada feitiço consome parte dela. Reserva vazia significa impossibilidade de conjurar, como uma arma sem munição. A reserva se recupera com descanso: cerca de dez a vinte por cento numa hora de repouso leve, e quase a totalidade após um sono completo de oito horas. A meditação profunda acelera o processo, e certos rituais especiais recuperam mais depressa, ao preço de um custo próprio.
 
-Forçar a conjuração com a reserva esgotada é a sobrecarga, e suas consequências são graves: hemorragia severa, colapso físico, dano permanente aos canais mágicos e, no limite, a morte. Puxar o gatilho sem balas não dispara; forçar magia sem magi destrói o conjurador.
+Forçar a conjuração com a reserva esgotada é a sobrecarga, e suas consequências são graves: hemorragia severa, colapso físico, dano permanente aos canais mágicos e, no limite, a morte.
 
 ### Custo Temático
 
@@ -18,11 +18,11 @@ Além do combustível, cada escola impõe um custo temático ligado conceitualme
 
 A intensidade do custo acompanha a escala do feitiço. Efeitos menores cobram um custo leve, de segundos a minutos, e consomem pouco combustível; efeitos lendários podem impor custos potencialmente permanentes e exigir a reserva quase inteira.
 
-Nas magnitudes maiores esse custo deixa de ser recuperável. Magias proibidas e de escala máxima queimam vitalidade que nem o descanso nem a cura devolvem: o que se gasta ali não volta. Isso não constitui um quarto tipo de custo, e sim o próprio custo temático levado ao extremo da escala.
+Nas magnitudes maiores esse custo deixa de ser recuperável. Magias proibidas e de escala máxima queimam vitalidade que nem o descanso nem a cura devolvem. Trata-se do próprio custo temático levado ao extremo da escala, sem constituir um quarto tipo de custo.
 
 ### Focos
 
-Um foco consagrado, seja cetro, arma ou relíquia, pode assumir parcela do custo temático. Sem ele, o corpo do conjurador paga a diferença. O foco não fornece energia nem funciona como reservatório: ele absorve dano, e é essa a natureza da mitigação que oferece.
+Um foco consagrado, seja cetro, arma ou relíquia, pode assumir parcela do custo temático. Sem ele, o corpo do conjurador paga a diferença. O foco absorve dano, sem fornecer energia nem funcionar como reservatório.
 
 Nem todo foco é consagrado. Um foco amplificador aumenta o alcance ou a força do efeito e não absorve custo algum: quem o empunha paga o sacrifício inteiro.
 

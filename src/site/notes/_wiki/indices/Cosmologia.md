@@ -56,7 +56,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/panteao/malagoth\|Malagoth]], Coroa de Espinhos *(Crown of Thorns)*: vampiro cravejado de obsidiana; suas maldições se cravam no alvo e não se desprendem
 
-- [[_wiki/panteao/azkaroth\|Azkaroth]], Arquidiabo *(Archdevil)*: corvo negro sobre Morvgrad, sede das cerimônias de unção onde cada Justiciar morre simbolicamente e renasce em sangue
+- [[_wiki/panteao/azkaroth\|Azkaroth]], Arquidiabo *(Archdevil)*: corvo negro sobre Morvgrad, sede das cerimônias de unção onde cada justiciar morre simbolicamente e renasce em sangue
 
 - [[_wiki/panteao/xanthrak\|Xanthrak]], Artesão da Dor *(The Artisan of Pain)*: óssiarca cujas maldições preservam a vítima consciente enquanto o corpo apodrece, reconstrói-se e apodrece de novo
 
@@ -82,7 +82,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/panteao/kaelgrym\|Kaelgrym]], Flagelo Alado *(Winged Scourge)*: mantícora funérea; exige destruição contínua, expurgos e terror como método de governo
 
-- [[_wiki/panteao/tzarakul\|Tzarakul]], Arquidemônio *(Archdemon)*: autarca calcinante: figura humanóide soberana em combustão perpétua cuja força dissolve pactos arcanos na raiz; a ferida que Rupto abre, Anatho infecta, e qualquer tentativa de refazer o vínculo nasce corrompida
+- [[_wiki/panteao/tzarakul\|Tzarakul]], Arquidemônio *(Archdemon)*: autarca calcinante: figura humanoide soberana em combustão perpétua cuja força dissolve pactos arcanos na raiz; a ferida que Rupto abre, Anatho infecta, e qualquer tentativa de refazer o vínculo nasce corrompida
 
 - [[_wiki/panteao/bal_hadut\|Bal’Hadut]], Trono Incandescente *(The Incandescent Throne)*: dragão vulcânico cujo fogo não ilumina: calcina, e o trono sobre o qual se senta são as cinzas de quem se aproximou
 
@@ -96,7 +96,7 @@ A estrutura dos planos, a hierarquia divina e as forças que sustentam ou corroe
 
 - [[_wiki/panteao/ixragor\|Ixragor]], Ventre Abominável *(The Abominable Womb)*: quimera gangrenosa que gera formas impossíveis; cada cria é anatomia reescrita sem respeito pela original
 
-- [[_wiki/panteao/hazburim\|Hazburim]], Senhor das Moscas *(Lord of the Flies)*: insetóide larvário de natureza dual entre demônio e titã; proscrito pelo Culto, alcança o mundo por altares consagrados que funcionam como janela entre planos
+- [[_wiki/panteao/hazburim\|Hazburim]], Senhor das Moscas *(Lord of the Flies)*: insetoide larvário de natureza dual entre demônio e titã; proscrito pelo Culto, alcança o mundo por altares consagrados que funcionam como janela entre planos
 
 - [[_wiki/panteao/solvara\|Solvara]], Cinza Imortal *(Ash Undying)*: fênix imolada de natureza dual entre demônio e anjo; arde e renasce, mas cada renascimento preserva a queimadura anterior
 

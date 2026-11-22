@@ -4,7 +4,7 @@
 
 # Urano
 
-Urano is the hybrid school of magic of transcendence and elevation. A combination of blue and white, it frees the spirit from matter: it instills peace, dissolves bonds, and raises the body above the laws that govern the physical plane. Its underlying feeling is the perception that the mundane is small, the attraction to what transcends the immediate.
+Urano is the hybrid school of magic of transcendence and elevation. Shared by sidereals and angels, it frees the spirit from matter: it instills peace, dissolves bonds, and raises the body above the laws that govern the physical plane. Its underlying feeling is the perception that the mundane is small, the attraction to what transcends the immediate.
 
 ### Principle
 

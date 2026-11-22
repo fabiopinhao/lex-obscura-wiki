@@ -10,7 +10,7 @@ The Frenim are [[_wiki_en/cosmologia/siderais\|sidereal]] humans from [[_wiki_en
 
 With yellowish-green skin and slender, elongated builds, the Frenim have features that differ slightly from those of humans and distinguish them at first glance. Their unusual skin tone is consistent with their sidereal nature and long exposure to the ethereal plane; their slender build is adapted to the humid, swampy climate. They live around ninety-six to one hundred years, a lifespan close to that of ordinary humans, although their way of life, oriented toward the ethereal, suggests a different vitality, less robust and more permeable to the supernatural.
 
-In neutral terms, a Frenim appears to be a slender, elongated, contemplative being, with yellowish-green skin and features subtly outside the ordinary human range. When invoking magic or actively traveling between planes, however, certain visual markers may emerge: eyes like deep slits of rippling crimson fire, veils that float without any apparent wind in response to the air of another plane, and ethereal overlays in which the silhouette seems to shift sideways from the body. These are not constant racial traits, but signs of the magical state.
+In neutral terms, a Frenim appears to be a slender, elongated, contemplative being, with yellowish-green skin and features subtly outside the ordinary human range. When invoking magic or actively traveling between planes, however, certain visual markers may emerge: eyes like deep slits of rippling crimson fire, veils that float without any apparent wind in response to the air of another plane, and ethereal overlays in which the silhouette seems to shift sideways from the body. These markers accompany the magical state and recede when it is absent.
 
 ### Origin
 
@@ -20,7 +20,7 @@ Many of the newcomers aspired to the communion with the sidereals that the undin
 
 ### Culture and Society
 
-The Frenim inhabit Neranthis, a continent east of Reinkard, separated by a vast region of swamps whose hostile geography has always protected them. They are a mysterious, erudite, and isolationist people who favor arcane knowledge and diplomacy over brute force. Among the races with a sidereal bond, which also include the undines and the [[_wiki_en/racas/ranidano\|Ranidans]], the Frenim are the dominant group, exercising political and arcane leadership over the continent.
+The Frenim inhabit Neranthis, a continent east of Reinkard, separated by a vast region of swamps whose hostile geography has always protected them. They are a mysterious people who favor arcane knowledge and diplomacy over brute force. Among the races with a sidereal bond, which also include the undines and the [[_wiki_en/racas/ranidano\|Ranidans]], the Frenim are the dominant group, exercising political and arcane leadership over the continent.
 
 Their system of magical access is [[_wiki_en/magia/meditatio_aetheris\|Meditatio Aetheris]], based on meditation and the expansion of consciousness into the ethereal plane, which requires neither pacts nor devotion to shadows. The ability to travel between planes shapes their entire culture: for a Frenim, the material world is only half of reality. This dual perception makes them both wise and distant, able to see patterns that other races overlook, but prone to a certain indifference toward purely earthly urgencies.
 

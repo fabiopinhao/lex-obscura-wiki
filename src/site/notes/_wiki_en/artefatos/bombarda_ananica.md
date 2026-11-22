@@ -4,7 +4,7 @@
 
 # Dwarven Bombard
 
-The Dwarven Bombard is a hybrid firearm developed in the forges of [[_wiki_en/locais/thandruk_varn\|Thandruk Varn]] after the conquest of the citadel by the [[_wiki_en/racas/shadar\|Shadars]]. It arose from forced cooperation between the metallurgical mastery of the subjugated [[_wiki_en/racas/karashim\|Karashim]] dwarves and the Cult’s alchemical advances, and is an elite artifact, not a weapon for the masses.
+The Dwarven Bombard is a hybrid firearm developed in the forges of [[_wiki_en/locais/thandruk_varn\|Thandruk Varn]] after the conquest of the citadel by the [[_wiki_en/racas/shadar\|Shadars]]. It arose from forced cooperation between the metallurgical mastery of the subjugated [[_wiki_en/racas/karashim\|Karashim]] dwarves and the Cult’s alchemical advances, and is an elite artifact.
 
 ### Construction
 

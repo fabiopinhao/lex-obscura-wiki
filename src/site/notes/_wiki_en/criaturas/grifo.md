@@ -4,11 +4,11 @@
 
 # Griffin
 
-The griffin is a noble mount for war and prestige, a creature with a lion’s body and an eagle’s wings and head. It was domesticated over generations by human and [[_wiki_en/racas/alvarar\|Álvarar]] breeders, and never served [[_wiki_en/organizacoes/imperio_sombrio\|the Empire]]: [[_wiki_en/racas/shadar\|Shadars]] do not ride griffins.
+The griffin is a noble mount for war and prestige, a creature with a lion’s body and an eagle’s wings and head. It never served [[_wiki_en/organizacoes/imperio_sombrio\|the Empire]]: [[_wiki_en/racas/shadar\|Shadars]] do not ride griffins.
 
 ### Nature
 
-It combines the strength of the lion with the eagle that gives it its head and wings. It is neither an imperial creature nor wild by nature: it was brought to the battlefield by human and Álvarar breeders, who domesticated it over generations for war and prestige.
+It combines the strength of the lion with the eagle that gives it its head and wings. It was brought to the battlefield by human and [[_wiki_en/racas/alvarar\|Álvarar]] breeders, who domesticated it over generations for war and prestige.
 
 ### Role in the Reinkardic Wars
 

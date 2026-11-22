@@ -4,4 +4,4 @@
 
 # Sszaflyn T’orghvyss
 
-Sszaflyn T’orghvyss é a matriarca [[_wiki/racas/drul\|drul]] da Casa T’orghvyss, conhecida pelo epíteto Mãe das Feras. Governa em [[_wiki/locais/ghilanna\|Ghilanna]] e figura entre as seis Matriarcas regentes de [[_wiki/locais/vor-ghol\|Vor-Ghol]].
+Sszaflyn T’orghvyss é a matriarca [[_wiki/racas/drul\|drul]] da Casa T’orghvyss, conhecida pelo epíteto Mãe das Feras. Governa em [[_wiki/locais/ghilanna\|Ghilanna]] e figura entre as seis matriarcas regentes de [[_wiki/locais/vor-ghol\|Vor-Ghol]].

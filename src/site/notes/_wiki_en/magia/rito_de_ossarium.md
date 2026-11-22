@@ -8,7 +8,7 @@ The Rite of Ossárium, also called the Rite of Conversion, is the process by whi
 
 ### Nature
 
-Not every Shadar is born a Shadar. Through the Rite of Ossárium, a human acquires the physiological traits and arcane connection of the race. Its existence implies that Shadar identity is both biological and ritual: a condition that can be imposed or chosen, not merely inherited.
+Through the Rite of Ossárium, a human acquires the physiological traits and arcane connection of the race. Its existence implies that Shadar identity is both biological and ritual: a condition that can be inherited, imposed, or chosen.
 
 The ceremony requires ritualized torture, blood sacrifices, and the voluntary rupture of the human essence, and conversion takes place through a pact with diabolical entities. Once begun, the process is irreversible.
 
@@ -18,7 +18,7 @@ During the Reinkardic Wars, the subjugation of [[_wiki_en/locais/ventrista\|Vent
 
 ### The Most Notorious Case
 
-The most notorious case of conversion through the Rite is that of [[_wiki_en/personagens/arothistar\|Arothistar]]. About eighty years ago, in the [[_wiki_en/eventos/conversao_de_dravhok\|Conversion of Dravhok]], the Rite transformed him into a Shadar, and he began calling himself Dravhok. He bore an earlier name that no record preserved. Many humans were converted through the Rite, and no one in the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]] had known him before his conversion; Dravhok never revealed that he had been human, and no one dared ask him. Dravhok rose to become supreme monarch of the Empire and styled himself Arothistar, the Consecrated of the Heights.
+The most notorious case of conversion through the Rite is that of [[_wiki_en/personagens/arothistar\|Arothistar]]. About eighty years ago, in the [[_wiki_en/eventos/conversao_de_dravhok\|Conversion of Dravhok]], the Rite transformed him into a Shadar, and he began calling himself Dravhok. He bore an earlier name that no record preserved. Many humans were converted through the Rite, and no one in the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]] had known Dravhok before his conversion; he never revealed that he had been human, and no one dared ask him. Dravhok rose to become supreme monarch of the Empire and styled himself Arothistar, the Consecrated of the Heights.
 
 ### Prohibition
 
@@ -26,7 +26,7 @@ About forty-four years ago, Arothistar prohibited the Rite of Ossárium. The pro
 
 ### Implications
 
-The Rite raises questions deliberately left open. If racial identity can be rewritten through ritual, what defines a race? If a human can become a Shadar, is the boundary between the races biological, spiritual, or political? The existence of Ossárium erodes the narrative of racial superiority that sustains the Shadow Empire, and the prohibition of the Rite is, in part, an attempt to silence that erosion.
+The Rite raises questions that remain open. If racial identity can be rewritten through ritual, what defines a race? If a human can become a Shadar, is the boundary between the races biological, spiritual, or political? The existence of Ossárium erodes the narrative of racial superiority that sustains the Shadow Empire, and the prohibition of the Rite is, in part, an attempt to silence that erosion.
 
 ### Unresolved Mysteries
 

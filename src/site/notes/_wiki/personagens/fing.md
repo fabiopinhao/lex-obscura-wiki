@@ -14,7 +14,7 @@ Kobold pequeno, de escamas que sentem o frio dos corredores da torre e olhos ama
 
 Fing encontra na servidão conforto e propósito. Prepara banhos, busca livros e antecipa os pedidos do mestre antes que sejam ditos. Os raros elogios que recebe vêm em termos que o reduzem a objeto e, após a mutilação, esse reconhecimento que antes o sustentava passa a ressoar como verdade cruel: coisas quebram, sangram e são descartadas.
 
-### Cosmologia pessoal
+### Cosmologia Pessoal
 
 Fing lê o céu como linguagem divina. Interpreta o [[_wiki/cosmologia/noctiluz\|noctiluz]] como [[_wiki/cosmologia/manifestacoes_divinas\|manifestação dos deuses]]: o tom rosado é repreensão, o azul cerúleo é pranto divino, e um rasgo em forma de olho é sinal de que os deuses observam alguém.
 

@@ -4,7 +4,7 @@
 
 # Cosmo
 
-Cosmo is the hybrid school of blue and black whose domain is space and gravity. It manipulates gravity and space as tools of physical control, trapping, compressing, and displacing matter by altering the laws that govern it. Its antagonistic counterpart is [[_wiki_en/escolas/urano\|Urano]].
+Cosmo is the hybrid school of sidereals and devils whose domain is space and gravity. It manipulates gravity and space as tools of physical control, trapping, compressing, and displacing matter by altering the laws that govern it. Its antagonistic counterpart is [[_wiki_en/escolas/urano\|Urano]].
 
 ### Principle
 

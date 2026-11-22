@@ -4,11 +4,11 @@
 
 # Ophideias
 
-As ophideias são sacerdotisas [[_wiki/racas/drul\|drul]] treinadas como espiãs e assassinas. Não são soldados, e sim instrumentos de precisão, operando na interseção entre religião, espionagem e violência cirúrgica. Servem ao mesmo tempo às Casas Matriarcais de [[_wiki/locais/vor-ghol\|Vor-Ghol]] e ao aparato imperial do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]].
+As ophideias são sacerdotisas [[_wiki/racas/drul\|drul]] treinadas como espiãs e assassinas. São instrumentos de precisão, operando na interseção entre religião, espionagem e violência cirúrgica. Servem ao mesmo tempo às Casas Matriarcais de [[_wiki/locais/vor-ghol\|Vor-Ghol]] e ao aparato imperial do [[_wiki/organizacoes/culto_sombrio\|Culto Sombrio]].
 
 ### Natureza e Função
 
-A dualidade é funcional: as matriarcas de [[_wiki/locais/ghilanna\|Ghilanna]] as formam, e os templos de [[_wiki/locais/morvgrad\|Morvgrad]] as empregam. A quem cabe a lealdade final depende de cada ophideia, e é justamente essa ambiguidade que as torna valiosas e perigosas para todos os lados. O nome é litúrgico: no drul antigo, “ophid” (serpente) e “eia” (aquela que) compõem “aquela que serpenteia”, em referência ao movimento sinuoso entre as sombras políticas do culto.
+A dualidade é funcional: as matriarcas de [[_wiki/locais/ghilanna\|Ghilanna]] as formam, e os templos de [[_wiki/locais/morvgrad\|Morvgrad]] as empregam. A quem cabe a lealdade final depende de cada ophideia, e é justamente essa ambiguidade que as torna valiosas e perigosas para todos os lados. O nome é litúrgico: no drul antigo, “ophid” (serpente) e “eia” (aquela que) compõem “aquela que serpenteia”, em referência ao movimento sinuoso entre as sombras políticas do Culto.
 
 ### Seleção e Formação
 
@@ -28,4 +28,4 @@ As ophideias não têm hierarquia militar formal; sua estrutura é religiosa. Re
 
 ### Relação com os Justiciares
 
-A relação com os [[_wiki/organizacoes/justiciares\|Justiciares]] é de colaboração operacional e independência doutrinal. As ophideias acompanham os Justiciares como auxiliares especializadas em campo, mas não estão subordinadas a eles. A cooperação é pragmática: os Justiciares precisam de inteligência e de habilidades espectrais, e as ophideias precisam de autoridade judicial para atuar em territórios fora de Vor-Ghol. A tensão é cultural, entre ophideias drul, matriarcais e religiosas, e Justiciares [[_wiki/racas/shadar\|shadars]], independentes e seculares, onde o respeito mútuo convive com o desprezo racial velado.
+A relação com os [[_wiki/organizacoes/justiciares\|justiciares]] é de colaboração operacional e independência doutrinal. As ophideias acompanham os justiciares como auxiliares especializadas em campo, mas não estão subordinadas a eles. A cooperação é pragmática: os justiciares precisam de inteligência e de habilidades espectrais, e as ophideias precisam de autoridade judicial para atuar em territórios fora de Vor-Ghol. A tensão é cultural, entre ophideias drul, matriarcais e religiosas, e justiciares [[_wiki/racas/shadar\|shadars]], independentes e seculares, onde o respeito mútuo convive com o desprezo racial velado.

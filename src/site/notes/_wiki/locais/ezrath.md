@@ -6,11 +6,11 @@
 
 Ezrath é o bairro comercial nobre de [[_wiki/locais/morvgrad\|Morvgrad]], uma área de elite onde horrores são vendidos com desenvoltura fiscal impecável. Clínicas necromânticas operam ao lado de antiquários de maldições hereditárias e alfaiates de mortalhas para vivos.
 
-### O comércio
+### O Comércio
 
-A boutique Os Dois Corações do Kraken exibe um dragão anfíbio em miniatura que sussurra súplicas de carnificina para deleite de nobres. Multidões se abrem à passagem do [[_wiki/artefatos/tegmen\|tegmen]] de Justiciar, e mercadores anões reconhecem a juíza [[_wiki/personagens/nidzina_avaroth\|Nidzina]] à distância, pelo nome.
+A boutique Os Dois Corações do Kraken exibe um dragão anfíbio em miniatura que sussurra súplicas de carnificina para deleite de nobres. Multidões se abrem à passagem do [[_wiki/artefatos/tegmen\|tegmen]] de justiciar, e mercadores anões reconhecem a juíza [[_wiki/personagens/nidzina_avaroth\|Nidzina]] à distância, pelo nome.
 
-O distrito funciona como vitrine da legalidade obscena do [[_wiki/organizacoes/imperio_sombrio\|império]]: a ordem de [[_wiki/personagens/arothistar\|Arothistar]] reduzida a carimbos. Tudo é legal porque alguém pagou o selo. O contraste com o [[_wiki/locais/mercado_oeste\|Mercado Oeste]], onde a ilegalidade é crua, revela Ezrath como a versão perfumada do mesmo comércio, um distrito onde até misericórdia precisa de selo.
+O distrito funciona como vitrine da legalidade obscena do [[_wiki/organizacoes/imperio_sombrio\|Império]]: a ordem de [[_wiki/personagens/arothistar\|Arothistar]] reduzida a carimbos. Tudo é legal porque alguém pagou o selo. O contraste com o [[_wiki/locais/mercado_oeste\|Mercado Oeste]], onde a ilegalidade é crua, revela Ezrath como a versão perfumada do mesmo comércio, um distrito onde até misericórdia precisa de selo.
 
 ### Episódios
 

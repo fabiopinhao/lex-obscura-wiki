@@ -4,7 +4,7 @@
 
 # Phobos
 
-Phobos é a escola híbrida de vermelho e preto que transforma o medo em arma, uma das disciplinas da magia negra. Opera sobre o que a vítima sente, não sobre o que ela pensa, e seu sentimento-chave é a intimidade com o horror: a percepção de que o medo alheio tem textura, forma e utilidade.
+Phobos é a escola híbrida dos demônios e dos diabos que transforma o medo em arma, uma das disciplinas da magia negra. Opera sobre o que a vítima sente, não sobre o que ela pensa, e seu sentimento-chave é a intimidade com o horror: a percepção de que o medo alheio tem textura, forma e utilidade.
 
 ### Práticas
 
@@ -16,6 +16,6 @@ O custo temático é simétrico: o conjurador herda ecos do que inflige, apariç
 
 ### No Império
 
-O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes de Phobos como Inquisidores e [[_wiki/organizacoes/ophideias\|Ophideias]] e os emprega em operações de terror tático até o terceiro estágio, quando a ausência de empatia ainda é operacional. Combina-se com outras escolas em efeitos reconhecíveis: com [[_wiki/escolas/spectro\|Spectro]], produz um terror que se vê, ilusão que não pode ser desacreditada porque o medo exige que seja real; com [[_wiki/escolas/hypno\|Hypno]], uma erosão noturna que transforma cada noite em tormento, recurso de interrogatórios prolongados; com [[_wiki/escolas/psycho\|Psycho]], um interrogatório cirúrgico que expõe o medo dominante do alvo e o amplifica; com [[_wiki/escolas/umbra\|Umbra]], a escuridão vira campo de amplificação, pois sem referências visuais o terror escala sozinho; com [[_wiki/escolas/necro\|Necro]], um parasitismo agravado, os corpos aterrorizados bombeando mais sangue e respirando mais rápido enquanto a drenagem se alimenta dessa aceleração.
+O [[_wiki/organizacoes/imperio_sombrio\|Império]] recruta praticantes de Phobos como inquisidores e [[_wiki/organizacoes/ophideias\|ophideias]] e os emprega em operações de terror tático até o terceiro estágio, quando a ausência de empatia ainda é operacional. Combina-se com outras escolas em efeitos reconhecíveis: com [[_wiki/escolas/spectro\|Spectro]], produz um terror que se vê, ilusão que não pode ser desacreditada porque o medo exige que seja real; com [[_wiki/escolas/hypno\|Hypno]], uma erosão noturna que transforma cada noite em tormento, recurso de interrogatórios prolongados; com [[_wiki/escolas/psycho\|Psycho]], um interrogatório cirúrgico que expõe o medo dominante do alvo e o amplifica; com [[_wiki/escolas/umbra\|Umbra]], a escuridão vira campo de amplificação, pois sem referências visuais o terror escala sozinho; com [[_wiki/escolas/necro\|Necro]], um parasitismo agravado, os corpos aterrorizados bombeando mais sangue e respirando mais rápido enquanto a drenagem se alimenta dessa aceleração.
 
 Seu par antagônico é [[_wiki/escolas/gnosi\|Gnosi]]: o saber clarifica o julgamento que o medo turva, e por isso alvos eruditos resistem melhor ao terror enquanto os supersticiosos resistem melhor à verdade.

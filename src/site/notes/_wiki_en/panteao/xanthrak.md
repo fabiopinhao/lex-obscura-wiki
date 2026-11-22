@@ -4,7 +4,7 @@
 
 # Xanthrak
 
-Xanthrak, the Artisan of Pain, is a [[_wiki_en/cosmologia/diabos\|devil]] of the pantheon whose divine form is the Torturer Ossiarch. His domain combines the schools of [[_wiki_en/escolas/anatho\|Anatho]] and [[_wiki_en/escolas/necro\|Necro]], and his specialty is prolonged suffering: curses that keep the victim alive to maximize pain. His servants do not die; they are remade.
+Xanthrak, the Artisan of Pain, is a [[_wiki_en/cosmologia/diabos\|devil]] of the pantheon whose divine form is the Torturer Ossiarch. His domain combines the schools of [[_wiki_en/escolas/anatho\|Anatho]] and [[_wiki_en/escolas/necro\|Necro]], and his specialty is prolonged suffering: curses that keep the victim alive to maximize pain. His servants do not die and are remade.
 
 ### Manifestation
 
@@ -14,7 +14,7 @@ A subtler sign is also attributed to him: an old pain returns with surgical prec
 
 ### Domain
 
-Xanthrak does not govern death: he governs the interval in which death is denied. His curses preserve, keeping the victim conscious while the body rots, rebuilds itself, and rots again, in an iteration that ends only when Xanthrak decides the work is complete. The Anatho curse keeps the nerve functional when the surrounding tissue has already given way, and Necro restores what pain has destroyed, so that it can be destroyed again. The combination produces victims who neither die nor go mad, and who never grow accustomed to pain. To the Artisan of Pain, suffering is raw material, and each victim is a project with an indefinite deadline. Bone serves the craft at both ends: it is the raw material of both torture and reanimation.
+Xanthrak governs the interval in which death is denied. His curses preserve, keeping the victim conscious while the body rots, rebuilds itself, and rots again, in an iteration that ends only when Xanthrak decides the work is complete. The Anatho curse keeps the nerve functional when the surrounding tissue has already given way, and Necro restores what pain has destroyed, so that it can be destroyed again. The combination produces victims who neither die nor go mad, and who never grow accustomed to pain. To the Artisan of Pain, suffering is raw material, and each victim is a project with an indefinite deadline. Bone serves the craft at both ends: it is the raw material of both torture and reanimation.
 
 ### Method
 
@@ -26,4 +26,4 @@ To Xanthrak, pain is information. Punishment presupposes transgression, and most
 
 ### Position in the Pantheon
 
-Xanthrak occupies a niche that is tolerated but avoided. His methods require time that other devils consider a waste, and produce results too granular for those who prefer mass destruction. His proximity to Necro creates friction with [[_wiki_en/panteao/malagoth\|Malagoth]], whose necrology serves the purposes of an army, not a laboratory. Xanthrak does not compete for territory. He competes for time: the resource every torturer needs and every war wastes.
+Xanthrak occupies a niche that is tolerated but avoided. His methods require time that other devils consider a waste, and produce results too granular for those who prefer mass destruction. His proximity to Necro creates friction with [[_wiki_en/panteao/malagoth\|Malagoth]], whose necrology serves the purposes of an army. Uninvolved in the struggle for territory, Xanthrak competes for time, the resource every torturer needs and every war wastes.
