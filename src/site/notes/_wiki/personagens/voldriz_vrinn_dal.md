@@ -12,4 +12,4 @@ Como matriarca de uma das seis Casas regentes de Vor-Ghol, Voldriz partilha o go
 
 ### Método e voz
 
-A doutrina das Câmaras passa por sua voz. Voldriz supervisiona iniciadas suspensas por dias e dedos quebrados repetidas vezes, e pronuncia a sentença que resume o regime: aranhas não conhecem piedade. Para [[_wiki/personagens/syndrith_morghast\|Syndrith Morghast]] e [[_wiki/personagens/zarae\|Zarae]], crianças nas Câmaras, a voz de Voldriz era indistinguível da voz do próprio sistema que as moldou — é essa frase que ecoa na memória das iniciadas.
+A doutrina das Câmaras passa por sua voz. Voldriz supervisiona iniciadas suspensas por dias e dedos quebrados repetidas vezes, e pronuncia a sentença que resume o regime: aranhas não conhecem piedade. Para [[_wiki/personagens/syndrith_morghast\|Syndrith Morghast]] e [[_wiki/personagens/zarae\|Zarae]], crianças nas Câmaras, a voz de Voldriz era indistinguível da voz do próprio sistema que as moldou. É essa frase que ecoa na memória das iniciadas.

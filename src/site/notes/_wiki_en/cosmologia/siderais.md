@@ -4,7 +4,7 @@
 
 # Sidereals
 
-The sidereals are entities of pure or nearly pure consciousness that wander the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]]. They have no defined physical form: they are patterns of thought, living geometries, conscious concepts, such as djinns, leviathans, and sphinxes. The blue [[_wiki_en/cosmologia/cor_arcana\|arcane color]] defines them, associating them with knowledge, transcendence, and detachment. They are also called Blue Gods or Ethereal Entities.
+The sidereals are entities of pure or nearly pure consciousness that wander the [[_wiki_en/cosmologia/plano_etereo\|ethereal plane]]. Without a defined physical form, they are patterns of thought, living geometries, conscious concepts, such as djinns, leviathans, and sphinxes. The blue [[_wiki_en/cosmologia/cor_arcana\|arcane color]] defines them, associating them with knowledge, transcendence, and detachment. They are also called Blue Gods or Ethereal Entities.
 
 ### Nature
 
@@ -12,9 +12,9 @@ They are believed to inhabit the ethereal plane, the interplane that interfaces 
 
 ### Interest in Thamakard
 
-The sidereals’ interest in the material plane is neither territorial nor moral, but intellectual. They seek minds, not lands. Attracted by genius, complexity of thought, and the capacity for abstraction, they ignore the vast majority of mortals and approach only those whose minds offer something worthy of observation. They are neither allies nor enemies, but observers who occasionally intervene for reasons only they understand.
+The sidereals’ interest in the material plane is intellectual, with no territorial or moral aim: they seek minds. Attracted by genius, complexity of thought, and the capacity for abstraction, they ignore the vast majority of mortals and approach only those whose minds offer something worthy of observation. As observers, without becoming allies or enemies, they occasionally intervene for reasons only they understand.
 
-In a sidereal cosmogonic tradition, the gods are described as recursive patterns, functions that gained consciousness upon reaching a certain complexity. The sidereals would be metapatterns, functions that analyze functions. The interpretation is rare, confined to academic circles, and the sidereals themselves neither confirm nor deny it, feeding it with silence.
+In a sidereal cosmogonic tradition, the gods are described as recursive patterns, functions that gained consciousness upon reaching a certain complexity. The sidereals would be metapatterns, functions that analyze functions. The interpretation is rare, confined to academic circles, and the sidereals themselves remain silent about it, neither confirming nor denying it.
 
 ### Bond
 

@@ -8,7 +8,7 @@ The Gnome Guild controls the black market of [[_wiki_en/locais/morvgrad\|Morvgra
 
 ### The Black Market
 
-The market occupies the western parts of Morvgrad, in urban crevices disguised as ruins, catacombs, and closed-off alleys. It operates day and night, but reaches its peak on moonless nights. Forbidden potions, corrupted grimoires, fresh corpses, magical ingredients, sealed artifacts, and slaves of every kind are traded there. The license brought the bulk of transactions under official seal, with goods initialed and tribute collected, but an unsealed flow continues to circulate on the fringes, and it is through this flow that the most compromising items pass. It is this gray area that keeps the old nickname of black market alive.
+The market occupies the western parts of Morvgrad, in urban crevices disguised as ruins, catacombs, and closed-off alleys. It operates day and night, but reaches its peak on moonless nights. Forbidden potions, corrupted grimoires, fresh corpses, magical ingredients, sealed artifacts, and slaves of every kind are traded there. The license brought the bulk of transactions under official seal, with goods stamped and tribute collected, but an unsealed flow continues to circulate on the fringes, and it is through this flow that the most compromising items pass. It is this gray area that keeps alive the old nickname, the black market.
 
 ### Gnomes of the Depths
 
@@ -16,7 +16,7 @@ The members of the Guild are gnomes of the depths, the [[_wiki_en/racas/derro\|D
 
 ### The Trade-Breaker
 
-“Trade-Breaker” is the honorary title of the most influential gnome in Morvgrad’s underground network, who serves simultaneously as a hidden banker, mercantile leader, and enforcer of those who break agreements. The current holder is Dribbel Olgund, who is talkative, cunning, theatrical, quick to smile, and dangerously effective, and is always accompanied by a bodyguard; his, at present, is [[_wiki_en/personagens/fandegarron\|Fandegarrón]].
+“Trade-Breaker” is the honorary title of the most influential gnome in Morvgrad’s underground network, who serves simultaneously as a hidden banker, mercantile leader, and enforcer against those who break agreements. The current holder is Dribbel Olgund, who is talkative, cunning, theatrical, quick to smile, and dangerously effective, and is always accompanied by a bodyguard; his, at present, is [[_wiki_en/personagens/fandegarron\|Fandegarrón]].
 
 ### The Flesh Ledger and the Blood Seal
 

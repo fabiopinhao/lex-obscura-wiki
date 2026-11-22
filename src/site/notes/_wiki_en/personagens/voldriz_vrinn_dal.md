@@ -12,4 +12,4 @@ As matriarch of one of the six ruling Houses of Vor-Ghol, Voldriz shares governa
 
 ### Method and Voice
 
-The doctrine of the Chambers is conveyed through her voice. Voldriz oversees initiates suspended for days and fingers broken repeatedly, and pronounces the sentence that sums up the regime: spiders know no mercy. For [[_wiki_en/personagens/syndrith_morghast\|Syndrith Morghast]] and [[_wiki_en/personagens/zarae\|Zarae]], children in the Chambers, Voldriz’s voice was indistinguishable from the voice of the very system that shaped them — it is this phrase that echoes in the initiates’ memory.
+The doctrine of the Chambers is conveyed through her voice. Voldriz oversees initiates suspended for days and fingers broken repeatedly, and pronounces the sentence that sums up the regime: spiders know no mercy. For [[_wiki_en/personagens/syndrith_morghast\|Syndrith Morghast]] and [[_wiki_en/personagens/zarae\|Zarae]], children in the Chambers, Voldriz’s voice was indistinguishable from the voice of the very system that shaped them. It is this phrase that echoes in the initiates’ memory.

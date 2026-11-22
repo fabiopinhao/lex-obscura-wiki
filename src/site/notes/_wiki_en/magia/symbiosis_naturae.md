@@ -4,11 +4,11 @@
 
 # Symbiosis Naturae
 
-Symbiosis Naturae is the magic access system of the [[_wiki_en/cosmologia/titas\|titans]], and is neither a pact nor a contract, but a symbiotic relationship with them and other nature spirits, founded on balance. The practitioner receives power like sap shared between root and crown, in exchange for fidelity to nature’s cycles.
+Symbiosis Naturae is the magic access system of the [[_wiki_en/cosmologia/titas\|titans]]: a symbiotic relationship with them and other nature spirits, founded on balance, in which the practitioner receives power in exchange for fidelity to nature’s cycles.
 
 ### Nature
 
-Symbiosis is established through balance rather than agreement: it is a symbiotic relationship with natural spirits and forces. Since the titans do not demand submission, they do not betray; they merely withdraw when balance is violated.
+Symbiosis requires no pact, contract, or agreement: it is established through balance with natural spirits and forces. Since the titans do not demand submission, they do not betray.
 
 ### Influx
 

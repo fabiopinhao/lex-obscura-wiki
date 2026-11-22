@@ -4,7 +4,7 @@
 
 # Draconídeo
 
-Os draconídeos, ou drakhonins, são o subgrupo de elite dos [[_wiki/racas/sauriano\|saurianos]]: os maiores, mais fortes e mais orgulhosos dos humanoides répteis. Vinculados aos demônios, reivindicam herança divina dos dragões e agem conforme essa crença. Seu porte excede o dos [[_wiki/racas/shadar\|shadars]] em massa e altura, suas escamas deflectem aço temperado, e seu sopro elemental transforma emboscada em cremação. São as criaturas mais próximas de dragões que o mundo ainda produz, e nunca deixam ninguém esquecer.
+Os draconídeos, ou drakhonins, são o subgrupo de elite dos [[_wiki/racas/sauriano\|saurianos]]: os maiores, mais fortes e mais orgulhosos dos humanoides répteis. Vinculados aos demônios, reivindicam herança divina dos dragões e agem conforme essa crença. Seu porte excede o dos [[_wiki/racas/shadar\|shadars]] em massa e altura, suas escamas defletem aço temperado, e seu sopro elemental transforma emboscada em cremação. São as criaturas mais próximas de dragões que o mundo ainda produz, e nunca deixam ninguém esquecer.
 
 ### Origem
 
@@ -14,7 +14,7 @@ Os shadars têm dois nomes para eles: *drakhonin* é o termo da polidez fingida,
 
 ### Fisiologia
 
-Eretos, medem de 1,90 m a 2,40 m, com musculatura densa sob escamas que variam conforme a linhagem: vermelho-escuro nos clãs de fogo, marrom-terroso nos de terra, verde-musgo nos de pântano e negro-vulcânico nos mais antigos. As escamas são placas queratinosas sobrepostas, espessas o bastante para deflectir flechas e lâminas de baixa qualidade, mas não impermeáveis: armas forjadas por [[_wiki/racas/karashim\|karashins]] ou encantadas perfuram. O sopro elemental, fogo na maioria dos clãs, nasce de glândulas na base da garganta que produzem um composto volátil, e é recurso limitado a três ou cinco descargas por dia, cada uma exigindo recuperação; o uso excessivo queima a garganta por dentro. Focinheiras metálicas neutralizam o sopro e servem como instrumento de contenção. As caudas preênseis funcionam como arma, apoio de equilíbrio e meio de comunicação, já que a posição da cauda sinaliza intenção. A longevidade vai de 50 a 65 anos, reduzida pela violência endêmica entre clãs, e os draconídeos velhos são raros e respeitados.
+Eretos, medem de 1,90 m a 2,40 m, com musculatura densa sob escamas que variam conforme a linhagem: vermelho-escuro nos clãs de fogo, marrom-terroso nos de terra, verde-musgo nos de pântano e negro-vulcânico nos mais antigos. As escamas são placas queratinosas sobrepostas, espessas o bastante para defletir flechas e lâminas de baixa qualidade, mas não impermeáveis: armas forjadas por [[_wiki/racas/karashim\|karashins]] ou encantadas perfuram. O sopro elemental, fogo na maioria dos clãs, nasce de glândulas na base da garganta que produzem um composto volátil, e é recurso limitado a três ou cinco descargas por dia, cada uma exigindo recuperação; o uso excessivo queima a garganta por dentro. Focinheiras metálicas neutralizam o sopro e servem como instrumento de contenção. As caudas preênseis funcionam como arma, apoio de equilíbrio e meio de comunicação, já que a posição da cauda sinaliza intenção. A longevidade vai de 50 a 65 anos, reduzida pela violência endêmica entre clãs, e os draconídeos velhos são raros e respeitados.
 
 ### Psicologia
 

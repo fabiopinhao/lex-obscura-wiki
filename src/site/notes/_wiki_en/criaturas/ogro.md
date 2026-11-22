@@ -8,7 +8,7 @@ Ogres are large humanoids, bulkier than [[_wiki_en/racas/orc\|orcs]] and less in
 
 ### Nature
 
-They have thick skin, ranging from yellowish gray to greenish brown, and dense musculature beneath layers of fat that function as natural armor. Their height ranges from two point two meters to two point eight meters. Their jaws are broad, their teeth flattened for crushing, their eyes small and deep-set. Their body stench is intense, distinct from that of [[_wiki_en/criaturas/gnoll\|gnolls]]: where gnolls stink of carrion, ogres stink of rancid tallow and sour sweat.
+They have thick skin, ranging from yellowish gray to greenish brown, and dense musculature beneath layers of fat that function as natural armor. Their height ranges from 2.20 m to 2.80 m. Their jaws are broad, their teeth flattened for crushing, their eyes small and deep-set. Their body stench is intense, distinct from that of [[_wiki_en/criaturas/gnoll\|gnolls]]: where gnolls stink of carrion, ogres stink of rancid tallow and sour sweat.
 
 ### Behavior
 

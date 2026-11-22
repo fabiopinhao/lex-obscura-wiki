@@ -4,7 +4,7 @@
 
 # Hazburim
 
-Hazburim, the Lord of Flies, is a deity in the pantheon of Lex Obscura, classified as a demon-titan. He brings together the domains of [[_wiki_en/escolas/belli\|Belli]] and [[_wiki_en/escolas/morpho\|Morpho]] in a theology of parasitic warfare, and his cult is proscribed in the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]] under the [[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]].
+Hazburim, the Lord of Flies, is a deity in the pantheon, classified as a demon-titan. He brings together the domains of [[_wiki_en/escolas/belli\|Belli]] and [[_wiki_en/escolas/morpho\|Morpho]] in a theology of parasitic warfare, and his cult is proscribed in the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]] under the [[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]].
 
 ### Nature
 

@@ -12,7 +12,7 @@ Intelligent, observant, and survivalist, Rajhars have a pragmatic understanding 
 
 ### Physiology
 
-Standing upright, they measure one point seven to two point one meters, with a muscular, sinewy build, more agile than massive: where the [[_wiki_en/racas/draconideo\|Draconid]] is a fortress, the Rajhar is an ambush. They have retractable, curved claws capable of scaling vertical trunks and tearing tanned leather, a functional opposable thumb (with fine grip control inferior to that of Shadars), vertical pupils, directional hearing through mobile ears, and sensory whiskers that detect vibration and changes in air pressure.
+Standing upright, they measure 1.70 to 2.10 meters, with a muscular, sinewy build, more agile than massive: where the [[_wiki_en/racas/draconideo\|Draconid]] is a fortress, the Rajhar is an ambush. They have retractable, curved claws capable of scaling vertical trunks and tearing tanned leather, a functional opposable thumb (with fine grip control inferior to that of Shadars), vertical pupils, directional hearing through mobile ears, and sensory whiskers that detect vibration and changes in air pressure.
 
 Their fur varies according to the dominant feline sublineage, without any correspondence to social organization: these are phenotypes, not identities. Tigers are the largest, striped in amber and black, from tropical forests; lynxes inhabit high altitudes and cold forests, with brown fur and keener hearing; panthers are the most nocturnal, with frequent melanism and superior vision in the dark.
 

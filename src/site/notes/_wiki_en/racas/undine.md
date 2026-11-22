@@ -8,15 +8,15 @@ Undines are [[_wiki_en/cosmologia/siderais\|sidereal]] elves aligned with oceans
 
 ### Physiology
 
-Adapted to the aquatic environment of Neranthis, undines have skin in bluish or greenish shades, vestigial webbing between their digits, and hair that moves like underwater algae. Their lifespan is only forty years, far shorter than that of other elves. This brevity is neither a biological defect nor degeneration: it is the consequence of a choice.
+Adapted to the aquatic environment of Neranthis, undines have skin in bluish or greenish shades, vestigial webbing between their digits, and hair that moves like underwater algae. Their lifespan is only forty years, far shorter than that of other elves.
 
 ### Origin
 
-They descend from a faction of [[_wiki_en/racas/luminares\|Luminars]], the original light elves, that migrated to eastern Reinkard during [[_wiki_en/conceitos/idade_esquecida\|the Forgotten Age]]. While other elven branches settled in forests, mountains, or cities, this faction headed for the coasts and wetlands and isolated itself from the more populated regions. They placed little importance on material life: they meditated, contemplated celestial cycles, and sought communion with the sidereal gods, who guided them toward an increasingly ethereal existence. It was neither conquest nor accident, but a slow and deliberate migration from the material to the transcendent.
+They descend from a faction of [[_wiki_en/racas/luminares\|Luminars]], the original light elves, that migrated to eastern Reinkard during [[_wiki_en/conceitos/idade_esquecida\|the Forgotten Age]]. While other elven branches settled in forests, mountains, or cities, this faction headed for the coasts and wetlands and isolated itself from the more populated regions. They placed little importance on material life: they meditated, contemplated celestial cycles, and sought communion with the sidereal gods, who guided them toward an increasingly ethereal existence, in a slow and deliberate migration from the material to the transcendent.
 
 ### The Choice of Transcendence
 
-Their short lifespan is the trait that most distinguishes undines and the most misunderstood. They relinquished material vitality in exchange for communion with the sidereal gods. With each generation, the renunciation deepened: their bodies became more fragile and more permeable to the ethereal, and less capable of sustaining the longevity that other elves retain. The vitality that an [[_wiki_en/racas/elarino\|Elarin]] uses to live for a hundred and twenty years, an undine channels entirely into transcendence. The choice is not imposed: it is cultural and spiritual, and over the millennia it became physiological. To undines, a brief life is proof of closeness to the sidereals, and an undine who lived as long as an Elarin would be considered distant from the gods, too bound to the flesh.
+Their short lifespan is the trait that most distinguishes undines and the most misunderstood: at first glance, it seems like a biological defect or degeneration, but it is the result of a choice. They relinquished material vitality in exchange for communion with the sidereal gods. With each generation, the renunciation deepened: their bodies became more fragile and more permeable to the ethereal, and less capable of sustaining the longevity that other elves retain. The vitality that an [[_wiki_en/racas/elarino\|Elarin]] uses to live for a hundred and twenty years, an undine channels entirely into transcendence. The choice, which is not imposed, is cultural and spiritual, and over the millennia it became physiological. To undines, a brief life is proof of closeness to the sidereals, and an undine who lived as long as an Elarin would be considered distant from the gods, too bound to the flesh.
 
 ### Culture and Society
 
@@ -24,8 +24,8 @@ Undine society is organized around contemplation. There is no military hierarchy
 
 ### Relationship with the Frenims
 
-When the humans who would become Frenims arrived in the eastern lands during the [[_wiki_en/conceitos/primeira_era\|First Era]], they found the undines already established along the coasts. As a condition for sharing their knowledge, the undines demanded the same renunciation they themselves had made: relinquishing material vitality in exchange for communion. The humans refused. The disagreement did not breed hostility, and there has never been war between the two races. The Frenims found alternative routes to access the ethereal plane, based on rational understanding, and the two races coexist peacefully in Neranthis, differing only in method: undines surrender themselves, Frenims study.
+When the humans who would become Frenims arrived in the eastern lands during the [[_wiki_en/conceitos/primeira_era\|First Era]], they found the undines already established along the coasts. As a condition for sharing their knowledge, the undines demanded the same renunciation they themselves had made: relinquishing material vitality in exchange for communion. The humans refused. The disagreement did not breed hostility, and there has never been war between the two races. The Frenims found alternative routes to access the ethereal plane, based on rational understanding, and the two races coexist peacefully in Neranthis.
 
 ### Relationship with the Empire
 
-Nonexistent. Undines are unknown to the Shadars, and the geographic and cultural distance is so vast that no faction in Reinkard recognizes them as a threat or a resource. This invisibility is, paradoxically, their greatest protection: one does not conquer what one does not know exists.
+Nonexistent. Because of the geographic and cultural distance, no faction in Reinkard recognizes the undines as a threat or a resource, and this invisibility is their greatest protection.

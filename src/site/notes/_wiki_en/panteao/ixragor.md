@@ -4,7 +4,7 @@
 
 # Ixragor
 
-Ixragor, the Abominable Womb, is a deity in the pantheon of Lex Obscura, classified as a demon. Combines the domains of [[_wiki_en/escolas/anatho\|Anatho]] and [[_wiki_en/escolas/morpho\|Morpho]], an intersection from which corrupted metamorphosis arises: impossible fusions and creatures that exist as permanent biological errors.
+Ixragor, the Abominable Womb, is a deity in the pantheon, classified as a demon. Combines the domains of [[_wiki_en/escolas/anatho\|Anatho]] and [[_wiki_en/escolas/morpho\|Morpho]], an intersection from which corrupted metamorphosis arises: impossible fusions and creatures that exist as permanent biological errors.
 
 ### Nature
 

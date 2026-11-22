@@ -4,7 +4,7 @@
 
 # Muran
 
-Murans are agile, stealthy, ratlike humanoids who inhabit the spaces no other race wants: sewers, gaps between walls, collapsed tunnels, and the intermediate layers of [[_wiki_en/locais/vor-ghol\|Vor-Ghol]], below the [[_wiki_en/racas/karashim\|Karashim]] forges and above the [[_wiki_en/racas/drul\|Drul]] citadels. They stand between one point one and one point three meters tall, within the gnomish baseline. Most races mistake them for animals, and the confusion is no accident: looking like vermin is safer than looking like people. The [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]] despises them and ignores them in censuses, recognizing their value only as disposable informants.
+Murans are agile, stealthy, ratlike humanoids who inhabit the spaces no other race wants: sewers, gaps between walls, collapsed tunnels, and the intermediate layers of [[_wiki_en/locais/vor-ghol\|Vor-Ghol]], below the [[_wiki_en/racas/karashim\|Karashim]] forges and above the [[_wiki_en/racas/drul\|Drul]] citadels. They stand between 1.10 and 1.30 meters tall, within the gnomish baseline. Most races mistake them for animals, and the confusion is no accident: looking like vermin is safer than looking like people. The [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]] despises them and ignores them in censuses, recognizing their value only as disposable informants.
 
 ### Cosmogonic Origin
 

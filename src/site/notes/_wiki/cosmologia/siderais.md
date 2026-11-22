@@ -4,7 +4,7 @@
 
 # Siderais
 
-Os Siderais são entidades de consciência pura ou quase pura que vagam pelo [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]]. Não possuem forma física definida: são padrões de pensamento, geometrias vivas, conceitos conscientes, como djinns, leviatãs e esfinges. A [[_wiki/cosmologia/cor_arcana\|cor arcana]] azul os define, associando-os a conhecimento, transcendência e distanciamento. Também são chamados de Deuses Azuis ou Entidades Etéreas.
+Os Siderais são entidades de consciência pura ou quase pura que vagam pelo [[_wiki/cosmologia/plano_etereo\|Plano Etéreo]]. Sem forma física definida, são padrões de pensamento, geometrias vivas, conceitos conscientes, como djinns, leviatãs e esfinges. A [[_wiki/cosmologia/cor_arcana\|cor arcana]] azul os define, associando-os a conhecimento, transcendência e distanciamento. Também são chamados de Deuses Azuis ou Entidades Etéreas.
 
 ### Natureza
 
@@ -12,9 +12,9 @@ Acredita-se que habitem o Plano Etéreo, o entreplanos que faz interface entre t
 
 ### Interesse em Thamakard
 
-O interesse dos Siderais pelo plano material não é territorial nem moral, mas intelectual. Buscam mentes, não terras. Atraídos pela genialidade, pela complexidade de pensamento e pela capacidade de abstração, ignoram a vasta maioria dos mortais e se aproximam apenas daqueles cujas mentes oferecem algo digno de observação. Não são aliados nem inimigos, e sim observadores que ocasionalmente intervêm por razões que só eles compreendem.
+O interesse dos Siderais pelo plano material é intelectual, sem fim territorial nem moral: buscam mentes. Atraídos pela genialidade, pela complexidade de pensamento e pela capacidade de abstração, ignoram a vasta maioria dos mortais e se aproximam apenas daqueles cujas mentes oferecem algo digno de observação. Observadores, sem se fazerem aliados nem inimigos, intervêm ocasionalmente por razões que só eles compreendem.
 
-Numa tradição cosmogônica sideral, os deuses são descritos como padrões recursivos, funções que ganharam consciência ao atingir certa complexidade. Os Siderais seriam metapadrões, funções que analisam funções. A interpretação é rara, reservada a círculos acadêmicos, e os próprios Siderais não a confirmam nem negam, alimentando-a com silêncio.
+Numa tradição cosmogônica sideral, os deuses são descritos como padrões recursivos, funções que ganharam consciência ao atingir certa complexidade. Os Siderais seriam metapadrões, funções que analisam funções. A interpretação é rara, reservada a círculos acadêmicos, e os próprios Siderais guardam silêncio sobre ela, sem confirmá-la nem negá-la.
 
 ### Vínculo
 

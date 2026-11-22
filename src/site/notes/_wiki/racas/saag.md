@@ -22,7 +22,7 @@ A unidade social básica é o charco, o corpo de água permanente em torno do qu
 
 ### O Afogado Abaixo
 
-A vida ritual saag orbita o Afogado Abaixo (the Drowned Below), a presença que os xamãs do charco dizem escutar sob a água parada. Não se reza a ele em voz alta nem em assembleia: escuta-se. O acesso se dá por três vias — sangue, respiração e água parada — e é por elas que os xamãs afirmam chamar, atar e devorar. Os ritos amarram num só voto três coisas: o sangue da linhagem do charco, o território do corpo de água e o próprio Afogado Abaixo; romper um é romper os três. A paciência cardinal da raça ganha aqui extensão religiosa, pois o Afogado Abaixo não responde a quem tem pressa, e a água só devolve a escuta a quem aprendeu a esperar parado o tempo que ela exige.
+A vida ritual saag orbita o Afogado Abaixo (the Drowned Below), a presença que os xamãs do charco dizem escutar sob a água parada. Não se reza a ele em voz alta nem em assembleia: escuta-se. O acesso se dá por três vias (sangue, respiração e água parada), e é por elas que os xamãs afirmam chamar, atar e devorar. Os ritos amarram num só voto três coisas: o sangue da linhagem do charco, o território do corpo de água e o próprio Afogado Abaixo; romper um é romper os três. A paciência cardinal da raça ganha aqui extensão religiosa, pois o Afogado Abaixo não responde a quem tem pressa, e a água só devolve a escuta a quem aprendeu a esperar parado o tempo que ela exige.
 
 ### Comunicação
 

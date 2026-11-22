@@ -12,7 +12,7 @@ Worgs are neither man nor beast, and differ from werewolves in that they do not 
 
 ### Physiology
 
-Bipedal by choice and quadrupedal by instinct, worgs alternate between these postures according to the situation and stand between one point seven and two point two meters tall when upright. Their fur varies by lineage, from iron gray to brindled brown and amber red, and serves as an emotional indicator: it bristles along the dorsal ridge under threat and flattens in submission. Their hands have articulated fingers, opposable thumbs, and retractable claws. Their eyes, yellow, green, or amber, have pupils that contract vertically, and their color perception is altered, with red intensified and blue almost invisible. Their speech is interspersed with growls, as though the words were bitten before being released.
+Bipedal by choice and quadrupedal by instinct, worgs alternate between these postures according to the situation and stand between 1.70 m and 2.20 m tall when upright. Their fur varies by lineage, from iron gray to brindled brown and amber red, and serves as an emotional indicator: it bristles along the dorsal ridge under threat and flattens in submission. Their hands have articulated fingers, opposable thumbs, and retractable claws. Their eyes, yellow, green, or amber, have pupils that contract vertically, and their color perception is altered, with red intensified and blue almost invisible. Their speech is interspersed with growls, as though the words were bitten before being released.
 
 ### Abilities
 

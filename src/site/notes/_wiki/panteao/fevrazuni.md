@@ -8,7 +8,7 @@ Fevrazûni, o Delírio Lacerante, é um demônio cujo domínio combina [[_wiki/e
 
 ### Natureza
 
-Manifesta-se como uma succubus lunática: forma humanóide de pele pálida e luminescente, como se luar estivesse preso sob a derme. O corpo oscila entre solidez e fragmentação, com pedaços de anatomia que se deslocam e flutuam fora de posição antes de se reagruparem em configurações que quase acertam a forma original. O rosto condensa o efeito, feições que se aproximam de alguém reconhecível sem jamais se fixar, como um retrato de pessoa amada pintado por mãos que tremem. Os olhos são fendas verticais por onde escorre claridade azulada e fria, e os dedos, longos demais, articulam-se em pontos extras que a anatomia humana desconhece. Quando se comunica, a voz não sai da boca: emerge de dentro do crânio de quem ouve, como pensamento intrusivo que não foi convocado.
+Manifesta-se como uma succubus lunática: forma humanoide de pele pálida e luminescente, como se luar estivesse preso sob a derme. O corpo oscila entre solidez e fragmentação, com pedaços de anatomia que se deslocam e flutuam fora de posição antes de se reagruparem em configurações que quase acertam a forma original. O rosto condensa o efeito, feições que se aproximam de alguém reconhecível sem jamais se fixar, como um retrato de pessoa amada pintado por mãos que tremem. Os olhos são fendas verticais por onde escorre claridade azulada e fria, e os dedos, longos demais, articulam-se em pontos extras que a anatomia humana desconhece. Quando se comunica, a voz não sai da boca: emerge de dentro do crânio de quem ouve, como pensamento intrusivo que não foi convocado.
 
 ### Domínio
 

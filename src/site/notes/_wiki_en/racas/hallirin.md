@@ -14,7 +14,7 @@ Integration with human societies is ancient, but not primordial. In earlier eras
 
 ### Physiology
 
-Of standard gnomish build, with a typical height between one point one and one point three meters, Hallirins have proportionate physiques, without the deformities of Derros or the oily texture of goblins. Their skin has human tones, their hair varies in color, and their ears are slightly pointed. Their hands are nimble, with proportionately long fingers, a universal gnomish inheritance that in them translates into artisanal dexterity. A lifespan of one hundred years is the gnomish standard without factors that shorten it, attained when the world permits.
+Of standard gnomish build, with a typical height between 1.10 m and 1.30 m, Hallirins have proportionate physiques, without the deformities of Derros or the oily texture of goblins. Their skin has human tones, their hair varies in color, and their ears are slightly pointed. Their hands are nimble, with proportionately long fingers, a universal gnomish inheritance that in them translates into artisanal dexterity. A lifespan of one hundred years is the gnomish standard without factors that shorten it, attained when the world permits.
 
 ### Psychology
 

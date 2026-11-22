@@ -12,11 +12,11 @@ O corpo se estende em espirais que parecem ocupar mais espaço do que a geometri
 
 ### Domínio
 
-O Aero desloca matéria no espaço; o Chrono desloca a percepção no tempo. Separadas, produzem efeitos comuns: rajadas de vento, lapsos de cronologia. Fundidas em Arikhandis, saturam o ar de fragmentos cronológicos em suspensão, e respirar passa a ser involuntário, pois com o ar entram as visões. A profecia de Arikhandis não é dom concedido. É contaminação.
+O Aero desloca matéria no espaço; o Chrono desloca a percepção no tempo. Separadas, produzem efeitos comuns: rajadas de vento, lapsos de cronologia. Fundidas em Arikhandis, saturam o ar de fragmentos cronológicos em suspensão, e, como respirar é involuntário, com o ar entram as visões: a profecia de Arikhandis é contaminação.
 
 ### O Vendaval
 
-O Vendaval Profético é título e fenômeno. Onde Arikhandis passa, a atmosfera se enche de resíduos cronológicos: as rajadas mais leves provocam déjà-vu em cascata, e as mais fortes colapsam a percepção temporal, fazendo o alvo viver segundos que duram horas ou décadas comprimidas num único fôlego. Guerreiros atingidos param de reagir porque seus corpos respondem a ameaças que ainda não existem ou que já passaram. Navegadores e cartógrafos descrevem as zonas sopradas como regiões de “tempo espesso”, onde relógios de areia correm para cima e sombras apontam para sóis que se puseram há gerações. O vento passa, mas as cicatrizes temporais que deixa levam décadas para se fechar. Na rajada, vozes de uma conversa se ouvem: uma que ainda vai acontecer, ou uma que já aconteceu há décadas no mesmo lugar.
+O Vendaval Profético é título e fenômeno. Onde Arikhandis passa, a atmosfera se enche de resíduos cronológicos: as rajadas mais leves provocam déjà-vu em cascata, e as mais fortes colapsam a percepção temporal, fazendo o alvo viver segundos que duram horas ou décadas comprimidas num único fôlego. Guerreiros atingidos param de reagir porque seus corpos respondem a ameaças que ainda não existem ou que já passaram. Navegadores e cartógrafos descrevem as zonas sopradas como regiões de “tempo espesso”, onde relógios de areia correm para cima e sombras apontam para sóis que se puseram há gerações. As cicatrizes temporais que o vento deixa levam décadas para se fechar. Na rajada, vozes de uma conversa se ouvem: uma que ainda vai acontecer, ou uma que já aconteceu há décadas no mesmo lugar.
 
 ### Vínculo
 
@@ -24,4 +24,4 @@ O acesso a Arikhandis se dá pelo [[_wiki/magia/vinculum_daemonis\|Vinculum Daem
 
 ### Filosofia
 
-Para Arikhandis, o tempo linear é a maior mentira que os mortais contam a si mesmos. Passado e futuro coexistem, e o presente não passa da fração que a mente consegue processar sem colapsar. O vendaval remove esse filtro: as visões que impõe não são profecias fabricadas, mas o tempo real e inteiro, forçado por uma percepção que só comporta um instante de cada vez. Nessa concepção, o horror não está no que se vê, e sim em perceber o quanto se perde a cada instante de olhos fechados.
+Para Arikhandis, o tempo linear é a maior mentira que os mortais contam a si mesmos. Passado e futuro coexistem, e o presente não passa da fração que a mente consegue processar sem colapsar. O vendaval remove esse filtro: as visões que impõe são o tempo real e inteiro, forçado por uma percepção que só comporta um instante de cada vez. Nessa concepção, o horror está em perceber o quanto se perde a cada instante de olhos fechados.

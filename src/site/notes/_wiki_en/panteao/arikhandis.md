@@ -12,11 +12,11 @@ The body extends in spirals that seem to occupy more space than geometry allows,
 
 ### Domain
 
-Aero displaces matter in space; Chrono displaces perception in time. Separately, they produce common effects: gusts of wind, lapses in chronology. Fused in Arikhandis, they saturate the air with suspended chronological fragments, and breathing becomes involuntary, for visions enter with the air. Arikhandis’s prophecy is no bestowed gift. It is contamination.
+Aero displaces matter in space; Chrono displaces perception in time. Separately, they produce common effects: gusts of wind, lapses in chronology. Fused in Arikhandis, they saturate the air with suspended chronological fragments, and since breathing is involuntary, visions enter with the air: Arikhandis’s prophecy is contamination.
 
 ### The Gale
 
-The Prophetic Gale is both title and phenomenon. Wherever Arikhandis passes, the atmosphere fills with chronological residue: the lightest gusts provoke cascading déjà vu, and the strongest collapse temporal perception, making the target live through seconds that last hours or decades compressed into a single breath. Warriors struck by it stop reacting because their bodies respond to threats that do not yet exist or have already passed. Navigators and cartographers describe the wind-swept zones as regions of “thick time”, where hourglasses run upward and shadows point toward suns that set generations ago. The wind passes, but the temporal scars it leaves take decades to close. In the gust, voices from a conversation are heard: one that has yet to happen, or one that took place decades ago in the same place.
+The Prophetic Gale is both title and phenomenon. Wherever Arikhandis passes, the atmosphere fills with chronological residue: the lightest gusts provoke cascading déjà vu, and the strongest collapse temporal perception, making the target live through seconds that last hours or decades compressed into a single breath. Warriors struck by it stop reacting because their bodies respond to threats that do not yet exist or have already passed. Navigators and cartographers describe the wind-swept zones as regions of “thick time”, where hourglasses run upward and shadows point toward suns that set generations ago. The temporal scars the wind leaves take decades to close. In the gust, voices from a conversation are heard: one that has yet to happen, or one that took place decades ago in the same place.
 
 ### Bond
 
@@ -24,4 +24,4 @@ Access to Arikhandis comes through [[_wiki_en/magia/vinculum_daemonis\|Vinculum 
 
 ### Philosophy
 
-To Arikhandis, linear time is the greatest lie mortals tell themselves. Past and future coexist, and the present is nothing more than the fraction the mind can process without collapsing. The gale removes this filter: the visions it imposes are not fabricated prophecies, but actual time in its entirety, forced through a perception that can accommodate only one instant at a time. In this conception, the horror lies not in what is seen, but in realizing how much is lost with each instant spent with eyes closed.
+To Arikhandis, linear time is the greatest lie mortals tell themselves. Past and future coexist, and the present is nothing more than the fraction the mind can process without collapsing. The gale removes this filter: the visions it imposes are actual time in its entirety, forced through a perception that can accommodate only one instant at a time. In this conception, the horror lies in realizing how much is lost with each instant spent with eyes closed.

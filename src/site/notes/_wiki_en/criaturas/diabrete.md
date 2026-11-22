@@ -4,7 +4,7 @@
 
 # Imp
 
-The imp is a lesser creature of diabolic origin, small in size, with blood-red skin and functional scarlet wings. It hatches from eggs and serves [[_wiki_en/racas/shadar\|Shadar]] lords as a messenger and working creature; sustained long-distance flight makes it a natural messenger in the urban centers of the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]]. Common usage treats the species as feminine: the imp, the imps.
+The imp is a lesser creature of diabolic origin, small in size, with blood-red skin and functional scarlet wings. It hatches from eggs and serves [[_wiki_en/racas/shadar\|Shadar]] lords as a messenger and working creature; sustained long-distance flight makes it a natural messenger in the urban centers of the [[_wiki_en/organizacoes/imperio_sombrio\|Shadow Empire]]. In common usage, an imp is always referred to as female.
 
 ### Physiology
 

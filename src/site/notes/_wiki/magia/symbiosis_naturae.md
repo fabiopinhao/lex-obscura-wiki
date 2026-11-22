@@ -4,11 +4,11 @@
 
 # Symbiosis Naturae
 
-A Symbiosis Naturae é o sistema de acesso à magia dos [[_wiki/cosmologia/titas\|titãs]], e não é pacto nem contrato, mas relacionamento simbiótico com eles e demais espíritos naturais, fundado no equilíbrio. O praticante recebe poder como seiva compartilhada entre raiz e copa, em troca de fidelidade aos ciclos da natureza.
+A Symbiosis Naturae é o sistema de acesso à magia dos [[_wiki/cosmologia/titas\|titãs]]: um relacionamento simbiótico com eles e demais espíritos naturais, fundado no equilíbrio, em que o praticante recebe poder em troca de fidelidade aos ciclos da natureza.
 
 ### Natureza
 
-A Symbiosis não se firma por acordo, e sim por equilíbrio: é um relacionamento simbiótico com espíritos e forças naturais. Como os titãs não exigem submissão, não traem; retiram-se, apenas, quando o equilíbrio é violado.
+A Symbiosis dispensa pacto, contrato e acordo: firma-se pelo equilíbrio com espíritos e forças naturais. Como não exigem submissão, os titãs não traem.
 
 ### Afluxo
 

@@ -4,28 +4,28 @@
 
 # Progressão Ontológica
 
-A prática da magia cobra um custo que não se paga em [[_wiki/cosmologia/magi\|magi]], mas na própria identidade do conjurador. Esse custo ontológico avança com o tempo e o uso, remodelando aos poucos o caráter de quem conjura até que a marca da escola se torne inseparável da pessoa.
+A prática da magia cobra um custo pago na própria identidade do conjurador, à parte do [[_wiki/cosmologia/magi\|magi]]. Esse custo ontológico avança com o tempo e o uso, remodelando aos poucos o caráter de quem conjura até que a marca da escola se torne inseparável da pessoa.
 
 ### Os quatro estágios
 
-A progressão atravessa quatro estágios. No primeiro, surge apenas um traço estranho, uma tendência leve e ainda controlável, fruto de um a cinco anos de prática. No segundo, o traço vira padrão de comportamento que exige esforço para conter, ao longo de cinco a quinze anos. No terceiro, a característica passa a definir a identidade, entre quinze e trinta anos de prática. No quarto, depois de três décadas ou mais, a transformação se completa e se torna irreversível.
+A progressão atravessa quatro estágios, medidos em anos de prática.
 
-- **I** — Natureza: Traço leve, controlável | Tempo: 1 a 5 anos
-- **II** — Natureza: Padrão de comportamento | Tempo: 5 a 15 anos
-- **III** — Natureza: Identidade remodelada | Tempo: 15 a 30 anos
-- **IV** — Natureza: Transformação irreversível | Tempo: 30 anos ou mais
+- **I** — Natureza: Traço estranho, tendência leve e ainda controlável | Tempo: 1 a 5 anos
+- **II** — Natureza: Padrão de comportamento que exige esforço para conter | Tempo: 5 a 15 anos
+- **III** — Natureza: Característica que passa a definir a identidade | Tempo: 15 a 30 anos
+- **IV** — Natureza: Transformação completa e irreversível | Tempo: 30 anos ou mais
 
 ### Progresso pelo uso
 
-O custo de uma escola avança pelo uso, não pela mera posse do acesso. Quem domina muitas escolas mas concentra a prática em duas ou três progride depressa nessas e quase nada nas demais. Quem distribui o uso por igual avança devagar em todas. A versatilidade não atenua o custo por si: apenas o reparte.
+O custo de uma escola avança pelo uso, não pela mera posse do acesso. Quem domina muitas escolas mas concentra a prática em duas ou três progride depressa nessas e quase nada nas demais. Quem distribui o uso por igual avança devagar em todas. A versatilidade apenas reparte o custo.
 
 ### Sistemas de acesso
 
-Cada via de acesso ao poder molda essa progressão. O [[_wiki/magia/teru\|Teru]] concede acesso amplo a muitas escolas com menor profundidade, e seus custos se diluem porque o uso se distribui; não há transformação completa, mas tendências mistas nas escolas mais frequentadas. Os pactos concentram o poder em poucas escolas e intensificam o custo, pois somam à concentração de uso a amplificação do sentimento que a entidade alimenta, de modo que a transformação chega mais rápida e mais funda. Um mesmo praticante pode operar sob mais de um sistema ao mesmo tempo, e cada vínculo acrescenta o seu próprio custo. A regra que governa esses casos é sóbria: os custos ontológicos somam conforme o uso de cada escola, sem que a soma de sistemas gere por si qualquer multiplicação. O que acumula integralmente é o custo próprio de cada via, com suas obrigações, marcas e exigências. A tensão entre entidades que disputam o mesmo praticante manifesta-se em exigências conflitantes e em ciúme divino, não em dano adicional.
+Cada via de acesso ao poder molda essa progressão. O [[_wiki/magia/teru\|Teru]] concede acesso amplo a muitas escolas com menor profundidade, e seus custos se diluem porque o uso se distribui, o que produz tendências mistas nas escolas mais frequentadas, sem transformação completa. Os pactos concentram o poder em poucas escolas e intensificam o custo, pois somam à concentração de uso a amplificação do sentimento que a entidade alimenta, de modo que a transformação chega mais rápida e mais funda. Um mesmo praticante pode operar sob mais de um sistema ao mesmo tempo, e cada vínculo acrescenta o seu próprio custo. Nesses casos, os custos ontológicos somam conforme o uso de cada escola, sem que a soma de sistemas gere por si qualquer multiplicação. O que acumula integralmente é o custo próprio de cada via, com suas obrigações, marcas e exigências. A tensão entre entidades que disputam o mesmo praticante manifesta-se em exigências conflitantes e em ciúme divino, sem dano adicional.
 
 ### Combinações que se reforçam
 
-Algumas combinações de escolas produzem custos que se somam de forma perigosa. [[_wiki/escolas/necro\|Necro]] e [[_wiki/escolas/cryo\|Cryo]] levam à morte emocional completa, a incapacidade de sentir. [[_wiki/escolas/phobos\|Phobos]] e [[_wiki/escolas/spectro\|Spectro]] geram o terror de que nada seja real. [[_wiki/escolas/anatho\|Anatho]] e [[_wiki/escolas/psycho\|Psycho]] corroem a capacidade de interação genuína. [[_wiki/escolas/vita\|Vita]] e [[_wiki/escolas/salvo\|Salvo]] criam a compulsão de drenar e curar sem fim. Em cada caso, os custos das duas escolas convergem para o mesmo ponto cego.
+Algumas combinações de escolas produzem custos que se somam de forma perigosa. [[_wiki/escolas/necro\|Necro]] e [[_wiki/escolas/cryo\|Cryo]] levam à morte emocional completa, a incapacidade de sentir. [[_wiki/escolas/phobos\|Phobos]] e [[_wiki/escolas/spectro\|Spectro]] geram o terror de que nada seja real. [[_wiki/escolas/anatho\|Anatho]] e [[_wiki/escolas/psycho\|Psycho]] corroem a capacidade de interação genuína. [[_wiki/escolas/vita\|Vita]] e [[_wiki/escolas/salvo\|Salvo]] criam a compulsão de drenar e curar sem fim.
 
 ### Escolas vizinhas
 

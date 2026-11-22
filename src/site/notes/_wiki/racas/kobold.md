@@ -4,11 +4,11 @@
 
 # Kobold
 
-Os kobolds são um subtipo gnômico dos [[_wiki/racas/sauriano\|saurianos]], exclusivo do planalto de [[_wiki/locais/reinkard\|Reinkard]] e ausente em [[_wiki/locais/varnak\|Varnak]] e [[_wiki/locais/veinkard\|Veinkard]]. São a única raça da região cuja existência resulta de engenharia deliberada: foram fabricados ao longo de séculos pelos [[_wiki/racas/shadar\|shadars]] para servir, e servem com uma devoção que parece instinto mas é cicatriz.
+Os kobolds são um subtipo gnômico dos [[_wiki/racas/sauriano\|saurianos]], exclusivo do planalto de [[_wiki/locais/reinkard\|Reinkard]] e ausente em [[_wiki/locais/varnak\|Varnak]] e [[_wiki/locais/veinkard\|Veinkard]]. São a única raça da região cuja existência resulta de engenharia deliberada: foram fabricados ao longo de séculos pelos [[_wiki/racas/shadar\|shadars]] para servir, e a devoção com que servem, aparentemente instintiva, é cicatriz dessa fabricação.
 
 ### Origem
 
-Com a ascensão shadar no planalto, a presença massiva de energia sombria corrompeu as vertentes da [[_wiki/locais/dorsal\|Dorsal]]. Os dragões que habitavam aquelas encostas definharam e abandonaram os ninhos, e os shadars recolheram os ovos e tentaram corrompê-los nas sombras, esperando domesticar dragões. As criaturas que nasceram sob influência diabólica não eram dragões: seres dracônicos diminutos, dóceis, incapazes de sopro ou voo. Ao longo de gerações, os shadars os moldaram por seleção: cruzaram linhagens, reproduziram os dóceis, eliminaram os agressivos e os que tentavam fugir, alimentaram os que obedeciam sem hesitar. O processo durou séculos até produzir uma forma estável, pequena, ágil, obediente e incapaz de conceber a existência sem mestre. Foram chamados de kobolds e escravizados, e o nome nunca foi escolhido por eles.
+Com a ascensão shadar no planalto, a presença massiva de energia sombria corrompeu as vertentes da [[_wiki/locais/dorsal\|Dorsal]]. Os dragões que habitavam aquelas encostas definharam e abandonaram os ninhos, e os shadars recolheram os ovos e tentaram corrompê-los nas sombras, esperando domesticar dragões. Sob influência diabólica, nasceram seres dracônicos diminutos, dóceis, incapazes de sopro ou voo. Ao longo de gerações, os shadars os moldaram por seleção: cruzaram linhagens, reproduziram os dóceis, eliminaram os agressivos e os que tentavam fugir, alimentaram os que obedeciam sem hesitar. O processo durou séculos até produzir uma forma estável, pequena, ágil, obediente e incapaz de conceber a existência sem mestre. Foram chamados de kobolds e escravizados, e o nome nunca foi escolhido por eles.
 
 ### Fisiologia
 
@@ -16,9 +16,9 @@ Estatura de 70 cm a 1 m, com escamas finas em tons de ferrugem, ocre ou cinza-es
 
 ### Psicologia
 
-A devoção fabricada é o traço definidor. Kobolds desenvolvem vínculo absoluto com um mestre, e o vínculo opera com a intensidade de um pacto religioso: [[_wiki/personagens/fing\|Fing]], kobold a serviço de [[_wiki/personagens/arothistar\|Arothistar]], prepara banhos, busca livros e antecipa pedidos com uma dedicação que observadores confundem com amor. Não é amor, e sim o resultado de gerações de seleção que eliminaram toda alternativa: kobolds que não se vinculam não sobrevivem, porque não recebem comida, abrigo ou propósito. O vínculo é gaiola biológica.
+A devoção fabricada é o traço definidor. Kobolds desenvolvem vínculo absoluto com um mestre, e o vínculo opera com a intensidade de um pacto religioso: [[_wiki/personagens/fing\|Fing]], kobold a serviço de [[_wiki/personagens/arothistar\|Arothistar]], prepara banhos, busca livros e antecipa pedidos com uma dedicação que observadores confundem com amor e que resulta de gerações de seleção que eliminaram toda alternativa: kobolds que não se vinculam não sobrevivem, porque não recebem comida, abrigo ou propósito. O vínculo é gaiola biológica.
 
-A identidade kobold não se separa do mestre. “Eu” é definido por “a quem sirvo”, e um kobold sem mestre, para si mesmo, não é nada. Daí a força do trauma diante da frase “você é uma coisa”: ela confirma o que o kobold teme em silêncio, que a devoção não é relação mas função, e que funções se substituem. Kobolds que servem o mesmo mestre competem pela posição mais próxima, na única hierarquia que compreendem. O medo é estado permanente: temem mestres, outros servos, sombras, barulhos, o futuro. Não é covardia, e sim o produto final de séculos de seleção em que os destemidos morriam; quando o medo é insuficiente para proteger, o kobold congela.
+A identidade kobold não se separa do mestre. “Eu” é definido por “a quem sirvo”, e um kobold sem mestre, para si mesmo, não é nada. Daí a força do trauma diante da frase “você é uma coisa”: ela confirma o que o kobold teme em silêncio, que a devoção é só função, e que funções se substituem. Kobolds que servem o mesmo mestre competem pela posição mais próxima, na única hierarquia que compreendem. O medo é estado permanente: temem mestres, outros servos, sombras, barulhos, o futuro. É o produto final de séculos de seleção em que os destemidos morriam, e quando o medo é insuficiente para proteger, o kobold congela.
 
 ### Estrutura Social
 
@@ -26,11 +26,11 @@ Kobolds não possuem sociedade própria. A unidade social é o mestre e seu conj
 
 ### Cultura
 
-Kobolds não produzem cultura no sentido convencional: não têm música, arte, narrativa fundadora nem ritual próprio. O que possuem são hábitos de serviço transmitidos por imitação entre os que servem na mesma casa, técnicas de limpeza e maneiras de se tornar invisível quando o mestre está irritado. Recebem nome do mestre, e o nome anterior deixa de existir a cada troca, porque guardá-lo implicaria identidade própria. Acumulam objetos minúsculos e sem valor, lascas de pedra, fios de tecido, fragmentos de cera, resíduo de uma herança dracônica distorcida numa compulsão que perdeu o propósito original.
+Kobolds não produzem cultura no sentido convencional: não têm música, arte, narrativa fundadora nem ritual próprio. Transmitem por imitação, entre os que servem na mesma casa, hábitos de serviço, técnicas de limpeza e maneiras de se tornar invisível quando o mestre está irritado. Recebem nome do mestre, e o nome anterior deixa de existir a cada troca, porque guardá-lo implicaria identidade própria. Acumulam objetos minúsculos e sem valor, lascas de pedra, fios de tecido, fragmentos de cera, resíduo de uma herança dracônica distorcida numa compulsão que perdeu o propósito original.
 
 ### Condição no Império
 
-Os kobolds são listados como bens móveis nos inventários de lordes shadars, ao lado de mobília e utensílios. Nenhuma lei os protege nem os menciona, e matar um kobold alheio é crime contra a propriedade do dono, não contra o kobold. A demanda é constante: reproduzem-se com facilidade em chocadeiras controladas, e a mortalidade garante rotatividade. Criadores especializados em Morvgrad selecionam traços desejáveis, e a seleção que criou a raça nunca parou.
+Os kobolds são listados como bens móveis nos inventários de lordes shadars, ao lado de mobília e utensílios. Nenhuma lei os protege nem os menciona, e matar um kobold alheio é crime apenas contra a propriedade do dono. A demanda é constante: reproduzem-se com facilidade em chocadeiras controladas, e a mortalidade garante rotatividade. Criadores especializados em Morvgrad selecionam traços desejáveis, e a seleção que criou a raça nunca parou.
 
 ### Relação com Magia
 
@@ -38,8 +38,8 @@ Embora de linhagem demoníaca por herança dracônica corrompida, os kobolds nã
 
 ### Ciclo Vital
 
-Os kobolds são ovíparos, com ninhadas de quatro a oito ovos e incubação de trinta dias em chocadeiras controladas. Os filhotes andam nas primeiras horas, dizem palavras funcionais aos seis meses e são adultos aos quatro anos. A longevidade é de trinta a quarenta anos, mas a expectativa real fica entre vinte e vinte e cinco: morrem por exaustão, acidente, descarte ou violência de outras raças. Não há funerais, e os corpos são removidos como resíduo.
+Os kobolds são ovíparos, com ninhadas de quatro a oito ovos e incubação de trinta dias. Os filhotes andam nas primeiras horas, dizem palavras funcionais aos seis meses e são adultos aos quatro anos. A longevidade é de trinta a quarenta anos, mas a expectativa real fica entre vinte e vinte e cinco: morrem por exaustão, acidente, descarte ou violência de outras raças. Não há funerais, e os corpos são removidos como resíduo.
 
 ### Voz
 
-Kobolds falam pouco, baixo e em terceira pessoa quando se referem a si mesmos, porque o “eu” exige a identidade autônoma que a seleção eliminou. As frases são curtas e funcionais, o vocabulário restrito ao serviço. Quando assustados, a fala se reduz a sílabas soltas e a cauda se enrola no próprio corpo; quando elogiados, respondem com silêncio atônito, incapazes de processar a aprovação. Onde os [[_wiki/racas/murano\|muranos]] falam para existir e os draconídeos para declarar, os kobolds falam para confirmar que ainda servem. Diante de um draconídeo, um kobold confronta o que deveria ter sido, e a reação instintiva é encolher.
+Kobolds falam pouco e baixo, com o sujeito omitido ou em primeira pessoa. As frases são curtas e funcionais, o vocabulário restrito ao serviço. Quando assustados, a fala se reduz a sílabas soltas e a cauda se enrola no próprio corpo; quando elogiados, respondem com silêncio atônito, incapazes de processar a aprovação. Onde os [[_wiki/racas/murano\|muranos]] falam para existir e os draconídeos para declarar, os kobolds falam para confirmar que ainda servem. Diante de um draconídeo, um kobold confronta o que deveria ter sido, e a reação instintiva é encolher.

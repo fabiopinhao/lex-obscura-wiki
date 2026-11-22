@@ -4,11 +4,11 @@
 
 # Hazburim
 
-Hazburim, o Senhor das Moscas, é uma divindade do panteão de Lex Obscura, classificada como Demônio-Titã. Reúne os domínios de [[_wiki/escolas/belli\|Belli]] e [[_wiki/escolas/morpho\|Morpho]] numa teologia de guerra parasitária, e seu culto é proscrito no [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] sob o [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]].
+Hazburim, o Senhor das Moscas, é uma divindade do panteão, classificada como Demônio-Titã. Reúne os domínios de [[_wiki/escolas/belli\|Belli]] e [[_wiki/escolas/morpho\|Morpho]] numa teologia de guerra parasitária, e seu culto é proscrito no [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]] sob o [[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]].
 
 ### Natureza
 
-Manifesta-se como um insetóide larvário: corpo segmentado de quitina negra e translúcida, sob a qual larvas se movem em ondas contínuas. O torso é largo e encurvado, articulado como o abdômen de uma vespa colossal, sustentado por seis membros desiguais que alternam entre patas e braços quase humanos. A cabeça é um aglomerado de olhos compostos em órbitas assimétricas, cada faceta devolvendo uma imagem diferente do mundo. Da boca, um feixe de mandíbulas e probóscides se retrai e se estende em ciclos de alimentação que nunca cessam. As asas existem apenas como sugestão: nuvens de moscas mantêm formação cerrada ao redor dos ombros, compondo a silhueta de membranas quando vistas à distância. Ouvido por tempo demais, o zumbido quase forma palavras.
+Manifesta-se como um insetoide larvário: corpo segmentado de quitina negra e translúcida, sob a qual larvas se movem em ondas contínuas. O torso é largo e encurvado, articulado como o abdômen de uma vespa colossal, sustentado por seis membros desiguais que alternam entre patas e braços quase humanos. A cabeça é um aglomerado de olhos compostos em órbitas assimétricas, cada faceta devolvendo uma imagem diferente do mundo. Da boca, um feixe de mandíbulas e probóscides se retrai e se estende em ciclos de alimentação que nunca cessam. As asas existem apenas como sugestão: nuvens de moscas mantêm formação cerrada ao redor dos ombros, compondo a silhueta de membranas quando vistas à distância. Ouvido por tempo demais, o zumbido quase forma palavras.
 
 ### Domínio
 

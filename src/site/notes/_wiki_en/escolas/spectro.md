@@ -8,13 +8,13 @@ Spectro is the hybrid school of black and blue whose illusion deceives perceptio
 
 ### Principle
 
-The feeling that drives Spectro is comfort with ambiguity, the perception that appearances are layers rather than truths. Its cycle expresses the school’s risk: those who doubt everything lose the ability to confirm anything.
+The feeling that drives Spectro is comfort with ambiguity, the perception that appearances are only layers. Its cycle expresses the school’s risk: those who doubt everything lose the ability to confirm anything.
 
 ### Practices
 
 Spectro’s mechanics scale from distraction to planar banishment. Blur blurs the caster’s outlines like a reflection in turbulent water, and blows pass within centimeters while arrows skim the skin. Simulacrum projects a small, silent image, a coin on the ground or a shadowy figure crossing the doorway, that does not withstand direct scrutiny. Murmur creates illusory sounds without a source, footsteps behind an empty wall or a name whispered without a mouth, with perfect timbre and only the origin false.
 
-Evanescence erases the caster from visual perception through neither darkness nor transparency, but irrelevance: the eye passes over the space and decides there is nothing to see, until direct attention undoes it. Mirrors generates multiple illusory copies that replicate movement, cast shadows, and emit sound, but neither weigh on the ground nor bleed. Disguise clothes the caster or a target in another person’s complete appearance, including voice and bearing, and fails under touch. Mirage constructs an illusion that deceives every sense, a room that does not exist or a fire with heat and smoke, and requires active sustainment, so that the first real test undoes it. Haunting, by contrast, persists after the caster leaves and reacts to the environment with the appearance of a will of its own, a sentinel that patrols or a shadowy figure that flees when followed, lasting days without maintenance.
+Evanescence erases the caster from visual perception through irrelevance, without darkness or transparency: the eye passes over the space and decides there is nothing to see, until direct attention undoes it. Mirrors generates multiple illusory copies that replicate movement, cast shadows, and emit sound, without weighing on the ground or bleeding. Disguise clothes the caster or a target in another person’s complete appearance, including voice and bearing, and fails under touch. Mirage constructs an illusion that deceives every sense, a room that does not exist or a fire with heat and smoke, and requires active sustainment, so that the first real test undoes it. Haunting, by contrast, persists after the caster leaves and reacts to the environment with the appearance of a will of its own, a sentinel that patrols or a shadowy figure that flees when followed, lasting days without maintenance.
 
 Intangibility shifts the caster partially into the ethereal plane, in a translucent body through which walls, blades, and projectiles pass, but which likewise cannot touch anything on the material plane. Limbo is the school at its greatest scale: it forces the target into the space between the planes, neither material nor ethereal, where the world appears as frosted glass and nothing responds to touch. Returning from there requires external intervention.
 
@@ -24,7 +24,7 @@ The school’s divine patron is [[_wiki_en/panteao/ulravaeth\|Ulravaeth]], the C
 
 ### Combinations
 
-With [[_wiki_en/escolas/phobos\|Phobos]], Mirage provides the complete sensory setting while Horror ensures that it confirms the target’s worst fears, producing a terror that cannot be disbelieved. With Psycho, Fabrication implants the false memory while Simulacrum confirms it visually, and the target not only sees what does not exist, but remembers having seen it. With [[_wiki_en/escolas/aero\|Aero]], Resonance carries auditory illusions with physical fidelity over absurd distances. With [[_wiki_en/escolas/cosmo\|Cosmo]], Evanescence erases the attacker’s presence while Suspension floats the disoriented target at the instant of surprise.
+With [[_wiki_en/escolas/phobos\|Phobos]], Mirage provides the complete sensory setting while Horror ensures that it confirms the target’s worst fears, producing a terror that cannot be disbelieved. With Psycho, Fabrication implants the false memory while Simulacrum confirms it visually, and the target remembers having seen what does not exist. With [[_wiki_en/escolas/aero\|Aero]], Resonance carries auditory illusions with physical fidelity over absurd distances. With [[_wiki_en/escolas/cosmo\|Cosmo]], Evanescence erases the attacker’s presence while Suspension floats the disoriented target at the instant of surprise.
 
 ### Costs
 
@@ -32,4 +32,4 @@ The thematic cost is partial translucency: the caster briefly becomes ethereal a
 
 ### Antagonistic Pair
 
-The opposite of Spectro is [[_wiki_en/escolas/morpho\|Morpho]], and the distinction between the two is what separates seeming from being. Spectro deceives perception with an image that can be exposed, while Morpho alters reality with a transformation that withstands scrutiny. The ontological cost is mirrored: Spectro asks “is this real?” and Morpho asks “who am I?”, doubt about perception against doubt about identity.
+The opposite of Spectro is [[_wiki_en/escolas/morpho\|Morpho]], and the distinction between the two is what separates seeming from being. Spectro deceives perception with an image that can be exposed, while Morpho alters reality with a transformation that withstands scrutiny. The ontological cost is mirrored: Morpho asks “who am I?” and sets doubt about identity against Spectro’s doubt about perception.

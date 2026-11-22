@@ -12,7 +12,7 @@ Subgrupo de porte menor dos ranidanos, os boglins raramente ultrapassam um metro
 
 ### Fisiologia
 
-A estatura fica entre 0,80m e 1,10m, com membros curtos e robustos e mãos de cinco dedos funcionais, de destreza superior à dos saags. O casco dorsal cobre das escápulas à base da coluna, espesso o bastante para deflectir flechas e golpes de lâminas leves, e a cabeça pode se retrair parcialmente sob a borda superior do casco, reflexo defensivo involuntário que os boglins executam antes de qualquer decisão consciente. A pele é coriácea, em tons pardos, oliváceos ou acinzentados, e os olhos, menores e mais frontais que os dos saags, têm visão adaptada a ambientes de pouca luz. A longevidade, de 40 a 50 anos, é inferior à dos saags. A dependência de umidade é compartilhada com a família, embora o casco ofereça proteção parcial contra a dessecação, estendendo por algumas horas a tolerância a ambientes secos.
+A estatura fica entre 0,80m e 1,10m, com membros curtos e robustos e mãos de cinco dedos funcionais, de destreza superior à dos saags. O casco dorsal cobre das escápulas à base da coluna, espesso o bastante para defletir flechas e golpes de lâminas leves, e a cabeça pode se retrair parcialmente sob a borda superior do casco, reflexo defensivo involuntário que os boglins executam antes de qualquer decisão consciente. A pele é coriácea, em tons pardos, oliváceos ou acinzentados, e os olhos, menores e mais frontais que os dos saags, têm visão adaptada a ambientes de pouca luz. A longevidade, de 40 a 50 anos, é inferior à dos saags. A dependência de umidade é compartilhada com a família, embora o casco ofereça proteção parcial contra a dessecação, estendendo por algumas horas a tolerância a ambientes secos.
 
 ### Telepatia Limitada
 

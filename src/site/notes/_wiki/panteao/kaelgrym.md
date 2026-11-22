@@ -8,7 +8,7 @@ Kaelgrym, o Flagelo Alado, é o demônio que faz do medo política e do fogo ped
 
 ### Natureza
 
-Manifesta-se como uma mantícora funérea: corpo leonino de pelagem cinzenta e chamuscada, asas de couro crestado que gotejam brasa líquida ao bater, cauda de escorpião segmentada em placas de obsidiana incandescente. O rosto é vagamente humanóide, crânio alongado e sem pele, a mandíbula articulada em dobradiça dupla que abre além do possível. Três fileiras de dentes recurvos cintilam em vermelho opaco, e entre eles escapa um calor que distorce o ar. Os olhos são fendas horizontais onde o fogo arde sem pupila, e o cheiro de pele queimada precede a visão quando as asas se abrem.
+Manifesta-se como uma mantícora funérea: corpo leonino de pelagem cinzenta e chamuscada, asas de couro crestado que gotejam brasa líquida ao bater, cauda de escorpião segmentada em placas de obsidiana incandescente. O rosto é vagamente humanoide, crânio alongado e sem pele, a mandíbula articulada em dobradiça dupla que abre além do possível. Três fileiras de dentes recurvos cintilam em vermelho opaco, e entre eles escapa um calor que distorce o ar. Os olhos são fendas horizontais onde o fogo arde sem pupila, e o cheiro de pele queimada precede a visão quando as asas se abrem.
 
 ### Manifestação
 
