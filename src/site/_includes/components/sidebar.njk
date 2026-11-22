@@ -1,4 +1,5 @@
 {%- set uiS = (userComputed and userComputed.uiStrings) or meta.uiStrings -%}
+{%- set lexS = userComputed.lexStrings -%}
 <aside>
       <div class="sidebar">
             <div class="sidebar-container">
@@ -9,7 +10,7 @@
                         {%include "components/graphScript.njk"%}
                   {%endif%}
 
-                  {%if settings.dgShowToc === true%}
+                  {%if settings.dgShowToc === true and userComputed.showToc !== false %}
                         {%set tocHtml= (content and (content | hideDataview | link | toc)) %}
                         {%if tocHtml %}
                               <div class="toc">
@@ -26,30 +27,44 @@
 
                   {%endif%}
 
-                        {%if settings.dgShowBacklinks === true %}
-                              {%if settings.dgShowBacklinks === true %}
+                        {%if settings.dgShowBacklinks === true and userComputed.showBacklinks !== false %}
+                              {%- set bl = graph | lexBacklinks(page.url, userComputed.lang) -%}
                               <div class="backlinks">
-                                    <div class="backlink-title">{{ uiS.backlinkHeader }}</div>
-                                          <div class="backlink-list">
-                                          {%- set currentNode = graph.nodes[page.url] or graph.nodes[graph.homeAlias] -%}
-                                          {%- if currentNode -%}
-                                                {%- if currentNode.backLinks.length === 0 -%}
-                                                      <div class="backlink-card">
-                                                            <span class="no-backlinks-message">{{ uiS.noBacklinksMessage }}</span>
-                                                      </div>
-                                                {%- endif -%}
-                                                {%- for backlink in currentNode.backLinks -%}
-                                                      {%- if graph.nodes[backlink].url != page.url -%}
-                                                      <div class="backlink-card">
-                                                            {%- if not meta.noteIconsSettings.backlinks -%}<i  data-lucide="link"></i> {%- endif -%}<a href="{{graph.nodes[backlink].url}}" data-note-icon="{{graph.nodes[backlink].noteIcon}}" class="backlink">{{graph.nodes[backlink].title}}</a>
-                                                      </div>
-                                                      {%- endif -%}
-                                                {%- endfor -%}
-                                          {%- endif -%}
+                                    <div class="backlink-title">{{ uiS.backlinkHeader }}{% if bl.count %} <span class="lex-backlink-count">({{ bl.count }})</span>{% endif %}</div>
+                                    {%- if bl.count === 0 %}
+                                    <div class="backlink-list">
+                                          <div class="backlink-card">
+                                                <span class="no-backlinks-message">{{ uiS.noBacklinksMessage }}</span>
+                                          </div>
                                     </div>
+                                    {%- else %}
+                                    <div class="backlink-list lex-backlinks-top">
+                                          {%- for b in bl.top %}
+                                          <div class="backlink-card">
+                                                {%- if not meta.noteIconsSettings.backlinks -%}<i  data-lucide="link"></i> {%- endif -%}<a href="{{ b.url }}" data-note-icon="{{ b.icon }}" class="backlink">{{ b.title }}</a>
+                                          </div>
+                                          {%- endfor %}
+                                    </div>
+                                    {%- if bl.more %}
+                                    <details class="lex-backlinks-all">
+                                          <summary>{{ lexS.backlinkShowAll }} ({{ bl.count }})</summary>
+                                          {%- for g in bl.groups %}
+                                          <div class="lex-backlink-group">
+                                                <div class="lex-backlink-group-title">{{ g.label or lexS.backlinkOther }} <span class="lex-backlink-count">({{ g.items.length }})</span></div>
+                                                <div class="backlink-list">
+                                                      {%- for b in g.items %}
+                                                      <div class="backlink-card">
+                                                            {%- if not meta.noteIconsSettings.backlinks -%}<i  data-lucide="link"></i> {%- endif -%}<a href="{{ b.url }}" data-note-icon="{{ b.icon }}" class="backlink">{{ b.title }}</a>
+                                                      </div>
+                                                      {%- endfor %}
+                                                </div>
+                                          </div>
+                                          {%- endfor %}
+                                    </details>
+                                    {%- endif %}
+                                    {%- endif %}
                               </div>
                         {%endif%}
-                  {%endif%}
                   {% for imp in dynamics.sidebar.bottom %}
                         {% include imp %}
                   {% endfor %}

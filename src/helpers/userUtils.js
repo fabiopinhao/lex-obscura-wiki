@@ -52,7 +52,36 @@ const UI_STRINGS_EN = {
   searchCloseHint: "to close",
   searchNoResults: "No results for",
   searchPreviewPlaceholder: "Select a result to preview",
+  backlinkShowAll: "See all",
+  backlinkOther: "Other pages",
+  tocMobile: "On this page",
 };
+
+// The same extra strings for Portuguese pages, from .env (the template's
+// meta.js only knows its own keys).
+function uiStringsPt() {
+  return {
+    backlinkShowAll: process.env.UI_BACKLINK_SHOW_ALL || "Ver todas",
+    backlinkOther: process.env.UI_BACKLINK_OTHER || "Outras páginas",
+    tocMobile: process.env.UI_TOC_MOBILE || "Nesta página",
+  };
+}
+
+// Side column (author's review of 2026-11-22, D6): the table of contents only
+// helps when the page has at least two sections below the title, and short
+// index pages (the book pages, Línguas) and the home get neither TOC nor
+// backlinks, which there only repeated their own headings.
+const TOC_MIN_SECTIONS = 2;
+const SHORT_INDEX_MAX_SECTIONS = 2;
+function sectionCount(body) {
+  let n = 0;
+  let fence = false;
+  for (const line of body.split(/\n/)) {
+    if (/^\s*(```|~~~)/.test(line)) fence = !fence;
+    else if (!fence && /^#{2,6}\s+\S/.test(line)) n++;
+  }
+  return n;
+}
 
 // Folder of the note -> index file (Portuguese file name in both trees).
 const SECTION_INDEX = {
@@ -322,6 +351,9 @@ function userComputed(data) {
   const homeUrl = bilingual && lang === "pt-BR" ? "/pt/" : "/";
   const self = data.permalink || (data.page && data.page.url) || "/";
   const alt = data.lexAlt || "";
+  const sections = sectionCount(rawBody(data));
+  const isIndex = /\/_wiki(?:_en)?\/indices\/[^/]+$/.test(norm(inputPath));
+  const shortIndex = isIndex && sections <= SHORT_INDEX_MAX_SECTIONS;
   const langs = bilingual
     ? [
         { code: "en", label: "EN", url: lang === "en" ? self : alt, current: lang === "en" },
@@ -337,6 +369,9 @@ function userComputed(data) {
     langs,
     ui: UI[lang],
     uiStrings: lang === "en" ? UI_STRINGS_EN : null,
+    lexStrings: lang === "en" ? UI_STRINGS_EN : uiStringsPt(),
+    showToc: !isHome && !shortIndex && sections >= TOC_MIN_SECTIONS,
+    showBacklinks: !isHome && !shortIndex,
     untranslated: bilingual && lang === "pt-BR" && !alt && !isHome,
     description: isHome ? SITE_DESCRIPTION[lang] : noteDescription(data),
     section: noteSection(data),
@@ -346,7 +381,43 @@ function userComputed(data) {
   };
 }
 
+// "Pages that cite this one" (D2): the ten most cited of the citing pages
+// first, then all of them grouped by section, in the order of the menu.
+const BACKLINK_TOP = 10;
+function backlinksOf(graph, url, lang) {
+  const nodes = (graph && graph.nodes) || {};
+  // Same lookup as the template's sidebar: the home falls back to its alias.
+  const node = nodes[url] || nodes[graph && graph.homeAlias];
+  if (!node) return { count: 0, top: [], groups: [], more: false };
+  const items = node.backLinks
+    .map((u) => nodes[u])
+    .filter((n) => n && n.url !== url)
+    .map((n) => ({ url: n.url, title: n.title, icon: n.noteIcon, group: n.group, weight: n.backLinks.length }));
+  const coll = new Intl.Collator(lang, { sensitivity: "base" });
+  const byTitle = (a, b) => coll.compare(a.title, b.title);
+  const top = items
+    .slice()
+    .sort((a, b) => b.weight - a.weight || byTitle(a, b))
+    .slice(0, BACKLINK_TOP);
+  const order = NAV_KEYS.map((k) => SECTION_INDEX[k] || k);
+  const groups = new Map();
+  for (const it of items) {
+    const s = sectionFor(it.group, lang);
+    const key = s ? s.url : "";
+    if (!groups.has(key)) {
+      const file = SECTION_INDEX[it.group];
+      const rank = file ? order.indexOf(file) : -1;
+      groups.set(key, { label: s ? s.label : "", rank: rank < 0 ? 99 : rank, items: [] });
+    }
+    groups.get(key).items.push(it);
+  }
+  const list = Array.from(groups.values()).sort((a, b) => a.rank - b.rank || coll.compare(a.label, b.label));
+  list.forEach((g) => g.items.sort(byTitle));
+  return { count: items.length, top, groups: list, more: items.length > BACKLINK_TOP };
+}
+
 exports.userComputed = userComputed;
+exports.backlinksOf = backlinksOf;
 exports.noteTitle = noteTitle;
 exports.spellIndex = spellIndex;
 exports.spellOf = spellOf;

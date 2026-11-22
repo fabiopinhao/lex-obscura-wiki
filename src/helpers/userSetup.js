@@ -1,4 +1,4 @@
-const { noteTitle, spellIndex, enSpellByUrl } = require("./userUtils");
+const { noteTitle, spellIndex, enSpellByUrl, backlinksOf } = require("./userUtils");
 
 function userMarkdownSetup(md) {
   // The md parameter stands for the markdown-it instance used throughout the site generator.
@@ -15,6 +15,9 @@ function userEleventySetup(eleventyConfig) {
     }
     return noteTitle(data) || data.page.fileSlug;
   });
+
+  // "Pages that cite this one" with count, top ten and groups by section.
+  eleventyConfig.addFilter("lexBacklinks", (graph, url, lang) => backlinksOf(graph, url, lang));
 
   // Finds the collection item of a spell so its rendered body can be shown
   // inside the page of its school.

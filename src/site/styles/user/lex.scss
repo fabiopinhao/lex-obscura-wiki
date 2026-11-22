@@ -278,11 +278,6 @@ body.theme-light {
         }
     }
 
-    .backlink-list {
-        max-height: 40vh;
-        overflow-y: auto;
-    }
-
     /* ---------- seletor de idioma e aviso de tradução ---------- */
     .lex-lang {
         float: right;
@@ -513,8 +508,6 @@ body.theme-light {
                 width: var(--lex-side);
                 max-width: var(--lex-side);
                 max-height: calc(100vh - 120px);
-                overflow-y: auto;
-                scrollbar-width: thin;
                 margin: 0;
                 padding: 0;
                 border-top: 0;
@@ -659,5 +652,213 @@ body.theme-light {
         margin-top: 2em;
         padding-top: 1em;
         border-top: 1px solid var(--lex-border);
+    }
+}
+
+/* ---------- coluna lateral: sumário, citações e celular (avaliação de 2026-11-22) ----------
+   D1 sumário com teto pela altura da tela e fixo ao rolar; D2 citações com
+   contagem, as dez mais citadas e "ver todas" agrupado por seção; D3 sumário
+   recolhível no topo do verbete abaixo da largura de desktop; D4 sem rolagem
+   dentro de rolagem fora do desktop; D5 alvo de toque da troca de idioma. */
+body.theme-dark,
+body.theme-light {
+    .backlink-title .lex-backlink-count,
+    .lex-backlink-group-title .lex-backlink-count {
+        color: var(--lex-muted);
+        letter-spacing: 0.04em;
+    }
+
+    /* A lista corre no fluxo; quem rola, no desktop, é o bloco inteiro. */
+    .backlink-list {
+        max-height: none;
+        overflow: visible;
+    }
+
+    .lex-backlinks-all {
+        margin-top: 0.5em;
+
+        summary {
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 0.5em;
+            min-height: 32px;
+            font-family: var(--lex-font-display);
+            font-size: 0.76rem;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: var(--lex-gold);
+
+            &:hover {
+                color: var(--lex-gold-bright);
+            }
+        }
+    }
+
+    /* Aberta a lista completa, as dez do topo sairiam repetidas. */
+    .backlinks:has(.lex-backlinks-all[open]) .lex-backlinks-top {
+        display: none;
+    }
+
+    .lex-backlink-group {
+        margin-top: 0.9em;
+    }
+
+    .lex-backlink-group-title {
+        font-family: var(--lex-font-display);
+        font-size: 0.72rem;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: var(--lex-text);
+        margin-bottom: 0.25em;
+    }
+
+    .lex-toc-mobile {
+        display: none;
+    }
+
+    &.no-filetree {
+        @media (min-width: 1240px) {
+            .sidebar {
+                display: flex;
+                flex-direction: column;
+                overflow: hidden;
+            }
+
+            .sidebar-container {
+                height: auto;
+                min-height: 0;
+                max-height: calc(100vh - 120px);
+                overflow: hidden;
+            }
+
+            .toc {
+                flex: 0 0 auto;
+            }
+
+            .toc-container {
+                max-height: calc(100vh - 160px);
+                overflow-y: auto;
+                scrollbar-width: thin;
+            }
+
+            /* Com citações abaixo, o sumário deixa a elas ao menos ~200 px. */
+            .sidebar-container:has(.backlinks) .toc-container {
+                max-height: calc(100vh - 360px);
+            }
+
+            .backlinks {
+                flex: 0 1 auto;
+                min-height: 0;
+                overflow-y: auto;
+                scrollbar-width: thin;
+            }
+        }
+
+        @media (max-width: 1239px) {
+            .sidebar-container,
+            .backlinks {
+                overflow: visible;
+            }
+
+            .lex-toc-mobile {
+                display: block;
+                margin: 0.4em 0 1.8em;
+                padding: 0 1em;
+                background: var(--lex-surface);
+                border: 1px solid var(--lex-border);
+                border-left: 2px solid var(--lex-gold);
+                font-family: var(--lex-font-text);
+
+                summary {
+                    cursor: pointer;
+                    display: flex;
+                    align-items: center;
+                    gap: 0.6em;
+                    min-height: 44px;
+                    font-family: var(--lex-font-display);
+                    font-size: 0.82rem;
+                    letter-spacing: 0.14em;
+                    text-transform: uppercase;
+                    color: var(--lex-gold);
+                }
+
+                .toc-container {
+                    max-height: none;
+                    overflow: visible;
+                    padding-bottom: 0.7em;
+                    font-size: 0.98rem;
+                }
+
+                /* O primeiro nível é o próprio título do verbete. */
+                .lex-toc-nav > :is(ul, ol) > li > a {
+                    display: none;
+                }
+
+                .lex-toc-nav :is(ul, ol) {
+                    border-left: 0;
+                    padding-inline-start: 0 !important;
+                    margin: 0 !important;
+                }
+
+                .lex-toc-nav li {
+                    padding: 0;
+                    margin: 0 !important;
+                }
+
+                /* Terceiro nível (h3) recuado sob a sua seção. */
+                .lex-toc-nav li li li {
+                    padding-left: 1em;
+                }
+
+                a {
+                    display: block;
+                    padding: 0.4em 0;
+                    color: var(--lex-muted);
+                    text-decoration: none;
+                    border-bottom: 0;
+
+                    &:hover {
+                        color: var(--lex-gold-bright);
+                    }
+                }
+            }
+
+            .lex-backlinks-all summary {
+                min-height: 44px;
+            }
+
+            .backlink-card a {
+                display: inline-block;
+                padding: 0.3em 0;
+            }
+        }
+    }
+
+    /* D5: a troca de idioma tem 44 px de altura no celular. */
+    .lex-lang {
+        gap: 0.2em;
+        margin: -6px -8px 0 0;
+
+        a,
+        span {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 36px;
+            min-height: 36px;
+            padding: 0 0.35em;
+            box-sizing: border-box;
+        }
+
+        @media (max-width: 800px) {
+            font-size: 0.88rem;
+
+            a,
+            span {
+                min-width: 44px;
+                min-height: 44px;
+            }
+        }
     }
 }

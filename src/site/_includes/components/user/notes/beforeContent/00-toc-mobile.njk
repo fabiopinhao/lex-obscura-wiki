@@ -1,0 +1,12 @@
+{#- Table of contents at the top of the entry below the desktop width (D3):
+    the side column TOC is hidden there. Same source and same rule (showToc)
+    as the side one; collapsed by default so the text starts right away. -#}
+{%- if settings.dgShowToc === true and userComputed.showToc -%}
+{%- set lexTocHtml = (content and (content | hideDataview | link | toc)) -%}
+{%- if lexTocHtml %}
+<details class="lex-toc-mobile">
+  <summary>{{ userComputed.lexStrings.tocMobile }}</summary>
+  <div class="toc-container">{{ lexTocHtml | replace('<nav class="toc">', '<nav class="lex-toc-nav">') | safe }}</div>
+</details>
+{%- endif %}
+{%- endif -%}
