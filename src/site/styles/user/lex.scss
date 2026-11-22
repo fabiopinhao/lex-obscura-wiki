@@ -862,3 +862,51 @@ body.theme-light {
         }
     }
 }
+
+/* ---------- troca de idioma repetida no rodapé (D5, 2026-11-22) ---------- */
+body.theme-dark,
+body.theme-light {
+    .lex-footer {
+        box-sizing: border-box;
+        max-width: var(--lex-col, 780px);
+        margin: 0 auto;
+        padding: 1.2em 24px 3em;
+    }
+
+    .lex-lang.lex-lang-footer {
+        float: none;
+        margin: 0;
+        justify-content: center;
+        align-items: center;
+        padding-top: 1em;
+        border-top: 1px solid var(--lex-border);
+
+        /* Fora de .content, o link herdaria o sublinhado do tema. */
+        a {
+            text-decoration: none;
+        }
+
+        .lex-lang-label {
+            min-width: 0;
+            padding-right: 0.6em;
+            color: var(--lex-muted);
+            text-transform: uppercase;
+        }
+    }
+
+    /* No desktop a coluna de texto sai do centro; o rodapé a acompanha. */
+    &.no-filetree {
+        @media (min-width: 1240px) {
+            .lex-footer {
+                margin-left: var(--lex-left);
+                margin-right: 0;
+            }
+        }
+    }
+
+    &:has(.lex-home-marker) .lex-footer {
+        max-width: 900px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

@@ -1,0 +1,15 @@
+{#- Language switch repeated at the end of the page (review of 2026-11-22,
+    D5): whoever reaches the bottom of a long entry does not need to scroll
+    back to the header to change language. Same links as the header one. -#}
+{%- if userComputed.bilingual %}
+<footer class="lex-footer">
+  <nav class="lex-lang lex-lang-footer" aria-label="{{ userComputed.ui.langLabel }}">
+    <span class="lex-lang-label">{{ userComputed.ui.langLabel }}</span>
+    {%- for l in userComputed.langs %}
+    {%- if l.current %}<span class="is-current" lang="{{ l.code }}" aria-current="true">{{ l.label }}</span>
+    {%- elif l.url %}<a href="{{ l.url }}" hreflang="{{ l.code }}" lang="{{ l.code }}">{{ l.label }}</a>
+    {%- else %}<span class="is-missing" lang="{{ l.code }}">{{ l.label }}</span>{% endif %}
+    {%- endfor %}
+  </nav>
+</footer>
+{%- endif %}
