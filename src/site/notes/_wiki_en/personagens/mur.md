@@ -4,15 +4,15 @@
 
 # Mur
 
-Mur is a veteran [[_wiki_en/racas/orc\|orc]] in [[_wiki_en/personagens/milorsevogh_velshard\|Milorsevogh Velshard]]’s guard, the muscle of a troop he sums up in a single formula: Mur breaks, [[_wiki_en/personagens/grub\|Grub]] cuts, [[_wiki_en/personagens/grothar\|Grothar]] executes. He talks more than Grub, from whom he is inseparable, philosophizes clumsily, and carries a collection of stones that he rummages through, turns between his fingers, gathers wherever he finds them, and stacks when there is nothing to break.
+Mur is a veteran [[_wiki_en/racas/orc\|orc]] in [[_wiki_en/personagens/milorsevogh_velshard\|Milorsevogh Velshard]]’s guard, the muscle of a troop in which Mur breaks, [[_wiki_en/personagens/grub\|Grub]] cuts, and [[_wiki_en/personagens/grothar\|Grothar]] executes. He talks more than Grub, from whom he is inseparable, philosophizes clumsily, and carries a collection of stones that he rummages through, turns between his fingers, gathers wherever he finds them, and stacks when there is nothing to break.
 
 ### Appearance
 
-He has a broad torso, covered in scars that tell of old campaigns. He wields a club weighing half a quintal, forged to break walls, and the weapon is almost his signature.
+He has a broad torso, covered in scars that tell of old campaigns. He wields a club weighing half a quintal, forged to break ramparts, and the weapon is almost his signature.
 
 ### Role
 
-He serves in Milor’s guard as a shock force, loyal to Grothar and the boss. He worships [[_wiki_en/panteao/thurgash\|Thûrgash]], the god of orc berserkers, and aspires to one day attain the bond ([[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]]) and the battle frenzy that Grothar already possesses; he is not yet one of the bonded.
+He comes from the [[_wiki_en/locais/kharurz\|Kharûrz]] fort, as does Grub; the two are brothers-in-arms, and it is not known whether they are brothers by blood. He serves in Milor’s guard as a shock force, loyal to Grothar and the boss. He worships [[_wiki_en/panteao/thurgash\|Thûrgash]], the god of orc berserkers, and aspires to one day attain the bond ([[_wiki_en/magia/vinculum_daemonis\|Vinculum Daemonis]]) and the battle frenzy that Grothar already possesses; he is not yet one of the bonded.
 
 ### Voice
 
@@ -26,4 +26,4 @@ Mur harbors an obsessive urge concerning elves, especially [[_wiki_en/racas/sylv
 
 ### Relationships
 
-With Grub he forms a duo with a logic of its own, two who debate kill counts as though checking a bill. Inseparability is the rule: wherever one goes, the other goes. Grothar reins them in without explicit judgment, tolerating Mur’s excesses while keeping them under watch. His authority weighs on Mur without the need for a harsh word.
+With Grub he forms a duo with a logic of its own, two who debate kill counts as though checking a tally. Inseparability is the rule: wherever one goes, the other goes. Grothar reins them in without explicit judgment, tolerating Mur’s excesses while keeping them under watch. His authority weighs on Mur without the need for a harsh word.

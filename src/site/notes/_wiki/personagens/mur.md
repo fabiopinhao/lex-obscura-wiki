@@ -4,7 +4,7 @@
 
 # Mur
 
-Mur é um [[_wiki/racas/orc\|orc]] veterano da guarda de [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]], o braço bruto de uma tropa que ele resume numa fórmula só: Mur quebra, [[_wiki/personagens/grub\|Grub]] corta, [[_wiki/personagens/grothar\|Grothar]] executa. Fala mais que o inseparável Grub, filosofa de modo atrapalhado e carrega uma coleção de pedras que revira, gira entre os dedos, recolhe onde encontra e empilha quando não há nada a quebrar.
+Mur é um [[_wiki/racas/orc\|orc]] veterano da guarda de [[_wiki/personagens/milorsevogh_velshard\|Milorsevogh Velshard]], o braço bruto de uma tropa em que Mur quebra, [[_wiki/personagens/grub\|Grub]] corta e [[_wiki/personagens/grothar\|Grothar]] executa. Fala mais que o inseparável Grub, filosofa de modo atrapalhado e carrega uma coleção de pedras que revira, gira entre os dedos, recolhe onde encontra e empilha quando não há nada a quebrar.
 
 ### Aparência
 
@@ -12,7 +12,7 @@ Tem o tronco largo, coberto de cicatrizes que contam campanhas antigas. Empunha 
 
 ### Papel
 
-Serve na guarda de Milor como força de impacto, leal a Grothar e ao chefe. Venera [[_wiki/panteao/thurgash\|Thûrgash]], o deus dos berserkers órquicos, e aspira a um dia conquistar o vínculo ([[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]]) e o frenesi de combate que Grothar já possui; ainda não é vinculado.
+Vem do forte [[_wiki/locais/kharurz\|Kharûrz]], como Grub; os dois são irmãos de armas, e de sangue não se sabe. Serve na guarda de Milor como força de impacto, leal a Grothar e ao chefe. Venera [[_wiki/panteao/thurgash\|Thûrgash]], o deus dos berserkers órquicos, e aspira a um dia conquistar o vínculo ([[_wiki/magia/vinculum_daemonis\|Vinculum Daemonis]]) e o frenesi de combate que Grothar já possui; ainda não é vinculado.
 
 ### Voz
 

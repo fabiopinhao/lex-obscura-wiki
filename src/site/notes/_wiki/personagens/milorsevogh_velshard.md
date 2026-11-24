@@ -8,7 +8,7 @@ Milorsevogh Velshard é um [[_wiki/organizacoes/justiciares\|justiciar]] recém-
 
 ### Aparência
 
-Shadar de porte ereto e presença que impõe sem precisar de violência aparente. Aparenta cerca de quarenta anos, embora a longevidade shadar esconda mais idade do que mostra. Maxilar largo, queixo projetado e um olhar predador de pálpebras baixas: o rosto impõe pela estrutura. Os olhos são de um prata metálico, frios como lâmina recém-polida, e refletem a luz sem emiti-la. Cabelo escuro. Veste a [[_wiki/artefatos/tegmen\|tegmen]] negra dos shadars de alto status, de obsidiana incrustada e runas, sobre uma capa longa e drapeada de elementos rituais. Porta no cinto o cetro [[_wiki/artefatos/spina_lexis\|Spina Lexis]] do justiciar. Sob a pele do pulso dorme uma marca sombria de [[_wiki/escolas/anatho\|Anatho]]; as veias shadars só lhe escurecem durante o uso da magia.
+Shadar de porte ereto e presença que impõe sem precisar de violência aparente. Aparenta cerca de quarenta anos, embora a longevidade shadar esconda mais idade do que mostra. Maxilar largo, queixo projetado e um olhar predador de pálpebras baixas: o rosto impõe pela estrutura. Os olhos são de um prata metálico, frios como lâmina recém-polida, e refletem a luz sem emiti-la. Cabelo escuro. Veste a [[_wiki/artefatos/tegmen\|tegmen]] negra dos shadars de alto status, de obsidiana incrustada e runas, sobre uma capa longa e drapeada de elementos rituais. Porta às costas o cetro [[_wiki/artefatos/spina_lexis\|Spina Lexis]] do justiciar. Sob a pele do pulso dorme uma marca sombria de [[_wiki/escolas/anatho\|Anatho]]; as veias shadars só lhe escurecem durante o uso da magia.
 
 ### O Método
 

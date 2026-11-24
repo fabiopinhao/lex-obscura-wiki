@@ -4,7 +4,7 @@
 
 # Elzakar
 
-Elzakar is a preceptor of the Tower of [[_wiki_en/locais/khargoth\|Khargoth]], in [[_wiki_en/locais/morvgrad\|Morvgrad]], with the rank of master arcanist and the robes of the Third of [[_wiki_en/organizacoes/circulos_de_khargoth\|the Circles of Khargoth]]. The rank indicates the level at which he teaches: the Third already manipulates forces that require decades of preparation.
+Elzakar is an old [[_wiki_en/racas/shadar\|Shadar]], a preceptor of the Tower of [[_wiki_en/locais/khargoth\|Khargoth]], in [[_wiki_en/locais/morvgrad\|Morvgrad]], with the rank of Master Arcanist and the robes of the Third of [[_wiki_en/organizacoes/circulos_de_khargoth\|the Circles of Khargoth]]. He swears by [[_wiki_en/cosmologia/vazio\|the Void]] as a devotee. The rank indicates the level at which he teaches: the Third already manipulates forces that require decades of preparation.
 
 ### Office
 
@@ -16,4 +16,4 @@ His standard is the statute, and he upholds it before those who have more power 
 
 ### The Onyx Sphere
 
-He carries an onyx [[_wiki_en/artefatos/oculus_morvgradi\|Oculus]] with him and activates it to reach Councilor [[_wiki_en/personagens/ulrik_morzenn\|Morzenn]] in light of the incident: the fall of [[_wiki_en/personagens/rhazamir\|Rhazamir]] and the proscribed invocation of [[_wiki_en/panteao/malagoth\|Malagoth]] that preceded it, a capital crime on sacred ground. The sphere remains in his hand during the confrontation that follows, ready and without glowing, and he does not put it away even after the fall is complete. The gesture depicts the position he occupies: the decision belongs to someone else, and he does not intend to make it.
+He carries an onyx [[_wiki_en/artefatos/oculus_morvgradi\|Oculus]] with him and activates it to reach Councilor [[_wiki_en/personagens/ulrik_morzenn\|Morzenn]] in light of the incident: the fall of [[_wiki_en/personagens/rhazamir\|Rhazamir]] and the proscribed invocation of Malagoth that preceded it, a capital crime on sacred ground. The sphere remains in his hand during the confrontation that follows, ready and without glowing, and he does not put it away even after the fall is complete. The gesture depicts the position he occupies: the decision belongs to someone else, and he does not intend to make it.

@@ -16,7 +16,13 @@ A cosmogonia shadar é funcional: serve para justificar a supremacia dos pactos 
 
 ### A Oração Invertida
 
-O palavrão “Vaz”, xingamento corrente entre as raças servas ([[_wiki/racas/orc\|orcs]], [[_wiki/criaturas/gnoll\|gnolls]], [[_wiki/racas/kobold\|kobolds]], druls, [[_wiki/racas/derro\|derros]] e [[_wiki/racas/worg\|worgs]]), tem raiz direta nessa cosmogonia. Para os shadars, que veem o Vazio como sagrado, é blasfêmia menor, embora às vezes lhes escape. Derivado de Vazio, carrega peso teológico sem que a maioria dos falantes perceba: a blasfêmia cotidiana de quem o pragueja é, sem que saiba, uma oração invertida. Entre as variações de uso estão “Vaz!” como praga geral, “vazado” para quem está em má situação, “que vaz é isso?”, “vai pro vaz” no sentido de ir para o inferno (literalmente, voltar à origem) e “pelos vazios!” como expressão de surpresa, que invoca o nada primordial. Mais intensa é “Vaz’kren!”, praga gritada entre dentes diante de dor ou susto agudo.
+O palavrão “Vaz”, xingamento corrente entre as raças servas ([[_wiki/racas/orc\|orcs]], [[_wiki/criaturas/gnoll\|gnolls]], [[_wiki/racas/kobold\|kobolds]], druls, [[_wiki/racas/derro\|derros]] e [[_wiki/racas/worg\|worgs]]), tem raiz direta nessa cosmogonia. Para os shadars, que veem o Vazio como sagrado, é blasfêmia menor, embora às vezes lhes escape. Derivado de Vazio, carrega peso teológico sem que a maioria dos falantes perceba: a blasfêmia cotidiana de quem o pragueja é, sem que saiba, uma oração invertida.
+
+Entre as variações de uso estão “Vaz!” como praga geral, “vazado” para quem está em má situação, “que vaz é isso?”, “vai pro vaz” no sentido de ir para o inferno (literalmente, voltar à origem) e “pelos vazios!” como expressão de surpresa, que invoca o nada primordial. A palavra também entra no meio da frase: “de vaz” rebaixa o que qualifica, como em “teatro de vaz”; “da vaz” intensifica, como em “sortudo da vaz”; e “onde vaz…?” carrega uma pergunta de impaciência. Dirigida a alguém, vira xingamento (“esse vaz de diabo”) ou imprecação (“vaz esse…”), e quem aposta contra o próprio palpite diz “que os vazios me engulam”. Mais intensa é “Vaz’kren!”, praga gritada entre dentes diante de dor ou susto agudo. O grau máximo é “resto de vaz”, que xinga a origem: faz do alvo, ou de quem o diz contra si mesmo, um resíduo do Vazio, e repete sem saber a cosmogonia em que a matéria é o defeito que sobrou.
+
+A entonação regula a força da praga: sussurrada, expressa frustração; gritada, invoca fúria. Na boca dos falantes, o gênero da palavra oscila, e tanto se diz “pro vaz” quanto “da vaz”.
+
+Entre os shadars, que o têm por sagrado, o Vazio aparece em juras. “Pelo Vazio!” é a fórmula do devoto, que invoca o sagrado em lugar de rebaixá-lo, como faz a praga das raças servas.
 
 ### O Dia do Vazio
 
@@ -28,4 +34,4 @@ No plano material, o Vazio manifesta-se como energia ativa. Sua expressão regio
 
 ### Camadas Simultâneas
 
-O Vazio opera em múltiplos registros que se alimentam mutuamente: cosmogônico, como origem do universo na tradição sombria; teológico-político, como justificativa da supremacia diabólica e do Império; linguístico, como blasfêmia cotidiana que ecoa teologia de forma inconsciente; calendárico, no Nullis como marco ritual; metafísico, como força ativa no mundo via Manto das Sombras e Mácula; e pessoal, como marca individual em Gaelwyn.
+O Vazio opera em múltiplos registros que se alimentam mutuamente: cosmogônico, como origem do universo na tradição sombria; teológico-político, como justificativa da supremacia diabólica e do Império; linguístico, como blasfêmia cotidiana que ecoa teologia de forma inconsciente e, na boca shadar, como jura devota; calendárico, no Nullis como marco ritual; metafísico, como força ativa no mundo via Manto das Sombras e Mácula; e pessoal, como marca individual em Gaelwyn.

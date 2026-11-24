@@ -16,7 +16,13 @@ Shadar cosmogony is functional: it serves to justify the supremacy of diabolical
 
 ### The Inverted Prayer
 
-The swear word “Vaz,” an insult common among the servant races ([[_wiki_en/racas/orc\|orcs]], [[_wiki_en/criaturas/gnoll\|gnolls]], [[_wiki_en/racas/kobold\|kobolds]], Druls, [[_wiki_en/racas/derro\|Derros]], and [[_wiki_en/racas/worg\|worgs]]), has its roots directly in this cosmogony. For the Shadars, who see the Void as sacred, it is a minor blasphemy, though it sometimes slips out of their mouths. Derived from Vazio, the Void, it carries theological weight without most speakers realizing it: the everyday blasphemy of those who use it as a curse is, unbeknownst to them, an inverted prayer. Variations in usage include “Vaz!” as a general curse, “vazzed” for someone in a bad situation, “what the vaz is this?”, “go to vaz” in the sense of going to hell (literally, returning to the origin), and “by the voids!” as an expression of surprise, invoking primordial nothingness. More intense is “Vaz’kren!”, a curse shouted through clenched teeth in the face of pain or acute fright.
+The swear word “Vaz,” an insult common among the servant races ([[_wiki_en/racas/orc\|orcs]], [[_wiki_en/criaturas/gnoll\|gnolls]], [[_wiki_en/racas/kobold\|kobolds]], Druls, [[_wiki_en/racas/derro\|Derros]], and [[_wiki_en/racas/worg\|worgs]]), has its roots directly in this cosmogony. For the Shadars, who see the Void as sacred, it is a minor blasphemy, though it sometimes slips out of their mouths. Derived from Vazio, the Void, it carries theological weight without most speakers realizing it: the everyday blasphemy of those who use it as a curse is, unbeknownst to them, an inverted prayer.
+
+Variations in usage include “Vaz!” as a general curse, “vazzed” for someone in a bad situation, “what the vaz is this?”, “go to vaz” in the sense of going to hell (literally, returning to the origin), and “by the voids!” as an expression of surprise, invoking primordial nothingness. The word also appears in the middle of a sentence: “vazzing” disparages what it modifies, as in “vazzing theater”; “vaz” used as an adjective intensifies, as in “lucky vaz bastard”; and “where the vaz…?” lends impatience to a question. Directed at someone, it becomes an insult (“that vaz of a devil”) or an imprecation (“vaz that…”), and someone who bets against their own hunch says “may the voids swallow me.” More intense is “Vaz’kren!”, a curse shouted through clenched teeth in the face of pain or acute fright. The strongest form is “dregs of the vaz,” an insult to one’s origin: it makes the target, or the speaker who uses it against themselves, a residue of the Void, and unwittingly repeats the cosmogony in which matter is the defect left over.
+
+Intonation governs the force of the curse: whispered, it expresses frustration; shouted, it invokes fury.
+
+Among the Shadars, who hold it sacred, the Void appears in oaths. “By the Void!” is the devotee’s formula, invoking the sacred rather than debasing it, as the curse of the servant races does.
 
 ### The Day of the Void
 
@@ -28,4 +34,4 @@ On the material plane, the Void manifests as active energy. Its regional express
 
 ### Simultaneous Layers
 
-The Void operates in multiple registers that feed one another: cosmogonic, as the origin of the universe in the shadow tradition; theological-political, as justification for diabolical supremacy and the Empire; linguistic, as everyday blasphemy that unconsciously echoes theology; calendrical, in Nullis as a ritual marker; metaphysical, as an active force in the world through the Mantle of Shadows and the Taint; and personal, as an individual mark in Gaelwyn.
+The Void operates in multiple registers that feed one another: cosmogonic, as the origin of the universe in the shadow tradition; theological-political, as justification for diabolical supremacy and the Empire; linguistic, as everyday blasphemy that unconsciously echoes theology and, in Shadar speech, as a devout oath; calendrical, in Nullis as a ritual marker; metaphysical, as an active force in the world through the Mantle of Shadows and the Taint; and personal, as an individual mark in Gaelwyn.

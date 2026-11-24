@@ -4,7 +4,7 @@
 
 # Myrgarde
 
-Myrgarde é a antiga capital humana de [[_wiki/locais/reinkard\|Reinkard]], que se proclamava “Império de Reinkard, Capital dos Homens”. No auge, esteve para o seu tempo como [[_wiki/locais/morvgrad\|Morvgrad]] está para o presente: era a capital imperial. O Império Central, dominado por humanos e ainda assim multicultural e cosmopolita, teve nela o seu centro e, ao fim, o seu último bastião; “Império Central” era o nome corrente do domínio que ela comandava. Foi a última cidade humana do continente a tombar nas Guerras Reinkárdicas, resistindo a um cerco de pelo menos três anos antes de submeter-se ao [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Hoje subjugada, sua população [[_wiki/racas/pindoriar\|pindoriar]] vive sob vigilância, e a Marca de Myrgarde, estigma queimado a ferro, arde no peito dos condenados à morte.
+Myrgarde é a antiga capital humana de [[_wiki/locais/reinkard\|Reinkard]], que se proclamava “Império de Reinkard, Capital dos Homens”. No auge, esteve para o seu tempo como [[_wiki/locais/morvgrad\|Morvgrad]] está para o presente: era a capital imperial. O Império Central, dominado por humanos e ainda assim multicultural e cosmopolita, teve nela o seu centro e, ao fim, o seu último bastião; “Império Central” era o nome corrente do domínio que ela comandava. Foi a última cidade humana do continente a tombar nas Guerras Reinkárdicas, resistindo a um cerco de pelo menos três anos antes de submeter-se ao [[_wiki/organizacoes/imperio_sombrio\|Império Sombrio]]. Hoje subjugada, sua população [[_wiki/racas/pindoriar\|pindoriar]] vive sob vigilância, e a Marca de Myrgarde, estigma queimado a ferro, arde na base do pescoço dos condenados à morte.
 
 ### A Cidade
 
